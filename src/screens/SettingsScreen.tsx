@@ -344,7 +344,7 @@ export const SettingsScreen: React.FC<SettingsScreenProps> = ({ navigation }) =>
     return unsubscribe;
   }, [navigation, isDirty, handleSave]);
 
-  const PRIVACY_POLICY_URL = 'https://gist.github.com/Siam-449840/a4d6a1f86d6a7013b96de354b72a5307';
+  const PRIVACY_POLICY_URL = 'https://siam-449840.github.io/muzakkir/';
 
   const navLink = (label: string, icon: React.ReactNode, screenName: string) => (
     <Pressable

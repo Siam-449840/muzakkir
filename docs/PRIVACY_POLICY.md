@@ -82,5 +82,5 @@ We may periodically update this Privacy Policy to reflect technical or legal imp
 If you have any questions, suggestions, or concerns regarding this Privacy Policy or our data practices, please reach out to us:
 
 - **Developer:** Muzakkir Developer Team  
-- **Email:** `privacy@muzakkir.app` (or contact via our official repository / developer listing on Google Play)  
-- **Official Repository / Documentation:** `https://github.com/ishtiaque-ibn-malek/muzakkir`  
+- **Email:** `ishtiaqueibnmalek@gmail.com` (or contact via our official repository / developer listing on Google Play)  
+- **Official Repository / Documentation:** `https://github.com/Siam-449840/muzakkir`  
