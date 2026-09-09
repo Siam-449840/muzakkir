@@ -1,0 +1,1685 @@
+{
+  "surah": 89,
+  "verses": [
+    {
+      "content_id": "quran_089_001",
+      "reference": {
+        "surah_number": 89,
+        "surah_name": "Al-Fajr",
+        "surah_name_ar": "سُوْرَةُ الْفَجْرِ",
+        "surah_name_translation": "The Dawn",
+        "ayah_number": 1,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 1,
+      "translations": {
+        "ar": {
+          "text": "وَٱلۡفَجۡرِ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "By the dawn",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "誓以黎明，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "साक्षी है उषाकाल",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Juro por la Aurora",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Par l'Aube",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "শপথ ফজরের,",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Pela aurora",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Клянусь зарею",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "فجر کی قسم",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_089_002",
+      "reference": {
+        "surah_number": 89,
+        "surah_name": "Al-Fajr",
+        "surah_name_ar": "سُوْرَةُ الْفَجْرِ",
+        "surah_name_translation": "The Dawn",
+        "ayah_number": 2,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 2,
+      "translations": {
+        "ar": {
+          "text": "وَلَيَالٍ عَشۡرࣲ‏",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "and the ten nights",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "与十夜，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "साक्षी है दस रातें",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "por las diez noches",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Et par les dix nuits",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "শপথ দশ রাত্রির, শপথ তার,",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E pelas dez noites",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Клянусь десятью ночами",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور دس راتوں کی",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_089_003",
+      "reference": {
+        "surah_number": 89,
+        "surah_name": "Al-Fajr",
+        "surah_name_ar": "سُوْرَةُ الْفَجْرِ",
+        "surah_name_translation": "The Dawn",
+        "ayah_number": 3,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 2,
+      "translations": {
+        "ar": {
+          "text": "وَٱلشَّفۡعِ وَٱلۡوَتۡرِ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "and the even and the odd",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "与偶数和奇数，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "साक्षी है युग्म और अयुग्म",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "por [las oraciones] pares e impares",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Par le pair et l'impair",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "যা জোড় ও যা বিজোড়",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Pelo par e pelo ímpar",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Клянусь четом и нечетом",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور جفت اور طاق کی",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_089_004",
+      "reference": {
+        "surah_number": 89,
+        "surah_name": "Al-Fajr",
+        "surah_name_ar": "سُوْرَةُ الْفَجْرِ",
+        "surah_name_translation": "The Dawn",
+        "ayah_number": 4,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 3,
+      "translations": {
+        "ar": {
+          "text": "وَٱلَّيۡلِ إِذَا يَسۡرِ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "and the night when it passes",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "与离去的黑夜，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "साक्षी है रात जब वह विदा हो रही हो",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "y por la noche cuando transcurre",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Et par la nuit quand elle s'écoule",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "এবং শপথ রাত্রির যখন তা গত হতে থাকে",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E pela noite, quando se escoa",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Клянусь ночью, когда она проходит",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور رات کی جب جانے لگے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_089_005",
+      "reference": {
+        "surah_number": 89,
+        "surah_name": "Al-Fajr",
+        "surah_name_ar": "سُوْرَةُ الْفَجْرِ",
+        "surah_name_translation": "The Dawn",
+        "ayah_number": 5,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 6,
+      "translations": {
+        "ar": {
+          "text": "هَلۡ فِي ذَٰلِكَ قَسَمࣱ لِّذِي حِجۡرٍ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Is all this ˹not˺ a sufficient oath for those who have sense",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "对於有理智者，此中有一种盟誓吗？",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "क्या इसमें बुद्धिमान के लिए बड़ी गवाही है",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "¿Acaso no son estos juramentos [argumentos suficientes sobre el poder de Dios] para los dotados de intelecto",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "N'est-ce pas là un serment, pour un doué d'intelligence",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "এর মধ্যে আছে শপথ জ্ঞানী ব্যক্তির জন্যে।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Há nisso um juramento para quem de bom senso",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Неужели этих клятв не достаточно для обладающего разумом",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور بے شک یہ چیزیں عقلمندوں کے نزدیک قسم کھانے کے لائق ہیں کہ (کافروں کو ضرور عذاب ہو گا)",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_089_006",
+      "reference": {
+        "surah_number": 89,
+        "surah_name": "Al-Fajr",
+        "surah_name_ar": "سُوْرَةُ الْفَجْرِ",
+        "surah_name_translation": "The Dawn",
+        "ayah_number": 6,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 6,
+      "translations": {
+        "ar": {
+          "text": "أَلَمۡ تَرَ كَيۡفَ فَعَلَ رَبُّكَ بِعَادٍ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Did you not see how your Lord dealt with ’Ȃd—",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "难道你不知道你的主怎样惩治阿德人",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "क्या तुमने देखा नहीं कि तुम्हारे रब ने क्या किया आद के साथ",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "¿No has visto cómo tu Señor castigó al pueblo de ‘Ád",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "N'as-tu pas vu comment ton Seigneur a agi avec les 'Aad",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "আপনি কি লক্ষ্য করেননি, আপনার পালনকর্তা আদ বংশের ইরাম গোত্রের সাথে কি আচরণ করেছিলেন,",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Não viste como teu Senhor agiu com o povo de Ãd",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Неужели ты не видел, как Господь твой поступил с адитами",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "کیا تم نے نہیں دیکھا کہ تمہارے پروردگار نے عاد کے ساتھ کیا کیا",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_089_007",
+      "reference": {
+        "surah_number": 89,
+        "surah_name": "Al-Fajr",
+        "surah_name_ar": "سُوْرَةُ الْفَجْرِ",
+        "surah_name_translation": "The Dawn",
+        "ayah_number": 7,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 3,
+      "translations": {
+        "ar": {
+          "text": "إِرَمَ ذَاتِ ٱلۡعِمَادِ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "˹the people˺ of Iram—with ˹their˺ great stature",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "有高柱的伊赖姆人吗？",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "स्तम्भों वाले 'इरम' के साथ",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "en Iram?, el de las [construcciones con grandes] columnas",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "[avec] Iram, [la cité] à la colonne remarquable",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "যাদের দৈহিক গঠন স্তম্ভ ও খুঁটির ন্যায় দীর্ঘ ছিল এবং",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Com Iram das colunas",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "народом Ирама, обладавшим колоннами (воздвигавшим высокие здания с колоннами или обладавшим могучим сложением и огромной силой)",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "(جو) ارم (کہلاتے تھے اتنے) دراز قد",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_089_008",
+      "reference": {
+        "surah_number": 89,
+        "surah_name": "Al-Fajr",
+        "surah_name_ar": "سُوْرَةُ الْفَجْرِ",
+        "surah_name_translation": "The Dawn",
+        "ayah_number": 8,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 6,
+      "translations": {
+        "ar": {
+          "text": "ٱلَّتِي لَمۡ يُخۡلَقۡ مِثۡلُهَا فِي ٱلۡبِلَٰدِ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "unmatched in any other land",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "像那样的人，在别的城市里还没有被创造过的",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "वे ऐसे थे जिनके सदृश बस्तियों में पैदा नहीं हुए",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "que no tenía similar entre los otros pueblos [en su opulencia]",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "dont jamais pareille ne fut construite parmi les villes",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "যাদের সমান শক্তি ও বলবীর্যে সারা বিশ্বের শহরসমূহে কোন লোক সৃজিত হয়নি",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Igual à qual nada foi criado, nas cidades",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "подобных которому не было сотворено в городах",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "کہ تمام ملک میں ایسے پیدا نہیں ہوئے تھے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_089_009",
+      "reference": {
+        "surah_number": 89,
+        "surah_name": "Al-Fajr",
+        "surah_name_ar": "سُوْرَةُ الْفَجْرِ",
+        "surah_name_translation": "The Dawn",
+        "ayah_number": 9,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 5,
+      "translations": {
+        "ar": {
+          "text": "وَثَمُودَ ٱلَّذِينَ جَابُواْ ٱلصَّخۡرَ بِٱلۡوَادِ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "and Thamûd who carved ˹their homes into˺ the rocks in the ˹Stone˺ Valley",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "怎样惩治在山谷里凿石为家的赛莫德人，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "और समूद के साथ, जिन्होंने घाटी में चट्टाने तराशी थी",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Y al pueblo de Zamud, que esculpieron sus casas en las montañas rocosas del valle",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "et avec les Thamûd qui taillaient le rocher dans la vallée",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "এবং সামুদ গোত্রের সাথে, যারা উপত্যকায় পাথর কেটে গৃহ নির্মাণ করেছিল।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E com o povo de Thamud, que escavou os rochedos, no vale",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "С самудянами, рассекавшими скалы в лощине",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور ثمود کے ساتھ (کیا کیا) جو وادئِ (قریٰ) میں پتھر تراشتے تھے (اور گھر بناتے) تھے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_089_010",
+      "reference": {
+        "surah_number": 89,
+        "surah_name": "Al-Fajr",
+        "surah_name_ar": "سُوْرَةُ الْفَجْرِ",
+        "surah_name_translation": "The Dawn",
+        "ayah_number": 10,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 3,
+      "translations": {
+        "ar": {
+          "text": "وَفِرۡعَوۡنَ ذِي ٱلۡأَوۡتَادِ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "and the Pharaoh of mighty structures",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "怎样惩治有武力的法老。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "और मेखोवाले फ़िरऔन के साथ",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Y al Faraón, el de las estacas",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "ainsi qu'avec Pharaon, l'homme aux épieux",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "এবং বহু কীলকের অধিপতি ফেরাউনের সাথে",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E com Faraó das estacas",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "С Фараоном, владевшим кольями (обладавшим множеством воинов, которые поддерживали его власть, подобно тому, как колышки поддерживают шатер, или привязывавшим людей к кольям во время казни)",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور فرعون کے ساتھ (کیا کیا) جو خیمے اور میخیں رکھتا تھا",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_089_011",
+      "reference": {
+        "surah_number": 89,
+        "surah_name": "Al-Fajr",
+        "surah_name_ar": "سُوْرَةُ الْفَجْرِ",
+        "surah_name_translation": "The Dawn",
+        "ayah_number": 11,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 4,
+      "translations": {
+        "ar": {
+          "text": "ٱلَّذِينَ طَغَوۡاْ فِي ٱلۡبِلَٰدِ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "They all transgressed throughout the land",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "这等人曾在国中放肆，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "वे लोग कि जिन्होंने देशो में सरकशी की",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Todos ellos fueron tiranos con los pueblos",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Tous, étaient des gens qui transgressaient dans [leurs] pays",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "যারা দেশে সীমালঙ্ঘন করেছিল।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "São eles que cometeram transgressão nos países deles",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Они преступали границы дозволенного на земле",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "یہ لوگ ملکوں میں سرکش ہو رہے تھے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_089_012",
+      "reference": {
+        "surah_number": 89,
+        "surah_name": "Al-Fajr",
+        "surah_name_ar": "سُوْرَةُ الْفَجْرِ",
+        "surah_name_translation": "The Dawn",
+        "ayah_number": 12,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 3,
+      "translations": {
+        "ar": {
+          "text": "فَأَكۡثَرُواْ فِيهَا ٱلۡفَسَادَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "spreading much corruption there",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "乃多行不义，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "और उनमें बहुत बिगाड़ पैदा किया",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "sembrando la corrupción",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "et y avaient commis beaucoup de désordre",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "অতঃপর সেখানে বিস্তর অশান্তি সৃষ্টি করেছিল।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E, neles, multiplicaram a corrupção",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "и распространяли в них много нечестия",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور ان میں بہت سی خرابیاں کرتے تھے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_089_013",
+      "reference": {
+        "surah_number": 89,
+        "surah_name": "Al-Fajr",
+        "surah_name_ar": "سُوْرَةُ الْفَجْرِ",
+        "surah_name_translation": "The Dawn",
+        "ayah_number": 13,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 5,
+      "translations": {
+        "ar": {
+          "text": "فَصَبَّ عَلَيۡهِمۡ رَبُّكَ سَوۡطَ عَذَابٍ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "So your Lord unleashed on them a scourge of punishment",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "故你的主把一种刑罚，倾注在他们身上。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "अततः तुम्हारे रब ने उनपर यातना का कोड़ा बरसा दिया",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Pero como consecuencia de eso tu Señor los azotó con un castigo",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Donc, ton Seigneur déversa sur eux un fouet du châtiment",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "অতঃপর আপনার পালনকর্তা তাদেরকে শাস্তির কশাঘাত করলেন।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Então, teu Senhor entornou sobre eles vários tipos de castigo",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Тогда твой Господь пролил на них бич мучений",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "تو تمہارے پروردگار نے ان پر عذاب کا کوڑا نازل کیا",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_089_014",
+      "reference": {
+        "surah_number": 89,
+        "surah_name": "Al-Fajr",
+        "surah_name_ar": "سُوْرَةُ الْفَجْرِ",
+        "surah_name_translation": "The Dawn",
+        "ayah_number": 14,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 3,
+      "translations": {
+        "ar": {
+          "text": "إِنَّ رَبَّكَ لَبِٱلۡمِرۡصَادِ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "˹For˺ your Lord is truly vigilant",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "你的主，确是监视的。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "निस्संदेह तुम्हारा रब घात में रहता है",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "tu Señor está atento [a las acciones de la gente]",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Car ton Seigneur demeure aux aguets",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "নিশ্চয় আপনার পালকর্তা সতর্ক দৃষ্টি রাখেন।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Por certo, teu Senhor está sempre à espreita",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Воистину, твой Господь - в засаде (предоставляет отсрочку грешникам, чтобы затем неожиданно наказать их за ослушание)",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "بے شک تمہارا پروردگار تاک میں ہے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_089_015",
+      "reference": {
+        "surah_number": 89,
+        "surah_name": "Al-Fajr",
+        "surah_name_ar": "سُوْرَةُ الْفَجْرِ",
+        "surah_name_translation": "The Dawn",
+        "ayah_number": 15,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 11,
+      "translations": {
+        "ar": {
+          "text": "فَأَمَّا ٱلۡإِنسَٰنُ إِذَا مَا ٱبۡتَلَىٰهُ رَبُّهُۥ فَأَكۡرَمَهُۥ وَنَعَّمَهُۥ فَيَقُولُ رَبِّيٓ أَكۡرَمَنِ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Now, whenever a human being is tested by their Lord through ˹His˺ generosity and blessings, they boast, “My Lord has ˹deservedly˺ honoured me!”",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "至於人，当他的主考验他，故优待他，而且使他过安逸生活的时候，他说：我的主优待我了。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "किन्तु मनुष्य का हाल यह है कि जब उसका रब इस प्रकार उसकी परीक्षा करता है कि उसे प्रतिष्ठा और नेमत प्रदान करता है, तो वह कहता है, \"मेरे रब ने मुझे प्रतिष्ठित किया।",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "El ser humano, cuando su Señor lo agracia, dice: \"Mi Señor me ha honrado [porque lo merezco]",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Quant à l'homme, lorsque son Seigneur l'éprouve en l'honorant et en le comblant de bienfaits, il dit: «Mon Seigneur m'a honoré»",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "মানুষ এরূপ যে, যখন তার পালনকর্তা তাকে পরীক্ষা করেন, অতঃপর সম্মান ও অনুগ্রহ দান করেন, তখন বলে, আমার পালনকর্তা আমাকে সম্মান দান করেছেন।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Então, quanto ao ser humano, quando seu Senhor o põe à prova, e o honra, e o agracia, diz: \"Meu Senhor honra-me",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Когда Господь испытывает человека, оказывая ему милость и одаряя его благами, тот говорит: «Господь мой почтил меня!»",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "مگر انسان (عجیب مخلوق ہے کہ) جب اس کا پروردگار اس کو آزماتا ہے تو اسے عزت دیتا اور نعمت بخشتا ہے۔ تو کہتا ہے کہ (آہا) میرے پروردگار نے مجھے عزت بخشی",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_089_016",
+      "reference": {
+        "surah_number": 89,
+        "surah_name": "Al-Fajr",
+        "surah_name_ar": "سُوْرَةُ الْفَجْرِ",
+        "surah_name_translation": "The Dawn",
+        "ayah_number": 16,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 10,
+      "translations": {
+        "ar": {
+          "text": "وَأَمَّآ إِذَا مَا ٱبۡتَلَىٰهُ فَقَدَرَ عَلَيۡهِ رِزۡقَهُۥ فَيَقُولُ رَبِّيٓ أَهَٰنَنِ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "But when He tests them by limiting their provision, they protest, “My Lord has ˹undeservedly˺ humiliated me!”",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "当他考验他，故节约他的给养的时候，他说：我的主凌辱我了。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "किन्तु जब कभी वह उसकी परीक्षा इस प्रकार करता है कि उसकी रोज़ी नपी-तुली कर देता है, तो वह कहता है, \"मेरे रब ने मेरा अपमान किया।",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "En cambio cuando lo pone a prueba restringiendo su sustento, dice: \"Mi Señor me ha despreciado [y no ha tenido en cuenta mis méritos]",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Mais par contre, quand Il l'éprouve en lui restreignant sa subsistance, il dit: «Mon Seigneur m'a avili»",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "এবং যখন তাকে পরীক্ষা করেন, অতঃপর রিযিক সংকুচিত করে দেন, তখন বলেঃ আমার পালনকর্তা আমাকে হেয় করেছেন।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E, quando o põe à prova e lhe restringe o sustento, diz: \"Meu Senhor avilta-me",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Когда же Он испытывает его, ограничивая его в пропитании, тот говорит: «Господь мой унизил меня!»",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور جب (دوسری طرح) آزماتا ہے کہ اس پر روزی تنگ کر دیتا ہے تو کہتا ہے کہ (ہائے) میرے پروردگار نے مجھے ذلیل کیا",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_089_017",
+      "reference": {
+        "surah_number": 89,
+        "surah_name": "Al-Fajr",
+        "surah_name_ar": "سُوْرَةُ الْفَجْرِ",
+        "surah_name_translation": "The Dawn",
+        "ayah_number": 17,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 5,
+      "translations": {
+        "ar": {
+          "text": "كَلَّاۖ بَل لَّا تُكۡرِمُونَ ٱلۡيَتِيمَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Absolutely not! In fact, you are not ˹even˺ gracious to the orphan",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "绝不然！但你们不优待孤儿，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "कदापि नहीं, बल्कि तुम अनाथ का सम्मान नहीं करते",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "¡Pero no! No han comprendido el verdadero significado de las pruebas [de la riqueza y la pobreza] y por eso no son generosos con el huérfano",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Mais non! C'est vous plutôt, qui n'êtes pas généreux envers les orphelins",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "এটা অমূলক, বরং তোমরা এতীমকে সম্মান কর না।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Em absoluto, isso não é certo! Mas, vós não honrais o órfão",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Но нет! Вы же сами не почитаете сироту",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "نہیں بلکہ تم لوگ یتیم کی خاطر نہیں کرتے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_089_018",
+      "reference": {
+        "surah_number": 89,
+        "surah_name": "Al-Fajr",
+        "surah_name_ar": "سُوْرَةُ الْفَجْرِ",
+        "surah_name_translation": "The Dawn",
+        "ayah_number": 18,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 5,
+      "translations": {
+        "ar": {
+          "text": "وَلَا تَحَٰٓضُّونَ عَلَىٰ طَعَامِ ٱلۡمِسۡكِينِ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "nor do you urge one another to feed the poor",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "你们不以济贫相勉励，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "और न मुहताज को खिलान पर एक-दूसरे को उभारते हो",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "ni exhortan unos a otros a alimentar al pobre",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "qui ne vous incitez pas mutuellement à nourrir le pauvre",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "এবং মিসকীনকে অন্নদানে পরস্পরকে উৎসাহিত কর না।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E não vos incitais, mutuamente, a alimentar o necessitado",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "не побуждаете друг друга кормить бедняка",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور نہ مسکین کو کھانا کھلانے کی ترغیب دیتے ہو",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_089_019",
+      "reference": {
+        "surah_number": 89,
+        "surah_name": "Al-Fajr",
+        "surah_name_ar": "سُوْرَةُ الْفَجْرِ",
+        "surah_name_translation": "The Dawn",
+        "ayah_number": 19,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 6,
+      "translations": {
+        "ar": {
+          "text": "وَتَأۡكُلُونَ ٱلتُّرَاثَ أَكۡلࣰ ا لَّمࣰّ ا",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "And you devour ˹others’˺ inheritance greedily",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "你们侵吞遗产，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "और सारी मीरास समेटकर खा जाते हो",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "[En lugar de eso] se apropian codiciosamente de los bienes del prójimo",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "qui dévorez l'héritage avec une avidité vorace",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "এবং তোমরা মৃতের ত্যাজ্য সম্পত্তি সম্পূর্ণরূপে কুক্ষিগত করে ফেল",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E devorais as heranças com indiscriminada voracidade",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "жадно (или целиком) пожираете наследство",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور میراث کے مال سمیٹ کر کھا جاتے ہو",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_089_020",
+      "reference": {
+        "surah_number": 89,
+        "surah_name": "Al-Fajr",
+        "surah_name_ar": "سُوْرَةُ الْفَجْرِ",
+        "surah_name_translation": "The Dawn",
+        "ayah_number": 20,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 6,
+      "translations": {
+        "ar": {
+          "text": "وَتُحِبُّونَ ٱلۡمَالَ حُبࣰّ ا جَمࣰّ ا",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "and love wealth fervently",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "你们酷爱钱财。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "और धन से उत्कट प्रेम रखते हो",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "y son insaciables en su amor [y codicia] por el dinero",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "et aimez les richesses d'un amour sans bornes",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "এবং তোমরা ধন-সম্পদকে প্রাণভরে ভালবাস।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E amais as riquezas, com excessivo amor",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "и страстно любите богатство",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور مال کو بہت ہی عزیز رکھتے ہو",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_089_021",
+      "reference": {
+        "surah_number": 89,
+        "surah_name": "Al-Fajr",
+        "surah_name_ar": "سُوْرَةُ الْفَجْرِ",
+        "surah_name_translation": "The Dawn",
+        "ayah_number": 21,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 8,
+      "translations": {
+        "ar": {
+          "text": "كَلَّآۖ إِذَا دُكَّتِ ٱلۡأَرۡضُ دَكࣰّ ا دَكࣰّ ا",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Enough! When the earth is entirely crushed over and over",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "绝不然！当大地震动复震动，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "कुछ नहीं, जब धरती कूट-कूटकर चुर्ण-विचुर्ण कर दी जाएगी",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "¡Basta! [Piensen en cuál será su destino] cuando la Tierra sea golpeada una y otra vez",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Prenez garde! Quand la terre sera complètement pulvérisée",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "এটা অনুচিত। যখন পৃথিবী চুর্ণ-বিচুর্ণ হবে",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Em absoluto, isso não é certo! Quando a terra for pulverizada, pulvérea, pulvereamente",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Но нет! Когда земля разобьется и превратится в песок",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "تو جب زمین کی بلندی کوٹ کوٹ کو پست کر دی جائے گی",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_089_022",
+      "reference": {
+        "surah_number": 89,
+        "surah_name": "Al-Fajr",
+        "surah_name_ar": "سُوْرَةُ الْفَجْرِ",
+        "surah_name_translation": "The Dawn",
+        "ayah_number": 22,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 7,
+      "translations": {
+        "ar": {
+          "text": "وَجَآءَ رَبُّكَ وَٱلۡمَلَكُ صَفࣰّ ا صَفࣰّ ا",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "and your Lord comes ˹to judge˺ with angels, rank upon rank",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "你的主的命令，和排班的天神，同齐来临的时候，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "और तुम्हारा रब और फ़रिश्ता (बन्दों की) एक-एक पंक्ति के पास आएगा",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "y llegue su Señor y se presenten los ángeles en fila tras fila",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "et que ton Seigneur viendra ainsi que les Anges, rang par rang",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "এবং আপনার পালনকর্তা ও ফেরেশতাগণ সারিবদ্ধভাবে উপস্থিত হবেন,",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E teu Senhor chegar, e os anjos, em fileiras após fileiras",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "и твой Господь придет с ангелами, выстроившимися рядами",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور تمہارا پروردگار (جلوہ فرما ہو گا) اور فرشتے قطار باندھ باندھ کر آ موجود ہوں گے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_089_023",
+      "reference": {
+        "surah_number": 89,
+        "surah_name": "Al-Fajr",
+        "surah_name_ar": "سُوْرَةُ الْفَجْرِ",
+        "surah_name_translation": "The Dawn",
+        "ayah_number": 23,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 9,
+      "translations": {
+        "ar": {
+          "text": "وَجِاْيٓءَ يَوۡمَئِذِۭ بِجَهَنَّمَۚ يَوۡمَئِذࣲ يَتَذَكَّرُ ٱلۡإِنسَٰنُ وَأَنَّىٰ لَهُ ٱلذِّكۡرَىٰ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "and Hell is brought forth on that Day—this is when every ˹disbelieving˺ person will remember ˹their own sins˺. But what is the use of remembering then",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "在那日，火狱将被拿来；在那日，人将觉悟，但觉悟於他有何裨益呢？",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "और जहन्नम को उस दिन लाया जाएगा, उस दिन मनुष्य चेतेगा, किन्तु कहाँ है उसके लिए लाभप्रद उस समय का चेतना",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "y sea traído el Infierno. Ese día el hombre recordará sus obras, pero de nada le servirá",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "et que ce jour-là, on amènera l'Enfer; ce jour-là, l'homme se rappellera. Mais à quoi lui servira de se souvenir",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "এবং সেদিন জাহান্নামকে আনা হবে, সেদিন মানুষ স্মরণ করবে, কিন্তু এই স্মরণ তার কি কাজে আসবে?",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E for trazida, nesse dia, a Geena; nesse dia, o ser humano lembrar-se-á de seu erro. E como a lembrança haverá de beneficiá-lo",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "в тот день приведут Геенну, и тогда человек помянет назидание. Но к чему такое поминание",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور دوزخ اس دن حاضر کی جائے گی تو انسان اس دن متنبہ ہو گا مگر تنبہ (سے) اسے (فائدہ) کہاں (مل سکے گا)",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_089_024",
+      "reference": {
+        "surah_number": 89,
+        "surah_name": "Al-Fajr",
+        "surah_name_ar": "سُوْرَةُ الْفَجْرِ",
+        "surah_name_translation": "The Dawn",
+        "ayah_number": 24,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 4,
+      "translations": {
+        "ar": {
+          "text": "يَقُولُ يَٰلَيۡتَنِي قَدَّمۡتُ لِحَيَاتِي",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "They will cry, “I wish I had sent forth ˹something good˺ for my ˹true˺ life.”",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "他将说：但愿我在世的时候曾行善事。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "वह कहेगा, \"ऐ काश! मैंने अपने जीवन के लिए कुछ करके आगे भेजा होता।",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Y dirá lamentándose: \"¡Ojalá hubiera realizado buenas obras para mi vida [del más allá]",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Il dira: «Hélas! Que n'ai-je fait du bien pour ma vie future",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "সে বলবেঃ হায়, এ জীবনের জন্যে আমি যদি কিছু অগ্রে প্রেরণ করতাম!",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Dirá ele: \"Quem dera houvesse eu antecipado as boas obras a minha vida",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Он скажет: «Эх, если бы я заранее позаботился о своей жизни!»",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "کہے گا کاش میں نے اپنی زندگی (جاودانی کے لیے) کچھ آگے بھیجا ہوتا",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_089_025",
+      "reference": {
+        "surah_number": 89,
+        "surah_name": "Al-Fajr",
+        "surah_name_ar": "سُوْرَةُ الْفَجْرِ",
+        "surah_name_translation": "The Dawn",
+        "ayah_number": 25,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 5,
+      "translations": {
+        "ar": {
+          "text": "فَيَوۡمَئِذࣲ لَّا يُعَذِّبُ عَذَابَهُۥٓ أَحَدࣱ‏",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "On that Day He will punish ˹them˺ severely, like no other",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "在那日，任何人，不用他的那种刑罚惩治别人；",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "फिर उस दिन कोई नहीं जो उसकी जैसी यातना दे",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Sepan que nadie ha castigado como Él castigará ese día",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Ce jour-là donc, nul ne saura châtier comme Lui châtie",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "সেদিন তার শাস্তির মত শাস্তি কেউ দিবে না।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Então, nesse dia, ninguém castigará como Seu castigar",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "В тот день никто не причинит таких мучений, как Он",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "تو اس دن نہ کوئی خدا کے عذاب کی طرح کا (کسی کو) عذاب دے گا",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_089_026",
+      "reference": {
+        "surah_number": 89,
+        "surah_name": "Al-Fajr",
+        "surah_name_ar": "سُوْرَةُ الْفَجْرِ",
+        "surah_name_translation": "The Dawn",
+        "ayah_number": 26,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 4,
+      "translations": {
+        "ar": {
+          "text": "وَلَا يُوثِقُ وَثَاقَهُۥٓ أَحَدࣱ‏",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "and bind ˹them˺ tightly, like no other",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "任何人，不用他的那种束缚束缚别人。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "और कोई नहीं जो उसकी जकड़बन्द की तरह बाँधे",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "y nadie ha encadenado como Él encadenará [ese día]",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "et nul ne saura garrotter comme Lui garrotte",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "এবং তার বন্ধনের মত বন্ধন কেউ দিবে না।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E ninguém acorrentará como Seu acorrentar",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "и никто не наложит таких оков, как Он",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور نہ کوئی ویسا جکڑنا جکڑے گا",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_089_027",
+      "reference": {
+        "surah_number": 89,
+        "surah_name": "Al-Fajr",
+        "surah_name_ar": "سُوْرَةُ الْفَجْرِ",
+        "surah_name_translation": "The Dawn",
+        "ayah_number": 27,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 3,
+      "translations": {
+        "ar": {
+          "text": "يَٰٓأَيَّتُهَا ٱلنَّفۡسُ ٱلۡمُطۡمَئِنَّةُ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "˹Allah will say to the righteous,˺ “O tranquil soul",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "安定的灵魂啊！",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "ऐ संतुष्ट आत्मा",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "[Le será dicho al creyente:] \"¡Oh, alma que estás en paz con tu Señor",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "«O toi, âme apaisée",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "হে প্রশান্ত মন,",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Dir-se-á: \"Ó alma tranquila",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "О обретшая покой душа",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اے اطمینان پانے والی روح",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_089_028",
+      "reference": {
+        "surah_number": 89,
+        "surah_name": "Al-Fajr",
+        "surah_name_ar": "سُوْرَةُ الْفَجْرِ",
+        "surah_name_translation": "The Dawn",
+        "ayah_number": 28,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 5,
+      "translations": {
+        "ar": {
+          "text": "ٱرۡجِعِيٓ إِلَىٰ رَبِّكِ رَاضِيَةࣰ مَّرۡضِيَّةࣰ‏",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Return to your Lord, well pleased ˹with Him˺ and well pleasing ˹to Him˺",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "你应当喜悦地，被喜悦地归於你的主。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "लौट अपने रब की ओर, इस तरह कि तू उससे राज़ी है वह तुझसे राज़ी है। अतः मेरे बन्दों में सम्मिलित हो जा।",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Vuelve a la vera de tu Señor complacida, porque Dios está complacido contigo",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "retourne vers ton Seigneur, satisfaite et agréée",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "তুমি তোমার পালনকর্তার নিকট ফিরে যাও সন্তুষ্ট ও সন্তোষভাজন হয়ে।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Retorna a teu Senhor, agradada e agradável",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Вернись к своему Господу удовлетворенной и снискавшей довольство",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اپنے پروردگار کی طرف لوٹ چل۔ تو اس سے راضی وہ تجھ سے راضی",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_089_029",
+      "reference": {
+        "surah_number": 89,
+        "surah_name": "Al-Fajr",
+        "surah_name_ar": "سُوْرَةُ الْفَجْرِ",
+        "surah_name_translation": "The Dawn",
+        "ayah_number": 29,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 3,
+      "translations": {
+        "ar": {
+          "text": "فَٱدۡخُلِي فِي عِبَٰدِي",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "So join My servants",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "你应当入在我的众仆里；",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "अतः मेरे बन्दों में सम्मिलित हो जा",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "y únete a Mis siervos piadosos",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "entre donc parmi Mes serviteurs",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "অতঃপর আমার বান্দাদের অন্তর্ভুক্ত হয়ে যাও।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Então, entra para junto de Meus servos",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Войди в круг Моих рабов",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "تو میرے (ممتاز) بندوں میں شامل ہو جا",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_089_030",
+      "reference": {
+        "surah_number": 89,
+        "surah_name": "Al-Fajr",
+        "surah_name_ar": "سُوْرَةُ الْفَجْرِ",
+        "surah_name_translation": "The Dawn",
+        "ayah_number": 30,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 2,
+      "translations": {
+        "ar": {
+          "text": "وَٱدۡخُلِي جَنَّتِي",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "and enter My Paradise.”",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "你应当入在我的乐园里。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "और प्रवेश कर मेरी जन्नत में।",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "entrando a Mi Paraíso",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "et entre dans Mon Paradis»",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "এবং আমার জান্নাতে প্রবেশ কর।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E entra em Meu Paraíso",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Войди в Мой Рай",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور میری بہشت میں داخل ہو جا",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    }
+  ]
+}

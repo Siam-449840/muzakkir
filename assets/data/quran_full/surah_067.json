@@ -1,0 +1,1685 @@
+{
+  "surah": 67,
+  "verses": [
+    {
+      "content_id": "quran_067_001",
+      "reference": {
+        "surah_number": 67,
+        "surah_name": "Al-Mulk",
+        "surah_name_ar": "سُوْرَةُ الْمُلْكِ",
+        "surah_name_translation": "The Sovereignty",
+        "ayah_number": 1,
+        "juz": 29,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 9,
+      "translations": {
+        "ar": {
+          "text": "تَبَٰرَكَ ٱلَّذِي بِيَدِهِ ٱلۡمُلۡكُ وَهُوَ عَلَىٰ كُلِّ شَيۡءࣲ قَدِيرٌ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Blessed is the One in Whose Hands rests all authority. And He is Most Capable of everything",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "多福哉拥有主权者！他对於万事是全能的。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "बड़ा बरकतवाला है वह जिसके हाथ में सारी बादशाही है और वह हर चीज़ की सामर्थ्य रखता है।",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Bendito sea Aquel en Cuyas manos está el reino y tiene el poder sobre todas las cosas",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Béni soit celui dans la main de qui est la royauté, et Il est Omnipotent",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "পূণ্যময় তিনি, যাঁর হাতে রাজত্ব। তিনি সবকিছুর উপর সর্বশক্তিমান।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Bendito Aquele em Cujas mãos está a Soberania - e Ele, sobre todas as cousas, é Onipotente",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Благословен Тот, в Чьей Руке власть, Кто способен на всякую вещь",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "وہ (خدا) جس کے ہاتھ میں بادشاہی ہے بڑی برکت والا ہے۔ اور وہ ہر چیز پر قادر ہے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_067_002",
+      "reference": {
+        "surah_number": 67,
+        "surah_name": "Al-Mulk",
+        "surah_name_ar": "سُوْرَةُ الْمُلْكِ",
+        "surah_name_translation": "The Sovereignty",
+        "ayah_number": 2,
+        "juz": 29,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 12,
+      "translations": {
+        "ar": {
+          "text": "ٱلَّذِي خَلَقَ ٱلۡمَوۡتَ وَٱلۡحَيَوٰةَ لِيَبۡلُوَكُمۡ أَيُّكُمۡ أَحۡسَنُ عَمَلࣰ اۚ وَهُوَ ٱلۡعَزِيزُ ٱلۡغَفُورُ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "˹He is the One˺ Who created death and life in order to test which of you is best in deeds. And He is the Almighty, All-Forgiving",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "他曾创造了死生，以便他考验你们谁的作为是最优美的。他是万能的，是至赦的。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "जिसने पैदा किया मृत्यु और जीवन को, ताकि तुम्हारी परीक्षा करे कि तुममें कर्म की दृष्टि से कौन सबसे अच्छा है। वह प्रभुत्वशाली, बड़ा क्षमाशील है।",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Él es Quien creó la muerte y la vida para probarlos y distinguir quién obra mejor. Él es el Poderoso, el Perdonador",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Celui qui a créé la mort et la vie afin de vous éprouver (et de savoir) qui de vous est le meilleur en œuvre, et c'est Lui le Puissant, le Pardonneur",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "যিনি সৃষ্টি করেছেন মরণ ও জীবন, যাতে তোমাদেরকে পরীক্ষা করেন-কে তোমাদের মধ্যে কর্মে শ্রেষ্ঠ? তিনি পরাক্রমশালী, ক্ষমাময়।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Aquele que criou a morte e a vida, para pôr à prova qual de vós é melhor em obras - e Ele é O Todo-Poderoso, O Perdoador",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Кто сотворил смерть и жизнь, чтобы испытать вас и увидеть, чьи деяния окажутся лучше. Он - Могущественный, Прощающий",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اسی نے موت اور زندگی کو پیدا کیا تاکہ تمہاری آزمائش کرے کہ تم میں کون اچھے عمل کرتا ہے۔ اور وہ زبردست (اور) بخشنے والا ہے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_067_003",
+      "reference": {
+        "surah_number": 67,
+        "surah_name": "Al-Mulk",
+        "surah_name_ar": "سُوْرَةُ الْمُلْكِ",
+        "surah_name_translation": "The Sovereignty",
+        "ayah_number": 3,
+        "juz": 29,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 19,
+      "translations": {
+        "ar": {
+          "text": "ٱلَّذِي خَلَقَ سَبۡعَ سَمَٰوَٰتࣲ طِبَاقࣰ اۖ مَّا تَرَىٰ فِي خَلۡقِ ٱلرَّحۡمَٰنِ مِن تَفَٰوُتࣲۖ فَٱرۡجِعِ ٱلۡبَصَرَ هَلۡ تَرَىٰ مِن فُطُورࣲ‏",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "˹He is the One˺ Who created seven heavens, one above the other. You will never see any imperfection in the creation of the Most Compassionate. So look again: do you see any flaws",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "他创造了七层天，你在至仁主的所造物中，不能看出一点参差。你再看看！你究竟能看出甚么缺陷呢？",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "जिसने ऊपर-तले सात आकाश बनाए। तुम रहमान की रचना में कोई असंगति और विषमता न देखोगे। फिर नज़र डालो, \"क्या तुम्हें कोई बिगाड़ दिखाई देता है",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Él es Quien creó siete cielos superpuestos. No verás ninguna imperfección en la creación del Misericordioso. Vuelve la vista y observa, ¿acaso ves alguna falla",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Celui qui a créé sept cieux superposés sans que tu voies de disproportion en la création du Tout Miséricordieux. Ramène [sur elle] le regard. Y vois-tu une brèche quelconque",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "তিনি সপ্ত আকাশ স্তরে স্তরে সৃষ্টি করেছেন। তুমি করুণাময় আল্লাহ তা’আলার সৃষ্টিতে কোন তফাত দেখতে পাবে না। আবার দৃষ্টিফেরাও; কোন ফাটল দেখতে পাও কি?",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Aquele Que criou sete céus superpostos! Não vês desarmonia alguma na criação dO Misericordioso. Então, torna a vista para o céu: vês nele alguma greta",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Он создал семь небес одно над другим. В творении Милостивого ты не увидишь никакой несообразности. Взгляни еще раз. Видишь ли ты какую-нибудь трещину",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اس نے سات آسمان اوپر تلے بنائے۔ (اے دیکھنے والے) کیا تو (خدا) رحمٰن کی آفرینش میں کچھ نقص دیکھتا ہے؟ ذرا آنکھ اٹھا کر دیکھ بھلا تجھ کو (آسمان میں) کوئی شگاف نظر آتا ہے؟",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_067_004",
+      "reference": {
+        "surah_number": 67,
+        "surah_name": "Al-Mulk",
+        "surah_name_ar": "سُوْرَةُ الْمُلْكِ",
+        "surah_name_translation": "The Sovereignty",
+        "ayah_number": 4,
+        "juz": 29,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 11,
+      "translations": {
+        "ar": {
+          "text": "ثُمَّ ٱرۡجِعِ ٱلۡبَصَرَ كَرَّتَيۡنِ يَنقَلِبۡ إِلَيۡكَ ٱلۡبَصَرُ خَاسِئࣰ ا وَهُوَ حَسِيرࣱ‏",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Then look again and again—your sight will return frustrated and weary",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "然后你再看两次，你的眼睛将昏花地、疲倦地转回来！",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "फिर दोबारा नज़र डालो। निगाह रद्द होकर और थक-हारकर तुम्हारी ओर पलट आएगी",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Luego vuelve la vista por segunda vez [buscando fallas en la creación] y tu mirada volverá a ti cansada y derrotada",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Puis, retourne ton regard à deux fois: le regard te reviendra humilié et frustré",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "অতঃপর তুমি বার বার তাকিয়ে দেখ-তোমার দৃষ্টি ব্যর্থ ও পরিশ্রান্ত হয়ে তোমার দিকে ফিরে আসবে।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Em seguida, torna a vista, duas vezes, que a vista se voltará para ti, malogrado e exausto",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Потом взгляни еще раз и еще раз, и твой взор вернется к тебе униженным, утомленным",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "پھر دو بارہ (سہ بارہ) نظر کر، تو نظر (ہر بار) تیرے پاس ناکام اور تھک کر لوٹ آئے گی",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_067_005",
+      "reference": {
+        "surah_number": 67,
+        "surah_name": "Al-Mulk",
+        "surah_name_ar": "سُوْرَةُ الْمُلْكِ",
+        "surah_name_translation": "The Sovereignty",
+        "ayah_number": 5,
+        "juz": 29,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 13,
+      "translations": {
+        "ar": {
+          "text": "وَلَقَدۡ زَيَّنَّا ٱلسَّمَآءَ ٱلدُّنۡيَا بِمَصَٰبِيحَ وَجَعَلۡنَٰهَا رُجُومࣰ ا لِّلشَّيَٰطِينِۖ وَأَعۡتَدۡنَا لَهُمۡ عَذَابَ ٱلسَّعِيرِ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "And indeed, We adorned the lowest heaven with ˹stars like˺ lamps, and made them ˹as missiles˺ for stoning ˹eavesdropping˺ devils, for whom We have also prepared the torment of the Blaze",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "我确已以众星点缀最近的天，并以众星供恶魔们猜测。我已为他们预备火狱的刑罚。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "हमने निकटवर्ती आकाश को दीपों से सजाया और उन्हें शैतानों के मार भगाने का साधन बनाया और उनके लिए हमने भड़कती आग की यातना तैयार कर रखी है",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Embellecí el cielo de este mundo con astros luminosos, dispuestos para castigar a los demonios, y tengo preparado para ellos un fuego abrasador",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Nous avons effectivement embelli le ciel le plus proche avec des lampes [des étoiles] dont Nous avons fait des projectiles pour lapider les diables et Nous leur avons préparé le châtiment de la Fournaise",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "আমি সর্বনিম্ন আকাশকে প্রদীপমালা দ্বারা সুসজ্জত করেছি; সেগুলোকে শয়তানদের জন্যে ক্ষেপণাস্ত্রবৎ করেছি এবং প্রস্তুত করে রেখেছি তাদের জন্যে জলন্ত অগ্নির শাস্তি।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E, com efeito, aformoseamos o céu mais próximo com lâmpadas e delas fizemos mísseis contra os demônios. E preparamo-lhes o castigo do Fogo ardente",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Воистину, Мы украсили ближайшее небо светильниками и установили их для метания в дьяволов. Мы приготовили для них мучения в Пламени",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور ہم نے قریب کے آسمان کو (تاروں کے) چراغوں سے زینت دی۔ اور ان کو شیطان کے مارنے کا آلہ بنایا اور ان کے لئے دہکتی آگ کا عذاب تیار کر رکھا ہے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_067_006",
+      "reference": {
+        "surah_number": 67,
+        "surah_name": "Al-Mulk",
+        "surah_name_ar": "سُوْرَةُ الْمُلْكِ",
+        "surah_name_translation": "The Sovereignty",
+        "ayah_number": 6,
+        "juz": 29,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 7,
+      "translations": {
+        "ar": {
+          "text": "وَلِلَّذِينَ كَفَرُواْ بِرَبِّهِمۡ عَذَابُ جَهَنَّمَۖ وَبِئۡسَ ٱلۡمَصِيرُ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Those who disbelieve in their Lord will suffer the punishment of Hell. What an evil destination",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "不信主的人们将受火狱的刑罚，那归宿真恶劣！",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "जिन लोगों ने अपने रब के साथ कुफ़्र किया उनके लिए जहन्नम की यातना है और वह बहुत ही बुरा ठिकाना है",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Para quienes no creen en su Señor les tengo preparado el castigo del Infierno. ¡Qué pésimo destino",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Ceux qui ont mécru à leur Seigneur auront le châtiment de l'Enfer. Et quelle mauvaise destination",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "যারা তাদের পালনকর্তাকে অস্বীকার করেছে তাদের জন্যে রয়েছে জাহান্নামের শাস্তি। সেটা কতই না নিকৃষ্ট স্থান।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E, para os que renegam seu Senhor, haverá o castigo da Geena. - E que execrável destino",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Для тех, кто не уверовал в своего Господа, приготовлены мучения в Геенне. Как же скверно это место прибытия",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور جن لوگوں نے اپنے پروردگار سے انکار کیا ان کے لئے جہنم کا عذاب ہے۔ اور وہ برا ٹھکانہ ہے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_067_007",
+      "reference": {
+        "surah_number": 67,
+        "surah_name": "Al-Mulk",
+        "surah_name_ar": "سُوْرَةُ الْمُلْكِ",
+        "surah_name_translation": "The Sovereignty",
+        "ayah_number": 7,
+        "juz": 29,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 9,
+      "translations": {
+        "ar": {
+          "text": "إِذَآ أُلۡقُواْ فِيهَا سَمِعُواْ لَهَا شَهِيقࣰ ا وَهِيَ تَفُورُ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "When they are tossed into it, they will hear its roaring as it boils over",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "当他们被投入火狱的时候，他们将听见沸腾的火狱发出驴鸣般的声音。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "जब वे उसमें डाले जाएँगे तो उसकी दहाड़ने की भयानक आवाज़ सुनेंगे और वह प्रकोप से बिफर रही होगी।",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Cuando sean arrojados en el Infierno, oirán su fragor mientras hierve",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Quand ils y seront jetés, ils lui entendront un gémissement, tandis qu'il bouillonne",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "যখন তারা তথায় নিক্ষিপ্ত হবে, তখন তার উৎক্ষিপ্ত গর্জন শুনতে পাবে।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Quando nela forem lançados, dela ouvirão soluços, enquanto ela ferverá",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Когда их бросят туда, они услышат, как она ревет, когда кипит",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "جب وہ اس میں ڈالے جائیں گے تو اس کا چیخنا چلانا سنیں گے اور وہ جوش مار رہی ہوگی",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_067_008",
+      "reference": {
+        "surah_number": 67,
+        "surah_name": "Al-Mulk",
+        "surah_name_ar": "سُوْرَةُ الْمُلْكِ",
+        "surah_name_translation": "The Sovereignty",
+        "ayah_number": 8,
+        "juz": 29,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 13,
+      "translations": {
+        "ar": {
+          "text": "تَكَادُ تَمَيَّزُ مِنَ ٱلۡغَيۡظِۖ كُلَّمَآ أُلۡقِيَ فِيهَا فَوۡجࣱ سَأَلَهُمۡ خَزَنَتُهَآ أَلَمۡ يَأۡتِكُمۡ نَذِيرࣱ‏",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "almost bursting in fury. Every time a group is cast into it, its keepers will ask them, “Did a warner not come to you?”",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "火狱几乎为愤怒而破碎，每有一群人被投入其中，管火狱的天神们就对他们说：　难道没有任何警告者降临你们吗？",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "ऐसा प्रतीत होगा कि प्रकोप के कारण अभी फट पड़ेगी। हर बार जब भी कोई समूह उसमें डाला जाएगा तो उसके कार्यकर्ता उनसे पूछेंगे, \"क्या तुम्हारे पास कोई सावधान करनेवाला नहीं आया",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "a punto de estallar de furia. Cada vez que un grupo sea arrojado en él, sus guardianes les preguntarán: \"¿Acaso no se les presentó un amonestador",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Peu s'en faut que, de rage, il n'éclate. Toutes les fois qu'un groupe y est jeté, ses gardiens leur demandent: «Quoi! ne vous est-il pas venu d'avertisseur?»",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "ক্রোধে জাহান্নাম যেন ফেটে পড়বে। যখনই তাতে কোন সম্প্রদায় নিক্ষিপ্ত হবে তখন তাদেরকে তার সিপাহীরা জিজ্ঞাসা করবে। তোমাদের কাছে কি কোন সতর্ককারী আগমন করেনি?",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Ela quase rebentará de rancor. Cada vez que nela for lançada uma turba, seus guardiães perguntar-Ihes-ão: \"Não vos chegou um admoestador",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Она готова разорваться от ярости. Каждый раз, когда туда будут бросать толпу, ее стражи будут спрашивать их: «Разве к вам не приходил предостерегающий увещеватель?»",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "گویا مارے جوش کے پھٹ پڑے گی۔ جب اس میں ان کی کوئی جماعت ڈالی جائے گی تو دوزخ کے داروغہ ان سے پوچھیں گے کہ تمہارے پاس کوئی ہدایت کرنے والا نہیں آیا تھا؟",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_067_009",
+      "reference": {
+        "surah_number": 67,
+        "surah_name": "Al-Mulk",
+        "surah_name_ar": "سُوْرَةُ الْمُلْكِ",
+        "surah_name_translation": "The Sovereignty",
+        "ayah_number": 9,
+        "juz": 29,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 18,
+      "translations": {
+        "ar": {
+          "text": "قَالُواْ بَلَىٰ قَدۡ جَآءَنَا نَذِيرࣱ فَكَذَّبۡنَا وَقُلۡنَا مَا نَزَّلَ ٱللَّهُ مِن شَيۡءٍ إِنۡ أَنتُمۡ إِلَّا فِي ضَلَٰلࣲ كَبِيرࣲ‏",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "They will reply, “Yes, a warner did come to us, but we denied and said, ‘Allah has revealed nothing. You are extremely astray.’”",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "他们说：不然！警告者确已降临我们了，但我们否认他们，我们说：真主没有降示甚么，你们只在重大的迷误中。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "वे कहेंगे, \"क्यों नहीं, अवश्य हमारे पास आया था, किन्तु हमने झुठला दिया और कहा कि अल्लाह ने कुछ भी नहीं अवतरित किया। तुम तो बस एक बड़ी गुमराही में पड़े हुए हो।",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Dirán: \"Sí, se nos presentó un amonestador, pero lo desmentimos diciendo: Dios no ha revelado nada y estás en un gran error",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Ils dirent: «Mais si! un avertisseur nous était venu certes, mais nous avons crié au mensonge et avons dit: Allah n'a rien fait descendre: vous n'êtes que dans un grand égarement»",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "তারা বলবেঃ হ্যাঁ আমাদের কাছে সতর্ককারী আগমন করেছিল, অতঃপর আমরা মিথ্যারোপ করেছিলাম এবং বলেছিলামঃ আল্লাহ তা’আলা কোন কিছু নাজিল করেননি। তোমরা মহাবিভ্রান্তিতে পড়ে রয়েছ।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Dirão: \"Sim, com efeito, um admoestador chegou-nos; então, desmentimo-lo e dissemos: 'Allah nada fez descer; vós não estais senão em grande descaminho",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Они скажут: «Конечно, предостерегающий увещеватель приходил к нам, но мы сочли его лжецом и сказали: «Аллах ничего не ниспосылал, а вы лишь пребываете в большом заблуждении»»",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "وہ کہیں گے کیوں نہیں ضرور ہدایت کرنے والا آیا تھا لیکن ہم نے اس کو جھٹلا دیا اور کہا کہ خدا نے تو کوئی چیز نازل ہی نہیں کی۔ تم تو بڑی غلطی میں (پڑے ہوئے) ہو",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_067_010",
+      "reference": {
+        "surah_number": 67,
+        "surah_name": "Al-Mulk",
+        "surah_name_ar": "سُوْرَةُ الْمُلْكِ",
+        "surah_name_translation": "The Sovereignty",
+        "ayah_number": 10,
+        "juz": 29,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 11,
+      "translations": {
+        "ar": {
+          "text": "وَقَالُواْ لَوۡ كُنَّا نَسۡمَعُ أَوۡ نَعۡقِلُ مَا كُنَّا فِيٓ أَصۡحَٰبِ ٱلسَّعِيرِ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "And they will lament, “If only we had listened and reasoned, we would not be among the residents of the Blaze!”",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "他们说：假若我们能听从，或能明理，我们必不致沦於火狱的居民之列！",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "और वे कहेंगे, \"यदि हम सुनते या बुद्धि से काम लेते तो हम दहकती आग में पड़नेवालों में सम्मिलित न होते।",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Y agregarán: \"Si hubiéramos oído o reflexionado, no estaríamos ahora con los condenados al Fuego",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Et ils dirent: «Si nous avions écouté ou raisonné, nous ne serions pas parmi les gens de la Fournaise»",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "তারা আরও বলবেঃ যদি আমরা শুনতাম অথবা বুদ্ধি খাটাতাম, তবে আমরা জাহান্নামবাসীদের মধ্যে থাকতাম না।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E dirão: \"Se houvéssemos ouvido ou razoado, não estaríamos entre os companheiros do Fogo ardente",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Они скажут: «Если бы мы прислушивались и были рассудительны, то не оказались бы среди обитателей Пламени»",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور کہیں گے اگر ہم سنتے یا سمجھتے ہوتے تو دوزخیوں میں نہ ہوتے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_067_011",
+      "reference": {
+        "surah_number": 67,
+        "surah_name": "Al-Mulk",
+        "surah_name_ar": "سُوْرَةُ الْمُلْكِ",
+        "surah_name_translation": "The Sovereignty",
+        "ayah_number": 11,
+        "juz": 29,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 6,
+      "translations": {
+        "ar": {
+          "text": "فَٱعۡتَرَفُواْ بِذَنۢبِهِمۡ فَسُحۡقࣰ ا لِّأَصۡحَٰبِ ٱلسَّعِيرِ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "And so they will confess their sins. So away with the residents of the Blaze",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "他们承认他们的罪过。让火狱的居民远离真主的慈恩！",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "इस प्रकार वे अपने गुनाहों को स्वीकार करेंगे, तो धिक्कार हो दहकती आगवालों पर",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Entonces reconocerán sus pecados, pero qué lejos están los condenados al fuego de la misericordia de Dios",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Ils ont reconnu leur péché. Que les gens de la Fournaise soient anéantis à jamais",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "অতঃপর তারা তাদের অপরাধ স্বীকার করবে। জাহান্নামীরা দূর হোক।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E reconhecerão seus delitos; então extintos sejam os companheiros do Fogo ardente",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Они признаются в своем грехе. Прочь же, обитатели Пламени",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "پس وہ اپنے گناہ کا اقرار کرلیں گے۔ سو دوزخیوں کے لئے (رحمت خدا سے) دور ہی ہے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_067_012",
+      "reference": {
+        "surah_number": 67,
+        "surah_name": "Al-Mulk",
+        "surah_name_ar": "سُوْرَةُ الْمُلْكِ",
+        "surah_name_translation": "The Sovereignty",
+        "ayah_number": 12,
+        "juz": 29,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 9,
+      "translations": {
+        "ar": {
+          "text": "إِنَّ ٱلَّذِينَ يَخۡشَوۡنَ رَبَّهُم بِٱلۡغَيۡبِ لَهُم مَّغۡفِرَةࣱ وَأَجۡرࣱ كَبِيرࣱ‏",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Indeed, those in awe of their Lord without seeing Him will have forgiveness and a mighty reward",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "在秘密中畏惧主的人们，将蒙赦宥和重大的报酬。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "जो लोग परोक्ष में रहते हुए अपने रब से डरते है, उनके लिए क्षमा और बड़ा बदला है",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "[En cambio] quienes fueron temerosos de su Señor en privado [cuando solo Él los observaba] serán perdonados y recibirán una gran recompensa",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Ceux qui redoutent leur Seigneur bien qu'ils ne L'aient jamais vu auront un pardon et une grande récompense",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "নিশ্চয় যারা তাদের পালনকর্তাকে না দেখে ভয় করে, তাদের জন্যে রয়েছে ক্ষমা ও মহাপুরস্কার।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Por certo, os que receiam a seu Senhor, ainda que Invisível, terão perdão e grande prêmio",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Воистину, тем, которые боятся своего Господа, не видя Его воочию, уготованы прощение и великая награда",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "(اور) جو لوگ بن دیکھے اپنے پروردگار سے ڈرتے ہیں ان کے لئے بخشش اور اجر عظیم ہے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_067_013",
+      "reference": {
+        "surah_number": 67,
+        "surah_name": "Al-Mulk",
+        "surah_name_ar": "سُوْرَةُ الْمُلْكِ",
+        "surah_name_translation": "The Sovereignty",
+        "ayah_number": 13,
+        "juz": 29,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 9,
+      "translations": {
+        "ar": {
+          "text": "وَأَسِرُّواْ قَوۡلَكُمۡ أَوِ ٱجۡهَرُواْ بِهِۦٓۖ إِنَّهُۥ عَلِيمُۢ بِذَاتِ ٱلصُّدُورِ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Whether you speak secretly or openly—He surely knows best what is ˹hidden˺ in the heart",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "你们可以隐匿你们的言语；也可以把它说出来。他确是全 知心事的。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "तुम अपनी बात छिपाओ या उसे व्यक्त करो, वह तो सीनों में छिपी बातों तक को जानता है",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Es lo mismo que oculten sus pensamientos o que los divulguen, Él conoce bien lo que hay dentro de los corazones",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Que vous cachiez votre parole ou la divulguiez Il connaît bien le contenu des poitrines",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "তোমরা তোমাদের কথা গোপনে বল অথবা প্রকাশ্যে বল, তিনি তো অন্তরের বিষয়াদি সম্পর্কে সম্যক অবগত।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E guardai segredo de vosso dito, ou declarai-o! Por certo, Ele, do íntimo dos peitos, é Onisciente",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Храните ли вы свои речи в секрете или же говорите о них вслух, Он ведает о том, что в груди",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور تم (لوگ) بات پوشیدہ کہو یا ظاہر۔ وہ دل کے بھیدوں تک سے واقف ہے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_067_014",
+      "reference": {
+        "surah_number": 67,
+        "surah_name": "Al-Mulk",
+        "surah_name_ar": "سُوْرَةُ الْمُلْكِ",
+        "surah_name_translation": "The Sovereignty",
+        "ayah_number": 14,
+        "juz": 29,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 7,
+      "translations": {
+        "ar": {
+          "text": "أَلَا يَعۡلَمُ مَنۡ خَلَقَ وَهُوَ ٱللَّطِيفُ ٱلۡخَبِيرُ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "How could He not know His Own creation? For He ˹alone˺ is the Most Subtle, All-Aware",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "创造者既是玄妙而且彻知的，难道他不知道你们所隐匿的言语吗？",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "क्या वह नहीं जानेगा जिसने पैदा किया? वह सूक्ष्मदर्शी, ख़बर रखनेवाला है",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "¿Acaso no lo va a saber Quien todo lo creó? Él es el Sutil, el que está bien informado",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Ne connaît-Il pas ce qu'Il a créé alors que c'est Lui le Compatissant, le Parfaitement Connaisseur",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "যিনি সৃষ্টি করেছেন, তিনি কি করে জানবেন না? তিনি সূক্ষ্নজ্ঞানী, সম্যক জ্ঞাত।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Não saberá Ele a quem criou? E Ele é O Sutil, O Conhecedor",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Неужели этого не будет знать Тот, Кто сотворил, если Он - Проницательный (или Добрый), Ведающий",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "بھلا جس نے پیدا کیا وہ بےخبر ہے؟ وہ تو پوشیدہ باتوں کا جاننے والا اور (ہر چیز سے) آگاہ ہے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_067_015",
+      "reference": {
+        "surah_number": 67,
+        "surah_name": "Al-Mulk",
+        "surah_name_ar": "سُوْرَةُ الْمُلْكِ",
+        "surah_name_translation": "The Sovereignty",
+        "ayah_number": 15,
+        "juz": 29,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 15,
+      "translations": {
+        "ar": {
+          "text": "هُوَ ٱلَّذِي جَعَلَ لَكُمُ ٱلۡأَرۡضَ ذَلُولࣰ ا فَٱمۡشُواْ فِي مَنَاكِبِهَا وَكُلُواْ مِن رِّزۡقِهِۦۖ وَإِلَيۡهِ ٱلنُّشُورُ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "He is the One Who smoothed out the earth for you, so move about in its regions and eat from His provisions. And to Him is the resurrection ˹of all˺",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "他为你们而使大地平稳，你们应当在大地的各方行走，应当吃他的给养，你们复活后，只归於他。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "वही तो है जिसने तुम्हारे लिए धरती को वशीभूत किया। अतः तुम उसके (धरती के) कन्धों पर चलो और उसकी रोज़ी में से खाओ, उसी की ओर दोबारा उठकर (जीवित होकर) जाना है",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Él es Quien les ha facilitado la vida sobre la Tierra. Recorran sus caminos y coman del sustento de Dios, que ante Él comparecerán",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "C'est Lui qui vous a soumis la terre: parcourez donc ses grandes étendues. Mangez de ce qu'Il vous fournit. Vers Lui est la Résurrection",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "তিনি তোমাদের জন্যে পৃথিবীকে সুগম করেছেন, অতএব, তোমরা তার কাঁধে বিচরণ কর এবং তাঁর দেয়া রিযিক আহার কর। তাঁরই কাছে পুনরুজ্জীবন হবে।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Ele é Quem vos fez a terra dócil; então, andai, por seus flancos e comei de Seu sustento. E a Ele será a Ressurreição",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Он - Тот, Кто сделал для вас землю покорной. Ступайте же по свету и вкушайте из Его удела, и к Нему вы явитесь после воскрешения",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "وہی تو ہے جس نے تمہارے لئے زمین کو نرم کیا تو اس کی راہوں میں چلو پھرو اور خدا کا (دیا ہو) رزق کھاؤ اور تم کو اسی کے پاس (قبروں سے) نکل کر جانا ہے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_067_016",
+      "reference": {
+        "surah_number": 67,
+        "surah_name": "Al-Mulk",
+        "surah_name_ar": "سُوْرَةُ الْمُلْكِ",
+        "surah_name_translation": "The Sovereignty",
+        "ayah_number": 16,
+        "juz": 29,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 11,
+      "translations": {
+        "ar": {
+          "text": "ءَأَمِنتُم مَّن فِي ٱلسَّمَآءِ أَن يَخۡسِفَ بِكُمُ ٱلۡأَرۡضَ فَإِذَا هِيَ تَمُورُ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Do you feel secure that the One Who is in heaven will not cause the earth to swallow you up as it quakes violently",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "难道你们不怕在天上的主使大地在震荡的时候吞咽你们吗？",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "क्या तुम उससे निश्चिन्त हो जो आकाश में है कि तुम्हें धरती में धँसा दे, फिर क्या देखोगे कि वह डाँवाडोल हो रही है",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "¿Acaso tienen garantías de que Quien está en el cielo no hará que la tierra los trague durante un terremoto",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Etes-vous à l'abri que Celui qui est au ciel vous enfouisse en la terre? Et voici qu'elle tremble",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "তোমরা কি ভাবনামুক্ত হয়ে গেছ যে, আকাশে যিনি আছেন তিনি তোমাদেরকে ভূগর্ভে বিলীন করে দেবেন, অতঃপর তা কাঁপতে থাকবে।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Estais seguros de que Quem está no céu não fará a terra engolir-vos, então, de súbito, agitar-se",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Неужели вы уверены, что Тот, Кто на небе, не заставит землю поглотить вас? Ведь тогда она заколеблется",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "کیا تم اس سے جو آسمان میں ہے بےخوف ہو کہ تم کو زمین میں دھنسا دے اور وہ اس وقت حرکت کرنے لگے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_067_017",
+      "reference": {
+        "surah_number": 67,
+        "surah_name": "Al-Mulk",
+        "surah_name_ar": "سُوْرَةُ الْمُلْكِ",
+        "surah_name_translation": "The Sovereignty",
+        "ayah_number": 17,
+        "juz": 29,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 13,
+      "translations": {
+        "ar": {
+          "text": "أَمۡ أَمِنتُم مَّن فِي ٱلسَّمَآءِ أَن يُرۡسِلَ عَلَيۡكُمۡ حَاصِبࣰ اۖ فَسَتَعۡلَمُونَ كَيۡفَ نَذِيرِ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Or do you feel secure that the One Who is in heaven will not unleash upon you a storm of stones. Only then would you know how ˹serious˺ My warning was",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "难道你们不怕在天上的主使飞沙走石的暴风摧毁你们吗？你们将知道我的警告是怎样的。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "या तुम उससे निश्चिन्त हो जो आकाश में है कि वह तुमपर पथराव करनेवाली वायु भेज दे? फिर तुम जान लोगे कि मेरी चेतावनी कैसी होती है",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "¿O se sienten seguros de que Quien está en el cielo no los azote con un viento fuerte? ¿Solo así tomarán en serio Mi advertencia",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Ou êtes-vous à l'abri que Celui qui est au ciel envoie contre vous un ouragan de pierres? Vous saurez ainsi quel fut Mon avertissement",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "না তোমরা নিশ্চিন্ত হয়ে গেছ যে, আকাশে যিনি আছেন, তিনি তোমাদের উপর প্রস্তর বৃষ্টি বর্ষণ করবেন, অতঃপর তোমরা জানতে পারবে কেমন ছিল আমার সতর্কবাণী।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Ou estais seguros de que Quem está no céu não enviará, sobre vós, um vento lastrado de seixos? Então, sabereis como é Minha admoestação",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Неужели вы уверены, что Тот, Кто на небе, не нашлет на вас ураган с камнями? Скоро вы узнаете, каково Мое предостережение",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "کیا تم اس سے جو آسمان میں ہے نڈر ہو کہ تم پر کنکر بھری ہوا چھوڑ دے۔ سو تم عنقریب جان لو گے کہ میرا ڈرانا کیسا ہے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_067_018",
+      "reference": {
+        "surah_number": 67,
+        "surah_name": "Al-Mulk",
+        "surah_name_ar": "سُوْرَةُ الْمُلْكِ",
+        "surah_name_translation": "The Sovereignty",
+        "ayah_number": 18,
+        "juz": 29,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 8,
+      "translations": {
+        "ar": {
+          "text": "وَلَقَدۡ كَذَّبَ ٱلَّذِينَ مِن قَبۡلِهِمۡ فَكَيۡفَ كَانَ نَكِيرِ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "And certainly those before them denied ˹as well˺, then how severe was My response",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "在他们之前逝去的人们，确已否认众使者，我的谴责是怎样的？",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "उन लोगों ने भी झुठलाया जो उनसे पहले थे, फिर कैसा रहा मेरा इनकार",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Otros [pueblos] en la antigüedad también desmintieron [a los Mensajeros], y qué terrible fue Mi castigo [en respuesta]",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "En effet, ceux d'avant eux avaient crié au mensonge. Quelle fut alors Ma réprobation",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "তাদের পূর্ববর্তীরা মিথ্যারোপ করেছিল, অতঃপর কত কঠোর হয়েছিল আমার অস্বীকৃতি।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E, com efeito, os que foram antes deles desmentiram aos Mensageiros. Então, como foi minha reprovação",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Жившие до них сочли это ложью. Каким же было Мое обличение",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور جو لوگ ان سے پہلے تھے انہوں نے بھی جھٹلایا تھا سو (دیکھ لو کہ) میرا کیسا عذاب ہوا",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_067_019",
+      "reference": {
+        "surah_number": 67,
+        "surah_name": "Al-Mulk",
+        "surah_name_ar": "سُوْرَةُ الْمُلْكِ",
+        "surah_name_translation": "The Sovereignty",
+        "ayah_number": 19,
+        "juz": 29,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 15,
+      "translations": {
+        "ar": {
+          "text": "أَوَلَمۡ يَرَوۡاْ إِلَى ٱلطَّيۡرِ فَوۡقَهُمۡ صَٰٓفَّٰتࣲ وَيَقۡبِضۡنَۚ مَا يُمۡسِكُهُنَّ إِلَّا ٱلرَّحۡمَٰنُۚ إِنَّهُۥ بِكُلِّ شَيۡءِۭ بَصِيرٌ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Have they not seen the birds above them, spreading and folding their wings? None holds them up except the Most Compassionate. Indeed, He is All-Seeing of everything",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "难道他们没有看见在他们的上面展翅和　翼的众鸟吗？只有至仁主维持它们，他确是明察万物的。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "क्या उन्होंने अपने ऊपर पक्षियों को पंक्तबन्द्ध पंख फैलाए और उन्हें समेटते नहीं देखा? उन्हें रहमान के सिवा कोई और नहीं थामें रहता। निश्चय ही वह हर चीज़ को देखता है",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "¿Acaso no contemplan a las aves en las alturas, desplegando y replegando sus alas? Solo el Misericordioso las sostiene, Él ve todas las cosas",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "N'ont-ils pas vu les oiseaux au-dessus d'eux, déployant et repliant leurs ailes tour à tour? Seul le Tout Miséricordieux les soutient. Car Il est sur toute chose, Clairvoyant",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "তারা কি লক্ষ্য করে না, তাদের মাথার উপর উড়ন্ত পক্ষীকুলের প্রতি পাখা বিস্তারকারী ও পাখা সংকোচনকারী? রহমান আল্লাহ-ই তাদেরকে স্থির রাখেন। তিনি সর্ব-বিষয় দেখেন।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E não viram eles os pássaros, acima deles, pairando no ar, e adejando? Não os sustém senão O Misericordioso. Por certo, Ele, de todas as cousas, é Onividente",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Неужели они не видели над собой птиц, которые простирают и складывают крылья? Никто не удерживает их, кроме Милостивого. Воистину, Он видит всякую вещь",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "کیا انہوں نے اپنے سروں پر اڑتے ہوئے جانوروں کو نہیں دیکھا جو پروں کو پھیلائے رہتے ہیں اور ان کو سکیڑ بھی لیتے ہیں۔ خدا کے سوا انہیں کوئی تھام نہیں سکتا۔ بےشک وہ ہر چیز کو دیکھ رہا ہے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_067_020",
+      "reference": {
+        "surah_number": 67,
+        "surah_name": "Al-Mulk",
+        "surah_name_ar": "سُوْرَةُ الْمُلْكِ",
+        "surah_name_translation": "The Sovereignty",
+        "ayah_number": 20,
+        "juz": 29,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 15,
+      "translations": {
+        "ar": {
+          "text": "أَمَّنۡ هَٰذَا ٱلَّذِي هُوَ جُندࣱ لَّكُمۡ يَنصُرُكُم مِّن دُونِ ٱلرَّحۡمَٰنِۚ إِنِ ٱلۡكَٰفِرُونَ إِلَّا فِي غُرُورٍ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Also, which ˹powerless˺ force will come to your help instead of the Most Compassionate? Indeed, the disbelievers are only ˹lost˺ in delusion",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "除了真主援助你们外，还有谁能做你们的援军呢？你们只陷於自欺之中。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "या वह कौन है जो तुम्हारी सेना बनकर रहमान के मुक़ाबले में तुम्हारी सहायता करे। इनकार करनेवाले तो बस धोखे में पड़े हुए है",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "¿Qué ejército los podría defender además del Misericordioso? Los que desmienten el Mensaje son presa de una ilusión",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Quel est celui qui constituerait pour vous une armée [capable] de vous secourir, en dehors du Tout Miséricordieux? En vérité les mécréants sont dans l'illusion complète",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "রহমান আল্লাহ তা’আলা ব্যতীত তোমাদের কোন সৈন্য আছে কি, যে তোমাদেরকে সাহায্য করবে? কাফেররা বিভ্রান্তিতেই পতিত আছে।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Mas quem é este exército que, aliado a vós, vos socorrerá, além dO Misericordioso? Os renegadores da Fé não estão senão em falácia",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Кто может стать вашим войском и помочь вам без Милостивого? Воистину, неверующие обольщены",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "بھلا ایسا کون ہے جو تمہاری فوج ہو کر خدا کے سوا تمہاری مدد کرسکے۔ کافر تو دھوکے میں ہیں",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_067_021",
+      "reference": {
+        "surah_number": 67,
+        "surah_name": "Al-Mulk",
+        "surah_name_ar": "سُوْرَةُ الْمُلْكِ",
+        "surah_name_translation": "The Sovereignty",
+        "ayah_number": 21,
+        "juz": 29,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 12,
+      "translations": {
+        "ar": {
+          "text": "أَمَّنۡ هَٰذَا ٱلَّذِي يَرۡزُقُكُمۡ إِنۡ أَمۡسَكَ رِزۡقَهُۥۚ بَل لَّجُّواْ فِي عُتُوࣲّ وَنُفُورٍ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Or who is it that will provide for you if He withholds His provision? In fact, they persist in arrogance and aversion ˹to the truth˺",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "谁能供给你们呢？如果至仁主扣留他的给养。不然，他们固执著骄傲和勃逆。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "या वह कौन है जो तुम्हें रोज़ी दे, यदि वह अपनी रोज़ी रोक ले? नहीं, बल्कि वे तो सरकशी और नफ़रत ही पर अड़े हुए है",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "¿Quién los sustentará si Él retiene su sustento? Sin embargo, persisten en su insolencia y su arrogante rechazo",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Ou quel est celui qui vous donnera votre subsistance s'Il s'arrête de fournir Son attribution? Mais ils persistent dans leur insolence et dans leur répulsion",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "তিনি যদি রিযিক বন্ধ করে দেন, তবে কে আছে, যে তোমাদেরকে রিযিক দিবে বরং তারা অবাধ্যতা ও বিমুখতায় ডুবে রয়েছে।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Ou quem é este que vos dará sustento, se Ele retém Seu sustento? Mas eles persistem em desobediência e em repulsa à Verdade",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Кто может наделить вас уделом, если Он перестанет наделять вас Своим уделом? Но они продолжают ослушаться и убегать",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "بھلا اگر وہ اپنا رزق بند کرلے تو کون ہے جو تم کو رزق دے؟ لیکن یہ سرکشی اور نفرت میں پھنسے ہوئے ہیں",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_067_022",
+      "reference": {
+        "surah_number": 67,
+        "surah_name": "Al-Mulk",
+        "surah_name_ar": "سُوْرَةُ الْمُلْكِ",
+        "surah_name_translation": "The Sovereignty",
+        "ayah_number": 22,
+        "juz": 29,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 12,
+      "translations": {
+        "ar": {
+          "text": "أَفَمَن يَمۡشِي مُكِبًّا عَلَىٰ وَجۡهِهِۦٓ أَهۡدَىٰٓ أَمَّن يَمۡشِي سَوِيًّا عَلَىٰ صِرَٰطࣲ مُّسۡتَقِيمࣲ‏",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Who is ˹rightly˺ guided: the one who crawls facedown or the one who walks upright on the Straight Path",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "究竟谁更能获得引导呢？是匍匐而行的人呢？还是在正路上挺身而行的人呢？",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "तो क्या वह व्यक्ति जो अपने मुँह के बल औंधा चलता हो वह अधिक सीधे मार्ग पर ह या वह जो सीधा होकर सीधे मार्ग पर चल रहा है",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "¿Quién está mejor encaminado: el que camina cabizbajo y tropezando o el que camina erguido por el sendero recto",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Qui est donc mieux guidé? Celui qui marche face contre terre ou celui qui marche redressé sur un chemin droit",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "যে ব্যক্তি উপুড় হয়ে মুখে ভর দিয়ে চলে, সে-ই কি সৎ পথে চলে, না সে ব্যক্তি যে সোজা হয়ে সরলপথে চলে?",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Então, quem é mais bem guiado? Aquele que anda cabisbaixo ou quem anda erguido, em senda reta",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Кто же следует более правильным путем: блуждающий с опущенным лицом или идущий по прямому пути, выпрямившись",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "بھلا جو شخص چلتا ہوا منہ کے بل گر پڑتا ہے وہ سیدھے رستے پر ہے یا وہ جو سیدھے رستے پر برابر چل رہا ہو؟",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_067_023",
+      "reference": {
+        "surah_number": 67,
+        "surah_name": "Al-Mulk",
+        "surah_name_ar": "سُوْرَةُ الْمُلْكِ",
+        "surah_name_translation": "The Sovereignty",
+        "ayah_number": 23,
+        "juz": 29,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 13,
+      "translations": {
+        "ar": {
+          "text": "قُلۡ هُوَ ٱلَّذِيٓ أَنشَأَكُمۡ وَجَعَلَ لَكُمُ ٱلسَّمۡعَ وَٱلۡأَبۡصَٰرَ وَٱلۡأَفۡـِٔدَةَۚ قَلِيلࣰ ا مَّا تَشۡكُرُونَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Say, ˹O Prophet,˺ “He is the One Who brought you into being and gave you hearing, sight, and intellect. ˹Yet˺ you hardly give any thanks.”",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "你说：他是创造你们，并为你们创造耳、目和心的。你们却很少感谢。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "कह दो, \"वही है जिसने तुम्हें पैदा किया और तुम्हारे लिए कान और आँखे और दिल बनाए। तुम कृतज्ञता थोड़े ही दिखाते हो।",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Diles: \"Él es Quien los creó y Quien los agració con el oído, la vista y el intelecto. Sin embargo, qué poco agradecen",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Dis: «C'est Lui qui vous a créés et vous a donné l'ouïe, les yeux et les cœurs». Mais vous êtes rarement reconnaissants",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "বলুন, তিনিই তোমাদেরকে সৃষ্টি করেছেন এবং দিয়েছেন কর্ণ, চক্ষু ও অন্তর। তোমরা অল্পই কৃতজ্ঞতা প্রকাশ কর।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Dize: \"Ele é Quem vos fez surgir e vos fez o ouvido e as vistas e os corações. Quão pouco agradeceis",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Скажи: «Он - Тот, Кто создал вас и наделил вас слухом, зрением и сердцами. Как же мала ваша благодарность!»",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "کہو وہ خدا ہی تو ہے جس نے تم کو پیدا کیا۔ اور تمہارے کان اور آنکھیں اور دل بنائے (مگر) تم کم احسان مانتے ہو",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_067_024",
+      "reference": {
+        "surah_number": 67,
+        "surah_name": "Al-Mulk",
+        "surah_name_ar": "سُوْرَةُ الْمُلْكِ",
+        "surah_name_translation": "The Sovereignty",
+        "ayah_number": 24,
+        "juz": 29,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 8,
+      "translations": {
+        "ar": {
+          "text": "قُلۡ هُوَ ٱلَّذِي ذَرَأَكُمۡ فِي ٱلۡأَرۡضِ وَإِلَيۡهِ تُحۡشَرُونَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "˹Also˺ say, “He is the One Who has dispersed you ˹all˺ over the earth, and to Him you will ˹all˺ be gathered.”",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "你说：他是使你们繁殖於大地上的，你们将来要被集合到他那里。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "कह दो, \"वही है जिसने तुम्हें धरती में फैलाया और उसी की ओर तुम एकत्र किए जा रहे हो।",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Diles: \"Él es Quien hizo que se multiplicaran en la Tierra y ante Él comparecerán",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Dis: «C'est Lui qui vous a répandus sur la terre, et c'est vers Lui que vous serez rassemblés»",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "বলুন, তিনিই তোমাদেরকে পৃথিবীতে বিস্তৃত করেছেন এবং তাঁরই কাছে তোমরা সমবেত হবে।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Dize: \"Ele é Quem vos fez multiplicar na terra, e a Ele sereis reunidos",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Скажи: «Он - Тот, Кто расселил вас по земле, и к Нему вы будете собраны»",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "کہہ دو کہ وہی ہے جس نے تم کو زمین میں پھیلایا اور اسی کے روبرو تم جمع کئے جاؤ گے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_067_025",
+      "reference": {
+        "surah_number": 67,
+        "surah_name": "Al-Mulk",
+        "surah_name_ar": "سُوْرَةُ الْمُلْكِ",
+        "surah_name_translation": "The Sovereignty",
+        "ayah_number": 25,
+        "juz": 29,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 7,
+      "translations": {
+        "ar": {
+          "text": "وَيَقُولُونَ مَتَىٰ هَٰذَا ٱلۡوَعۡدُ إِن كُنتُمۡ صَٰدِقِينَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "˹Still˺ they ask ˹the believers˺, “When will this threat come to pass, if what you say is true?”",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "他们说：这个警告甚么时候实现呢？如果你们是诚实的人。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "वे कहते है, \"यदि तुम सच्चे हो तो यह वादा कब पूरा होगा",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "[Los que desmienten el Mensaje] dicen desafiantes: \"¿Cuándo se cumplirá esta amenaza [sobre el Día del Juicio], si es que dicen la verdad",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Et ils disent: «A quand cette promesse si vous êtes véridiques?»",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "কাফেররা বলেঃ এই প্রতিশ্রুতি কবে হবে, যদি তোমরা সত্যবাদী হও?",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E dizem: \"Quando será o cumprimento desta promessa, se sois verídicos",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Они говорят: «Когда же наступит обещанное, если вы говорите правду?»",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور کافر کہتے ہیں کہ اگر تم سچے ہو تو یہ وعید کب (پورا) ہوگا؟",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_067_026",
+      "reference": {
+        "surah_number": 67,
+        "surah_name": "Al-Mulk",
+        "surah_name_ar": "سُوْرَةُ الْمُلْكِ",
+        "surah_name_translation": "The Sovereignty",
+        "ayah_number": 26,
+        "juz": 29,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 9,
+      "translations": {
+        "ar": {
+          "text": "قُلۡ إِنَّمَا ٱلۡعِلۡمُ عِندَ ٱللَّهِ وَإِنَّمَآ أَنَا۠ نَذِيرࣱ مُّبِينࣱ‏",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Say, ˹O Prophet,˺ “That knowledge is with Allah alone, and I am only sent with a clear warning.”",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "你说：关於此事的知识，只在主那里，我只是一个坦率的警告者。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "कह दो, \"इसका ज्ञान तो बस अल्लाह ही के पास है और मैं तो एक स्पष्ट॥ सचेत करनेवाला हूँ।",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Diles: \"Solo Dios lo sabe, yo no soy sino un amonestador",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Dis: «Allah seul [en] a la connaissance. Et moi je ne suis qu'un avertisseur clair»",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "বলুন, এর জ্ঞান আল্লাহ তা’আলার কাছেই আছে। আমি তো কেবল প্রকাশ্য সতর্ককারী।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Dize: \"A ciência está, apenas, junto de Allah e sou, apenas, evidente admoestador",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Скажи: «Знание об этом - у Аллаха, а я - всего лишь предостерегающий и разъясняющий увещеватель»",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "کہہ دو اس کا علم خدا ہی کو ہے۔ اور میں تو کھول کھول کر ڈر سنانے دینے والا ہوں",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_067_027",
+      "reference": {
+        "surah_number": 67,
+        "surah_name": "Al-Mulk",
+        "surah_name_ar": "سُوْرَةُ الْمُلْكِ",
+        "surah_name_translation": "The Sovereignty",
+        "ayah_number": 27,
+        "juz": 29,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 13,
+      "translations": {
+        "ar": {
+          "text": "فَلَمَّا رَأَوۡهُ زُلۡفَةࣰ سِيٓـَٔتۡ وُجُوهُ ٱلَّذِينَ كَفَرُواْ وَقِيلَ هَٰذَا ٱلَّذِي كُنتُم بِهِۦ تَدَّعُونَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Then when they see the torment drawing near, the faces of the disbelievers will become gloomy, and it will be said ˹to them˺, “This is what you claimed would never come.”",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "当他们看见这应许临近的时候，不信的人们的面目将变成黑的！或者将说：这就是你们生前妄言不会实现的事。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "फिर जब वे उसे निकट देखेंगे तो उन लोगों के चेहरे बिगड़ जाएँगे जिन्होंने इनकार की नीति अपनाई; और कहा जाएगा, \"यही है वह चीज़ जिसकी तुम माँग कर रहे थे।",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Pero cuando los que desmentían el Mensaje vean que comienza [el Día del Juicio], sus rostros estarán sombríos y se les dirá: \"Aquí tienen lo que pedían",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Puis, quand ils verront (le châtiment) de près, les visages de ceux qui ont mécru seront affligés. Et il leur sera dit: «Voilà ce que vous réclamiez»",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "যখন তারা সেই প্রতিশ্রুতিকে আসন্ন দেখবে তখন কাফেরদের মুখমন্ডল মলিন হয়ে পড়বে এবং বলা হবেঃ এটাই তো তোমরা চাইতে।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Então, quando o virem próximo, as faces dos que renegaram a Fé tornar-se-ão aflitas, e dir-se-Ihes-á: \"Isto é o que cobiçáveis",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Когда они увидят его (наказание в День воскресения) вблизи от себя, лица неверующих опечалятся, и тогда им скажут: «Вот то, что вы призывали!»",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "سو جب وہ دیکھ لیں گے کہ وہ (وعدہ) قریب آگیا تو کافروں کے منہ برے ہوجائیں گے اور (ان سے) کہا جائے گا کہ یہ وہی ہے جس کے تم خواستگار تھے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_067_028",
+      "reference": {
+        "surah_number": 67,
+        "surah_name": "Al-Mulk",
+        "surah_name_ar": "سُوْرَةُ الْمُلْكِ",
+        "surah_name_translation": "The Sovereignty",
+        "ayah_number": 28,
+        "juz": 29,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 15,
+      "translations": {
+        "ar": {
+          "text": "قُلۡ أَرَءَيۡتُمۡ إِنۡ أَهۡلَكَنِيَ ٱللَّهُ وَمَن مَّعِيَ أَوۡ رَحِمَنَا فَمَن يُجِيرُ ٱلۡكَٰفِرِينَ مِنۡ عَذَابٍ أَلِيمࣲ‏",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Say, ˹O Prophet,˺ “Consider this: whether Allah causes me and those with me to die or shows us mercy, who will save the disbelievers from a painful punishment?”",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "你说：你们告诉我吧，如果真主毁灭我，和我的同道，或怜悯我们，那末，谁使不信道的人们得免於痛苦的刑罚呢？",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "कहो, \"क्या तुमने यह भी सोचा कि यदि अल्लाह मुझे और उन्हें भी, जो मेरे साथ है, विनष्ट ही कर दे या वह हम पर दया करे, आख़िर इनकार करनेवालों को दुखद यातना से कौन पनाह देगा",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Diles: \"Si Dios me hiciera morir a mí y a los que me siguen, o si se apiadara de nosotros, [eso no es lo que debería preocuparlos, sino que lo que deberían preguntarse es:] ¿quién librará a los que niegan el Mensaje del castigo doloroso que les espera",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Dis: «Que vous en semble? Qu'Allah me fasse périr ainsi que ceux qui sont avec moi ou qu'Il nous fasse miséricorde, qui protégera alors les mécréants d'un châtiment douloureux?»",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "বলুন, তোমরা কি ভেবে দেখেছ-যদি আল্লাহ তা’আলা আমাকে ও আমার সংগীদেরকে ধ্বংস করেন অথবা আমাদের প্রতি দয়া করেন, তবে কাফেরদেরকে কে যন্ত্রণাদায়ক শাস্তি থেকে রক্ষা করবে?",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Dize: \"Vistes? Se Allah me aniquila e a quem está comigo, ou se Ele tem misericórdia de nós, quem protegerá os renegadores da Fé de doloroso castigo",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Скажи: «Как вы думаете, кто защитит от мучительных страданий неверующих, если Аллах погубит меня и тех, кто со мной, или помилует нас?»",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "کہو کہ بھلا دیکھو تو اگر خدا مجھ کو اور میرے ساتھیوں کو ہلاک کردے یا ہم پر مہربانی کرے۔ تو کون ہے کافروں کو دکھ دینے والے عذاب سے پناہ دے؟",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_067_029",
+      "reference": {
+        "surah_number": 67,
+        "surah_name": "Al-Mulk",
+        "surah_name_ar": "سُوْرَةُ الْمُلْكِ",
+        "surah_name_translation": "The Sovereignty",
+        "ayah_number": 29,
+        "juz": 29,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 13,
+      "translations": {
+        "ar": {
+          "text": "قُلۡ هُوَ ٱلرَّحۡمَٰنُ ءَامَنَّا بِهِۦ وَعَلَيۡهِ تَوَكَّلۡنَاۖ فَسَتَعۡلَمُونَ مَنۡ هُوَ فِي ضَلَٰلࣲ مُّبِينࣲ‏",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Say, “He is the Most Compassionate—in Him ˹alone˺ we believe, and in Him ˹alone˺ we trust. You will soon know who is clearly astray.”",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "你说：他是至仁主，我们已信仰他，我们只信赖他。你们将知道谁在明显的迷误中。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "कह दो, \"वह रहमान है। उसी पर हम ईमान लाए है और उसी पर हमने भरोसा किया। तो शीघ्र ही तुम्हें मालूम हो जाएगा कि खुली गुमराही में कौन पड़ा हुआ है।",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Diles: \"Él es el Misericordioso, creemos en Él y en Él depositamos nuestra confianza. Ya verán [el Día del juicio] quién es el que está en un error evidente",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Dis: «C'est Lui, le Tout Miséricordieux. Nous croyons en Lui et c'est en Lui que nous plaçons notre confiance. Vous saurez bientôt qui est dans un égarement évident»",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "বলুন, তিনি পরম করুণাময়, আমরা তাতে বিশ্বাস রাখি এবং তাঁরই উপর ভরসা করি। সত্ত্বরই তোমরা জানতে পারবে, কে প্রকাশ্য পথ-ভ্রষ্টতায় আছে।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Dize: \"Ele é O Misericordioso; nEle cremos e nEle confiamos. Então, sabereis quem está em evidente descaminho",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Скажи: «Он - Милостивый! Мы уверовали в Него и уповаем только на Него, и вы узнаете, кто пребывает в очевидном заблуждении»",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "کہہ دو کہ وہ جو (خدائے) رحمٰن (ہے) ہم اسی پر ایمان لائے اور اسی پر بھروسا رکھتے ہیں۔ تم کو جلد معلوم ہوجائے گا کہ صریح گمراہی میں کون پڑ رہا تھا",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_067_030",
+      "reference": {
+        "surah_number": 67,
+        "surah_name": "Al-Mulk",
+        "surah_name_ar": "سُوْرَةُ الْمُلْكِ",
+        "surah_name_translation": "The Sovereignty",
+        "ayah_number": 30,
+        "juz": 29,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 11,
+      "translations": {
+        "ar": {
+          "text": "قُلۡ أَرَءَيۡتُمۡ إِنۡ أَصۡبَحَ مَآؤُكُمۡ غَوۡرࣰ ا فَمَن يَأۡتِيكُم بِمَآءࣲ مَّعِينِۭ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Say, “Consider this: if your water were to sink ˹into the earth˺, then who ˹else˺ could bring you flowing water?”",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "你说：你们告诉我吧，如果你们的水一旦渗漏了，谁能给你们一条流水呢？",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "कहो, \"क्या तुमने यह भी सोचा कि यदि तुम्हारा पानी (धरती में) नीचे उतर जाए तो फिर कौन तुम्हें लाकर देगा निर्मल प्रवाहित जल",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Pregúntales: \"¿Si el agua que tienen dejara de surgir, quién [fuera de Dios] les podría proveer de agua pura",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Dis: «Que vous en semble? Si votre eau était absorbée au plus profond de la terre, qui donc vous apporterait de l'eau de source?»",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "বলুন, তোমরা ভেবে দেখেছ কি, যদি তোমাদের পানি ভূগর্ভের গভীরে চলে যায়, তবে কে তোমাদেরকে সরবরাহ করবে পানির স্রোতধারা?",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Dize: \"Vistes? Se vossa água se torna subtérrea, então, quem vos fará vir água fluida",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Скажи: «Как вы думаете, кто одарит вас родниковой водой, если ваша вода уйдет под землю?»",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "کہو کہ بھلا دیکھو تو اگر تمہارا پانی (جو تم پیتے ہو اور برتے ہو) خشک ہوجائے تو (خدا کے) سوا کون ہے جو تمہارے لئے شیریں پانی کا چشمہ بہا لائے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,453 @@
+{
+  "surah": 95,
+  "verses": [
+    {
+      "content_id": "quran_095_001",
+      "reference": {
+        "surah_number": 95,
+        "surah_name": "At-Tin",
+        "surah_name_ar": "سُوْرَةُ التِّيْنِ",
+        "surah_name_translation": "The Fig",
+        "ayah_number": 1,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 2,
+      "translations": {
+        "ar": {
+          "text": "وَٱلتِّينِ وَٱلزَّيۡتُونِ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "By the fig and the olive ˹of Jerusalem˺",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "以无花果和橄榄果盟誓",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "साक्षी है तीन और ज़ैतून",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Juro por la higuera y el olivo",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Par le figuier et l'olivier",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "শপথ আঞ্জীর (ডুমুর) ও যয়তুনের,",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Pelo figo e pela oliva",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Клянусь смоковницей и оливой",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "انجیر کی قسم اور زیتون کی",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_095_002",
+      "reference": {
+        "surah_number": 95,
+        "surah_name": "At-Tin",
+        "surah_name_ar": "سُوْرَةُ التِّيْنِ",
+        "surah_name_translation": "The Fig",
+        "ayah_number": 2,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 2,
+      "translations": {
+        "ar": {
+          "text": "وَطُورِ سِينِينَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "and Mount Sinai",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "以西奈山盟誓",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "और तूर सीनीन",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "por el monte Sinaí",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Et par le Mont Sînîn",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "এবং সিনাই প্রান্তরস্থ তূর পর্বতের,",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E pelo Monte Sinai",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Клянусь горой Синин (Синай)",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور طور سینین کی",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_095_003",
+      "reference": {
+        "surah_number": 95,
+        "surah_name": "At-Tin",
+        "surah_name_ar": "سُوْرَةُ التِّيْنِ",
+        "surah_name_translation": "The Fig",
+        "ayah_number": 3,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 3,
+      "translations": {
+        "ar": {
+          "text": "وَهَٰذَا ٱلۡبَلَدِ ٱلۡأَمِينِ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "and this secure city ˹of Mecca˺",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "以这个安宁的城市盟誓",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "और यह शान्तिपूर्ण भूमि (मक्का)",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "y por esta ciudad segura [La Meca]",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Et par cette Cité sûre",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "এবং এই নিরাপদ নগরীর।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E por esta Cidade segura",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Клянусь этим безопасным городом (Меккой)",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور اس امن والے شہر کی",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_095_004",
+      "reference": {
+        "surah_number": 95,
+        "surah_name": "At-Tin",
+        "surah_name_ar": "سُوْرَةُ التِّيْنِ",
+        "surah_name_translation": "The Fig",
+        "ayah_number": 4,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 6,
+      "translations": {
+        "ar": {
+          "text": "لَقَدۡ خَلَقۡنَا ٱلۡإِنسَٰنَ فِيٓ أَحۡسَنِ تَقۡوِيمࣲ‏",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Indeed, We created humans in the best form",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "我确已把人造成具有最美的形态",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "निस्संदेह हमने मनुष्य को सर्वोत्तम संरचना के साथ पैदा किया",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Que he creado al ser humano con la mejor conformación",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Nous avons certes créé l'homme dans la forme la plus parfaite",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "আমি সৃষ্টি করেছি মানুষকে সুন্দরতর অবয়বে।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Com efeito, criamos o ser humano na mais bela forma",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Мы сотворили человека в прекраснейшем облике",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "کہ ہم نے انسان کو بہت اچھی صورت میں پیدا کیا ہے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_095_005",
+      "reference": {
+        "surah_number": 95,
+        "surah_name": "At-Tin",
+        "surah_name_ar": "سُوْرَةُ التِّيْنِ",
+        "surah_name_translation": "The Fig",
+        "ayah_number": 5,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 4,
+      "translations": {
+        "ar": {
+          "text": "ثُمَّ رَدَدۡنَٰهُ أَسۡفَلَ سَٰفِلِينَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "But We will reduce them to the lowest of the low ˹in Hell˺",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "然后我使他变成最卑劣的",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "फिर हमने उसे निकृष्टतम दशा की ओर लौटा दिया, जबकि वह स्वयं गिरनेवाला बना",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Sin embargo, [a quien rechace el Mensaje] lo degradaré al rango más bajo",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Ensuite, Nous l'avons ramené au niveau le plus bas",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "অতঃপর তাকে ফিরিয়ে দিয়েছি নীচ থেকে নীচে।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Em seguida, levamo-lo ao mais baixo dos baixos degraus",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Потом Мы вернем его в нижайшее из низких (продлим ему жизнь настолько, что он превратится в дряхлого старика, или бросим его на самое дно Геенны)",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "پھر (رفتہ رفتہ) اس (کی حالت) کو (بدل کر) پست سے پست کر دیا",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_095_006",
+      "reference": {
+        "surah_number": 95,
+        "surah_name": "At-Tin",
+        "surah_name_ar": "سُوْرَةُ التِّيْنِ",
+        "surah_name_translation": "The Fig",
+        "ayah_number": 6,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 9,
+      "translations": {
+        "ar": {
+          "text": "إِلَّا ٱلَّذِينَ ءَامَنُواْ وَعَمِلُواْ ٱلصَّٰلِحَٰتِ فَلَهُمۡ أَجۡرٌ غَيۡرُ مَمۡنُونࣲ‏",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "except those who believe and do good—they will have a never-ending reward",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "但信道而且行善者, 将受不断的报酬。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "सिवाय उन लोगों के जो ईमान लाए और जिन्होंने अच्छे कर्म किए, तो उनके लिए कभी न समाप्त होनेवाला बदला है",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "En cambio, a los creyentes que obran rectamente les tengo reservada una recompensa inagotable",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "sauf ceux qui croient et accomplissent les bonnes œuvres: ceux-là auront une récompense jamais interrompue",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "কিন্তু যারা বিশ্বাস স্থাপন করেছে ও সৎকর্ম করেছে, তাদের জন্যে রয়েছে অশেষ পুরস্কার।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Exceto aos que crêem e fazem as boas obras: eles terão prêmio incessante",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "за исключением тех, которые уверовали и совершали праведные деяния. Им уготована награда неиссякаемая",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "مگر جو لوگ ایمان لائے اور نیک عمل کرتے رہے انکے لیے بےانتہا اجر ہے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_095_007",
+      "reference": {
+        "surah_number": 95,
+        "surah_name": "At-Tin",
+        "surah_name_ar": "سُوْرَةُ التِّيْنِ",
+        "surah_name_translation": "The Fig",
+        "ayah_number": 7,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 4,
+      "translations": {
+        "ar": {
+          "text": "فَمَا يُكَذِّبُكَ بَعۡدُ بِٱلدِّينِ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Now, what makes you deny the ˹final˺ Judgment",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "此后, 你怎麽还否认报应呢？",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "अब इसके बाद क्या है, जो बदले के विषय में तुम्हें झुठलाए",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "¿Cómo puedes desmentir el Día del Juicio",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Après cela, qu'est-ce qui te fait traiter la rétribution de mensonge",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "অতঃপর কেন তুমি অবিশ্বাস করছ কেয়ামতকে?",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Então, o que te leva, depois disso a desmentir o Dia do Juízo",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Что же после этого заставляет тебя считать ложью воздаяние",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "تو (اے آدم زاد) پھر تو جزا کے دن کو کیوں جھٹلاتا ہے؟",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_095_008",
+      "reference": {
+        "surah_number": 95,
+        "surah_name": "At-Tin",
+        "surah_name_ar": "سُوْرَةُ التِّيْنِ",
+        "surah_name_translation": "The Fig",
+        "ayah_number": 8,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 4,
+      "translations": {
+        "ar": {
+          "text": "أَلَيۡسَ ٱللَّهُ بِأَحۡكَمِ ٱلۡحَٰكِمِينَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Is Allah not the most just of all judges",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "难道真主不是最公正的判决者吗？",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "क्या अल्लाह सब हाकिमों से बड़ा हाकिम नहीं हैं",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "¿Acaso no es Dios el más Justo de los jueces",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Allah n'est-Il pas le plus sage des Juges",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "আল্লাহ কি বিচারকদের মধ্যে শ্রেষ্টতম বিচারক নন?",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Não é Allah O mais Sábio dos juízes",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Разве Аллах не является Наимудрейшим Судьей",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "کیا خدا سب سے بڑا حاکم نہیں ہے؟",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    }
+  ]
+}

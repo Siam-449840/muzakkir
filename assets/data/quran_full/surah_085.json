@@ -1,0 +1,1237 @@
+{
+  "surah": 85,
+  "verses": [
+    {
+      "content_id": "quran_085_001",
+      "reference": {
+        "surah_number": 85,
+        "surah_name": "Al-Burooj",
+        "surah_name_ar": "سُوْرَةُ الْبُرُوْجِ",
+        "surah_name_translation": "The Constellations",
+        "ayah_number": 1,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 3,
+      "translations": {
+        "ar": {
+          "text": "وَٱلسَّمَآءِ ذَاتِ ٱلۡبُرُوجِ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "By the sky full of constellations",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "誓以有宫分的穷苍，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "साक्षी है बुर्जोंवाला आकाश",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Juro por el cosmos y sus constelaciones",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Par le ciel aux constellations",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "শপথ গ্রহ-নক্ষত্র শোভিত আকাশের,",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Pelo céu das constelações",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Клянусь небом с созвездиями Зодиака",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "آسمان کی قسم جس میں برج ہیں",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_085_002",
+      "reference": {
+        "surah_number": 85,
+        "surah_name": "Al-Burooj",
+        "surah_name_ar": "سُوْرَةُ الْبُرُوْجِ",
+        "surah_name_translation": "The Constellations",
+        "ayah_number": 2,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 2,
+      "translations": {
+        "ar": {
+          "text": "وَٱلۡيَوۡمِ ٱلۡمَوۡعُودِ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "and the promised Day ˹of Judgment˺",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "和所警告的日子，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "और वह दिन जिसका वादा किया गया है",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "por el día prometido [el Día del Juicio Final]",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "et par le jour promis",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "এবং প্রতিশ্রুত দিবসের,",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E pelo dia prometido",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Клянусь днем обещанным",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور اس دن کی جس کا وعدہ ہے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_085_003",
+      "reference": {
+        "surah_number": 85,
+        "surah_name": "Al-Burooj",
+        "surah_name_ar": "سُوْرَةُ الْبُرُوْجِ",
+        "surah_name_translation": "The Constellations",
+        "ayah_number": 3,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 2,
+      "translations": {
+        "ar": {
+          "text": "وَشَاهِدࣲ وَمَشۡهُودࣲ‏",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "and the witness and what is witnessed",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "以及能证的和所证的日子，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "और देखनेवाला, और जो देखा गया",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "y por el testigo y lo atestiguado",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "et par le témoin et ce dont on témoigne",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "এবং সেই দিবসের, যে উপস্থিত হয় ও যাতে উপস্থিত হয়",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E por uma testemunha e um testemunhado",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Клянусь свидетельствующим и засвидетельствованным",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور حاضر ہونے والے کی اور جو اس کے پاس حاضر کیا جائے اسکی",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_085_004",
+      "reference": {
+        "surah_number": 85,
+        "surah_name": "Al-Burooj",
+        "surah_name_ar": "سُوْرَةُ الْبُرُوْجِ",
+        "surah_name_translation": "The Constellations",
+        "ayah_number": 4,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 3,
+      "translations": {
+        "ar": {
+          "text": "قُتِلَ أَصۡحَٰبُ ٱلۡأُخۡدُودِ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Condemned are the makers of the ditch—",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "愿掘坑的人们，被弃绝，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "विनष्ट हों खाईवाले",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "que los que arrojaron a los creyentes al foso del fuego fueron maldecidos",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Périssent les gens de l'Uhdûd",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "অভিশপ্ত হয়েছে গর্ত ওয়ালারা অর্থাৎ,",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Que morram os companheiros do fosso",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Да сгинут собравшиеся у рва",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "کہ خندقوں (کے کھودنے) والے ہلاک کر دیئے گئے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_085_005",
+      "reference": {
+        "surah_number": 85,
+        "surah_name": "Al-Burooj",
+        "surah_name_ar": "سُوْرَةُ الْبُرُوْجِ",
+        "surah_name_translation": "The Constellations",
+        "ayah_number": 5,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 3,
+      "translations": {
+        "ar": {
+          "text": "ٱلنَّارِ ذَاتِ ٱلۡوَقُودِ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "the fire ˹pit˺, filled with fuel—",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "那坑里有燃料点著的火，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "ईधन भरी आगवाले",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "En el foso encendieron un fuego ardiente",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "par le feu plein de combustible",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "অনেক ইন্ধনের অগ্নিসংযোগকারীরা;",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Do fogo, cheio de combustível",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "огненного, поддерживаемого растопкой",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "(یعنی) آگ (کی خندقیں) جس میں ایندھن (جھونک رکھا) تھا",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_085_006",
+      "reference": {
+        "surah_number": 85,
+        "surah_name": "Al-Burooj",
+        "surah_name_ar": "سُوْرَةُ الْبُرُوْجِ",
+        "surah_name_translation": "The Constellations",
+        "ayah_number": 6,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 4,
+      "translations": {
+        "ar": {
+          "text": "إِذۡ هُمۡ عَلَيۡهَا قُعُودࣱ‏",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "when they sat around it",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "当时，他们坐在坑边，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "जबकि वे वहाँ बैठे होंगे",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "y se sentaron en sus bordes",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "cependant qu'ils étaient assis tout autour",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "যখন তারা তার কিনারায় বসেছিল।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Quando estavam sentados a seu redor",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Вот они уселись возле него",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "جب کہ وہ ان (کے کناروں) پر بیٹھے ہوئے تھے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_085_007",
+      "reference": {
+        "surah_number": 85,
+        "surah_name": "Al-Burooj",
+        "surah_name_ar": "سُوْرَةُ الْبُرُوْجِ",
+        "surah_name_translation": "The Constellations",
+        "ayah_number": 7,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 6,
+      "translations": {
+        "ar": {
+          "text": "وَهُمۡ عَلَىٰ مَا يَفۡعَلُونَ بِٱلۡمُؤۡمِنِينَ شُهُودࣱ‏",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "watching what they had ˹ordered to be˺ done to the believers",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "他们见证自己对信士们的罪行，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "और वे जो कुछ ईमानवालों के साथ करते रहे, उसे देखेंगे",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "para presenciar lo que cometían contra los creyentes",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "ils étaient ainsi témoins de ce qu'ils faisaient des croyants",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "এবং তারা বিশ্বাসীদের সাথে যা করেছিল, তা নিরীক্ষণ করছিল।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E eram testemunhas do que faziam com os crentes",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "будучи свидетелями того, что творят с верующими",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور جو (سختیاں) اہل ایمان پر کر رہے تھے ان کو سامنے دیکھ رہے تھے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_085_008",
+      "reference": {
+        "surah_number": 85,
+        "surah_name": "Al-Burooj",
+        "surah_name_ar": "سُوْرَةُ الْبُرُوْجِ",
+        "surah_name_translation": "The Constellations",
+        "ayah_number": 8,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 9,
+      "translations": {
+        "ar": {
+          "text": "وَمَا نَقَمُواْ مِنۡهُمۡ إِلَّآ أَن يُؤۡمِنُواْ بِٱللَّهِ ٱلۡعَزِيزِ ٱلۡحَمِيدِ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "who they resented for no reason other than belief in Allah—the Almighty, the Praiseworthy—",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "他们对於信士们，只责备他们信仰真主 万能的，可颂的主，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "उन्होंने उन (ईमानवालों) से केवल इस कारण बदला लिया और शत्रुता की कि वे उस अल्लाह पर ईमान रखते थे जो अत्यन्त प्रभुत्वशाली, प्रशंसनीय है",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "cuya única culpa para merecer ese castigo era creer en Dios, el Poderoso, el Loable",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "à qui ils ne leur reprochaient que d'avoir cru en Allah, le Puissant, le Digne de louange",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "তারা তাদেরকে শাস্তি দিয়েছিল শুধু এ কারণে যে, তারা প্রশংসিত, পরাক্রান্ত আল্লাহর প্রতি বিশ্বাস স্থাপন করেছিল,",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E não os censuravam senão por crerem em Allah, O Todo-Poderoso, O Louvável",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Они вымещали им только за то, что те уверовали в Аллаха Могущественного, Достохвального",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "ان کو مومنوں کی یہی بات بری لگتی تھی کہ وہ خدا پر ایمان لائے ہوئے تھے جو غالب (اور) قابل ستائش ہے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_085_009",
+      "reference": {
+        "surah_number": 85,
+        "surah_name": "Al-Burooj",
+        "surah_name_ar": "سُوْرَةُ الْبُرُوْجِ",
+        "surah_name_translation": "The Constellations",
+        "ayah_number": 9,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 10,
+      "translations": {
+        "ar": {
+          "text": "ٱلَّذِي لَهُۥ مُلۡكُ ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضِۚ وَٱللَّهُ عَلَىٰ كُلِّ شَيۡءࣲ شَهِيدٌ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "˹the One˺ to Whom belongs the kingdom of the heavens and earth. And Allah is a Witness over all things",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "天地的国权只是他的，真主是见证万物的。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "जिसके लिए आकाशों और धरती की बादशाही है। और अल्लाह हर चीज़ का साक्षी है",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "a Quien pertenece el reino de los cielos y de la tierra. Dios es testigo de todo",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Auquel appartient la royauté des cieux et de la terre. Allah est témoin de toute chose",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "যিনি নভোমন্ডল ও ভূমন্ডলের ক্ষমতার মালিক, আল্লাহর সামনে রয়েছে সবকিছু।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "De Quem é a soberania dos céus e da terra. E Allah, sobre todas as cousas, é Testemunha",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Которому принадлежит власть над небесами и землей. Аллах же - Свидетель всякой вещи",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "وہی جس کی آسمانوں اور زمین میں بادشاہت ہے۔ اور خدا ہر چیز سے واقف ہے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_085_010",
+      "reference": {
+        "surah_number": 85,
+        "surah_name": "Al-Burooj",
+        "surah_name_ar": "سُوْرَةُ الْبُرُوْجِ",
+        "surah_name_translation": "The Constellations",
+        "ayah_number": 10,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 14,
+      "translations": {
+        "ar": {
+          "text": "إِنَّ ٱلَّذِينَ فَتَنُواْ ٱلۡمُؤۡمِنِينَ وَٱلۡمُؤۡمِنَٰتِ ثُمَّ لَمۡ يَتُوبُواْ فَلَهُمۡ عَذَابُ جَهَنَّمَ وَلَهُمۡ عَذَابُ ٱلۡحَرِيقِ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Those who persecute the believing men and women and then do not repent will certainly suffer the punishment of Hell and the torment of burning",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "天地的国权只是他的，真主是见证万物的。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "जिन लोगों ने ईमानवाले पुरुषों और ईमानवाली स्त्रियों को सताया और आज़माईश में डाला, फिर तौबा न की, निश्चय ही उनके लिए जहन्नम की यातना है और उनके लिए जलने की यातना है",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Quienes persigan a los creyentes y a las creyentes y no se arrepientan [antes de morir], sufrirán en el Infierno un castigo abrasador",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Ceux qui font subir des épreuves aux croyants et aux croyantes, puis ne se repentent pas, auront le châtiment de l'Enfer et le supplice du feu",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "যারা মুমিন পুরুষ ও নারীকে নিপীড়ন করেছে, অতঃপর তওবা করেনি, তাদের জন্যে আছে জাহান্নামের শাস্তি, আর আছে দহন যন্ত্রণা,",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Por certo, os que provaram os crentes e as crentes, em seguida, não se voltaram arrependidos, terão o castigo da Geena, e terão o castigo da Queima",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Тем, которые подвергли искушению (или сожгли в огне) верующих мужчин и женщин и не раскаялись, уготованы мучения в Геенне, мучения от обжигающего Огня",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "جن لوگوں نے مومن مردوں اور مومن عورتوں کو تکلیفیں دیں اور توبہ نہ کی ان کو دوزخ کا (اور) عذاب بھی ہوگا اور جلنے کا عذاب بھی ہوگا",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_085_011",
+      "reference": {
+        "surah_number": 85,
+        "surah_name": "Al-Burooj",
+        "surah_name_ar": "سُوْرَةُ الْبُرُوْجِ",
+        "surah_name_translation": "The Constellations",
+        "ayah_number": 11,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 14,
+      "translations": {
+        "ar": {
+          "text": "إِنَّ ٱلَّذِينَ ءَامَنُواْ وَعَمِلُواْ ٱلصَّٰلِحَٰتِ لَهُمۡ جَنَّٰتࣱ تَجۡرِي مِن تَحۡتِهَا ٱلۡأَنۡهَٰرُۚ ذَٰلِكَ ٱلۡفَوۡزُ ٱلۡكَبِيرُ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Surely those who believe and do good will have Gardens under which rivers flow. That is the greatest triumph",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "信道而且行善的人们，必入下临诸河的乐园，那确是伟大的成功。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "निश्चय ही जो लोग ईमान लाए और उन्होंने अच्छे कर्म किए उनके लिए बाग़ है, जिनके नीचे नहरें बह रही होगी। वही है बड़ी सफलता",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "En cambio, quienes hayan creído y obrado correctamente serán recompensados con jardines por donde corren los ríos. Ese es el triunfo grandioso",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Ceux qui croient et accomplissent les bonnes œuvres auront des Jardins sous lesquels coulent les ruisseaux. Cela est le grand succès",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "যারা ঈমান আনে ও সৎকর্ম করে তাদের জন্যে আছে জান্নাত, যার তলদেশে প্রবাহিত হয় নির্ঝরিণীসমূহ। এটাই মহাসাফল্য।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Por certo, os que crêem e fazem as boas obras terão Jardins, abaixo dos quais correm os rios. Esse é o grande triunfo",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Тем же, которые уверовали и совершали праведные деяния, уготованы Райские сады, в которых текут реки. Это - великое преуспеяние",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "(اور) جو لوگ ایمان لائے اور نیک کام کرتے رہے ان کے لیے باغات ہیں جن کے نیچے نہریں بہہ رہی ہیں۔ یہ ہی بڑی کامیابی ہے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_085_012",
+      "reference": {
+        "surah_number": 85,
+        "surah_name": "Al-Burooj",
+        "surah_name_ar": "سُوْرَةُ الْبُرُوْجِ",
+        "surah_name_translation": "The Constellations",
+        "ayah_number": 12,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 4,
+      "translations": {
+        "ar": {
+          "text": "إِنَّ بَطۡشَ رَبِّكَ لَشَدِيدٌ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Indeed, the ˹crushing˺ grip of your Lord is severe",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "你的主的惩治，确是严厉的。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "वास्तव में तुम्हारे रब की पकड़ बड़ी ही सख़्त है",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "¡Pero el castigo de tu Señor es severo",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "La riposte de ton Seigneur est redoutable",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "নিশ্চয় তোমার পালনকর্তার পাকড়াও অত্যন্ত কঠিন।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Por certo, o desferir golpes de teu Senhor é veemente",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Воистину, Хватка твоего Господа сурова",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "بےشک تمہارے پروردگار کی پکڑ بڑی سخت ہے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_085_013",
+      "reference": {
+        "surah_number": 85,
+        "surah_name": "Al-Burooj",
+        "surah_name_ar": "سُوْرَةُ الْبُرُوْجِ",
+        "surah_name_translation": "The Constellations",
+        "ayah_number": 13,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 4,
+      "translations": {
+        "ar": {
+          "text": "إِنَّهُۥ هُوَ يُبۡدِئُ وَيُعِيدُ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "˹For˺ He is certainly the One Who originates and resurrects ˹all˺",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "他确能创造，且能再造，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "वही आरम्भ करता है और वही पुनरावृत्ति करता है",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Él da origen y reproduce",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "C'est Lui, certes, qui commence (la création) et la refait",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "তিনিই প্রথমবার অস্তিত্ব দান করেন এবং পুনরায় জীবিত করেন।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Por certo, Ele inicia a criação e a repete",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Воистину, Он начинает и повторяет (создает творение в первый раз и воссоздает его или начинает наказывать в этом мире и возобновляет наказание в Последней жизни)",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "وہی پہلی دفعہ پیدا کرتا ہے اور وہی دوبارہ (زندہ) کرے گا",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_085_014",
+      "reference": {
+        "surah_number": 85,
+        "surah_name": "Al-Burooj",
+        "surah_name_ar": "سُوْرَةُ الْبُرُوْجِ",
+        "surah_name_translation": "The Constellations",
+        "ayah_number": 14,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 3,
+      "translations": {
+        "ar": {
+          "text": "وَهُوَ ٱلۡغَفُورُ ٱلۡوَدُودُ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "And He is the All-Forgiving, All-Loving—",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "他是至赦的，是至爱的，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "वह बड़ा क्षमाशील, बहुत प्रेम करनेवाला है",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Él es el Absolvedor, el Afectuoso",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Et c'est Lui le Pardonneur, le Tout-Affectueux",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "তিনি ক্ষমাশীল, প্রেমময়;",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E Ele é O Perdoador, O Afetuoso",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Он - Прощающий, Любящий (или Любимый)",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور وہ بخشنے والا اور محبت کرنے والا ہے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_085_015",
+      "reference": {
+        "surah_number": 85,
+        "surah_name": "Al-Burooj",
+        "surah_name_ar": "سُوْرَةُ الْبُرُوْجِ",
+        "surah_name_translation": "The Constellations",
+        "ayah_number": 15,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 3,
+      "translations": {
+        "ar": {
+          "text": "ذُو ٱلۡعَرۡشِ ٱلۡمَجِيدُ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Lord of the Throne, the All-Glorious",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "是宝座的主，是尊严的，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "सिंहासन का स्वामी है, बडा गौरवशाली",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Señor del Trono, el Majestuoso",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Le Maître du Trône, le Tout-Glorieux",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "মহান আরশের অধিকারী।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "O Possuidor do Trono, O Glorioso",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Владыка Трона, Славный (или Владыка Трона славного)",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "عرش کا مالک بڑی شان والا",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_085_016",
+      "reference": {
+        "surah_number": 85,
+        "surah_name": "Al-Burooj",
+        "surah_name_ar": "سُوْرَةُ الْبُرُوْجِ",
+        "surah_name_translation": "The Constellations",
+        "ayah_number": 16,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 3,
+      "translations": {
+        "ar": {
+          "text": "فَعَّالࣱ لِّمَا يُرِيدُ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Doer of whatever He wills",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "是为所欲为的。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "जो चाहे उसे कर डालनेवाला",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Hacedor de Su voluntad",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Il réalise parfaitement tout ce qu'Il veut",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "তিনি যা চান, তাই করেন।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Fazedor do que Ele quer",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Он вершит то, что пожелает",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "جو چاہتا ہے کر دیتا ہے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_085_017",
+      "reference": {
+        "surah_number": 85,
+        "surah_name": "Al-Burooj",
+        "surah_name_ar": "سُوْرَةُ الْبُرُوْجِ",
+        "surah_name_translation": "The Constellations",
+        "ayah_number": 17,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 4,
+      "translations": {
+        "ar": {
+          "text": "هَلۡ أَتَىٰكَ حَدِيثُ ٱلۡجُنُودِ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Has the story of the ˹destroyed˺ forces reached you ˹O Prophet˺—",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "你曾听见军队的故事了吗？",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "क्या तुम्हें उन सेनाओं की भी ख़बर पहुँची हैं",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "¿Has escuchado la historia de los ejércitos [criminales]",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "T'est-il parvenu le récit des armées",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "আপনার কাছে সৈন্যবাহিনীর ইতিবৃত্ত পৌছেছে কি?",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Chegou-te o relato dos exércitos",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Дошел ли до тебя рассказ о воинствах",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "بھلا تم کو لشکروں کا حال معلوم ہوا ہے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_085_018",
+      "reference": {
+        "surah_number": 85,
+        "surah_name": "Al-Burooj",
+        "surah_name_ar": "سُوْرَةُ الْبُرُوْجِ",
+        "surah_name_translation": "The Constellations",
+        "ayah_number": 18,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 2,
+      "translations": {
+        "ar": {
+          "text": "فِرۡعَوۡنَ وَثَمُودَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "˹the forces of˺ Pharaoh and Thamûd",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "法老和赛莫德人的故事。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "फ़िरऔन और समूद की",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "del Faraón y del pueblo de Zamud [que desmintieron a los Mensajeros y los destruí]",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "de Pharaon, et de Thamûd",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "ফেরাউনের এবং সামুদের?",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "De Faraó e do povo de Thamud",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "о Фараоне и самудянах",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "(یعنی) فرعون اور ثمود کا",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_085_019",
+      "reference": {
+        "surah_number": 85,
+        "surah_name": "Al-Burooj",
+        "surah_name_ar": "سُوْرَةُ الْبُرُوْجِ",
+        "surah_name_translation": "The Constellations",
+        "ayah_number": 19,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 5,
+      "translations": {
+        "ar": {
+          "text": "بَلِ ٱلَّذِينَ كَفَرُواْ فِي تَكۡذِيبࣲ‏",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Yet the disbelievers ˹still˺ persist in denial",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "不然，不信道的人们陷於否认之中，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "नहीं, बल्कि जिन लोगों ने इनकार किया है, वे झुठलाने में लगे हुए है",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Sin embargo, los que niegan la verdad continúan desmintiendo",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Mais ceux qui ne croient pas persistent à démentir",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "বরং যারা কাফের, তারা মিথ্যারোপে রত আছে।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Mas os que renegam a Fé estão mergulhados no desmentir",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Но неверующие считают это ложью",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "لیکن کافر (جان بوجھ کر) تکذیب میں (گرفتار) ہیں",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_085_020",
+      "reference": {
+        "surah_number": 85,
+        "surah_name": "Al-Burooj",
+        "surah_name_ar": "سُوْرَةُ الْبُرُوْجِ",
+        "surah_name_translation": "The Constellations",
+        "ayah_number": 20,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 4,
+      "translations": {
+        "ar": {
+          "text": "وَٱللَّهُ مِن وَرَآئِهِم مُّحِيطُۢ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "But Allah encompasses them from all sides",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "迫害信士和信女而不悔过的人们，必受火狱的刑罚，并受火灾的惩治。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "हालाँकि अल्लाह उन्हें घेरे हुए है, उनके आगे-पीछे से",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Pero Dios los domina sin que lo sepan",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "alors qu'Allah, derrière eux, les cerne de toutes parts",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "আল্লাহ তাদেরকে চতুর্দিক থেকে পরিবেষ্টন করে রেখেছেন।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E Allah os está abarcando, por todos os lados",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Аллах же окружает их сзади",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور خدا (بھی) ان کو گردا گرد سے گھیرے ہوئے ہے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_085_021",
+      "reference": {
+        "surah_number": 85,
+        "surah_name": "Al-Burooj",
+        "surah_name_ar": "سُوْرَةُ الْبُرُوْجِ",
+        "surah_name_translation": "The Constellations",
+        "ayah_number": 21,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 4,
+      "translations": {
+        "ar": {
+          "text": "بَلۡ هُوَ قُرۡءَانࣱ مَّجِيدࣱ‏",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "In fact, this is a glorious Quran",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "不然，这是尊严的《古兰经》，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "नहीं, बल्कि वह तो गौरव क़ुरआन है",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Este es un Corán glorioso",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Mais c'est plutôt un Coran glorifié",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "বরং এটা মহান কোরআন,",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Mas este é um Alcorão glorioso",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Да, это - славный Коран",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "(یہ کتاب ہزل و بطلان نہیں) بلکہ یہ قرآن عظیم الشان ہے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_085_022",
+      "reference": {
+        "surah_number": 85,
+        "surah_name": "Al-Burooj",
+        "surah_name_ar": "سُوْرَةُ الْبُرُوْجِ",
+        "surah_name_translation": "The Constellations",
+        "ayah_number": 22,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 3,
+      "translations": {
+        "ar": {
+          "text": "فِي لَوۡحࣲ مَّحۡفُوظِۭ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "˹recorded˺ in a Preserved Tablet",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "记录在一块受保护的天牌上。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "सुरक्षित पट्टिका में अंकित है",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "que está registrado en la Tabla Protegida",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "préservé sur une Tablette (auprès d'Allah)",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "লওহে মাহফুযে লিপিবদ্ধ।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Registado em tábua custódia",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "в Хранимой скрижали",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "لوح محفوظ میں (لکھا ہوا)",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    }
+  ]
+}

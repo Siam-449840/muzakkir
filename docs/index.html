@@ -1,0 +1,210 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Privacy Policy — Muzakkir – Islamic Reminder</title>
+  <style>
+    :root {
+      --primary: #0A4D3C;
+      --primary-dark: #001A0B;
+      --accent-gold: #C29B38;
+      --text: #1C1C1A;
+      --text-muted: #575752;
+      --bg: #F8F9F8;
+      --card-bg: #FFFFFF;
+      --border: #E5E7EB;
+    }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+      line-height: 1.65;
+      color: var(--text);
+      background-color: var(--bg);
+      margin: 0;
+      padding: 24px 16px;
+    }
+    .container {
+      max-width: 780px;
+      margin: 0 auto;
+      background: var(--card-bg);
+      border-radius: 16px;
+      padding: 36px 32px;
+      box-shadow: 0 4px 20px rgba(0, 26, 11, 0.06);
+      border: 1px solid var(--border);
+    }
+    .brand-header {
+      text-align: center;
+      margin-bottom: 32px;
+      padding-bottom: 24px;
+      border-bottom: 2px solid #F0F2F0;
+    }
+    .app-title {
+      font-size: 26px;
+      font-weight: 700;
+      color: var(--primary);
+      margin: 0 0 8px 0;
+    }
+    .app-package {
+      font-size: 13px;
+      font-family: monospace;
+      color: var(--text-muted);
+      background: #EDF2EF;
+      display: inline-block;
+      padding: 4px 10px;
+      border-radius: 6px;
+    }
+    .meta {
+      font-size: 14px;
+      color: var(--text-muted);
+      margin-top: 12px;
+    }
+    h2 {
+      color: var(--primary);
+      font-size: 20px;
+      margin-top: 32px;
+      margin-bottom: 12px;
+      border-left: 4px solid var(--accent-gold);
+      padding-left: 10px;
+    }
+    h3 {
+      font-size: 16px;
+      color: var(--primary-dark);
+      margin-top: 20px;
+      margin-bottom: 8px;
+    }
+    p, li {
+      font-size: 15px;
+      color: #333330;
+    }
+    ul {
+      padding-left: 20px;
+    }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      margin: 20px 0;
+      font-size: 14px;
+    }
+    th, td {
+      text-align: left;
+      padding: 12px;
+      border-bottom: 1px solid var(--border);
+    }
+    th {
+      background-color: #EDF4F1;
+      color: var(--primary-dark);
+      font-weight: 600;
+    }
+    .highlight-box {
+      background-color: #F4F9F6;
+      border: 1px solid #D2E4DC;
+      border-radius: 10px;
+      padding: 16px 20px;
+      margin: 20px 0;
+    }
+    footer {
+      text-align: center;
+      font-size: 13px;
+      color: var(--text-muted);
+      margin-top: 40px;
+      padding-top: 20px;
+      border-top: 1px solid var(--border);
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="brand-header">
+      <h1 class="app-title">Muzakkir – Islamic Reminder</h1>
+      <div class="app-package">com.remindme.islamicdailyreminder</div>
+      <div class="meta">Privacy Policy &bull; Effective Date: September 10, 2026</div>
+    </div>
+
+    <h2>1. Overview</h2>
+    <p>
+      Welcome to <strong>Muzakkir – Islamic Reminder</strong> ("Muzakkir", "we", "our"). Muzakkir is a purposeful spiritual companion built to bring Quranic verses and authentic prophetic traditions into your daily routine through scheduled notifications and floating reminder cards.
+    </p>
+    <div class="highlight-box">
+      <strong>Core Privacy Promise:</strong> Muzakkir operates on an on-device local storage architecture. All Islamic texts, 10 language translations, reminder times, and bookmarks remain entirely on your phone. The app contains zero advertisements, zero third-party behavioral trackers, and requires no user registration.
+    </div>
+
+    <h2>2. Data Storage and Network Communication</h2>
+    <h3>A. On-Device Local Storage (Offline Data)</h3>
+    <ul>
+      <li><strong>Spiritual Content:</strong> Over 500 curated Quran reminder units and thousands of Sahih Hadiths are embedded directly in the application bundle.</li>
+      <li><strong>User Preferences:</strong> Reminder schedules, active times, selected translation language, and quiet hours are stored in private local app storage (<code>AsyncStorage</code> / <code>SharedPreferences</code>).</li>
+      <li><strong>Personal Bookmarks & History:</strong> Verses and hadiths marked as favorite or read are stored strictly on your device.</li>
+      <li><strong>No Account Required:</strong> We never ask for your name, email, phone number, or credentials.</li>
+    </ul>
+
+    <h3>B. Recitation Audio Streaming (Network Usage Disclosure)</h3>
+    <p>
+      When playing Quran recitations, audio is streamed directly from the trusted public Islamic CDN (<code>https://everyayah.com</code>) over HTTPS.
+    </p>
+    <p>
+      Like all internet web servers, the hosting CDN receives standard network connection metadata (your device IP address, user-agent, and requested audio file path) to fulfill audio requests and maintain infrastructure security. Muzakkir attaches no personal identification or tracking parameters to these requests.
+    </p>
+
+    <h2>3. Android Permissions & Justification</h2>
+    <table>
+      <thead>
+        <tr>
+          <th>Permission</th>
+          <th>Android Identifier</th>
+          <th>Purpose in Muzakkir</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td><strong>Post Notifications</strong></td>
+          <td><code>POST_NOTIFICATIONS</code></td>
+          <td>Displays reminder alerts in the system tray at your configured times.</td>
+        </tr>
+        <tr>
+          <td><strong>Exact Alarms</strong></td>
+          <td><code>SCHEDULE_EXACT_ALARM</code></td>
+          <td>Allows the reminder alarm to wake the device at exact user-set minutes (even during Doze mode).</td>
+        </tr>
+        <tr>
+          <td><strong>Overlay Window</strong></td>
+          <td><code>SYSTEM_ALERT_WINDOW</code></td>
+          <td>Allows optional, temporary floating reminder cards over active apps for brief reflection.</td>
+        </tr>
+        <tr>
+          <td><strong>Foreground Service</strong></td>
+          <td><code>FOREGROUND_SERVICE_SPECIAL_USE</code></td>
+          <td>Presents the floating overlay immediately upon the exact scheduled alarm firing outside the app.</td>
+        </tr>
+        <tr>
+          <td><strong>Reboot Rescheduling</strong></td>
+          <td><code>RECEIVE_BOOT_COMPLETED</code></td>
+          <td>Restores your active reminder alarms when your phone restarts.</td>
+        </tr>
+      </tbody>
+    </table>
+
+    <h2>4. Children's Privacy</h2>
+    <p>
+      Muzakkir complies with COPPA and Google Play Families guidelines. We do not knowingly solicit or collect information from children under 13 years of age.
+    </p>
+
+    <h2>5. Data Deletion</h2>
+    <p>
+      Because all data is stored exclusively on your device, uninstalling Muzakkir or clearing app storage in Android Settings instantly and permanently deletes all your saved bookmarks, history, and preferences.
+    </p>
+
+    <h2>6. Contact</h2>
+    <p>
+      If you have questions regarding this privacy policy, please contact the developer via:
+      <br>
+      <strong>Email:</strong> privacy@muzakkir.app
+      <br>
+      <strong>Repository:</strong> <a href="https://github.com/ishtiaque-ibn-malek/muzakkir" target="_blank" rel="noopener">github.com/ishtiaque-ibn-malek/muzakkir</a>
+    </p>
+
+    <footer>
+      &copy; 2026 Muzakkir &bull; All rights reserved.
+    </footer>
+  </div>
+</body>
+</html>

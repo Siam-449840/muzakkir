@@ -1,0 +1,4653 @@
+{
+  "surah": 36,
+  "verses": [
+    {
+      "content_id": "quran_036_001",
+      "reference": {
+        "surah_number": 36,
+        "surah_name": "Yaseen",
+        "surah_name_ar": "سُوْرَةُ يٰسٓ",
+        "surah_name_translation": "Yaseen",
+        "ayah_number": 1,
+        "juz": 22,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 1,
+      "translations": {
+        "ar": {
+          "text": "يسٓ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Yâ-Sĩn",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "雅辛。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "या॰ सीन॰",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Iá’. Sín",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Yâ Sîn",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "ইয়া-সীন",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Ya-Sin",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Йа. Син",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "یٰسٓ",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_036_002",
+      "reference": {
+        "surah_number": 36,
+        "surah_name": "Yaseen",
+        "surah_name_ar": "سُوْرَةُ يٰسٓ",
+        "surah_name_translation": "Yaseen",
+        "ayah_number": 2,
+        "juz": 22,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 2,
+      "translations": {
+        "ar": {
+          "text": "وَٱلۡقُرۡءَانِ ٱلۡحَكِيمِ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "By the Quran, rich in wisdom",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "以智慧的《古兰经》发誓，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "गवाह है हिकमतवाला क़ुरआन",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "[Juro] por el Corán, que está lleno de sabiduría",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Par le Coran plein de sagesse",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "প্রজ্ঞাময় কোরআনের কসম।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Pelo Alcorão pleno de sabedoria",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Клянусь мудрым Кораном",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "قسم ہے قرآن کی جو حکمت سے بھرا ہوا ہے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_036_003",
+      "reference": {
+        "surah_number": 36,
+        "surah_name": "Yaseen",
+        "surah_name_ar": "سُوْرَةُ يٰسٓ",
+        "surah_name_translation": "Yaseen",
+        "ayah_number": 3,
+        "juz": 22,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 3,
+      "translations": {
+        "ar": {
+          "text": "إِنَّكَ لَمِنَ ٱلۡمُرۡسَلِينَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "You ˹O Prophet˺ are truly one of the messengers",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "你确是众使者之一，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "कि तुम निश्चय ही रसूलों में से हो",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "que tú [¡oh, Mujámmad!] eres uno de los Mensajeros [de Dios]",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Tu (Muhammad) es certes du nombre des messagers",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "নিশ্চয় আপনি প্রেরিত রসূলগণের একজন।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Por certo, Muhammad, tu és dos Mensageiros",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Воистину, ты - один из посланников",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "(اے محمدﷺ) بےشک تم پیغمبروں میں سے ہو",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_036_004",
+      "reference": {
+        "surah_number": 36,
+        "surah_name": "Yaseen",
+        "surah_name_ar": "سُوْرَةُ يٰسٓ",
+        "surah_name_translation": "Yaseen",
+        "ayah_number": 4,
+        "juz": 22,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 3,
+      "translations": {
+        "ar": {
+          "text": "عَلَىٰ صِرَٰطࣲ مُّسۡتَقِيمࣲ‏",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "upon the Straight Path",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "你的确是在正路上被派遣的使者之一。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "एक सीधे मार्ग पर",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "que está en el sendero recto",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "sur un chemin droit",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "সরল পথে প্রতিষ্ঠিত।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Em senda reta",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "на прямом пути",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "سیدھے رستے پر",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_036_005",
+      "reference": {
+        "surah_number": 36,
+        "surah_name": "Yaseen",
+        "surah_name_ar": "سُوْرَةُ يٰسٓ",
+        "surah_name_translation": "Yaseen",
+        "ayah_number": 5,
+        "juz": 22,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 3,
+      "translations": {
+        "ar": {
+          "text": "تَنزِيلَ ٱلۡعَزِيزِ ٱلرَّحِيمِ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "˹This is˺ a revelation from the Almighty, Most Merciful",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "万能至慈的真主降示此经。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "क्या ही ख़ूब है, प्रभुत्वशाली, अत्यन्त दयावाल का इसको अवतरित करना",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Esta es una revelación del Poderoso, el Misericordioso",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "C'est une révélation de la part du Tout Puissant, du Très Miséricordieux",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "কোরআন পরাক্রমশালী পরম দয়ালু আল্লাহর তরফ থেকে অবতীর্ণ,",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Ele é a revelação descida dO Todo-Poderoso, dO Misericordiador",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Он ниспослан Могущественным, Милосердным",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "(یہ خدائے) غالب (اور) مہربان نے نازل کیا ہے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_036_006",
+      "reference": {
+        "surah_number": 36,
+        "surah_name": "Yaseen",
+        "surah_name_ar": "سُوْرَةُ يٰسٓ",
+        "surah_name_translation": "Yaseen",
+        "ayah_number": 6,
+        "juz": 22,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 8,
+      "translations": {
+        "ar": {
+          "text": "لِتُنذِرَ قَوۡمࣰ ا مَّآ أُنذِرَ ءَابَآؤُهُمۡ فَهُمۡ غَٰفِلُونَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "so that you may warn a people whose forefathers were not warned, and so are heedless",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "以便你警告一族人，他们的祖先未被警告过，所以他们是疏忽大意的。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "ताकि तुम ऐसे लोगों को सावधान करो, जिनके बाप-दादा को सावधान नहीं किया गया; इस कारण वे गफ़लत में पड़े हुए है",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "para que amonestes a un pueblo cuyos antepasados no fueron advertidos, y por eso son negligentes",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "pour que tu avertisses un peuple dont les ancêtres n'ont pas été avertis: ils sont donc insouciants",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "যাতে আপনি এমন এক জাতিকে সতর্ক করেন, যাদের পূর্ব পুরুষগণকেও সতর্ক করা হয়নি। ফলে তারা গাফেল।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Para admoestares um povo, cujos pais não foram admoestados: então, estão desatentos",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "чтобы ты предостерег людей, отцов которых никто не предостерег, из-за чего они оставались беспечными невеждами",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "تاکہ تم ان لوگوں کو جن کے باپ دادا کو متنبہ نہیں کیا گیا تھا متنبہ کردو وہ غفلت میں پڑے ہوئے ہیں",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_036_007",
+      "reference": {
+        "surah_number": 36,
+        "surah_name": "Yaseen",
+        "surah_name_ar": "سُوْرَةُ يٰسٓ",
+        "surah_name_translation": "Yaseen",
+        "ayah_number": 7,
+        "juz": 22,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 8,
+      "translations": {
+        "ar": {
+          "text": "لَقَدۡ حَقَّ ٱلۡقَوۡلُ عَلَىٰٓ أَكۡثَرِهِمۡ فَهُمۡ لَا يُؤۡمِنُونَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "The decree ˹of torment˺ has already been justified against most of them, for they will never believe",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "他们中大多数人确已应当受判决，所以他们不信道。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "उनमें से अधिकतर लोगों पर बात सत्यापित हो चुकी है। अतः वे ईमान नहीं लाएँगे।",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Se ha hecho realidad la palabra de Dios sobre la mayoría de ellos, pues no están dispuestos a creer",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "En effet, la Parole contre la plupart d'entre eux s'est réalisée: ils ne croiront donc pas",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "তাদের অধিকাংশের জন্যে শাস্তির বিষয় অবধারিত হয়েছে। সুতরাং তারা বিশ্বাস স্থাপন করবে না।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Com efeito, o Dito cumpriu-se contra a maioria deles: então, não crêem",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Относительно большинства из них сбылось Слово, и они не уверуют",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "ان میں سے اکثر پر (خدا کی) بات پوری ہوچکی ہے سو وہ ایمان نہیں لائیں گے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_036_008",
+      "reference": {
+        "surah_number": 36,
+        "surah_name": "Yaseen",
+        "surah_name_ar": "سُوْرَةُ يٰسٓ",
+        "surah_name_translation": "Yaseen",
+        "ayah_number": 8,
+        "juz": 22,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 11,
+      "translations": {
+        "ar": {
+          "text": "إِنَّا جَعَلۡنَا فِيٓ أَعۡنَٰقِهِمۡ أَغۡلَٰلࣰ ا فَهِيَ إِلَى ٱلۡأَذۡقَانِ فَهُم مُّقۡمَحُونَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "˹It is as if˺ We have put shackles around their necks up to their chins, so their heads are forced up",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "我确已把枷锁放在他们的脖子上，那些枷锁达到下巴，所以他们不能低头。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "हमने उनकी गर्दनों में तौक़ डाल दिए है जो उनकी ठोड़ियों से लगे है। अतः उनके सिर ऊपर को उचके हुए है",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Les pondré en sus cuellos argollas que llegarán a sus barbillas, y sus cabezas quedarán erguidas",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Nous mettrons des carcans à leurs cous, et il y en aura jusqu'aux mentons: et voilà qu'ils iront têtes dressées",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "আমি তাদের গর্দানে চিবুক পর্যন্ত বেড়ী পরিয়েছি। ফলে তাদের মস্তক উর্দ্ধমুখী হয়ে গেছে।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Por certo, pusemo-lhes, nos pescoços, gargalheiras, e estas lhes chegam aos queixos; então, têm as cabeças forçadas para cima",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Воистину, Мы наложили на их шеи оковы до самого подбородка, и их головы задраны",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "ہم نے ان کی گردنوں میں طوق ڈال رکھے ہیں اور وہ ٹھوڑیوں تک (پھنسے ہوئے ہیں) تو ان کے سر اُلل رہے ہیں",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_036_009",
+      "reference": {
+        "surah_number": 36,
+        "surah_name": "Yaseen",
+        "surah_name_ar": "سُوْرَةُ يٰسٓ",
+        "surah_name_translation": "Yaseen",
+        "ayah_number": 9,
+        "juz": 22,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 14,
+      "translations": {
+        "ar": {
+          "text": "وَجَعَلۡنَا مِنۢ بَيۡنِ أَيۡدِيهِمۡ سَدࣰّ ا وَمِنۡ خَلۡفِهِمۡ سَدࣰّ ا فَأَغۡشَيۡنَٰهُمۡ فَهُمۡ لَا يُبۡصِرُونَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "and have placed a barrier before them and a barrier behind them and covered them ˹all˺ up, so they fail to see ˹the truth˺",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "我在他们的前面安置一个障碍，在他们的后面安置一个障碍，蒙蔽了他们，所以他们看不见。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "और हमने उनके आगे एक दीवार खड़ी कर दी है और एक दीवार उनके पीछे भी। इस तरह हमने उन्हें ढाँक दिया है। अतः उन्हें कुछ सुझाई नहीं देता",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Pondré ante ellos una barrera y otra detrás, y los cubriré con un velo y no podrán ver",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "et Nous mettrons une barrière devant eux et une barrière derrière eux; Nous les recouvrirons d'un voile: et voilà qu'ils ne pourront rien voir",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "আমি তাদের সামনে ও পিছনে প্রাচীর স্থাপন করেছি, অতঃপর তাদেরকে আবৃত করে দিয়েছি, ফলে তারা দেখে না।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E fizemos uma barreira adiante deles e uma barreira detrás deles; e nevoamo-lhes as vistas: então, nada enxergam",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Мы установили преграду перед ними и преграду позади них и накрыли их покрывалом, и они не видят",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور ہم نے ان کے آگے بھی دیوار بنا دی اور ان کے پیچھے بھی۔ پھر ان پر پردہ ڈال دیا تو یہ دیکھ نہیں سکتے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_036_010",
+      "reference": {
+        "surah_number": 36,
+        "surah_name": "Yaseen",
+        "surah_name_ar": "سُوْرَةُ يٰسٓ",
+        "surah_name_translation": "Yaseen",
+        "ayah_number": 10,
+        "juz": 22,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 8,
+      "translations": {
+        "ar": {
+          "text": "وَسَوَآءٌ عَلَيۡهِمۡ ءَأَنذَرۡتَهُمۡ أَمۡ لَمۡ تُنذِرۡهُمۡ لَا يُؤۡمِنُونَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "It is the same whether you warn them or not—they will never believe",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "你对他们加以警告与否，这在他们是一样的，他们毕竟不信道。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "उनके लिए बराबर है तुमने सचेत किया या उन्हें सचेत नहीं किया, वे ईमान नहीं लाएँगे",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Les da lo mismo que los amonestes o no, no creerán",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Cela leur est égal que tu les avertisses ou que tu ne les avertisses pas: ils ne croiront jamais",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "আপনি তাদেরকে সতর্ক করুন বা না করুন, তাদের পক্ষে দুয়েই সমান; তারা বিশ্বাস স্থাপন করবে না।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E lhes é igual que os admoestes ou não os admoestes; eles não crerão",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Им все равно, предостерег ты их или не предостерег. Они не веруют",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور تم ان کو نصیحت کرو یا نہ کرو ان کے لئے برابر ہے وہ ایمان نہیں لانے کے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_036_011",
+      "reference": {
+        "surah_number": 36,
+        "surah_name": "Yaseen",
+        "surah_name_ar": "سُوْرَةُ يٰسٓ",
+        "surah_name_translation": "Yaseen",
+        "ayah_number": 11,
+        "juz": 22,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 12,
+      "translations": {
+        "ar": {
+          "text": "إِنَّمَا تُنذِرُ مَنِ ٱتَّبَعَ ٱلذِّكۡرَ وَخَشِيَ ٱلرَّحۡمَٰنَ بِٱلۡغَيۡبِۖ فَبَشِّرۡهُ بِمَغۡفِرَةࣲ وَأَجۡرࣲ كَرِيمٍ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "You can only warn those who follow the Reminder and are in awe of the Most Compassionate without seeing Him. So give them good news of forgiveness and an honourable reward",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "你只能警告那遵守教诲，而且在秘密中敬畏至仁主者，你要以赦宥和优厚的报酬向他报喜。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "तुम तो बस सावधान कर रहे हो। जो कोई अनुस्मृति का अनुसरण करे और परोक्ष में रहते हुए रहमान से डरे, अतः क्षमा और प्रतिष्ठामय बदले की शुभ सूचना दे दो",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Solo se beneficia con tu amonestación quien sigue el Mensaje y teme al Compasivo en su intimidad. A ellos anúnciales que obtendrán el perdón y una recompensa generosa",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Tu avertis seulement celui qui suit le Rappel (le Coran), et craint le Tout Miséricordieux, malgré qu'il ne Le voit pas. Annonce-lui un pardon et une récompense généreuse",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "আপনি কেবল তাদেরকেই সতর্ক করতে পারেন, যারা উপদেশ অনুসরণ করে এবং দয়াময় আল্লাহকে না দেখে ভয় করে। অতএব আপনি তাদেরকে সুসংবাদ দিয়ে দিন ক্ষমা ও সম্মানজনক পুরস্কারের।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Tu, apenas, admoestas a quem segue a Mensagem e receia aO Misericordioso, ainda que Invisível. Então, alvissara-lhe perdão e generoso prêmio",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Ты можешь предостеречь только того, кто последовал за Напоминанием и устрашился Милостивого, не видя Его воочию. Обрадуй его вестью о прощении и щедрой награде",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "تم تو صرف اس شخص کو نصیحت کرسکتے ہو جو نصیحت کی پیروی کرے اور خدا سے غائبانہ ڈرے سو اس کو مغفرت اور بڑے ثواب کی بشارت سنا دو",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_036_012",
+      "reference": {
+        "surah_number": 36,
+        "surah_name": "Yaseen",
+        "surah_name_ar": "سُوْرَةُ يٰسٓ",
+        "surah_name_translation": "Yaseen",
+        "ayah_number": 12,
+        "juz": 22,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 14,
+      "translations": {
+        "ar": {
+          "text": "إِنَّا نَحۡنُ نُحۡيِ ٱلۡمَوۡتَىٰ وَنَكۡتُبُ مَا قَدَّمُواْ وَءَاثَٰرَهُمۡۚ وَكُلَّ شَيۡءٍ أَحۡصَيۡنَٰهُ فِيٓ إِمَامࣲ مُّبِينࣲ‏",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "It is certainly We Who resurrect the dead, and write what they send forth and what they leave behind. Everything is listed by Us in a perfect Record",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "我必定要使死人复活，我必定要记录他们所作的善恶，和他们的事迹；我将一切事物，详明地记录在一册明白的范本中。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "निस्संदेह हम मुर्दों को जीवित करेंगे और हम लिखेंगे जो कुछ उन्होंने आगे के लिए भेजा और उनके चिन्हों को (जो पीछे रहा) । हर चीज़ हमने एक स्पष्ट किताब में गिन रखी है",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Yo soy Quien resucita a los muertos, y registro lo que hagan de bien y lo que hagan del mal; todo lo tengo mencionado en un libro claro",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "C'est Nous qui ressuscitons les morts et écrivons ce qu'ils ont fait [pour l'au-delà] ainsi que leurs traces. Et Nous avons dénombré toute chose dans un registre explicite",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "আমিই মৃতদেরকে জীবিত করি এবং তাদের কর্ম ও কীর্তিসমূহ লিপিবদ্ধ করি। আমি প্রত্যেক বস্তু স্পষ্ট কিতাবে সংরক্ষিত রেখেছি।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Por certo, somos Nós Que damos a vida aos mortos, e escrevemos o que eles anteciparam, e seus vestígios. E toda cousa, enumeramo-la em um evidente Livro",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Воистину, Мы оживляем мертвых и записываем то, что они совершили, и то, что они оставили после себя. Всякую вещь Мы подсчитали в ясном руководстве (Хранимой скрижали)",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "بےشک ہم مردوں کو زندہ کریں گے اور جو کچھ وہ آگے بھیج چکے اور (جو) ان کے نشان پیچھے رہ گئے ہم ان کو قلمبند کرلیتے ہیں۔ اور ہر چیز کو ہم نے کتاب روشن (یعنی لوح محفوظ) میں لکھ رکھا ہے۔",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_036_013",
+      "reference": {
+        "surah_number": 36,
+        "surah_name": "Yaseen",
+        "surah_name_ar": "سُوْرَةُ يٰسٓ",
+        "surah_name_translation": "Yaseen",
+        "ayah_number": 13,
+        "juz": 22,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 8,
+      "translations": {
+        "ar": {
+          "text": "وَٱضۡرِبۡ لَهُم مَّثَلًا أَصۡحَٰبَ ٱلۡقَرۡيَةِ إِذۡ جَآءَهَا ٱلۡمُرۡسَلُونَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Give them an example ˹O Prophet˺ of the residents of a town, when the messengers came to them",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "你当以城市的居民为他们设一个譬喻。当时，使者们来临那些居民。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "उनके लिए बस्तीवालों की एक मिसाल पेश करो, जबकि वहाँ भेजे हुए दूत आए",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "[A quienes te desmienten] menciónales el ejemplo de los habitantes de una ciudad, cuando se presentaron ante ellos los Mensajeros",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Donne-leur comme exemple les habitants de la cité, quand lui vinrent les envoyés",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "আপনি তাদের কাছে সে জনপদের অধিবাসীদের দৃষ্টান্ত বর্ণনা করুন, যখন সেখানে রসূল আগমন করেছিলেন।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E propõe-lhes um exemplo: os habitantes da cidade quando lhes chegaram os Mensageiros",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "В качестве притчи приведи им жителей селения, к которым явились посланники",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور ان سے گاؤں والوں کا قصہ بیان کرو جب ان کے پاس پیغمبر آئے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_036_014",
+      "reference": {
+        "surah_number": 36,
+        "surah_name": "Yaseen",
+        "surah_name_ar": "سُوْرَةُ يٰسٓ",
+        "surah_name_translation": "Yaseen",
+        "ayah_number": 14,
+        "juz": 22,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 11,
+      "translations": {
+        "ar": {
+          "text": "إِذۡ أَرۡسَلۡنَآ إِلَيۡهِمُ ٱثۡنَيۡنِ فَكَذَّبُوهُمَا فَعَزَّزۡنَا بِثَالِثࣲ فَقَالُوٓاْ إِنَّآ إِلَيۡكُم مُّرۡسَلُونَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "We sent them two messengers, but they rejected both. So We reinforced ˹the two˺ with a third, and they declared, “We have indeed been sent to you ˹as messengers˺.”",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "当时，我曾派遣两个使者去教化那些居民，但他们否认他们俩的使命，我就以第三个使者去援助他们俩。他们说：我们确是被派遣来教化你们的。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "जबकि हमने उनकी ओर दो दूत भेजे, तो उन्होंने झुठला दिया। तब हमने तीसरे के द्वारा शक्ति पहुँचाई, तो उन्होंने कहा, \"हम तुम्हारी ओर भेजे गए हैं।",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Les envié dos Mensajeros pero los desmintieron, entonces los reforcé con un tercero. Ellos dijeron [a los habitantes de la ciudad]: \"Hemos sido enviados a ustedes [por Dios]",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Quand Nous leur envoyâmes deux [envoyés] et qu'ils les traitèrent de menteurs. Nous [les] renforçâmes alors par un troisième et ils dirent: «Vraiment, nous sommes envoyés à vous»",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "আমি তাদের নিকট দুজন রসূল প্রেরণ করেছিলাম, অতঃপর ওরা তাদেরকে মিথ্যা প্রতিপন্ন করল। তখন আমি তাদেরকে শক্তিশালী করলাম তৃতীয় একজনের মাধ্যমে। তারা সবাই বলল, আমরা তোমাদের প্রতি প্রেরিত হয়েছি।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Quando lhes enviamos dois Mensageiros, e eles os desmentiram, então, fortalecemo-los com um terceiro, eles disseram: \"Por certo, fomos enviados a vós",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Когда Мы отправили к ним двух посланников, они сочли их лжецами, и тогда Мы подкрепили их третьим. Они сказали: «Воистину, мы посланы к вам»",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "(یعنی) جب ہم نے ان کی طرف دو (پیغمبر) بھیجے تو انہوں نے ان کو جھٹلایا۔ پھر ہم نے تیسرے سے تقویت دی تو انہوں نے کہا کہ ہم تمہاری طرف پیغمبر ہو کر آئے ہیں",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_036_015",
+      "reference": {
+        "surah_number": 36,
+        "surah_name": "Yaseen",
+        "surah_name_ar": "سُوْرَةُ يٰسٓ",
+        "surah_name_translation": "Yaseen",
+        "ayah_number": 15,
+        "juz": 22,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 15,
+      "translations": {
+        "ar": {
+          "text": "قَالُواْ مَآ أَنتُمۡ إِلَّا بَشَرࣱ مِّثۡلُنَا وَمَآ أَنزَلَ ٱلرَّحۡمَٰنُ مِن شَيۡءٍ إِنۡ أَنتُمۡ إِلَّا تَكۡذِبُونَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "The people replied, “You are only humans like us, and the Most Compassionate has not revealed anything. You are simply lying!”",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "他们说：你们只是象我们一样的凡人。至仁主没有降示任何物，你们只是说谎的。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "वे बोले, \"तुम तो बस हमारे ही जैसे मनुष्य हो। रहमान ने तो कोई भी चीज़ अवतरित नहीं की है। तुम केवल झूठ बोलते हो।",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Respondieron [los incrédulos]: \"Ustedes no son más que seres humanos como nosotros. El Misericordioso no ha revelado nada, ustedes son tan solo unos mentirosos",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Mais ils [les gens] dirent: «Vous n'êtes que des hommes comme nous. Le Tout Miséricordieux n'a rien fait descendre et vous ne faites que mentir»",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "তারা বলল, তোমরা তো আমাদের মতই মানুষ, রহমান আল্লাহ কিছুই নাযিল করেননি। তোমরা কেবল মিথ্যাই বলে যাচ্ছ।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Os habitantes da cidade disseram: \"Vós não sois senão mortais como nós, e O Misericordioso nada fez descer; vós nada fazeis senão mentir",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Они сказали: «Вы - такие же люди, как и мы. Милостивый ничего не ниспосылал, а вы всего лишь лжете»",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "وہ بولے کہ تم (اور کچھ) نہیں مگر ہماری طرح کے آدمی (ہو) اور خدا نے کوئی چیز نازل نہیں کی تم محض جھوٹ بولتے ہو",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_036_016",
+      "reference": {
+        "surah_number": 36,
+        "surah_name": "Yaseen",
+        "surah_name_ar": "سُوْرَةُ يٰسٓ",
+        "surah_name_translation": "Yaseen",
+        "ayah_number": 16,
+        "juz": 22,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 6,
+      "translations": {
+        "ar": {
+          "text": "قَالُواْ رَبُّنَا يَعۡلَمُ إِنَّآ إِلَيۡكُمۡ لَمُرۡسَلُونَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "The messengers responded, “Our Lord knows that we have truly been sent to you",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "他们说：我们的主知道，我们确是被派遣来教化你们的，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "उन्होंने कहा, \"हमारा रब जानता है कि हम निश्चय ही तुम्हारी ओर भेजे गए है",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Dijeron [los Mensajeros]: \"Nuestro Señor sabe que realmente somos Mensajeros",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Ils [les messagers] dirent: «Notre Seigneur sait qu'en vérité nous sommes envoyés à vous",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "রাসূলগণ বলল, আমাদের পরওয়ারদেগার জানেন, আমরা অবশ্যই তোমাদের প্রতি প্রেরিত হয়েছি।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Os Mensageiros disseram: \"Nosso Senhor sabe que, por certo, fomos enviados a vós",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Они сказали: «Наш Господь знает, что мы действительно посланы к вам",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "انہوں نے کہا کہ ہمارا پروردگار جانتا ہے کہ ہم تمہاری طرف (پیغام دے کر) بھیجے گئے ہیں",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_036_017",
+      "reference": {
+        "surah_number": 36,
+        "surah_name": "Yaseen",
+        "surah_name_ar": "سُوْرَةُ يٰسٓ",
+        "surah_name_translation": "Yaseen",
+        "ayah_number": 17,
+        "juz": 22,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 5,
+      "translations": {
+        "ar": {
+          "text": "وَمَا عَلَيۡنَآ إِلَّا ٱلۡبَلَٰغُ ٱلۡمُبِينُ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "And our duty is only to deliver ˹the message˺ clearly.”",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "我们只负明白的传达的责任。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "औऱ हमारी ज़िम्मेदारी तो केवल स्पष्ट रूप से संदेश पहुँचा देने की हैं।",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Solo somos responsables de transmitir el Mensaje de forma clara",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "et il ne nous incombe que de transmettre clairement (notre message)»",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "পরিস্কারভাবে আল্লাহর বাণী পৌছে দেয়াই আমাদের দায়িত্ব।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E não nos impende senão a evidente transmissão da Mensagem",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "На нас возложена только ясная передача откровения»",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور ہمارے ذمے تو صاف صاف پہنچا دینا ہے اور بس",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_036_018",
+      "reference": {
+        "surah_number": 36,
+        "surah_name": "Yaseen",
+        "surah_name_ar": "سُوْرَةُ يٰسٓ",
+        "surah_name_translation": "Yaseen",
+        "ayah_number": 18,
+        "juz": 22,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 12,
+      "translations": {
+        "ar": {
+          "text": "قَالُوٓاْ إِنَّا تَطَيَّرۡنَا بِكُمۡۖ لَئِن لَّمۡ تَنتَهُواْ لَنَرۡجُمَنَّكُمۡ وَلَيَمَسَّنَّكُم مِّنَّا عَذَابٌ أَلِيمࣱ‏",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "The people replied, “We definitely see you as a bad omen for us. If you do not desist, we will certainly stone you ˹to death˺ and you will be touched with a painful punishment from us.”",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "他们说：我们确已为你们而遭厄运，如果你们不停止宣传，我们誓必辱骂你们，或以痛苦的刑罚加于你们。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "वे बोले, \"हम तो तुम्हें अपशकुन समझते है, यदि तुम बाज न आए तो हम तुम्हें पथराव करके मार डालेंगे और तुम्हें अवश्य हमारी ओर से दुखद यातना पहुँचेगी।",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Dijeron [los incrédulos]: \"Tenemos un mal presagio con ustedes, y si no desisten [de condenar la idolatría] los lapidaremos y los torturaremos para causarles mucho dolor",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Ils dirent: «Nous voyons en vous un mauvais présage. Si vous ne cessez pas, nous vous lapiderons et un douloureux châtiment de notre part vous touchera»",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "তারা বলল, আমরা তোমাদেরকে অশুভ-অকল্যাণকর দেখছি। যদি তোমরা বিরত না হও, তবে অবশ্যই তোমাদেরকে প্রস্তর বর্ষণে হত্যা করব এবং আমাদের পক্ষ থেকে তোমাদেরকে যন্ত্রনাদায়ক শাস্তি স্পর্শ করবে।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Disseram: \"Pressentimos mau agouro, por vossa causa. Em verdade, se não vos abstendes disso, apedrejar-vos-emos, e doloroso castigo tocar-vos-á, de nossa parte",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Они сказали: «Воистину, мы увидели в вас дурное предзнаменование. Если вы не прекратите, то мы непременно побьем вас камнями и вас коснутся мучительные страдания от нас»",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "وہ بولے کہ ہم تم کو نامبارک سمجھتے ہیں۔ اگر تم باز نہ آؤ گے تو ہم تمہیں سنگسار کردیں گے اور تم کو ہم سے دکھ دینے والا عذاب پہنچے گا",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_036_019",
+      "reference": {
+        "surah_number": 36,
+        "surah_name": "Yaseen",
+        "surah_name_ar": "سُوْرَةُ يٰسٓ",
+        "surah_name_translation": "Yaseen",
+        "ayah_number": 19,
+        "juz": 22,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 9,
+      "translations": {
+        "ar": {
+          "text": "قَالُواْ طَٰٓئِرُكُم مَّعَكُمۡ أَئِن ذُكِّرۡتُمۚ بَلۡ أَنتُمۡ قَوۡمࣱ مُّسۡرِفُونَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "The messengers said, “Your bad omen lies within yourselves. Are you saying this because you are reminded ˹of the truth˺? In fact, you are a transgressing people.”",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "他们说：你们的厄运是伴随着你们的。难道有人教诲你们，（你们才为他而遭厄运吗？）不然！你们是过分的民众。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "उन्होंने कहा, \"तुम्हारा अवशकुन तो तुम्हारे अपने ही साथ है। क्या यदि तुम्हें याददिहानी कराई जाए (तो यह कोई क्रुद्ध होने की बात है)? नहीं, बल्कि तुम मर्यादाहीन लोग हो।",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Dijeron [los Mensajeros]: \"Su destino [bueno o malo] depende de ustedes. Pero ustedes, por el solo hecho de que los amonestemos [dirán que les traemos mala suerte]. En realidad son un pueblo de transgresores",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Ils dirent: «Votre mauvais présage est avec vous-mêmes. Est-ce que (c'est ainsi que vous agissez) quand on vous [le] rappelle? Mais vous êtes des gens outranciers!»",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "রসূলগণ বলল, তোমাদের অকল্যাণ তোমাদের সাথেই! এটা কি এজন্যে যে, আমরা তোমাদেরকে সদুপদেশ দিয়েছি? বস্তুতঃ তোমরা সীমা লংঘনকারী সম্প্রদায় বৈ নও।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Eles disseram: \"Vosso mau agouro está em vós. Se sois admoestados, pressentis mau agouro e descredes? Mas, sois um povo entregue a excessos",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Они сказали: «Ваше дурное предзнаменование обратится против вас самих. Неужели, если вас предостерегают, вы считаете это дурным предзнаменованием? О нет! Вы - народ излишествующий",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "انہوں نے کہا کہ تمہاری نحوست تمہارے ساتھ ہے۔ کیا اس لئے کہ تم کو نصیحت کی گئی۔ بلکہ تم ایسے لوگ ہو جو حد سے تجاوز کر گئے ہو",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_036_020",
+      "reference": {
+        "surah_number": 36,
+        "surah_name": "Yaseen",
+        "surah_name_ar": "سُوْرَةُ يٰسٓ",
+        "surah_name_translation": "Yaseen",
+        "ayah_number": 20,
+        "juz": 22,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 10,
+      "translations": {
+        "ar": {
+          "text": "وَجَآءَ مِنۡ أَقۡصَا ٱلۡمَدِينَةِ رَجُلࣱ يَسۡعَىٰ قَالَ يَٰقَوۡمِ ٱتَّبِعُواْ ٱلۡمُرۡسَلِينَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Then from the farthest end of the city a man came, rushing. He advised, “O my people! Follow the messengers",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "有一个人从城中最远的地方跑来说：我的宗族呀！你们应当顺从使者们，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "इतने में नगर के दूरवर्ती सिरे से एक व्यक्ति दौड़ता हुआ आया। उसने कहा, \"ऐ मेरी क़ौम के लोगो! उनका अनुवर्तन करो, जो भेजे गए है।",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Entonces llegó desde un extremo de la ciudad un hombre corriendo, que dijo: \"¡Oh, pueblo mío! Sigan a los Mensajeros",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Et du bout de la ville, un homme vint en toute hâte et dit: «O mon peuple, suivez les messagers",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "অতঃপর শহরের প্রান্তভাগ থেকে এক ব্যক্তি দৌড়ে এল। সে বলল, হে আমার সম্প্রদায় তোমরা রসূলগণের অনুসরণ কর।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E um homem chegou, do extremo da cidade, correndo. Disse: \"Ó meu povo! Segui os Mensageiros",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "С окраины города второпях пришел мужчина и сказал: «О мой народ! Последуйте за посланниками",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور شہر کے پرلے کنارے سے ایک آدمی دوڑتا ہوا آیا کہنے لگا کہ اے میری قوم پیغمبروں کے پیچھے چلو",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_036_021",
+      "reference": {
+        "surah_number": 36,
+        "surah_name": "Yaseen",
+        "surah_name_ar": "سُوْرَةُ يٰسٓ",
+        "surah_name_translation": "Yaseen",
+        "ayah_number": 21,
+        "juz": 22,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 8,
+      "translations": {
+        "ar": {
+          "text": "ٱتَّبِعُواْ مَن لَّا يَسۡـَٔلُكُمۡ أَجۡرࣰ ا وَهُم مُّهۡتَدُونَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Follow those who ask no reward of you, and are ˹rightly˺ guided",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "你们应当顺从那些遵循正道，而不向你们索取报酬的人们。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "उसका अनुवर्तन करो जो तुमसे कोई बदला नहीं माँगते और वे सीधे मार्ग पर है",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Sigan a quienes no les piden retribución alguna [por transmitirles el conocimiento], y están bien guiados",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "suivez ceux qui ne vous demandent aucun salaire et qui sont sur la bonne voie",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "অনুসরণ কর তাদের, যারা তোমাদের কাছে কোন বিনিময় কামনা করে না, অথচ তারা সুপথ প্রাপ্ত।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Segui a quem não vos pede prêmio algum, e são guiados",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Последуйте за теми, кто не просит у вас награды и следует прямым путем",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "ایسوں کے جو تم سے صلہ نہیں مانگتے اور وہ سیدھے رستے پر ہیں",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_036_022",
+      "reference": {
+        "surah_number": 36,
+        "surah_name": "Yaseen",
+        "surah_name_ar": "سُوْرَةُ يٰسٓ",
+        "surah_name_translation": "Yaseen",
+        "ayah_number": 22,
+        "juz": 22,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 7,
+      "translations": {
+        "ar": {
+          "text": "وَمَالِيَ لَآ أَعۡبُدُ ٱلَّذِي فَطَرَنِي وَإِلَيۡهِ تُرۡجَعُونَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "And why should I not worship the One Who has originated me, and to Whom you will be returned",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "（又说）：我怎能不崇拜那创造了我，而你们将被召归于他的主宰呢？",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "और मुझे क्या हुआ है कि मैं उसकी बन्दगी न करूँ, जिसने मुझे पैदा किया और उसी की ओर तुम्हें लौटकर जाना है",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "¿Cómo no iba a adorar a Quien me creó, si ante Él comparecerán",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "et qu'aurais-je à ne pas adorer Celui qui m'a créé? Et c'est vers Lui que vous serez ramenés",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "আমার কি হল যে, যিনি আমাকে সৃষ্টি করেছেন এবং যার কাছে তোমরা প্রত্যাবর্তিত হবে, আমি তাঁর এবাদত করব না?",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E por que razão não adoraria eu a Quem me criou e a Quem vós sereis retornados",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "И почему бы мне не поклоняться Тому, Кто сотворил меня и к Кому вы будете возвращены",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور مجھے کیا ہے میں اس کی پرستش نہ کروں جس نے مجھے پیدا کیا اور اسی کی طرف تم کو لوٹ کر جانا ہے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_036_023",
+      "reference": {
+        "surah_number": 36,
+        "surah_name": "Yaseen",
+        "surah_name_ar": "سُوْرَةُ يٰسٓ",
+        "surah_name_translation": "Yaseen",
+        "ayah_number": 23,
+        "juz": 22,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 16,
+      "translations": {
+        "ar": {
+          "text": "ءَأَتَّخِذُ مِن دُونِهِۦٓ ءَالِهَةً إِن يُرِدۡنِ ٱلرَّحۡمَٰنُ بِضُرࣲّ لَّا تُغۡنِ عَنِّي شَفَٰعَتُهُمۡ شَيۡـࣰٔ ا وَلَا يُنقِذُونِ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "How could I take besides Him other gods whose intercession would not be of any benefit to me, nor could they save me if the Most Compassionate intended to harm me",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "难道我能舍他而敬事一些神灵吗？如果至仁主欲降灾于我，则他们的说情，对于我毫无裨益，他们也不能拯救我。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "क्या मैं उससे इतर दूसरे उपास्य बना लूँ? यदि रहमान मुझे कोई तकलीफ़ पहुँचाना चाहे तो उनकी सिफ़ारिश मेरे कुछ काम नहीं आ सकती और न वे मुझे छुडा ही सकते है",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "¿Acaso iba a tomar, en lugar de Él, a ídolos que, si el Compasivo decretara alguna adversidad para mí, su intercesión de nada me valdría ni podrían protegerme",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Prendrais-je en dehors de Lui des divinités? Si le Tout Miséricordieux me veut du mal, leur intercession de me servira à rien et ils ne me sauveront pas",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "আমি কি তাঁর পরিবর্তে অন্যান্যদেরকে উপাস্যরূপে গ্রহণ করব? করুণাময় যদি আমাকে কষ্টে নিপতিত করতে চান, তবে তাদের সুপারিশ আমার কোনই কাজে আসবে না এবং তারা আমাকে রক্ষাও করতে পারবে না।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Tomaria, em vez d'Ele, outros deuses? Se O Misericordioso me desejasse um infortúnio, sua intercessão de nada me valeria, e eles me não poderiam salvar",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Неужели я стану поклоняться другим богам помимо Него? Ведь если Милостивый пожелает причинить мне зло, то их заступничество ничем не поможет мне, и они не спасут меня",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "کیا میں ان کو چھوڑ کر اوروں کو معبود بناؤں؟ اگر خدا میرے حق میں نقصان کرنا چاہے تو ان کی سفارش مجھے کچھ بھی فائدہ نہ دے سکے اور نہ وہ مجھ کو چھڑا ہی سکیں",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_036_024",
+      "reference": {
+        "surah_number": 36,
+        "surah_name": "Yaseen",
+        "surah_name_ar": "سُوْرَةُ يٰسٓ",
+        "surah_name_translation": "Yaseen",
+        "ayah_number": 24,
+        "juz": 22,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 6,
+      "translations": {
+        "ar": {
+          "text": "إِنِّيٓ إِذࣰ ا لَّفِي ضَلَٰلࣲ مُّبِينٍ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Indeed, I would then be clearly astray",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "如果那样，我确是在明显的迷误中。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "तब तो मैं अवश्य स्पष्ट गुमराही में पड़ जाऊँगा",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Si lo hiciera, estaría en un error evidente",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Je serai alors dans un égarement évident",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "এরূপ করলে আমি প্রকাশ্য পথভ্রষ্টতায় পতিত হব।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Por certo, nesse caso, estaria em evidente descaminho",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Вот тогда я окажусь в очевидном заблуждении",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "تب تو میں صریح گمراہی میں مبتلا ہوگیا",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_036_025",
+      "reference": {
+        "surah_number": 36,
+        "surah_name": "Yaseen",
+        "surah_name_ar": "سُوْرَةُ يٰسٓ",
+        "surah_name_translation": "Yaseen",
+        "ayah_number": 25,
+        "juz": 22,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 4,
+      "translations": {
+        "ar": {
+          "text": "إِنِّيٓ ءَامَنتُ بِرَبِّكُمۡ فَٱسۡمَعُونِ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "I do believe in your Lord, so listen to me.”",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "我确已归信你们的主，故你们应当听从我。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "मैं तो तुम्हारे रब पर ईमान ले आया, अतः मेरी सुनो",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Escúchenme, yo he abrazado la fe en su Señor\". [Pero su pueblo lo mató]",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "[Mais] je crois en votre Seigneur. Ecoutez-moi donc»",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "আমি নিশ্চিতভাবে তোমাদের পালনকর্তার প্রতি বিশ্বাস স্থাপন করলাম। অতএব আমার কাছ থেকে শুনে নাও।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Por certo, creio em vosso Senhor. Então, ouvi-me",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Воистину, я уверовал в вашего Господа. Послушайте же меня»",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "میں تمہارے پروردگار پر ایمان لایا ہوں سو میری بات سن رکھو",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_036_026",
+      "reference": {
+        "surah_number": 36,
+        "surah_name": "Yaseen",
+        "surah_name_ar": "سُوْرَةُ يٰسٓ",
+        "surah_name_translation": "Yaseen",
+        "ayah_number": 26,
+        "juz": 22,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 7,
+      "translations": {
+        "ar": {
+          "text": "قِيلَ ٱدۡخُلِ ٱلۡجَنَّةَۖ قَالَ يَٰلَيۡتَ قَوۡمِي يَعۡلَمُونَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "˹But they killed him, then˺ he was told ˹by the angels˺, “Enter Paradise!” He said, “If only my people knew",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "有声音对他说：你入乐园吧！他说：但愿我的宗族知道，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "कहा गया, \"प्रवेश करो जन्नत में!\" उसने कहा, \"ऐ काश! मेरी क़ौम के लोग जानते",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Entonces le fue dicho: \"Ingresa al Paraíso\". Dijo: \"¡Ojalá mi pueblo supiera",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Alors, il [lui] fut dit: «Entre au Paradis». Il dit: «Ah si seulement mon peuple savait",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "তাকে বলা হল, জান্নাতে প্রবেশ কর। সে বলল হায়, আমার সম্প্রদায় যদি কোন ক্রমে জানতে পারত-",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Foi-Ihe dito: \"Entra no Paraíso.\" Ele disse: \"Quem dera meu povo soubesse",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Ему было сказано: «Войди в Рай!». Он сказал: «О, если бы мой народ знал",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "حکم ہوا کہ بہشت میں داخل ہوجا۔ بولا کاش! میری قوم کو خبر ہو",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_036_027",
+      "reference": {
+        "surah_number": 36,
+        "surah_name": "Yaseen",
+        "surah_name_ar": "سُوْرَةُ يٰسٓ",
+        "surah_name_translation": "Yaseen",
+        "ayah_number": 27,
+        "juz": 22,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 7,
+      "translations": {
+        "ar": {
+          "text": "بِمَا غَفَرَ لِي رَبِّي وَجَعَلَنِي مِنَ ٱلۡمُكۡرَمِينَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "of how my Lord has forgiven me, and made me one of the honourable.”",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "我的主已赦宥我，并使我成为受优待者！",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "कि मेरे रब ने मुझे क्षमा कर दिया और मुझे प्रतिष्ठित लोगों में सम्मिलित कर दिया।",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "que mi Señor me perdonó mis faltas y me honró [con la bienaventuranza]",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "en raison de quoi mon Seigneur m'a pardonné et mis au nombre des honorés»",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "যে আমার পরওয়ারদেগার আমাকে ক্ষমা করেছেন এবং আমাকে সম্মানিতদের অন্তর্ভুক্ত করেছেন।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Do perdão de meu Senhor para mim, e de que me fez dos honrados",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "за что мой Господь простил меня (или что мой Господь простил меня) и что Он сделал меня одним из почитаемых!»",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "کہ خدا نے مجھے بخش دیا اور عزت والوں میں کیا",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_036_028",
+      "reference": {
+        "surah_number": 36,
+        "surah_name": "Yaseen",
+        "surah_name_ar": "سُوْرَةُ يٰسٓ",
+        "surah_name_translation": "Yaseen",
+        "ayah_number": 28,
+        "juz": 23,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 13,
+      "translations": {
+        "ar": {
+          "text": "۞وَمَآ أَنزَلۡنَا عَلَىٰ قَوۡمِهِۦ مِنۢ بَعۡدِهِۦ مِن جُندࣲ مِّنَ ٱلسَّمَآءِ وَمَا كُنَّا مُنزِلِينَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "We did not send any soldiers from the heavens against his people after his death, nor did We need to",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "在他之后，我没有降天神去惩治他的宗族，我也不常常降天神。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "उसके पश्चात उसकी क़ौम पर हमने आकाश से कोई सेना नहीं उतारी और हम इस तरह उतारा नहीं करते",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "No envié contra su pueblo, después de él, ningún ejército [de ángeles]",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Et après lui Nous ne fîmes descendre du ciel aucune armée. Nous ne voulions rien faire descendre sur son peuple",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "তারপর আমি তার সম্প্রদায়ের উপর আকাশ থেকে কোন বাহিনী অবতীর্ণ করিনি এবং আমি (বাহিনী) অবতরণকারীও না।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E não fizemos descer sobre seu povo, depois dele, exército algum do céu; e não é admissível que o fizéssemos descer",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "После него Мы не ниспослали на его народ никакого войска с неба и не собирались делать этого",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور ہم نے اس کے بعد اس کی قوم پر کوئی لشکر نہیں اُتارا اور نہ ہم اُتارنے والے تھے ہی",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_036_029",
+      "reference": {
+        "surah_number": 36,
+        "surah_name": "Yaseen",
+        "surah_name_ar": "سُوْرَةُ يٰسٓ",
+        "surah_name_translation": "Yaseen",
+        "ayah_number": 29,
+        "juz": 23,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 8,
+      "translations": {
+        "ar": {
+          "text": "إِن كَانَتۡ إِلَّا صَيۡحَةࣰ وَٰحِدَةࣰ فَإِذَا هُمۡ خَٰمِدُونَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "All it took was one ˹mighty˺ blast, and they were extinguished at once",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "才听见一声呐喊，他们就灭亡了。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "वह तो केवल एक प्रचंड चीत्कार थी। तो सहसा क्या देखते है कि वे बुझकर रह गए",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "pues fue suficiente con un único sonido desgarrador para que fueran aniquilados",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Ce ne fut qu'un seul Cri et les voilà éteints",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "বস্তুতঃ এ ছিল এক মহানাদ। অতঃপর সঙ্গে সঙ্গে সবাই স্তদ্ধ হয়ে গেল।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Não houve senão um só Grito; então, ei-los extintos",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Был всего лишь один глас, и они затухли",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "وہ تو صرف ایک چنگھاڑ تھی (آتشین) سو وہ (اس سے) ناگہاں بجھ کر رہ گئے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_036_030",
+      "reference": {
+        "surah_number": 36,
+        "surah_name": "Yaseen",
+        "surah_name_ar": "سُوْرَةُ يٰسٓ",
+        "surah_name_translation": "Yaseen",
+        "ayah_number": 30,
+        "juz": 23,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 11,
+      "translations": {
+        "ar": {
+          "text": "يَٰحَسۡرَةً عَلَى ٱلۡعِبَادِۚ مَا يَأۡتِيهِم مِّن رَّسُولٍ إِلَّا كَانُواْ بِهِۦ يَسۡتَهۡزِءُونَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Oh pity, such beings! No messenger ever came to them without being mocked",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "哀哉众仆！只要有使者来教化他们，他们便加以愚弄。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "ऐ अफ़सोस बन्दो पर! जो रसूल भी उनके पास आया, वे उसका परिहास ही करते रहे",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "¡Pobres de esos siervos que cada vez que se presenta ante ellos un Mensajero, se burlan de él",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Hélas pour les esclaves [les humains]! Jamais il ne leur vient de messager sans qu'ils ne s'en raillent",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "বান্দাদের জন্যে আক্ষেপ যে, তাদের কাছে এমন কোন রসূলই আগমন করেনি যাদের প্রতি তারা বিদ্রুপ করে না।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Que aflição para os servos! Não lhes chegou Mensageiro algum, sem que dele zombassem",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "О горе рабам! Не приходил к ним ни один посланник, над которым бы они не издевались",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "بندوں پر افسوس ہے کہ ان کے پاس کوئی پیغمبر نہیں آتا مگر اس سے تمسخر کرتے ہیں",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_036_031",
+      "reference": {
+        "surah_number": 36,
+        "surah_name": "Yaseen",
+        "surah_name_ar": "سُوْرَةُ يٰسٓ",
+        "surah_name_translation": "Yaseen",
+        "ayah_number": 31,
+        "juz": 23,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 11,
+      "translations": {
+        "ar": {
+          "text": "أَلَمۡ يَرَوۡاْ كَمۡ أَهۡلَكۡنَا قَبۡلَهُم مِّنَ ٱلۡقُرُونِ أَنَّهُمۡ إِلَيۡهِمۡ لَا يَرۡجِعُونَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Have the deniers not considered how many peoples We destroyed before them who never came back to life again",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "难道他们不知道吗？在他们之前，我曾毁灭了许多世代，那些被毁灭的世代永不转回尘世。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "क्या उन्होंने नहीं देखा कि उनसे पहले कितनी ही नस्लों को हमने विनष्ट किया कि वे उनकी ओर पलटकर नहीं आएँगे",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "¿Acaso no observan cuántas generaciones que los precedieron he destruido? Esos ya no volverán [a la vida mundanal]",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Ne voient-ils pas combien de générations avant eux Nous avons fait périr? Lesquelles ne retourneront jamais parmi eux",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "তারা কি প্রত্যক্ষ করে না, তাদের পূর্বে আমি কত সম্প্রদায়কে ধ্বংস করেছি যে, তারা তাদের মধ্যে আর ফিরে আসবে না।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Não viram quantas gerações aniquilamos, antes deles? As quais a eles jamais retornarão",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Неужели они не видят, сколько поколений Мы погубили до них и что они не вернутся к ним",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "کیا انہوں نے نہیں دیکھا کہ ہم نے ان سے پہلے بہت سے لوگوں کو ہلاک کردیا تھا اب وہ ان کی طرف لوٹ کر نہیں آئیں گے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_036_032",
+      "reference": {
+        "surah_number": 36,
+        "surah_name": "Yaseen",
+        "surah_name_ar": "سُوْرَةُ يٰسٓ",
+        "surah_name_translation": "Yaseen",
+        "ayah_number": 32,
+        "juz": 23,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 6,
+      "translations": {
+        "ar": {
+          "text": "وَإِن كُلࣱّ لَّمَّا جَمِيعࣱ لَّدَيۡنَا مُحۡضَرُونَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Yet they will all be brought before Us",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "他们将通统被拘禁在我那里。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "और जितने भी है, सबके सब हमारे ही सामने उपस्थित किए जाएँगे",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Todos deberán comparecer ante Mí",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Et tous sans exception comparaîtront devant Nous",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "ওদের সবাইকে সমবেত অবস্থায় আমার দরবারে উপস্থিত হতেই হবে।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E, por certo, todos reunidos, serão trazidos para junto de Nós",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Воистину, все они будут собраны у Нас",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور سب کے سب ہمارے روبرو حاضر کيے جائیں گے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_036_033",
+      "reference": {
+        "surah_number": 36,
+        "surah_name": "Yaseen",
+        "surah_name_ar": "سُوْرَةُ يٰسٓ",
+        "surah_name_translation": "Yaseen",
+        "ayah_number": 33,
+        "juz": 23,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 11,
+      "translations": {
+        "ar": {
+          "text": "وَءَايَةࣱ لَّهُمُ ٱلۡأَرۡضُ ٱلۡمَيۡتَةُ أَحۡيَيۡنَٰهَا وَأَخۡرَجۡنَا مِنۡهَا حَبࣰّ ا فَمِنۡهُ يَأۡكُلُونَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "There is a sign for them in the dead earth: We give it life, producing grain from it for them to eat",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "他们有一种迹象：已死的大地，我使它复活，我使它生长粮食，以作他们的食品。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "और एक निशानी उनके लिए मृत भूमि है। हमने उसे जीवित किया और उससे अनाज निकाला, तो वे खाते है",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Un signo [que evidencia cómo es la resurrección] es la tierra árida que revivo [con lluvias] y hago brotar de ella los granos con que se alimentan",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Une preuve pour eux est la terre morte, à laquelle Nous redonnons la vie, et d'où Nous faisons sortir des grains dont ils mangent",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "তাদের জন্যে একটি নিদর্শন মৃত পৃথিবী। আমি একে সঞ্জীবিত করি এবং তা থেকে উৎপন্ন করি শস্য, তারা তা থেকে ভক্ষণ করে।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E é um sinal, para eles, a terra morta: vivificamo-la e dela fazemos sair grãos; então, deles comem",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Знамением для них является мертвая земля, которую Мы оживили и извлекли из нее зерно, которым они питаются",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور ایک نشانی ان کے لئے زمین مردہ ہے کہ ہم نے اس کو زندہ کیا اور اس میں سے اناج اُگایا۔ پھر یہ اس میں سے کھاتے ہیں",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_036_034",
+      "reference": {
+        "surah_number": 36,
+        "surah_name": "Yaseen",
+        "surah_name_ar": "سُوْرَةُ يٰسٓ",
+        "surah_name_translation": "Yaseen",
+        "ayah_number": 34,
+        "juz": 23,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 10,
+      "translations": {
+        "ar": {
+          "text": "وَجَعَلۡنَا فِيهَا جَنَّٰتࣲ مِّن نَّخِيلࣲ وَأَعۡنَٰبࣲ وَفَجَّرۡنَا فِيهَا مِنَ ٱلۡعُيُونِ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "And We have placed in it gardens of palm trees and grapevines, and caused springs to gush forth in it",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "我在大地上创造许多椰枣园、葡萄园，我使许多源泉，从地中涌出，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "और हमने उसमें खजूरों और अंगूरों के बाग लगाए और उसमें स्रोत प्रवाहित किए",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "En ella hay jardines de palmeras y vides, e hice brotar de ella manantiales",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Nous y avons mis des jardins de palmiers et de vignes et y avons fait jaillir des sources",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "আমি তাতে সৃষ্টি করি খেজুর ও আঙ্গুরের বাগান এবং প্রবাহিত করি তাতে নির্ঝরিণী।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E, nela, fazemos jardins de tamareiras e videiras e, dela, fazemos emanar fontes",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Мы создали на ней сады из финиковых пальм и винограда и заставили биться в них источники",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور اس میں کھجوروں اور انگوروں کے باغ پیدا کیے اور اس میں چشمے جاری کردیئے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_036_035",
+      "reference": {
+        "surah_number": 36,
+        "surah_name": "Yaseen",
+        "surah_name_ar": "سُوْرَةُ يٰسٓ",
+        "surah_name_translation": "Yaseen",
+        "ayah_number": 35,
+        "juz": 23,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 8,
+      "translations": {
+        "ar": {
+          "text": "لِيَأۡكُلُواْ مِن ثَمَرِهِۦ وَمَا عَمِلَتۡهُ أَيۡدِيهِمۡۚ أَفَلَا يَشۡكُرُونَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "so that they may eat from its fruit, which they had no hand in making. Will they not then give thanks",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "以便他们食其果实。这些果实不是他们的手造出来的，难道他们不感谢么？",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "ताकि वे उसके फल खाएँ - हालाँकि यह सब कुछ उनके हाथों का बनाया हुआ नहीं है। - तो क्या वे आभार नहीं प्रकट करते",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "para que comieran de sus frutos. No fueron las manos de ustedes las que los crearon. ¿Acaso no van a agradecer [a Dios]",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "afin qu'ils mangent de Ses fruits et de ce que leurs mains ont produit. Ne seront-ils pas reconnaissants",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "যাতে তারা তার ফল খায়। তাদের হাত একে সৃষ্টি করে না। অতঃপর তারা কৃতজ্ঞতা প্রকাশ করে না কেন?",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Para que eles comam de seus frutos e do que suas próprias mãos fazem. Então, não agradecem",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "чтобы они вкушали их плоды и то, что создали своими руками (или чтобы они вкушали плоды, которые они не создали своими руками). Неужели они не будут благодарны",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "تاکہ یہ ان کے پھل کھائیں اور ان کے ہاتھوں نے تو ان کو نہیں بنایا تو پھر یہ شکر کیوں نہیں کرتے؟",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_036_036",
+      "reference": {
+        "surah_number": 36,
+        "surah_name": "Yaseen",
+        "surah_name_ar": "سُوْرَةُ يٰسٓ",
+        "surah_name_translation": "Yaseen",
+        "ayah_number": 36,
+        "juz": 23,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 13,
+      "translations": {
+        "ar": {
+          "text": "سُبۡحَٰنَ ٱلَّذِي خَلَقَ ٱلۡأَزۡوَٰجَ كُلَّهَا مِمَّا تُنۢبِتُ ٱلۡأَرۡضُ وَمِنۡ أَنفُسِهِمۡ وَمِمَّا لَا يَعۡلَمُونَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Glory be to the One Who created all ˹things in˺ pairs—˹be it˺ what the earth produces, their genders, or what they do not know",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "赞颂真主，超绝万物！他创造一切配偶，地面所生产的，他们自己，以及他们所不知道的，都有配偶。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "महिमावान है वह जिसने सबके जोड़े पैदा किए धरती जो चीजें उगाती है उनमें से भी और स्वयं उनकी अपनी जाति में से भी और उन चीज़ो में से भी जिनको वे नहीं जानते",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Glorificado sea Aquel que creó todas las especies en pares; las que brotan de la tierra, los seres humanos y otras [criaturas] que desconocen",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Louange à Celui qui a créé tous les couples de ce que la terre fait pousser, d'eux-mêmes, et de ce qu'ils ne savent pas",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "পবিত্র তিনি যিনি যমীন থেকে উৎপন্ন উদ্ভিদকে, তাদেরই মানুষকে এবং যা তারা জানে না, তার প্রত্যেককে জোড়া জোড়া করে সৃষ্টি করেছেন।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Glorificado seja Quem criou todos os casais do que a terra brota, e deles mesmos e do que não sabem",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Пречист Тот, Кто сотворил парами то, что растит земля, их самих и то, чего они не знают",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "وہ خدا پاک ہے جس نے زمین کی نباتات کے اور خود ان کے اور جن چیزوں کی ان کو خبر نہیں سب کے جوڑے بنائے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_036_037",
+      "reference": {
+        "surah_number": 36,
+        "surah_name": "Yaseen",
+        "surah_name_ar": "سُوْرَةُ يٰسٓ",
+        "surah_name_translation": "Yaseen",
+        "ayah_number": 37,
+        "juz": 23,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 9,
+      "translations": {
+        "ar": {
+          "text": "وَءَايَةࣱ لَّهُمُ ٱلَّيۡلُ نَسۡلَخُ مِنۡهُ ٱلنَّهَارَ فَإِذَا هُم مُّظۡلِمُونَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "There is also a sign for them in the night: We strip from it daylight, then—behold!—they are in darkness",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "他们有一种迹象，我使白昼脱离黑夜，他们便忽然在黑暗中。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "और एक निशानी उनके लिए रात है। हम उसपर से दिन को खींच लेते है। फिर क्या देखते है कि वे अँधेरे में रह गए",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Tienen un signo [del poder divino] en la noche que le sucede al día, y quedan entonces a oscuras",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Et une preuve pour eux est la nuit. Nous en écorchons le jour et ils sont alors dans les ténèbres",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "তাদের জন্যে এক নিদর্শন রাত্রি, আমি তা থেকে দিনকে অপসারিত করি, তখনই তারা অন্ধকারে থেকে যায়।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E é um sinal para eles a noite, da qual esfolamos o dia: então, ei-los imersos nas trevas",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Знамением для них является ночь, которую Мы отделяем ото дня, и вот они погружаются во мрак",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور ایک نشانی ان کے لئے رات ہے کہ اس میں سے ہم دن کو کھینچ لیتے ہیں تو اس وقت ان پر اندھیرا چھا جاتا ہے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_036_038",
+      "reference": {
+        "surah_number": 36,
+        "surah_name": "Yaseen",
+        "surah_name_ar": "سُوْرَةُ يٰسٓ",
+        "surah_name_translation": "Yaseen",
+        "ayah_number": 38,
+        "juz": 23,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 8,
+      "translations": {
+        "ar": {
+          "text": "وَٱلشَّمۡسُ تَجۡرِي لِمُسۡتَقَرࣲّ لَّهَاۚ ذَٰلِكَ تَقۡدِيرُ ٱلۡعَزِيزِ ٱلۡعَلِيمِ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "The sun travels for its fixed term. That is the design of the Almighty, All-Knowing",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "太阳疾行，至一定所，那是万能的、全知的主所预定的。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "और सूर्य अपने नियत ठिकाने के लिए चला जा रहा है। यह बाँधा हुआ हिसाब है प्रभुत्वशाली, ज्ञानवान का",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "El Sol orbita como le fue designado; ello es un decreto del Poderoso, el que todo lo sabe",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "et le soleil court vers un gîte qui lui est assigné; telle est la détermination du Tout Puissant, de l'Omniscient",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "সূর্য তার নির্দিষ্ট অবস্থানে আবর্তন করে। এটা পরাক্রমশালী, সর্বজ্ঞ, আল্লাহর নিয়ন্ত্রণ।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E o sol corre para uma morada pertencente a ele: essa é a determinação dO Todo-Poderoso, dO Onisciente",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Солнце плывет к своему местопребыванию. Так предопределил Могущественный, Знающий",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور سورج اپنے مقرر رستے پر چلتا رہتا ہے۔ یہ (خدائے) غالب اور دانا کا (مقرر کیا ہوا) اندازہ ہے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_036_039",
+      "reference": {
+        "surah_number": 36,
+        "surah_name": "Yaseen",
+        "surah_name_ar": "سُوْرَةُ يٰسٓ",
+        "surah_name_translation": "Yaseen",
+        "ayah_number": 39,
+        "juz": 23,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 7,
+      "translations": {
+        "ar": {
+          "text": "وَٱلۡقَمَرَ قَدَّرۡنَٰهُ مَنَازِلَ حَتَّىٰ عَادَ كَٱلۡعُرۡجُونِ ٱلۡقَدِيمِ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "As for the moon, We have ordained ˹precise˺ phases for it, until it ends up like an old, curved palm stalk",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "月亮，我为它预定星宿，直到它再变成象干枯的椰枣枝一样。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "और रहा चन्द्रमा, तो उसकी नियति हमने मंज़िलों के क्रम में रखी, यहाँ तक कि वह फिर खजूर की पूरानी टेढ़ी टहनी के सदृश हो जाता है",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "A la Luna le decreté sus fases, hasta que [va menguando y] parece una rama seca de palmera",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Et la lune, Nous lui avons déterminé des phases jusqu'à ce qu'elle devienne comme la palme vieillie",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "চন্দ্রের জন্যে আমি বিভিন্ন মনযিল নির্ধারিত করেছি। অবশেষে সে পুরাতন খর্জুর শাখার অনুরূপ হয়ে যায়।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E a lua, determinamo-lhe fases, até tornar-se como o velho racemo da tamareira",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Мы предопределили для луны положения, пока она вновь не становится подобна старой пальмовой ветви",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور چاند کی بھی ہم نے منزلیں مقرر کردیں یہاں تک کہ (گھٹتے گھٹتے) کھجور کی پرانی شاخ کی طرح ہو جاتا ہے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_036_040",
+      "reference": {
+        "surah_number": 36,
+        "surah_name": "Yaseen",
+        "surah_name_ar": "سُوْرَةُ يٰسٓ",
+        "surah_name_translation": "Yaseen",
+        "ayah_number": 40,
+        "juz": 23,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 15,
+      "translations": {
+        "ar": {
+          "text": "لَا ٱلشَّمۡسُ يَنۢبَغِي لَهَآ أَن تُدۡرِكَ ٱلۡقَمَرَ وَلَا ٱلَّيۡلُ سَابِقُ ٱلنَّهَارِۚ وَكُلࣱّ فِي فَلَكࣲ يَسۡبَحُونَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "It is not for the sun to catch up with the moon, nor does the night outrun the day. Each is travelling in an orbit of their own",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "太阳不得追及月亮，黑夜也不得超越白昼，各在一个轨道上浮游着。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "न सूर्य ही से हो सकता है कि चाँद को जा पकड़े और न रात दिन से आगे बढ़ सकती है। सब एक-एक कक्षा में तैर रहे हैं",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "No le es posible al Sol alcanzar a la Luna, ni la noche puede adelantarse al día. Cada [astro] circula en su órbita",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Le soleil ne peut rattraper la lune, ni la nuit devancer le jour; et chacun vogue dans une orbite",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "সূর্য নাগাল পেতে পারে না চন্দ্রের এবং রাত্রি অগ্রে চলে না দিনের প্রত্যেকেই আপন আপন কক্ষপথে সন্তরণ করে।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Não é concebível ao sol atingir a lua, nem à noite antecipar-se ao dia. E cada qual voga, em uma órbita",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Солнцу не надлежит догонять луну, и ночь не опережает день. Каждый плывет по орбите",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "نہ تو سورج ہی سے ہوسکتا ہے کہ چاند کو جا پکڑے اور نہ رات ہی دن سے پہلے آسکتی ہے۔ اور سب اپنے اپنے دائرے میں تیر رہے ہیں",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_036_041",
+      "reference": {
+        "surah_number": 36,
+        "surah_name": "Yaseen",
+        "surah_name_ar": "سُوْرَةُ يٰسٓ",
+        "surah_name_translation": "Yaseen",
+        "ayah_number": 41,
+        "juz": 23,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 8,
+      "translations": {
+        "ar": {
+          "text": "وَءَايَةࣱ لَّهُمۡ أَنَّا حَمَلۡنَا ذُرِّيَّتَهُمۡ فِي ٱلۡفُلۡكِ ٱلۡمَشۡحُونِ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Another sign for them is that We carried their ancestors ˹with Noah˺ in the fully loaded Ark",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "他们有一种迹象：我使他们的子孙，乘坐满载的船舶。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "और एक निशानी उनके लिए यह है कि हमने उनके अनुवर्तियों को भरी हुई नौका में सवार किया",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Otro signo [del poder divino] es que a sus padres los transporté en una barca cargada",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Et un (autre) signe pour eux est que Nous avons transporté leur descendance sur le bateau chargé",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "তাদের জন্যে একটি নিদর্শন এই যে, আমি তাদের সন্তান-সন্ততিকে বোঝাই নৌকায় আরোহণ করিয়েছি।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E é um sinal para eles havermos carregado seus antepassados no barco repleto",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Знамением для них является то, что Мы перенесли их потомство в переполненном ковчеге",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور ایک نشانی ان کے لئے یہ ہے کہ ہم نے ان کی اولاد کو بھری ہوئی کشتی میں سوار کیا",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_036_042",
+      "reference": {
+        "surah_number": 36,
+        "surah_name": "Yaseen",
+        "surah_name_ar": "سُوْرَةُ يٰسٓ",
+        "surah_name_translation": "Yaseen",
+        "ayah_number": 42,
+        "juz": 23,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 6,
+      "translations": {
+        "ar": {
+          "text": "وَخَلَقۡنَا لَهُم مِّن مِّثۡلِهِۦ مَا يَرۡكَبُونَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "and created for them similar things to ride in",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "我为他们而创造象船舶那样可供骑乘的东西。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "और उनके लिए उसी के सदृश और भी ऐसी चीज़े पैदा की, जिनपर वे सवार होते है",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Y creé para ellos otras [barcas] en las que se embarcan",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "et Nous leur créâmes des semblables sur lesquels ils montent",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "এবং তাদের জন্যে নৌকার অনুরূপ যানবাহন সৃষ্টি করেছি, যাতে তারা আরোহণ করে।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E criamo-lhes, à sua semelhança, aquilo em que montam",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Мы создали для них по его подобию то, на что они садятся",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور ان کے لئے ویسی ہی اور چیزیں پیدا کیں جن پر وہ سوار ہوتے ہیں",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_036_043",
+      "reference": {
+        "surah_number": 36,
+        "surah_name": "Yaseen",
+        "surah_name_ar": "سُوْرَةُ يٰسٓ",
+        "surah_name_translation": "Yaseen",
+        "ayah_number": 43,
+        "juz": 23,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 9,
+      "translations": {
+        "ar": {
+          "text": "وَإِن نَّشَأۡ نُغۡرِقۡهُمۡ فَلَا صَرِيخَ لَهُمۡ وَلَا هُمۡ يُنقَذُونَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "If We willed, We could drown them: then no one would respond to their cries, nor would they be rescued—",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "如果我意欲，我就把他们淹死，而他们没有任何援助者，他们将不获拯救；",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "और यदि हम चाहें तो उन्हें डूबो दें। फिर न तो उनकी कोई चीख-पुकार हो और न उन्हें बचाया जा सके",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Si hubiera querido habría hecho que se ahogaran, y nadie podría haberlos socorrido ni ayudado",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Et si Nous le voulons, Nous les noyons; pour eux alors, pas de secoureur et ils ne seront pas sauvés",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "আমি ইচ্ছা করলে তাদেরকে নিমজ্জত করতে পারি, তখন তাদের জন্যে কোন সাহায্যকারী নেই এবং তারা পরিত্রাণও পাবে না।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E, se quiséssemos, afogá-los-íamos; então não haveria, para eles, salvador algum, e não serão salvos",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Если Мы пожелаем, то потопим их, и тогда никто не спасет их, и сами они не спасутся",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور اگر ہم چاہیں تو ان کو غرق کردیں۔ پھر نہ تو ان کا کوئی فریاد رس ہوا اور نہ ان کو رہائی ملے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_036_044",
+      "reference": {
+        "surah_number": 36,
+        "surah_name": "Yaseen",
+        "surah_name_ar": "سُوْرَةُ يٰسٓ",
+        "surah_name_translation": "Yaseen",
+        "ayah_number": 44,
+        "juz": 23,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 6,
+      "translations": {
+        "ar": {
+          "text": "إِلَّا رَحۡمَةࣰ مِّنَّا وَمَتَٰعًا إِلَىٰ حِينࣲ‏",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "except by mercy from Us, allowing them enjoyment for a ˹little˺ while",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "除非是因为我的恩惠，因为我要使他们享乐至某时。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "यह तो बस हमारी दयालुता और एक नियत समय तक की सुख-सामग्री है",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "pero por misericordia no lo hice, para que disfrutaran por un tiempo",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "sauf par une miséricorde de Notre part, et à titre de jouissance pour un temps",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "কিন্তু আমারই পক্ষ থেকে কৃপা এবং তাদেরকে কিছু কাল জীবনোপভোগ করার সুযোগ দেয়ার কারণে তা করি না।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Exceto por misericórdia vinda de Nós, e para gozo, até certo tempo",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "если только Мы не окажем им милость и не позволим им пользоваться благами до определенного времени",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "مگر یہ ہماری رحمت اور ایک مدت تک کے فائدے ہیں",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_036_045",
+      "reference": {
+        "surah_number": 36,
+        "surah_name": "Yaseen",
+        "surah_name_ar": "سُوْرَةُ يٰسٓ",
+        "surah_name_translation": "Yaseen",
+        "ayah_number": 45,
+        "juz": 23,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 11,
+      "translations": {
+        "ar": {
+          "text": "وَإِذَا قِيلَ لَهُمُ ٱتَّقُواْ مَا بَيۡنَ أَيۡدِيكُمۡ وَمَا خَلۡفَكُمۡ لَعَلَّكُمۡ تُرۡحَمُونَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "˹Still they turn away˺ when it is said to them, “Beware of what is ahead of you ˹in the Hereafter˺ and what is behind you ˹of destroyed nations˺ so you may be shown mercy.”",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "如果有声音对他们说：你们当畏惧在你们之前的，和在你们之后，以便你们蒙主的怜悯。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "और जब उनसे कहा जाता है कि उस चीज़ का डर रखो, जो तुम्हारे आगे है और जो तुम्हारे पीछे है, ताकि तुमपर दया कि जाए! (तो चुप्पी साझ लेते है)",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Cuando se les dice: \"Tengan precaución de lo que pueda acontecerles ahora [de castigo en este mundo] y [del castigo] en la otra vida, quizá así alcancen la misericordia [de Dios]",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Et quand on leur dit: «Craignez ce qu'il y a devant vous et ce qu'il y a derrière vous afin que vous ayez la miséricorde»",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "আর যখন তাদেরকে বলা হয়, তোমরা সামনের আযাব ও পেছনের আযাবকে ভয় কর, যাতে তোমাদের প্রতি অনুগ্রহ করা হয়, তখন তারা তা অগ্রাহ্য করে।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E, quando se lhes diz: \"Guardai-vos do que está adiante de vós e do que está detrás de vós na esperança de obterdes misericórdia\", voltam as costas",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Когда им говорят: «Бойтесь того, что перед вами, и того, что после вас, чтобы вы были помилованы», - они не отвечают",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور جب ان سے کہا جاتا ہے کہ جو تمہارے آگے اور جو تمہارے پیچھے ہے اس سے ڈرو تاکہ تم پر رحم کیا جائے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_036_046",
+      "reference": {
+        "surah_number": 36,
+        "surah_name": "Yaseen",
+        "surah_name_ar": "سُوْرَةُ يٰسٓ",
+        "surah_name_translation": "Yaseen",
+        "ayah_number": 46,
+        "juz": 23,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 11,
+      "translations": {
+        "ar": {
+          "text": "وَمَا تَأۡتِيهِم مِّنۡ ءَايَةࣲ مِّنۡ ءَايَٰتِ رَبِّهِمۡ إِلَّا كَانُواْ عَنۡهَا مُعۡرِضِينَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Whenever a sign comes to them from their Lord, they turn away from it",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "每逢他们的主的一种迹象来临他们，他们便背弃它。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "उनके पास उनके रब की आयतों में से जो आयत भी आती है, वे उससे कतराते ही है",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Cada vez que presencian uno de los signos de su Señor, lo rechazan",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Or, pas une preuve ne leur vient, parmi les preuves de leur Seigneur sans qu'ils ne s'en détournent",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "যখনই তাদের পালনকর্তার নির্দেশাবলীর মধ্যে থেকে কোন নির্দেশ তাদের কাছে আসে, তখনই তারা তা থেকে মুখে ফিরিয়ে নেয়।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E não Ihes chega sinal algum dos sinais de seu Senhor, sem que lhes estejam dando de ombros",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Какое бы знамение из знамений их Господа не явилось к ним, они непременно отворачиваются от него",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور ان کے پاس ان کے پروردگار کی کوئی نشانی نہیں آتی مگر اس سے منہ پھیر لیتے ہیں",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_036_047",
+      "reference": {
+        "surah_number": 36,
+        "surah_name": "Yaseen",
+        "surah_name_ar": "سُوْرَةُ يٰسٓ",
+        "surah_name_translation": "Yaseen",
+        "ayah_number": 47,
+        "juz": 23,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 24,
+      "translations": {
+        "ar": {
+          "text": "وَإِذَا قِيلَ لَهُمۡ أَنفِقُواْ مِمَّا رَزَقَكُمُ ٱللَّهُ قَالَ ٱلَّذِينَ كَفَرُواْ لِلَّذِينَ ءَامَنُوٓاْ أَنُطۡعِمُ مَن لَّوۡ يَشَآءُ ٱللَّهُ أَطۡعَمَهُۥٓ إِنۡ أَنتُمۡ إِلَّا فِي ضَلَٰلࣲ مُّبِينࣲ‏",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "And when it is said to them, “Donate from what Allah has provided for you,” the disbelievers say to the believers, “Why should we feed those whom Allah could have fed if He wanted to? You are clearly astray!”",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "如果有声音对他们说：你们应当分舍真主所赐予你们的。那末，不信道者将对信道者说：真主欲供养谁就供养谁，我们何必供养他呢？你们只是在明显的迷误中。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "और जब उनसे कहा जाता है कि \"अल्लाह ने जो कुछ रोज़ी तुम्हें दी है उनमें से ख़र्च करो।\" तो जिन लोगों ने इनकार किया है, वे उन लोगों से, जो ईमान लाए है, कहते है, \"क्या हम उसको खाना खिलाएँ जिसे .दि अल्लाह चाहता तो स्वयं खिला देता? तुम तो बस खुली गुमराही में पड़े हो।",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Cuando se les dice: \"Hagan caridades de lo que Dios les ha proveído\", dicen los incrédulos a los creyentes: \"¿Acaso tenemos que alimentar a quienes, si Dios quisiera, Él mismo alimentaría?\" Están en un error evidente",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Et quand on leur dit: «Dépensez de ce qu'Allah vous a attribué», ceux qui ont mécru disent à ceux qui ont cru: «Nourrirons-nous quelqu'un qu'Allah aurait nourri s'Il l'avait voulu? Vous n'êtes que dans un égarement évident»",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "যখন তাদেরকে বলা হয়, আল্লাহ তোমাদেরকে যা দিয়েছেন, তা থেকে ব্যয় কর। তখন কাফেররা মুমিনগণকে বলে, ইচ্ছা করলেই আল্লাহ যাকে খাওয়াতে পারতেন, আমরা তাকে কেন খাওয়াব? তোমরা তো স্পষ্ট বিভ্রান্তিতে পতিত রয়েছ।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E, quando se lhes diz: \"Despendei do que Allah vos deu por sustento\", os que renegam a Fé dizem aos que crêem: \"Alimentaremos nós aquele que Allah alimentaria, se quisesse? Não estais senão em evidente descaminho",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Когда им говорят: «Расходуйте из того, чем вас наделил Аллах», - неверующие говорят верующим: «Неужели мы будем кормить того, кого накормил бы Аллах, если бы пожелал? Воистину, вы лишь находитесь в очевидном заблуждении»",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور جب ان سے کہا جاتا ہے کہ جو رزق خدا نے تم کو دیا ہے اس میں سے خرچ کرو۔ تو کافر مومنوں سے کہتے ہیں کہ بھلا ہم ان لوگوں کو کھانا کھلائیں جن کو اگر خدا چاہتا تو خود کھلا دیتا۔ تم تو صریح غلطی میں ہو",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_036_048",
+      "reference": {
+        "surah_number": 36,
+        "surah_name": "Yaseen",
+        "surah_name_ar": "سُوْرَةُ يٰسٓ",
+        "surah_name_translation": "Yaseen",
+        "ayah_number": 48,
+        "juz": 23,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 7,
+      "translations": {
+        "ar": {
+          "text": "وَيَقُولُونَ مَتَىٰ هَٰذَا ٱلۡوَعۡدُ إِن كُنتُمۡ صَٰدِقِينَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "And they ask ˹the believers˺, “When will this threat come to pass, if what you say is true?”",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "他们说：这个警告什么时候实现呢？如果你们是说实话的。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "और वे कहते है कि \"यह वादा कब पूरा होगा, यदि तुम सच्चे हो",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Y dicen [desafiantes]: \"¿Cuándo se cumplirá esta advertencia, si es verdad lo que dices",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Et ils disent: «A quand cette promesse si vous êtes véridiques?»",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "তারা বলে, তোমরা সত্যবাদী হলে বল এই ওয়াদা কবে পূর্ণ হবে?",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E dizem: \"Quando será o cumprimento desta promessa, se sois verídicos",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Они говорят: «Когда сбудется это обещание, если вы говорите правду?»",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور کہتے ہیں اگر تم سچ کہتے ہو تو یہ وعدہ کب (پورا) ہوگا؟",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_036_049",
+      "reference": {
+        "surah_number": 36,
+        "surah_name": "Yaseen",
+        "surah_name_ar": "سُوْرَةُ يٰسٓ",
+        "surah_name_translation": "Yaseen",
+        "ayah_number": 49,
+        "juz": 23,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 8,
+      "translations": {
+        "ar": {
+          "text": "مَا يَنظُرُونَ إِلَّا صَيۡحَةࣰ وَٰحِدَةࣰ تَأۡخُذُهُمۡ وَهُمۡ يَخِصِّمُونَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "They must be awaiting a single Blast, which will seize them while they are ˹entrenched˺ in ˹worldly˺ disputes",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "他们只等待一声呐喊，在他们纷争的时候，袭击他们；",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "वे तो बस एक प्रचंड चीत्कार की प्रतीक्षा में है, जो उन्हें आ पकड़ेगी, जबकि वे झगड़ते होंगे",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "No esperan sino que un solo clamor los sorprenda mientras están discutiendo",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Ils n'attendent qu'un seul Cri qui les saisira alors qu'ils seront en train de disputer",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "তারা কেবল একটা ভয়াবহ শব্দের অপেক্ষা করছে, যা তাদেরকে আঘাত করবে তাদের পারস্পরিক বাকবিতন্ডাকালে।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Não esperam eles senão um só Grito, que os apanhará, enquanto estiverem disputando uns com outros",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Им нечего ожидать, кроме одного только гласа, который поразит их тогда, когда они будут препираться",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "یہ تو ایک چنگھاڑ کے منتظر ہیں جو ان کو اس حال میں کہ باہم جھگڑ رہے ہوں گے آپکڑے گی",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_036_050",
+      "reference": {
+        "surah_number": 36,
+        "surah_name": "Yaseen",
+        "surah_name_ar": "سُوْرَةُ يٰسٓ",
+        "surah_name_translation": "Yaseen",
+        "ayah_number": 50,
+        "juz": 23,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 7,
+      "translations": {
+        "ar": {
+          "text": "فَلَا يَسۡتَطِيعُونَ تَوۡصِيَةࣰ وَلَآ إِلَىٰٓ أَهۡلِهِمۡ يَرۡجِعُونَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Then they will not be able to make a ˹last˺ will, nor can they return to their own people",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "他们将来不能立遗嘱，也不能回家去。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "फिर न तो वे कोई वसीयत कर पाएँगे और न अपने घरवालों की ओर लौट ही सकेंगे",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Entonces no tendrán tiempo siquiera para dar una indicación, y tampoco podrán retornar con los suyos",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Ils ne pourront donc ni faire de testament, ni retourner chez leurs familles",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "তখন তারা ওছিয়ত করতেও সক্ষম হবে না। এবং তাদের পরিবার-পরিজনের কাছেও ফিরে যেতে পারবে না।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Então, não poderão fazer testamento nem retornar a suas famílias",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Они не смогут ни оставить завещание, ни вернуться к своим семьям",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "پھر نہ وصیت کرسکیں گے اور نہ اپنے گھر والوں میں واپس جاسکیں گے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_036_051",
+      "reference": {
+        "surah_number": 36,
+        "surah_name": "Yaseen",
+        "surah_name_ar": "سُوْرَةُ يٰسٓ",
+        "surah_name_translation": "Yaseen",
+        "ayah_number": 51,
+        "juz": 23,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 10,
+      "translations": {
+        "ar": {
+          "text": "وَنُفِخَ فِي ٱلصُّورِ فَإِذَا هُم مِّنَ ٱلۡأَجۡدَاثِ إِلَىٰ رَبِّهِمۡ يَنسِلُونَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "The Trumpet will be blown ˹a second time˺, then—behold!—they will rush from the graves to their Lord",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "号角一响，他们就从坟墓出来，奔向他们的主。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "और नरसिंघा में फूँक मारी जाएगी। फिर क्या देखेंगे कि वे क़ब्रों से निकलकर अपने रब की ओर चल पड़े हैं",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Cuando se sople la trompeta [por segunda vez], saldrán de sus tumbas hacia su Señor",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Et on soufflera dans la Trompe, et voilà que, des tombes, ils se précipiteront vers leur Seigneur",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "শিংগায় ফুঁক দেয়া হবে, তখনই তারা কবর থেকে তাদের পালনকর্তার দিকে ছুটে চলবে।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E soprar-se-á na Trombeta: então, ei-los que, das tumbas, sairão açodados para junto de seu Senhor",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Протрубят в Рог, и вот они устремляются к своему Господу из могил",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور (جس وقت) صور پھونکا جائے گا یہ قبروں سے (نکل کر) اپنے پروردگار کی طرف دوڑ پڑیں گے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_036_052",
+      "reference": {
+        "surah_number": 36,
+        "surah_name": "Yaseen",
+        "surah_name_ar": "سُوْرَةُ يٰسٓ",
+        "surah_name_translation": "Yaseen",
+        "ayah_number": 52,
+        "juz": 23,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 12,
+      "translations": {
+        "ar": {
+          "text": "قَالُواْ يَٰوَيۡلَنَا مَنۢ بَعَثَنَا مِن مَّرۡقَدِنَاۜۗ هَٰذَا مَا وَعَدَ ٱلرَّحۡمَٰنُ وَصَدَقَ ٱلۡمُرۡسَلُونَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "They will cry, “Woe to us! Who has raised us up from our place of rest? This must be what the Most Compassionate warned us of; the messengers told the truth!”",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "他们将说：伤哉我们！谁将我们从我们的卧处唤醒？这是至仁主所应许我们的，使者们已说实话了。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "कहेंगे, \"ऐ अफ़सोस हम पर! किसने हमें सोते से जगा दिया? यह वही चीज़ है जिसका रहमान ने वादा किया था और रसूलों ने सच कहा था।",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Dirán: \"¡Ay de nosotros! ¿Qué nos hizo surgir de nuestro lecho?\" [Se les dirá:] \"Eso fue lo que les prometió el Misericordioso, los Mensajeros les decían la verdad",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "en disant: «Malheur à nous! Qui nous a ressuscités de là où nous dormions?» C'est ce que le Tout Miséricordieux avait promis; et les Messagers avaient dit vrai",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "তারা বলবে, হায় আমাদের দুর্ভোগ! কে আমাদেরকে নিদ্রাস্থল থেকে উখিত করল? রহমান আল্লাহ তো এরই ওয়াদা দিয়েছিলেন এবং রসূলগণ সত্য বলেছিলেন।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Dirão: \"Ai de nós! Quem nos ressuscitou de nosso lugar de descanso? Isto é o que O Misericordioso prometera, e os Mensageiros disseram a verdade",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Они скажут: «О горе нам! Кто поднял нас с места, где мы спали?». Это - то, что обещал Милостивый, и посланники говорили правду»",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "کہیں گے اے ہے ہمیں ہماری خوابگاہوں سے کس نے (جگا) اُٹھایا؟ یہ وہی تو ہے جس کا خدا نے وعدہ کیا تھا اور پیغمبروں نے سچ کہا تھا",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_036_053",
+      "reference": {
+        "surah_number": 36,
+        "surah_name": "Yaseen",
+        "surah_name_ar": "سُوْرَةُ يٰسٓ",
+        "surah_name_translation": "Yaseen",
+        "ayah_number": 53,
+        "juz": 23,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 10,
+      "translations": {
+        "ar": {
+          "text": "إِن كَانَتۡ إِلَّا صَيۡحَةࣰ وَٰحِدَةࣰ فَإِذَا هُمۡ جَمِيعࣱ لَّدَيۡنَا مُحۡضَرُونَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "It will only take one Blast, then at once they will all be brought before Us",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "才听见一声呐喊，他们就统统被拘禁在我这里。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "बस एक ज़ोर की चिंघाड़ होगी। फिर क्या देखेंगे कि वे सबके-सब हमारे सामने उपस्थित कर दिए गए",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "No habrá más que uno solo soplido [de la trompeta para marcar la resurrección], todos ellos deberán comparecer ante Mí",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Ce ne sera qu'un seul Cri, et voilà qu'ils seront tous amenés devant Nous",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "এটা তো হবে কেবল এক মহানাদ। সে মুহুর্তেই তাদের সবাইকে আমার সামনে উপস্থিত করা হবে।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Não houve senão um só Grito; então, ei-los que serão trazidos todos, para junto de Nós",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Будет один только глас, и все они будут собраны у Нас",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "صرف ایک زور کی آواز کا ہونا ہوگا کہ سب کے سب ہمارے روبرو آحاضر ہوں گے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_036_054",
+      "reference": {
+        "surah_number": 36,
+        "surah_name": "Yaseen",
+        "surah_name_ar": "سُوْرَةُ يٰسٓ",
+        "surah_name_translation": "Yaseen",
+        "ayah_number": 54,
+        "juz": 23,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 12,
+      "translations": {
+        "ar": {
+          "text": "فَٱلۡيَوۡمَ لَا تُظۡلَمُ نَفۡسࣱ شَيۡـࣰٔ ا وَلَا تُجۡزَوۡنَ إِلَّا مَا كُنتُمۡ تَعۡمَلُونَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "On that Day no soul will be wronged in the least, nor will you be rewarded except for what you used to do",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "在那日，任何人不受丝毫枉曲；你们只依自己的行为而受报酬。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "अब आज किसी जीव पर कुछ भी ज़ुल्म न होगा और तुम्हें बदले में वही मिलेगा जो कुछ तुम करते रहे हो",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Ese día ningún alma será tratada injustamente, solo serán juzgados acorde a las obras que realizaron",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Ce jour-là, aucune âme ne sera lésée en rien. Et vous ne serez rétribués que selon ce que vous faisiez",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "আজকের দিনে কারও প্রতি জুলুম করা হবে না এবং তোমরা যা করবে কেবল তারই প্রতিদান পাবে।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Então, nesse dia, nenhuma alma nada sofrerá de injustiça, e não sereis recompensados senão pelo que fazíeis",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Сегодня ни одной душе не будет причинено никакой несправедливости, и вам воздастся только за то, что вы совершали",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اس روز کسی شخص پر کچھ ظلم نہیں کیا جائے گا اور تم کو بدلہ ویسا ہی ملے گا جیسے تم کام کرتے تھے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_036_055",
+      "reference": {
+        "surah_number": 36,
+        "surah_name": "Yaseen",
+        "surah_name_ar": "سُوْرَةُ يٰسٓ",
+        "surah_name_translation": "Yaseen",
+        "ayah_number": 55,
+        "juz": 23,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 7,
+      "translations": {
+        "ar": {
+          "text": "إِنَّ أَصۡحَٰبَ ٱلۡجَنَّةِ ٱلۡيَوۡمَ فِي شُغُلࣲ فَٰكِهُونَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Indeed, on that Day the residents of Paradise will be busy enjoying themselves",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "乐园的居民在那日确是从事于愉乐的。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "निश्चय ही जन्नतवाले आज किसी न किसी काम नें व्यस्त आनन्द ले रहे है",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "La gente del Paraíso, ese día, estarán felices disfrutando",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Les gens du Paradis seront, ce jour-là, dans une occupation qui les remplit de bonheur",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "এদিন জান্নাতীরা আনন্দে মশগুল থাকবে।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Por certo, os companheiros do Paraíso, nesse dia, estarão absortos em delícias, alegres",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Воистину, обитатели Рая сегодня будут заняты тем, что будут наслаждаться",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اہل جنت اس روز عیش ونشاط کے مشغلے میں ہوں گے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_036_056",
+      "reference": {
+        "surah_number": 36,
+        "surah_name": "Yaseen",
+        "surah_name_ar": "سُوْرَةُ يٰسٓ",
+        "surah_name_translation": "Yaseen",
+        "ayah_number": 56,
+        "juz": 23,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 7,
+      "translations": {
+        "ar": {
+          "text": "هُمۡ وَأَزۡوَٰجُهُمۡ فِي ظِلَٰلٍ عَلَى ٱلۡأَرَآئِكِ مُتَّكِـُٔونَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "They and their spouses will be in ˹cool˺ shade, reclining on ˹canopied˺ couches",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "他们和自己的配偶，在树荫下，靠在床上。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "वे और उनकी पत्नियों छायों में मसहरियों पर तकिया लगाए हुए है",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Ellos y sus cónyuges estarán a la sombra, reclinados sobre sofás",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "eux et leurs épouses sont sous des ombrages, accoudés sur les divans",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "তারা এবং তাদের স্ত্রীরা উপবিষ্ট থাকবে ছায়াময় পরিবেশে আসনে হেলান দিয়ে।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Eles e suas mulheres estarão na sombra, reclinados sobre coxins",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Они и их супруги будут лежать в тенях на ложах, прислонившись",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "وہ بھی اور ان کی بیویاں بھی سایوں میں تختوں پر تکیے لگائے بیٹھے ہوں گے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_036_057",
+      "reference": {
+        "surah_number": 36,
+        "surah_name": "Yaseen",
+        "surah_name_ar": "سُوْرَةُ يٰسٓ",
+        "surah_name_translation": "Yaseen",
+        "ayah_number": 57,
+        "juz": 23,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 6,
+      "translations": {
+        "ar": {
+          "text": "لَهُمۡ فِيهَا فَٰكِهَةࣱ وَلَهُم مَّا يَدَّعُونَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "There they will have fruits and whatever they desire",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "他们在乐园中，将有水果，并有他们所要求的恩典。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "उनके लिए वहाँ मेवे है। औऱ उनके लिए वह सब कुछ मौजूद है, जिसकी वे माँग करें",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Allí tendrán frutos, y todo lo que pidan",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Là ils auront des fruits et ils auront ce qu'ils réclameront",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "সেখানে তাদের জন্যে থাকবে ফল-মূল এবং যা চাইবে।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Nele, terão frutas e terão o que cobiçarem",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Там для них есть фрукты и все, что они потребуют",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "وہاں ان کے لئے میوے اور جو چاہیں گے (موجود ہوگا)",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_036_058",
+      "reference": {
+        "surah_number": 36,
+        "surah_name": "Yaseen",
+        "surah_name_ar": "سُوْرَةُ يٰسٓ",
+        "surah_name_translation": "Yaseen",
+        "ayah_number": 58,
+        "juz": 23,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 6,
+      "translations": {
+        "ar": {
+          "text": "سَلَٰمࣱ قَوۡلࣰ ا مِّن رَّبࣲّ رَّحِيمࣲ‏",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "And “Peace!” will be ˹their˺ greeting from the Merciful Lord",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "平安！这是从至慈主发出的祝辞。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "(उनपर) सलाम है, दयामय रब का उच्चारित किया हुआ",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "¡La paz sea con ustedes!\", serán las palabras del Señor Misericordioso",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "«Salâm» [paix et salut]! Parole de la part d'un Seigneur Très Miséricordieux",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "করুণাময় পালনকর্তার পক্ষ থেকে তাদেরকে বলা হবে সালাম।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Salam!\", Paz. É um dito que ouvirão de Um Senhor Misericordiador",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Милосердный Господь приветствует их словом: «Мир!»",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "پروردگار مہربان کی طرف سے سلام (کہا جائے گا)",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_036_059",
+      "reference": {
+        "surah_number": 36,
+        "surah_name": "Yaseen",
+        "surah_name_ar": "سُوْرَةُ يٰسٓ",
+        "surah_name_translation": "Yaseen",
+        "ayah_number": 59,
+        "juz": 23,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 4,
+      "translations": {
+        "ar": {
+          "text": "وَٱمۡتَٰزُواْ ٱلۡيَوۡمَ أَيُّهَا ٱلۡمُجۡرِمُونَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "˹Then the disbelievers will be told,˺ “Step away ˹from the believers˺ this Day, O wicked ones",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "犯罪的人们呀！今日你们当退避到一边去。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "और ऐ अपराधियों! आज तुम छँटकर अलग हो जाओ",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "¡Oh, transgresores! Hoy, por lo que hicieron, estarán lejos [de los creyentes]",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "«O injustes! Tenez-vous à l'écart ce jour-là",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "হে অপরাধীরা! আজ তোমরা আলাদা হয়ে যাও।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E Ele dirá: \"Separai-vos, ó criminosos, neste dia",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Отделитесь сегодня, грешники",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور گنہگارو! آج الگ ہوجاؤ",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_036_060",
+      "reference": {
+        "surah_number": 36,
+        "surah_name": "Yaseen",
+        "surah_name_ar": "سُوْرَةُ يٰسٓ",
+        "surah_name_translation": "Yaseen",
+        "ayah_number": 60,
+        "juz": 23,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 13,
+      "translations": {
+        "ar": {
+          "text": "۞أَلَمۡ أَعۡهَدۡ إِلَيۡكُمۡ يَٰبَنِيٓ ءَادَمَ أَن لَّا تَعۡبُدُواْ ٱلشَّيۡطَٰنَۖ إِنَّهُۥ لَكُمۡ عَدُوࣱّ مُّبِينࣱ‏",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Did I not command you, O Children of Adam, not to follow Satan, for he is truly your sworn enemy",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "阿丹的后裔呀！难道我没有嘱咐过你们吗？我说你们不要崇拜恶魔，他确是你们的仇敌。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "क्या मैंने तुम्हें ताकीद नहीं की थी, ऐ आदम के बेटो! कि शैतान की बन्दगी न करे। वास्तव में वह तुम्हारा खुला शत्रु है",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "¿Acaso no tomaron un compromiso conmigo, ¡oh, hijos de Adán!, de no obedecer ni adorar al demonio, que es un enemigo declarado para ustedes",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Ne vous ai-Je pas engagés, enfants d'Adam, à ne pas adorer le Diable? Car il est vraiment pour vous un ennemi déclaré",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "হে বনী-আদম! আমি কি তোমাদেরকে বলে রাখিনি যে, শয়তানের এবাদত করো না, সে তোমাদের প্রকাশ্য শত্রু?",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Não vos recomendei, ó filhos de Adão, que não adorásseis a Satã? Por certo, ele vos era inimigo declarado",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Разве Я не завещал вам, сыны Адама, не поклоняться дьяволу, который является вашим явным врагом",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اے آدم کی اولاد ہم نے تم سے کہہ نہیں دیا تھا کہ شیطان کو نہ پوجنا وہ تمہارا کھلا دشمن ہے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_036_061",
+      "reference": {
+        "surah_number": 36,
+        "surah_name": "Yaseen",
+        "surah_name_ar": "سُوْرَةُ يٰسٓ",
+        "surah_name_translation": "Yaseen",
+        "ayah_number": 61,
+        "juz": 23,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 5,
+      "translations": {
+        "ar": {
+          "text": "وَأَنِ ٱعۡبُدُونِيۚ هَٰذَا صِرَٰطࣱ مُّسۡتَقِيمࣱ‏",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "but to worship Me ˹alone˺? This is the Straight Path",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "你们应当崇拜我，这是正路。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "और यह कि मेरी बन्दगी करो? यही सीधा मार्ग है",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "y de que Me adorarían [solo a Mí]? Este es el sendero recto [que debían seguir]",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "et [ne vous ai-Je pas engagés] à M'adorer? Voilà un chemin bien droit",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "এবং আমার এবাদত কর। এটাই সরল পথ।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E que Me adorásseis? Esta é uma senda reta",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "и поклоняться Мне? Это - прямой путь",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور یہ کہ میری ہی عبادت کرنا۔ یہی سیدھا رستہ ہے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_036_062",
+      "reference": {
+        "surah_number": 36,
+        "surah_name": "Yaseen",
+        "surah_name_ar": "سُوْرَةُ يٰسٓ",
+        "surah_name_translation": "Yaseen",
+        "ayah_number": 62,
+        "juz": 23,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 9,
+      "translations": {
+        "ar": {
+          "text": "وَلَقَدۡ أَضَلَّ مِنكُمۡ جِبِلࣰّ ا كَثِيرًاۖ أَفَلَمۡ تَكُونُواْ تَعۡقِلُونَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Yet he already misled great multitudes of you. Did you not have any sense",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "他确使许多人迷误，难道你们不明白吗？",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "उसने तो तुममें से बहुत-से गिरोहों को पथभ्रष्ट कर दिया। तो क्या तुम बुद्धि नहीं रखते थे",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Pero él [el demonio] desvió a muchos de ustedes. ¿Por qué no reflexionan",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Et il a très certainement égaré un grand nombre d'entre vous. Ne raisonniez-vous donc pas",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "শয়তান তোমাদের অনেক দলকে পথভ্রষ্ট করেছে। তবুও কি তোমরা বুঝনি?",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E, com efeito, ele descaminhou grande multidão de vós. Então, não razoáveis",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Он уже ввел в заблуждение многих из вас. Неужели вы не разумеете",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور اس نے تم میں سے بہت سی خلقت کو گمراہ کردیا تھا۔ تو کیا تم سمجھتے نہیں تھے؟",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_036_063",
+      "reference": {
+        "surah_number": 36,
+        "surah_name": "Yaseen",
+        "surah_name_ar": "سُوْرَةُ يٰسٓ",
+        "surah_name_translation": "Yaseen",
+        "ayah_number": 63,
+        "juz": 23,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 5,
+      "translations": {
+        "ar": {
+          "text": "هَٰذِهِۦ جَهَنَّمُ ٱلَّتِي كُنتُمۡ تُوعَدُونَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "This is the Hell you were warned of",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "这是从前常常用来恐吓你们的火狱。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "यह वही जहन्नम है जिसकी तुम्हें धमकी दी जाती रही है",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Este es el Infierno que se les había prometido",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Voici l'Enfer qu'on vous promettait",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "এই সে জাহান্নাম, যার ওয়াদা তোমাদেরকে দেয়া হতো।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Eis a Geena, que vos era prometida",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Вот Геенна, которая была вам обещана",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "یہی وہ جہنم ہے جس کی تمہیں خبر دی جاتی ہے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_036_064",
+      "reference": {
+        "surah_number": 36,
+        "surah_name": "Yaseen",
+        "surah_name_ar": "سُوْرَةُ يٰسٓ",
+        "surah_name_translation": "Yaseen",
+        "ayah_number": 64,
+        "juz": 23,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 5,
+      "translations": {
+        "ar": {
+          "text": "ٱصۡلَوۡهَا ٱلۡيَوۡمَ بِمَا كُنتُمۡ تَكۡفُرُونَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Burn in it Today for your disbelief.”",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "你们生前不肯信道，所以今日，你们当入火狱。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "जो इनकार तुम करते रहे हो, उसके बदले में आज इसमें प्रविष्ट हो जाओ।",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Ingresen en él hoy por haberse negado a creer",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Brûlez-y aujourd'hui, pour avoir mécru»",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "তোমাদের কুফরের কারণে আজ এতে প্রবেশ কর।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Sofrei sua queima, hoje, porque renegáveis a Fé",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Горите в ней сегодня за то, что вы не веровали»",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "(سو) جو تم کفر کرتے رہے ہو اس کے بدلے آج اس میں داخل ہوجاؤ",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_036_065",
+      "reference": {
+        "surah_number": 36,
+        "surah_name": "Yaseen",
+        "surah_name_ar": "سُوْرَةُ يٰسٓ",
+        "surah_name_translation": "Yaseen",
+        "ayah_number": 65,
+        "juz": 23,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 11,
+      "translations": {
+        "ar": {
+          "text": "ٱلۡيَوۡمَ نَخۡتِمُ عَلَىٰٓ أَفۡوَٰهِهِمۡ وَتُكَلِّمُنَآ أَيۡدِيهِمۡ وَتَشۡهَدُ أَرۡجُلُهُم بِمَا كَانُواْ يَكۡسِبُونَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "On this Day We will seal their mouths, their hands will speak to Us, and their feet will testify to what they used to commit",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "在那日，我将封闭他们的口，他们的手将对我说话，他们的脚将作证他们所行的善恶。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "आज हम उनके मुँह पर मुहर लगा देंगे और उनके हाथ हमसे बोलेंगे और जो कुछ वे कमाते रहे है, उनके पाँव उसकी गवाही देंगे",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Hoy sellaré sus bocas y serán sus manos las que me hablen, y sus pies darán testimonio de lo que cometieron",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Ce jour-là, Nous scellerons leurs bouches, tandis que leurs mains Nous parleront et que leurs jambes témoigneront de ce qu'ils avaient accompli",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "আজ আমি তাদের মুখে মোহর এঁটে দেব তাদের হাত আমার সাথে কথা বলবে এবং তাদের পা তাদের কৃতকর্মের সাক্ষ্য দেবে।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Nesse dia, selar-lhes-emos as bocas, e suas mãos Nos falarão, e suas pernas testemunharão o que cometiam",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Сегодня Мы запечатаем их уста. Их руки будут говорить с Нами, а их ноги будут свидетельствовать о том, что они приобретали",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "آج ہم ان کے مونہوں پر مہر لگا دیں گے اور جو کچھ یہ کرتے رہے تھے ان کے ہاتھ ہم سے بیان کردیں گے اور ان کے پاؤں (اس کی) گواہی دیں گے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_036_066",
+      "reference": {
+        "surah_number": 36,
+        "surah_name": "Yaseen",
+        "surah_name_ar": "سُوْرَةُ يٰسٓ",
+        "surah_name_translation": "Yaseen",
+        "ayah_number": 66,
+        "juz": 23,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 9,
+      "translations": {
+        "ar": {
+          "text": "وَلَوۡ نَشَآءُ لَطَمَسۡنَا عَلَىٰٓ أَعۡيُنِهِمۡ فَٱسۡتَبَقُواْ ٱلصِّرَٰطَ فَأَنَّىٰ يُبۡصِرُونَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Had We willed, We could have easily blinded their eyes, so they would struggle to find their way. How then could they see",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "假若我意欲，我必毁灭他们的眼睛，然后他们忙着走路，但他们怎能看见呢？",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "यदि हम चाहें तो उनकी आँखें मेट दें क्योंकि वे (अपने रूढ़) मार्ग की और लपके हुए है। फिर उन्हें सुझाई कहाँ से देगा",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Si quisiera los cegaría, pero aunque se precipitaran [por encontrar] el camino, ¿cómo podrían ver",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Et si Nous voulions, Nous effacerions leurs yeux et ils courront vers le chemin. Mais comment alors pourront-ils voir",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "আমি ইচ্ছা করলে তাদের দৃষ্টি শক্তি বিলুপ্ত করে দিতে পারতাম, তখন তারা পথের দিকে দৌড়াতে চাইলে কেমন করে দেখতে পেত!",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E, se quiséssemos, apagar-Ihes-íamos os olhos, então, precipitar-se-iam na senda; como poderiam, pois, enxergar algo",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Если Мы пожелаем, то лишим их зрения, и тогда они бросятся к Пути. Но как они будут видеть",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور اگر ہم چاہیں تو ان کی آنکھوں کو مٹا کر (اندھا کر) دیں۔ پھر یہ رستے کو دوڑیں تو کہاں دیکھ سکیں گے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_036_067",
+      "reference": {
+        "surah_number": 36,
+        "surah_name": "Yaseen",
+        "surah_name_ar": "سُوْرَةُ يٰسٓ",
+        "surah_name_translation": "Yaseen",
+        "ayah_number": 67,
+        "juz": 23,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 11,
+      "translations": {
+        "ar": {
+          "text": "وَلَوۡ نَشَآءُ لَمَسَخۡنَٰهُمۡ عَلَىٰ مَكَانَتِهِمۡ فَمَا ٱسۡتَطَٰعُواْ مُضِيࣰّ ا وَلَا يَرۡجِعُونَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "And had We willed, We could have transfigured them on the spot, so they could neither progress forward nor turn back",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "假若我意欲，我必使他们在自己的家中变形，然后他们既不能前进，又不能后退；",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "यदि हम चाहें तो उनकी जगह पर ही उनके रूप बिगाड़कर रख दें क्योंकि वे सत्य की ओर न चल सके और वे (गुमराही से) बाज़ नहीं आते।",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Si quisiera los habría inmovilizado en sus lugares y no podrían avanzar ni retroceder",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Et si Nous voulions, Nous les métamorphoserions sur place; alors ils ne sauront ni avancer ni revenir",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "আমি ইচ্ছা করলে তাদেরকে স্ব স্ব স্থানে আকার বিকৃত করতে পারতাম, ফলে তারা আগেও চলতে পারত না এবং পেছনেও ফিরে যেতে পারত না।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E, se quiséssemos, transfigurá-los-íamos, no lugar em que estivessem: então, não poderiam ir adiante nem retornar",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Если Мы пожелаем, то обезобразим их на их местах, и тогда они не смогут ни двинуться вперед, ни вернуться",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور اگر ہم چاہیں تو ان کی جگہ پر ان کی صورتیں بدل دیں پھر وہاں سے نہ آگے جاسکیں اور نہ (پیچھے) لوٹ سکیں",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_036_068",
+      "reference": {
+        "surah_number": 36,
+        "surah_name": "Yaseen",
+        "surah_name_ar": "سُوْرَةُ يٰسٓ",
+        "surah_name_translation": "Yaseen",
+        "ayah_number": 68,
+        "juz": 23,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 7,
+      "translations": {
+        "ar": {
+          "text": "وَمَن نُّعَمِّرۡهُ نُنَكِّسۡهُ فِي ٱلۡخَلۡقِۚ أَفَلَا يَعۡقِلُونَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "And whoever We grant a long life, We reverse them in development. Will they not then understand",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "我使谁长寿，我降低谁的体质。难道他们不明理么？",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "जिसको हम दीर्धायु देते है, उसको उसकी संरचना में उल्टा फेर देते है। तो क्या वे बुद्धि से काम नहीं लेते",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "A quien le concedo una vida larga, hago que se vuelva débil [como cuando era pequeño]. ¿Acaso no van a reflexionar",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "A quiconque Nous accordons une longue vie, Nous faisons baisser sa forme. Ne comprendront-ils donc pas",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "আমি যাকে দীর্ঘ জীবন দান করি, তাকে সৃষ্টিগত পূর্বাবস্থায় ফিরিয়ে নেই। তবুও কি তারা বুঝে না?",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E, a quem tornamos longevo, fá-lo-emos regredir em sua criação. Então, não razoam",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Тому, кому Мы даруем долгую жизнь, Мы придаем противоположный облик. Неужели они не разумеют",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور جس کو ہم بڑی عمر دیتے ہیں تو اسے خلقت میں اوندھا کردیتے ہیں تو کیا یہ سمجھتے نہیں؟",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_036_069",
+      "reference": {
+        "surah_number": 36,
+        "surah_name": "Yaseen",
+        "surah_name_ar": "سُوْرَةُ يٰسٓ",
+        "surah_name_translation": "Yaseen",
+        "ayah_number": 69,
+        "juz": 23,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 12,
+      "translations": {
+        "ar": {
+          "text": "وَمَا عَلَّمۡنَٰهُ ٱلشِّعۡرَ وَمَا يَنۢبَغِي لَهُۥٓۚ إِنۡ هُوَ إِلَّا ذِكۡرࣱ وَقُرۡءَانࣱ مُّبِينࣱ‏",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "We have not taught him poetry, nor is it fitting for him. This ˹Book˺ is only a Reminder and a clear Quran",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "我没有教他诗歌，诗歌对于他是不相宜的。这个只是教诲和明白的《古兰经》，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "हमने उस (नबी) को कविता नहीं सिखाई और न वह उसके लिए शोभनीय है। वह तो केवल अनुस्मृति और स्पष्ट क़ुरआन है",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "No le enseñé [al Profeta Mujámmad] la poesía, porque no es apropiada para él. [Lo que él recita] es un recuerdo [de Dios] y una recitación clara",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Nous ne lui (à Muhammad) avons pas enseigné la poésie; cela ne lui convient pas non plus. Ceci n'est qu'un rappel et une Lecture [Coran] claire",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "আমি রসূলকে কবিতা শিক্ষা দেইনি এবং তা তার জন্যে শোভনীয়ও নয়। এটা তো এক উপদেশ ও প্রকাশ্য কোরআন।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E não Ihe ensinamos a poesia, e ela não lhe é concebível. Esse não é senão Mensagem e evidente Alcorão",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Мы не учили его (Мухаммада) поэзии, и не подобает ему это. Это - не что иное, как Напоминание и ясный Коран",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور ہم نے ان (پیغمبر) کو شعر گوئی نہیں سکھائی اور نہ وہ ان کو شایاں ہے۔ یہ تو محض نصیحت اور صاف صاف قرآن (پُرازحکمت) ہے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_036_070",
+      "reference": {
+        "surah_number": 36,
+        "surah_name": "Yaseen",
+        "surah_name_ar": "سُوْرَةُ يٰسٓ",
+        "surah_name_translation": "Yaseen",
+        "ayah_number": 70,
+        "juz": 23,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 9,
+      "translations": {
+        "ar": {
+          "text": "لِّيُنذِرَ مَن كَانَ حَيࣰّ ا وَيَحِقَّ ٱلۡقَوۡلُ عَلَى ٱلۡكَٰفِرِينَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "to warn whoever is ˹truly˺ alive and fulfil the decree ˹of torment˺ against the disbelievers",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "以便他警告活人，以便不信道的人们当受刑罚的判决。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "ताकि वह उसे सचेत कर दे जो जीवन्त हो और इनकार करनेवालों पर (यातना की) बात स्थापित हो जाए",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "una amonestación para quien tenga un corazón vivo, y también una evidencia contra los que se niegan a creer [en él]",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "pour qu'il avertisse celui qui est vivant et que la Parole se réalise contre les mécréants",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "যাতে তিনি সতর্ক করেন জীবিতকে এবং যাতে কাফেরদের বিরুদ্ধে অভিযোগ প্রতিষ্ঠিত হয়।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Para que admoeste quem está vivo e para que o Dito se cumpra contra os renegadores da Fé",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "чтобы он предостерегал тех, кто жив, и чтобы сбылось Слово относительно неверующих",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "تاکہ اس شخص کو جو زندہ ہو ہدایت کا رستہ دکھائے اور کافروں پر بات پوری ہوجائے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_036_071",
+      "reference": {
+        "surah_number": 36,
+        "surah_name": "Yaseen",
+        "surah_name_ar": "سُوْرَةُ يٰسٓ",
+        "surah_name_translation": "Yaseen",
+        "ayah_number": 71,
+        "juz": 23,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 13,
+      "translations": {
+        "ar": {
+          "text": "أَوَلَمۡ يَرَوۡاْ أَنَّا خَلَقۡنَا لَهُم مِّمَّا عَمِلَتۡ أَيۡدِينَآ أَنۡعَٰمࣰ ا فَهُمۡ لَهَا مَٰلِكُونَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Do they not see that We singlehandedly created for them, among other things, cattle which are under their control",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "难道他们不知道吗？从我所亲手造作者之中，我曾为他们而创造牲畜，而他们管理它们。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "क्या उन्होंने देखा नहीं कि हमने उनके लिए अपने हाथों की बनाई हुई चीज़ों में से चौपाए पैदा किए और अब वे उनके मालिक है",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "¿Acaso no recapacitan en que he creado con Mis manos para ellos los ganados que les pertenecen",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Ne voient-ils donc pas que, parmi ce que Nos mains ont fait, Nous leur avons créé des bestiaux dont ils sont propriétaires",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "তারা কি দেখে না, তাদের জন্যে আমি আমার নিজ হাতের তৈরী বস্তুর দ্বারা চতুস্পদ জন্তু সৃষ্টি করেছি, অতঃপর তারাই এগুলোর মালিক।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E não viram eles que, entre o que fizeram Nossas mãos, Nós lhes criamos rebanhos, então, deles são possuidores",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Неужели они не видят, что из того, что совершили Наши руки (Мы Сами), Мы создали для них скот, и что они им владеют",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "کیا انہوں نے نہیں دیکھا کہ جو چیزیں ہم نے اپنے ہاتھوں سے بنائیں ان میں سے ہم نے ان کے لئے چارپائے پیدا کر دیئے اور یہ ان کے مالک ہیں",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_036_072",
+      "reference": {
+        "surah_number": 36,
+        "surah_name": "Yaseen",
+        "surah_name_ar": "سُوْرَةُ يٰسٓ",
+        "surah_name_translation": "Yaseen",
+        "ayah_number": 72,
+        "juz": 23,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 6,
+      "translations": {
+        "ar": {
+          "text": "وَذَلَّلۡنَٰهَا لَهُمۡ فَمِنۡهَا رَكُوبُهُمۡ وَمِنۡهَا يَأۡكُلُونَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "And We have subjected these ˹animals˺ to them, so they may ride some and eat others",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "我为他们而制服牲畜，以一部分供他们骑，一部分供他们吃。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "और उन्हें उनके बस में कर दिया कि उनमें से कुछ तो उनकी सवारियाँ हैं और उनमें से कुछ को खाते है।",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Los he hecho dóciles para ellos, les sirven para montar y como alimento",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "et Nous les leur avons soumis: certains leur servent de monture et d'autres de nourriture",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "আমি এগুলোকে তাদের হাতে অসহায় করে দিয়েছি। ফলে এদের কতক তাদের বাহন এবং কতক তারা ভক্ষণ করে।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E os tornamos dóceis a eles; então, deles, há-os para a sua montaria, e, deles, há-os que eles comem",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Мы сделали его подвластным им. На одних из них они ездят верхом, а другими питаются",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور ان کو ان کے قابو میں کردیا تو کوئی تو ان میں سے ان کی سواری ہے اور کسی کو یہ کھاتے ہیں",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_036_073",
+      "reference": {
+        "surah_number": 36,
+        "surah_name": "Yaseen",
+        "surah_name_ar": "سُوْرَةُ يٰسٓ",
+        "surah_name_translation": "Yaseen",
+        "ayah_number": 73,
+        "juz": 23,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 6,
+      "translations": {
+        "ar": {
+          "text": "وَلَهُمۡ فِيهَا مَنَٰفِعُ وَمَشَارِبُۚ أَفَلَا يَشۡكُرُونَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "And they derive from them other benefits and drinks. Will they not then give thanks",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "他们可由它们获得许多利益和饮料。他们怎么还不感谢呢？",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "और उनके लिए उनमें कितने ही लाभ है और पेय भी है। तो क्या वे कृतज्ञता नहीं दिखलाते",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "obtienen de ellos otros beneficios, y [de ellos extraen leche] para beber. ¿Es que no van a ser agradecidos",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "et ils en retirent d'autres utilités et des boissons. Ne seront-ils donc pas reconnaissants",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "তাদের জন্যে চতুস্পদ জন্তুর মধ্যে অনেক উপকারিতা ও পানীয় রয়েছে। তবুও কেন তারা শুকরিয়া আদায় করে না?",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E têm, neles, proveitos e bebidas. Então, não agradecem",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Они приносят им пользу и питье. Неужели они не будут благодарны",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور ان میں ان کے لئے (اور) فائدے اور پینے کی چیزیں ہیں۔ تو یہ شکر کیوں نہیں کرتے؟",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_036_074",
+      "reference": {
+        "surah_number": 36,
+        "surah_name": "Yaseen",
+        "surah_name_ar": "سُوْرَةُ يٰسٓ",
+        "surah_name_translation": "Yaseen",
+        "ayah_number": 74,
+        "juz": 23,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 7,
+      "translations": {
+        "ar": {
+          "text": "وَٱتَّخَذُواْ مِن دُونِ ٱللَّهِ ءَالِهَةࣰ لَّعَلَّهُمۡ يُنصَرُونَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Still they have taken other gods besides Allah, hoping to be helped ˹by them˺",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "他们舍真主而敬事许多神灵，希望自己获得援助。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "उन्होंने अल्लाह से इतर कितने ही उपास्य बना लिए है कि शायद उन्हें मदद पहुँचे।",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Pero toman falsas divinidades, en lugar de Dios, para que los socorran",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Et ils adoptèrent des divinités en dehors d'Allah, dans l'espoir d'être secourus",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "তারা আল্লাহর পরিবর্তে অনেক উপাস্য গ্রহণ করেছে যাতে তারা সাহায্যপ্রাপ্ত হতে পারে।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E tomam deuses, além de Allah, para serem por eles socorridos",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Но они поклоняются вместо Аллаха другим богам в надежде на то, что им окажут помощь",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور انہوں نے خدا کے سوا (اور) معبود بنا لیے ہیں کہ شاید (ان سے) ان کو مدد پہنچے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_036_075",
+      "reference": {
+        "surah_number": 36,
+        "surah_name": "Yaseen",
+        "surah_name_ar": "سُوْرَةُ يٰسٓ",
+        "surah_name_translation": "Yaseen",
+        "ayah_number": 75,
+        "juz": 23,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 7,
+      "translations": {
+        "ar": {
+          "text": "لَا يَسۡتَطِيعُونَ نَصۡرَهُمۡ وَهُمۡ لَهُمۡ جُندࣱ مُّحۡضَرُونَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "They cannot help the pagans, even though they serve the idols as dedicated guards",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "那些神灵不能援助他们，他们却是为那些神灵而被集合的军队。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "वे उनकी सहायता करने की सामर्थ्य नहीं रखते, हालाँकि वे (बहुदेववादियों की अपनी स्पष्ट में) उनके लिए उपस्थित सेनाएँ हैं",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Las divinidades no podrán siquiera socorrerse a sí mismas, y en realidad sus seguidores son soldados a su disposición",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Celles-ci ne pourront pas les secourir, elles formeront au contraire une armée dressée contre eux",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "অথচ এসব উপাস্য তাদেরকে সাহায্য করতে সক্ষম হবে না এবং এগুলো তাদের বাহিনী রূপে ধৃত হয়ে আসবে।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Estes não poderão socorrê-los, e serão um exército, trazido, contra eles, no Dia do Juízo",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Они не могут помочь им, хотя они являются для них готовым войском (язычники готовы сражаться за своих идолов, или идолы будут в Последней жизни готовым войском против язычников)",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "(مگر) وہ ان کی مدد کی (ہرگز) طاقت نہیں رکھتے۔ اور وہ ان کی فوج ہو کر حاضر کیے جائیں گے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_036_076",
+      "reference": {
+        "surah_number": 36,
+        "surah_name": "Yaseen",
+        "surah_name_ar": "سُوْرَةُ يٰسٓ",
+        "surah_name_translation": "Yaseen",
+        "ayah_number": 76,
+        "juz": 23,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 9,
+      "translations": {
+        "ar": {
+          "text": "فَلَا يَحۡزُنكَ قَوۡلُهُمۡۘ إِنَّا نَعۡلَمُ مَا يُسِرُّونَ وَمَا يُعۡلِنُونَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "So do not let their words grieve you ˹O Prophet˺. Indeed, We ˹fully˺ know what they conceal and what they reveal",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "所以不要让他们的妄言使你忧愁。我的确知道他们所隐匿的，和他们所表现的。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "अतः उनकी बात तुम्हें शोकाकुल न करे। हम जानते है जो कुछ वे छिपाते और जो कुछ व्यक्त करते है",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Que no te apene lo que dicen, bien sabemos lo que murmuran [en secreto] y lo que dicen abiertamente",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Que leurs paroles ne t'affligent donc pas! Nous savons ce qu'ils cachent et ce qu'ils divulguent",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "অতএব তাদের কথা যেন আপনাকে দুঃখিত না করে। আমি জানি যা তারা গোপনে করে এবং যা তারা প্রকাশ্যে করে।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Então, que seu dito não te entristeça. Por certo, sabemos o de que guardam segredo e o que manifestam",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Пусть их речи не печалят тебя. Мы знаем то, что они скрывают, и то, что они обнаруживают",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "تو ان کی باتیں تمہیں غمناک نہ کردیں۔ یہ جو کچھ چھپاتے اور جو کچھ ظاہر کرتے ہیں ہمیں سب معلوم ہے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_036_077",
+      "reference": {
+        "surah_number": 36,
+        "surah_name": "Yaseen",
+        "surah_name_ar": "سُوْرَةُ يٰسٓ",
+        "surah_name_translation": "Yaseen",
+        "ayah_number": 77,
+        "juz": 23,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 11,
+      "translations": {
+        "ar": {
+          "text": "أَوَلَمۡ يَرَ ٱلۡإِنسَٰنُ أَنَّا خَلَقۡنَٰهُ مِن نُّطۡفَةࣲ فَإِذَا هُوَ خَصِيمࣱ مُّبِينࣱ‏",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Do people not see that We have created them from a sperm-drop, then—behold!—they openly challenge ˹Us˺",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "难道人还不知道吗？我曾用精液创造他，而他忽然变成坦白的抗辩者。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "क्या (इनकार करनेवाले) मनुष्य को नहीं देखा कि हमने उसे वीर्य से पैदा किया? फिर क्या देखते है कि वह प्रत्क्षय विरोधी झगड़ालू बन गया",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "¿Es que no ve el ser humano [que niega la Resurrección] que lo he creado de un óvulo fecundado? Sin embargo, él insiste en discutir [el poder divino]",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "L'homme ne voit-il pas que Nous l'avons créé d'une goutte de sperme? Et le voilà [devenu] un adversaire déclaré",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "মানুষ কি দেখে না যে, আমি তাকে সৃষ্টি করেছি বীর্য থেকে? অতঃপর তখনই সে হয়ে গেল প্রকাশ্য বাকবিতন্ডাকারী।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E o ser humano não viu que o criamos de gota seminal? Então, ei-lo adversário declarado",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Неужели человек не видит, что Мы сотворили его из капли? И вот он открыто препирается",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "کیا انسان نے نہیں دیکھا کہ ہم نے اس کو نطفے سے پیدا کیا۔ پھر وہ تڑاق پڑاق جھگڑنے لگا",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_036_078",
+      "reference": {
+        "surah_number": 36,
+        "surah_name": "Yaseen",
+        "surah_name_ar": "سُوْرَةُ يٰسٓ",
+        "surah_name_translation": "Yaseen",
+        "ayah_number": 78,
+        "juz": 23,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 12,
+      "translations": {
+        "ar": {
+          "text": "وَضَرَبَ لَنَا مَثَلࣰ ا وَنَسِيَ خَلۡقَهُۥۖ قَالَ مَن يُحۡيِ ٱلۡعِظَٰمَ وَهِيَ رَمِيمࣱ‏",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "And they argue with Us—forgetting they were created—saying, “Who will give life to decayed bones?”",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "他为我设了一个譬喻，而他忘却了我曾创造他。他说：谁能使朽骨复活呢？",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "और उसने हमपर फबती कसी और अपनी पैदाइश को भूल गया। कहता है, \"कौन हड्डियों में जान डालेगा, जबकि वे जीर्ण-शीर्ण हो चुकी होंगी",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Y [este incrédulo] nos compara [con un ser creado] olvidando cómo ha sido creado él mismo, y dice: \"¿Quién dará vida a los huesos cuando estén ya carcomidos",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Il cite pour Nous un exemple, tandis qu'il oublie sa propre création; il dit: «Qui va redonner la vie à des ossements une fois réduits en poussière?»",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "সে আমার সম্পর্কে এক অদ্ভূত কথা বর্ণনা করে, অথচ সে নিজের সৃষ্টি ভুলে যায়। সে বলে কে জীবিত করবে অস্থিসমূহকে যখন সেগুলো পচে গলে যাবে?",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E, esquecendo sua criação, propõe, para Nós, um exemplo. Diz: \"Quem dará vida aos ossos enquanto resquícios",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Он привел Нам притчу и забыл о своем сотворении. Он сказал: «Кто оживит кости, которые истлели?»",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور ہمارے بارے میں مثالیں بیان کرنے لگا اور اپنی پیدائش کو بھول گیا۔ کہنے لگا کہ (جب) ہڈیاں بوسیدہ ہوجائیں گی تو ان کو کون زندہ کرے گا؟",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_036_079",
+      "reference": {
+        "surah_number": 36,
+        "surah_name": "Yaseen",
+        "surah_name_ar": "سُوْرَةُ يٰسٓ",
+        "surah_name_translation": "Yaseen",
+        "ayah_number": 79,
+        "juz": 23,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 10,
+      "translations": {
+        "ar": {
+          "text": "قُلۡ يُحۡيِيهَا ٱلَّذِيٓ أَنشَأَهَآ أَوَّلَ مَرَّةࣲۖ وَهُوَ بِكُلِّ خَلۡقٍ عَلِيمٌ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Say, ˹O Prophet,˺ “They will be revived by the One Who produced them the first time, for He has ˹perfect˺ knowledge of every created being",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "你说：最初创造他的，将使他复活；他是全知一切众生的。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "कह दो, \"उनमें वही जाल डालेगा जिसने उनको पहली बार पैदा किया। वह तो प्रत्येक संसृति को भली-भाँति जानता है",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Dile [¡oh, Mujámmad!]: \"Les dará vida Quien los creó por primera vez, pues Él tiene conocimiento de todos los pasos de la creación",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Dis: «Celui qui les a créés une première fois, leur redonnera la vie. Il Se connaît parfaitement à toute création",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "বলুন, যিনি প্রথমবার সেগুলোকে সৃষ্টি করেছেন, তিনিই জীবিত করবেন। তিনি সর্বপ্রকার সৃষ্টি সম্পর্কে সম্যক অবগত।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Dize: \"Quem os fez surgir, da vez primeira, dar-lhes-á a vida - e Ele, de todas as criaturas, é Onisciente",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Скажи: «Оживит их Тот, Кто создал их в первый раз. Он ведает о всяком творении»",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "کہہ دو کہ ان کو وہ زندہ کرے گا جس نے ان کو پہلی بار پیدا کیا تھا۔ اور وہ سب قسم کا پیدا کرنا جانتا ہے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_036_080",
+      "reference": {
+        "surah_number": 36,
+        "surah_name": "Yaseen",
+        "surah_name_ar": "سُوْرَةُ يٰسٓ",
+        "surah_name_translation": "Yaseen",
+        "ayah_number": 80,
+        "juz": 23,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 12,
+      "translations": {
+        "ar": {
+          "text": "ٱلَّذِي جَعَلَ لَكُم مِّنَ ٱلشَّجَرِ ٱلۡأَخۡضَرِ نَارࣰ ا فَإِذَآ أَنتُم مِّنۡهُ تُوقِدُونَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "˹He is the One˺ Who gives you fire from green trees, and—behold!—you kindle ˹fire˺ from them",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "他为你们用绿树创造火，你们便用那绿树燃火。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "वही है जिसने तुम्हारे लिए हरे-भरे वृक्ष से आग पैदा कर दी। तो लगे हो तुम उससे जलाने।",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Él es Quien hace que puedan encender fuego del árbol verde",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "c'est Lui qui, de l'arbre vert, a fait pour vous du feu, et voilà que de cela vous allumez",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "যিনি তোমাদের জন্যে সবুজ বৃক্ষ থেকে আগুন উৎপন্ন করেন। তখন তোমরা তা থেকে আগুন জ্বালাও।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Aquele Que vos fez fogo, das árvores verdes, então, ei-vos que, com elas, acendeis",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Он создал для вас огонь из зеленого дерева, и теперь вы разжигаете огонь от него",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "جس نے تمہارے لئے سبز درخت سے آگ پیدا کی پھر تم اس (کی ٹہنیوں کو رگڑ کر ان) سے آگ نکالتے ہو",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_036_081",
+      "reference": {
+        "surah_number": 36,
+        "surah_name": "Yaseen",
+        "surah_name_ar": "سُوْرَةُ يٰسٓ",
+        "surah_name_translation": "Yaseen",
+        "ayah_number": 81,
+        "juz": 23,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 14,
+      "translations": {
+        "ar": {
+          "text": "أَوَلَيۡسَ ٱلَّذِي خَلَقَ ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضَ بِقَٰدِرٍ عَلَىٰٓ أَن يَخۡلُقَ مِثۡلَهُمۚ بَلَىٰ وَهُوَ ٱلۡخَلَّٰقُ ٱلۡعَلِيمُ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Can the One Who created the heavens and the earth not ˹easily˺ resurrect these ˹deniers˺?” Yes ˹He can˺! For He is the Master Creator, All-Knowing",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "难道能造天地的，不能造象他们那样的人吗？不然！他确是善造的，确是全知的。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "क्या जिसने आकाशों और धरती को पैदा किया उसे इसकी सामर्थ्य नहीं कि उन जैसों को पैदा कर दे? क्यों नहीं, जबकि वह महान स्रष्टा , अत्यन्त ज्ञानवान है",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "¿Acaso Quien creó los cielos y la Tierra no va a poder crearlos nuevamente? ¡Sí! [Puede] Porque Él es el Creador, el que lo sabe todo",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Celui qui a créé les cieux et la terre ne sera-t-Il pas capable de créer leur pareil? Oh que si! et Il est le grand Créateur, l'Omniscient",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "যিনি নভোমন্ডল ও ভূমন্ডল সৃষ্টি করেছেন, তিনিই কি তাদের অনুরূপ সৃষ্টি করতে সক্ষম নন? হ্যাঁ তিনি মহাস্রষ্টা, সর্বজ্ঞ।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E Aquele Que criou os céus e a terra não é Poderoso para criar seus iguais? Sim! E Ele é O Criador, O Onisciente",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Неужели Тот, Кто сотворил небеса и землю, не способен создать подобных им? Конечно, ведь Он - Творец, Знающий",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "بھلا جس نے آسمانوں اور زمین کو پیدا کیا، کیا وہ اس بات پر قادر نہیں کہ (ان کو پھر) ویسے ہی پیدا کر دے۔ کیوں نہیں۔ اور وہ تو بڑا پیدا کرنے والا اور علم والا ہے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_036_082",
+      "reference": {
+        "surah_number": 36,
+        "surah_name": "Yaseen",
+        "surah_name_ar": "سُوْرَةُ يٰسٓ",
+        "surah_name_translation": "Yaseen",
+        "ayah_number": 82,
+        "juz": 23,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 10,
+      "translations": {
+        "ar": {
+          "text": "إِنَّمَآ أَمۡرُهُۥٓ إِذَآ أَرَادَ شَيۡـًٔا أَن يَقُولَ لَهُۥ كُن فَيَكُونُ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "All it takes, when He wills something ˹to be˺, is simply to say to it: “Be!” And it is",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "当他欲造化任何事物的时候，他的事情只是说声：有，它就有了。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "उसका मामला तो बस यह है कि जब वह किसी चीज़ (के पैदा करने) का इरादा करता है तो उससे कहता है, \"हो जा!\" और वह हो जाती है",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Cuando Él decide decretar algo, le dice: \"¡Sé!\", y es",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Quand Il veut une chose, Son commandement consiste à dire: «Sois», et c'est",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "তিনি যখন কোন কিছু করতে ইচ্ছা করেন, তখন তাকে কেবল বলে দেন, ‘হও’ তখনই তা হয়ে যায়।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Sua ordem, quando deseja alguma cousa, é, apenas, dizer-lhe: \"Sê\", então, é",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Когда Он желает чего-либо, то стоит Ему сказать: «Будь!». - как это сбывается",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اس کی شان یہ ہے کہ جب وہ کسی چیز کا ارادہ کرتا ہے تو اس سے فرما دیتا ہے کہ ہوجا تو وہ ہوجاتی ہے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_036_083",
+      "reference": {
+        "surah_number": 36,
+        "surah_name": "Yaseen",
+        "surah_name_ar": "سُوْرَةُ يٰسٓ",
+        "surah_name_translation": "Yaseen",
+        "ayah_number": 83,
+        "juz": 23,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 8,
+      "translations": {
+        "ar": {
+          "text": "فَسُبۡحَٰنَ ٱلَّذِي بِيَدِهِۦ مَلَكُوتُ كُلِّ شَيۡءࣲ وَإِلَيۡهِ تُرۡجَعُونَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "So glory be to the One in Whose Hands is the authority over all things, and to Whom ˹alone˺ you will ˹all˺ be returned",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "赞颂真主，超绝万物！一切事物的主权都在他的掌握之中，你们只被召归于他。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "अतः महिमा है उसकी, जिसके हाथ में हर चीज़ का पूरा अधिकार है। और उसी की ओर तुम लौटकर जाओगे",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Glorificado sea Aquel en Cuya mano está la soberanía de todas las cosas, y ante Él retornarán [para ser juzgados]",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Louange donc, à Celui qui détient en Sa main la royauté sur toute chose! Et c'est vers Lui que vous serez ramenés",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "অতএব পবিত্র তিনি, যাঁর হাতে সবকিছুর রাজত্ব এবং তাঁরই দিকে তোমরা প্রত্যাবর্তিত হবে।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Então, glorificado seja Aquele, em Cuja mão está o reino de todas as cousas! E a Ele sereis retornados",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Пречист Тот, в Чьей Руке власть над всякой вещью! К Нему вы будете возвращены",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "وہ (ذات) پاک ہے جس کے ہاتھ میں ہر چیز کی بادشاہت ہے اور اسی کی طرف تم کو لوٹ کر جانا ہے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    }
+  ]
+}

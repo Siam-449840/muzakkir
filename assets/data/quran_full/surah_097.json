@@ -1,0 +1,285 @@
+{
+  "surah": 97,
+  "verses": [
+    {
+      "content_id": "quran_097_001",
+      "reference": {
+        "surah_number": 97,
+        "surah_name": "Al-Qadr",
+        "surah_name_ar": "سُوْرَةُ الْقَدْرِ",
+        "surah_name_translation": "The Power, Fate",
+        "ayah_number": 1,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 5,
+      "translations": {
+        "ar": {
+          "text": "ٱلرَّحِيمِإِنَّآ أَنزَلۡنَٰهُ فِي لَيۡلَةِ ٱلۡقَدۡرِ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Indeed, ˹it is˺ We ˹Who˺ sent this ˹Quran˺ down on the Night of Glory",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "我在那高贵的夜间确已降示它",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "हमने इसे क़द्र की रात में अवतरित किया",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Comencé la revelación [del Corán] en la noche de la predestinación",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Nous l'avons certes, fait descendre (le Coran) pendant la nuit d'Al-Qadr",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "আমি একে নাযিল করেছি শবে-কদরে।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Por certo, fizemo-lo descer, na noite de al-Qadr",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Воистину, Мы ниспослали его (Коран) в ночь предопределения (или величия)",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "ہم نے اس (قرآن) کو شب قدر میں نازل (کرنا شروع) کیا",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_097_002",
+      "reference": {
+        "surah_number": 97,
+        "surah_name": "Al-Qadr",
+        "surah_name_ar": "سُوْرَةُ الْقَدْرِ",
+        "surah_name_translation": "The Power, Fate",
+        "ayah_number": 2,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 5,
+      "translations": {
+        "ar": {
+          "text": "وَمَآ أَدۡرَىٰكَ مَا لَيۡلَةُ ٱلۡقَدۡرِ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "And what will make you realize what the Night of Glory is",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "你怎能知道那高贵的夜间是什麽？",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "और तुम्हें क्या मालूम कि क़द्र की रात क्या है",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "¿Y qué te hará comprender la importancia de la noche de la predestinación",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Et qui te dira ce qu'est la nuit d'Al-Qadr",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "শবে-কদর সমন্ধে আপনি কি জানেন?",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E o que te faz inteirar-te do que é a noite de al-Qadr",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Откуда ты мог знать, что такое ночь предопределения (или величия)",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور تمہیں کیا معلوم کہ شب قدر کیا ہے؟",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_097_003",
+      "reference": {
+        "surah_number": 97,
+        "surah_name": "Al-Qadr",
+        "surah_name_ar": "سُوْرَةُ الْقَدْرِ",
+        "surah_name_translation": "The Power, Fate",
+        "ayah_number": 3,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 6,
+      "translations": {
+        "ar": {
+          "text": "لَيۡلَةُ ٱلۡقَدۡرِ خَيۡرࣱ مِّنۡ أَلۡفِ شَهۡرࣲ‏",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "The Night of Glory is better than a thousand months",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "那高贵的夜间, 胜过一千个月",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "क़द्र की रात उत्तम है हज़ार महीनों से",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "[Adorar a Dios] la noche de la predestinación es superior en recompensa a hacerlo durante mil meses",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "La nuit d'Al-Qadr est meilleure que mille mois",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "শবে-কদর হল এক হাজার মাস অপেক্ষা শ্রেষ্ঠ।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "A noite de al-Qadr é melhor que mil meses",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Ночь предопределения (или величия) лучше тысячи месяцев",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "شب قدر ہزار مہینے سے بہتر ہے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_097_004",
+      "reference": {
+        "surah_number": 97,
+        "surah_name": "Al-Qadr",
+        "surah_name_ar": "سُوْرَةُ الْقَدْرِ",
+        "surah_name_translation": "The Power, Fate",
+        "ayah_number": 4,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 9,
+      "translations": {
+        "ar": {
+          "text": "تَنَزَّلُ ٱلۡمَلَٰٓئِكَةُ وَٱلرُّوحُ فِيهَا بِإِذۡنِ رَبِّهِم مِّن كُلِّ أَمۡرࣲ‏",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "That night the angels and the ˹holy˺ spirit descend, by the permission of their Lord, for every ˹decreed˺ matter",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "众天神和精神, 奉他们的主的命令, 为一切事务而在那夜间降临",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "उसमें फ़रिश्तें और रूह हर महत्वपूर्ण मामलें में अपने रब की अनुमति से उतरते है",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Esta noche descienden los ángeles y el espíritu [el ángel Gabriel] con órdenes de su Señor para todos los asuntos",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Durant celle-ci descendent les Anges ainsi que l'Esprit, par permission de leur Seigneur pour tout ordre",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "এতে প্রত্যেক কাজের জন্যে ফেরেশতাগণ ও রূহ অবতীর্ণ হয় তাদের পালনকর্তার নির্দেশক্রমে।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Nela, descem os anjos e o Espírito, com a permissão de seu Senhor, encarregados de toda ordem",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "В эту ночь ангелы и Дух (Джибрил) нисходят с дозволения их Господа по всем Его повелениям",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اس میں روح (الامین) اور فرشتے ہر کام کے (انتظام کے) لیے اپنے پروردگار کے حکم سے اترتے ہیں",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_097_005",
+      "reference": {
+        "surah_number": 97,
+        "surah_name": "Al-Qadr",
+        "surah_name_ar": "سُوْرَةُ الْقَدْرِ",
+        "surah_name_translation": "The Power, Fate",
+        "ayah_number": 5,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 5,
+      "translations": {
+        "ar": {
+          "text": "سَلَٰمٌ هِيَ حَتَّىٰ مَطۡلَعِ ٱلۡفَجۡرِ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "It is all peace until the break of dawn",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "那夜间全是平安的, 直到黎明显著的时侯。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "वह रात पूर्णतः शान्ति और सलामती है, उषाकाल के उदय होने तक",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Es una noche de paz y seguridad hasta el comienzo del alba",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Elle est paix et salut jusqu'à l'apparition de l'aube",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "এটা নিরাপত্তা, যা ফজরের উদয় পর্যন্ত অব্যাহত থাকে।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Paz é ela, até o nascer da aurora",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Она благополучна вплоть до наступления зари",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "یہ (رات) طلوع صبح تک (امان اور) سلامتی ہے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    }
+  ]
+}

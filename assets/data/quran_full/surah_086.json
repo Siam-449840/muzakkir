@@ -1,0 +1,957 @@
+{
+  "surah": 86,
+  "verses": [
+    {
+      "content_id": "quran_086_001",
+      "reference": {
+        "surah_number": 86,
+        "surah_name": "At-Taariq",
+        "surah_name_ar": "سُوْرَةُ الطَّارِقِ",
+        "surah_name_translation": "The Morning Star",
+        "ayah_number": 1,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 2,
+      "translations": {
+        "ar": {
+          "text": "وَٱلسَّمَآءِ وَٱلطَّارِقِ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "By the heaven and the nightly star",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "以穷苍和启明星盟誓，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "साक्षी है आकाश, और रात में प्रकट होनेवाला",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Juro por el cosmos y el astro nocturno",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Par le ciel et par l'astre nocturne",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "শপথ আকাশের এবং রাত্রিতে আগমনকারীর।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Pelo céu e pelo astro noturno",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Клянусь небом и ночным путником",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "آسمان اور رات کے وقت آنے والے کی قسم",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_086_002",
+      "reference": {
+        "surah_number": 86,
+        "surah_name": "At-Taariq",
+        "surah_name_ar": "سُوْرَةُ الطَّارِقِ",
+        "surah_name_translation": "The Morning Star",
+        "ayah_number": 2,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 4,
+      "translations": {
+        "ar": {
+          "text": "وَمَآ أَدۡرَىٰكَ مَا ٱلطَّارِقُ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "And what will make you realize what the nightly star is",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "你怎能知道启明星是什麽？",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "और तुम क्या जानो कि रात में प्रकट होनेवाला क्या है",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "¿Y qué puede hacerte comprender lo que es el astro nocturno",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Et qui te dira ce qu'est l'astre nocturne",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "আপনি জানেন, যে রাত্রিতে আসে সেটা কি?",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E o que te faz inteirar-te do que é o astro noturno",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Откуда ты мог знать, что такое ночной путник",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور تم کو کیا معلوم کہ رات کے وقت آنے والا کیا ہے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_086_003",
+      "reference": {
+        "surah_number": 86,
+        "surah_name": "At-Taariq",
+        "surah_name_ar": "سُوْرَةُ الطَّارِقِ",
+        "surah_name_translation": "The Morning Star",
+        "ayah_number": 3,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 2,
+      "translations": {
+        "ar": {
+          "text": "ٱلنَّجۡمُ ٱلثَّاقِبُ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "˹It is˺ the star of piercing brightness",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "是那灿烂的明星。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "दमकता हुआ तारा",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Es una estrella fulgurante",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "C'est l'étoile vivement brillante",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "সেটা এক উজ্জ্বল নক্ষত্র।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "É a estrela fulgurante",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Это - звезда пронизывающая небеса своим светом",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "وہ تارا ہے چمکنے والا",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_086_004",
+      "reference": {
+        "surah_number": 86,
+        "surah_name": "At-Taariq",
+        "surah_name_ar": "سُوْرَةُ الطَّارِقِ",
+        "surah_name_translation": "The Morning Star",
+        "ayah_number": 4,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 6,
+      "translations": {
+        "ar": {
+          "text": "إِن كُلُّ نَفۡسࣲ لَّمَّا عَلَيۡهَا حَافِظࣱ‏",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "There is no soul without a vigilant angel ˹recording everything˺",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "每个人，都有一个保护者。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "कि हर एक व्यक्ति पर एक निगरानी करनेवाला नियुक्त है",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Todo ser humano tiene designado un ángel protector que registra sus obras",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Il n'est pas d'âme qui n'ait sur elle un gardien",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "প্রত্যেকের উপর একজন তত্ত্বাবধায়ক রয়েছে।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Por certo, sobre cada alma há um anjo custódio",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Нет души, при которой не было бы хранителя",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "کہ کوئی متنفس نہیں جس پر نگہبان مقرر نہیں",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_086_005",
+      "reference": {
+        "surah_number": 86,
+        "surah_name": "At-Taariq",
+        "surah_name_ar": "سُوْرَةُ الطَّارِقِ",
+        "surah_name_translation": "The Morning Star",
+        "ayah_number": 5,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 4,
+      "translations": {
+        "ar": {
+          "text": "فَلۡيَنظُرِ ٱلۡإِنسَٰنُ مِمَّ خُلِقَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Let people then consider what they were created from",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "人应当想一想，他自己是用什麽造成的？",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "अतः मनुष्य को चाहिए कि देखे कि वह किस चीज़ से पैदा किया गया है",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Que medite el hombre de qué fue creado",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Que l'homme considère donc de quoi il a été créé",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "অতএব, মানুষের দেখা উচিত কি বস্তু থেকে সে সৃজিত হয়েছে।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Então, que o ser humano olhe aquilo de que foi criado",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Пусть посмотрит человек, из чего он создан",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "تو انسان کو دیکھنا چاہئے کہ وہ کاہے سے پیدا ہوا ہے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_086_006",
+      "reference": {
+        "surah_number": 86,
+        "surah_name": "At-Taariq",
+        "surah_name_ar": "سُوْرَةُ الطَّارِقِ",
+        "surah_name_translation": "The Morning Star",
+        "ayah_number": 6,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 4,
+      "translations": {
+        "ar": {
+          "text": "خُلِقَ مِن مَّآءࣲ دَافِقࣲ‏",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "˹They were˺ created from a spurting fluid",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "他是射出的精液造成的。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "एक उछलते पानी से पैदा किया गया है",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Fue creado de un líquido seminal",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Il a été créé d'une giclée d'eau",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "সে সৃজিত হয়েছে সবেগে স্খলিত পানি থেকে।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Foi criado de água emitida",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Он создан из изливающейся жидкости",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "وہ اچھلتے ہوئے پانی سے پیدا ہوا ہے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_086_007",
+      "reference": {
+        "surah_number": 86,
+        "surah_name": "At-Taariq",
+        "surah_name_ar": "سُوْرَةُ الطَّارِقِ",
+        "surah_name_translation": "The Morning Star",
+        "ayah_number": 7,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 5,
+      "translations": {
+        "ar": {
+          "text": "يَخۡرُجُ مِنۢ بَيۡنِ ٱلصُّلۡبِ وَٱلتَّرَآئِبِ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "stemming from between the backbone and the ribcage",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "那精液是从脊柱和肋骨之间发出的。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "जो पीठ और पसलियों के मध्य से निकलता है",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "que proviene de entre las entrañas [del hombre] y el arco pélvico [de la mujer]",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "sortie d'entre les lombes et les côtes",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "এটা নির্গত হয় মেরুদন্ড ও বক্ষপাজরের মধ্য থেকে।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Que sai de entre a espinha dorsal e os ossos do peito",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "которая выходит между чреслами и грудными костями",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "جو پیٹھ اور سینے کے بیچ میں سے نکلتا ہے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_086_008",
+      "reference": {
+        "surah_number": 86,
+        "surah_name": "At-Taariq",
+        "surah_name_ar": "سُوْرَةُ الطَّارِقِ",
+        "surah_name_translation": "The Morning Star",
+        "ayah_number": 8,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 4,
+      "translations": {
+        "ar": {
+          "text": "إِنَّهُۥ عَلَىٰ رَجۡعِهِۦ لَقَادِرࣱ‏",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Surely He is fully capable of bringing them back ˹to life˺",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "真主确是能使他复原的，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "निश्चय ही वह उसके लौटा देने की सामर्थ्य रखता है",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "[Así como lo ha creado la primera vez] Él tiene el poder para resucitarlo",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Allah est certes capable de le ressusciter",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "নিশ্চয় তিনি তাকে ফিরিয়ে নিতে সক্ষম।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Por certo, Ele, sobre seu retorno, é Poderoso",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Воистину, Он способен вернуть его",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "بےشک خدا اس کے اعادے (یعنی پھر پیدا کرنے) پر قادر ہے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_086_009",
+      "reference": {
+        "surah_number": 86,
+        "surah_name": "At-Taariq",
+        "surah_name_ar": "سُوْرَةُ الطَّارِقِ",
+        "surah_name_translation": "The Morning Star",
+        "ayah_number": 9,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 3,
+      "translations": {
+        "ar": {
+          "text": "يَوۡمَ تُبۡلَى ٱلسَّرَآئِرُ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "on the Day all secrets will be disclosed",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "那是在一切秘密被揭穿之日。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "जिस दिन छिपी चीज़ें परखी जाएँगी",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "El día que sean revelados todos los secretos",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Le jour où les cœurs dévoileront leurs secrets",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "যেদিন গোপন বিষয়াদি পরীক্ষিত হবে,",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Um dia, quando forem postos à prova os segredos",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "В тот день будут испытаны (или раскроются) тайны",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "جس دن دلوں کے بھید جانچے جائیں گے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_086_010",
+      "reference": {
+        "surah_number": 86,
+        "surah_name": "At-Taariq",
+        "surah_name_ar": "سُوْرَةُ الطَّارِقِ",
+        "surah_name_translation": "The Morning Star",
+        "ayah_number": 10,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 6,
+      "translations": {
+        "ar": {
+          "text": "فَمَا لَهُۥ مِن قُوَّةࣲ وَلَا نَاصِرࣲ‏",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Then one will have neither power nor ˹any˺ helper",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "他绝没有能力，也没有援助者。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "तो उस समय उसके पास न तो अपनी कोई शक्ति होगी और न कोई सहायक",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "y [el ser humano] no tenga fuerzas [para defenderse] a sí mismo ni auxiliador alguno",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Il n'aura alors ni force ni secoureur",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "সেদিন তার কোন শক্তি থাকবে না এবং সাহায্যকারীও থাকবে না।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Então, ele não terá nem força nem socorredor",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "и тогда не будет у него ни силы, ни помощника",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "تو انسان کی کچھ پیش نہ چل سکے گی اور نہ کوئی اس کا مددگار ہو گا",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_086_011",
+      "reference": {
+        "surah_number": 86,
+        "surah_name": "At-Taariq",
+        "surah_name_ar": "سُوْرَةُ الطَّارِقِ",
+        "surah_name_translation": "The Morning Star",
+        "ayah_number": 11,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 3,
+      "translations": {
+        "ar": {
+          "text": "وَٱلسَّمَآءِ ذَاتِ ٱلرَّجۡعِ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "By the sky with its recurring cycles",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "以含雨的云",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "साक्षी है आवर्तन (उलट-फेर) वाला आकाश",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Juro por el cielo que devuelve [el agua que sube en forma de lluvias]",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Par le ciel qui fait revenir la pluie",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "শপথ চক্রশীল আকাশের",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Pelo céu do retorno da chuva",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Клянусь небом возвращающим (возвращающим воду земле или возвращающим небесные тела, которые восходят с одной стороны и заходят в другой)",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "آسمان کی قسم جو مینہ برساتا ہے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_086_012",
+      "reference": {
+        "surah_number": 86,
+        "surah_name": "At-Taariq",
+        "surah_name_ar": "سُوْرَةُ الطَّارِقِ",
+        "surah_name_translation": "The Morning Star",
+        "ayah_number": 12,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 3,
+      "translations": {
+        "ar": {
+          "text": "وَٱلۡأَرۡضِ ذَاتِ ٱلصَّدۡعِ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "and the earth with its sprouting plants",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "和有缝的地发誓，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "और फट जानेवाली धरती",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "y por la tierra que se abre para que broten los cultivos",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "et par la terre qui se fend",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "এবং বিদারনশীল পৃথিবীর",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E pela terra de gretas",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Клянусь землей раскалываемой (при прорастании растений, или при выходе из земли воды, или при воскрешении мертвых)",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور زمین کی قسم جو پھٹ جاتی ہے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_086_013",
+      "reference": {
+        "surah_number": 86,
+        "surah_name": "At-Taariq",
+        "surah_name_ar": "سُوْرَةُ الطَّارِقِ",
+        "surah_name_translation": "The Morning Star",
+        "ayah_number": 13,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 3,
+      "translations": {
+        "ar": {
+          "text": "إِنَّهُۥ لَقَوۡلࣱ فَصۡلࣱ‏",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Surely this ˹Quran˺ is a decisive word",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "这确是分别真伪的言辞，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "वह दो-टूक बात है",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "que el Corán es la Verdad que discrimina [la verdad de la falsedad]",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Ceci [le Coran] est certes, une parole décisive [qui tranche entre le vrai et le faux]",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "নিশ্চয় কোরআন সত্য-মিথ্যার ফয়সালা।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Por certo, ele é um dito decisivo",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Воистину, это - Слово различающее",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "کہ یہ کلام (حق کو باطل سے) جدا کرنے والا ہے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_086_014",
+      "reference": {
+        "surah_number": 86,
+        "surah_name": "At-Taariq",
+        "surah_name_ar": "سُوْرَةُ الطَّارِقِ",
+        "surah_name_translation": "The Morning Star",
+        "ayah_number": 14,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 3,
+      "translations": {
+        "ar": {
+          "text": "وَمَا هُوَ بِٱلۡهَزۡلِ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "and is not to be taken lightly",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "这不是笑话。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "वह कोई हँसी-मज़ाक नही है",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "y no es algo trivial",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "et non point une plaisanterie frivole",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "এবং এটা উপহাস নয়।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E não um gracejo",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "а не шутка",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور بیہودہ بات نہیں ہے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_086_015",
+      "reference": {
+        "surah_number": 86,
+        "surah_name": "At-Taariq",
+        "surah_name_ar": "سُوْرَةُ الطَّارِقِ",
+        "surah_name_translation": "The Morning Star",
+        "ayah_number": 15,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 4,
+      "translations": {
+        "ar": {
+          "text": "إِنَّهُمۡ يَكِيدُونَ كَيۡدࣰ ا",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "They are certainly devising ˹evil˺ plans",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "他们必定要用计谋，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "वे एक चाल चल रहे है",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "[Los que niegan la verdad] traman [cizañas]",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Ils se servent d'une ruse",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "তারা ভীষণ চক্রান্ত করে,",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Por certo, eles armam insídias",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Они замышляют козни",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "یہ لوگ تو اپنی تدبیروں میں لگ رہے ہیں",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_086_016",
+      "reference": {
+        "surah_number": 86,
+        "surah_name": "At-Taariq",
+        "surah_name_ar": "سُوْرَةُ الطَّارِقِ",
+        "surah_name_translation": "The Morning Star",
+        "ayah_number": 16,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 3,
+      "translations": {
+        "ar": {
+          "text": "وَأَكِيدُ كَيۡدࣰ ا",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "but I too am planning",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "我也要用计谋。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "और मैं भी एक चाल चल रहा हूँ",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "pero Yo desbarato sus planes",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "et Moi aussi Je me sers de Mon plan",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "আর আমিও কৌশল করি।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E, também, armo insídias",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "и Я замышляю козни",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور ہم اپنی تدبیر کر رہے ہیں",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_086_017",
+      "reference": {
+        "surah_number": 86,
+        "surah_name": "At-Taariq",
+        "surah_name_ar": "سُوْرَةُ الطَّارِقِ",
+        "surah_name_translation": "The Morning Star",
+        "ayah_number": 17,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 4,
+      "translations": {
+        "ar": {
+          "text": "فَمَهِّلِ ٱلۡكَٰفِرِينَ أَمۡهِلۡهُمۡ رُوَيۡدَۢا",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "So bear with the disbelievers ˹O Prophet˺. Let them be for ˹just˺ a little while",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "所以你当宽限不信道的人们，你当宽限他们一下。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "अत मुहलत दे दो उन इनकार करनेवालों को; मुहलत दे दो उन्हें थोड़ी-सी",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Sé tolerante con los que niegan la verdad, y dales un tiempo",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Accorde (ô Prophète) donc un délai aux infidèles: accorde-leur un court délai",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "অতএব, কাফেরদেরকে অবকাশ দিন, তাদেরকে অবকাশ দিন, কিছু দিনের জন্যে।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Então, dá prazo aos renegadores da Fé: dá-lhes um pouco de prazo",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Предоставь же неверующим отсрочку, помедли с ними недолго",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "تو تم کافروں کو مہلت دو بس چند روز ہی مہلت دو",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,285 @@
+{
+  "surah": 113,
+  "verses": [
+    {
+      "content_id": "quran_113_001",
+      "reference": {
+        "surah_number": 113,
+        "surah_name": "Al-Falaq",
+        "surah_name_ar": "سُوْرَةُ الْفَلَقِ",
+        "surah_name_translation": "The Dawn",
+        "ayah_number": 1,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 4,
+      "translations": {
+        "ar": {
+          "text": "قُلۡ أَعُوذُ بِرَبِّ ٱلۡفَلَقِ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Say, ˹O Prophet,˺ “I seek refuge in the Lord of the daybreak",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "你说: 我求庇于曙光的主",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "कहो, \"मैं शरण लेता हूँ, प्रकट करनेवाले रब की",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Di: \"Me refugio en el Señor del amanecer",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Dis: «Je cherche protection auprès du Seigneur de l'aube naissante",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "বলুন, আমি আশ্রয় গ্রহণ করছি প্রভাতের পালনকর্তার,",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Dize: \"Refugio-me no Senhor da Alvorada",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Скажи: «Прибегаю к защите Господа рассвета",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "کہو کہ میں صبح کے پروردگار کی پناہ مانگتا ہوں",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_113_002",
+      "reference": {
+        "surah_number": 113,
+        "surah_name": "Al-Falaq",
+        "surah_name_ar": "سُوْرَةُ الْفَلَقِ",
+        "surah_name_translation": "The Dawn",
+        "ayah_number": 2,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 4,
+      "translations": {
+        "ar": {
+          "text": "مِن شَرِّ مَا خَلَقَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "from the evil of whatever He has created",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "免遭他所创造者的毒害",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "जो कुछ भी उसने पैदा किया उसकी बुराई से",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "de todo el mal que existe en lo que Él creó",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "contre le mal des êtres qu'Il a créés",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "তিনি যা সৃষ্টি করেছেন, তার অনিষ্ট থেকে,",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Contra o mal daquilo que Ele criou",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "от зла того, что Он сотворил",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "ہر چیز کی بدی سے جو اس نے پیدا کی",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_113_003",
+      "reference": {
+        "surah_number": 113,
+        "surah_name": "Al-Falaq",
+        "surah_name_ar": "سُوْرَةُ الْفَلَقِ",
+        "surah_name_translation": "The Dawn",
+        "ayah_number": 3,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 5,
+      "translations": {
+        "ar": {
+          "text": "وَمِن شَرِّ غَاسِقٍ إِذَا وَقَبَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "and from the evil of the night when it grows dark",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "免遭黑夜笼罩时的毒害",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "और अँधेरे की बुराई से जबकि वह घुस आए",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "del mal de la oscuridad de la noche cuando se extiende",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "contre le mal de l'obscurité quand elle s'approfondit",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "অন্ধকার রাত্রির অনিষ্ট থেকে, যখন তা সমাগত হয়,",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E contra o mal da noitequando entenebrece",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "от зла мрака, когда он наступает",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور شب تاریکی کی برائی سے جب اس کااندھیرا چھا جائے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_113_004",
+      "reference": {
+        "surah_number": 113,
+        "surah_name": "Al-Falaq",
+        "surah_name_ar": "سُوْرَةُ الْفَلَقِ",
+        "surah_name_translation": "The Dawn",
+        "ayah_number": 4,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 5,
+      "translations": {
+        "ar": {
+          "text": "وَمِن شَرِّ ٱلنَّفَّٰثَٰتِ فِي ٱلۡعُقَدِ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "and from the evil of those ˹witches casting spells by˺ blowing onto knots",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "免遭吹破坚决的主意者的毒害",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "और गाँठो में फूँक मारने-वालों की बुराई से",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "del mal de las [hechiceras] sopladoras de nudos",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "contre le mal de celles qui soufflent [les sorcières] sur les nœuds",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "গ্রন্থিতে ফুঁৎকার দিয়ে জাদুকারিনীদের অনিষ্ট থেকে",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E contra o mal das sopradoras dos nós",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "от зла колдуний, поплевывающих на узлы",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور گنڈوں پر (پڑھ پڑھ کر) پھونکنے والیوں کی برائی سے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_113_005",
+      "reference": {
+        "surah_number": 113,
+        "surah_name": "Al-Falaq",
+        "surah_name_ar": "سُوْرَةُ الْفَلَقِ",
+        "surah_name_translation": "The Dawn",
+        "ayah_number": 5,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 5,
+      "translations": {
+        "ar": {
+          "text": "وَمِن شَرِّ حَاسِدٍ إِذَا حَسَدَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "and from the evil of an envier when they envy.”",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "免遭嫉妒时的毒害。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "और ईर्ष्यालु की बुराई से, जब वह ईर्ष्या करे।",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "y del mal del envidioso cuando envidia",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "et contre le mal de l'envieux quand il envie»",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "এবং হিংসুকের অনিষ্ট থেকে যখন সে হিংসা করে।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E contra o mal do invejoso, quando inveja",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "от зла завистника, когда он завидует»",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور حسد کرنے والے کی برائی سے جب حسد کرنے لگے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    }
+  ]
+}

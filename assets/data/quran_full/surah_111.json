@@ -1,0 +1,285 @@
+{
+  "surah": 111,
+  "verses": [
+    {
+      "content_id": "quran_111_001",
+      "reference": {
+        "surah_number": 111,
+        "surah_name": "Al-Masad",
+        "surah_name_ar": "سُوْرَةُ المَسَدِ",
+        "surah_name_translation": "The Palm Fibre",
+        "ayah_number": 1,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 5,
+      "translations": {
+        "ar": {
+          "text": "تَبَّتۡ يَدَآ أَبِي لَهَبࣲ وَتَبَّ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "May the hands of Abu Lahab perish, and he ˹himself˺ perish",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "愿焰父两手受伤！他必定受伤",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "टूट गए अबू लहब के दोनों हाथ और वह स्वयं भी विनष्ट हो गया",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "¡Maldito sea Abu Lahab y que perezca",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Que périssent les deux mains d'Abû-Lahab et que lui-même périsse",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "আবু লাহাবের হস্তদ্বয় ধ্বংস হোক এবং ধ্বংস হোক সে নিজে,",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Que pereçam ambas as mãos de Abu Lahab, e que ele mesmo pereça",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Да пропадут пропадом руки Абу Лахаба, и сам он пропал",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "ابولہب کے ہاتھ ٹوٹیں اور وہ ہلاک ہو",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_111_002",
+      "reference": {
+        "surah_number": 111,
+        "surah_name": "Al-Masad",
+        "surah_name_ar": "سُوْرَةُ المَسَدِ",
+        "surah_name_translation": "The Palm Fibre",
+        "ayah_number": 2,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 6,
+      "translations": {
+        "ar": {
+          "text": "مَآ أَغۡنَىٰ عَنۡهُ مَالُهُۥ وَمَا كَسَبَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Neither his wealth nor ˹worldly˺ gains will benefit him",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "他的财产, 和他所获得的, 将无裨于他",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "न उसका माल उसके काम आया और न वह कुछ जो उसने कमाया",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "No le servirán de nada su poder ni sus bienes materiales",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Sa fortune ne lui sert à rien, ni ce qu'il a acquis",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "কোন কাজে আসেনি তার ধন-সম্পদ ও যা সে উপার্জন করেছে।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "De nada lhe valerá sua riqueza e o que ele logrou",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Не спасло его богатство и то, что он приобрел (положение в обществе и дети)",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "نہ تو اس کا مال ہی اس کے کچھ کام آیا اور نہ وہ جو اس نے کمایا",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_111_003",
+      "reference": {
+        "surah_number": 111,
+        "surah_name": "Al-Masad",
+        "surah_name_ar": "سُوْرَةُ المَسَدِ",
+        "surah_name_translation": "The Palm Fibre",
+        "ayah_number": 3,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 5,
+      "translations": {
+        "ar": {
+          "text": "سَيَصۡلَىٰ نَارࣰ ا ذَاتَ لَهَبࣲ‏",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "He will burn in a flaming Fire",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "他将入有焰的烈火",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "वह शीघ्र ही प्रज्वलित भड़कती आग में पड़ेगा",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Será arrojado en el fuego llameante",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Il sera brûlé dans un Feu plein de flammes",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "সত্বরই সে প্রবেশ করবে লেলিহান অগ্নিতে",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Queimar-se-á em Fogo de labaredas",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Он попадет в пламенный Огонь",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "وہ جلد بھڑکتی ہوئی آگ میں داخل ہو گا",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_111_004",
+      "reference": {
+        "surah_number": 111,
+        "surah_name": "Al-Masad",
+        "surah_name_ar": "سُوْرَةُ المَسَدِ",
+        "surah_name_translation": "The Palm Fibre",
+        "ayah_number": 4,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 3,
+      "translations": {
+        "ar": {
+          "text": "وَٱمۡرَأَتُهُۥ حَمَّالَةَ ٱلۡحَطَبِ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "and ˹so will˺ his wife, the carrier of ˹thorny˺ kindling",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "他的担柴的妻子, 也将入烈火",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "और उसकी स्त्री भी ईधन लादनेवाली",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "junto con su mujer, la que acarreaba espinas",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "de même sa femme, la porteuse de bois",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "এবং তার স্ত্রীও-যে ইন্ধন বহন করে,",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E, também, sua mulher, a carregadora de lenha",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Жена его будет носить дрова",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور اس کی جورو بھی جو ایندھن سر پر اٹھائے پھرتی ہے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_111_005",
+      "reference": {
+        "surah_number": 111,
+        "surah_name": "Al-Masad",
+        "surah_name_ar": "سُوْرَةُ المَسَدِ",
+        "surah_name_translation": "The Palm Fibre",
+        "ayah_number": 5,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 5,
+      "translations": {
+        "ar": {
+          "text": "فِي جِيدِهَا حَبۡلࣱ مِّن مَّسَدِۭ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "around her neck will be a rope of palm-fibre",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "她的颈上系著一条坚实的绳子。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "उसकी गरदन में खजूर के रेसों की बटी हुई रस्सी पड़ी है",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "que llevará en su cuello una cuerda de fibras de palmera",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "à son cou, une corde de fibres",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "তার গলদেশে খর্জুরের রশি নিয়ে।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Em seu pescoço, haverá uma corda de massad",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "а на шее у нее будет плетеная веревка из пальмовых волокон",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اس کے گلے میں مونج کی رسّی ہو گی",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,1069 @@
+{
+  "surah": 82,
+  "verses": [
+    {
+      "content_id": "quran_082_001",
+      "reference": {
+        "surah_number": 82,
+        "surah_name": "Al-Infitaar",
+        "surah_name_ar": "سُوْرَةُ الْاِنْفِطَارِ",
+        "surah_name_translation": "The Cleaving",
+        "ayah_number": 1,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 3,
+      "translations": {
+        "ar": {
+          "text": "إِذَا ٱلسَّمَآءُ ٱنفَطَرَتۡ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "When the sky splits open",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "当穷苍破裂的时候，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "जबकि आकाश फट जाएगा",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Cuando el cielo se rompa",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Quand le ciel se rompra",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "যখন আকাশ বিদীর্ণ হবে,",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Quando o céu se espedaçar",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Когда небо расколется",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "جب آسمان پھٹ جائے گا",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_082_002",
+      "reference": {
+        "surah_number": 82,
+        "surah_name": "Al-Infitaar",
+        "surah_name_ar": "سُوْرَةُ الْاِنْفِطَارِ",
+        "surah_name_translation": "The Cleaving",
+        "ayah_number": 2,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 3,
+      "translations": {
+        "ar": {
+          "text": "وَإِذَا ٱلۡكَوَاكِبُ ٱنتَثَرَتۡ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "and when the stars fall away",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "当众星飘堕的时候，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "और जबकि तारे बिखर जाएँगे",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "cuando los planetas salgan de sus órbitas",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "et que les étoiles se disperseront",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "যখন নক্ষত্রসমূহ ঝরে পড়বে,",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E quando os astros se dispersarem",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "когда тела небесные осыплются",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور جب تارے جھڑ پڑیں گے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_082_003",
+      "reference": {
+        "surah_number": 82,
+        "surah_name": "Al-Infitaar",
+        "surah_name_ar": "سُوْرَةُ الْاِنْفِطَارِ",
+        "surah_name_translation": "The Cleaving",
+        "ayah_number": 3,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 3,
+      "translations": {
+        "ar": {
+          "text": "وَإِذَا ٱلۡبِحَارُ فُجِّرَتۡ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "and when the seas burst forth",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "当海洋混合的时候，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "और जबकि समुद्र बह पड़ेंगे",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "cuando los mares se desborden",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "et que les mers confondront leurs eaux",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "যখন সমুদ্রকে উত্তাল করে তোলা হবে,",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E quando os mares forem abertos, mesclando-se",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "когда моря перельются и смешаются (или высохнут)",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور جب دریا بہہ (کر ایک دوسرے سے مل) جائیں گے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_082_004",
+      "reference": {
+        "surah_number": 82,
+        "surah_name": "Al-Infitaar",
+        "surah_name_ar": "سُوْرَةُ الْاِنْفِطَارِ",
+        "surah_name_translation": "The Cleaving",
+        "ayah_number": 4,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 3,
+      "translations": {
+        "ar": {
+          "text": "وَإِذَا ٱلۡقُبُورُ بُعۡثِرَتۡ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "and when the graves spill out",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "当坟墓被揭开的时候，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "और जबकि क़बें उखेड़ दी जाएँगी",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "y cuando las tumbas se abran",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "et que les tombeaux seront bouleversés",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "এবং যখন কবরসমূহ উম্মোচিত হবে,",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E quando os sepulcros forem revolvidos",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "когда могилы перевернутся",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور جب قبریں اکھیڑ دی جائیں گی",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_082_005",
+      "reference": {
+        "surah_number": 82,
+        "surah_name": "Al-Infitaar",
+        "surah_name_ar": "سُوْرَةُ الْاِنْفِطَارِ",
+        "surah_name_translation": "The Cleaving",
+        "ayah_number": 5,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 5,
+      "translations": {
+        "ar": {
+          "text": "عَلِمَتۡ نَفۡسࣱ مَّا قَدَّمَتۡ وَأَخَّرَتۡ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "˹then˺ each soul will know what it has sent forth or left behind",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "每个人都知道自己前前后后所做的一切事情。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "तब हर व्यक्ति जान लेगा जिसे उसने प्राथमिकता दी और पीछे डाला",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "En ese momento sabrá cada alma lo que hizo de bien y de mal",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "toute âme saura alors ce qu'elle a accompli et ce qu'elle a remis de faire à plus tard",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "তখন প্রত্যেকে জেনে নিবে সে কি অগ্রে প্রেরণ করেছে এবং কি পশ্চাতে ছেড়ে এসেছে।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Toda alma saberá o que antecipou e atrasou",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "тогда каждая душа узнает, что она совершила и что оставила после себя",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "تب ہر شخص معلوم کرلے گا کہ اس نے آگے کیا بھیجا تھا اور پیچھے کیا چھوڑا تھا",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_082_006",
+      "reference": {
+        "surah_number": 82,
+        "surah_name": "Al-Infitaar",
+        "surah_name_ar": "سُوْرَةُ الْاِنْفِطَارِ",
+        "surah_name_translation": "The Cleaving",
+        "ayah_number": 6,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 6,
+      "translations": {
+        "ar": {
+          "text": "يَٰٓأَيُّهَا ٱلۡإِنسَٰنُ مَا غَرَّكَ بِرَبِّكَ ٱلۡكَرِيمِ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "O humanity! What has emboldened you against your Lord, the Most Generous",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "人啊！什么东西引诱你背离了你的仁慈的主呢？",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "ऐ मनुष्य! किस चीज़ ने तुझे अपने उदार प्रभु के विषय में धोखे में डाल रखा हैं",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "¡Oh, seres humanos! ¿Qué fue lo que los engañó para que se apartaran de su Señor Generoso",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "O homme! Qu'est-ce qui t'a trompé au sujet de ton Seigneur, le Noble",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "হে মানুষ, কিসে তোমাকে তোমার মহামহিম পালনকর্তা সম্পর্কে বিভ্রান্ত করল?",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Ó ser humano! O que te ilude quanto a teu Senhor, O Generoso",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "О человек! Что ввело тебя в заблуждение относительно твоего Великодушного Господа",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اے انسان تجھ کو اپنے پروردگار کرم گستر کے باب میں کس چیز نے دھوکا دیا",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_082_007",
+      "reference": {
+        "surah_number": 82,
+        "surah_name": "Al-Infitaar",
+        "surah_name_ar": "سُوْرَةُ الْاِنْفِطَارِ",
+        "surah_name_translation": "The Cleaving",
+        "ayah_number": 7,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 4,
+      "translations": {
+        "ar": {
+          "text": "ٱلَّذِي خَلَقَكَ فَسَوَّىٰكَ فَعَدَلَكَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Who created you, fashioned you, and perfected your design",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "他曾创造了你，然后，使你健全，然后，使你均称。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "जिसने तेरा प्रारूप बनाया, फिर नख-शिख से तुझे दुरुस्त किया और तुझे संतुलन प्रदान किया",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Quien los creó, les dio forma y una conformación armoniosa",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "qui t'a créé, puis modelé et constitué harmonieusement",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "যিনি তোমাকে সৃষ্টি করেছেন, অতঃপর তোমাকে সুবিন্যস্ত করেছেন এবং সুষম করেছেন।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Que te criou e te formou e te endireitou",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Который сотворил тебя и сделал твой облик совершенным и соразмеренным",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "(وہی تو ہے) جس نے تجھے بنایا اور (تیرے اعضا کو) ٹھیک کیا اور (تیرے قامت کو) معتدل رکھا",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_082_008",
+      "reference": {
+        "surah_number": 82,
+        "surah_name": "Al-Infitaar",
+        "surah_name_ar": "سُوْرَةُ الْاِنْفِطَارِ",
+        "surah_name_translation": "The Cleaving",
+        "ayah_number": 8,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 6,
+      "translations": {
+        "ar": {
+          "text": "فِيٓ أَيِّ صُورَةࣲ مَّا شَآءَ رَكَّبَكَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "moulding you in whatever form He willed",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "他意欲什么型式，就依什么型式而构造你。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "जिस रूप में चाहा उसने तुझे जोड़कर तैयार किया",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "y les dio la más hermosa figura que quiso para ustedes",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Il t'a façonné dans la forme qu'Il a voulue",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "যিনি তোমাকে তাঁর ইচ্ছামত আকৃতিতে গঠন করেছেন।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Na forma que Ele quis, Ele te compôs",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Он сложил тебя в том облике, в каком пожелал",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور جس صورت میں چاہا تجھے جوڑ دیا",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_082_009",
+      "reference": {
+        "surah_number": 82,
+        "surah_name": "Al-Infitaar",
+        "surah_name_ar": "سُوْرَةُ الْاِنْفِطَارِ",
+        "surah_name_translation": "The Cleaving",
+        "ayah_number": 9,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 4,
+      "translations": {
+        "ar": {
+          "text": "كَلَّا بَلۡ تُكَذِّبُونَ بِٱلدِّينِ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "But no! In fact, you deny the ˹final˺ Judgment",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "绝不然，但你们否认报应！",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "कुछ नहीं, बल्कि तुम बदला दिए जाने का झुठलाते हो",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Pero aun así desmienten el Día del Juicio",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Non...! [malgré tout] vous traitez la Rétribution de mensonge",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "কখনও বিভ্রান্ত হয়ো না; বরং তোমরা দান-প্রতিদানকে মিথ্যা মনে কর।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Em absoluto, não vos iludais! Mas vós desmentis o Juízo",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Но нет! Вы же считаете ложью воздаяние",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "مگر ہیہات تم لوگ جزا کو جھٹلاتے ہو",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_082_010",
+      "reference": {
+        "surah_number": 82,
+        "surah_name": "Al-Infitaar",
+        "surah_name_ar": "سُوْرَةُ الْاِنْفِطَارِ",
+        "surah_name_translation": "The Cleaving",
+        "ayah_number": 10,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 3,
+      "translations": {
+        "ar": {
+          "text": "وَإِنَّ عَلَيۡكُمۡ لَحَٰفِظِينَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "while you are certainly observed by vigilant",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "你们的上面，确有许多监视者，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "जबकि तुमपर निगरानी करनेवाले नियुक्त हैं",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Hay ángeles que registran sus obras",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "alors que veillent sur vous des gardiens",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "অবশ্যই তোমাদের উপর তত্ত্বাবধায়ক নিযুক্ত আছে।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E, por certo, há, sobre vós, anjos custódios",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Воистину, над вами есть хранители",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "حالانکہ تم پر نگہبان مقرر ہیں",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_082_011",
+      "reference": {
+        "surah_number": 82,
+        "surah_name": "Al-Infitaar",
+        "surah_name_ar": "سُوْرَةُ الْاِنْفِطَارِ",
+        "surah_name_translation": "The Cleaving",
+        "ayah_number": 11,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 3,
+      "translations": {
+        "ar": {
+          "text": "كِرَامࣰ ا كَٰتِبِينَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "honourable angels, recording ˹everything˺",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "他们是尊贵的，是记录的，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "प्रतिष्ठित लिपिक",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "nobles escribas",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "de nobles scribes",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "সম্মানিত আমল লেখকবৃন্দ।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Honoráveis escribas",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "благородные писцы",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "عالی قدر (تمہاری باتوں کے) لکھنے والے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_082_012",
+      "reference": {
+        "surah_number": 82,
+        "surah_name": "Al-Infitaar",
+        "surah_name_ar": "سُوْرَةُ الْاِنْفِطَارِ",
+        "surah_name_translation": "The Cleaving",
+        "ayah_number": 12,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 3,
+      "translations": {
+        "ar": {
+          "text": "يَعۡلَمُونَ مَا تَفۡعَلُونَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "They know whatever you do",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "他们知道你们的一切行为。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "वे जान रहे होते है जो कुछ भी तुम लोग करते हो",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "que saben lo que ustedes hacen",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "qui savent ce que vous faites",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "তারা জানে যা তোমরা কর।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Eles sabem o que fazeis",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "которые знают о том, что вы совершаете",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "جو تم کرتے ہو وہ اسے جانتے ہیں",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_082_013",
+      "reference": {
+        "surah_number": 82,
+        "surah_name": "Al-Infitaar",
+        "surah_name_ar": "سُوْرَةُ الْاِنْفِطَارِ",
+        "surah_name_translation": "The Cleaving",
+        "ayah_number": 13,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 4,
+      "translations": {
+        "ar": {
+          "text": "إِنَّ ٱلۡأَبۡرَارَ لَفِي نَعِيمࣲ‏",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Indeed, the virtuous will be in bliss",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "善人们，必在恩泽中；",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "निस्संदेह वफ़ादार लोग नेमतों में होंगे",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Los piadosos disfrutarán delicias [en esta vida y en el Paraíso]",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Les bons seront, certes, dans un [jardin] de délice",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "সৎকর্মশীলগণ থাকবে জান্নাতে।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Por certo, os virtuosos estarão na delícia",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Воистину, благочестивые окажутся в блаженстве",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "بے شک نیکوکار نعمتوں (کی بہشت) میں ہوں گے۔",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_082_014",
+      "reference": {
+        "surah_number": 82,
+        "surah_name": "Al-Infitaar",
+        "surah_name_ar": "سُوْرَةُ الْاِنْفِطَارِ",
+        "surah_name_translation": "The Cleaving",
+        "ayah_number": 14,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 4,
+      "translations": {
+        "ar": {
+          "text": "وَإِنَّ ٱلۡفُجَّارَ لَفِي جَحِيمࣲ‏",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "and the wicked will be in Hell",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "恶人们，必在烈火中。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "और निश्चय ही दुराचारी भड़कती हुई आग में",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "mientras que los pecadores, en cambio, sufrirán tormento [en esta vida y en la otra]",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "et les libertins seront, certes, dans une fournaise",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "এবং দুষ্কর্মীরা থাকবে জাহান্নামে;",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E, por certo, os ímpios estarão no Inferno",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Воистину, грешники окажутся в Аду",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور بدکردار دوزخ میں",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_082_015",
+      "reference": {
+        "surah_number": 82,
+        "surah_name": "Al-Infitaar",
+        "surah_name_ar": "سُوْرَةُ الْاِنْفِطَارِ",
+        "surah_name_translation": "The Cleaving",
+        "ayah_number": 15,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 3,
+      "translations": {
+        "ar": {
+          "text": "يَصۡلَوۡنَهَا يَوۡمَ ٱلدِّينِ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "burning in it on Judgment Day",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "他们将在报应日堕入烈火，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "जिसमें वे बदले के दिन प्रवेश करेंगे",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "y arderán en el Infierno desde el Día del Juicio",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "où ils brûleront, le jour de la Rétribution",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "তারা বিচার দিবসে তথায় প্রবেশ করবে।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Nele se queimarão, no Dia do Juízo",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "куда они войдут в День воздаяния",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "(یعنی) جزا کے دن اس میں داخل ہوں گے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_082_016",
+      "reference": {
+        "surah_number": 82,
+        "surah_name": "Al-Infitaar",
+        "surah_name_ar": "سُوْرَةُ الْاِنْفِطَارِ",
+        "surah_name_translation": "The Cleaving",
+        "ayah_number": 16,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 4,
+      "translations": {
+        "ar": {
+          "text": "وَمَا هُمۡ عَنۡهَا بِغَآئِبِينَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "and they will have no escape from it",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "他们绝不得离开它。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "और उससे वे ओझल नहीं होंगे",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "del que no podrán salir",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "incapables de s'en échapper",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "তারা সেখান থেকে পৃথক হবে না।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E dele nunca estarão ausentes",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Они не смогут избежать этого",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور اس سے چھپ نہیں سکیں گے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_082_017",
+      "reference": {
+        "surah_number": 82,
+        "surah_name": "Al-Infitaar",
+        "surah_name_ar": "سُوْرَةُ الْاِنْفِطَارِ",
+        "surah_name_translation": "The Cleaving",
+        "ayah_number": 17,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 5,
+      "translations": {
+        "ar": {
+          "text": "وَمَآ أَدۡرَىٰكَ مَا يَوۡمُ ٱلدِّينِ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "What will make you realize what Judgment Day is",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "你怎能知道报应日是什么？",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "और तुम्हें क्या मालूम कि बदले का दिन क्या है",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "¿Qué te hará comprender todo lo que sucederá el Día de la Retribución",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Et qui te dira ce qu'est le jour de la Rétribution",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "আপনি জানেন, বিচার দিবস কি?",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E o que te faz inteirar-te do Dia do Juízo",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Откуда ты мог знать, что такое День воздаяния",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور تمہیں کیا معلوم کہ جزا کا دن کیسا ہے؟",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_082_018",
+      "reference": {
+        "surah_number": 82,
+        "surah_name": "Al-Infitaar",
+        "surah_name_ar": "سُوْرَةُ الْاِنْفِطَارِ",
+        "surah_name_translation": "The Cleaving",
+        "ayah_number": 18,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 6,
+      "translations": {
+        "ar": {
+          "text": "ثُمَّ مَآ أَدۡرَىٰكَ مَا يَوۡمُ ٱلدِّينِ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Again, what will make you realize what Judgment Day is",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "你怎能知道报应日是什么？",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "फिर तुम्हें क्या मालूम कि बदले का दिन क्या है",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "[¡Reflexiona!] ¿Qué te hará comprender todo lo que sucederá el Día de la Retribución",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Encore une fois, qui te dira ce qu'est le jour de la Rétribution",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "অতঃপর আপনি জানেন, বিচার দিবস কি?",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Mais uma vez, o que te faz inteirar-te do Dia do Juízo",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Да, откуда ты мог знать, что такое День воздаяния",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "پھر تمہیں کیا معلوم کہ جزا کا دن کیسا ہے؟",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_082_019",
+      "reference": {
+        "surah_number": 82,
+        "surah_name": "Al-Infitaar",
+        "surah_name_ar": "سُوْرَةُ الْاِنْفِطَارِ",
+        "surah_name_translation": "The Cleaving",
+        "ayah_number": 19,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 10,
+      "translations": {
+        "ar": {
+          "text": "يَوۡمَ لَا تَمۡلِكُ نَفۡسࣱ لِّنَفۡسࣲ شَيۡـࣰٔ اۖ وَٱلۡأَمۡرُ يَوۡمَئِذࣲ لِّلَّهِ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "˹It is˺ the Day no soul will be of ˹any˺ benefit to another whatsoever, for all authority on that Day belongs to Allah ˹entirely˺",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "在那日，任何人对任何人不能有什么裨益；命令全归真主。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "जिस दिन कोई व्यक्ति किसी व्यक्ति के लिए किसी चीज़ का अधिकारी न होगा, मामला उस दिन अल्लाह ही के हाथ में होगा",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Ese día nadie podrá hacer nada por nadie, porque será Dios Quien decida",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Le jour où aucune âme ne pourra rien en faveur d'une autre âme. Et ce jour-là, le commandement sera à Allah",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "যেদিন কেউ কারও কোন উপকার করতে পারবে না এবং সেদিন সব কতৃꦣ2468;্ব হবে আল্লাহর।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Um dia, em que alma nenhuma nada poderá fazer por outra alma. E a ordem, nesse dia, será de Allah",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "В тот день ни одна душа не сможет ничем помочь другой, и власть в тот день будет принадлежать Аллаху",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "جس روز کوئی کسی کا بھلا نہ کر سکے گا اور حکم اس روز خدا ہی کا ہو گا",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    }
+  ]
+}

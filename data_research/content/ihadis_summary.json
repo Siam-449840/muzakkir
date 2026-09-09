@@ -1,0 +1,33 @@
+{
+  "total_books": 25,
+  "total_hadiths": 52856,
+  "total_sahih_hadiths": 42921,
+  "daily_pool_count": 2402,
+  "book_stats": {
+    "bukhari": 7563,
+    "muslim": 7547,
+    "nasai": 5758,
+    "abu-dawud": 5274,
+    "tirmidhi": 3956,
+    "ibn-majah": 4341,
+    "muwatta-malik": 1830,
+    "riyadus-salihin": 1905,
+    "bulugul-maram": 1568,
+    "luluwal-marjan": 1906,
+    "hadis-somvar": 2013,
+    "silsila-sahiha": 60,
+    "dhaif-hadis-sirij": 102,
+    "mishkatul-masabih": 6294,
+    "40-hadith": 42,
+    "adabul-mufrad": 1336,
+    "jujul-rafayel-yadain": 48,
+    "sahih-hadise-qudsi": 163,
+    "100-hadith": 101,
+    "miskate-dhaif-hadis": 106,
+    "shamayele-tirmidhi": 322,
+    "targib-wattahrib": 200,
+    "fazayele-amal": 151,
+    "upodesh": 234,
+    "ramadaner-durbol-hadis": 36
+  }
+}

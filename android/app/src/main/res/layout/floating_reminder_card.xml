@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/overlay_backdrop"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#66000000">
+
+    <com.remindme.islamicdailyreminder.BoundedCardLayout
+        android:id="@+id/card_container"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:background="@drawable/floating_card_bg"
+        android:padding="16dp"
+        android:orientation="vertical">
+
+        <!-- Pinned Header Container -->
+        <LinearLayout
+            android:id="@+id/header_container"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <!-- Badges and Close Button Row -->
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="8dp">
+
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentStart="true"
+                    android:layout_centerVertical="true"
+                    android:layout_toStartOf="@+id/btn_close"
+                    android:gravity="center_vertical"
+                    android:orientation="horizontal">
+
+                    <TextView
+                        android:id="@+id/tv_badge"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:background="@drawable/badge_pill_bg"
+                        android:textColor="#0A4D3C"
+                        android:textSize="12sp"
+                        android:textStyle="bold"
+                        android:text="কুরআনুল কারীম · দৈনিক স্মরণ" />
+
+                    <TextView
+                        android:id="@+id/tv_grade"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginStart="6dp"
+                        android:background="@drawable/badge_pill_bg"
+                        android:textColor="#106F53"
+                        android:textSize="11sp"
+                        android:textStyle="bold"
+                        android:visibility="gone"
+                        android:text="সহিহ" />
+
+                    <TextView
+                        android:id="@+id/tv_category"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:visibility="gone" />
+                </LinearLayout>
+
+                <TextView
+                    android:id="@+id/btn_close"
+                    android:layout_width="44dp"
+                    android:layout_height="44dp"
+                    android:minWidth="44dp"
+                    android:minHeight="44dp"
+                    android:layout_alignParentEnd="true"
+                    android:layout_centerVertical="true"
+                    android:background="?android:attr/selectableItemBackgroundBorderless"
+                    android:gravity="center"
+                    android:text="✕"
+                    android:textColor="#8C7A6B"
+                    android:textSize="18sp"
+                    android:textStyle="bold"
+                    android:contentDescription="Close reminder"
+                    android:focusable="true"
+                    android:clickable="true" />
+            </RelativeLayout>
+
+            <!-- Reference Header -->
+            <TextView
+                android:id="@+id/tv_reference"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="4dp"
+                android:textColor="#1A202C"
+                android:textSize="14sp"
+                android:textStyle="bold"
+                android:text="সূরা আল-ফাতিহা ১:১" />
+
+            <!-- Chapter & Section Context Subtitle -->
+            <TextView
+                android:id="@+id/tv_chapter_section"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="8dp"
+                android:textColor="#8C7A6B"
+                android:textSize="12sp"
+                android:visibility="gone"
+                android:text="অধ্যায়: ওহীর সূচনা • অনুচ্ছেদ: নিয়্যতের গুরুত্ব" />
+        </LinearLayout>
+
+        <!-- Scrollable Middle Content (Shrinkwraps or Scrolls smoothly) -->
+        <com.remindme.islamicdailyreminder.BoundedScrollView
+            android:id="@+id/scroll_content"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:fadeScrollbars="false"
+            android:scrollbars="vertical">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+
+                <!-- Narrator / Rawi Attribution -->
+                <TextView
+                    android:id="@+id/tv_narrator"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="8dp"
+                    android:textColor="#0A4D3C"
+                    android:textSize="13sp"
+                    android:textStyle="italic"
+                    android:visibility="gone"
+                    android:text="বর্ণনায়: আমীরুল মুমিনীন উমার ইবন আল-খাত্তাব (রাঃ)" />
+
+                <!-- Arabic Text (Matn) -->
+                <TextView
+                    android:id="@+id/tv_arabic"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="12dp"
+                    android:gravity="right"
+                    android:lineSpacingMultiplier="1.4"
+                    android:text="بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ"
+                    android:textColor="#1A202C"
+                    android:textSize="20sp"
+                    android:textStyle="bold" />
+
+                <!-- Translation Text (Complete, zero truncation) -->
+                <TextView
+                    android:id="@+id/tv_translation"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="10dp"
+                    android:gravity="left"
+                    android:lineSpacingMultiplier="1.3"
+                    android:text="শুরু করছি আল্লাহর নামে যিনি পরম করুণাময়, অতি দয়ালু।"
+                    android:textColor="#2D3748"
+                    android:textSize="15sp" />
+
+                <!-- Footnote / Scholarly Note Box -->
+                <TextView
+                    android:id="@+id/tv_footnote"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="8dp"
+                    android:background="#F5EFE6"
+                    android:padding="8dp"
+                    android:textColor="#5A4A3A"
+                    android:textSize="12sp"
+                    android:visibility="gone"
+                    android:text="[টীকা]" />
+
+                <!-- Reflection Box -->
+                <TextView
+                    android:id="@+id/tv_reflection"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="8dp"
+                    android:background="#FAF4EC"
+                    android:padding="8dp"
+                    android:textColor="#665343"
+                    android:textSize="12sp"
+                    android:textStyle="italic"
+                    android:visibility="gone"
+                    android:text="আজকের দিনে এই আয়াত কীভাবে আপনার অন্তরে তাওয়াক্কুল ও রহমত জাগ্রত করছে?" />
+            </LinearLayout>
+        </com.remindme.islamicdailyreminder.BoundedScrollView>
+
+        <!-- Pinned Bottom Action Controls -->
+        <LinearLayout
+            android:id="@+id/footer_container"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="8dp"
+            android:gravity="end"
+            android:orientation="horizontal">
+
+            <Button
+                android:id="@+id/btn_see_more"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:minHeight="48dp"
+                android:minWidth="100dp"
+                android:paddingStart="20dp"
+                android:paddingEnd="20dp"
+                android:background="@drawable/btn_emerald_bg"
+                android:text="আরও পড়ুন"
+                android:textColor="#FFFFFF"
+                android:textSize="13.5sp"
+                android:textStyle="bold" />
+        </LinearLayout>
+    </com.remindme.islamicdailyreminder.BoundedCardLayout>
+</FrameLayout>

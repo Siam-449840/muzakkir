@@ -1,0 +1,621 @@
+{
+  "surah": 93,
+  "verses": [
+    {
+      "content_id": "quran_093_001",
+      "reference": {
+        "surah_number": 93,
+        "surah_name": "Ad-Dhuhaa",
+        "surah_name_ar": "سُوْرَةُ الضُّحٰي",
+        "surah_name_translation": "The Morning Hours",
+        "ayah_number": 1,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 1,
+      "translations": {
+        "ar": {
+          "text": "وَٱلضُّحَىٰ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "By the morning sunlight",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "誓以上午，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "साक्षी है चढ़ता दिन",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Juro por el resplandor matinal",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Par le Jour Montant",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "শপথ পূর্বাহ্নের,",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Pela plena luz matinal",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Клянусь утром",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "آفتاب کی روشنی کی قسم",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_093_002",
+      "reference": {
+        "surah_number": 93,
+        "surah_name": "Ad-Dhuhaa",
+        "surah_name_ar": "سُوْرَةُ الضُّحٰي",
+        "surah_name_translation": "The Morning Hours",
+        "ayah_number": 2,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 3,
+      "translations": {
+        "ar": {
+          "text": "وَٱلَّيۡلِ إِذَا سَجَىٰ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "and the night when it falls still",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "誓以黑夜，当其寂静的时候，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "और रात जबकि उसका सन्नाटा छा जाए",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "por la noche cuando se serena",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Et par la nuit quand elle couvre tout",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "শপথ রাত্রির যখন তা গভীর হয়,",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E pela noite, quando serena",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Клянусь ночью, когда она успокаивается (или покрывается мраком)",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور رات (کی تاریکی) کی جب چھا جائے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_093_003",
+      "reference": {
+        "surah_number": 93,
+        "surah_name": "Ad-Dhuhaa",
+        "surah_name_ar": "سُوْرَةُ الضُّحٰي",
+        "surah_name_translation": "The Morning Hours",
+        "ayah_number": 3,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 5,
+      "translations": {
+        "ar": {
+          "text": "مَا وَدَّعَكَ رَبُّكَ وَمَا قَلَىٰ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Your Lord ˹O Prophet˺ has not abandoned you, nor has He become hateful ˹of you˺",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "你的主没有弃绝你，也没有怨恨你；",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "तुम्हारे रब ने तुम्हें न तो विदा किया और न वह बेज़ार (अप्रसन्न) हुआ",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "que tu Señor no te ha abandonado ni aborrecido [oh, Mujámmad]",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Ton Seigneur ne t'a ni abandonné, ni détesté",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "আপনার পালনকর্তা আপনাকে ত্যাগ করেনি এবং আপনার প্রতি বিরূপও হননি।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Teu Senhor não te abandonou nem te detestou",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Не покинул тебя твой Господь и не возненавидел",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "کہ (اے محمدﷺ) تمہارے پروردگار نے نہ تو تم کو چھوڑا اور نہ (تم سے) ناراض ہوا",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_093_004",
+      "reference": {
+        "surah_number": 93,
+        "surah_name": "Ad-Dhuhaa",
+        "surah_name_ar": "سُوْرَةُ الضُّحٰي",
+        "surah_name_translation": "The Morning Hours",
+        "ayah_number": 4,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 5,
+      "translations": {
+        "ar": {
+          "text": "وَلَلۡأٓخِرَةُ خَيۡرࣱ لَّكَ مِنَ ٱلۡأُولَىٰ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "And the next life is certainly far better for you than this one",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "後世於你，确比今世更好；",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "और निश्चय ही बाद में आनेवाली (अवधि) तुम्हारे लिए पहलेवाली से उत्तम है",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "La vida del más allá será mejor para ti que esta",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "La vie dernière t'est, certes, meilleure que la vie présente",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "আপনার জন্যে পরকাল ইহকাল অপেক্ষা শ্রেয়।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E, em verdade, a Derradeira Vida te é melhor que a primeira",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Воистину, будущее для тебя лучше, чем настоящее",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور آخرت تمہارے لیے پہلی (حالت یعنی دنیا) سے کہیں بہتر ہے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_093_005",
+      "reference": {
+        "surah_number": 93,
+        "surah_name": "Ad-Dhuhaa",
+        "surah_name_ar": "سُوْرَةُ الضُّحٰي",
+        "surah_name_translation": "The Morning Hours",
+        "ayah_number": 5,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 4,
+      "translations": {
+        "ar": {
+          "text": "وَلَسَوۡفَ يُعۡطِيكَ رَبُّكَ فَتَرۡضَىٰٓ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "And ˹surely˺ your Lord will give so much to you that you will be pleased",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "你的主将来必赏赐你，以至你喜悦。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "और शीघ्र ही तुम्हारा रब तुम्हें प्रदान करेगा कि तुम प्रसन्न हो जाओगे",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Tu Señor te agraciará y te complacerás",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Ton Seigneur t'accordera certes [Ses faveurs], et alors tu seras satisfait",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "আপনার পালনকর্তা সত্বরই আপনাকে দান করবেন, অতঃপর আপনি সন্তুষ্ট হবেন।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E, em verdade, teu Senhor dar-te-á graças, e disso te agradarás",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Господь твой непременно одарит тебя, и ты будешь удовлетворен",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور تمہیں پروردگار عنقریب وہ کچھ عطا فرمائے گا کہ تم خوش ہو جاؤ گے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_093_006",
+      "reference": {
+        "surah_number": 93,
+        "surah_name": "Ad-Dhuhaa",
+        "surah_name_ar": "سُوْرَةُ الضُّحٰي",
+        "surah_name_translation": "The Morning Hours",
+        "ayah_number": 6,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 5,
+      "translations": {
+        "ar": {
+          "text": "أَلَمۡ يَجِدۡكَ يَتِيمࣰ ا فَـَٔاوَىٰ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Did He not find you as an orphan then sheltered you",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "难道他没有发现你伶仃孤苦，而使你有所归宿？",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "क्या ऐसा नहीं कि उसने तुम्हें अनाथ पाया तो ठिकाना दिया",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "¿Acaso no te encontró huérfano y te dio amparo",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Ne t'a-t-Il pas trouvé orphelin? Alors Il t'a accueilli",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "তিনি কি আপনাকে এতীমরূপে পাননি? অতঃপর তিনি আশ্রয় দিয়েছেন।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Não te encontrou órfão e te abrigou",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Разве Он не нашел тебя сиротой и не дал тебе приют",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "بھلا اس نے تمہیں یتیم پا کر جگہ نہیں دی؟ (بےشک دی)",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_093_007",
+      "reference": {
+        "surah_number": 93,
+        "surah_name": "Ad-Dhuhaa",
+        "surah_name_ar": "سُوْرَةُ الضُّحٰي",
+        "surah_name_translation": "The Morning Hours",
+        "ayah_number": 7,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 4,
+      "translations": {
+        "ar": {
+          "text": "وَوَجَدَكَ ضَآلࣰّ ا فَهَدَىٰ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Did He not find you unguided then guided you",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "他曾发现你徘徊歧途，而把你引入正路；",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "और तुम्हें मार्ग से अपरिचित पाया तो मार्ग दिखाया",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "y te encontró perdido y te guió",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Ne t'a-t-Il pas trouvé égaré? Alors Il t'a guidé",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "তিনি আপনাকে পেয়েছেন পথহারা, অতঃপর পথপ্রদর্শন করেছেন।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E não te encontrou descaminhado e te guiou",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Он нашел тебя заблудшим и повел прямым путем",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور رستے سے ناواقف دیکھا تو رستہ دکھایا",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_093_008",
+      "reference": {
+        "surah_number": 93,
+        "surah_name": "Ad-Dhuhaa",
+        "surah_name_ar": "سُوْرَةُ الضُّحٰي",
+        "surah_name_translation": "The Morning Hours",
+        "ayah_number": 8,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 4,
+      "translations": {
+        "ar": {
+          "text": "وَوَجَدَكَ عَآئِلࣰ ا فَأَغۡنَىٰ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "And did He not find you needy then satisfied your needs",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "发现你家境寒苦，而使你衣食丰足。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "और तुम्हें निर्धन पाया तो समृद्ध कर दिया",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "y te encontró pobre y te enriqueció",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Ne t'a-t-Il pas trouvé pauvre? Alors Il t'a enrichi",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "তিনি আপনাকে পেয়েছেন নিঃস্ব, অতঃপর অভাবমুক্ত করেছেন।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E não te encontrou infortunado e te enriqueceu",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Он нашел тебя бедным и обогатил",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور تنگ دست پایا تو غنی کر دیا",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_093_009",
+      "reference": {
+        "surah_number": 93,
+        "surah_name": "Ad-Dhuhaa",
+        "surah_name_ar": "سُوْرَةُ الضُّحٰي",
+        "surah_name_translation": "The Morning Hours",
+        "ayah_number": 9,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 4,
+      "translations": {
+        "ar": {
+          "text": "فَأَمَّا ٱلۡيَتِيمَ فَلَا تَقۡهَرۡ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "So do not oppress the orphan",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "至於孤儿，你不要压迫他；",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "अतः जो अनाथ हो उसे मत दबाना",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "No maltrates al huérfano",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Quant à l'orphelin, donc, ne le maltraite pas",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "সুতরাং আপনি এতীমের প্রতি কঠোর হবেন না;",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Então, quanto ao órfão, não o oprimas",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Посему не притесняй сироту",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "تو تم بھی یتیم پر ستم نہ کرنا",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_093_010",
+      "reference": {
+        "surah_number": 93,
+        "surah_name": "Ad-Dhuhaa",
+        "surah_name_ar": "سُوْرَةُ الضُّحٰي",
+        "surah_name_translation": "The Morning Hours",
+        "ayah_number": 10,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 4,
+      "translations": {
+        "ar": {
+          "text": "وَأَمَّا ٱلسَّآئِلَ فَلَا تَنۡهَرۡ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "nor repulse the beggar",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "至於乞丐，你不要喝斥他，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "और जो माँगता हो उसे न झिझकना",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "ni rechaces al mendigo",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Quant au demandeur, ne le repousse pas",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "সওয়ালকারীকে ধমক দেবেন না।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E, quanto ao mendigo, não o maltrates",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "И не гони просящего",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور مانگنے والے کو جھڑکی نہ دینا",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_093_011",
+      "reference": {
+        "surah_number": 93,
+        "surah_name": "Ad-Dhuhaa",
+        "surah_name_ar": "سُوْرَةُ الضُّحٰي",
+        "surah_name_translation": "The Morning Hours",
+        "ayah_number": 11,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 4,
+      "translations": {
+        "ar": {
+          "text": "وَأَمَّا بِنِعۡمَةِ رَبِّكَ فَحَدِّثۡ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "And proclaim the blessings of your Lord",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "至於你的主所赐你的恩典呢，你应当宣示它。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "और जो तुम्हें रब की अनुकम्पा है, उसे बयान करते रहो",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Y divulga las bendiciones de tu Señor",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Et quant au bienfait de ton Seigneur, proclame-le",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "এবং আপনার পালনকর্তার নেয়ামতের কথা প্রকাশ করুন।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E, quanto à graça de teu Senhor, proclama-a",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "И возвещай о милости своего Господа",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور اپنے پروردگار کی نعمتوں کا بیان کرتے رہنا",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    }
+  ]
+}

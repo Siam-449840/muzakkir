@@ -1,0 +1,2245 @@
+{
+  "surah": 78,
+  "verses": [
+    {
+      "content_id": "quran_078_001",
+      "reference": {
+        "surah_number": 78,
+        "surah_name": "An-Naba",
+        "surah_name_ar": "سُوْرَةُ النَّبَاِ",
+        "surah_name_translation": "The Announcement",
+        "ayah_number": 1,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 2,
+      "translations": {
+        "ar": {
+          "text": "عَمَّ يَتَسَآءَلُونَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "What are they asking one another about",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "他们互相询问，询问什么？",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "किस चीज़ के विषय में वे आपस में पूछ-गच्छ कर रहे है",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "¿Sobre qué se preguntan unos a otros",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Sur quoi s'interrogent-ils mutuellement",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "তারা পরস্পরে কি বিষয়ে জিজ্ঞাসাবাদ করছে?",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Sobre o que eles se interrogam mutuamente",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "О чем они расспрашивают друг друга",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "(یہ) لوگ کس چیز کی نسبت پوچھتے ہیں؟",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_078_002",
+      "reference": {
+        "surah_number": 78,
+        "surah_name": "An-Naba",
+        "surah_name_ar": "سُوْرَةُ النَّبَاِ",
+        "surah_name_translation": "The Announcement",
+        "ayah_number": 2,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 3,
+      "translations": {
+        "ar": {
+          "text": "عَنِ ٱلنَّبَإِ ٱلۡعَظِيمِ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "About the momentous news",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "询问那重大的消息，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "उस बड़ी ख़बर के सम्बन्ध में",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Sobre la gran noticia [el Mensaje del Islam]",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Sur la grande nouvelle",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "মহা সংবাদ সম্পর্কে,",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Sobre o formidável Informe",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "О великой вести",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "(کیا) بڑی خبر کی نسبت؟",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_078_003",
+      "reference": {
+        "surah_number": 78,
+        "surah_name": "An-Naba",
+        "surah_name_ar": "سُوْرَةُ النَّبَاِ",
+        "surah_name_translation": "The Announcement",
+        "ayah_number": 3,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 4,
+      "translations": {
+        "ar": {
+          "text": "ٱلَّذِي هُمۡ فِيهِ مُخۡتَلِفُونَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "over which they disagree",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "就是他们所争论的消息。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "जिसमें वे मतभेद रखते है",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "acerca de la cual discrepan",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "à propos de laquelle ils divergent",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "যে সম্পর্কে তারা মতানৈক্য করে।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "De que são discrepantes",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "относительно которой они расходятся во мнениях",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "جس میں یہ اختلاف کر رہے ہیں",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_078_004",
+      "reference": {
+        "surah_number": 78,
+        "surah_name": "An-Naba",
+        "surah_name_ar": "سُوْرَةُ النَّبَاِ",
+        "surah_name_translation": "The Announcement",
+        "ayah_number": 4,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 2,
+      "translations": {
+        "ar": {
+          "text": "كَلَّا سَيَعۡلَمُونَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "But no! They will come to know",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "绝不然！他们将来就知道了。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "कदापि नहीं, शीघ्र ही वे जान लेंगे।",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Pero no es lo que piensan, ya verán [por desmentirla]",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Eh bien non! Ils sauront bientôt",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "না, সত্ত্বরই তারা জানতে পারবে,",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Não! Eles logo saberão",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Но нет, они узнают",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "دیکھو یہ عنقریب جان لیں گے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_078_005",
+      "reference": {
+        "surah_number": 78,
+        "surah_name": "An-Naba",
+        "surah_name_ar": "سُوْرَةُ النَّبَاِ",
+        "surah_name_translation": "The Announcement",
+        "ayah_number": 5,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 3,
+      "translations": {
+        "ar": {
+          "text": "ثُمَّ كَلَّا سَيَعۡلَمُونَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Again, no! They will come to know",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "绝不然，他们将来就知道了。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "फिर कदापि नहीं, शीघ्र ही वे जान लेंगे।",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Indudablemente no es lo que piensan; ya verán",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Encore une fois, non! Ils sauront bientôt",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "অতঃপর না, সত্বর তারা জানতে পারবে।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Mais uma vez, não! Eles logo saberão",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Еще раз нет, они узнают",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "پھر دیکھو یہ عنقریب جان لیں گے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_078_006",
+      "reference": {
+        "surah_number": 78,
+        "surah_name": "An-Naba",
+        "surah_name_ar": "سُوْرَةُ النَّبَاِ",
+        "surah_name_translation": "The Announcement",
+        "ayah_number": 6,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 5,
+      "translations": {
+        "ar": {
+          "text": "أَلَمۡ نَجۡعَلِ ٱلۡأَرۡضَ مِهَٰدࣰ ا",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Have We not smoothed out the earth ˹like a bed˺",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "难道我没有使大地如摇篮，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "क्या ऐसा नहीं है कि हमने धरती को बिछौना बनाया",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "¿Acaso no hice de la tierra un lecho",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "N'avons-Nous pas fait de la terre une couche",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "আমি কি করিনি ভূমিকে বিছানা",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Não fizemos da terra leito",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Разве Мы не сделали землю ложем",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "کیا ہم نے زمین کو بچھونا نہیں بنایا",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_078_007",
+      "reference": {
+        "surah_number": 78,
+        "surah_name": "An-Naba",
+        "surah_name_ar": "سُوْرَةُ النَّبَاِ",
+        "surah_name_translation": "The Announcement",
+        "ayah_number": 7,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 3,
+      "translations": {
+        "ar": {
+          "text": "وَٱلۡجِبَالَ أَوۡتَادࣰ ا",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "and ˹made˺ the mountains as ˹its˺ pegs",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "使山峦如木桩吗？",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "और पहाड़ों को मेख़े",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "de las montañas estacas",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "et (placé) les montagnes comme des piquets",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "এবং পর্বতমালাকে পেরেক?",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E das montanhas estacas",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "а горы - колышками",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور پہاڑوں کو (ا س کی) میخیں (نہیں ٹھہرایا؟)",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_078_008",
+      "reference": {
+        "surah_number": 78,
+        "surah_name": "An-Naba",
+        "surah_name_ar": "سُوْرَةُ النَّبَاِ",
+        "surah_name_translation": "The Announcement",
+        "ayah_number": 8,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 3,
+      "translations": {
+        "ar": {
+          "text": "وَخَلَقۡنَٰكُمۡ أَزۡوَٰجࣰ ا",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "and created you in pairs",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "我曾把你们造成配偶，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "और हमने तुम्हें जोड़-जोड़े पैदा किया",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "los cree en parejas [hombre y mujer]",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Nous vous avons créés en couples",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "আমি তোমাদেরকে জোড়া জোড়া সৃষ্টি করেছি,",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E vos criamos casais",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Мы сотворили вас парами",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "(بے شک بنایا) اور تم کو جوڑا جوڑابھی پیدا کیا",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_078_009",
+      "reference": {
+        "surah_number": 78,
+        "surah_name": "An-Naba",
+        "surah_name_ar": "سُوْرَةُ النَّبَاِ",
+        "surah_name_translation": "The Announcement",
+        "ayah_number": 9,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 4,
+      "translations": {
+        "ar": {
+          "text": "وَجَعَلۡنَا نَوۡمَكُمۡ سُبَاتࣰ ا",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "and made your sleep for rest",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "我曾使你们从睡眠中得到休息，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "और तुम्हारी नींद को थकन दूर करनेवाली बनाया",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "hice que el sueño sea descanso",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "et désigné votre sommeil pour votre repos",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "তোমাদের নিদ্রাকে করেছি ক্লান্তি দূরকারী,",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E fizemos de vosso sono descanso",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "и сделали ваш сон отдыхом",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور نیند کو تمہارے لیے (موجب) آرام بنایا",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_078_010",
+      "reference": {
+        "surah_number": 78,
+        "surah_name": "An-Naba",
+        "surah_name_ar": "سُوْرَةُ النَّبَاِ",
+        "surah_name_translation": "The Announcement",
+        "ayah_number": 10,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 4,
+      "translations": {
+        "ar": {
+          "text": "وَجَعَلۡنَا ٱلَّيۡلَ لِبَاسࣰ ا",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "and made the night as a cover",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "我曾以黑夜为帷幕，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "रात को आवरण बनाया",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "que la noche lo cubra",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "et fait de la nuit un vêtement",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "রাত্রিকে করেছি আবরণ।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E fizemos da noite vestimenta",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "и сделали ночь покрывалом",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور رات کو پردہ مقرر کیا",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_078_011",
+      "reference": {
+        "surah_number": 78,
+        "surah_name": "An-Naba",
+        "surah_name_ar": "سُوْرَةُ النَّبَاِ",
+        "surah_name_translation": "The Announcement",
+        "ayah_number": 11,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 4,
+      "translations": {
+        "ar": {
+          "text": "وَجَعَلۡنَا ٱلنَّهَارَ مَعَاشࣰ ا",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "and made the day for livelihood",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "我以白昼供谋生，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "और दिन को जीवन-वृति के लिए बनाया",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "que el día sea para procurar el sustento",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "et assigné le jour pour les affaires de la vie",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "দিনকে করেছি জীবিকা অর্জনের সময়,",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E fizemos do dia tempo de vida",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "и сделали день жалованием",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور دن کو معاش (کا وقت) قرار دیا",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_078_012",
+      "reference": {
+        "surah_number": 78,
+        "surah_name": "An-Naba",
+        "surah_name_ar": "سُوْرَةُ النَّبَاِ",
+        "surah_name_translation": "The Announcement",
+        "ayah_number": 12,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 6,
+      "translations": {
+        "ar": {
+          "text": "وَبَنَيۡنَا فَوۡقَكُمۡ سَبۡعࣰ ا شِدَادࣰ ا",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "and built above you seven mighty ˹heavens˺",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "我曾在你们上面建造了7层坚固的天，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "और तुम्हारे ऊपर सात सुदृढ़ आकाश निर्मित किए",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "construí sobre ustedes siete cielos firmes",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "et construit au-dessus de vous sept (cieux) renforcés",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "নির্মান করেছি তোমাদের মাথার উপর মজবুত সপ্ত-আকাশ।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E edificamos, acima de vós, sete sólidos céus",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "и воздвигли над вами семь твердынь",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور تمہارے اوپر سات مضبوط (آسمان) بنائے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_078_013",
+      "reference": {
+        "surah_number": 78,
+        "surah_name": "An-Naba",
+        "surah_name_ar": "سُوْرَةُ النَّبَاِ",
+        "surah_name_translation": "The Announcement",
+        "ayah_number": 13,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 5,
+      "translations": {
+        "ar": {
+          "text": "وَجَعَلۡنَا سِرَاجࣰ ا وَهَّاجࣰ ا",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "and placed ˹in them˺ a shining lamp",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "我创造一盏明灯，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "और एक तप्त और प्रकाशमान प्रदीप बनाया",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "puse una lámpara resplandeciente [el Sol]",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "et [y] avons placé une lampe (le soleil) très ardente",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "এবং একটি উজ্জ্বল প্রদীপ সৃষ্টি করেছি।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E fizemos um luzeiro reverberante",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "и установили пылающий светильник",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور (آفتاب کا) روشن چراغ بنایا",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_078_014",
+      "reference": {
+        "surah_number": 78,
+        "surah_name": "An-Naba",
+        "surah_name_ar": "سُوْرَةُ النَّبَاِ",
+        "surah_name_translation": "The Announcement",
+        "ayah_number": 14,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 6,
+      "translations": {
+        "ar": {
+          "text": "وَأَنزَلۡنَا مِنَ ٱلۡمُعۡصِرَٰتِ مَآءࣰ ثَجَّاجࣰ ا",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "and sent down from rainclouds pouring water",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "我从含水的云里，降下滂沱大雨，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "और बरस पड़नेवाली घटाओं से हमने मूसलाधार पानी उतारा",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "e hice descender de las nubes agua abundante",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "et fait descendre des nuées une eau abondante",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "আমি জলধর মেঘমালা থেকে প্রচুর বৃষ্টিপাত করি,",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E fizemos descer, das nuvens carregadas, água copiosa",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "и низвели из облаков обильно льющуюся воду",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور نچڑتے بادلوں سے موسلا دھار مینہ برسایا",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_078_015",
+      "reference": {
+        "surah_number": 78,
+        "surah_name": "An-Naba",
+        "surah_name_ar": "سُوْرَةُ النَّبَاِ",
+        "surah_name_translation": "The Announcement",
+        "ayah_number": 15,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 6,
+      "translations": {
+        "ar": {
+          "text": "لِّنُخۡرِجَ بِهِۦ حَبࣰّ ا وَنَبَاتࣰ ا",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "producing by it grain and ˹various˺ plants",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "以便我借它而生出百谷和草木，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "ताकि हम उसके द्वारा अनाज और वनस्पति उत्पादित करें",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "para que broten semillas y plantas",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "pour faire pousser par elle grains et plantes",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "যাতে তদ্দ্বারা উৎপন্ন করি শস্য, উদ্ভিদ।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Para, com ela, fazer sair grãos e plantas",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "чтобы взрастить ею зерна и растения",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "تاکہ اس سے اناج اور سبزہ پیدا کریں",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_078_016",
+      "reference": {
+        "surah_number": 78,
+        "surah_name": "An-Naba",
+        "surah_name_ar": "سُوْرَةُ النَّبَاِ",
+        "surah_name_translation": "The Announcement",
+        "ayah_number": 16,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 2,
+      "translations": {
+        "ar": {
+          "text": "وَجَنَّٰتٍ أَلۡفَافًا",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "and dense orchards",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "以及茂密的园圃。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "और सघन बांग़ भी।",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "y florezcan jardines frondosos",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "et jardins luxuriants",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "ও পাতাঘন উদ্যান।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E frondosos jardins",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "и густые сады",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور گھنے گھنے باغ",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_078_017",
+      "reference": {
+        "surah_number": 78,
+        "surah_name": "An-Naba",
+        "surah_name_ar": "سُوْرَةُ النَّبَاِ",
+        "surah_name_translation": "The Announcement",
+        "ayah_number": 17,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 6,
+      "translations": {
+        "ar": {
+          "text": "إِنَّ يَوۡمَ ٱلۡفَصۡلِ كَانَ مِيقَٰتࣰ ا",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Indeed, the Day of ˹Final˺ Decision is an appointed time—",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "判决之日，确是指定的日期，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "निस्संदेह फ़ैसले का दिन एक नियत समय है",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "El Día del Juicio Final ya está determinado",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Le Jour de la Décision [du Jugement] a son terme fixé",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "নিশ্চয় বিচার দিবস নির্ধারিত রয়েছে।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Por certo, o Dia da Decisão é um tempo marcado",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Воистину, День различения назначен на определенное время",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "بےشک فیصلہ کا دن مقرر ہے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_078_018",
+      "reference": {
+        "surah_number": 78,
+        "surah_name": "An-Naba",
+        "surah_name_ar": "سُوْرَةُ النَّبَاِ",
+        "surah_name_translation": "The Announcement",
+        "ayah_number": 18,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 7,
+      "translations": {
+        "ar": {
+          "text": "يَوۡمَ يُنفَخُ فِي ٱلصُّورِ فَتَأۡتُونَ أَفۡوَاجࣰ ا",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "˹it is˺ the Day the Trumpet will be blown, and you will ˹all˺ come forth in crowds",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "在那日，号角将被吹向，你们就成群而来；",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "जिस दिन नरसिंघा में फूँक मारी जाएगी, तो तुम गिरोह को गिरोह चले आओगे।",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Ese día, se soplará la trompeta y ustedes se presentarán en grupos",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Le jour où l'on soufflera dans la Trompe, vous viendrez par troupes",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "যেদিন শিংগায় ফুঁক দেয়া হবে, তখন তোমরা দলে দলে সমাগত হবে।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Um dia, em que se soprará na Trombeta; então, chegareis em turbas",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "В тот день затрубят в Рог, и вы придете толпами",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "جس دن صور پھونکا جائے گا تو تم لوگ غٹ کے غٹ آ موجود ہو گے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_078_019",
+      "reference": {
+        "surah_number": 78,
+        "surah_name": "An-Naba",
+        "surah_name_ar": "سُوْرَةُ النَّبَاِ",
+        "surah_name_translation": "The Announcement",
+        "ayah_number": 19,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 5,
+      "translations": {
+        "ar": {
+          "text": "وَفُتِحَتِ ٱلسَّمَآءُ فَكَانَتۡ أَبۡوَٰبࣰ ا",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "The sky will be ˹split˺ open, becoming ˹many˺ gates",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "天将被开辟，有许多门户；",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "और आकाश खोल दिया जाएगा तो द्वार ही द्वार हो जाएँगे",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "El cielo será abierto, transformándose en un portal",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "et le ciel sera ouvert et [présentera] des portes",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "আকাশ বিদীর্ণ হয়ে; তাতে বহু দরজা সৃষ্টি হবে।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E abrir-se-á o céu e tornar-se-á em portas",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "и небо раскроется и станет вратами",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور آسمان کھولا جائے گا تو (اس میں) دروازے ہو جائیں گے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_078_020",
+      "reference": {
+        "surah_number": 78,
+        "surah_name": "An-Naba",
+        "surah_name_ar": "سُوْرَةُ النَّبَاِ",
+        "surah_name_translation": "The Announcement",
+        "ayah_number": 20,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 4,
+      "translations": {
+        "ar": {
+          "text": "وَسُيِّرَتِ ٱلۡجِبَالُ فَكَانَتۡ سَرَابًا",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "and the mountains will be blown away, becoming ˹like˺ a mirage",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "山峦将被移动，而变成幻影；",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "और पहाड़ चलाए जाएँगे, तो वे बिल्कुल मरीचिका होकर रह जाएँगे",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Las montañas desaparecerán como si hubieran sido un espejismo",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "et les montagnes seront mises en marche et deviendront un mirage",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "এবং পর্বতমালা চালিত হয়ে মরীচিকা হয়ে যাবে।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E mover-se-ão as montanhas, então, serão miragem",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "и горы придут в движение и станут маревом",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور پہاڑ چلائے جائیں گے تو وہ ریت ہو کر رہ جائیں گے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_078_021",
+      "reference": {
+        "surah_number": 78,
+        "surah_name": "An-Naba",
+        "surah_name_ar": "سُوْرَةُ النَّبَاِ",
+        "surah_name_translation": "The Announcement",
+        "ayah_number": 21,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 5,
+      "translations": {
+        "ar": {
+          "text": "إِنَّ جَهَنَّمَ كَانَتۡ مِرۡصَادࣰ ا",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Indeed, Hell is lying in ambush",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "火狱确是伺候著，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "वास्तव में जहन्नम एक घात-स्थल है",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "El Infierno estará al acecho",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "L'Enfer demeure aux aguets",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "নিশ্চয় জাহান্নাম প্রতীক্ষায় থাকবে,",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Por certo, a Geena será lugar de espreita",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Воистину, Геенна является засадой",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "بےشک دوزخ گھات میں ہے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_078_022",
+      "reference": {
+        "surah_number": 78,
+        "surah_name": "An-Naba",
+        "surah_name_ar": "سُوْرَةُ النَّبَاِ",
+        "surah_name_translation": "The Announcement",
+        "ayah_number": 22,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 3,
+      "translations": {
+        "ar": {
+          "text": "لِّلطَّٰغِينَ مَـَٔابࣰ ا",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "as a home for the transgressors",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "它是悖逆者的归宿；",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "सरकशों का ठिकाना है",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "será la morada de los transgresores",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "refuge pour les transgresseurs",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "সীমালংঘনকারীদের আশ্রয়স্থলরূপে।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Morada para os transgressores",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "и местом возвращения для тех, кто преступает границы дозволенного",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "(یعنی) سرکشوں کا وہی ٹھکانہ ہے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_078_023",
+      "reference": {
+        "surah_number": 78,
+        "surah_name": "An-Naba",
+        "surah_name_ar": "سُوْرَةُ النَّبَاِ",
+        "surah_name_translation": "The Announcement",
+        "ayah_number": 23,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 4,
+      "translations": {
+        "ar": {
+          "text": "لَّٰبِثِينَ فِيهَآ أَحۡقَابࣰ ا",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "where they will remain for ˹endless˺ ages",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "他们将在其中逗留长久的时期。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "वस्तुस्थिति यह है कि वे उसमें मुद्दत पर मुद्दत बिताते रहेंगे",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "que permanecerán en él eternamente",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Ils y demeureront pendant des siècles successifs",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "তারা তথায় শতাব্দীর পর শতাব্দী অবস্থান করবে।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Nela, permanecerão por séculos",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Они пробудут там долгие годы",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اس میں وہ مدتوں پڑے رہیں گے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_078_024",
+      "reference": {
+        "surah_number": 78,
+        "surah_name": "An-Naba",
+        "surah_name_ar": "سُوْرَةُ النَّبَاِ",
+        "surah_name_translation": "The Announcement",
+        "ayah_number": 24,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 7,
+      "translations": {
+        "ar": {
+          "text": "لَّا يَذُوقُونَ فِيهَا بَرۡدࣰ ا وَلَا شَرَابًا",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "There they will not taste any coolness or drink",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "他们在其中不能睡眠，不得饮料，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "वे उसमे न किसी शीतलता का मज़ा चखेगे और न किसी पेय का",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Allí no podrán sentir frescor ni saciar su sed",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Ils n'y goûteront ni fraîcheur ni breuvage",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "তথায় তারা কোন শীতল এবং পানীয় আস্বাদন করবে না;",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Nela, não experimentarão frescor nem bebida",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "не вкушая ни прохлады, ни питья",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "وہاں نہ ٹھنڈک کا مزہ چکھیں گے۔ نہ (کچھ) پینا (نصیب ہو گا)",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_078_025",
+      "reference": {
+        "surah_number": 78,
+        "surah_name": "An-Naba",
+        "surah_name_ar": "سُوْرَةُ النَّبَاِ",
+        "surah_name_translation": "The Announcement",
+        "ayah_number": 25,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 5,
+      "translations": {
+        "ar": {
+          "text": "إِلَّا حَمِيمࣰ ا وَغَسَّاقࣰ ا",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "except boiling water and ˹oozing˺ pus—",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "只饮沸水和脓汁。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "सिवाय खौलते पानी और बहती पीप-रक्त के",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Solo beberán un líquido hirviente y nauseabundo",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Hormis une eau bouillante et un pus",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "কিন্তু ফুটন্ত পানি ও পূঁজ পাবে।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Exceto água ebuliente e vazar purulento",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "а только кипяток и гной",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "مگر گرم پانی اور بہتی پیپ",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_078_026",
+      "reference": {
+        "surah_number": 78,
+        "surah_name": "An-Naba",
+        "surah_name_ar": "سُوْرَةُ النَّبَاِ",
+        "surah_name_translation": "The Announcement",
+        "ayah_number": 26,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 2,
+      "translations": {
+        "ar": {
+          "text": "جَزَآءࣰ وِفَاقًا",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "a fitting reward",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "那是一个很适当的报酬。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "यह बदले के रूप में उनके कर्मों के ठीक अनुकूल होगा",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "como castigo justo por lo que hicieron [en la vida mundanal]",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "comme rétribution équitable",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "পরিপূর্ণ প্রতিফল হিসেবে।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Como adequada recompensa",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Это будет подобающим возмездием",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "(یہ) بدلہ ہے پورا پورا",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_078_027",
+      "reference": {
+        "surah_number": 78,
+        "surah_name": "An-Naba",
+        "surah_name_ar": "سُوْرَةُ النَّبَاِ",
+        "surah_name_translation": "The Announcement",
+        "ayah_number": 27,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 6,
+      "translations": {
+        "ar": {
+          "text": "إِنَّهُمۡ كَانُواْ لَا يَرۡجُونَ حِسَابࣰ ا",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "For they never expected any reckoning",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "他们的确不怕清算，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "वास्तव में किसी हिसाब की आशा न रखते थे",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Ellos no esperaban tener que rendir cuentas",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Car ils ne s'attendaient pas à rendre compte",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "নিশ্চয় তারা হিসাব-নিকাশ আশা করত না।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Por certo, eles não esperavam prestar conta",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Воистину, они не надеялись на расчет",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "یہ لوگ حساب (آخرت) کی امید ہی نہیں رکھتے تھے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_078_028",
+      "reference": {
+        "surah_number": 78,
+        "surah_name": "An-Naba",
+        "surah_name_ar": "سُوْرَةُ النَّبَاِ",
+        "surah_name_translation": "The Announcement",
+        "ayah_number": 28,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 4,
+      "translations": {
+        "ar": {
+          "text": "وَكَذَّبُواْ بِـَٔايَٰتِنَا كِذَّابࣰ ا",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "and totally rejected Our signs",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "他们曾否认我的迹象，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "और उन्होंने हमारी आयतों को ख़ूब झुठलाया",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "y por eso desmintieron abiertamente Mi Mensaje",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "et traitaient de mensonges, continuellement, Nos versets",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "এবং আমার আয়াতসমূহে পুরোপুরি মিথ্যারোপ করত।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E desmentiram Nossos sinais, constantemente",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "и полностью отрицали Наши знамения",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور ہماری آیتوں کو جھوٹ سمجھ کر جھٹلاتے رہتے تھے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_078_029",
+      "reference": {
+        "surah_number": 78,
+        "surah_name": "An-Naba",
+        "surah_name_ar": "سُوْرَةُ النَّبَاِ",
+        "surah_name_translation": "The Announcement",
+        "ayah_number": 29,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 5,
+      "translations": {
+        "ar": {
+          "text": "وَكُلَّ شَيۡءٍ أَحۡصَيۡنَٰهُ كِتَٰبࣰ ا",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "And We have everything recorded precisely",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "我曾将万事记录在一本天经里。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "और हमने हर चीज़ लिखकर गिन रखी है",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "pero Yo lo registré todo en un libro",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "alors que Nous avons dénombré toutes choses en écrit",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "আমি সবকিছুই লিপিবদ্ধ করে সংরক্ষিত করেছি।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E cada cousa, enumeramo-la por escrito",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Мы же всякую вещь подсчитали и записали",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور ہم نے ہر چیز کو لکھ کر ضبط کر رکھا ہے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_078_030",
+      "reference": {
+        "surah_number": 78,
+        "surah_name": "An-Naba",
+        "surah_name_ar": "سُوْرَةُ النَّبَاِ",
+        "surah_name_translation": "The Announcement",
+        "ayah_number": 30,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 5,
+      "translations": {
+        "ar": {
+          "text": "فَذُوقُواْ فَلَن نَّزِيدَكُمۡ إِلَّا عَذَابًا",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "˹So the deniers will be told,˺ “Taste ˹the punishment˺, for all you will get from Us is more torment.”",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "（将对他们说：）你们尝试吧！我只增加你们所受的刑罚。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "अब चखो मज़ा कि यातना के अतिरिक्त हम तुम्हारे लिए किसी और चीज़ में बढ़ोत्तरी नहीं करेंगे।",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "[Se les dirá a los desmentidores:] \"Sufran las consecuencias, no haré sino aumentarles el castigo",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Goûtez-donc. Nous n'augmenterons pour vous que le châtiment",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "অতএব, তোমরা আস্বাদন কর, আমি কেবল তোমাদের শাস্তিই বৃদ্ধি করব।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Dir-se-lhes-á: \"Então, experimentai a recompensa, pois não vos acrescentaremos senão castigo",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Вкушайте же! Мы не прибавим вам ничего, кроме мучений",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "سو (اب) مزہ چکھو۔ ہم تم پر عذاب ہی بڑھاتے جائیں گے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_078_031",
+      "reference": {
+        "surah_number": 78,
+        "surah_name": "An-Naba",
+        "surah_name_ar": "سُوْرَةُ النَّبَاِ",
+        "surah_name_translation": "The Announcement",
+        "ayah_number": 31,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 3,
+      "translations": {
+        "ar": {
+          "text": "إِنَّ لِلۡمُتَّقِينَ مَفَازًا",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Indeed, the righteous will have salvation—",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "敬畏的人们必有一种收获，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "निस्सदेह डर रखनेवालों के लिए एक बड़ी सफलता है",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "En cambio, los piadosos obtendrán la bienaventuranza",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Pour les pieux ce sera une réussite",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "পরহেযগারদের জন্যে রয়েছে সাফল্য।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Por certo, haverá para os piedosos triunfo",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Воистину, богобоязненных ожидает место спасения",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "بے شک پرہیز گاروں کے لیے کامیابی ہے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_078_032",
+      "reference": {
+        "surah_number": 78,
+        "surah_name": "An-Naba",
+        "surah_name_ar": "سُوْرَةُ النَّبَاِ",
+        "surah_name_translation": "The Announcement",
+        "ayah_number": 32,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 3,
+      "translations": {
+        "ar": {
+          "text": "حَدَآئِقَ وَأَعۡنَٰبࣰ ا",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Gardens, vineyards",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "许多园圃和葡萄，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "बाग़ है और अंगूर",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "donde habrá huertos y vides",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "jardins et vignes",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "উদ্যান, আঙ্গুর,",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Pomares e videiras",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Райские сады и виноградники",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "(یعنی) باغ اور انگور",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_078_033",
+      "reference": {
+        "surah_number": 78,
+        "surah_name": "An-Naba",
+        "surah_name_ar": "سُوْرَةُ النَّبَاِ",
+        "surah_name_translation": "The Announcement",
+        "ayah_number": 33,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 3,
+      "translations": {
+        "ar": {
+          "text": "وَكَوَاعِبَ أَتۡرَابࣰ ا",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "and full-bosomed maidens of equal age",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "和两乳圆润，年龄划一的少女，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "और नवयौवना समान उम्रवाली",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "compañeras de eterna juventud",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "et des (belles) aux seins arrondis, d'une égale jeunesse",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "সমবয়স্কা, পূর্ণযৌবনা তরুণী।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E donzelas, de incipientes seios, da mesma idade",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "и полногрудые сверстницы",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور ہم عمر نوجوان عورتیں",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_078_034",
+      "reference": {
+        "surah_number": 78,
+        "surah_name": "An-Naba",
+        "surah_name_ar": "سُوْرَةُ النَّبَاِ",
+        "surah_name_translation": "The Announcement",
+        "ayah_number": 34,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 4,
+      "translations": {
+        "ar": {
+          "text": "وَكَأۡسࣰ ا دِهَاقࣰ ا",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "and full cups ˹of pure wine˺",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "和满杯的醴泉。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "और छलक़ता जाम",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "y copas desbordantes",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "et coupes débordantes",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "এবং পূর্ণ পানপাত্র।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E taça repleta",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "и полные чаши",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور شراب کے چھلکتے ہوئے گلاس",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_078_035",
+      "reference": {
+        "surah_number": 78,
+        "surah_name": "An-Naba",
+        "surah_name_ar": "سُوْرَةُ النَّبَاِ",
+        "surah_name_translation": "The Announcement",
+        "ayah_number": 35,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 8,
+      "translations": {
+        "ar": {
+          "text": "لَّا يَسۡمَعُونَ فِيهَا لَغۡوࣰ ا وَلَا كِذَّٰبࣰ ا",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "never to hear any idle talk or lying therein—",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "他们在那里面听不到恶言和谎话。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "वे उसमें न तो कोई व्यर्थ बात सुनेंगे और न कोई झुठलाने की बात",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Allí no oirán banalidades ni falsedades",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Ils n'y entendront ni futilités ni mensonges",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "তারা তথায় অসার ও মিথ্যা বাক্য শুনবে না।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Neles, não ouvirão frivolidades nem mentira",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Они не услышат там ни пустословия, ни лжи",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "وہاں نہ بیہودہ بات سنیں گے نہ جھوٹ (خرافات)",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_078_036",
+      "reference": {
+        "surah_number": 78,
+        "surah_name": "An-Naba",
+        "surah_name_ar": "سُوْرَةُ النَّبَاِ",
+        "surah_name_translation": "The Announcement",
+        "ayah_number": 36,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 6,
+      "translations": {
+        "ar": {
+          "text": "جَزَآءࣰ مِّن رَّبِّكَ عَطَآءً حِسَابࣰ ا",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "a ˹fitting˺ reward as a generous gift from your Lord",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "那是从你的主发出的报酬 充足的赏赐。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "यह तुम्हारे रब की ओर से बदला होगा, हिसाब के अनुसार प्रदत्त",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Esta es la recompensa de tu Señor, que concederá generosamente",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "A titre de récompense de ton Seigneur et à titre de don abondant",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "এটা আপনার পালনকর্তার তরফ থেকে যথোচিত দান,",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Como recompensa de teu Senhor, dádiva bastante",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Это будет воздаянием от твоего Господа и даром исчисленным (или щедрым, или достаточным)",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "یہ تمہارے پروردگار کی طرف سے صلہ ہے انعام کثیر",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_078_037",
+      "reference": {
+        "surah_number": 78,
+        "surah_name": "An-Naba",
+        "surah_name_ar": "سُوْرَةُ النَّبَاِ",
+        "surah_name_translation": "The Announcement",
+        "ayah_number": 37,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 11,
+      "translations": {
+        "ar": {
+          "text": "رَّبِّ ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضِ وَمَا بَيۡنَهُمَا ٱلرَّحۡمَٰنِۖ لَا يَمۡلِكُونَ مِنۡهُ خِطَابࣰ ا",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "the Lord of the heavens and the earth and everything in between, the Most Compassionate. No one will dare speak to Him",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "他是天地万物的主，是至仁的主，他们不敢向他陈说。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "वह आकाशों और धरती का और जो कुछ उनके बीच है सबका रब है, अत्यन्त कृपाशील है, उसके सामने बात करना उनके बस में नहीं होगा",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "El Señor de los cielos, de la Tierra y de lo que hay entre ellos, el Compasivo. Nadie puede hablar ante Él excepto con Su permiso",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "du Seigneur des cieux et de la terre et de ce qui existe entre eux, le Tout Miséricordieux; ils n'osent nullement Lui adresser la parole",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "যিনি নভোমন্ডল, ভূমন্ডল ও এতদুভয়ের মধ্যবর্তী সবকিছুর পালনকর্তা, দয়াময়, কেউ তাঁর সাথে কথার অধিকারী হবে না।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "DO Senhor dos céus e da terra e do que há entre ambos, dO Misericordioso. Não terão o poder de falar-Lhe",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Господа небес и земли и того, что между ними, Милостивого, с Которым они не посмеют даже заговорить",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "وہ جو آسمانوں اور زمین اور جو ان دونوں میں ہے سب کا مالک ہے بڑا مہربان کسی کو اس سے بات کرنے کا یارا نہیں ہوگا",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_078_038",
+      "reference": {
+        "surah_number": 78,
+        "surah_name": "An-Naba",
+        "surah_name_ar": "سُوْرَةُ النَّبَاِ",
+        "surah_name_translation": "The Announcement",
+        "ayah_number": 38,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 16,
+      "translations": {
+        "ar": {
+          "text": "يَوۡمَ يَقُومُ ٱلرُّوحُ وَٱلۡمَلَٰٓئِكَةُ صَفࣰّ اۖ لَّا يَتَكَلَّمُونَ إِلَّا مَنۡ أَذِنَ لَهُ ٱلرَّحۡمَٰنُ وَقَالَ صَوَابࣰ ا",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "on the Day the ˹holy˺ spirit and the angels will stand in ranks. None will talk, except those granted permission by the Most Compassionate and whose words are true",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "在精神和众天神排班肃立之日，他们不得说话，唯至仁主所特许而且能说正话的，才敢发言。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "जिस दिन रूह और फ़रिश्ते पक्तिबद्ध खड़े होंगे, वे बोलेंगे नहीं, सिवाय उस व्यक्ति के जिसे रहमान अनुमति दे और जो ठीक बात कहे",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "El día en que el Espíritu junto con los demás ángeles se pongan en fila, nadie hablará, salvo aquel a quien el Compasivo se lo permita, y solo podrá decir la verdad",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Le jour où l'Esprit et les Anges se dresseront en rangs, nul ne saura parler, sauf celui à qui le Tout Miséricordieux aura accordé la permission, et qui dira la vérité",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "যেদিন রূহ ও ফেরেশতাগণ সারিবদ্ধভাবে দাঁড়াবে। দয়াময় আল্লাহ যাকে অনুমতি দিবেন, সে ব্যতিত কেউ কথা বলতে পারবে না এবং সে সত্যকথা বলবে।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Um dia, quando o Espírito e os anjos se colocarem em fileiras, não falarão, exceto aquele a quem O Misericordioso permitir, e que dirá o que é certo",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "В тот день, когда Дух (Джибрил) и ангелы станут рядами, не будет говорить никто, кроме тех, кому позволит Милостивый, и говорить они будут правду",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "جس دن روح (الامین) اور فرشتے صف باندھ کر کھڑے ہوں گے تو کوئی بول نہ سکے گا مگر جس کو (خدائے رحمٰن) اجازت بخشے اور اس نے بات بھی درست کہی ہو",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_078_039",
+      "reference": {
+        "surah_number": 78,
+        "surah_name": "An-Naba",
+        "surah_name_ar": "سُوْرَةُ النَّبَاِ",
+        "surah_name_translation": "The Announcement",
+        "ayah_number": 39,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 9,
+      "translations": {
+        "ar": {
+          "text": "ذَٰلِكَ ٱلۡيَوۡمُ ٱلۡحَقُّۖ فَمَن شَآءَ ٱتَّخَذَ إِلَىٰ رَبِّهِۦ مَـَٔابًا",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "That Day is the ˹ultimate˺ truth. So let whoever wills take the path leading back to their Lord",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "那是必有的日子，谁意欲，谁就择取一个向他的主的归宿。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "वह दिन सत्य है। अब जो कोई चाहे अपने रब की ओर रुज करे",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Ese es el día en que se establecerá total justicia. Quien quiera, entonces, que busque refugio en Su Señor",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Ce jour-là est inéluctable. Que celui qui veut prenne donc refuge auprès de son Seigneur",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "এই দিবস সত্য। অতঃপর যার ইচ্ছা, সে তার পালনকর্তার কাছে ঠিকানা তৈরী করুক।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Esse será o verdadeiro dia. Então, quem quiser, tomará retorno a seu Senhor",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Это будет истинный день, и всякий, кто пожелает, найдет способ вернуться к своему Господу",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "یہ دن برحق ہے۔ پس جو شخص چاہے اپنے پروردگار کے پاس ٹھکانہ بنا ئے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_078_040",
+      "reference": {
+        "surah_number": 78,
+        "surah_name": "An-Naba",
+        "surah_name_ar": "سُوْرَةُ النَّبَاِ",
+        "surah_name_translation": "The Announcement",
+        "ayah_number": 40,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 17,
+      "translations": {
+        "ar": {
+          "text": "إِنَّآ أَنذَرۡنَٰكُمۡ عَذَابࣰ ا قَرِيبࣰ ا يَوۡمَ يَنظُرُ ٱلۡمَرۡءُ مَا قَدَّمَتۡ يَدَاهُ وَيَقُولُ ٱلۡكَافِرُ يَٰلَيۡتَنِي كُنتُ تُرَٰبَۢا",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Indeed, We have warned you of an imminent punishment—the Day every person will see ˹the consequences of˺ what their hands have done, and the disbelievers will cry, “I wish I were dust.”",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "我的确警告你们一种临近的刑罚，在那日，各人将要看见自己所已做的工作，不信道的人们将要说：啊！但愿我原是尘土。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "हमने तुम्हें निकट आ लगी यातना से सावधान कर दिया है। जिस दिन मनुष्य देख लेगा जो कुछ उसके हाथों ने आगे भेजा, और इनकार करनेवाला कहेगा, \"ऐ काश! कि मैं मिट्टी होता",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Les he advertido de este castigo inminente. Ese día cada ser humano ha de contemplar sus obras, y entonces dirá quien haya desmentido el Mensaje: \"¡Ojalá fuera polvo [para no ser juzgado]",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Nous vous avons avertis d'un châtiment bien proche, le jour où l'homme verra ce que ses deux mains ont préparé; et l'infidèle dira: «Hélas pour moi! Comme j'aurais aimé n'être que poussière»",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "আমি তোমাদেরকে আসন্ন শাস্তি সম্পর্কে সতর্ক করলাম, যেদিন মানুষ প্রত্যেক্ষ করবে যা সে সামনে প্রেরণ করেছে এবং কাফের বলবেঃ হায়, আফসোস-আমি যদি মাটি হয়ে যেতাম।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Por certo, Nós vos admoestamos de um castigo próximo. Um dia, em que o homem olhará o que suas mãos anteciparam, e o renegador da Fé dirá: \"Quem dera fosse eu pó",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Мы предостерегли вас от наказания близкого. В тот день человек увидит, что уготовили его руки, а неверующий скажет: «Эх, если бы я был прахом!»",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "ہم نے تم کو عذاب سے جو عنقریب آنے والا ہے آگاہ کر دیا ہے جس دن ہر شخص ان (اعمال) کو جو اس نے آگے بھیجے ہوں گے دیکھ لے گا اور کافر کہے گا کہ اے کاش میں مٹی ہوتا",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    }
+  ]
+}

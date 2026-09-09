@@ -1,0 +1,1013 @@
+{
+  "surah": 64,
+  "verses": [
+    {
+      "content_id": "quran_064_001",
+      "reference": {
+        "surah_number": 64,
+        "surah_name": "At-Taghaabun",
+        "surah_name_ar": "سُوْرَةُ التَّغَابُنِ",
+        "surah_name_translation": "Mutual Disillusion",
+        "ayah_number": 1,
+        "juz": 28,
+        "revelation_type": "Madina"
+      },
+      "arabic_word_count": 17,
+      "translations": {
+        "ar": {
+          "text": "يُسَبِّحُ لِلَّهِ مَا فِي ٱلسَّمَٰوَٰتِ وَمَا فِي ٱلۡأَرۡضِۖ لَهُ ٱلۡمُلۡكُ وَلَهُ ٱلۡحَمۡدُۖ وَهُوَ عَلَىٰ كُلِّ شَيۡءࣲ قَدِيرٌ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Whatever is in the heavens and whatever is on the earth ˹constantly˺ glorifies Allah. The kingdom is His, and all praise is for Him. For He is Most Capable of everything",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "凡在天地间的，都赞颂真主超绝万物。国权只归他所有，赞颂只归他享受，他对於万事是全能的。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "अल्लाह की तसबीह कर रही है हर वह चीज़ जो आकाशों में है और जो धरती में है। उसी की बादशाही है और उसी के लिए प्रशंसा है और उसे हर चीज़ की सामर्थ्य प्राप्त है",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Todo cuanto existe en los cielos y en la Tierra glorifica a Dios. Suyo es el reino y Suyas son las alabanzas. Él tiene poder sobre todas las cosas",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Ce qui est dans les cieux et ce qui est sur la terre glorifient Allah. A Lui la royauté et à Lui les louanges. Et Il est Omnipotent",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "নভোমন্ডল ও ভূমন্ডলে যা কিছু আছে, সবই আল্লাহর পবিত্রতা ঘোষণা করে। রাজত্ব তাঁরই এবং প্রশংসা তাঁরই। তিনি সর্ববিষয়ে সর্বশক্তিমান।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "O que há nos céus e o que há na terra glorificam a Allah. DEle é a soberania e d'Ele é o louvor. E Ele, sobre todas as cousas, é Onipotente",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Славит Аллаха то, что на небесах, и то, что на земле. Ему принадлежит власть и надлежит хвала. Он способен на всякую вещь",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "جو چیز آسمانوں میں ہے اور جو چیز زمین میں ہے (سب) خدا کی تسبیح کرتی ہے۔ اسی کی سچی بادشاہی ہے اور اسی کی تعریف (لامتناہی) ہے اور وہ ہر چیز پر قادر ہے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_064_002",
+      "reference": {
+        "surah_number": 64,
+        "surah_name": "At-Taghaabun",
+        "surah_name_ar": "سُوْرَةُ التَّغَابُنِ",
+        "surah_name_translation": "Mutual Disillusion",
+        "ayah_number": 2,
+        "juz": 28,
+        "revelation_type": "Madina"
+      },
+      "arabic_word_count": 11,
+      "translations": {
+        "ar": {
+          "text": "هُوَ ٱلَّذِي خَلَقَكُمۡ فَمِنكُمۡ كَافِرࣱ وَمِنكُم مُّؤۡمِنࣱۚ وَٱللَّهُ بِمَا تَعۡمَلُونَ بَصِيرٌ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "He is the One Who created you, yet some of you are disbelievers while some are believers. And Allah is All-Seeing of what you do",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "他曾创造你们，但你们中有不信道的，有信道的；真主是鉴察你们的行为的。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "वही है जिसने तुम्हें पैदा किया, फिर तुममें से कोई तो इनकार करनेवाला है और तुममें से कोई ईमानवाला है, और तुम जो कुछ भी करते हो अल्लाह उसे देख रहा होता है",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Él es Quien los ha creado. Entre ustedes hay quienes rechazan el Mensaje y quienes creen en él. Dios sabe bien cuanto hacen",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "C'est Lui qui vous a créés. Parmi vous [il y a] mécréant et croyant. Allah observe parfaitement ce que vous faites",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "তিনিই তোমাদেরকে সৃষ্টি করেছেন, অতঃপর তোমাদের মধ্যে কেউ কাফের এবং কেউ মুমিন। তোমরা যা কর, আল্লাহ তা দেখেন।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Ele é Quem vos criou; e, dentre vós, há renegadores da Fé, e, dentre vós há crentes. E Allah, do que fazeis, é Onividente",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Он - Тот, Кто сотворил вас. Среди вас есть неверующие, и среди вас есть верующие. Аллах видит то, что вы совершаете",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "وہی تو ہے جس نے تم کو پیدا کیا پھر کوئی تم میں کافر ہے اور کوئی مومن۔ اور جو کچھ تم کرتے ہو خدا اس کو دیکھتا ہے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_064_003",
+      "reference": {
+        "surah_number": 64,
+        "surah_name": "At-Taghaabun",
+        "surah_name_ar": "سُوْرَةُ التَّغَابُنِ",
+        "surah_name_translation": "Mutual Disillusion",
+        "ayah_number": 3,
+        "juz": 28,
+        "revelation_type": "Madina"
+      },
+      "arabic_word_count": 9,
+      "translations": {
+        "ar": {
+          "text": "خَلَقَ ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضَ بِٱلۡحَقِّ وَصَوَّرَكُمۡ فَأَحۡسَنَ صُوَرَكُمۡۖ وَإِلَيۡهِ ٱلۡمَصِيرُ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "He created the heavens and the earth for a purpose. He shaped you ˹in the womb˺, perfecting your form. And to Him is the final return",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "他曾本著真理创造天地，他曾以形像赋予你们，而使你们的 形像优美，他是唯一的归宿。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "उसने आकाशों और धरती को हक़ के साथ पैदा किया और तुम्हारा रूप बनाया, तो बहुत ही अच्छे बनाए तुम्हारे रूप और उसी की ओर अन्ततः जाना है",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Dios creó los cielos y la Tierra con un fin justo y verdadero, y les dio una conformación armoniosa. Ante Él comparecerán para responder por sus obras",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Il a créé les cieux et la terre en toute vérité et vous a donné votre forme et quelle belle forme Il vous a donnée! Et vers Lui est le devenir",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "তিনি নভোমন্ডল ও ভূমন্ডলকে যথাযথভাবে সৃষ্টি করেছেন এবং তোমাদেরকে আকৃতি দান করেছেন, অতঃপর সুন্দর করেছেন তোমাদের আকৃতি। তাঁরই কাছে প্রত্যাবর্তন।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Ele criou os céus e a terra, com a verdade. E configurou-vos, e benfez vossa configuração. E a Ele será o destino",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Он создал небеса и землю ради истины, придал вам облик и сделал ваш облик прекрасным. К Нему предстоит прибытие",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اسی نے آسمانوں اور زمین کو مبنی برحکمت پیدا کیا اور اسی نے تمہاری صورتیں بنائیں اور صورتیں بھی پاکیزہ بنائیں۔ اور اسی کی طرف (تمہیں) لوٹ کر جانا ہے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_064_004",
+      "reference": {
+        "surah_number": 64,
+        "surah_name": "At-Taghaabun",
+        "surah_name_ar": "سُوْرَةُ التَّغَابُنِ",
+        "surah_name_translation": "Mutual Disillusion",
+        "ayah_number": 4,
+        "juz": 28,
+        "revelation_type": "Madina"
+      },
+      "arabic_word_count": 14,
+      "translations": {
+        "ar": {
+          "text": "يَعۡلَمُ مَا فِي ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضِ وَيَعۡلَمُ مَا تُسِرُّونَ وَمَا تُعۡلِنُونَۚ وَٱللَّهُ عَلِيمُۢ بِذَاتِ ٱلصُّدُورِ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "He knows whatever is in the heavens and the earth. And He knows whatever you conceal and whatever you reveal. For Allah knows best what is ˹hidden˺ in the heart",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "他知道天地万物，他知道你们所隐匿的和你们所表现的，真主是全知心事的。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "वह जानता है जो कुछ आकाशों और धरती में है और उसे भी जानता है जो कुछ तुम छिपाते हो और जो कुछ तुम प्रकट करते हो। अल्लाह तो सीनों में छिपी बात तक को जानता है",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Dios conoce cuanto existe en los cielos y en la Tierra, conoce lo que ocultan y lo que manifiestan. Dios sabe bien lo que esconden los corazones",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Il sait ce qui est dans les cieux et la terre, et Il sait ce que vous cachez ainsi que ce que vous divulguez. Et Allah connaît bien le contenu des poitrines",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "নভোমন্ডল ও ভূমন্ডলে যা আছে, তিনি তা জানেন। তিনি আরও জানেন তোমরা যা গোপনে কর এবং যা প্রকাশ্যে কর। আল্লাহ অন্তরের বিষয়াদি সম্পর্কে সম্যক জ্ঞাত।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Ele sabe o que há nos céus e na terra. E sabe o de que guardais segredo e o que manifestais. E Allah, do íntimo dos peitos, é Onisciente",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Он знает о том, что на небесах и на земле, и знает о том, что вы скрываете и что обнародуете. Аллах ведает о том, что в груди",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "جو کچھ آسمانوں اور زمین میں ہے وہ سب جانتا ہے اور جو کچھ تم چھپا کر کرتے ہو اور جو کھلم کھلا کرتے ہو اس سے بھی آگاہ ہے۔ اور خدا دل کے بھیدوں سے واقف ہے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_064_005",
+      "reference": {
+        "surah_number": 64,
+        "surah_name": "At-Taghaabun",
+        "surah_name_ar": "سُوْرَةُ التَّغَابُنِ",
+        "surah_name_translation": "Mutual Disillusion",
+        "ayah_number": 5,
+        "juz": 28,
+        "revelation_type": "Madina"
+      },
+      "arabic_word_count": 13,
+      "translations": {
+        "ar": {
+          "text": "أَلَمۡ يَأۡتِكُمۡ نَبَؤُاْ ٱلَّذِينَ كَفَرُواْ مِن قَبۡلُ فَذَاقُواْ وَبَالَ أَمۡرِهِمۡ وَلَهُمۡ عَذَابٌ أَلِيمࣱ‏",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Have the stories of those who disbelieved before not reached you ˹pagans˺? They tasted the evil consequences of their doings, and they will suffer a painful punishment",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "以前不信道的人们的消息，难道没有达到你们吗？那等人，曾尝试他们的事情的恶果，他们将受痛苦的刑罚。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "क्या तुम्हें उन लोगों की ख़बर नहीं पहुँची जिन्होंने इससे पहले इनकार किया था, फिर उन्होंने अपने कर्म के वबाल का मज़ा चखा और उनके लिए एक दुखद यातना भी है",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "¿Acaso no les fue relatada la historia de los pueblos de la antigüedad que rechazaron el Mensaje? Sufrieron las consecuencias de su conducta y les espera un castigo doloroso",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Ne vous est-elle pas parvenue, la nouvelle de ceux qui auparavant ont mécru et qui ont goûté la conséquence néfaste de leur acte; ils auront en outre un châtiment douloureux",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "তোমাদের পুর্বে যারা কাফের ছিল, তাদের বৃত্তান্ত কি তোমাদের কাছে পৌছেনি? তারা তাদের কর্মের শাস্তি আস্বাদন করেছে, এবং তাদের জন্যে রয়েছে যন্ত্রণাদায়ক শাস্তি।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Não vos chegou o informe dos que, antes de vós, renegaram a Fé? Então, experimentaram a nefasta conseqüência de sua conduta; e terão doloroso castigo",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Разве до вас не дошли рассказы о тех, которые не уверовали в прошлом и вкусили пагубные последствия своих деяний? Им уготованы мучительные страдания",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "کیا تم کو ان لوگوں کے حال کی خبر نہیں پہنچی جو پہلے کافر ہوئے تھے تو انہوں نے اپنے کاموں کی سزا کا مزہ چکھ لیا اور (ابھی) دکھ دینے والا عذاب (اور) ہونا ہے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_064_006",
+      "reference": {
+        "surah_number": 64,
+        "surah_name": "At-Taghaabun",
+        "surah_name_ar": "سُوْرَةُ التَّغَابُنِ",
+        "surah_name_translation": "Mutual Disillusion",
+        "ayah_number": 6,
+        "juz": 28,
+        "revelation_type": "Madina"
+      },
+      "arabic_word_count": 16,
+      "translations": {
+        "ar": {
+          "text": "ذَٰلِكَ بِأَنَّهُۥ كَانَت تَّأۡتِيهِمۡ رُسُلُهُم بِٱلۡبَيِّنَٰتِ فَقَالُوٓاْ أَبَشَرࣱ يَهۡدُونَنَا فَكَفَرُواْ وَتَوَلَّواْۖ وَّٱسۡتَغۡنَى ٱللَّهُۚ وَٱللَّهُ غَنِيٌّ حَمِيدࣱ‏",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "That was because their messengers used to come to them with clear proofs, but they said ˹mockingly˺, “How can humans be our guides?” So they persisted in disbelief and turned away. And Allah was not in need ˹of their faith˺. For Allah is Self-Sufficient, Praiseworthy",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "这是因为他们族中的使者显示他们许多明证，他们却说：难道凡人也能引道我们？故他们不信道而违背之。真主曾表示无求於他们的信仰，真主是无求的，是可颂的。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "यह इस कारण कि उनके पास उनके रसूल स्पष्ट प्रमाण लेकर आते रहे, किन्तु उन्होंने कहा, \"क्या मनुष्य हमें मार्ग दिखाएँगे?\" इस प्रकार उन्होंने इनकार किया और मुँह फेर लिया, तब अल्लाह भी उनसे बेपरवाह हो गया। अल्लाह तो है ही निस्पृह, अपने आप में स्वयं प्रशंसित",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Los Mensajeros se presentaban ante ellos con las evidencias, pero decían: \"¿Acaso un mortal [igual que nosotros] nos ha de guiar?\" Y así se negaron a creer, y se apartaron [de la Verdad]. Pero Dios no necesita de ellos, Él es Autosuficiente, Loable",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Il en est ainsi parce que leurs messagers leur venaient avec des preuves évidentes, et qu'ils ont dit: «Sont-ce des hommes qui nous guideront?» Ils mécrurent alors et se détournèrent et Allah Se passa [d'eux] et Allah Se suffit à Lui-même et Il est Digne de louange",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "এটা এ কারণে যে, তাদের কাছে তাদের রসূলগণ প্রকাশ্য নিদর্শনাবলীসহ আগমন করলে তারা বলতঃ মানুষই কি আমাদেরকে পথপ্রদর্শন করবে? অতঃপর তারা কাফের হয়ে গেল এবং মুখ ফিরিয়ে নিল। এতে আল্লাহর কিছু আসে যায় না। আল্লাহ অমুখাপেক্ষী প্রশংসিত।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Isso porque seus Mensageiros lhes chegavam com as evidências, então diziam: \"São mortais que nos guiarão?\" E renegaram a Fé e voltaram as costas. E Allah deles prescindiu. E Allah é Bastante a Si Mesmo, Louvável",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Это - за то, что посланники приходили к ним с ясными знамениями, а они говорили: «Неужели люди поведут нас прямым путем?». Они не уверовали и отвернулись. Аллах обошелся без них, ведь Аллах - Богатый, Достохвальный",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "یہ اس لئے کہ ان کے پاس پیغمبر کھلی نشانیاں لے کر آئے تو یہ کہتے کہ کیا آدمی ہمارے ہادی بنتے ہیں؟ تو انہوں نے (ان کو) نہ مانا اور منہ پھیر لیا اور خدا نے بھی بےپروائی کی۔ اور خدا بےپروا (اور) سزاوار حمد (وثنا) ہے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_064_007",
+      "reference": {
+        "surah_number": 64,
+        "surah_name": "At-Taghaabun",
+        "surah_name_ar": "سُوْرَةُ التَّغَابُنِ",
+        "surah_name_translation": "Mutual Disillusion",
+        "ayah_number": 7,
+        "juz": 28,
+        "revelation_type": "Madina"
+      },
+      "arabic_word_count": 18,
+      "translations": {
+        "ar": {
+          "text": "زَعَمَ ٱلَّذِينَ كَفَرُوٓاْ أَن لَّن يُبۡعَثُواْۚ قُلۡ بَلَىٰ وَرَبِّي لَتُبۡعَثُنَّ ثُمَّ لَتُنَبَّؤُنَّ بِمَا عَمِلۡتُمۡۚ وَذَٰلِكَ عَلَى ٱللَّهِ يَسِيرࣱ‏",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "The disbelievers claim they will not be resurrected. Say, ˹O Prophet,˺ “Yes, by my Lord, you will surely be resurrected, then you will certainly be informed of what you have done. And that is easy for Allah.”",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "不信道的人们，妄言他们绝不复活，你说：不然！以我的主盟誓，你们必定复活，然後你们必定获得关於你们的行为的报告，这对於真主是容易的。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "जिन लोगों ने इनकार किया उन्होंने दावा किया वे मरने के पश्चात कदापि न उठाए जाएँगे। कह दो, \"क्यों नहीं, मेरे रब की क़सम! तुम अवश्य उठाए जाओगे, फिर जो कुछ तुमने किया है उससे तुम्हें अवगत करा दिया जाएगा। और अल्लाह के लिए यह अत्यन्त सरल है।",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Los que rechazan el Mensaje alegan que no serán resucitados. Diles: \"¡[Juro] por mi Señor que sí! Serán resucitados, y luego se les informará de cuanto hicieron. Sepan que eso es fácil para Dios",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Ceux qui ont mécru prétendent qu'ils ne seront point ressuscités. Dis: «Mais si! Par mon Seigneur! Vous serez très certainement ressuscités; puis vous serez certes informés de ce que vous faisiez. Et cela est facile pour Allah»",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "কাফেররা দাবী করে যে, তারা কখনও পুনরুত্থিত হবে না। বলুন, অবশ্যই হবে, আমার পালনকর্তার কসম, তোমরা নিশ্চয় পুরুত্থিত হবে। অতঃপর তোমাদেরকে অবহিত করা হবে যা তোমরা করতে। এটা আল্লাহর পক্ষে সহজ।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Os que renegam a Fé pretendem que não serão ressuscitados. Dize: \"Sim! Por meu Senhor, sereis ressuscitados; em seguida, sereis informados do que fizestes. E isso, para Allah, é fácil",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Неверующие полагают, что они не будут воскрешены. Скажи: «Напротив, клянусь моим Господом, вы непременно будете воскрешены, а затем вам непременно сообщат о том, что вы совершили. Это для Аллаха легко»",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "جو لوگ کافر ہیں ان کا اعتقاد ہے کہ وہ (دوبارہ) ہرگز نہیں اٹھائے جائیں گے۔ کہہ دو کہ ہاں ہاں میرے پروردگار کی قسم تم ضرور اٹھائے جاؤ گے پھر جو کام تم کرتے رہے ہو وہ تمہیں بتائے جائیں گے اور یہ (بات) خدا کو آسان ہے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_064_008",
+      "reference": {
+        "surah_number": 64,
+        "surah_name": "At-Taghaabun",
+        "surah_name_ar": "سُوْرَةُ التَّغَابُنِ",
+        "surah_name_translation": "Mutual Disillusion",
+        "ayah_number": 8,
+        "juz": 28,
+        "revelation_type": "Madina"
+      },
+      "arabic_word_count": 10,
+      "translations": {
+        "ar": {
+          "text": "فَـَٔامِنُواْ بِٱللَّهِ وَرَسُولِهِۦ وَٱلنُّورِ ٱلَّذِيٓ أَنزَلۡنَاۚ وَٱللَّهُ بِمَا تَعۡمَلُونَ خَبِيرࣱ‏",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "So believe in Allah and His Messenger and in the Light We have revealed. And Allah is All-Aware of what you do",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "故你们当信仰真主和使者，和他所降示的光明。真主是彻知你们的行为的。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "अतः ईमान लाओ, अल्लाह पर और उसके रसूल पर और उस प्रकाश पर जिसे हमने अवतरित किया है। तुम जो कुछ भी करते हो अल्लाह उसकी पूरी ख़बर रखता है",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Crean en Dios, en Su Mensajero y en la Luz que ha revelado [el Corán]. Dios está bien informado de cuanto hacen",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Croyez en Allah donc et en Son messager, ainsi qu'en la Lumière [le Coran] que Nous avons fait descendre. Et Allah est Parfaitement Connaisseur de ce que vous faites",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "অতএব তোমরা আল্লাহ তাঁর রসূল এবং অবতীর্ন নূরের প্রতি বিশ্বাস স্থাপন কর। তোমরা যা কর, সে বিষয়ে আল্লাহ সম্যক অবগত।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Então, crede em Allah e em Seu Mensageiro e na Luz que fizemos descer. E Allah, do que fazeis é Conhecedor",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Уверуйте же в Аллаха, Его Посланника и свет, который Мы ниспослали. Аллах ведает о том, что вы совершаете",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "تو خدا پر اور اس کے رسول پر اور نور (قرآن) پر جو ہم نے نازل فرمایا ہے ایمان لاؤ۔ اور خدا تمہارے سب اعمال سے خبردار ہے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_064_009",
+      "reference": {
+        "surah_number": 64,
+        "surah_name": "At-Taghaabun",
+        "surah_name_ar": "سُوْرَةُ التَّغَابُنِ",
+        "surah_name_translation": "Mutual Disillusion",
+        "ayah_number": 9,
+        "juz": 28,
+        "revelation_type": "Madina"
+      },
+      "arabic_word_count": 29,
+      "translations": {
+        "ar": {
+          "text": "يَوۡمَ يَجۡمَعُكُمۡ لِيَوۡمِ ٱلۡجَمۡعِۖ ذَٰلِكَ يَوۡمُ ٱلتَّغَابُنِۗ وَمَن يُؤۡمِنۢ بِٱللَّهِ وَيَعۡمَلۡ صَٰلِحࣰ ا يُكَفِّرۡ عَنۡهُ سَيِّـَٔاتِهِۦ وَيُدۡخِلۡهُ جَنَّٰتࣲ تَجۡرِي مِن تَحۡتِهَا ٱلۡأَنۡهَٰرُ خَٰلِدِينَ فِيهَآ أَبَدࣰ اۚ ذَٰلِكَ ٱلۡفَوۡزُ ٱلۡعَظِيمُ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "˹Consider˺ the Day He will gather you ˹all˺ for the Day of Gathering—that will be the Day of mutual loss and gain. So whoever believes in Allah and does good, He will absolve them of their sins and admit them into Gardens under which rivers flow, to stay there for ever and ever. That is the ultimate triumph",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "在那日，他将在聚会日集合你们；那是相欺之日。信仰真主，而且行善的人，他将解除他的罪恶，而且使他入下临诸河的乐园，而永居其中，那确是伟大的成功。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "इकट्ठा होने के दिन वह तुम्हें इकट्ठा करेगा, वह परस्पर लाभ-हानि का दिन होगा। जो भी अल्लाह पर ईमान लाए और अच्छा कर्म करे उसकी बुराईयाँ अल्लाह उससे दूर कर देगा और उसे ऐसे बाग़ों में दाख़िल करेगा जिनके नीचे नहरें बह रही होंगी, उनमें वे सदैव रहेंगे। यही बड़ी सफलता है",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Cuando sean congregados para el día de la reunión, ese será el día del desengaño [para los incrédulos]. A quien crea en Dios y haya obrado correctamente, Él le perdonará sus faltas y lo introducirá en jardines por donde corren ríos, donde vivirá eternamente. ¡Ese es el triunfo grandioso",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Le jour où Il vous réunira pour le jour du Rassemblement, ce sera le jour de la grande perte. Et celui qui croit en Allah et accomplit les bonnes œuvres, Il lui effacera ses mauvaises actions et le fera entrer dans des Jardins sous lesquels coulent les ruisseaux où ils demeureront éternellement. Voilà l'énorme succès",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "সেদিন অর্থাৎ, সমাবেশের দিন আল্লাহ তোমাদেরকে সমবেত করবেন। এ দিন হার-জিতের দিন। যে ব্যক্তি আল্লাহর প্রতি বিশ্বাস স্থাপন করে এবং সৎকর্ম সম্পাদন করে, আল্লাহ তার পাপসমূহ মোচন করবেন এবং তাকে জান্নাতে দাখিল করবেন। যার তলদেশে নির্ঝরিনীসমূহ প্রবাহিত হবে, তারা তথায় চিরকাল বসবাস করবে। এটাই মহাসাফল্য।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Um dia, quando Ele vos juntar, no Dia da Junta, esse será o dia do mútuo engano. E quem crê em Allah e faz o bem, Ele lhe remirá as más obras e o fará entrar em Jardins, abaixo dos quais correm os rios; nesses serão eternos, para todo o sempre. Esse é o magnífico triunfo",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "В тот день Он соберет вас для Дня сбора. Это будет День взаимного обделения. Тем, кто уверовал в Аллаха и поступал праведно, Он простит злодеяния и введет их в Райские сады, в которых текут реки. Они пребудут там вечно. Это - великое преуспеяние",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "جس دن وہ تم کو اکھٹا ہونے (یعنی قیامت) کے دن اکھٹا کرے گا وہ نقصان اٹھانے کا دن ہے۔ اور جو شخص خدا پر ایمان لائے اور نیک عمل کرے وہ اس سے اس کی برائیاں دور کردے گا اور باغہائے بہشت میں جن کے نیچے نہریں بہہ رہی ہیں داخل کرے گا۔ ہمیشہ ان میں رہیں گے۔ یہ بڑی کامیابی ہے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_064_010",
+      "reference": {
+        "surah_number": 64,
+        "surah_name": "At-Taghaabun",
+        "surah_name_ar": "سُوْرَةُ التَّغَابُنِ",
+        "surah_name_translation": "Mutual Disillusion",
+        "ayah_number": 10,
+        "juz": 28,
+        "revelation_type": "Madina"
+      },
+      "arabic_word_count": 11,
+      "translations": {
+        "ar": {
+          "text": "وَٱلَّذِينَ كَفَرُواْ وَكَذَّبُواْ بِـَٔايَٰتِنَآ أُوْلَٰٓئِكَ أَصۡحَٰبُ ٱلنَّارِ خَٰلِدِينَ فِيهَاۖ وَبِئۡسَ ٱلۡمَصِيرُ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "As for those who disbelieve and reject Our revelations, they will be the residents of the Fire, staying there forever. What an evil destination",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "不信道，而且否认我的迹象的人们，是火狱的居民，他们将永居其中。那归宿真恶劣！",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "रहे वे लोग जिन्होंने इनकार किया और हमारी आयतों को झुठलाया, वही आगवाले है जिसमें वे सदैव रहेंगे। अन्ततः लौटकर पहुँचने की वह बहुत ही बुरी जगह है",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "En cambio, los que rechazaron el Mensaje y desmintieron Mis signos sufrirán en el fuego del Infierno por toda la eternidad. ¡Qué pésimo destino",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Et ceux qui ont mécru et traité de mensonges Nos versets, ceux-là sont les gens du Feu où ils demeureront éternellement. Et quelle mauvaise destination",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "আর যারা কাফের এবং আমার আয়াতসমূহকে মিথ্যা বলে, তারাই জাহান্নামের অধিবাসী, তারা তথায় অনন্তকাল থাকবে। কতই না মন্দ প্রত্যাবর্তনস্থল এটা।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E os que renegam a Fé e desmentem Nossos sinais, esses serão os companheiros do Fogo; nele, serão eternos. E que execrável destino",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "А те, которые не уверовали и сочли ложью Наши знамения, станут обитателями Огня. Они пребудут там вечно. Как же скверно это место прибытия",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور جنہوں نے کفر کیا اور ہماری آیتوں کو جھٹلایا وہی اہل ذوزخ ہیں۔ ہمیشہ اس میں رہیں گے۔ اور وہ بری جگہ ہے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_064_011",
+      "reference": {
+        "surah_number": 64,
+        "surah_name": "At-Taghaabun",
+        "surah_name_ar": "سُوْرَةُ التَّغَابُنِ",
+        "surah_name_translation": "Mutual Disillusion",
+        "ayah_number": 11,
+        "juz": 28,
+        "revelation_type": "Madina"
+      },
+      "arabic_word_count": 16,
+      "translations": {
+        "ar": {
+          "text": "مَآ أَصَابَ مِن مُّصِيبَةٍ إِلَّا بِإِذۡنِ ٱللَّهِۗ وَمَن يُؤۡمِنۢ بِٱللَّهِ يَهۡدِ قَلۡبَهُۥۚ وَٱللَّهُ بِكُلِّ شَيۡءٍ عَلِيمࣱ‏",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "No calamity befalls ˹anyone˺ except by Allah’s Will. And whoever has faith in Allah, He will ˹rightly˺ guide their hearts ˹through adversity˺. And Allah has ˹perfect˺ knowledge of all things",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "凡灾难的发生，无一不是依真主的判决的。谁信真主，他将引导谁的心，真主是全知万物的。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "अल्लाह की अनुज्ञा के बिना कोई भी मुसीबत नहीं आती। जो अल्लाह पर ईमान ले आए अल्लाह उसके दिल को मार्ग दिखाता है, और अल्लाह हर चीज को भली-भाँति जानता है",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Todas las desgracias acontecen con el permiso de Dios. Quien crea en Dios, Él guiará su corazón [y comprenderá que todo es parte del gran designio de Dios]. Dios tiene conocimiento de todas las cosas",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Nul malheur n'atteint [l'homme] que par la permission d'Allah. Et quiconque croit en Allah, [Allah] guide son cœur. Allah est Omniscient",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "আল্লাহর নির্দেশ ব্যতিরেকে কোন বিপদ আসে না এবং যে আল্লাহর প্রতি বিশ্বাস করে, তিনি তার অন্তরকে সৎপথ প্রদর্শন করেন। আল্লাহ সর্ববিষয়ে সম্যক পরিজ্ঞাত।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Nenhuma desgraça ocorre sem que seja com a permissão de Allah. E quem crê em Allah, Ele lhe guiará o coração. E Allah, de todas as cousas, é Onisciente",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Любое несчастье постигает только по воле Аллаха. Сердце того, кто уверовал в Аллаха, Он наставляет на прямой путь. Аллах знает о всякой вещи",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "کوئی مصیبت نازل نہیں ہوتی مگر خدا کے حکم سے۔ اور جو شخص خدا پر ایمان لاتا ہے وہ اس کے دل کو ہدایت دیتا ہے۔ اور خدا ہر چیز سے باخبر ہے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_064_012",
+      "reference": {
+        "surah_number": 64,
+        "surah_name": "At-Taghaabun",
+        "surah_name_ar": "سُوْرَةُ التَّغَابُنِ",
+        "surah_name_translation": "Mutual Disillusion",
+        "ayah_number": 12,
+        "juz": 28,
+        "revelation_type": "Madina"
+      },
+      "arabic_word_count": 11,
+      "translations": {
+        "ar": {
+          "text": "وَأَطِيعُواْ ٱللَّهَ وَأَطِيعُواْ ٱلرَّسُولَۚ فَإِن تَوَلَّيۡتُمۡ فَإِنَّمَا عَلَىٰ رَسُولِنَا ٱلۡبَلَٰغُ ٱلۡمُبِينُ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Obey Allah and obey the Messenger! But if you turn away, then Our Messenger’s duty is only to deliver ˹the message˺ clearly",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "你们当服从真主，当服从使者。如果你们违背命令，那末，我的使者，只负明白通知的责任。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "अल्लाह की आज्ञा का पालन करो और रसूल की आज्ञा का पालन करो, किन्तु यदि तुम मुँह मोड़ते हो तो हमारे रसूल पर बस स्पष्ट रूप से (संदेश) पहुँचा देने की ज़िम्मेदारी है",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Obedezcan a Dios y obedezcan al Mensajero. Pero si se rehúsan, sepan que Mi Mensajero solo tiene la obligación de transmitir el Mensaje con claridad",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Obéissez à Allah et obéissez au Messager et si vous vous détournez... il n'incombe à Notre messager que de transmettre en clair (son message)",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "তোমরা আল্লাহর আনুগত্য কর এবং রসূলুল্লাহর আনুগত্য কর। যদি তোমরা মুখ ফিরিয়ে নাও, তবে আমার রসূলের দায়িত্ব কেবল খোলাখুলি পৌছে দেয়া।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E obedecei a Allah e obedecei ao Mensageiro. E, se voltais as costas, sabei que impende apenas a Nosso Mensageiro a evidente transmissão da Mensagem",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Повинуйтесь Аллаху и повинуйтесь Посланнику. Если же вы отвернетесь, то ведь на Нашего Посланника возложена только ясная передача откровения",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور خدا کی اطاعت کرو اور اس کے رسول کی اطاعت کرو۔ اگر تم منہ پھیر لو گے تو ہمارے پیغمبر کے ذمے تو صرف پیغام کا کھول کھول کر پہنچا دینا ہے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_064_013",
+      "reference": {
+        "surah_number": 64,
+        "surah_name": "At-Taghaabun",
+        "surah_name_ar": "سُوْرَةُ التَّغَابُنِ",
+        "surah_name_translation": "Mutual Disillusion",
+        "ayah_number": 13,
+        "juz": 28,
+        "revelation_type": "Madina"
+      },
+      "arabic_word_count": 9,
+      "translations": {
+        "ar": {
+          "text": "ٱللَّهُ لَآ إِلَٰهَ إِلَّا هُوَۚ وَعَلَى ٱللَّهِ فَلۡيَتَوَكَّلِ ٱلۡمُؤۡمِنُونَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Allah—there is no god ˹worthy of worship˺ except Him. So in Allah let the believers put their trust",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "真主，除他外，绝无应受崇拜的，教信士们只信托真主。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "अल्लाह वह है जिसके सिवा कोई पूज्य-प्रभु नहीं। अतः अल्लाह ही पर ईमानवालों को भरोसा करना चाहिए",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "¡Al-lah! No existe divinidad excepto Él. Que los creyentes depositen su confianza en Dios",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Allah nulle autre divinité que Lui! Et c'est à Allah que les croyants [doivent] s'en remettre",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "আল্লাহ তিনি ব্যতীত কোন মাবুদ নেই। অতএব মুমিনগণ আল্লাহর উপর ভরসা করুক।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Allah, não existe deus senão Ele. E que os crentes, então, confiem em Allah",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Аллах - нет божества, кроме Него. Пусть же верующие уповают только на Аллаха",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "خدا (جو معبود برحق ہے اس) کے سوا کوئی عبادت کے لائق نہیں تو مومنوں کو چاہیئے کہ خدا ہی پر بھروسا رکھیں",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_064_014",
+      "reference": {
+        "surah_number": 64,
+        "surah_name": "At-Taghaabun",
+        "surah_name_ar": "سُوْرَةُ التَّغَابُنِ",
+        "surah_name_translation": "Mutual Disillusion",
+        "ayah_number": 14,
+        "juz": 28,
+        "revelation_type": "Madina"
+      },
+      "arabic_word_count": 19,
+      "translations": {
+        "ar": {
+          "text": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓاْ إِنَّ مِنۡ أَزۡوَٰجِكُمۡ وَأَوۡلَٰدِكُمۡ عَدُوࣰّ ا لَّكُمۡ فَٱحۡذَرُوهُمۡۚ وَإِن تَعۡفُواْ وَتَصۡفَحُواْ وَتَغۡفِرُواْ فَإِنَّ ٱللَّهَ غَفُورࣱ رَّحِيمٌ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "O believers! Indeed, some of your spouses and children are enemies to you, so beware of them. But if you pardon, overlook, and forgive ˹their faults˺, then Allah is truly All-Forgiving, Most Merciful",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "信道的人们啊！你们的妻子儿女，有一部份确是你们的敌人，故你们当谨防他们。如果你们恕饶他们，原谅他们，赦宥他们，（真主就赦宥你们），因为真主确是至赦的，确是至慈的。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "ऐ ईमान लानेवालो, तुम्हारी पत्नियों और तुम्हारी सन्तान में से कुछ ऐसे भी है जो तुम्हारे शत्रु है। अतः उनसे होशियार रहो। और यदि तुम माफ़ कर दो और टाल जाओ और क्षमा कर दो निश्चय ही अल्लाह बड़ा क्षमाशील, अत्यन्त दयावान है",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "¡Creyentes! Sus cónyuges o sus hijos pueden convertirse en sus enemigos. Tengan precaución. Pero si pasan por alto [sus faltas], son tolerantes con ellos y los perdonan, sepan que Dios es Perdonador, Misericordioso",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "O vous qui avez cru, vous avez de vos épouses et de vos enfants un ennemi [une tentation]. Prenez-y garde donc. Mais si vous [les] excusez, passez sur [leurs] fautes et [leur] pardonnez, sachez qu'Allah est Pardonneur, Très Miséricordieux",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "হে মুমিনগণ, তোমাদের কোন কোন স্ত্রী ও সন্তান-সন্ততি তোমাদের দুশমন। অতএব তাদের ব্যাপারে সতর্ক থাক। যদি মার্জনা কর, উপেক্ষা কর, এবং ক্ষমা কর, তবে আল্লাহ ক্ষমাশীল, করুনাময়।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Ó vós que credes! Por certo, há, entre vossas mulheres e vossos filhos, inimigos de vós; então, precatai-vos deles. E, se os indultais e tolerais e perdoais, por certo, Allah é Perdoador, Misericordiador",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "О те, которые уверовали! Воистину, среди ваших жен и ваших детей есть враги вам. Остерегайтесь их, но если вы будете снисходительны, проявите великодушие и простите их, то ведь Аллах - Прощающий, Милосердный",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "مومنو! تمہاری عورتیں اور اولاد میں سے بعض تمہارے دشمن (بھی) ہیں سو ان سے بچتے رہو۔ اور اگر معاف کردو اور درگزر کرو اور بخش دو تو خدا بھی بخشنے والا مہربان ہے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_064_015",
+      "reference": {
+        "surah_number": 64,
+        "surah_name": "At-Taghaabun",
+        "surah_name_ar": "سُوْرَةُ التَّغَابُنِ",
+        "surah_name_translation": "Mutual Disillusion",
+        "ayah_number": 15,
+        "juz": 28,
+        "revelation_type": "Madina"
+      },
+      "arabic_word_count": 8,
+      "translations": {
+        "ar": {
+          "text": "إِنَّمَآ أَمۡوَٰلُكُمۡ وَأَوۡلَٰدُكُمۡ فِتۡنَةࣱۚ وَٱللَّهُ عِندَهُۥٓ أَجۡرٌ عَظِيمࣱ‏",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Your wealth and children are only a test, but Allah ˹alone˺ has a great reward",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "你们的财产和子嗣，只是一种考验，真主那里有重大的报酬。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "तुम्हारे माल और तुम्हारी सन्तान तो केवल एक आज़माइश है, और अल्लाह ही है जिसके पास बड़ा प्रतिदान है",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Sus bienes materiales y sus hijos son una tentación, pero Dios tiene junto a Sí una recompensa grandiosa",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Vos biens et vos enfants ne sont qu'une tentation, alors qu'auprès d'Allah est une énorme récompense",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "তোমাদের ধন-সম্পদ ও সন্তান-সন্ততি তো কেবল পরীক্ষাস্বরূপ। আর আল্লাহর কাছে রয়েছে মহাপুরস্কার।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Vossas riquezas e vossos filhos não são que provação. E, junto de Allah, haverá magnífico prêmio",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Воистину, ваше имущество и ваши дети являются искушением. У Аллаха же есть великая награда",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "تمہارا مال اور تمہاری اولاد تو آزمائش ہے۔ اور خدا کے ہاں بڑا اجر ہے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_064_016",
+      "reference": {
+        "surah_number": 64,
+        "surah_name": "At-Taghaabun",
+        "surah_name_ar": "سُوْرَةُ التَّغَابُنِ",
+        "surah_name_translation": "Mutual Disillusion",
+        "ayah_number": 16,
+        "juz": 28,
+        "revelation_type": "Madina"
+      },
+      "arabic_word_count": 17,
+      "translations": {
+        "ar": {
+          "text": "فَٱتَّقُواْ ٱللَّهَ مَا ٱسۡتَطَعۡتُمۡ وَٱسۡمَعُواْ وَأَطِيعُواْ وَأَنفِقُواْ خَيۡرࣰ ا لِّأَنفُسِكُمۡۗ وَمَن يُوقَ شُحَّ نَفۡسِهِۦ فَأُوْلَٰٓئِكَ هُمُ ٱلۡمُفۡلِحُونَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "So be mindful of Allah to the best of your ability, hear and obey, and spend in charity—that will be best for you. And whoever is saved from the selfishness of their own souls, it is they who are ˹truly˺ successful",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "你们当量力地敬畏真主，你们当听从他的教训和命令，你们当施舍，那是有益於你们自己的。能戒除自身的贪吝者，确是成功的。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "अतः जहाँ तक तुम्हारे बस में हो अल्लाह का डर रखो और सुनो और आज्ञापालन करो और ख़र्च करो अपनी भलाई के लिए। और जो अपने मन के लोभ एवं कृपणता से सुरक्षित रहा तो ऐसे ही लोग सफल है",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Tengan temor de Dios tanto como puedan. Escuchen y obedezcan [la revelación], y hagan caridad, porque es lo mejor para ustedes mismos. Sepan que quienes luchen contra su propia avaricia serán los triunfadores",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Craignez Allah, donc autant que vous pouvez, écoutez, obéissez et faites largesses. Ce sera un bien pour vous. Et quiconque a été protégé contre sa propre avidité... ceux-là sont ceux qui réussissent",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "অতএব তোমরা যথাসাধ্য আল্লাহকে ভয় কর, শুন, আনুগত্য কর এবং ব্যয় কর। এটা তোমাদের জন্যে কল্যাণকর। যারা মনের কার্পন্য থেকে মুক্ত, তারাই সফলকাম।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Então, temei a Allah quanto puderdes. E ouvi e obedecei e despendei: é-vos melhor, para vós mesmos. E quem se guarda de sua própria mesquinhez, esses são os bem-aventurados",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Бойтесь Аллаха по мере своих возможностей, слушайте, повинуйтесь и расходуйте во благо самим себе. А те, кто уберегся от собственной скупости, являются преуспевшими",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "سو جہاں تک ہوسکے خدا سے ڈرو اور (اس کے احکام کو) سنو اور (اس کے) فرمانبردار رہو اور (اس کی راہ میں) خرچ کرو (یہ) تمہارے حق میں بہتر ہے۔ اور جو شخص طبعیت کے بخل سے بچایا گیا تو ایسے ہی لوگ راہ پانے والے ہیں",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_064_017",
+      "reference": {
+        "surah_number": 64,
+        "surah_name": "At-Taghaabun",
+        "surah_name_ar": "سُوْرَةُ التَّغَابُنِ",
+        "surah_name_translation": "Mutual Disillusion",
+        "ayah_number": 17,
+        "juz": 28,
+        "revelation_type": "Madina"
+      },
+      "arabic_word_count": 13,
+      "translations": {
+        "ar": {
+          "text": "إِن تُقۡرِضُواْ ٱللَّهَ قَرۡضًا حَسَنࣰ ا يُضَٰعِفۡهُ لَكُمۡ وَيَغۡفِرۡ لَكُمۡۚ وَٱللَّهُ شَكُورٌ حَلِيمٌ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "If you lend to Allah a good loan, He will multiply it for you and forgive you. For Allah is Most Appreciative, Most Forbearing",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "如果你们以善债借给真主，他将加倍偿还你们，而且赦宥你们。真主是善报的，是至容的。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "यदि तुम अल्लाह को अच्छा ऋण दो तो वह उसे तुम्हारे लिए कई गुना बढ़ा देगा और तुम्हें क्षमा कर देगा। अल्लाह बड़ा गुणग्राहक और सहनशील है",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Si hacen a Dios un préstamo generoso, Él lo devolverá multiplicado y perdonará sus faltas. Dios es Agradecido, Tolerante",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Si vous faites à Allah un prêt sincère, Il le multipliera pour vous et vous pardonnera. Allah cependant est très Reconnaissant et Indulgent",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "যদি তোমরা আল্লাহকে উত্তম ঋণ দান কর, তিনি তোমাদের জন্যে তা দ্বিগুণ করে দেবেন এবং তোমাদেরকে ক্ষমা করবেন। আল্লাহ গুণগ্রাহী, সহনশীল।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Se emprestais um bom empréstimo a Allah, Ele vo-lo multiplicará e vos perdoará. E Allah é Agradecido, Clemente",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Если вы одолжите Аллаху прекрасный заем, то Он приумножит его для вас и простит вас. Аллах - Благодарный, Выдержанный",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اگر تم خدا کو (اخلاص اور نیت) نیک (سے) قرض دو گے تو وہ تم کو اس کا دوچند دے گا اور تمہارے گناہ بھی معاف کردے گا۔ اور خدا قدر شناس اور بردبار ہے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_064_018",
+      "reference": {
+        "surah_number": 64,
+        "surah_name": "At-Taghaabun",
+        "surah_name_ar": "سُوْرَةُ التَّغَابُنِ",
+        "surah_name_translation": "Mutual Disillusion",
+        "ayah_number": 18,
+        "juz": 28,
+        "revelation_type": "Madina"
+      },
+      "arabic_word_count": 5,
+      "translations": {
+        "ar": {
+          "text": "عَٰلِمُ ٱلۡغَيۡبِ وَٱلشَّهَٰدَةِ ٱلۡعَزِيزُ ٱلۡحَكِيمُ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "˹He is the˺ Knower of the seen and unseen—the Almighty, All-Wise",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "他是全知幽明的，是万能的，是至睿的。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "परोक्ष और प्रत्यक्ष को जानता है, प्रभुत्वशाली, तत्वदर्शी है",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "conoce lo oculto y lo manifiesto, Él es el Poderoso, el Sabio",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Il est le Connaisseur du monde Invisible et visible, et Il est le Puissant, le Sage",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "তিনি দৃশ্য ও অদৃশ্যের জ্ঞানী, পরাক্রান্ত, প্রজ্ঞাময়।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "O Sabedor do invisível e do visível, O Todo-Poderoso, O Sábio",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Ведающий сокровенное и явное, Могущественный, Мудрый",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "پوشیدہ اور ظاہر کا جاننے والا غالب اور حکمت والا ہے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    }
+  ]
+}

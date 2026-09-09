@@ -1,0 +1,229 @@
+{
+  "surah": 112,
+  "verses": [
+    {
+      "content_id": "quran_112_001",
+      "reference": {
+        "surah_number": 112,
+        "surah_name": "Al-Ikhlaas",
+        "surah_name_ar": "سُوْرَةُ الْاِخْلَاصِ",
+        "surah_name_translation": "Sincerity",
+        "ayah_number": 1,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 4,
+      "translations": {
+        "ar": {
+          "text": "قُلۡ هُوَ ٱللَّهُ أَحَدٌ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Say, ˹O Prophet,˺ “He is Allah—One ˹and Indivisible˺",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "你说：他是真主，是独一的主；",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "कहो, \"वह अल्लाह यकता है",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Di: \"Él es Al-lah, Uno",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Dis: «Il est Allah, Unique",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "বলুন, তিনি আল্লাহ, এক,",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Dize: \"Ele é Allah, Único",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Скажи: «Он - Аллах Единый",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "کہو کہ وہ (ذات پاک جس کا نام) الله (ہے) ایک ہے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_112_002",
+      "reference": {
+        "surah_number": 112,
+        "surah_name": "Al-Ikhlaas",
+        "surah_name_ar": "سُوْرَةُ الْاِخْلَاصِ",
+        "surah_name_translation": "Sincerity",
+        "ayah_number": 2,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 2,
+      "translations": {
+        "ar": {
+          "text": "ٱللَّهُ ٱلصَّمَدُ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Allah—the Sustainer ˹needed by all˺",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "真主是万物所仰赖的；",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "अल्लाह निरपेक्ष (और सर्वाधार) है",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Al-lah es el Absoluto",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Allah, Le Seul à être imploré pour ce que nous désirons",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "আল্লাহ অমুখাপেক্ষী,",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Allah é O Solicitado",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Аллах Самодостаточный",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "معبود برحق جو بےنیاز ہے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_112_003",
+      "reference": {
+        "surah_number": 112,
+        "surah_name": "Al-Ikhlaas",
+        "surah_name_ar": "سُوْرَةُ الْاِخْلَاصِ",
+        "surah_name_translation": "Sincerity",
+        "ayah_number": 3,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 4,
+      "translations": {
+        "ar": {
+          "text": "لَمۡ يَلِدۡ وَلَمۡ يُولَدۡ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "He has never had offspring, nor was He born",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "他没有生产，也没有被生产；",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "न वह जनिता है और न जन्य",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "No engendró ni fue engendrado",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Il n'a jamais engendré, n'a pas été engendré non plus",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "তিনি কাউকে জন্ম দেননি এবং কেউ তাকে জন্ম দেয়নি",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Não gerou e não foi gerado",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Он не родил и не был рожден",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "نہ کسی کا باپ ہے اور نہ کسی کا بیٹا",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_112_004",
+      "reference": {
+        "surah_number": 112,
+        "surah_name": "Al-Ikhlaas",
+        "surah_name_ar": "سُوْرَةُ الْاِخْلَاصِ",
+        "surah_name_translation": "Sincerity",
+        "ayah_number": 4,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 5,
+      "translations": {
+        "ar": {
+          "text": "وَلَمۡ يَكُن لَّهُۥ كُفُوًا أَحَدُۢ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "And there is none comparable to Him.”",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "没有任何物可以做他的匹敌。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "और न कोई उसका समकक्ष है।",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Y no hay nada ni nadie que sea semejante a Él",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Et nul n'est égal à Lui»",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "এবং তার সমতুল্য কেউ নেই।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E não há ninguém igual a Ele",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "и нет никого равного Ему»",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور کوئی اس کا ہمسر نہیں",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,2917 @@
+{
+  "surah": 68,
+  "verses": [
+    {
+      "content_id": "quran_068_001",
+      "reference": {
+        "surah_number": 68,
+        "surah_name": "Al-Qalam",
+        "surah_name_ar": "سُوْرَةُ الْقَلَمِ",
+        "surah_name_translation": "The Pen",
+        "ayah_number": 1,
+        "juz": 29,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 4,
+      "translations": {
+        "ar": {
+          "text": "نٓۚ وَٱلۡقَلَمِ وَمَا يَسۡطُرُونَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Nũn. By the pen and what everyone writes",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "努奈。以笔和他们所写的盟誓，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "नून॰। गवाह है क़लम और वह चीज़ जो वे लिखते है",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Nun. Juro por la pluma y por [los conocimientos que con ella] se escriben",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Nûn. Par la plume et ce qu'ils écrivent",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "নূন। শপথ কলমের এবং সেই বিষয়ের যা তারা লিপিবদ্ধ করে,",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Nūn. Pelo cálamo e pelo que eles escrevem",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Нун. Клянусь письменной тростью и тем, что они пишут",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "نٓ۔ قلم کی اور جو (اہل قلم) لکھتے ہیں اس کی قسم",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_068_002",
+      "reference": {
+        "surah_number": 68,
+        "surah_name": "Al-Qalam",
+        "surah_name_ar": "سُوْرَةُ الْقَلَمِ",
+        "surah_name_translation": "The Pen",
+        "ayah_number": 2,
+        "juz": 29,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 5,
+      "translations": {
+        "ar": {
+          "text": "مَآ أَنتَ بِنِعۡمَةِ رَبِّكَ بِمَجۡنُونࣲ‏",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "By the grace of your Lord, you ˹O Prophet˺ are not insane",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "你为主的恩典，你绝不是一个疯人，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "तुम अपने रब की अनुकम्पा से कोई दीवाने नहीं हो",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "que tú [Oh, Mujámmad], por la gracia de tu Señor, no eres un loco",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Tu (Muhammad) n'es pas, par la grâce de ton Seigneur, un possédé",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "আপনার পালনকর্তার অনুগ্রহে আপনি উম্মাদ নন।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Tu, Muhammad, pela graça de teu Senhor, não és louco",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Ты по милости своего Господа не являешься одержимым",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "کہ (اے محمدﷺ) تم اپنے پروردگار کے فضل سے دیوانے نہیں ہو",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_068_003",
+      "reference": {
+        "surah_number": 68,
+        "surah_name": "Al-Qalam",
+        "surah_name_ar": "سُوْرَةُ الْقَلَمِ",
+        "surah_name_translation": "The Pen",
+        "ayah_number": 3,
+        "juz": 29,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 5,
+      "translations": {
+        "ar": {
+          "text": "وَإِنَّ لَكَ لَأَجۡرًا غَيۡرَ مَمۡنُونࣲ‏",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "You will certainly have a never-ending reward",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "你必得享受不断的报酬。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "निश्चय ही तुम्हारे लिए ऐसा प्रतिदान है जिसका क्रम कभी टूटनेवाला नहीं",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "y tendrás una recompensa ilimitada",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Et il y aura pour toi certes, une récompense jamais interrompue",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "আপনার জন্যে অবশ্যই রয়েছে অশেষ পুরস্কার।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E, por certo, há para ti, prêmio incessante",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Воистину, награда твоя неиссякаема",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور تمہارے لئے بے انتہا اجر ہے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_068_004",
+      "reference": {
+        "surah_number": 68,
+        "surah_name": "Al-Qalam",
+        "surah_name_ar": "سُوْرَةُ الْقَلَمِ",
+        "surah_name_translation": "The Pen",
+        "ayah_number": 4,
+        "juz": 29,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 4,
+      "translations": {
+        "ar": {
+          "text": "وَإِنَّكَ لَعَلَىٰ خُلُقٍ عَظِيمࣲ‏",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "And you are truly ˹a man˺ of outstanding character",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "你确是具备一种伟大的性格的。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "निस्संदेह तुम एक महान नैतिकता के शिखर पर हो",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Eres de una naturaleza y moral grandiosas",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Et tu es certes, d'une moralité éminente",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "আপনি অবশ্যই মহান চরিত্রের অধিকারী।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E, por certo, és de magnífica moralidade",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Воистину, твой нрав превосходен",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور اخلاق تمہارے بہت (عالی) ہیں",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_068_005",
+      "reference": {
+        "surah_number": 68,
+        "surah_name": "Al-Qalam",
+        "surah_name_ar": "سُوْرَةُ الْقَلَمِ",
+        "surah_name_translation": "The Pen",
+        "ayah_number": 5,
+        "juz": 29,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 2,
+      "translations": {
+        "ar": {
+          "text": "فَسَتُبۡصِرُ وَيُبۡصِرُونَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Soon you and the pagans will see",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "你将看见，他们也将看见，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "अतः शीघ्र ही तुम भी देख लोगे और वे भी देख लेंगे",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Pronto verás, y ellos también lo verán",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Tu verras et ils verront",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "সত্ত্বরই আপনি দেখে নিবেন এবং তারাও দেখে নিবে।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Então, tu enxergarás, e eles enxergarão",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Ты увидишь, и они тоже увидят",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "سو عنقریب تم بھی دیکھ لو گے اور یہ (کافر) بھی دیکھ لیں گے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_068_006",
+      "reference": {
+        "surah_number": 68,
+        "surah_name": "Al-Qalam",
+        "surah_name_ar": "سُوْرَةُ الْقَلَمِ",
+        "surah_name_translation": "The Pen",
+        "ayah_number": 6,
+        "juz": 29,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 2,
+      "translations": {
+        "ar": {
+          "text": "بِأَييِّكُمُ ٱلۡمَفۡتُونُ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "which of you is mad",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "你们究竟谁是害疯病的。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "कि तुममें से कौन विभ्रमित है",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "quién es realmente el insensato",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "qui d'entre vous a perdu la raison",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "কে তোমাদের মধ্যে বিকারগ্রস্ত।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Qual de vós é o alienado",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "кто из вас - бесноватый",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "کہ تم میں سے کون دیوانہ ہے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_068_007",
+      "reference": {
+        "surah_number": 68,
+        "surah_name": "Al-Qalam",
+        "surah_name_ar": "سُوْرَةُ الْقَلَمِ",
+        "surah_name_translation": "The Pen",
+        "ayah_number": 7,
+        "juz": 29,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 11,
+      "translations": {
+        "ar": {
+          "text": "إِنَّ رَبَّكَ هُوَ أَعۡلَمُ بِمَن ضَلَّ عَن سَبِيلِهِۦ وَهُوَ أَعۡلَمُ بِٱلۡمُهۡتَدِينَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Surely your Lord ˹alone˺ knows best who has strayed from His Way and who is ˹rightly˺ guided",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "你的主的确知道谁是叛离他的正道的，他的确知道谁是遵循他的正道的。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "निस्संदेह तुम्हारा रब उसे भली-भाँति जानता है जो उसके मार्ग से भटक गया है, और वही उन लोगों को भी जानता है जो सीधे मार्ग पर हैं",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Tu Señor sabe mejor que nadie quiénes se extravían de Su camino, así como sabe quiénes son los que siguen la guía",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "C'est ton Seigneur qui connaît mieux ceux qui s'égarent de Son chemin, et Il connaît mieux ceux qui suivent la bonne voie",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "আপনার পালনকর্তা সম্যক জানেন কে তাঁর পথ থেকে বিচ্যুত হয়েছে এবং তিনি জানেন যারা সৎপথ প্রাপ্ত।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Por certo, teu Senhor é bem Sabedor de quem se descaminha de Seu caminho, e Ele é bem Sabedor de quem são os guiados",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Твой Господь лучше знает тех, кто сбился с Его пути, и лучше знает тех, кто следует прямым путем",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "تمہارا پروردگار اس کو بھی خوب جانتا ہے جو اس کے رستے سے بھٹک گیا اور ان کو بھی خوب جانتا ہے جو سیدھے راستے پر چل رہے ہیں",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_068_008",
+      "reference": {
+        "surah_number": 68,
+        "surah_name": "Al-Qalam",
+        "surah_name_ar": "سُوْرَةُ الْقَلَمِ",
+        "surah_name_translation": "The Pen",
+        "ayah_number": 8,
+        "juz": 29,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 3,
+      "translations": {
+        "ar": {
+          "text": "فَلَا تُطِعِ ٱلۡمُكَذِّبِينَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "So do not give in to the deniers",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "你不要顺从否认真理的人们，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "अतः तुम झुठलानेवालों को कहना न मानना",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "No obedezcas a los que desmienten el Mensaje",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "N'obéis pas à ceux qui crient au mensonge",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "অতএব, আপনি মিথ্যারোপকারীদের আনুগত্য করবেন না।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Então, não obedeças aos desmentidores",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Посему не повинуйся тем, кто считает истину ложью",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "تو تم جھٹلانے والوں کا کہا نہ ماننا",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_068_009",
+      "reference": {
+        "surah_number": 68,
+        "surah_name": "Al-Qalam",
+        "surah_name_ar": "سُوْرَةُ الْقَلَمِ",
+        "surah_name_translation": "The Pen",
+        "ayah_number": 9,
+        "juz": 29,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 4,
+      "translations": {
+        "ar": {
+          "text": "وَدُّواْ لَوۡ تُدۡهِنُ فَيُدۡهِنُونَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "They wish you would compromise so they would yield ˹to you˺",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "他们希望你柔顺，他们也柔顺。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "वे चाहते है कि तुम ढीले पड़ो, इस कारण वे चिकनी-चुपड़ी बातें करते है",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "[Los idólatras] desearían que fueras condescendiente con ellos [en sus creencias idolátricas], y así ellos también serían condescendientes contigo",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Ils aimeraient bien que tu transiges avec eux afin qu'ils transigent avec toi",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "তারা চায় যদি আপনি নমনীয় হন, তবে তারাও নমনীয় হবে।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Eles almejam que sejas flexível: então, serão flexíveis",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Они хотели бы, чтобы ты был уступчив, и тогда они тоже стали бы уступчивы",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "یہ لوگ چاہتے ہیں کہ تم نرمی اختیار کرو تو یہ بھی نرم ہوجائیں",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_068_010",
+      "reference": {
+        "surah_number": 68,
+        "surah_name": "Al-Qalam",
+        "surah_name_ar": "سُوْرَةُ الْقَلَمِ",
+        "surah_name_translation": "The Pen",
+        "ayah_number": 10,
+        "juz": 29,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 5,
+      "translations": {
+        "ar": {
+          "text": "وَلَا تُطِعۡ كُلَّ حَلَّافࣲ مَّهِينٍ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "And do not obey the despicable, vain oath-taker",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "你不要顺从每个妄誓的、卑贱的、",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "तुम किसी भी ऐसे व्यक्ति की बात न मानना जो बहुत क़समें खानेवाला, हीन है",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "No obedezcas al ser despreciable que jura constantemente [por Dios]",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Et n'obéis à aucun grand jureur, méprisable",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "যে অধিক শপথ করে, যে লাঞ্ছিত, আপনি তার আনুগত্য করবেন না।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E não obedeças a nenhum mísero constante jurador",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Не повинуйся всякому расточителю клятв, презренному",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور کسی ایسے شخص کے کہے میں نہ آجانا جو بہت قسمیں کھانے والا ذلیل اوقات ہے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_068_011",
+      "reference": {
+        "surah_number": 68,
+        "surah_name": "Al-Qalam",
+        "surah_name_ar": "سُوْرَةُ الْقَلَمِ",
+        "surah_name_translation": "The Pen",
+        "ayah_number": 11,
+        "juz": 29,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 3,
+      "translations": {
+        "ar": {
+          "text": "هَمَّازࣲ مَّشَّآءِۭ بِنَمِيمࣲ‏",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "slanderer, gossip-monger",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "说谎的、进馋的、",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "कचोके लगाता, चुग़लियाँ खाता फिरता हैं",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "al difamador que siembra la discordia",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "grand diffamateur, grand colporteur de médisance",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "যে পশ্চাতে নিন্দা করে একের কথা অপরের নিকট লাগিয়ে ফিরে।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Incessante difamador, grande semeador de maledicência",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "хулителю, разносящему сплетни",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "طعن آمیز اشارتیں کرنے والا چغلیاں لئے پھرنے والا",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_068_012",
+      "reference": {
+        "surah_number": 68,
+        "surah_name": "Al-Qalam",
+        "surah_name_ar": "سُوْرَةُ الْقَلَمِ",
+        "surah_name_translation": "The Pen",
+        "ayah_number": 12,
+        "juz": 29,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 4,
+      "translations": {
+        "ar": {
+          "text": "مَّنَّاعࣲ لِّلۡخَيۡرِ مُعۡتَدٍ أَثِيمٍ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "withholder of good, transgressor, evildoer",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "吝啬的、过份的、犯罪的、",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "भलाई से रोकता है, सीमा का उल्लंघन करनेवाला, हक़ मारनेवाला है",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "a quien se niega a hacer el bien, al transgresor, al pecador",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "grand empêcheur du bien, transgresseur, grand pécheur",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "যে ভাল কাজে বাধা দেয়, সে সীমালংঘন করে, সে পাপিষ্ঠ,",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Constante impedidor do bem, agressor, pecador",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "скупящемуся на добро, преступнику, грешнику",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "مال میں بخل کرنے والا حد سے بڑھا ہوا بدکار",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_068_013",
+      "reference": {
+        "surah_number": 68,
+        "surah_name": "Al-Qalam",
+        "surah_name_ar": "سُوْرَةُ الْقَلَمِ",
+        "surah_name_translation": "The Pen",
+        "ayah_number": 13,
+        "juz": 29,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 4,
+      "translations": {
+        "ar": {
+          "text": "عُتُلِّۭ بَعۡدَ ذَٰلِكَ زَنِيمٍ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "brute, and—on top of all that—an illegitimate child",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "粗鄙而且是私生子的人。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "क्रूर है फिर अधम भी।",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "al arrogante y además falso simulador",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "au cœur dur, et en plus de cela bâtard",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "কঠোর স্বভাব, তদুপরি কুখ্যাত;",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Grosseiro e, além disso, filho espúrio",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "жестокому, к тому же самозванцу",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "سخت خو اور اس کے علاوہ بدذات ہے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_068_014",
+      "reference": {
+        "surah_number": 68,
+        "surah_name": "Al-Qalam",
+        "surah_name_ar": "سُوْرَةُ الْقَلَمِ",
+        "surah_name_translation": "The Pen",
+        "ayah_number": 14,
+        "juz": 29,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 5,
+      "translations": {
+        "ar": {
+          "text": "أَن كَانَ ذَا مَالࣲ وَبَنِينَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Now, ˹simply˺ because he has been blessed with ˹abundant˺ wealth and children",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "那是因为他是有财产和子嗣的。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "इस कारण कि वह धन और बेटोंवाला है",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "quien solo porque tiene riqueza e hijos",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Même s'il est doté de richesses et (de nombreux) enfants",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "এ কারণে যে, সে ধন-সম্পদ ও সন্তান সন্ততির অধিকারী।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Por ser ele possuidor de riquezas e filhos",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "даже если он будет богат и будет иметь сыновей",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اس سبب سے کہ مال اور بیٹے رکھتا ہے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_068_015",
+      "reference": {
+        "surah_number": 68,
+        "surah_name": "Al-Qalam",
+        "surah_name_ar": "سُوْرَةُ الْقَلَمِ",
+        "surah_name_translation": "The Pen",
+        "ayah_number": 15,
+        "juz": 29,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 7,
+      "translations": {
+        "ar": {
+          "text": "إِذَا تُتۡلَىٰ عَلَيۡهِ ءَايَٰتُنَا قَالَ أَسَٰطِيرُ ٱلۡأَوَّلِينَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "whenever Our revelations are recited to him, he says, “Ancient fables!”",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "有人对他宣读我的迹象时，他就说：这是古人的故事。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "जब उसे हमारी आयतें सुनाई जाती है तो कहता है, \"ये तो पहले लोगों की कहानियाँ हैं",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "rechaza Mis versículos cuando se le recitan, diciendo: \"Son fábulas de los ancestros",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Quand Nos versets lui sont récités, il dit: «Des contes d'anciens»",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "তার কাছে আমার আয়াত পাঠ করা হলে সে বলে; সেকালের উপকথা।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Quando se recitam, para ele, Nossos versículos, diz: \"São fábulas dos antepassados",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Когда ему читают Наши аяты, он говорит: «Это - легенды древних народов!»",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "جب اس کو ہماری آیتیں پڑھ کر سنائی جاتی ہیں تو کہتا ہے کہ یہ اگلے لوگوں کے افسانے ہیں",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_068_016",
+      "reference": {
+        "surah_number": 68,
+        "surah_name": "Al-Qalam",
+        "surah_name_ar": "سُوْرَةُ الْقَلَمِ",
+        "surah_name_translation": "The Pen",
+        "ayah_number": 16,
+        "juz": 29,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 3,
+      "translations": {
+        "ar": {
+          "text": "سَنَسِمُهُۥ عَلَى ٱلۡخُرۡطُومِ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "We will soon mark his snout",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "我将在他的鼻子上打上烙印。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "शीघ्र ही हम उसकी सूँड पर दाग़ लगाएँगे",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "[Como castigo] le marcaré su nariz",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Nous le marquerons sur le museau [nez]",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "আমি তার নাসিকা দাগিয়ে দিব।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Marcá-lo-emos, no focinho",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Мы заклеймим его хобот (нос)",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "ہم عنقریب اس کی ناک پر داغ لگائیں گے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_068_017",
+      "reference": {
+        "surah_number": 68,
+        "surah_name": "Al-Qalam",
+        "surah_name_ar": "سُوْرَةُ الْقَلَمِ",
+        "surah_name_translation": "The Pen",
+        "ayah_number": 17,
+        "juz": 29,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 10,
+      "translations": {
+        "ar": {
+          "text": "إِنَّا بَلَوۡنَٰهُمۡ كَمَا بَلَوۡنَآ أَصۡحَٰبَ ٱلۡجَنَّةِ إِذۡ أَقۡسَمُواْ لَيَصۡرِمُنَّهَا مُصۡبِحِينَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Indeed, We have tested those ˹Meccans˺ as We tested the owners of the garden—when they swore they would surely harvest ˹all˺ its fruit in the early morning",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "我确已考验他们，犹如考验园圃的主人们一样。当时，他们曾盟誓，他们必定在早晨收获园圃中的果实，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "हमने उन्हें परीक्षा में डाला है जैसे बाग़वालों को परीक्षा में डाला था, जबकि उन्होंने क़सम खाई कि वे प्रातःकाल अवश्य उस (बाग़) के फल तोड़ लेंगे",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "[A los que te desmienten] los he puesto a prueba [con la prosperidad], como probé a los dueños del huerto, cuando juraron recoger sus frutos por la mañana",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Nous les avons éprouvés comme Nous avons éprouvé les propriétaires du verger qui avaient juré d'en faire la récolte au matin",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "আমি তাদেরকে পরীক্ষা করেছি, যেমন পরীক্ষা করেছি উদ্যানওয়ালাদের, যখন তারা শপথ করেছিল যে, সকালে বাগানের ফল আহরণ করবে,",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Por certo, pusemo-los à prova como puséramos à prova os donos do jardim, quando juraram que colheriam seus frutos, ao amanhecer",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Воистину, мы подвергли их испытанию, подобно тому, как мы подвергли испытанию владельцев сада, когда они поклялись, что утром они непременно сорвут их (плоды)",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "ہم نے ان لوگوں کی اسی طرح آزمائش کی ہے جس طرح باغ والوں کی آزمائش کی تھی۔ جب انہوں نے قسمیں کھا کھا کر کہا کہ صبح ہوتے ہوتے ہم اس کا میوہ توڑ لیں گے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_068_018",
+      "reference": {
+        "surah_number": 68,
+        "surah_name": "Al-Qalam",
+        "surah_name_ar": "سُوْرَةُ الْقَلَمِ",
+        "surah_name_translation": "The Pen",
+        "ayah_number": 18,
+        "juz": 29,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 2,
+      "translations": {
+        "ar": {
+          "text": "وَلَا يَسۡتَثۡنُونَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "leaving no thought for Allah’s Will",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "并不留一部分给贫民。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "और वे इसमें छूट की कोई गुंजाइश नहीं रख रहे थे",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "y no dejar nada a los pobres",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "sans dire: «Si Allah le veut»",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "ইনশাআল্লাহ না বলে।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E não fizeram a ressalva: \"Se Allah quiser",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "но не сделали оговорки (не сказали: «Если того пожелает Аллах»)",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور انشاء الله نہ کہا",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_068_019",
+      "reference": {
+        "surah_number": 68,
+        "surah_name": "Al-Qalam",
+        "surah_name_ar": "سُوْرَةُ الْقَلَمِ",
+        "surah_name_translation": "The Pen",
+        "ayah_number": 19,
+        "juz": 29,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 7,
+      "translations": {
+        "ar": {
+          "text": "فَطَافَ عَلَيۡهَا طَآئِفࣱ مِّن رَّبِّكَ وَهُمۡ نَآئِمُونَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Then it was struck by a torment from your Lord while they slept",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "当他们正在睡觉的时候，从你的主发出的灾难降临那个园圃，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "अभी वे सो ही रहे थे कि तुम्हारे रब की ओर से गर्दिश का एक झोंका आया",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Pero un castigo enviado por tu Señor azotó el huerto mientras dormían",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Une calamité de la part de ton Seigneur tomba dessus pendant qu'ils dormaient",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "অতঃপর আপনার পালনকর্তার পক্ষ থেকে বাগানে এক বিপদ এসে পতিত হলো। যখন তারা নিদ্রিত ছিল।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Então, um flagelo de teu Senhor circulou nele, enquanto estavam dormindo",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Ночью же, пока они спали, их сад поразила кара от твоего Господа",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "سو وہ ابھی سو ہی رہے تھے کہ تمہارے پروردگار کی طرف سے (راتوں رات) اس پر ایک آفت پھر گئی",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_068_020",
+      "reference": {
+        "surah_number": 68,
+        "surah_name": "Al-Qalam",
+        "surah_name_ar": "سُوْرَةُ الْقَلَمِ",
+        "surah_name_translation": "The Pen",
+        "ayah_number": 20,
+        "juz": 29,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 2,
+      "translations": {
+        "ar": {
+          "text": "فَأَصۡبَحَتۡ كَٱلصَّرِيمِ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "so it was reduced to ashes",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "一旦之间变成焦土一样。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "और वह ऐसा हो गया जैसे कटी हुई फ़सल",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "dejándolo devastado",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "et le matin, ce fut comme si tout avait été rasé",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "ফলে সকাল পর্যন্ত হয়ে গেল ছিন্নবিচ্ছিন্ন তৃণসম।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E, de manhã, ficou como a negra noite",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "К утру сад был подобен мрачной ночи (был погублен)",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "تو وہ ایسا ہوگیا جیسے کٹی ہوئی کھیتی",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_068_021",
+      "reference": {
+        "surah_number": 68,
+        "surah_name": "Al-Qalam",
+        "surah_name_ar": "سُوْرَةُ الْقَلَمِ",
+        "surah_name_translation": "The Pen",
+        "ayah_number": 21,
+        "juz": 29,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 2,
+      "translations": {
+        "ar": {
+          "text": "فَتَنَادَوۡاْ مُصۡبِحِينَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Then by daybreak they called out to each other",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "他们曾在早晨彼此相呼：",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "फिर प्रातःकाल होते ही उन्होंने एक-दूसरे को आवाज़ दी",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Por la mañana, se despertaron unos a otros",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Le [lendemain] matin, ils s'appelèrent les uns les autres",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "সকালে তারা একে অপরকে ডেকে বলল,",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E, ao amanhecer, chamaram uns aos outros",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "А на рассвете они стали звать друг друга",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "جب صبح ہوئی تو وہ لوگ ایک دوسرے کو پکارنے لگے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_068_022",
+      "reference": {
+        "surah_number": 68,
+        "surah_name": "Al-Qalam",
+        "surah_name_ar": "سُوْرَةُ الْقَلَمِ",
+        "surah_name_translation": "The Pen",
+        "ayah_number": 22,
+        "juz": 29,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 7,
+      "translations": {
+        "ar": {
+          "text": "أَنِ ٱغۡدُواْ عَلَىٰ حَرۡثِكُمۡ إِن كُنتُمۡ صَٰرِمِينَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "˹saying,˺ “Go early to your harvest, if you want to pick ˹all˺ the fruit.”",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "你们当在早晨到园里去，如果你们要想收获。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "कि \"यदि तुम्हें फल तोड़ना है तो अपनी खेती पर सवेरे ही पहुँचो।",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Dijeron: \"Vayamos temprano a nuestro campo si queremos recoger la cosecha",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "«Partez tôt à votre champ si vous voulez le récolter»",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "তোমরা যদি ফল আহরণ করতে চাও, তবে সকাল সকাল ক্ষেতে চল।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Ide, cedo, a vosso campo lavrado, se sois colhedores",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "«Ступайте на вашу пашню, если вы хотите сорвать плоды!»",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اگر تم کو کاٹنا ہے تو اپنی کھیتی پر سویرے ہی جا پہنچو",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_068_023",
+      "reference": {
+        "surah_number": 68,
+        "surah_name": "Al-Qalam",
+        "surah_name_ar": "سُوْرَةُ الْقَلَمِ",
+        "surah_name_translation": "The Pen",
+        "ayah_number": 23,
+        "juz": 29,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 3,
+      "translations": {
+        "ar": {
+          "text": "فَٱنطَلَقُواْ وَهُمۡ يَتَخَٰفَتُونَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "So they went off, whispering to one another",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "他们走了，途中悄悄地商议说：",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "अतएव वे चुपके-चुपके बातें करते हुए चल पड़े",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Y se pusieron en camino diciéndose unos a otros en voz baja",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Ils allèrent donc, tout en parlant entre eux à voix basse",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "অতঃপর তারা চলল ফিসফিস করে কথা বলতে বলতে,",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Então, foram adiante, enquanto murmuravam",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Они отправились туда, разговаривая шепотом",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "تو وہ چل پڑے اور آپس میں چپکے چپکے کہتے جاتے تھے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_068_024",
+      "reference": {
+        "surah_number": 68,
+        "surah_name": "Al-Qalam",
+        "surah_name_ar": "سُوْرَةُ الْقَلَمِ",
+        "surah_name_translation": "The Pen",
+        "ayah_number": 24,
+        "juz": 29,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 6,
+      "translations": {
+        "ar": {
+          "text": "أَن لَّا يَدۡخُلَنَّهَا ٱلۡيَوۡمَ عَلَيۡكُم مِّسۡكِينࣱ‏",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "“Do not let any poor person enter your garden today.”",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "今天绝不要让一个贫民走进园圃。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "कि आज वहाँ कोई मुहताज तुम्हारे पास न पहुँचने पाए",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Hoy no dejaremos entrar a ningún pobre",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "«Ne laissez aucun pauvre y entrer aujourd'hui»",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "অদ্য যেন কোন মিসকীন ব্যক্তি তোমাদের কাছে বাগানে প্রবেশ করতে না পারে।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Que nenhum necessitado entre a vós, hoje, lá",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "«Не впускайте сегодня к себе бедняка»",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "آج یہاں تمہارے پاس کوئی فقیر نہ آنے پائے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_068_025",
+      "reference": {
+        "surah_number": 68,
+        "surah_name": "Al-Qalam",
+        "surah_name_ar": "سُوْرَةُ الْقَلَمِ",
+        "surah_name_translation": "The Pen",
+        "ayah_number": 25,
+        "juz": 29,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 4,
+      "translations": {
+        "ar": {
+          "text": "وَغَدَوۡاْ عَلَىٰ حَرۡدࣲ قَٰدِرِينَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "And they proceeded early, totally fixated on their purpose",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "他们早晨起来以为自己是能遏制的。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "और वे आज तेज़ी के साथ चले मानो (मुहताजों को) रोक देने की उन्हें सामर्थ्य प्राप्त है",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Madrugaron convencidos de que podrían privar a los pobres de su derecho",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Ils partirent de bonne heure décidés à user d'avarice [envers les pauvres], convaincus que cela était en leur pouvoir",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "তারা সকালে লাফিয়ে লাফিয়ে সজোরে রওয়ানা হল।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E foram cedo, com má intenção, poderosos",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Они шли с твердым намерением и полагали, что у них достаточно сил",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور کوشش کے ساتھ سویرے ہی جا پہنچے (گویا کھیتی پر) قادر ہیں",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_068_026",
+      "reference": {
+        "surah_number": 68,
+        "surah_name": "Al-Qalam",
+        "surah_name_ar": "سُوْرَةُ الْقَلَمِ",
+        "surah_name_translation": "The Pen",
+        "ayah_number": 26,
+        "juz": 29,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 5,
+      "translations": {
+        "ar": {
+          "text": "فَلَمَّا رَأَوۡهَا قَالُوٓاْ إِنَّا لَضَآلُّونَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "But when they saw it ˹devastated˺, they cried, “We must have lost ˹our˺ way",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "当他们看见园圃的时候，他们说：我们碓是迷误的，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "किन्तु जब उन्होंने उसको देखा, कहने लगे, \"निश्चय ही हम भटक गए है।",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Pero cuando vieron [el huerto devastado] dijeron: \"Seguramente nos hemos equivocado de camino",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Puis, quand ils le virent [le jardin], ils dirent: «vraiment, nous avons perdu notre chemin",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "অতঃপর যখন তারা বাগান দেখল, তখন বললঃ আমরা তো পথ ভূলে গেছি।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E, quando o viram, disseram: \"Por certo, estamos descaminhados",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Когда же они увидели его, они сказали: «Мы сбились с пути",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "جب باغ کو دیکھا تو (ویران) کہنے لگے کہ ہم رستہ بھول گئے ہیں",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_068_027",
+      "reference": {
+        "surah_number": 68,
+        "surah_name": "Al-Qalam",
+        "surah_name_ar": "سُوْرَةُ الْقَلَمِ",
+        "surah_name_translation": "The Pen",
+        "ayah_number": 27,
+        "juz": 29,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 3,
+      "translations": {
+        "ar": {
+          "text": "بَلۡ نَحۡنُ مَحۡرُومُونَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "In fact, we have been deprived ˹of our livelihood˺.”",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "不然，我们是被剥夺的！",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "नहीं, बल्कि हम वंचित होकर रह गए।",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "[Pero al darse cuenta de que sí era su huerto, dijeron:] \"Estamos arruinados",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Ou plutôt nous sommes frustrés»",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "বরং আমরা তো কপালপোড়া,",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Ou, aliás, desprovidos",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "О нет! Мы лишились этого»",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "نہیں بلکہ ہم (برگشتہ نصیب) بےنصیب ہیں",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_068_028",
+      "reference": {
+        "surah_number": 68,
+        "surah_name": "Al-Qalam",
+        "surah_name_ar": "سُوْرَةُ الْقَلَمِ",
+        "surah_name_translation": "The Pen",
+        "ayah_number": 28,
+        "juz": 29,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 7,
+      "translations": {
+        "ar": {
+          "text": "قَالَ أَوۡسَطُهُمۡ أَلَمۡ أَقُل لَّكُمۡ لَوۡلَا تُسَبِّحُونَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "The most sensible of them said, “Did I not urge you to say, ‘Allah willing.’?”",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "他们中最优秀的人说：难道我没有对你们说吗？你们怎么不赞颂真主呢？",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "उनमें जो सबसे अच्छा था कहने लगा, \"क्या मैंने तुमसे कहा नहीं था? तुम तसबीह क्यों नहीं करते",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Entonces, el más sensato de ellos dijo: \"¿No les había dicho que recordaran",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Le plus juste d'entre eux dit: «Ne vous avais-je pas dit: Si seulement vous avez rendu gloire à Allah!»",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "তাদের উত্তম ব্যক্তি বললঃ আমি কি তোমাদেরকে বলিনি? এখনও তোমরা আল্লাহ তা’আলার পবিত্রতা বর্ণনা করছো না কেন?",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "O mais moderado deles disse: \"Não vos dissera eu: 'Que glorifiqueis a Allah",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Лучший из них сказал: «Разве я не говорил вам, что надо было прославить Аллаха?»",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "ایک جو اُن میں فرزانہ تھا بولا کہ کیا میں نے تم سے نہیں کہا تھا کہ تم تسبیح کیوں نہیں کرتے؟",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_068_029",
+      "reference": {
+        "surah_number": 68,
+        "surah_name": "Al-Qalam",
+        "surah_name_ar": "سُوْرَةُ الْقَلَمِ",
+        "surah_name_translation": "The Pen",
+        "ayah_number": 29,
+        "juz": 29,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 6,
+      "translations": {
+        "ar": {
+          "text": "قَالُواْ سُبۡحَٰنَ رَبِّنَآ إِنَّا كُنَّا ظَٰلِمِينَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "They replied, “Glory be to our Lord! We have truly been wrongdoers.”",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "他们说：赞颂我们的主超绝万物！我们确是不义的。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "वे पुकार उठे, \"महान और उच्च है हमारा रब! निश्चय ही हम ज़ालिम थे।",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Dijeron: \"Glorificado sea nuestro Señor, fuimos injustos",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Ils dirent: «Gloire à notre Seigneur! Oui, nous avons été des injustes»",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "তারা বললঃ আমরা আমাদের পালনকর্তার পবিত্রতা ঘোষণা করছি, নিশ্চিতই আমরা সীমালংঘনকারী ছিলাম।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Disseram: \"Glorificado seja nosso Senhor! Por certo, fomos injustos",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Они сказали: «Пречист наш Господь! Мы были несправедливы»",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "(تب) وہ کہنے لگے کہ ہمارا پروردگار پاک ہے بےشک ہم ہی قصوروار تھے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_068_030",
+      "reference": {
+        "surah_number": 68,
+        "surah_name": "Al-Qalam",
+        "surah_name_ar": "سُوْرَةُ الْقَلَمِ",
+        "surah_name_translation": "The Pen",
+        "ayah_number": 30,
+        "juz": 29,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 5,
+      "translations": {
+        "ar": {
+          "text": "فَأَقۡبَلَ بَعۡضُهُمۡ عَلَىٰ بَعۡضࣲ يَتَلَٰوَمُونَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Then they turned on each other, throwing blame",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "於是他们大家走向前来，互相责备起来。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "फिर वे परस्पर एक-दूसरे की ओर रुख़ करके लगे एक-दूसरे को मलामत करने।",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Y comenzaron a recriminarse unos a otros",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Puis ils s'adressèrent les uns aux autres, se faisant des reproches",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "অতঃপর তারা একে অপরকে ভৎর্সনা করতে লাগল।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Então, dirigiram-se uns aos outros, lamentando-se",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Они стали попрекать друг друга",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "پھر لگے ایک دوسرے کو رو در رو ملامت کرنے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_068_031",
+      "reference": {
+        "surah_number": 68,
+        "surah_name": "Al-Qalam",
+        "surah_name_ar": "سُوْرَةُ الْقَلَمِ",
+        "surah_name_translation": "The Pen",
+        "ayah_number": 31,
+        "juz": 29,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 5,
+      "translations": {
+        "ar": {
+          "text": "قَالُواْ يَٰوَيۡلَنَآ إِنَّا كُنَّا طَٰغِينَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "They said, “Woe to us! We have certainly been transgressors",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "他们说：伤哉我们！我们原来确是放荡者。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "उन्होंने कहा, \"अफ़सोस हम पर! निश्चय ही हम सरकश थे।",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Dijeron: \"¡Ay de nosotros! Nos comportamos con mucha arrogancia",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Ils dirent: «Malheur à nous! Nous avons été des rebelles",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "তারা বললঃ হায়! দুর্ভোগ আমাদের আমরা ছিলাম সীমাতিক্রমকারী।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Disseram: \"Ai de nós! Por certo, fomos transgressores",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "и сказали: «Горе нам! Мы преступили границы дозволенного",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "کہنے لگے ہائے شامت ہم ہی حد سے بڑھ گئے تھے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_068_032",
+      "reference": {
+        "surah_number": 68,
+        "surah_name": "Al-Qalam",
+        "surah_name_ar": "سُوْرَةُ الْقَلَمِ",
+        "surah_name_translation": "The Pen",
+        "ayah_number": 32,
+        "juz": 29,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 11,
+      "translations": {
+        "ar": {
+          "text": "عَسَىٰ رَبُّنَآ أَن يُبۡدِلَنَا خَيۡرࣰ ا مِّنۡهَآ إِنَّآ إِلَىٰ رَبِّنَا رَٰغِبُونَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "We trust our Lord will give us a better garden than this, ˹for˺ we are indeed turning to our Lord with hope.”",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "或许我们的主，以一个比这还好的园圃，补偿我们，我们确是恳求我们的主的。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "आशा है कि हमारा रब बदले में हमें इससे अच्छा प्रदान करे। हम अपने रब की ओर उन्मुख है।",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Puede que nuestro Señor nos conceda algo mejor, regresemos a nuestro Señor con esperanza",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Nous souhaitons que notre Seigneur nous le remplace par quelque chose de meilleur. Nous désirons nous rapprocher de notre Seigneur»",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "সম্ভবতঃ আমাদের পালনকর্তা পরিবর্তে এর চাইতে উত্তম বাগান আমাদেরকে দিবেন। আমরা আমাদের পালনকর্তার কাছে আশাবাদী।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Quiçá, nosso Senhor no-lo troque por um melhor que este. Por certo, a nosso Senhor estamos rogando",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Быть может, Господь наш даст нам взамен нечто лучшее. Воистину, мы обращаемся к нашему Господу»",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "امید ہے کہ ہمارا پروردگار اس کے بدلے میں ہمیں اس سے بہتر باغ عنایت کرے ہم اپنے پروردگار کی طرف سے رجوع لاتے ہیں",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_068_033",
+      "reference": {
+        "surah_number": 68,
+        "surah_name": "Al-Qalam",
+        "surah_name_ar": "سُوْرَةُ الْقَلَمِ",
+        "surah_name_translation": "The Pen",
+        "ayah_number": 33,
+        "juz": 29,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 8,
+      "translations": {
+        "ar": {
+          "text": "كَذَٰلِكَ ٱلۡعَذَابُۖ وَلَعَذَابُ ٱلۡأٓخِرَةِ أَكۡبَرُۚ لَوۡ كَانُواْ يَعۡلَمُونَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "That is the ˹way of Our˺ punishment ˹in this world˺. But the punishment of the Hereafter is certainly far worse, if only they knew",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "刑罚就是那样的。后世的刑罚确是更重大的，假如他们知道。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "यातना ऐसी ही होती है, और आख़िरत की यातना तो निश्चय ही इससे भी बड़ी है, काश वे जानते",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Ese fue su castigo, pero el castigo de la otra vida será aún mayor. ¡Si lo supieran",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Tel fut le châtiment; et le châtiment de l'au-delà est plus grand encore, si seulement ils savaient",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "শাস্তি এভাবেই আসে এবং পরকালের শাস্তি আরও গুরুতর; যদি তারা জানত!",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Assim é o castigo. E, em verdade, o castigo da Derradeira Vida é maior. Se soubessem",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Такими были мучения, а мучения в Последней жизни будут еще ужаснее! Если бы только они знали",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "(دیکھو) عذاب یوں ہوتا ہے۔ اور آخرت کا عذاب اس سے کہیں بڑھ کر ہے۔ کاش! یہ لوگ جانتے ہوتے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_068_034",
+      "reference": {
+        "surah_number": 68,
+        "surah_name": "Al-Qalam",
+        "surah_name_ar": "سُوْرَةُ الْقَلَمِ",
+        "surah_name_translation": "The Pen",
+        "ayah_number": 34,
+        "juz": 29,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 6,
+      "translations": {
+        "ar": {
+          "text": "إِنَّ لِلۡمُتَّقِينَ عِندَ رَبِّهِمۡ جَنَّٰتِ ٱلنَّعِيمِ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Indeed, the righteous will have the Gardens of Bliss with their Lord",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "敬畏的人们，在他们的主那里，必将享受恩泽的乐园。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "निश्चय ही डर रखनेवालों के लिए उनके रब के यहाँ नेमत भरी जन्नतें है",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "El Señor agraciará a los piadosos con los Jardines de las Delicias",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Les pieux auront auprès de leur Seigneur les Jardins du délice",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "মোত্তাকীদের জন্যে তাদের পালনকর্তার কাছে রয়েছে নেয়ামতের জান্নাত।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Por certo, haverá para os piedosos, junto de seu Senhor, os Jardins da Delícia",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Воистину, для богобоязненных у их Господа приготовлены Сады блаженства",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "پرہیزگاروں کے لئے ان کے پروردگار کے ہاں نعمت کے باغ ہیں",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_068_035",
+      "reference": {
+        "surah_number": 68,
+        "surah_name": "Al-Qalam",
+        "surah_name_ar": "سُوْرَةُ الْقَلَمِ",
+        "surah_name_translation": "The Pen",
+        "ayah_number": 35,
+        "juz": 29,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 3,
+      "translations": {
+        "ar": {
+          "text": "أَفَنَجۡعَلُ ٱلۡمُسۡلِمِينَ كَٱلۡمُجۡرِمِينَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Should We then treat those who have submitted like the wicked",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "难道我使归顺的人像犯罪的人一样吗？",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "तो क्या हम मुस्लिमों (आज्ञाकारियों) को अपराधियों जैसा कर देंगे",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "¿Acaso iba a tratar por igual a quienes se someten a Dios y a los pecadores",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Traiterons-Nous les soumis [à Allah] à la manière des criminels",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "আমি কি আজ্ঞাবহদেরকে অপরাধীদের ন্যায় গণ্য করব?",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Então, será que consideramos os muçulmanos como os criminosos",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Неужели Мы мусульман уравняем с грешниками",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "کیا ہم فرمانبرداروں کو نافرمانوں کی طرف (نعمتوں سے) محروم کردیں گے؟",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_068_036",
+      "reference": {
+        "surah_number": 68,
+        "surah_name": "Al-Qalam",
+        "surah_name_ar": "سُوْرَةُ الْقَلَمِ",
+        "surah_name_translation": "The Pen",
+        "ayah_number": 36,
+        "juz": 29,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 4,
+      "translations": {
+        "ar": {
+          "text": "مَا لَكُمۡ كَيۡفَ تَحۡكُمُونَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "What is the matter with you? How do you judge",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "你们有甚么理由？你们怎么这样的判断呢！",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "तुम्हें क्या हो गया है, कैसा फ़ैसला करते हो",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "¿Qué les pasa? ¿Cómo juzgan así",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Qu'avez-vous? Comment jugez-vous",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "তোমাদের কি হল ? তোমরা কেমন সিদ্ধান্ত দিচ্ছ?",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Que há convosco? Como julgais",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Что с вами? Как вы судите",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "تمہیں کیا ہوگیا ہے کیسی تجویزیں کرتے ہو؟",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_068_037",
+      "reference": {
+        "surah_number": 68,
+        "surah_name": "Al-Qalam",
+        "surah_name_ar": "سُوْرَةُ الْقَلَمِ",
+        "surah_name_translation": "The Pen",
+        "ayah_number": 37,
+        "juz": 29,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 5,
+      "translations": {
+        "ar": {
+          "text": "أَمۡ لَكُمۡ كِتَٰبࣱ فِيهِ تَدۡرُسُونَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Or do you have a scripture, in which you read",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "难道有一本可供你们诵习的天经，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "क्या तुम्हारे पास कोई किताब है जिसमें तुम पढ़ते हो",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "¿Acaso tienen un libro [revelado] al que consultan",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Ou bien avez-vous un Livre dans lequel vous apprenez",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "তোমাদের কি কোন কিতাব আছে, যা তোমরা পাঠ কর।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Ou tendes um livro, em que ledes",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Или у вас есть Писание, из которого вы узнали",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "کیا تمہارے پاس کوئی کتاب ہے جس میں (یہ) پڑھتے ہو",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_068_038",
+      "reference": {
+        "surah_number": 68,
+        "surah_name": "Al-Qalam",
+        "surah_name_ar": "سُوْرَةُ الْقَلَمِ",
+        "surah_name_translation": "The Pen",
+        "ayah_number": 38,
+        "juz": 29,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 5,
+      "translations": {
+        "ar": {
+          "text": "إِنَّ لَكُمۡ فِيهِ لَمَا تَخَيَّرُونَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "that you will have whatever you choose",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "在那本天经里你们确有自己所选择的。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "कि उसमें तुम्हारे लिए वह कुछ है जो तुम पसन्द करो",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "en el que eligen lo que les conviene",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "qu'en vérité vous obtiendrez tout ce que vous désirez",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "তাতে তোমরা যা পছন্দ কর, তাই পাও?",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Que tereis o que escolherdes",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "что там у вас будет все, что вы выберете",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "کہ جو چیز تم پسند کرو گے وہ تم کو ضرور ملے گی",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_068_039",
+      "reference": {
+        "surah_number": 68,
+        "surah_name": "Al-Qalam",
+        "surah_name_ar": "سُوْرَةُ الْقَلَمِ",
+        "surah_name_translation": "The Pen",
+        "ayah_number": 39,
+        "juz": 29,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 12,
+      "translations": {
+        "ar": {
+          "text": "أَمۡ لَكُمۡ أَيۡمَٰنٌ عَلَيۡنَا بَٰلِغَةٌ إِلَىٰ يَوۡمِ ٱلۡقِيَٰمَةِ إِنَّ لَكُمۡ لَمَا تَحۡكُمُونَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Or do you have oaths binding on Us until the Day of Judgment that you will have whatever you decide",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "难道我曾与你们缔结过复活日才满期的、坚定的盟约，因而你们确有你们所判断的？",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "या तुमने हमसे क़समें ले रखी है जो क़ियामत के दिन तक बाक़ी रहनेवाली है कि तुम्हारे लिए वही कुछ है जो तुम फ़ैसला करो",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "¿O creen tener Conmigo un pacto hasta el Día de la Resurrección que Me obligue a concederles lo que quieran",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Ou bien est-ce que vous avez obtenu de Nous des serments valables jusqu'au Jour de la Résurrection, Nous engageant à vous donner ce que vous décidez",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "না তোমরা আমার কাছ থেকেকেয়ামত পর্যন্ত বলবৎ কোন শপথ নিয়েছ যে, তোমরা তাই পাবে যা তোমরা সিদ্ধান্ত করবে?",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Ou tendes, de Nós, terminantes juramentos, até o Dia da Ressurreição, de que tereis o que julgardes",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Или у вас есть Наши клятвы, которые сохранятся до Дня воскресения, о том, что у вас будет все, что вы присудите",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "یا تم نے ہم سے قسمیں لے رکھی ہیں جو قیامت کے دن تک چلی جائیں گی کہ جس شے کا تم حکم کرو گے وہ تمہارے لئے حاضر ہوگی",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_068_040",
+      "reference": {
+        "surah_number": 68,
+        "surah_name": "Al-Qalam",
+        "surah_name_ar": "سُوْرَةُ الْقَلَمِ",
+        "surah_name_translation": "The Pen",
+        "ayah_number": 40,
+        "juz": 29,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 4,
+      "translations": {
+        "ar": {
+          "text": "سَلۡهُمۡ أَيُّهُم بِذَٰلِكَ زَعِيمٌ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Ask them ˹O Prophet˺ which of them can guarantee all that",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "你问他们，他们中有谁能保证那件事呢？",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "उनसे पूछो, \"उनमें से कौन इसकी ज़मानत लेता है",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Pregúntales: \"¿Quién es el garante de ese pacto",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Demande-leur qui d'entre eux en est garant",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "আপনি তাদেরকে জিজ্ঞাসা করুন তাদের কে এ বিষয়ে দায়িত্বশীল?",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Pergunta-lhes: \"Qual deles é fiador disso",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Спроси их, кто из них поручается за это",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "ان سے پوچھو کہ ان میں سے اس کا کون ذمہ لیتا ہے؟",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_068_041",
+      "reference": {
+        "surah_number": 68,
+        "surah_name": "Al-Qalam",
+        "surah_name_ar": "سُوْرَةُ الْقَلَمِ",
+        "surah_name_translation": "The Pen",
+        "ayah_number": 41,
+        "juz": 29,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 8,
+      "translations": {
+        "ar": {
+          "text": "أَمۡ لَهُمۡ شُرَكَآءُ فَلۡيَأۡتُواْ بِشُرَكَآئِهِمۡ إِن كَانُواْ صَٰدِقِينَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Or do they have associate-gods ˹supporting this claim˺? Then let them bring forth their associate-gods, if what they say is true",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "难道他们有许多配主吗？教他们把那些配主召唤来，如果 他们是诚实的人。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "या उनके ठहराए हुए कुछ साझीदार है? फिर तो यह चाहिए कि वे अपने साझीदारों को ले आएँ, यदि वे सच्चे है",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "¿Acaso tienen ídolos [que se lo garantizan]? ¡Traigan a sus ídolos, si es verdad lo que dicen",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Ou encore, est-ce qu'ils ont des associés? Eh bien, qu'ils fassent venir leurs associés s'ils sont véridiques",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "না তাদের কোন শরীক উপাস্য আছে? থাকলে তাদের শরীক উপাস্যদেরকে উপস্থিত করুক যদি তারা সত্যবাদী হয়।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Ou têm eles parceiros nisso? Então, que façam vir seus parceiros, se são verídicos",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Или у них есть сотоварищи? Пусть же они приведут своих сотоварищей, если они говорят правду",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "کیا (اس قول میں) ان کے اور بھی شریک ہیں؟ اگر یہ سچے ہیں تو اپنے شریکوں کو لا سامنے کریں",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_068_042",
+      "reference": {
+        "surah_number": 68,
+        "surah_name": "Al-Qalam",
+        "surah_name_ar": "سُوْرَةُ الْقَلَمِ",
+        "surah_name_translation": "The Pen",
+        "ayah_number": 42,
+        "juz": 29,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 9,
+      "translations": {
+        "ar": {
+          "text": "يَوۡمَ يُكۡشَفُ عَن سَاقࣲ وَيُدۡعَوۡنَ إِلَى ٱلسُّجُودِ فَلَا يَسۡتَطِيعُونَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "˹Beware of˺ the Day the Shin ˹of Allah˺ will be bared, and the wicked will be asked to prostrate, but they will not be able to do so",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "在那日，大难将临头，他们将被召去叩头，而他们不能叩头。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "जिस दिन पिंडली खुल जाएगी और वे सजदे के लिए बुलाए जाएँगे, तो वे (सजदा) न कर सकेंगे",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "El día que se descubra la pierna [divina], manifestándose la gravedad de la situación] y sean invitados a prosternarse, pero no podrán",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Le jour où ils affronteront les horreurs [du Jugement] et où ils seront appelés à la Prosternation mais ils ne le pourront pas",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "গোছা পর্যন্ত পা খোলার দিনের কথা স্মরণ কর, সেদিন তাদেরকে সেজদা করতে আহবান জানানো হবে, অতঃপর তারা সক্ষম হবে না।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Um dia, as canelas das pernas se descobrirão, e serão convocados a se prosternarem, e não o poderão",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "В тот день, когда обнажится Голень Аллаха, их призовут пасть ниц, но они не смогут сделать этого",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "جس دن پنڈلی سے کپڑا اٹھا دیا جائے گا اور کفار سجدے کے لئے بلائے جائیں گے تو سجدہ نہ کرسکیں گے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_068_043",
+      "reference": {
+        "surah_number": 68,
+        "surah_name": "Al-Qalam",
+        "surah_name_ar": "سُوْرَةُ الْقَلَمِ",
+        "surah_name_translation": "The Pen",
+        "ayah_number": 43,
+        "juz": 29,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 11,
+      "translations": {
+        "ar": {
+          "text": "خَٰشِعَةً أَبۡصَٰرُهُمۡ تَرۡهَقُهُمۡ ذِلَّةࣱۖ وَقَدۡ كَانُواْ يُدۡعَوۡنَ إِلَى ٱلسُّجُودِ وَهُمۡ سَٰلِمُونَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "with eyes downcast, totally covered with disgrace. For they were ˹always˺ called to prostrate ˹in the world˺ when they were fully capable ˹but they chose not to˺",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "同时，他们身遭凌辱，不敢仰视。而过去他们健全的时候，曾被召去叩头。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "उनकी निगाहें झुकी हुई होंगी, ज़िल्लत (अपमान) उनपर छा रही होगी। उन्हें उस समय भी सजदा करने के लिए बुलाया जाता था जब वे भले-चंगे थे",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "tendrán la mirada abatida, porque fueron invitados a prosternarse cuando podían [pero no lo hicieron]",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Leurs regards seront abaissés, et l'avilissement les couvrira. Or, ils étaient appelés à la Prosternation au temps où ils étaient sains et saufs",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "তাদের দৃষ্টি অবনত থাকবে; তারা লাঞ্ছনাগ্রস্ত হবে, অথচ যখন তারা সুস্থ ও স্বাভাবিক অবস্থায় ছিল, তখন তাদেরকে সেজদা করতে আহবান জানানো হত।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Com suas vistas humildemente baixas, uma vileza cobri-los-á. E, com efeito, haviam sido convocados a prosternar-se, enquanto sãos",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Их взоры потупятся, и унижение покроет их. А ведь их призывали пасть ниц, когда они пребывали в здравии",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "ان کی آنکھیں جھکی ہوئی ہوں گی اور ان پر ذلت چھا رہی ہوگی حالانکہ پہلے (اُس وقت) سجدے کے لئے بلاتے جاتے تھے جب کہ صحیح وسالم تھے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_068_044",
+      "reference": {
+        "surah_number": 68,
+        "surah_name": "Al-Qalam",
+        "surah_name_ar": "سُوْرَةُ الْقَلَمِ",
+        "surah_name_translation": "The Pen",
+        "ayah_number": 44,
+        "juz": 29,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 10,
+      "translations": {
+        "ar": {
+          "text": "فَذَرۡنِي وَمَن يُكَذِّبُ بِهَٰذَا ٱلۡحَدِيثِۖ سَنَسۡتَدۡرِجُهُم مِّنۡ حَيۡثُ لَا يَعۡلَمُونَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "So leave to Me ˹O Prophet˺ those who reject this message. We will gradually draw them to destruction in ways they cannot comprehend",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "你让我惩治否认这训辞的人吧！我将使他们不知不觉地渐趋於毁灭。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "अतः तुम मुझे छोड़ दो और उसको जो इस वाणी को झुठलाता है। हम ऐसों को क्रमशः (विनाश की ओर) ले जाएँगे, ऐसे तरीक़े से कि वे नहीं जानते",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Yo me encargaré de quienes desmienten el Mensaje. Los castigaré sin prisa cuando menos lo esperen",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Laisse-Moi donc avec quiconque traite de mensonge ce discours; Nous allons les mener graduellement par où ils ne savent pas",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "অতএব, যারা এই কালামকে মিথ্যা বলে, তাদেরকে আমার হাতে ছেড়ে দিন, আমি এমন ধীরে ধীরে তাদেরকে জাহান্নামের দিকে নিয়ে যাব যে, তারা জানতে পারবে না।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Então, deixa-Me com aqueles que desmentem esta Mensagem. Fá-los-emos se abeirarem de seu aniquilamento, por onde não saibam",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Оставь же Меня с теми, кто считает ложью это повествование. Мы завлечем их так, что они даже не осознают этого",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "تو مجھ کو اس کلام کے جھٹلانے والوں سے سمجھ لینے دو۔ ہم ان کو آہستہ آہستہ ایسے طریق سے پکڑیں گے کہ ان کو خبر بھی نہ ہوگی",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_068_045",
+      "reference": {
+        "surah_number": 68,
+        "surah_name": "Al-Qalam",
+        "surah_name_ar": "سُوْرَةُ الْقَلَمِ",
+        "surah_name_translation": "The Pen",
+        "ayah_number": 45,
+        "juz": 29,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 5,
+      "translations": {
+        "ar": {
+          "text": "وَأُمۡلِي لَهُمۡۚ إِنَّ كَيۡدِي مَتِينٌ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "I ˹only˺ delay their end for a while, but My planning is flawless",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "我优容他们，我的计策确是周密的。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "मैं उन्हें ढील दे रहा हूँ। निश्चय ही मेरी चाल बड़ी मज़बूत है",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Los toleraré por un tiempo, pero luego Mi castigo será severo",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Et Je leur accorde un délai, car Mon stratagème est sûr",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "আমি তাদেরকে সময় দেই। নিশ্চয় আমার কৌশল মজবুত।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E conceder-lhes-ei prazo. Por certo, Minha insídia é fortíssima",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Я даю им отсрочку, ведь хитрость Моя несокрушима",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور میں ان کو مہلت دیئے جاتا ہوں میری تدبیر قوی ہے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_068_046",
+      "reference": {
+        "surah_number": 68,
+        "surah_name": "Al-Qalam",
+        "surah_name_ar": "سُوْرَةُ الْقَلَمِ",
+        "surah_name_translation": "The Pen",
+        "ayah_number": 46,
+        "juz": 29,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 8,
+      "translations": {
+        "ar": {
+          "text": "أَمۡ تَسۡـَٔلُهُمۡ أَجۡرࣰ ا فَهُم مِّن مَّغۡرَمࣲ مُّثۡقَلُونَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Or are you asking them for a reward ˹for the message˺ so that they are overburdened by debt",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "你向他们索取报酬，教他们担负太重呢？",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "(क्या वे यातना ही चाहते हैं) या तुम उनसे कोई बदला माँग रहे हो कि वे तावान के बोझ से दबे जाते हों",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "¿Acaso les reclamas una retribución [a cambio de transmitirles el Mensaje], que se sienten agobiados",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Ou bien est-ce que tu leur demandes un salaire, les accablant ainsi d'une lourde dette",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "আপনি কি তাদের কাছে পারিশ্রমিক চান? ফলে তাদের উপর জরিমানার বোঝা পড়ছে?",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Ou lhes pedes um prêmio, então, estão sobrecarregados de ônus",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Или же ты просишь у них вознаграждения, и они обременены обязательствами",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "کیا تم ان سے کچھ اجر مانگتے ہو کہ ان پر تاوان کا بوجھ پڑ رہا ہے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_068_047",
+      "reference": {
+        "surah_number": 68,
+        "surah_name": "Al-Qalam",
+        "surah_name_ar": "سُوْرَةُ الْقَلَمِ",
+        "surah_name_translation": "The Pen",
+        "ayah_number": 47,
+        "juz": 29,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 5,
+      "translations": {
+        "ar": {
+          "text": "أَمۡ عِندَهُمُ ٱلۡغَيۡبُ فَهُمۡ يَكۡتُبُونَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Or do they have access to ˹the Record in˺ the unseen, so they copy it ˹for all to see˺",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "还是他们能知幽玄，故加以记录呢？",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "या उनके पास परोक्ष का ज्ञान है तो वे लिख रहे हैं",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "¿Acaso conocen lo oculto [de la predestinación] y lo escriben",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Ou savent-ils l'Inconnaissable et c'est de là qu'ils écrivent [leurs mensonges]",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "না তাদের কাছে গায়বের খবর আছে? অতঃপর তারা তা লিপিবদ্ধ করে।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Ou têm eles a ciência do Invisível, então, escrevem o que querem",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Или же они владеют сокровенным и записывают его",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "یا ان کے پاس غیب کی خبر ہے کہ (اسے) لکھتے جاتے ہیں",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_068_048",
+      "reference": {
+        "surah_number": 68,
+        "surah_name": "Al-Qalam",
+        "surah_name_ar": "سُوْرَةُ الْقَلَمِ",
+        "surah_name_translation": "The Pen",
+        "ayah_number": 48,
+        "juz": 29,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 11,
+      "translations": {
+        "ar": {
+          "text": "فَٱصۡبِرۡ لِحُكۡمِ رَبِّكَ وَلَا تَكُن كَصَاحِبِ ٱلۡحُوتِ إِذۡ نَادَىٰ وَهُوَ مَكۡظُومࣱ‏",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "So be patient with your Lord’s decree, and do not be like ˹Jonah,˺ the Man of the Whale, who cried out ˹to Allah˺, in total distress",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "故你应当忍受你的主的判决，不要像那个葬身鱼腹的人一样。当时，他拗著怒呼吁他的主；",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "तो अपने रब के आदेश हेतु धैर्य से काम लो और मछलीवाले (यूनुस अलै॰) की तरह न हो जाना, जबकि उसने पुकारा था इस दशा में कि वह ग़म में घुट रहा था।",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Ten paciencia ante el designio de tu Señor y no seas como el que fue tragado por la ballena, que Me imploró angustiado",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Endure avec patience la sentence de ton Seigneur, et ne sois pas comme l'homme au Poisson [Jonas] qui appela (Allah) dans sa grande angoisse",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "আপনি আপনার পালনকর্তার আদেশের অপেক্ষায় সবর করুন এবং মাছওয়ালা ইউনুসের মত হবেন না, যখন সে দুঃখাকুল মনে প্রার্থনা করেছিল।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Então, pacienta quanto ao julgamento de teu Senhor. E não sejas como o companheiro da baleia quando Nos chamou, enquanto angustiado",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Потерпи же до решения твоего Господа и не уподобляйся человеку в рыбе (Йунусу), который обратился с мольбой вслух, сдерживая свою печаль",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "تو اپنے پروردگار کے حکم کے انتظار میں صبر کئے رہو اور مچھلی (کا لقمہ ہونے) والے یونس کی طرح رہو نا کہ انہوں نے (خدا) کو پکارا اور وہ (غم و) غصے میں بھرے ہوئے تھے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_068_049",
+      "reference": {
+        "surah_number": 68,
+        "surah_name": "Al-Qalam",
+        "surah_name_ar": "سُوْرَةُ الْقَلَمِ",
+        "surah_name_translation": "The Pen",
+        "ayah_number": 49,
+        "juz": 29,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 10,
+      "translations": {
+        "ar": {
+          "text": "لَّوۡلَآ أَن تَدَٰرَكَهُۥ نِعۡمَةࣱ مِّن رَّبِّهِۦ لَنُبِذَ بِٱلۡعَرَآءِ وَهُوَ مَذۡمُومࣱ‏",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Had he not been shown grace by his Lord, he would have certainly been cast onto the open ˹shore˺, still blameworthy",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "假若从他的主发出的恩典没有达到他，那末，他必受责备地被抛到荒凉的地方。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "यदि उसके रब की अनुकम्पा उसके साथ न हो जाती तो वह अवश्य ही चटियल मैदान में बुरे हाल में डाल दिया जाता।",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Si no hubiera sido por la gracia de su Señor, habría sido arrojado a la playa desierta cargando su culpa",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Si un bienfait de son Seigneur ne l'avait pas atteint, il aurait été rejeté honni sur une terre déserte",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "যদি তার পালনকর্তার অনুগ্রহ তাকে সামাল না দিত, তবে সে নিন্দিত অবস্থায় জনশুন্য প্রান্তরে নিক্ষিপ্ত হত।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Não o atingira uma graça de seu Senhor, haveria sido atirado à terra nua, enquanto infamado",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Если бы его не постигла милость Господа, то он был бы выброшен на открытую местность постыженным",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اگر تمہارے پروردگار کی مہربانی ان کی یاوری نہ کرتی تو وہ چٹیل میدان میں ڈال دیئے جاتے اور ان کا حال ابتر ہوجاتا",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_068_050",
+      "reference": {
+        "surah_number": 68,
+        "surah_name": "Al-Qalam",
+        "surah_name_ar": "سُوْرَةُ الْقَلَمِ",
+        "surah_name_translation": "The Pen",
+        "ayah_number": 50,
+        "juz": 29,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 5,
+      "translations": {
+        "ar": {
+          "text": "فَٱجۡتَبَٰهُ رَبُّهُۥ فَجَعَلَهُۥ مِنَ ٱلصَّٰلِحِينَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Then his Lord chose him, making him one of the righteous",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "嗣后，他的主拣选了他，并使他入於善人之列。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "अन्ततः उसके रब ने उसे चुन लिया और उसे अच्छे लोगों में सम्मिलित कर दिया",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Pero su Señor lo había escogido para que fuera uno de los piadosos",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Puis son Seigneur l'élut et le désigna au nombre des gens de bien",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "অতঃপর তার পালনকর্তা তাকে মনোনীত করলেন এবং তাকে সৎকর্মীদের অন্তর্ভুক্ত করে নিলেন।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Então, seu Senhor elegeu-o, e fê-lo dos íntegros",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Но его Господь избрал его и сделал одним из праведников",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "پھر پروردگار نے ان کو برگزیدہ کرکے نیکوکاروں میں کرلیا",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_068_051",
+      "reference": {
+        "surah_number": 68,
+        "surah_name": "Al-Qalam",
+        "surah_name_ar": "سُوْرَةُ الْقَلَمِ",
+        "surah_name_translation": "The Pen",
+        "ayah_number": 51,
+        "juz": 29,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 12,
+      "translations": {
+        "ar": {
+          "text": "وَإِن يَكَادُ ٱلَّذِينَ كَفَرُواْ لَيُزۡلِقُونَكَ بِأَبۡصَٰرِهِمۡ لَمَّا سَمِعُواْ ٱلذِّكۡرَ وَيَقُولُونَ إِنَّهُۥ لَمَجۡنُونࣱ‏",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "The disbelievers would almost cut you down with their eyes when they hear ˹you recite˺ the Reminder, and say, “He is certainly a madman.”",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "不信道的人们几乎以他们的怒目使你跌倒。当他们听到宣读教诲的时候，他们说：他确是一个疯子。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "जब वे लोग, जिन्होंने इनकार किया, ज़िक्र (क़ुरआन) सुनते है और कहते है, \"वह तो दीवाना है!\" तो ऐसा लगता है कि वे अपनी निगाहों के ज़ोर से तुम्हें फिसला देंगे",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "[Oh, Mujámmad:] Poco faltó para que los que rechazaron el Mensaje te derribaran con sus miradas [de odio] cuando oyeron la recitación del Corán. Y aunque digan: \"Es un loco",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Peu s'en faut que ceux qui mécroient ne te transpercent par leurs regards, quand ils entendent le Coran, ils disent: «Il est certes fou!»",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "কাফেররা যখন কোরআন শুনে, তখন তারা তাদের দৃষ্টি দ্বারা যেন আপনাকে আছাড় দিয়ে ফেলে দিবে এবং তারা বলেঃ সে তো একজন পাগল।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E, por certo, os que renegam a Fé quase te derrubam com suas vistas, quando ouvem a Mensagem, e dizem: \"Por certo, é um louco",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Воистину, неверующие готовы заставить тебя поскользнуться своими взглядами, когда они слышат Напоминание, и говорят: «Воистину, он - одержимый!»",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور کافر جب (یہ) نصیحت (کی کتاب) سنتے ہیں تو یوں لگتے ہیں کہ تم کو اپنی نگاہوں سے پھسلا دیں گے اور کہتے یہ تو دیوانہ ہے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_068_052",
+      "reference": {
+        "surah_number": 68,
+        "surah_name": "Al-Qalam",
+        "surah_name_ar": "سُوْرَةُ الْقَلَمِ",
+        "surah_name_translation": "The Pen",
+        "ayah_number": 52,
+        "juz": 29,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 5,
+      "translations": {
+        "ar": {
+          "text": "وَمَا هُوَ إِلَّا ذِكۡرࣱ لِّلۡعَٰلَمِينَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "But it is simply a reminder to the whole world",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "这《古兰经》不是别的，它是对全世界的教诲。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "हालाँकि वह सारे संसार के लिए एक अनुस्मृति है",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "[lo que recitas] es un Mensaje para que siga toda la humanidad",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Et ce n'est qu'un Rappel, adressé aux mondes",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "অথচ এই কোরআন তো বিশ্বজগতের জন্যে উপদেশ বৈ নয়।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E ela não é senão Mensagem para os mundos",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Но это - не что иное, как Напоминание для миров",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور (لوگو) یہ (قرآن) اہل عالم کے لئے نصیحت ہے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,295 @@
+{
+  "book_key": "targib-wattahrib",
+  "raw_key": "targib-wattahrib",
+  "id": 22,
+  "title_bn": "সহিহ তারগিব ওয়াত তাহরিব",
+  "title_en": "Sahih at-Targhib wat-Tarhib",
+  "title_ar": "صحيح ترغيب وطهريب",
+  "total_hadiths": 200,
+  "total_chapters": 4,
+  "total_sections": 23,
+  "chapters": [
+    {
+      "id": 1,
+      "display_label": "১",
+      "title": "ইখলাস",
+      "arabic_title": "",
+      "preface": "",
+      "range": "১ - ৩৬",
+      "order": 1,
+      "hadith_count": 36,
+      "sections_count": 2,
+      "sections": [
+        {
+          "id": 1,
+          "chapter_id": 1,
+          "display_label": "১/১. অধ্যায়ঃ",
+          "title": "ইখলাস, সত্যবাদিতা ও সৎ নিয়তের প্রতি উদ্বুদ্ধ করণঃ",
+          "arabic_title": "",
+          "preface": "",
+          "order": 1,
+          "hadith_count": 21
+        },
+        {
+          "id": 2,
+          "chapter_id": 1,
+          "display_label": "১/২. অধ্যায়ঃ",
+          "title": "রিয়া থেকে সতর্কী করণ। কোন ব্যক্তি রিয়ার আশংকা করলে কি বলবে",
+          "arabic_title": "",
+          "preface": "",
+          "order": 2,
+          "hadith_count": 15
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "display_label": "২",
+      "title": "সুন্নাত অধ্যায়",
+      "arabic_title": "",
+      "preface": "",
+      "range": "৩৭ - ৬৬",
+      "order": 2,
+      "hadith_count": 30,
+      "sections_count": 3,
+      "sections": [
+        {
+          "id": 3,
+          "chapter_id": 2,
+          "display_label": "২/১. অধ্যায়ঃ",
+          "title": "কুরআন ও সুন্নাহর অনুসরণের প্রতি উৎসাহ দানঃ",
+          "arabic_title": "",
+          "preface": "",
+          "order": 3,
+          "hadith_count": 12
+        },
+        {
+          "id": 4,
+          "chapter_id": 2,
+          "display_label": "২/২. অধ্যায়ঃ",
+          "title": "সুন্নাত পরিত্যাগ এবং প্ৰবৃত্তির অনুসরণ ও বিদআত চর্চার প্রতি ভীতি প্রদর্শণঃ",
+          "arabic_title": "",
+          "preface": "",
+          "order": 4,
+          "hadith_count": 12
+        },
+        {
+          "id": 5,
+          "chapter_id": 2,
+          "display_label": "২/৩. অধ্যায়ঃ",
+          "title": "নেকীর কাজ চালু করার প্রতি উদ্ধৃদ্ধ করণ, যেন তার অনুসরণ করা হয়। আর অনুসৃত হওয়ার আশংকায় পাপের কাজ চালু করার প্রতি ভীতি প্ৰদৰ্শনঃ",
+          "arabic_title": "",
+          "preface": "",
+          "order": 5,
+          "hadith_count": 6
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "display_label": "৩",
+      "title": "ইলম বা বিদ্যা অধ্যায়",
+      "arabic_title": "",
+      "preface": "",
+      "range": "৬৭ - ১৪৪",
+      "order": 3,
+      "hadith_count": 78,
+      "sections_count": 10,
+      "sections": [
+        {
+          "id": 6,
+          "chapter_id": 3,
+          "display_label": "৩/১. অধ্যায়ঃ",
+          "title": "বিদ্যা, উহা অনুসন্ধান, শিক্ষা করা ও শিক্ষা দেয়ার প্রতি উদ্ধৃদ্ধ করণ। ওলামা এবং ছাত্রদের ধবীলতের ব্যাপারে যা এসেছে তার বর্ণনা।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 6,
+          "hadith_count": 17
+        },
+        {
+          "id": 7,
+          "chapter_id": 3,
+          "display_label": "৩/২. অধ্যায়ঃ",
+          "title": "জ্ঞানার্জনের উদ্দেশ্যে ভ্ৰমণ করার প্রতি উদ্ধৃদ্ধ করণঃ",
+          "arabic_title": "",
+          "preface": "",
+          "order": 7,
+          "hadith_count": 5
+        },
+        {
+          "id": 8,
+          "chapter_id": 3,
+          "display_label": "৩/৩. অধ্যায়ঃ",
+          "title": "হাদীছ শোনা, পৌঁছিয়ে দেয়া ও তা লিখার প্রতি উদ্ধৃদ্ধ করণ এবং রাসূলুল্লাহ (সাঃ)-এর প্রতি মিথ্যারোপ করার ব্যাপারে ভীতি প্ৰদৰ্শনঃ",
+          "arabic_title": "",
+          "preface": "",
+          "order": 8,
+          "hadith_count": 8
+        },
+        {
+          "id": 9,
+          "chapter_id": 3,
+          "display_label": "৩/৪. অধ্যায়ঃ",
+          "title": "ওলামাগণকে সম্মান, মর্যাদা ও শ্রদ্ধা দেয়ার প্রতি উদ্ধৃদ্ধ করণ ও তাদেরকে অসম্মান করা ও তাদেরকে পরওয়া না করার প্রতি ভীতি প্ৰদৰ্শনঃ",
+          "arabic_title": "",
+          "preface": "",
+          "order": 9,
+          "hadith_count": 8
+        },
+        {
+          "id": 10,
+          "chapter_id": 3,
+          "display_label": "৩/৫. অধ্যায়ঃ",
+          "title": "আল্লাহ তা’আলার সম্ভষ্টি ব্যতীত অন্য উদ্দেশ্যে জ্ঞানার্জনের প্রতি ভীতি প্ৰদৰ্শনঃ",
+          "arabic_title": "",
+          "preface": "",
+          "order": 10,
+          "hadith_count": 7
+        },
+        {
+          "id": 11,
+          "chapter_id": 3,
+          "display_label": "৩/৬. অধ্যায়ঃ",
+          "title": "জ্ঞানের সম্প্রচার এবং কল্যাণের পথ দেখানোর প্রতি উদ্বুদ্ধ করণঃ",
+          "arabic_title": "",
+          "preface": "",
+          "order": 11,
+          "hadith_count": 8
+        },
+        {
+          "id": 12,
+          "chapter_id": 3,
+          "display_label": "৩/৭. অধ্যায়ঃ",
+          "title": "এলেম গোপন রাখার প্রতি ভীতি প্ৰদৰ্শনঃ",
+          "arabic_title": "",
+          "preface": "",
+          "order": 12,
+          "hadith_count": 3
+        },
+        {
+          "id": 13,
+          "chapter_id": 3,
+          "display_label": "৩/৮. অধ্যায়ঃ",
+          "title": "জ্ঞান লাভ করে আমল না করা এবং যা করে না তা বলার প্রতি ভীতি প্ৰদৰ্শনঃ",
+          "arabic_title": "",
+          "preface": "",
+          "order": 13,
+          "hadith_count": 11
+        },
+        {
+          "id": 14,
+          "chapter_id": 3,
+          "display_label": "৩/৯. অধ্যায়ঃ",
+          "title": "বিদ্বান হওয়া ও কুরআন সম্পর্কে জ্ঞানী হওয়ার দাবী করার প্রতি ভীতি প্ৰদৰ্শনঃ",
+          "arabic_title": "",
+          "preface": "",
+          "order": 14,
+          "hadith_count": 4
+        },
+        {
+          "id": 15,
+          "chapter_id": 3,
+          "display_label": "৩/১০. অধ্যায়ঃ",
+          "title": "ঝগড়া-বিবাদ, একে অপরের উপর দলীল পেশ করা, পরাজিত করা, বিজয়ী হওয়া প্রভৃতি কাজ থেকে ভীতি প্ৰদৰ্শন এবং হকদার হওয়া বা না হওয়া উভয় ক্ষেত্রে ঝগড়া পরিত্যাগ করার প্ৰতি উদ্বুদ্ধ করণঃ",
+          "arabic_title": "",
+          "preface": "",
+          "order": 15,
+          "hadith_count": 7
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "display_label": "৪",
+      "title": "পবিত্রতা",
+      "arabic_title": "",
+      "preface": "",
+      "range": "১৪৫ - ২০০",
+      "order": 4,
+      "hadith_count": 56,
+      "sections_count": 8,
+      "sections": [
+        {
+          "id": 16,
+          "chapter_id": 4,
+          "display_label": "৪/১. অধ্যায়ঃ",
+          "title": "চলাচলের রাস্তা, ছায়া বা পানির ঘাটে শৌচকাৰ্য করার প্রতি ভীতি প্ৰদৰ্শন। আর কিবলাকে সামনে বা পিছনে না করার প্রতি উদ্বুদ্ধ করনঃ",
+          "arabic_title": "",
+          "preface": "",
+          "order": 16,
+          "hadith_count": 7
+        },
+        {
+          "id": 17,
+          "chapter_id": 4,
+          "display_label": "৪/২. অধ্যায়ঃ",
+          "title": "পানি, গোসলের স্থান ও গর্তে পেশাব করার ব্যাপারে ভীতি প্ৰদৰ্শনঃ",
+          "arabic_title": "",
+          "preface": "",
+          "order": 17,
+          "hadith_count": 3
+        },
+        {
+          "id": 18,
+          "chapter_id": 4,
+          "display_label": "৪/৩. অধ্যায়ঃ",
+          "title": "শৌচকার্য অবস্থায় কথাবার্তা বলার প্রতি ভীতি প্ৰদৰ্শনঃ",
+          "arabic_title": "",
+          "preface": "",
+          "order": 18,
+          "hadith_count": 2
+        },
+        {
+          "id": 19,
+          "chapter_id": 4,
+          "display_label": "৪/৪. অধ্যায়ঃ",
+          "title": "কাপড় ইত্যাদিতে পেশাব লেগে যাওয়া এবং তা থেকে মুক্ত না হওয়ার ব্যাপারে ভীতি প্ৰদৰ্শনঃ",
+          "arabic_title": "",
+          "preface": "",
+          "order": 19,
+          "hadith_count": 7
+        },
+        {
+          "id": 20,
+          "chapter_id": 4,
+          "display_label": "৪/৫. অধ্যায়ঃ",
+          "title": "লুঙ্গি ছাড়া পুরুষদের এবং নেফাসযুক্ত বা রুগ্ন মহিলা ব্যতীত অন্যান্য মহিলাদের লুঙ্গিসহ গণগোসলখানায় প্রবেশের ব্যাপারে ভীতি প্ৰদৰ্শন। এক্ষেত্রে যে নিষেধাজ্ঞা এসেছে তার বর্ণনাঃ",
+          "arabic_title": "",
+          "preface": "",
+          "order": 20,
+          "hadith_count": 9
+        },
+        {
+          "id": 21,
+          "chapter_id": 4,
+          "display_label": "৪/৬. অধ্যায়ঃ",
+          "title": "ওযর ছাড়া ফরয গোসলে দেরী করার প্রতি ভীতি প্ৰদৰ্শনঃ",
+          "arabic_title": "",
+          "preface": "",
+          "order": 21,
+          "hadith_count": 2
+        },
+        {
+          "id": 22,
+          "chapter_id": 4,
+          "display_label": "৪/৭. অধ্যায়ঃ",
+          "title": "ওযু করা এবং তা পরিপূর্ণ করার প্রতি উদ্বুদ্ধ করণঃ",
+          "arabic_title": "",
+          "preface": "",
+          "order": 22,
+          "hadith_count": 22
+        },
+        {
+          "id": 23,
+          "chapter_id": 4,
+          "display_label": "৪/৮. অধ্যায়ঃ",
+          "title": "ওযুর প্রতি যত্নশীল হওয়া ও নতুনভাবে ওযু করার প্রতি উদ্বুদ্ধ করণঃ",
+          "arabic_title": "",
+          "preface": "",
+          "order": 23,
+          "hadith_count": 4
+        }
+      ]
+    }
+  ]
+}

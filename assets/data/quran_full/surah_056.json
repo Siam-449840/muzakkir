@@ -1,0 +1,5381 @@
+{
+  "surah": 56,
+  "verses": [
+    {
+      "content_id": "quran_056_001",
+      "reference": {
+        "surah_number": 56,
+        "surah_name": "Al-Waaqia",
+        "surah_name_ar": "سُوْرَةُ الْوَاقِعَةِ",
+        "surah_name_translation": "The Inevitable",
+        "ayah_number": 1,
+        "juz": 27,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 3,
+      "translations": {
+        "ar": {
+          "text": "إِذَا وَقَعَتِ ٱلۡوَاقِعَةُ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "When the Inevitable Event takes place",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "当那件大事发生的时候，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "जब घटित होनेवाली (घड़ी) घटित हो जाएगी",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Cuando sobrevenga el suceso",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Quand l'événement (le Jugement) arrivera",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "যখন কিয়ামতের ঘটনা ঘটবে,",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Quando o acontecimento sobrevier",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Когда наступит Событие (День воскресения)",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "جب واقع ہونے والی واقع ہوجائے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_056_002",
+      "reference": {
+        "surah_number": 56,
+        "surah_name": "Al-Waaqia",
+        "surah_name_ar": "سُوْرَةُ الْوَاقِعَةِ",
+        "surah_name_translation": "The Inevitable",
+        "ayah_number": 2,
+        "juz": 27,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 3,
+      "translations": {
+        "ar": {
+          "text": "لَيۡسَ لِوَقۡعَتِهَا كَاذِبَةٌ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "then no one can deny it has come",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "没有任何人否认其发生。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "उसके घटित होने में कुछ भी झुठ नहीं",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "no habrá quién pueda evitarlo",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "nul ne traitera sa venue de mensonge",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "যার বাস্তবতায় কোন সংশয় নেই।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Não haverá de sua sobrevença alma desmentidora",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "никто не сочтет его наступление ложью",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اس کے واقع ہونے میں کچھ جھوٹ نہیں",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_056_003",
+      "reference": {
+        "surah_number": 56,
+        "surah_name": "Al-Waaqia",
+        "surah_name_ar": "سُوْرَةُ الْوَاقِعَةِ",
+        "surah_name_translation": "The Inevitable",
+        "ayah_number": 3,
+        "juz": 27,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 2,
+      "translations": {
+        "ar": {
+          "text": "خَافِضَةࣱ رَّافِعَةٌ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "It will debase ˹some˺ and elevate ˹others˺",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "那件大事将是能使人降级，能使人升级的；",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "पस्त करनेवाली होगी, ऊँचा करनेवाली थी",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Algunos serán humillados y otros serán honrados",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Il abaissera (les uns), il élèvera (les autres)",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "এটা নীচু করে দেবে, সমুন্নত করে দেবে।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Ele será rebaixador, ele será elevador",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Оно унижает и возвышает",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "کسی کو پست کرے کسی کو بلند",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_056_004",
+      "reference": {
+        "surah_number": 56,
+        "surah_name": "Al-Waaqia",
+        "surah_name_ar": "سُوْرَةُ الْوَاقِعَةِ",
+        "surah_name_translation": "The Inevitable",
+        "ayah_number": 4,
+        "juz": 27,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 5,
+      "translations": {
+        "ar": {
+          "text": "إِذَا رُجَّتِ ٱلۡأَرۡضُ رَجࣰّ ا",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "When the earth will be violently shaken",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "当大地震荡，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "जब धरती थरथराकर काँप उठेगी",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Cuando la Tierra se sacuda violentamente",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Quand la terre sera secouée violemment",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "যখন প্রবলভাবে প্রকম্পিত হবে পৃথিবী।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Quando a terra for sacudida violentamente",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Когда земля сильно содрогнется",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "جب زمین بھونچال سے لرزنے لگے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_056_005",
+      "reference": {
+        "surah_number": 56,
+        "surah_name": "Al-Waaqia",
+        "surah_name_ar": "سُوْرَةُ الْوَاقِعَةِ",
+        "surah_name_translation": "The Inevitable",
+        "ayah_number": 5,
+        "juz": 27,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 4,
+      "translations": {
+        "ar": {
+          "text": "وَبُسَّتِ ٱلۡجِبَالُ بَسࣰّ ا",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "and the mountains will be crushed to pieces",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "山峦粉碎，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "और पहाड़ टूटकर चूर्ण-विचुर्ण हो जाएँगे",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "y las montañas caigan desmoronadas",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "et les montagnes seront réduites en miettes",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "এবং পর্বতমালা ভেঙ্গে চুরমার হয়ে যাবে।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E as montanhas forem esmigalhadas totalmente",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "когда горы раскрошатся на мелкие кусочки",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور پہاڑ ٹوٹ کر ریزہ ریزہ ہوجائیں",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_056_006",
+      "reference": {
+        "surah_number": 56,
+        "surah_name": "Al-Waaqia",
+        "surah_name_ar": "سُوْرَةُ الْوَاقِعَةِ",
+        "surah_name_translation": "The Inevitable",
+        "ayah_number": 6,
+        "juz": 27,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 4,
+      "translations": {
+        "ar": {
+          "text": "فَكَانَتۡ هَبَآءࣰ مُّنۢبَثࣰّ ا",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "becoming scattered ˹particles of˺ dust",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "化为散漫的尘埃，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "कि वे बिखरे हुए धूल होकर रह जाएँगे",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "convirtiéndose en polvo disperso",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "et qu'elles deviendront poussière éparpillée",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "অতঃপর তা হয়ে যাবে উৎক্ষিপ্ত ধূলিকণা।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Então, tornar-se-ão partículas espalhadas",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "а затем превратятся в развеянный прах",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "پھر غبار ہو کر اُڑنے لگیں",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_056_007",
+      "reference": {
+        "surah_number": 56,
+        "surah_name": "Al-Waaqia",
+        "surah_name_ar": "سُوْرَةُ الْوَاقِعَةِ",
+        "surah_name_translation": "The Inevitable",
+        "ayah_number": 7,
+        "juz": 27,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 4,
+      "translations": {
+        "ar": {
+          "text": "وَكُنتُمۡ أَزۡوَٰجࣰ ا ثَلَٰثَةࣰ‏",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "you will ˹all˺ be ˹divided into˺ three groups",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "而你们分为三等的时候。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "और तुम लोग तीन प्रकार के हो जाओगे",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "serán divididos en tres grupos",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "alors vous serez trois catégories",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "এবং তোমরা তিনভাবে বিভক্ত হয়ে পড়বে।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E vós sereis de três espécies",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "вы разделитесь на три группы",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور تم لوگ تین قسم ہوجاؤ",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_056_008",
+      "reference": {
+        "surah_number": 56,
+        "surah_name": "Al-Waaqia",
+        "surah_name_ar": "سُوْرَةُ الْوَاقِعَةِ",
+        "surah_name_translation": "The Inevitable",
+        "ayah_number": 8,
+        "juz": 27,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 5,
+      "translations": {
+        "ar": {
+          "text": "فَأَصۡحَٰبُ ٱلۡمَيۡمَنَةِ مَآ أَصۡحَٰبُ ٱلۡمَيۡمَنَةِ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "the people of the right, how ˹blessed˺ will they be",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "幸福者，幸福者是何等的人？",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "तो दाहिने हाथ वाले (सौभाग्यशाली), कैसे होंगे दाहिने हाथ वाले",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Los compañeros de la derecha. ¡Qué afortunados serán los compañeros de la derecha",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "les gens de la droite - que sont les gens de la droite",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "যারা ডান দিকে, কত ভাগ্যবান তারা।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Então, os companheiros da direita - que excelentes os companheiros da direita",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Одни будут по правую сторону. Кто же будет по правую сторону",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "تو داہنے ہاتھ والے (سبحان الله) داہنے ہاتھ والے کیا (ہی چین میں) ہیں",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_056_009",
+      "reference": {
+        "surah_number": 56,
+        "surah_name": "Al-Waaqia",
+        "surah_name_ar": "سُوْرَةُ الْوَاقِعَةِ",
+        "surah_name_translation": "The Inevitable",
+        "ayah_number": 9,
+        "juz": 27,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 5,
+      "translations": {
+        "ar": {
+          "text": "وَأَصۡحَٰبُ ٱلۡمَشۡـَٔمَةِ مَآ أَصۡحَٰبُ ٱلۡمَشۡـَٔمَةِ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "the people of the left, how ˹miserable˺ will they be",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "薄命者，薄命者是何等的人？",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "और बाएँ हाथ वाले (दुर्भाग्यशाली), कैसे होंगे बाएँ हाथ वाले",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Los compañeros de la izquierda. ¡Qué desafortunados serán los compañeros de la izquierda",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Et les gens de la gauche - que sont les gens de la gauche",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "এবং যারা বামদিকে, কত হতভাগা তারা।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E os companheiros da esquerda - que execráveis os companheiros da esquerda",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Другие же будут по левую сторону. Кто же будет по левую сторону",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور بائیں ہاتھ والے (افسوس) بائیں ہاتھ والے کیا (گرفتار عذاب) ہیں",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_056_010",
+      "reference": {
+        "surah_number": 56,
+        "surah_name": "Al-Waaqia",
+        "surah_name_ar": "سُوْرَةُ الْوَاقِعَةِ",
+        "surah_name_translation": "The Inevitable",
+        "ayah_number": 10,
+        "juz": 27,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 2,
+      "translations": {
+        "ar": {
+          "text": "وَٱلسَّٰبِقُونَ ٱلسَّٰبِقُونَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "and the foremost ˹in faith˺ will be the foremost ˹in Paradise˺",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "最先行善者，是最先入乐园的人，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "और आगे बढ़ जानेवाले तो आगे बढ़ जानेवाले ही है",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Y los adelantados. ¡Estos serán los primeros",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Les premiers (à suivre les ordres d'Allah sur la terre) ce sont eux qui seront les premiers (dans l'au-delà)",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "অগ্রবর্তীগণ তো অগ্রবর্তীই।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E os precursores da Fé serão os precursores",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "И будут опередившие их всех в добре, которые опередят их и в Раю",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور جو آگے بڑھنے والے ہیں (ان کا کیا کہنا) وہ آگے ہی بڑھنے والے ہیں",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_056_011",
+      "reference": {
+        "surah_number": 56,
+        "surah_name": "Al-Waaqia",
+        "surah_name_ar": "سُوْرَةُ الْوَاقِعَةِ",
+        "surah_name_translation": "The Inevitable",
+        "ayah_number": 11,
+        "juz": 27,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 2,
+      "translations": {
+        "ar": {
+          "text": "أُوْلَٰٓئِكَ ٱلۡمُقَرَّبُونَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "They are the ones nearest ˹to Allah˺",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "这等人，确是蒙主眷顾的。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "वही (अल्लाह के) निकटवर्ती है",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Serán los allegados [a Dios]",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Ce sont ceux-là les plus rapprochés d'Allah",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "তারাই নৈকট্যশীল,",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Estes serão os achegados a Allah",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Это будут приближенные",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "وہی (خدا کے) مقرب ہیں",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_056_012",
+      "reference": {
+        "surah_number": 56,
+        "surah_name": "Al-Waaqia",
+        "surah_name_ar": "سُوْرَةُ الْوَاقِعَةِ",
+        "surah_name_translation": "The Inevitable",
+        "ayah_number": 12,
+        "juz": 27,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 3,
+      "translations": {
+        "ar": {
+          "text": "فِي جَنَّٰتِ ٱلنَّعِيمِ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "in the Gardens of Bliss",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "他们将在恩泽的乐园中。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "नेमत भरी जन्नतों में होंगे",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "estarán en los Jardines de las Delicias",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "dans les Jardins des délices",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "অবদানের উদ্যানসমূহে,",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Nos Jardins da Delícia",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "которые пребудут в Садах блаженства",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "نعمت کے بہشتوں میں",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_056_013",
+      "reference": {
+        "surah_number": 56,
+        "surah_name": "Al-Waaqia",
+        "surah_name_ar": "سُوْرَةُ الْوَاقِعَةِ",
+        "surah_name_translation": "The Inevitable",
+        "ayah_number": 13,
+        "juz": 27,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 3,
+      "translations": {
+        "ar": {
+          "text": "ثُلَّةࣱ مِّنَ ٱلۡأَوَّلِينَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "˹They will be˺ a multitude from earlier generations",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "许多前人",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "अगलों में से तो बहुत-से होंगे",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Muchos de ellos serán de las primeras generaciones",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "une multitude d'élus parmi les premières [générations]",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "তারা একদল পূর্ববর্তীদের মধ্য থেকে।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Uma multidão dos primeiros",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Многие из них - из первых поколений",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "وہ بہت سے تو اگلے لوگوں میں سے ہوں گے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_056_014",
+      "reference": {
+        "surah_number": 56,
+        "surah_name": "Al-Waaqia",
+        "surah_name_ar": "سُوْرَةُ الْوَاقِعَةِ",
+        "surah_name_translation": "The Inevitable",
+        "ayah_number": 14,
+        "juz": 27,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 3,
+      "translations": {
+        "ar": {
+          "text": "وَقَلِيلࣱ مِّنَ ٱلۡأٓخِرِينَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "and a few from later generations",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "和少数后人，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "किन्तु पिछलों में से कम ही",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "y muy pocos de las últimas",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "et un petit nombre parmi les dernières [générations]",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "এবং অল্পসংখ্যক পরবর্তীদের মধ্যে থেকে।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E um pouco dos derradeiros",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "и лишь немногие - из последних",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور تھوڑے سے پچھلوں میں سے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_056_015",
+      "reference": {
+        "surah_number": 56,
+        "surah_name": "Al-Waaqia",
+        "surah_name_ar": "سُوْرَةُ الْوَاقِعَةِ",
+        "surah_name_translation": "The Inevitable",
+        "ayah_number": 15,
+        "juz": 27,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 3,
+      "translations": {
+        "ar": {
+          "text": "عَلَىٰ سُرُرࣲ مَّوۡضُونَةࣲ‏",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "˹All will be˺ on jewelled thrones",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "在珠宝镶成的床榻上，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "जड़ित तख़्तो पर",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Tendrán lechos incrustados con oro y piedras preciosas",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "sur des lits ornés [d'or et de pierreries]",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "স্বর্ণ খচিত সিংহাসন।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Estarão sobre leitos de tecidos ricamente bordados",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Они будут лежать на расшитых ложах",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "(لعل و یاقوت وغیرہ سے) جڑے ہوئے تختوں پر",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_056_016",
+      "reference": {
+        "surah_number": 56,
+        "surah_name": "Al-Waaqia",
+        "surah_name_ar": "سُوْرَةُ الْوَاقِعَةِ",
+        "surah_name_translation": "The Inevitable",
+        "ayah_number": 16,
+        "juz": 27,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 3,
+      "translations": {
+        "ar": {
+          "text": "مُّتَّكِـِٔينَ عَلَيۡهَا مُتَقَٰبِلِينَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "reclining face to face",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "彼此相对地靠在上面。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "तकिया लगाए आमने-सामने होंगे",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "y se recostarán en ellos, unos enfrente de otros",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "s'y accoudant et se faisant face",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "তারা তাতে হেলান দিয়ে বসবে পরস্পর মুখোমুখি হয়ে।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Neles reclinados, frente a frente",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "друг против друга, прислонившись",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "آمنے سامنے تکیہ لگائے ہوئے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_056_017",
+      "reference": {
+        "surah_number": 56,
+        "surah_name": "Al-Waaqia",
+        "surah_name_ar": "سُوْرَةُ الْوَاقِعَةِ",
+        "surah_name_translation": "The Inevitable",
+        "ayah_number": 17,
+        "juz": 27,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 4,
+      "translations": {
+        "ar": {
+          "text": "يَطُوفُ عَلَيۡهِمۡ وِلۡدَٰنࣱ مُّخَلَّدُونَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "They will be waited on by eternal youths",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "长生不老的僮仆，轮流着服待他们，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "उनके पास किशोर होंगे जो सदैव किशोरावस्था ही में रहेंगे",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Circularán entre ellos sirvientes eternamente jóvenes",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Parmi eux circuleront des garçons éternellement jeunes",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "তাদের কাছে ঘোরাফেরা করবে চির কিশোরেরা।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Circularão, entre eles, mancebos, eternamente jovens",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Вечно юные отроки будут обходить их",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "نوجوان خدمت گزار جو ہمیشہ (ایک ہی حالت میں) رہیں گے ان کے آس پاس پھریں گے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_056_018",
+      "reference": {
+        "surah_number": 56,
+        "surah_name": "Al-Waaqia",
+        "surah_name_ar": "سُوْرَةُ الْوَاقِعَةِ",
+        "surah_name_translation": "The Inevitable",
+        "ayah_number": 18,
+        "juz": 27,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 5,
+      "translations": {
+        "ar": {
+          "text": "بِأَكۡوَابࣲ وَأَبَارِيقَ وَكَأۡسࣲ مِّن مَّعِينࣲ‏",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "with cups, pitchers, and a drink ˹of pure wine˺ from a flowing stream",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "捧着盏和壶，与满杯的醴泉；",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "प्याले और आफ़ताबे (जग) और विशुद्ध पेय से भरा हुआ पात्र लिए फिर रहे होंगे",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "con vasos, jarros y una copa llenados en un manantial puro",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "avec des coupes, des aiguières et un verre [rempli] d'une liqueur de source",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "পানপাত্র কুঁজা ও খাঁটি সূরাপূর্ণ পেয়ালা হাতে নিয়ে,",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Com copos e jarros e taça de fonte fluida",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "с чашами, кувшинами и кубками с родниковым напитком (вином)",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "یعنی آبخورے اور آفتابے اور صاف شراب کے گلاس لے لے کر",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_056_019",
+      "reference": {
+        "surah_number": 56,
+        "surah_name": "Al-Waaqia",
+        "surah_name_ar": "سُوْرَةُ الْوَاقِعَةِ",
+        "surah_name_translation": "The Inevitable",
+        "ayah_number": 19,
+        "juz": 27,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 5,
+      "translations": {
+        "ar": {
+          "text": "لَّا يُصَدَّعُونَ عَنۡهَا وَلَا يُنزِفُونَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "that will cause them neither headache nor intoxication",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "他们不因那醴泉而头痛，也不酩酊。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "जिस (के पीने) से न तो उन्हें सिर दर्द होगा और न उनकी बुद्धि में विकार आएगा",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "que no provocará jaqueca ni embriaguez",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "qui ne leur provoquera ni maux de tête ni étourdissement",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "যা পান করলে তাদের শিরঃপীড়া হবে না এবং বিকারগ্রস্ত ও হবে না।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Com essa, não sofrerão dor cefálica nem se embriagarão",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "от которого не болит голова и не теряют рассудок",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اس سے نہ تو سر میں درد ہوگا اور نہ ان کی عقلیں زائل ہوں گی",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_056_020",
+      "reference": {
+        "surah_number": 56,
+        "surah_name": "Al-Waaqia",
+        "surah_name_ar": "سُوْرَةُ الْوَاقِعَةِ",
+        "surah_name_translation": "The Inevitable",
+        "ayah_number": 20,
+        "juz": 27,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 3,
+      "translations": {
+        "ar": {
+          "text": "وَفَٰكِهَةࣲ مِّمَّا يَتَخَيَّرُونَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "˹They will also be served˺ any fruit they choose",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "他们有自己所选择的水果，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "और स्वादिष्ट॥ फल जो वे पसन्द करें",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Tendrán las frutas que elijan",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "et des fruits de leur choix",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "আর তাদের পছন্দমত ফল-মুল নিয়ে,",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E com frutas de quanto escolherem",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "с фруктами, которые они выбирают",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور میوے جس طرح کے ان کو پسند ہوں",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_056_021",
+      "reference": {
+        "surah_number": 56,
+        "surah_name": "Al-Waaqia",
+        "surah_name_ar": "سُوْرَةُ الْوَاقِعَةِ",
+        "surah_name_translation": "The Inevitable",
+        "ayah_number": 21,
+        "juz": 27,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 4,
+      "translations": {
+        "ar": {
+          "text": "وَلَحۡمِ طَيۡرࣲ مِّمَّا يَشۡتَهُونَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "and meat from any bird they desire",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "和自己所爱好的鸟肉。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "और पक्षी का मांस जो वे चाह",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "y la carne de ave que les apetezca",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "et toute chair d'oiseau qu'ils désireront",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "এবং রুচিমত পাখীর মাংস নিয়ে।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E com carne de aves de quanto apetecerem",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "и мясом птиц, которое они желают",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور پرندوں کا گوشت جس قسم کا ان کا جی چاہے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_056_022",
+      "reference": {
+        "surah_number": 56,
+        "surah_name": "Al-Waaqia",
+        "surah_name_ar": "سُوْرَةُ الْوَاقِعَةِ",
+        "surah_name_translation": "The Inevitable",
+        "ayah_number": 22,
+        "juz": 27,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 2,
+      "translations": {
+        "ar": {
+          "text": "وَحُورٌ عِينࣱ‏",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "And ˹they will have˺ maidens with gorgeous eyes",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "还有白皙的、美目的妻子，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "और बड़ी आँखोंवाली हूरें",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Habrá huríes de ojos hermosos",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Et ils auront des houris aux yeux, grands et beaux",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "তথায় থাকবে আনতনয়না হুরগণ,",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E haverá húris de belos grandes olhos",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Их женами будут черноокие, большеглазые девы",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور بڑی بڑی آنکھوں والی حوریں",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_056_023",
+      "reference": {
+        "surah_number": 56,
+        "surah_name": "Al-Waaqia",
+        "surah_name_ar": "سُوْرَةُ الْوَاقِعَةِ",
+        "surah_name_translation": "The Inevitable",
+        "ayah_number": 23,
+        "juz": 27,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 3,
+      "translations": {
+        "ar": {
+          "text": "كَأَمۡثَٰلِ ٱللُّؤۡلُوِٕ ٱلۡمَكۡنُونِ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "like pristine pearls",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "好象藏在蚌壳里的珍珠一样。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "मानो छिपाए हुए मोती हो",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "como si fueran perlas ocultas",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "pareilles à des perles en coquille",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "আবরণে রক্ষিত মোতির ন্যায়,",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Iguais a pérolas resguardadas",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "подобные сокрытым жемчужинам",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "جیسے (حفاظت سے) تہہ کئے ہوئے (آب دار) موتی",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_056_024",
+      "reference": {
+        "surah_number": 56,
+        "surah_name": "Al-Waaqia",
+        "surah_name_ar": "سُوْرَةُ الْوَاقِعَةِ",
+        "surah_name_translation": "The Inevitable",
+        "ayah_number": 24,
+        "juz": 27,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 4,
+      "translations": {
+        "ar": {
+          "text": "جَزَآءَۢ بِمَا كَانُواْ يَعۡمَلُونَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "˹all˺ as a reward for what they used to do",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "那是为了报酬他们的善行。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "यह सब उसके बदले में उन्हें प्राप्त होगा जो कुछ वे करते रहे",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "En recompensa por las obras buenas que solían hacer",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "en récompense pour ce qu'ils faisaient",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "তারা যা কিছু করত, তার পুরস্কারস্বরূপ।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Em recompensa do que faziam",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Таково воздаяние за то, что они совершали",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "یہ ان اعمال کا بدلہ ہے جو وہ کرتے تھے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_056_025",
+      "reference": {
+        "surah_number": 56,
+        "surah_name": "Al-Waaqia",
+        "surah_name_ar": "سُوْرَةُ الْوَاقِعَةِ",
+        "surah_name_translation": "The Inevitable",
+        "ayah_number": 25,
+        "juz": 27,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 7,
+      "translations": {
+        "ar": {
+          "text": "لَا يَسۡمَعُونَ فِيهَا لَغۡوࣰ ا وَلَا تَأۡثِيمًا",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "There they will never hear any idle or sinful talk—",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "他们在乐园里，听不到恶言和谎话，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "उसमें वे न कोई व्यर्थ बात सुनेंगे और न गुनाह की बात",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "No oirán frivolidades ni incitación al pecado",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Ils n'y entendront ni futilité ni blasphème",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "তারা তথায় অবান্তর ও কোন খারাপ কথা শুনবে না।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Neles não ouvirão frivolidades nem algo pecaminoso",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Они не услышат там ни празднословия, ни греховных речей",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "وہاں نہ بیہودہ بات سنیں گے اور نہ گالی گلوچ",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_056_026",
+      "reference": {
+        "surah_number": 56,
+        "surah_name": "Al-Waaqia",
+        "surah_name_ar": "سُوْرَةُ الْوَاقِعَةِ",
+        "surah_name_translation": "The Inevitable",
+        "ayah_number": 26,
+        "juz": 27,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 7,
+      "translations": {
+        "ar": {
+          "text": "إِلَّا قِيلࣰ ا سَلَٰمࣰ ا سَلَٰمࣰ ا",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "only good and virtuous speech",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "但听到说：祝你们平安！祝你们平安！",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "सिवाय इस बात के कि \"सलाम हो, सलाम हो",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "tan solo la palabra: \"¡Paz!, ¡paz",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "mais seulement les propos: «Salâm! Salâm!»... [Paix! Paix]",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "কিন্তু শুনবে সালাম আর সালাম।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Senão o dito: \"Salam! Salam!\", Paz! Paz",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "а только слова: «Мир! Мир!»",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "ہاں ان کا کلام سلام سلام (ہوگا)",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_056_027",
+      "reference": {
+        "surah_number": 56,
+        "surah_name": "Al-Waaqia",
+        "surah_name_ar": "سُوْرَةُ الْوَاقِعَةِ",
+        "surah_name_translation": "The Inevitable",
+        "ayah_number": 27,
+        "juz": 27,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 5,
+      "translations": {
+        "ar": {
+          "text": "وَأَصۡحَٰبُ ٱلۡيَمِينِ مَآ أَصۡحَٰبُ ٱلۡيَمِينِ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "And the people of the right—how ˹blessed˺ will they be",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "幸福者，幸福者是何等的人？",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "रहे सौभाग्यशाली लोग, तो सौभाग्यशालियों का क्या कहना",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Los compañeros de la derecha. ¡Qué afortunados serán los compañeros de la derecha",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Et les gens de la droite; que sont les gens de la droite",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "যারা ডান দিকে থাকবে, তারা কত ভাগ্যবান।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E os companheiros da direita - que excelentes os companheiros da direita",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "И будут те, кто по правую сторону. Кто же будет по правую сторону",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور داہنے ہاتھ والے (سبحان الله) داہنے ہاتھ والے کیا (ہی عیش میں) ہیں",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_056_028",
+      "reference": {
+        "surah_number": 56,
+        "surah_name": "Al-Waaqia",
+        "surah_name_ar": "سُوْرَةُ الْوَاقِعَةِ",
+        "surah_name_translation": "The Inevitable",
+        "ayah_number": 28,
+        "juz": 27,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 3,
+      "translations": {
+        "ar": {
+          "text": "فِي سِدۡرࣲ مَّخۡضُودࣲ‏",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "˹They will be˺ amid thornless lote trees",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "他们享受无刺的酸枣树，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "वे वहाँ होंगे जहाँ बिन काँटों के बेर होंगे",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Estarán entre azufaifos sin espinas",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "[Ils seront parmi] des jujubiers sans épines",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "তারা থাকবে কাঁটাবিহীন বদরিকা বৃক্ষে।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Estarão entre açofaifas não espinhosas",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Они пребудут среди лотосов, лишенных шипов",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "(یعنی) بےخار کی بیریوں",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_056_029",
+      "reference": {
+        "surah_number": 56,
+        "surah_name": "Al-Waaqia",
+        "surah_name_ar": "سُوْرَةُ الْوَاقِعَةِ",
+        "surah_name_translation": "The Inevitable",
+        "ayah_number": 29,
+        "juz": 27,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 2,
+      "translations": {
+        "ar": {
+          "text": "وَطَلۡحࣲ مَّنضُودࣲ‏",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "clusters of bananas",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "结实累累的（香蕉）树；",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "और गुच्छेदार केले",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "y árboles cargados de frutos",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "et parmi des bananiers aux régimes bien fournis",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "এবং কাঁদি কাঁদি কলায়,",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E árvores de bananeira bem ordenadas",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "под бананами (или акациями камеденосными) с висящими рядами плодами",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور تہہ بہ تہہ کیلوں",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_056_030",
+      "reference": {
+        "surah_number": 56,
+        "surah_name": "Al-Waaqia",
+        "surah_name_ar": "سُوْرَةُ الْوَاقِعَةِ",
+        "surah_name_translation": "The Inevitable",
+        "ayah_number": 30,
+        "juz": 27,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 2,
+      "translations": {
+        "ar": {
+          "text": "وَظِلࣲّ مَّمۡدُودࣲ‏",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "extended shade",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "漫漫的树荫；",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "दूर तक फैली हुई छाँव",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "de sombra extensa",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "dans une ombre étendue",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "এবং দীর্ঘ ছায়ায়।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E sombra extensa",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "в распростертой тени",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور لمبے لمبے سایوں",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_056_031",
+      "reference": {
+        "surah_number": 56,
+        "surah_name": "Al-Waaqia",
+        "surah_name_ar": "سُوْرَةُ الْوَاقِعَةِ",
+        "surah_name_translation": "The Inevitable",
+        "ayah_number": 31,
+        "juz": 27,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 2,
+      "translations": {
+        "ar": {
+          "text": "وَمَآءࣲ مَّسۡكُوبࣲ‏",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "flowing water",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "泛泛的流水；",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "बहता हुआ पानी",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Habrá agua de continuo fluir",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "[près] d'une eau coulant continuellement",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "এবং প্রবাহিত পানিতে,",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E água sempre fluente",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "среди разлитых вод",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور پانی کے جھرنوں",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_056_032",
+      "reference": {
+        "surah_number": 56,
+        "surah_name": "Al-Waaqia",
+        "surah_name_ar": "سُوْرَةُ الْوَاقِعَةِ",
+        "surah_name_translation": "The Inevitable",
+        "ayah_number": 32,
+        "juz": 27,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 2,
+      "translations": {
+        "ar": {
+          "text": "وَفَٰكِهَةࣲ كَثِيرَةࣲ‏",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "abundant fruit—",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "丰富的水果，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "बहुत-सा स्वादिष्ट; फल",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "y frutos abundantes",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "et des fruits abondants",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "ও প্রচুর ফল-মূলে,",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E frutas abundantes",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "и многочисленных фруктов",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور میوہ ہائے کثیرہ (کے باغوں) میں",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_056_033",
+      "reference": {
+        "surah_number": 56,
+        "surah_name": "Al-Waaqia",
+        "surah_name_ar": "سُوْرَةُ الْوَاقِعَةِ",
+        "surah_name_translation": "The Inevitable",
+        "ayah_number": 33,
+        "juz": 27,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 4,
+      "translations": {
+        "ar": {
+          "text": "لَّا مَقۡطُوعَةࣲ وَلَا مَمۡنُوعَةࣲ‏",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "never out of season nor forbidden—",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "四时不绝，可以随意摘食；",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "जिसका सिलसिला टूटनेवाला न होगा और न उसपर कोई रोक-टोक होगी",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "que no se agotarán y siempre estarán al alcance de sus manos",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "ni interrompus ni défendus",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "যা শেষ হবার নয় এবং নিষিদ্ধ ও নয়,",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Não cortadas nem proibidas",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "которые не кончаются и доступны",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "جو نہ کبھی ختم ہوں اور نہ ان سے کوئی روکے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_056_034",
+      "reference": {
+        "surah_number": 56,
+        "surah_name": "Al-Waaqia",
+        "surah_name_ar": "سُوْرَةُ الْوَاقِعَةِ",
+        "surah_name_translation": "The Inevitable",
+        "ayah_number": 34,
+        "juz": 27,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 2,
+      "translations": {
+        "ar": {
+          "text": "وَفُرُشࣲ مَّرۡفُوعَةٍ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "and elevated furnishings",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "与被升起的床榻。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "उच्चकोटि के बिछौने होंगे",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "[Reposarán] en camas elevadas",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "sur des lits surélevés",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "আর থাকবে সমুন্নত শয্যায়।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E acolchoados elevados",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Они будут лежать на приподнятых матрацах",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور اونچے اونچے فرشوں میں",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_056_035",
+      "reference": {
+        "surah_number": 56,
+        "surah_name": "Al-Waaqia",
+        "surah_name_ar": "سُوْرَةُ الْوَاقِعَةِ",
+        "surah_name_translation": "The Inevitable",
+        "ayah_number": 35,
+        "juz": 27,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 3,
+      "translations": {
+        "ar": {
+          "text": "إِنَّآ أَنشَأۡنَٰهُنَّ إِنشَآءࣰ‏",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Indeed, We will have perfectly created their mates",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "我使她们重新生长，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "(और वहाँ उनकी पत्नियों को) निश्चय ही हमने एक विशेष उठान पर उठान पर उठाया",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Las creé [a las mujeres del Paraíso] de manera especial",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "C'est Nous qui les avons créées à la perfection",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "আমি জান্নাতী রমণীগণকে বিশেষরূপে সৃষ্টি করেছি।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Por certo, fizemo-las surgir, perfeitamente",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Мы сотворим их в новом облике (совершенными)",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "ہم نے ان (حوروں) کو پیدا کیا",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_056_036",
+      "reference": {
+        "surah_number": 56,
+        "surah_name": "Al-Waaqia",
+        "surah_name_ar": "سُوْرَةُ الْوَاقِعَةِ",
+        "surah_name_translation": "The Inevitable",
+        "ayah_number": 36,
+        "juz": 27,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 2,
+      "translations": {
+        "ar": {
+          "text": "فَجَعَلۡنَٰهُنَّ أَبۡكَارًا",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "making them virgins",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "我使她们常为处女，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "और हमने उन्हे कुँवारियाँ बनाया",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "vírgenes",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "et Nous les avons faites vierges",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "অতঃপর তাদেরকে করেছি চিরকুমারী।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E fizemo-las virgens",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "и сделаем их девственницами",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "تو ان کو کنواریاں بنایا",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_056_037",
+      "reference": {
+        "surah_number": 56,
+        "surah_name": "Al-Waaqia",
+        "surah_name_ar": "سُوْرَةُ الْوَاقِعَةِ",
+        "surah_name_translation": "The Inevitable",
+        "ayah_number": 37,
+        "juz": 27,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 3,
+      "translations": {
+        "ar": {
+          "text": "عُرُبًا أَتۡرَابࣰ ا",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "loving and of equal age",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "依恋丈夫，彼此同岁；",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "प्रेम दर्शानेवाली और समायु",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "amorosas y siempre con la misma edad",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "gracieuses, toutes de même âge",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "কামিনী, সমবয়স্কা।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Meigas, da mesma idade",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "любящими и равными по возрасту",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "(اور شوہروں کی) پیاریاں اور ہم عمر",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_056_038",
+      "reference": {
+        "surah_number": 56,
+        "surah_name": "Al-Waaqia",
+        "surah_name_ar": "سُوْرَةُ الْوَاقِعَةِ",
+        "surah_name_translation": "The Inevitable",
+        "ayah_number": 38,
+        "juz": 27,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 2,
+      "translations": {
+        "ar": {
+          "text": "لِّأَصۡحَٰبِ ٱلۡيَمِينِ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "for the people of the right",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "这些都是幸福者所享受的。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "सौभाग्यशाली लोगों के लिए",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Esto es para los compañeros de la derecha",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "pour les gens de la droite",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "ডান দিকের লোকদের জন্যে।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Para os companheiros da direita",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Это - для тех, кто по правую сторону",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "یعنی داہنے ہاتھ والوں کے لئے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_056_039",
+      "reference": {
+        "surah_number": 56,
+        "surah_name": "Al-Waaqia",
+        "surah_name_ar": "سُوْرَةُ الْوَاقِعَةِ",
+        "surah_name_translation": "The Inevitable",
+        "ayah_number": 39,
+        "juz": 27,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 3,
+      "translations": {
+        "ar": {
+          "text": "ثُلَّةࣱ مِّنَ ٱلۡأَوَّلِينَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "˹who will be˺ a multitude from earlier generations",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "他们是许多前人",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "वे अगलों में से भी अधिक होगे",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Muchos de ellos serán de las primeras generaciones",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "une multitude d'élus parmi les premières [générations]",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "তাদের একদল হবে পূর্ববর্তীদের মধ্য থেকে।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Uma multidão dos primeiros",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Многие из них - из первых поколений",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "(یہ) بہت سے اگلے لوگوں میں سے ہیں",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_056_040",
+      "reference": {
+        "surah_number": 56,
+        "surah_name": "Al-Waaqia",
+        "surah_name_ar": "سُوْرَةُ الْوَاقِعَةِ",
+        "surah_name_translation": "The Inevitable",
+        "ayah_number": 40,
+        "juz": 27,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 3,
+      "translations": {
+        "ar": {
+          "text": "وَثُلَّةࣱ مِّنَ ٱلۡأٓخِرِينَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "and a multitude from later generations",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "和许多后人。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "और पिछलों में से भी अधिक होंगे",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "y muchos serán de las últimas generaciones",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "et une multitude d'élus parmi les dernières [générations]",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "এবং একদল পরবর্তীদের মধ্য থেকে।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E uma multidão dos derradeiros",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "а многие - из последних",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور بہت سے پچھلوں میں سے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_056_041",
+      "reference": {
+        "surah_number": 56,
+        "surah_name": "Al-Waaqia",
+        "surah_name_ar": "سُوْرَةُ الْوَاقِعَةِ",
+        "surah_name_translation": "The Inevitable",
+        "ayah_number": 41,
+        "juz": 27,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 5,
+      "translations": {
+        "ar": {
+          "text": "وَأَصۡحَٰبُ ٱلشِّمَالِ مَآ أَصۡحَٰبُ ٱلشِّمَالِ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "And the people of the left—how ˹miserable˺ will they be",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "薄命者，薄命者是何等的人？",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "रहे दुर्भाग्यशाली लोग, तो कैसे होंगे दुर्भाग्यशाली लोग",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "¡Pero qué desafortunados serán los compañeros de la izquierda",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Et les gens de la gauche; que sont les gens de la gauche",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "বামপার্শ্বস্থ লোক, কত না হতভাগা তারা।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E os companheiros da esquerda - que execráveis os companheiros da esquerda",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "И будут те, кто по левую сторону. Кто же будет по левую сторону",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور بائیں ہاتھ والے (افسوس) بائیں ہاتھ والے کیا (ہی عذاب میں) ہیں",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_056_042",
+      "reference": {
+        "surah_number": 56,
+        "surah_name": "Al-Waaqia",
+        "surah_name_ar": "سُوْرَةُ الْوَاقِعَةِ",
+        "surah_name_translation": "The Inevitable",
+        "ayah_number": 42,
+        "juz": 27,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 3,
+      "translations": {
+        "ar": {
+          "text": "فِي سَمُومࣲ وَحَمِيمࣲ‏",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "˹They will be˺ in scorching heat and boiling water",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "他们在毒风和沸水中，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "गर्म हवा और खौलते हुए पानी में होंगे",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Atormentados por un viento abrasador y un líquido hirviente",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "ils seront au milieu d'un souffle brûlant et d'une eau bouillante",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "তারা থাকবে প্রখর বাষ্পে এবং উত্তপ্ত পানিতে,",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Estarão no castigo do Samum e em água ebuliente",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Они окажутся под знойным ветром и в кипятке",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "(یعنی دوزخ کی) لپٹ اور کھولتے ہوئے پانی میں",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_056_043",
+      "reference": {
+        "surah_number": 56,
+        "surah_name": "Al-Waaqia",
+        "surah_name_ar": "سُوْرَةُ الْوَاقِعَةِ",
+        "surah_name_translation": "The Inevitable",
+        "ayah_number": 43,
+        "juz": 27,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 3,
+      "translations": {
+        "ar": {
+          "text": "وَظِلࣲّ مِّن يَحۡمُومࣲ‏",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "in the shade of black smoke",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "在黑烟的阴影下，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "और काले धुएँ की छाँव में",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "a la sombra de un humo negro",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "à l'ombre d'une fumée noire",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "এবং ধুম্রকুঞ্জের ছায়ায়।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E em sombra de nigérrima fumaça",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "в тени черного дыма",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور سیاہ دھوئیں کے سائے میں",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_056_044",
+      "reference": {
+        "surah_number": 56,
+        "surah_name": "Al-Waaqia",
+        "surah_name_ar": "سُوْرَةُ الْوَاقِعَةِ",
+        "surah_name_translation": "The Inevitable",
+        "ayah_number": 44,
+        "juz": 27,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 4,
+      "translations": {
+        "ar": {
+          "text": "لَّا بَارِدࣲ وَلَا كَرِيمٍ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "neither cool nor refreshing",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "既不凉爽，又不美观。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "जो न ठंडी होगी और न उत्तम और लाभप्रद",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "que no será fresca ni agradable",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "ni fraîche, ni douce",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "যা শীতল নয় এবং আরামদায়কও নয়।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Nem fresca nem benfazeja",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "которая не приносит ни прохлады, ни добра",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "(جو) نہ ٹھنڈا (ہے) نہ خوشنما",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_056_045",
+      "reference": {
+        "surah_number": 56,
+        "surah_name": "Al-Waaqia",
+        "surah_name_ar": "سُوْرَةُ الْوَاقِعَةِ",
+        "surah_name_translation": "The Inevitable",
+        "ayah_number": 45,
+        "juz": 27,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 5,
+      "translations": {
+        "ar": {
+          "text": "إِنَّهُمۡ كَانُواْ قَبۡلَ ذَٰلِكَ مُتۡرَفِينَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Indeed, before this ˹torment˺ they were spoiled by luxury",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "以前他们确是豪华的，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "वे इससे पहले सुख-सम्पन्न थे",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Porque se entregaron a los lujos superfluos",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Ils vivaient auparavant dans le luxe",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "তারা ইতিপূর্বে স্বাচ্ছন্দ্যশীল ছিল।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Por certo, antes disso, eram opulentos",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Прежде они нежились роскошью",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "یہ لوگ اس سے پہلے عیشِ نعیم میں پڑے ہوئے تھے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_056_046",
+      "reference": {
+        "surah_number": 56,
+        "surah_name": "Al-Waaqia",
+        "surah_name_ar": "سُوْرَةُ الْوَاقِعَةِ",
+        "surah_name_translation": "The Inevitable",
+        "ayah_number": 46,
+        "juz": 27,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 5,
+      "translations": {
+        "ar": {
+          "text": "وَكَانُواْ يُصِرُّونَ عَلَى ٱلۡحِنثِ ٱلۡعَظِيمِ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "and persisted in the worst of sin",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "确是固执大罪的，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "और बड़े गुनाह पर अड़े रहते थे",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "se aferraron al más terrible pecado",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Ils persistaient dans le grand péché [le polythéisme]",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "তারা সদাসর্বদা ঘোরতর পাপকর্মে ডুবে থাকত।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E obstinavam-se no formidável erro",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "упорствовали в великом грехе",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور گناہ عظیم پر اڑے ہوئے تھے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_056_047",
+      "reference": {
+        "surah_number": 56,
+        "surah_name": "Al-Waaqia",
+        "surah_name_ar": "سُوْرَةُ الْوَاقِعَةِ",
+        "surah_name_translation": "The Inevitable",
+        "ayah_number": 47,
+        "juz": 27,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 10,
+      "translations": {
+        "ar": {
+          "text": "وَكَانُواْ يَقُولُونَ أَئِذَا مِتۡنَا وَكُنَّا تُرَابࣰ ا وَعِظَٰمًا أَءِنَّا لَمَبۡعُوثُونَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "They used to ask ˹mockingly˺, “When we are dead and reduced to dust and bones, will we really be resurrected",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "他们常说：难道我们死后，已变成尘土和枯骨的时候，我们必定要复活吗？",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "कहते थे, \"क्या जब हम मर जाएँगे और मिट्टी और हड्डियाँ होकर रहे जाएँगे, तो क्या हम वास्तव में उठाए जाएँगे",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "y preguntaban burlándose: \"¿Acaso cuando muramos y ya seamos tierra y huesos, vamos a ser resucitados",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "et disaient: «Quand nous mourrons et serons poussière et ossements, serons-nous ressuscités",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "তারা বলতঃ আমরা যখন মরে অস্থি ও মৃত্তিকায় পরিণত হয়ে যাব, তখনও কি পুনরুত্থিত হব?",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E diziam: \"Quando morrermos e formos pó e ossos, seremos ressuscitados",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "и говорили: «Неужели мы будем воскрешены после того, как мы умрем и станем прахом и костями",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور کہا کرتے تھے کہ بھلا جب ہم مرگئے اور مٹی ہوگئے اور ہڈیاں (ہی ہڈیاں رہ گئے) تو کیا ہمیں پھر اُٹھنا ہوگا؟",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_056_048",
+      "reference": {
+        "surah_number": 56,
+        "surah_name": "Al-Waaqia",
+        "surah_name_ar": "سُوْرَةُ الْوَاقِعَةِ",
+        "surah_name_translation": "The Inevitable",
+        "ayah_number": 48,
+        "juz": 27,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 2,
+      "translations": {
+        "ar": {
+          "text": "أَوَءَابَآؤُنَا ٱلۡأَوَّلُونَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "And our forefathers as well?”",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "连我们的祖先也要复活吗？",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "और क्या हमारे पहले के बाप-दादा भी",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "¿Y nuestros ancestros también",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "ainsi que nos anciens ancêtres?..»",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "এবং আমাদের পূর্বপুরুষগণও!",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E nossos pais antepassados, também",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Или же наши праотцы?»",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور کیا ہمارے باپ دادا کو بھی؟",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_056_049",
+      "reference": {
+        "surah_number": 56,
+        "surah_name": "Al-Waaqia",
+        "surah_name_ar": "سُوْرَةُ الْوَاقِعَةِ",
+        "surah_name_translation": "The Inevitable",
+        "ayah_number": 49,
+        "juz": 27,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 4,
+      "translations": {
+        "ar": {
+          "text": "قُلۡ إِنَّ ٱلۡأَوَّلِينَ وَٱلۡأٓخِرِينَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Say, ˹O Prophet,˺ “Most certainly, earlier and later generations",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "你说：前人和后人，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "कह दो, \"निश्चय ही अगले और पिछले भी",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Respóndeles: \"Los primeros y los últimos",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Dis: «En vérité les premiers et les derniers",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "বলুনঃ পূর্ববর্তী ও পরবর্তীগণ,",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Dize: \"Por certo, os primeiros e os derradeiros",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Скажи: «Воистину, как первые, так и последние поколения",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "کہہ دو کہ بےشک پہلے اور پچھلے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_056_050",
+      "reference": {
+        "surah_number": 56,
+        "surah_name": "Al-Waaqia",
+        "surah_name_ar": "سُوْرَةُ الْوَاقِعَةِ",
+        "surah_name_translation": "The Inevitable",
+        "ayah_number": 50,
+        "juz": 27,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 5,
+      "translations": {
+        "ar": {
+          "text": "لَمَجۡمُوعُونَ إِلَىٰ مِيقَٰتِ يَوۡمࣲ مَّعۡلُومࣲ‏",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "will surely be gathered ˹together˺ for the appointed Day",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "在一个著名的日期和特定时间必定要被集合。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "एक नियत समय पर इकट्ठे कर दिए जाएँगे, जिसका दिन ज्ञात और नियत है",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "serán congregados en un día ya establecido",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "seront réunis pour le rendez-vous d'un jour connu»",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "সবাই একত্রিত হবে এক নির্দিষ্ট দিনের নির্দিষ্ট সময়ে।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Serão juntados em um tempo marcado de dia determinado",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "будут собраны в определенном месте в известный день",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "(سب) ایک روز مقرر کے وقت پر جمع کئے جائیں گے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_056_051",
+      "reference": {
+        "surah_number": 56,
+        "surah_name": "Al-Waaqia",
+        "surah_name_ar": "سُوْرَةُ الْوَاقِعَةِ",
+        "surah_name_translation": "The Inevitable",
+        "ayah_number": 51,
+        "juz": 27,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 5,
+      "translations": {
+        "ar": {
+          "text": "ثُمَّ إِنَّكُمۡ أَيُّهَا ٱلضَّآلُّونَ ٱلۡمُكَذِّبُونَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Then you, O misguided deniers",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "然后迷误的、否认复活的人们啊！",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "फिर तुम ऐ गुमराहो, झुठलानेवालो",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Luego, ¡oh, extraviados y desmentidores",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Et puis, vous, les égarés, qui traitiez (la Résurrection) de mensonge",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "অতঃপর হে পথভ্রষ্ট, মিথ্যারোপকারীগণ।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Em seguida, por certo, ó vós descaminhados, desmentidores",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Тогда вы, о заблудшие, считающие лжецами посланников",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "پھر تم اے جھٹلانے والے گمرا ہو",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_056_052",
+      "reference": {
+        "surah_number": 56,
+        "surah_name": "Al-Waaqia",
+        "surah_name_ar": "سُوْرَةُ الْوَاقِعَةِ",
+        "surah_name_translation": "The Inevitable",
+        "ayah_number": 52,
+        "juz": 27,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 5,
+      "translations": {
+        "ar": {
+          "text": "لَأٓكِلُونَ مِن شَجَرࣲ مِّن زَقُّومࣲ‏",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "will certainly eat from ˹the fruit of˺ the trees of Zaqqûm",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "你们必定食攒（木+苦）木的果实，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "ज़क्कूम के वृक्ष में से खाओंगे",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "han de comer del árbol del Zaqqum",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "vous mangerez certainement d'un arbre de Zaqqûm",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "তোমরা অবশ্যই ভক্ষণ করবে যাক্কুম বৃক্ষ থেকে,",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Comereis, certamente, da árvore de Zaqqum",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "непременно вкусите от дерева заккум",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "تھوہر کے درخت کھاؤ گے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_056_053",
+      "reference": {
+        "surah_number": 56,
+        "surah_name": "Al-Waaqia",
+        "surah_name_ar": "سُوْرَةُ الْوَاقِعَةِ",
+        "surah_name_translation": "The Inevitable",
+        "ayah_number": 53,
+        "juz": 27,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 3,
+      "translations": {
+        "ar": {
+          "text": "فَمَالِـُٔونَ مِنۡهَا ٱلۡبُطُونَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "filling up ˹your˺ bellies with it",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "而以它充饥，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "और उसी से पेट भरोगे",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "con el que llenarán sus vientres",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "vous vous en remplirez le ventre",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "অতঃপর তা দ্বারা উদর পূর্ণ করবে,",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E dela enchereis os ventres",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Вы будете набивать ими животы",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور اسی سے پیٹ بھرو گے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_056_054",
+      "reference": {
+        "surah_number": 56,
+        "surah_name": "Al-Waaqia",
+        "surah_name_ar": "سُوْرَةُ الْوَاقِعَةِ",
+        "surah_name_translation": "The Inevitable",
+        "ayah_number": 54,
+        "juz": 27,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 4,
+      "translations": {
+        "ar": {
+          "text": "فَشَٰرِبُونَ عَلَيۡهِ مِنَ ٱلۡحَمِيمِ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Then on top of that you will drink boiling water—",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "然后痛饮沸水，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "और उसके ऊपर से खौलता हुआ पानी पीओगे",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "y luego beberán un líquido hirviente",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "puis vous boirez par-dessus cela de l'eau bouillante",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "অতঃপর তার উপর পান করবে উত্তপ্ত পানি।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E, por cima, bebereis da água ebuliente",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "и запивать их кипятком",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور اس پر کھولتا ہوا پانی پیو گے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_056_055",
+      "reference": {
+        "surah_number": 56,
+        "surah_name": "Al-Waaqia",
+        "surah_name_ar": "سُوْرَةُ الْوَاقِعَةِ",
+        "surah_name_translation": "The Inevitable",
+        "ayah_number": 55,
+        "juz": 27,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 3,
+      "translations": {
+        "ar": {
+          "text": "فَشَٰرِبُونَ شُرۡبَ ٱلۡهِيمِ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "and you will drink ˹it˺ like thirsty camels do.”",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "象害消渴病的骆驼饮凉水一样。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "और तौस लगे ऊँट की तरह पीओगे।",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "como beben los camellos sedientos que no pueden saciar su sed",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "vous en boirez comme boivent les chameaux assoiffés",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "পান করবে পিপাসিত উটের ন্যায়।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E bebereis como camelos sequiosos",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "как пьют больные верблюды, которые не могут спастись от жажды»",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور پیو گے بھی تو اس طرح جیسے پیاسے اونٹ پیتے ہیں",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_056_056",
+      "reference": {
+        "surah_number": 56,
+        "surah_name": "Al-Waaqia",
+        "surah_name_ar": "سُوْرَةُ الْوَاقِعَةِ",
+        "surah_name_translation": "The Inevitable",
+        "ayah_number": 56,
+        "juz": 27,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 4,
+      "translations": {
+        "ar": {
+          "text": "هَٰذَا نُزُلُهُمۡ يَوۡمَ ٱلدِّينِ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "This will be their accommodation on the Day of Judgment",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "这是他们在报应之日所受的款待。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "यह बदला दिए जाने के दिन उनका पहला सत्कार होगा",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Esa será su morada el Día del Juicio",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Voilà le repas d'accueil qui leur sera servi, au jour de la Rétribution",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "কেয়ামতের দিন এটাই হবে তাদের আপ্যায়ন।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Esta será sua hospedagem no Dia do juízo",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Таким для них будет угощение в День воздаяния",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "جزا کے دن یہ ان کی ضیافت ہوگی",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_056_057",
+      "reference": {
+        "surah_number": 56,
+        "surah_name": "Al-Waaqia",
+        "surah_name_ar": "سُوْرَةُ الْوَاقِعَةِ",
+        "surah_name_translation": "The Inevitable",
+        "ayah_number": 57,
+        "juz": 27,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 4,
+      "translations": {
+        "ar": {
+          "text": "نَحۡنُ خَلَقۡنَٰكُمۡ فَلَوۡلَا تُصَدِّقُونَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "It is We Who created you. Will you not then believe ˹in resurrection˺",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "我曾创造你们，你们怎么不信复活呢？",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "हमने तुम्हें पैदा किया; फिर तुम सच क्यों नहीं मानते",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Yo los creé, ¿por qué no aceptan la verdad",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "C'est Nous qui vous avons créés. Pourquoi ne croiriez-vous donc pas [à la résurrection]",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "আমি সৃষ্টি করেছি তোমাদেরকে। অতঃপর কেন তোমরা তা সত্য বলে বিশ্বাস কর না।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Nós vos criamos. Que vós, então confirmeis a Ressurreição",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Мы сотворили вас. Почему же вы не признаете воскрешения",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "ہم نے تم کو (پہلی بار بھی تو) پیدا کیا ہے تو تم (دوبارہ اُٹھنے کو) کیوں سچ نہیں سمجھتے؟",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_056_058",
+      "reference": {
+        "surah_number": 56,
+        "surah_name": "Al-Waaqia",
+        "surah_name_ar": "سُوْرَةُ الْوَاقِعَةِ",
+        "surah_name_translation": "The Inevitable",
+        "ayah_number": 58,
+        "juz": 27,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 3,
+      "translations": {
+        "ar": {
+          "text": "أَفَرَءَيۡتُم مَّا تُمۡنُونَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Have you considered what you ejaculate",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "你们告诉我吧！你们所射的精液，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "तो क्या तुमने विचार किया जो चीज़ तुम टपकाते हो",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "¿Por qué no reflexionan en lo que eyaculan",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Voyez-vous donc ce que vous éjaculez",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "তোমরা কি ভেবে দেখেছ, তোমাদের বীর্যপাত সম্পর্কে।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E vistes o que ejaculais",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Видели ли вы семя, которое вы извергаете",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "دیکھو تو کہ جس (نطفے) کو تم (عورتوں کے رحم میں) ڈالتے ہو",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_056_059",
+      "reference": {
+        "surah_number": 56,
+        "surah_name": "Al-Waaqia",
+        "surah_name_ar": "سُوْرَةُ الْوَاقِعَةِ",
+        "surah_name_translation": "The Inevitable",
+        "ayah_number": 59,
+        "juz": 27,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 5,
+      "translations": {
+        "ar": {
+          "text": "ءَأَنتُمۡ تَخۡلُقُونَهُۥٓ أَمۡ نَحۡنُ ٱلۡخَٰلِقُونَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Is it you who create ˹a child out of˺ it, or is it We Who do so",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "究竟是你们把它造成人呢？还是我把它造成人呢？",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "क्या तुम उसे आकार देते हो, या हम है आकार देनेवाले",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "¿Lo han creado ustedes o soy Yo el creador",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "est-ce vous qui le créez ou [en] sommes Nous le Créateur",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "তোমরা তাকে সৃষ্টি কর, না আমি সৃষ্টি করি?",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Sois vós que o criais, ou somos Nós O Criador",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Вы создаете его или Мы создаем",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "کیا تم اس (سے انسان) کو بناتے ہو یا ہم بناتے ہیں؟",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_056_060",
+      "reference": {
+        "surah_number": 56,
+        "surah_name": "Al-Waaqia",
+        "surah_name_ar": "سُوْرَةُ الْوَاقِعَةِ",
+        "surah_name_translation": "The Inevitable",
+        "ayah_number": 60,
+        "juz": 27,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 7,
+      "translations": {
+        "ar": {
+          "text": "نَحۡنُ قَدَّرۡنَا بَيۡنَكُمُ ٱلۡمَوۡتَ وَمَا نَحۡنُ بِمَسۡبُوقِينَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "We have ordained death for ˹all of˺ you, and We cannot be prevented",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "我曾将死亡分配给你们，任何人不能阻挠我，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "हमने तुम्हारे बीच मृत्यु को नियत किया है और हमारे बस से यह बाहर नहीं है",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Yo he decretado cuándo morirá cada uno de ustedes y nadie podría impedirme",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Nous avons prédéterminé la mort parmi vous. Nous ne serons point empêchés",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "আমি তোমাদের মৃত্যুকাল নির্ধারিত করেছি এবং আমি অক্ষম নই।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Nós determinamos estar a morte entre vós, e Nós não seremos Impedidos",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Мы распределили между вами смерть, и ничто не может помешать Нам",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "ہم نے تم میں مرنا ٹھہرا دیا ہے اور ہم اس (بات) سے عاجز نہیں",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_056_061",
+      "reference": {
+        "surah_number": 56,
+        "surah_name": "Al-Waaqia",
+        "surah_name_ar": "سُوْرَةُ الْوَاقِعَةِ",
+        "surah_name_translation": "The Inevitable",
+        "ayah_number": 61,
+        "juz": 27,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 9,
+      "translations": {
+        "ar": {
+          "text": "عَلَىٰٓ أَن نُّبَدِّلَ أَمۡثَٰلَكُمۡ وَنُنشِئَكُمۡ فِي مَا لَا تَعۡلَمُونَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "from transforming and recreating you in forms unknown to you",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "不让我改变你们的品性，而使你们生长在你们所不知的状态中。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "कि हम तुम्हारे जैसों को बदल दें और तुम्हें ऐसी हालत में उठा खड़ा करें जिसे तुम जानते नहीं",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "aniquilarlos y sustituirlos [por otra generación], y resucitarlos [el Día del Juicio] conforme a un proceso que desconocen",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "de vous remplacer par vos semblables, et vous faire renaître dans [un état] que vous ne savez pas",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "এ ব্যাপারে যে, তোমাদের পরিবর্তে তোমাদের মত লোককে নিয়ে আসি এবং তোমাদেরকে এমন করে দেই, যা তোমরা জান না।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "De trocar-vos por semelhantes a vós e fazer-vos surgir em algo que não sabeis",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "заменить вас подобными вам (или изменить ваше обличие) и создать вас такими, какими вы себе и не представляете",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "کہ تمہاری طرح کے اور لوگ تمہاری جگہ لے آئیں اور تم کو ایسے جہان میں جس کو تم نہیں جانتے پیدا کر دیں",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_056_062",
+      "reference": {
+        "surah_number": 56,
+        "surah_name": "Al-Waaqia",
+        "surah_name_ar": "سُوْرَةُ الْوَاقِعَةِ",
+        "surah_name_translation": "The Inevitable",
+        "ayah_number": 62,
+        "juz": 27,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 6,
+      "translations": {
+        "ar": {
+          "text": "وَلَقَدۡ عَلِمۡتُمُ ٱلنَّشۡأَةَ ٱلۡأُولَىٰ فَلَوۡلَا تَذَكَّرُونَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "You already know how you were first created. Will you not then be mindful",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "你们确已知道初次的生长，你们怎不觉悟呢？",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "तुम तो पहली पैदाइश को जान चुके हो, फिर तुम ध्यान क्यों नहीं देते",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Si reconocen que fueron creados por primera vez, ¿por qué no reflexionan",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Vous avez connu la première création. Ne vous rappelez-vous donc pas",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "তোমরা অবগত হয়েছ প্রথম সৃষ্টি সম্পর্কে, তবে তোমরা অনুধাবন কর না কেন?",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E, com efeito, sabeis do primeiro surgimento. Então, que vós mediteis",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Вы уже знаете о первом сотворении. Почему же вы не помяните назидание",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور تم نے پہلی پیدائش تو جان ہی لی ہے۔ پھر تم سوچتے کیوں نہیں؟",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_056_063",
+      "reference": {
+        "surah_number": 56,
+        "surah_name": "Al-Waaqia",
+        "surah_name_ar": "سُوْرَةُ الْوَاقِعَةِ",
+        "surah_name_translation": "The Inevitable",
+        "ayah_number": 63,
+        "juz": 27,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 3,
+      "translations": {
+        "ar": {
+          "text": "أَفَرَءَيۡتُم مَّا تَحۡرُثُونَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Have you considered what you sow",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "你们告诉我吧！你们所耕种的庄稼，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "फिर क्या तुमने देखा तो कुछ तुम खेती करते हो",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "¿No han observado sus cultivos",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Voyez-vous donc ce que vous labourez",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "তোমরা যে বীজ বপন কর, সে সম্পর্কে ভেবে দেখেছ কি?",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E vistes o que lavrais",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Видели ли вы то, что вы сеете",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "بھلا دیکھو تو کہ جو کچھ تم بوتے ہو",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_056_064",
+      "reference": {
+        "surah_number": 56,
+        "surah_name": "Al-Waaqia",
+        "surah_name_ar": "سُوْرَةُ الْوَاقِعَةِ",
+        "surah_name_translation": "The Inevitable",
+        "ayah_number": 64,
+        "juz": 27,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 5,
+      "translations": {
+        "ar": {
+          "text": "ءَأَنتُمۡ تَزۡرَعُونَهُۥٓ أَمۡ نَحۡنُ ٱلزَّٰرِعُونَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Is it you who cause it to grow, or is it We Who do so",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "究竟是你们使它发荣呢？还是我使它发荣呢？",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "क्या उसे तुम उगाते हो या हम उसे उगाते है",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "¿Ustedes los hacen germinar, o soy Yo Quien los hace germinar",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Est-ce vous qui le cultivez? ou [en] sommes Nous le cultivateur",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "তোমরা তাকে উৎপন্ন কর, না আমি উৎপন্নকারী ?",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Sois vós que o semeais, ou somos Nós O Semeador",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Вы ли заставляете его произрасти или Мы заставляем",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "تو کیا تم اسے اُگاتے ہو یا ہم اُگاتے ہیں؟",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_056_065",
+      "reference": {
+        "surah_number": 56,
+        "surah_name": "Al-Waaqia",
+        "surah_name_ar": "سُوْرَةُ الْوَاقِعَةِ",
+        "surah_name_translation": "The Inevitable",
+        "ayah_number": 65,
+        "juz": 27,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 7,
+      "translations": {
+        "ar": {
+          "text": "لَوۡ نَشَآءُ لَجَعَلۡنَٰهُ حُطَٰمࣰ ا فَظَلۡتُمۡ تَفَكَّهُونَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "If We willed, We could simply reduce this ˹harvest˺ to chaff, leaving you to lament",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "假若我意欲，我必使它凋零，而你们变成诧异者，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "यदि हम चाहें तो उसे चूर-चूर कर दें। फिर तुम बातें बनाते रह जाओ",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Si quisiera los convertiría en pasto seco y entonces se lamentarían",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Si Nous voulions, Nous le réduirions en débris. Et vous ne cesseriez pas de vous étonner et [de crier]",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "আমি ইচ্ছা করলে তাকে খড়কুটা করে দিতে পারি, অতঃপর হয়ে যাবে তোমরা বিস্ময়াবিষ্ট।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Se quiséssemos, fá-lo-íamos pulvéreo, então permaneceríeis exclamando",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Если Мы пожелаем, то превратим его в труху, и тогда вы останетесь удивленными",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اگر ہم چاہیں تو اسے چورا چورا کردیں اور تم باتیں بناتے رہ جاؤ",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_056_066",
+      "reference": {
+        "surah_number": 56,
+        "surah_name": "Al-Waaqia",
+        "surah_name_ar": "سُوْرَةُ الْوَاقِعَةِ",
+        "surah_name_translation": "The Inevitable",
+        "ayah_number": 66,
+        "juz": 27,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 2,
+      "translations": {
+        "ar": {
+          "text": "إِنَّا لَمُغۡرَمُونَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "“We have truly suffered a ˹great˺ loss",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "你们将说：我们是遭损失的。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "कि \"हमपर उलटा डाँड पड़ गया",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "[y dirían:] \"Hemos sido castigados",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "«Nous voilà endettés",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "বলবেঃ আমরা তো ঋণের চাপে পড়ে গেলাম;",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "certo, estamos onerados",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "и скажите: «Воистину, мы потерпели убыток",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "(کہ ہائے) ہم تو مفت تاوان میں پھنس گئے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_056_067",
+      "reference": {
+        "surah_number": 56,
+        "surah_name": "Al-Waaqia",
+        "surah_name_ar": "سُوْرَةُ الْوَاقِعَةِ",
+        "surah_name_translation": "The Inevitable",
+        "ayah_number": 67,
+        "juz": 27,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 3,
+      "translations": {
+        "ar": {
+          "text": "بَلۡ نَحۡنُ مَحۡرُومُونَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "In fact, we have been deprived ˹of our livelihood˺.”",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "不然！我们是被剥夺的。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "बल्कि हम वंचित होकर रह गए",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "y quedamos en la ruina",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "ou plutôt, exposés aux privations»",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "বরং আমরা হূত সর্বস্ব হয়ে পড়লাম।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Ou, aliás, desprovidos",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Более того, мы лишились пропитания»",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "بلکہ ہم ہیں ہی بےنصیب",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_056_068",
+      "reference": {
+        "surah_number": 56,
+        "surah_name": "Al-Waaqia",
+        "surah_name_ar": "سُوْرَةُ الْوَاقِعَةِ",
+        "surah_name_translation": "The Inevitable",
+        "ayah_number": 68,
+        "juz": 27,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 4,
+      "translations": {
+        "ar": {
+          "text": "أَفَرَءَيۡتُمُ ٱلۡمَآءَ ٱلَّذِي تَشۡرَبُونَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Have you considered the water you drink",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "你们告诉吧！你们所饮的水，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "फिर क्या तुमने उस पानी को देखा जिसे तुम पीते हो",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "¿No han observado el agua que beben",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Voyez-vous donc l'eau que vous buvez",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "তোমরা যে পানি পান কর, সে সম্পর্কে ভেবে দেখেছ কি?",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E vistes a água que bebeis",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Видели ли вы воду, которую вы пьете",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "بھلا دیکھو تو کہ جو پانی تم پیتے ہو",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_056_069",
+      "reference": {
+        "surah_number": 56,
+        "surah_name": "Al-Waaqia",
+        "surah_name_ar": "سُوْرَةُ الْوَاقِعَةِ",
+        "surah_name_translation": "The Inevitable",
+        "ayah_number": 69,
+        "juz": 27,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 7,
+      "translations": {
+        "ar": {
+          "text": "ءَأَنتُمۡ أَنزَلۡتُمُوهُ مِنَ ٱلۡمُزۡنِ أَمۡ نَحۡنُ ٱلۡمُنزِلُونَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Is it you who bring it down from the clouds, or is it We Who do so",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "究竟是你们使它从云中降下的呢？还是我使它降下的呢？",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "क्या उसे बादलों से तुमने पानी बरसाया या बरसानेवाले हम है",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "¿Ustedes la hacen descender de las nubes o soy Yo Quien la hago descender",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Est-ce vous qui l'avez fait descendre du nuage? ou [en] sommes Nous le descendeur",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "তোমরা তা মেঘ থেকে নামিয়ে আন, না আমি বর্ষন করি?",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Sois vós que a fazeis descer dos nimbos, ou somos Nós Que a fazemos descer",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Вы ли ниспосылаете ее из дождевых туч или Мы ниспосылаем",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "کیا تم نے اس کو بادل سے نازل کیا ہے یا ہم نازل کرتے ہیں؟",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_056_070",
+      "reference": {
+        "surah_number": 56,
+        "surah_name": "Al-Waaqia",
+        "surah_name_ar": "سُوْرَةُ الْوَاقِعَةِ",
+        "surah_name_translation": "The Inevitable",
+        "ayah_number": 70,
+        "juz": 27,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 7,
+      "translations": {
+        "ar": {
+          "text": "لَوۡ نَشَآءُ جَعَلۡنَٰهُ أُجَاجࣰ ا فَلَوۡلَا تَشۡكُرُونَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "If We willed, We could make it salty. Will you not then give thanks",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "假若我意欲，我必使它变成苦的，你们怎么不感谢呢？",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "यदि हम चाहें तो उसे अत्यन्त खारा बनाकर रख दें। फिर तुम कृतज्ञता क्यों नहीं दिखाते",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Si quisiera la habría hecho salobre, ¿por qué no son agradecidos",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Si Nous voulions, Nous la rendrions salée. Pourquoi n'êtes-vous donc pas reconnaissants",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "আমি ইচ্ছা করলে তাকে লোনা করে দিতে পারি, অতঃপর তোমরা কেন কৃতজ্ঞতা প্রকাশ কর না?",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Se quiséssemos, fá-la-íamos salsíssima. Então, que vós agradeçais",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Если бы Мы пожелали, то сделали бы ее горькой. Почему же вы неблагодарны",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اگر ہم چاہیں تو ہم اسے کھاری کردیں پھر تم شکر کیوں نہیں کرتے؟",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_056_071",
+      "reference": {
+        "surah_number": 56,
+        "surah_name": "Al-Waaqia",
+        "surah_name_ar": "سُوْرَةُ الْوَاقِعَةِ",
+        "surah_name_translation": "The Inevitable",
+        "ayah_number": 71,
+        "juz": 27,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 4,
+      "translations": {
+        "ar": {
+          "text": "أَفَرَءَيۡتُمُ ٱلنَّارَ ٱلَّتِي تُورُونَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Have you considered the fire you kindle",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "你们告诉吧！你们所钻取的火；",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "फिर क्या तुमने उस आग को देखा जिसे तुम सुलगाते हो",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "¿No han observado el fuego que encienden",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Voyez-vous donc le feu que vous obtenez par frottement",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "তোমরা যে অগ্নি প্রজ্জ্বলিত কর, সে সম্পর্কে ভেবে দেখেছ কি?",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E vistes o fogo que ateais",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Видели ли вы огонь, который вы высекаете",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "بھلا دیکھو تو جو آگ تم درخت سے نکالتے ہو",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_056_072",
+      "reference": {
+        "surah_number": 56,
+        "surah_name": "Al-Waaqia",
+        "surah_name_ar": "سُوْرَةُ الْوَاقِعَةِ",
+        "surah_name_translation": "The Inevitable",
+        "ayah_number": 72,
+        "juz": 27,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 6,
+      "translations": {
+        "ar": {
+          "text": "ءَأَنتُمۡ أَنشَأۡتُمۡ شَجَرَتَهَآ أَمۡ نَحۡنُ ٱلۡمُنشِـُٔونَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Is it you who produce its trees, or is it We Who do so",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "究竟是你们使燧木生长的呢？还是我使它生长的呢？",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "क्या तुमने उसके वृक्ष को पैदा किया है या पैदा करनेवाले हम है",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "¿Ustedes han creado el árbol con el que lo encienden o soy Yo el creador",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Est-ce vous qui avez créé son arbre ou [en] sommes Nous le Créateur",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "তোমরা কি এর বৃক্ষ সৃষ্টি করেছ, না আমি সৃষ্টি করেছি ?",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Sois vós que fazeis surgir sua árvore, ou somos Nós Que a fazemos surgir",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Вы ли создаете деревья для него или Мы создаем",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "کیا تم نے اس کے درخت کو پیدا کیا ہے یا ہم پیدا کرتے ہیں؟",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_056_073",
+      "reference": {
+        "surah_number": 56,
+        "surah_name": "Al-Waaqia",
+        "surah_name_ar": "سُوْرَةُ الْوَاقِعَةِ",
+        "surah_name_translation": "The Inevitable",
+        "ayah_number": 73,
+        "juz": 27,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 6,
+      "translations": {
+        "ar": {
+          "text": "نَحۡنُ جَعَلۡنَٰهَا تَذۡكِرَةࣰ وَمَتَٰعࣰ ا لِّلۡمُقۡوِينَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "We have made it ˹as˺ a reminder ˹of the Hellfire˺ and a provision for the travellers",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "我以它为教训，并且以它为荒野的居民的慰藉，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "हमने उसे एक अनुस्मृति और मरुभुमि के मुसाफ़िरों और ज़रूरतमन्दों के लिए लाभप्रद बनाया",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "He creado el fuego para que reflexionen, y para beneficio de los viajeros",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Nous en avons fait un rappel (de l'Enfer), et un élément utile pour ceux qui en ont besoin",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "আমি সেই বৃক্ষকে করেছি স্মরণিকা এবং মরুবাসীদের জন্য সামগ্রী।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Nós o fizemos como lembrança e proveito para os viajantes do deserto",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Мы сделали его напоминанием и предметом пользования для путников",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "ہم نے اسے یاد دلانے اور مسافروں کے برتنے کو بنایا ہے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_056_074",
+      "reference": {
+        "surah_number": 56,
+        "surah_name": "Al-Waaqia",
+        "surah_name_ar": "سُوْرَةُ الْوَاقِعَةِ",
+        "surah_name_translation": "The Inevitable",
+        "ayah_number": 74,
+        "juz": 27,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 4,
+      "translations": {
+        "ar": {
+          "text": "فَسَبِّحۡ بِٱسۡمِ رَبِّكَ ٱلۡعَظِيمِ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "So glorify the Name of your Lord, the Greatest",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "故你们应当颂扬你的主的大名。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "अतः तुम अपने महान रब के नाम की तसबीह करो",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Glorifica el nombre de tu Señor, el Grandioso",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Glorifie donc le nom de ton Seigneur, le Très Grand",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "অতএব, আপনি আপনার মহান পালনকর্তার নামে পবিত্রতা ঘোষণা করুন।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Então, glorifica o nome de teu Magnífico Senhor",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Прославляй же имя Великого Господа твоего",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "تو تم اپنے پروردگار بزرگ کے نام کی تسبیح کرو",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_056_075",
+      "reference": {
+        "surah_number": 56,
+        "surah_name": "Al-Waaqia",
+        "surah_name_ar": "سُوْرَةُ الْوَاقِعَةِ",
+        "surah_name_translation": "The Inevitable",
+        "ayah_number": 75,
+        "juz": 27,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 4,
+      "translations": {
+        "ar": {
+          "text": "۞فَلَآ أُقۡسِمُ بِمَوَٰقِعِ ٱلنُّجُومِ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "So I do swear by the positions of the stars—",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "我必以星宿的没落处盟誓，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "अतः नहीं! मैं क़समों खाता हूँ सितारों की स्थितियों की",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "¡Juro por las estrellas cuando desaparecen",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Non!.. Je jure par les positions des étoiles (dans le firmament)",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "অতএব, আমি তারকারাজির অস্তাচলের শপথ করছি,",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E juro pelas posições das estrelas",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Но нет! Клянусь местами заката звезд (или ниспослания частей Корана)",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "ہمیں تاروں کی منزلوں کی قسم",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_056_076",
+      "reference": {
+        "surah_number": 56,
+        "surah_name": "Al-Waaqia",
+        "surah_name_ar": "سُوْرَةُ الْوَاقِعَةِ",
+        "surah_name_translation": "The Inevitable",
+        "ayah_number": 76,
+        "juz": 27,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 5,
+      "translations": {
+        "ar": {
+          "text": "وَإِنَّهُۥ لَقَسَمࣱ لَّوۡ تَعۡلَمُونَ عَظِيمٌ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "and this, if only you knew, is indeed a great oath—",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "这确是一个重大的盟誓，假若你们知道。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "और यह बहुत बड़ी गवाही है, यदि तुम जानो",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Lo cual, si supieran, es un juramento grandioso",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Et c'est vraiment un serment solennel, si vous saviez",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "নিশ্চয় এটা এক মহা শপথ-যদি তোমরা জানতে।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E, por certo, é magnífico juramento, se soubésseis",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Если бы вы только знали, что это - клятва великая",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور اگر تم سمجھو تو یہ بڑی قسم ہے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_056_077",
+      "reference": {
+        "surah_number": 56,
+        "surah_name": "Al-Waaqia",
+        "surah_name_ar": "سُوْرَةُ الْوَاقِعَةِ",
+        "surah_name_translation": "The Inevitable",
+        "ayah_number": 77,
+        "juz": 27,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 3,
+      "translations": {
+        "ar": {
+          "text": "إِنَّهُۥ لَقُرۡءَانࣱ كَرِيمࣱ‏",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "that this is truly a noble Quran",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "这确是宝贵的《古兰经》，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "निश्चय ही यह प्रतिष्ठित क़ुरआन है",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Que este es un Corán Noble",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Et c'est certainement un Coran noble",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "নিশ্চয় এটা সম্মানিত কোরআন,",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Por certo, este é um Alcorão nobre",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Воистину, это - благородный Коран",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "کہ یہ بڑے رتبے کا قرآن ہے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_056_078",
+      "reference": {
+        "surah_number": 56,
+        "surah_name": "Al-Waaqia",
+        "surah_name_ar": "سُوْرَةُ الْوَاقِعَةِ",
+        "surah_name_translation": "The Inevitable",
+        "ayah_number": 78,
+        "juz": 27,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 3,
+      "translations": {
+        "ar": {
+          "text": "فِي كِتَٰبࣲ مَّكۡنُونࣲ‏",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "in a well-preserved Record",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "记录在珍藏的经本中，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "एक सुरक्षित किताब में अंकित है।",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "preservado en un libro custodiado",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "dans un Livre bien gardé",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "যা আছে এক গোপন কিতাবে,",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Em Livro resguardado",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "находящийся в Хранимом Писании",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "(جو) کتاب محفوظ میں (لکھا ہوا ہے)",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_056_079",
+      "reference": {
+        "surah_number": 56,
+        "surah_name": "Al-Waaqia",
+        "surah_name_ar": "سُوْرَةُ الْوَاقِعَةِ",
+        "surah_name_translation": "The Inevitable",
+        "ayah_number": 79,
+        "juz": 27,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 4,
+      "translations": {
+        "ar": {
+          "text": "لَّا يَمَسُّهُۥٓ إِلَّا ٱلۡمُطَهَّرُونَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "touched by none except the purified ˹angels˺",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "只有纯洁者才得抚摸那经本。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "उसे केवल पाक-साफ़ व्यक्ति ही हाथ लगाते है",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "que solo pueden tocar los purificados",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "que seuls les purifiés touchent",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "যারা পাক-পবিত্র, তারা ব্যতীত অন্য কেউ একে স্পর্শ করবে না।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Não o tocam senão os purificados",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "К нему прикасаются только очищенные",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اس کو وہی ہاتھ لگاتے ہیں جو پاک ہیں",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_056_080",
+      "reference": {
+        "surah_number": 56,
+        "surah_name": "Al-Waaqia",
+        "surah_name_ar": "سُوْرَةُ الْوَاقِعَةِ",
+        "surah_name_translation": "The Inevitable",
+        "ayah_number": 80,
+        "juz": 27,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 4,
+      "translations": {
+        "ar": {
+          "text": "تَنزِيلࣱ مِّن رَّبِّ ٱلۡعَٰلَمِينَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "˹It is˺ a revelation from the Lord of all worlds",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "《古兰经》是从全世界的主降示的。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "उसका अवतरण सारे संसार के रब की ओर से है।",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Es una revelación descendida por el Señor del universo",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "C'est une révélation de la part du Seigneur de l'Univers",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "এটা বিশ্ব-পালনকর্তার পক্ষ থেকে অবতীর্ণ।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "É revelação do Senhor dos Mundos",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Он ниспослан Господом миров",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "پروردگار عالم کی طرف سے اُتارا گیا ہے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_056_081",
+      "reference": {
+        "surah_number": 56,
+        "surah_name": "Al-Waaqia",
+        "surah_name_ar": "سُوْرَةُ الْوَاقِعَةِ",
+        "surah_name_translation": "The Inevitable",
+        "ayah_number": 81,
+        "juz": 27,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 4,
+      "translations": {
+        "ar": {
+          "text": "أَفَبِهَٰذَا ٱلۡحَدِيثِ أَنتُم مُّدۡهِنُونَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "How can you then take this message lightly",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "难道你们藐视这训辞，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "फिर क्या तुम उस वाणी के प्रति उपेक्षा दर्शाते हो",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "¿A este Mensaje son indiferentes",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Est-ce ce discours-là que vous traitez de mensonge",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "তবুও কি তোমরা এই বাণীর প্রতি শৈথিল্য পদর্শন করবে?",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Então, estais refusando esta Mensagem",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Неужели вы не веруете в это повествование (или отворачиваетесь от него)",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "کیا تم اس کلام سے انکار کرتے ہو؟",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_056_082",
+      "reference": {
+        "surah_number": 56,
+        "surah_name": "Al-Waaqia",
+        "surah_name_ar": "سُوْرَةُ الْوَاقِعَةِ",
+        "surah_name_translation": "The Inevitable",
+        "ayah_number": 82,
+        "juz": 27,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 4,
+      "translations": {
+        "ar": {
+          "text": "وَتَجۡعَلُونَ رِزۡقَكُمۡ أَنَّكُمۡ تُكَذِّبُونَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "and repay ˹Allah for˺ your provisions with denial",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "而以否认代替感谢吗？",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "और तुम इसको अपनी वृत्ति बना रहे हो कि झुठलाते हो",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "¿Y agradecen lo que reciben de Dios negando la Verdad",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Et est-ce pour vous [une façon d'être reconnaissant] à votre subsistance que de traiter (le Coran) de mensonge",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "এবং একে মিথ্যা বলাকেই তোমরা তোমাদের ভূমিকায় পরিণত করবে?",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E fazendo do desmentir o agradecimento de vosso sustento",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "и делаете ваш удел тем, что считаете ложью истину",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور اپنا وظیفہ یہ بناتے ہو کہ (اسے) جھٹلاتے ہو",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_056_083",
+      "reference": {
+        "surah_number": 56,
+        "surah_name": "Al-Waaqia",
+        "surah_name_ar": "سُوْرَةُ الْوَاقِعَةِ",
+        "surah_name_translation": "The Inevitable",
+        "ayah_number": 83,
+        "juz": 27,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 4,
+      "translations": {
+        "ar": {
+          "text": "فَلَوۡلَآ إِذَا بَلَغَتِ ٱلۡحُلۡقُومَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Why then ˹are you helpless˺ when the soul ˹of a dying person˺ reaches ˹their˺ throat",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "（你们）怎么不在灵魂到将死者的咽喉的时候",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "फिर ऐसा क्यों नहीं होता, जबकि प्राण कंठ को आ लगते है",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Entonces, cuando [el alma] llegue hasta la garganta",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Lorsque le souffle de la vie remonte à la gorge (d'un moribond)",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "অতঃপর যখন কারও প্রাণ কন্ঠাগত হয়।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Então, que quando a alma atingir à garganta de um moribundo",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "А когда душа подступает к горлу",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "بھلا جب روح گلے میں آ پہنچتی ہے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_056_084",
+      "reference": {
+        "surah_number": 56,
+        "surah_name": "Al-Waaqia",
+        "surah_name_ar": "سُوْرَةُ الْوَاقِعَةِ",
+        "surah_name_translation": "The Inevitable",
+        "ayah_number": 84,
+        "juz": 27,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 3,
+      "translations": {
+        "ar": {
+          "text": "وَأَنتُمۡ حِينَئِذࣲ تَنظُرُونَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "while you are looking on",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "那时候，你们大家看着他，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "और उस समय तुम देख रहे होते हो",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "y ustedes estén mirándolo",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "et qu'à ce moment là vous regardez",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "এবং তোমরা তাকিয়ে থাক,",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Enquanto, nesse momento, o olhais",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "и вы смотрите на умирающего",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور تم اس وقت کی (حالت کو) دیکھا کرتے ہو",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_056_085",
+      "reference": {
+        "surah_number": 56,
+        "surah_name": "Al-Waaqia",
+        "surah_name_ar": "سُوْرَةُ الْوَاقِعَةِ",
+        "surah_name_translation": "The Inevitable",
+        "ayah_number": 85,
+        "juz": 27,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 7,
+      "translations": {
+        "ar": {
+          "text": "وَنَحۡنُ أَقۡرَبُ إِلَيۡهِ مِنكُمۡ وَلَٰكِن لَّا تُبۡصِرُونَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "And We are nearer to such a person than you, but you cannot see",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "我比你们更临近他，但你们不晓得，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "और हम तुम्हारी अपेक्षा उससे अधिक निकट होते है। किन्तु तुम देखते नहीं –",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "pero Yo estoy más cerca que ustedes de él, aunque no lo vean",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "et que Nous sommes plus proche de lui que vous [qui l'entourez] mais vous ne [le] voyez point",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "তখন আমি তোমাদের অপেক্ষা তার অধিক নিকটে থাকি; কিন্তু তোমরা দেখ না।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E Nós estamos mais Próximos dele, que vós, mas vós não o enxergais",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Мы находимся ближе вас к нему, хотя вы не видите этого",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور ہم اس (مرنے والے) سے تم سے بھی زیادہ نزدیک ہوتے ہیں لیکن تم کو نظر نہیں آتے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_056_086",
+      "reference": {
+        "surah_number": 56,
+        "surah_name": "Al-Waaqia",
+        "surah_name_ar": "سُوْرَةُ الْوَاقِعَةِ",
+        "surah_name_translation": "The Inevitable",
+        "ayah_number": 86,
+        "juz": 27,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 5,
+      "translations": {
+        "ar": {
+          "text": "فَلَوۡلَآ إِن كُنتُمۡ غَيۡرَ مَدِينِينَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Now, if you are not subject to Our Will ˹as you claim˺",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "如果你们不是受报应的，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "फिर ऐसा क्यों नहीं होता कि यदि तुम अधीन नहीं हो",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "si es verdad como dicen que no serán juzgados",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Pourquoi donc, si vous croyez que vous n'avez pas de compte à rendre",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "যদি তোমাদের হিসাব-কিতাব না হওয়াই ঠিক হয়,",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Então, se não deveis ser julgados",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Почему же вы, если вы действительно не получите воздаяние",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "پس اگر تم کسی کے بس میں نہیں ہو",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_056_087",
+      "reference": {
+        "surah_number": 56,
+        "surah_name": "Al-Waaqia",
+        "surah_name_ar": "سُوْرَةُ الْوَاقِعَةِ",
+        "surah_name_translation": "The Inevitable",
+        "ayah_number": 87,
+        "juz": 27,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 4,
+      "translations": {
+        "ar": {
+          "text": "تَرۡجِعُونَهَآ إِن كُنتُمۡ صَٰدِقِينَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "bring that soul back, if what you say is true",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "你们怎不使灵魂复返于本位呢？如果你们是说实话的。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "तो उसे (प्राण को) लौटा दो, यदि तुम सच्चे हो",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "devuélvanle el alma, si es que son sinceros",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "ne la faites-vous pas revenir [cette âme], si vous êtes véridiques",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "তবে তোমরা এই আত্মাকে ফিরাও না কেন, যদি তোমরা সত্যবাদী হও ?",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Que a façais retornar, se sois verídicos",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "не вернете ее, если вы говорите правду",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "تو اگر سچے ہو تو روح کو پھیر کیوں نہیں لیتے؟",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_056_088",
+      "reference": {
+        "surah_number": 56,
+        "surah_name": "Al-Waaqia",
+        "surah_name_ar": "سُوْرَةُ الْوَاقِعَةِ",
+        "surah_name_translation": "The Inevitable",
+        "ayah_number": 88,
+        "juz": 27,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 5,
+      "translations": {
+        "ar": {
+          "text": "فَأَمَّآ إِن كَانَ مِنَ ٱلۡمُقَرَّبِينَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "So, if the deceased is one of those brought near ˹to Us˺",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "如果他是被眷顾的，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "फिर यदि वह (अल्लाह के) निकटवर्तियों में से है",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Si [el agonizante] es uno de los adelantados",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Si celui-ci est du nombre des rapprochés (d'Allah)",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "যদি সে নৈকট্যশীলদের একজন হয়;",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E, se ele é dos achegados a Allah",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Если он будет одним из приближенных",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "پھر اگر وہ (خدا کے) مقربوں میں سے ہے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_056_089",
+      "reference": {
+        "surah_number": 56,
+        "surah_name": "Al-Waaqia",
+        "surah_name_ar": "سُوْرَةُ الْوَاقِعَةِ",
+        "surah_name_translation": "The Inevitable",
+        "ayah_number": 89,
+        "juz": 27,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 4,
+      "translations": {
+        "ar": {
+          "text": "فَرَوۡحࣱ وَرَيۡحَانࣱ وَجَنَّتُ نَعِيمࣲ‏",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "then ˹such a person will have˺ serenity, fragrance, and a Garden of Bliss",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "那末，他将享受舒适、给养与恩泽的乐园；",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "तो (उसके लिए) आराम, सुख-सामग्री और सुगंध है, और नेमतवाला बाग़ है",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "tendrá descanso, plenitud y el Jardín de las Delicias",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "alors (il aura) du repos, de la grâce et un Jardin de délices",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "তবে তার জন্যে আছে সুখ, উত্তম রিযিক এবং নেয়ামতে ভরা উদ্যান।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Então, terá descanso, e alegria, e Jardim da Delícia",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "то обретет покой (или радость; или милость), удел (или базилик) и Сад блаженства",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "تو (اس کے لئے) آرام اور خوشبودار پھول اور نعمت کے باغ ہیں",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_056_090",
+      "reference": {
+        "surah_number": 56,
+        "surah_name": "Al-Waaqia",
+        "surah_name_ar": "سُوْرَةُ الْوَاقِعَةِ",
+        "surah_name_translation": "The Inevitable",
+        "ayah_number": 90,
+        "juz": 27,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 6,
+      "translations": {
+        "ar": {
+          "text": "وَأَمَّآ إِن كَانَ مِنۡ أَصۡحَٰبِ ٱلۡيَمِينِ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "And if the deceased is one of the people of the right",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "如果他是幸福者，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "और यदि वह भाग्यशालियों में से है",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Y si es de los compañeros de la derecha",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Et s'il est du nombre des gens de la droite",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "আর যদি সে ডান পার্শ্বস্থদের একজন হয়,",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E, se ele é dos companheiros da direita",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Если он будет одним из тех, кто по правую сторону",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور اگر وہ دائیں ہاتھ والوں میں سے ہے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_056_091",
+      "reference": {
+        "surah_number": 56,
+        "surah_name": "Al-Waaqia",
+        "surah_name_ar": "سُوْرَةُ الْوَاقِعَةِ",
+        "surah_name_translation": "The Inevitable",
+        "ayah_number": 91,
+        "juz": 27,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 5,
+      "translations": {
+        "ar": {
+          "text": "فَسَلَٰمࣱ لَّكَ مِنۡ أَصۡحَٰبِ ٱلۡيَمِينِ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "then ˹they will be told,˺ “Greetings to you from the people of the right.”",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "那末，一般幸福的人将对他说：祝你平安！",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "तो \"सलाम है तुम्हें कि तुम सौभाग्यशाली में से हो।",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "La paz sea contigo, pues eres de los compañeros de la derecha",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "il sera [accueilli par ces mots]: «Paix à toi» de la part des gens de la droite",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "তবে তাকে বলা হবেঃ তোমার জন্যে ডানপার্শ্বসস্থদের পক্ষ থেকে সালাম।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Então, terá a saudação: \"A paz seja contigo\", dos companheiros da direita",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "то ему скажут: «Мир тебе! Ты являешься одним из тех, кто на правой стороне»",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "تو (کہا جائے گا کہ) تجھ پر داہنے ہاتھ والوں کی طرف سے سلام",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_056_092",
+      "reference": {
+        "surah_number": 56,
+        "surah_name": "Al-Waaqia",
+        "surah_name_ar": "سُوْرَةُ الْوَاقِعَةِ",
+        "surah_name_translation": "The Inevitable",
+        "ayah_number": 92,
+        "juz": 27,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 6,
+      "translations": {
+        "ar": {
+          "text": "وَأَمَّآ إِن كَانَ مِنَ ٱلۡمُكَذِّبِينَ ٱلضَّآلِّينَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "But if such person is one of the misguided deniers",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "如果他是迷误的、否认复活者，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "किन्तु यदि वह झुठलानेवालों, गुमराहों में से है",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Pero si es de los que negaron la Verdad, de los extraviados",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Et s'il est de ceux qui avaient traité de mensonge (la résurrection) et s'étaient égarés",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "আর যদি সে পথভ্রষ্ট মিথ্যারোপকারীদের একজন হয়,",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E, se ele é dos desmentidores, descaminhados",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Если же он будет одним из заблудших, считавших лжецами посланников",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور اگر وہ جھٹلانے والے گمراہوں میں سے ہے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_056_093",
+      "reference": {
+        "surah_number": 56,
+        "surah_name": "Al-Waaqia",
+        "surah_name_ar": "سُوْرَةُ الْوَاقِعَةِ",
+        "surah_name_translation": "The Inevitable",
+        "ayah_number": 93,
+        "juz": 27,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 3,
+      "translations": {
+        "ar": {
+          "text": "فَنُزُلࣱ مِّنۡ حَمِيمࣲ‏",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "then their accommodation will be boiling water ˹to drink˺",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "那末，他将享受沸水的款待，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "तो उसका पहला सत्कार खौलते हुए पानी से होगा",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "será atormentado con un líquido hirviente",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "alors, il sera installé dans une eau bouillante",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "তবে তার আপ্যায়ন হবে উত্তপ্ত পানি দ্বারা।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Então, terá hospedagem de água ebuliente",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "то угощением для него будет кипяток",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "تو (اس کے لئے) کھولتے پانی کی ضیافت ہے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_056_094",
+      "reference": {
+        "surah_number": 56,
+        "surah_name": "Al-Waaqia",
+        "surah_name_ar": "سُوْرَةُ الْوَاقِعَةِ",
+        "surah_name_translation": "The Inevitable",
+        "ayah_number": 94,
+        "juz": 27,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 2,
+      "translations": {
+        "ar": {
+          "text": "وَتَصۡلِيَةُ جَحِيمٍ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "and burning in Hellfire",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "和烈火的烧灼。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "फिर भड़कती हुई आग में उन्हें झोंका जाना है",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "y luego será arrojado al fuego del Infierno",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "et il brûlera dans la Fournaise",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "এবং সে নিক্ষিপ্ত হবে অগ্নিতে।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E de queima no Inferno",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "и он будет гореть в Аду",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور جہنم میں داخل کیا جانا",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_056_095",
+      "reference": {
+        "surah_number": 56,
+        "surah_name": "Al-Waaqia",
+        "surah_name_ar": "سُوْرَةُ الْوَاقِعَةِ",
+        "surah_name_translation": "The Inevitable",
+        "ayah_number": 95,
+        "juz": 27,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 5,
+      "translations": {
+        "ar": {
+          "text": "إِنَّ هَٰذَا لَهُوَ حَقُّ ٱلۡيَقِينِ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Indeed, this is the absolute truth",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "这确是无可置疑的真理。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "निस्संदेह यही विश्वसनीय सत्य है",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "esta es la Verdad sobre la que no hay duda",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "C'est cela la pleine certitude",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "এটা ধ্রুব সত্য।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Por certo, esta é a verdade certa",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Это и есть истина",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "یہ (داخل کیا جانا یقیناً صحیح یعنی) حق الیقین ہے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_056_096",
+      "reference": {
+        "surah_number": 56,
+        "surah_name": "Al-Waaqia",
+        "surah_name_ar": "سُوْرَةُ الْوَاقِعَةِ",
+        "surah_name_translation": "The Inevitable",
+        "ayah_number": 96,
+        "juz": 27,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 4,
+      "translations": {
+        "ar": {
+          "text": "فَسَبِّحۡ بِٱسۡمِ رَبِّكَ ٱلۡعَظِيمِ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "So glorify the Name of your Lord, the Greatest",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "故你应当颂扬你的主的大名。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "अतः तुम अपने महान रब की तसबीह करो",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "¡Glorifica el nombre de tu Señor, el Grandioso",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Glorifie donc le nom de ton Seigneur, le Très Grand",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "অতএব, আপনি আপনার মহান পালনকর্তার নামে পবিত্রতা ঘোষণা করুন।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Então, glorifica o nome de teu Magnífico Senhor",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Прославляй же имя Господа твоего Великого",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "تو تم اپنے پروردگار بزرگ کے نام کی تسبیح کرتے رہو",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    }
+  ]
+}

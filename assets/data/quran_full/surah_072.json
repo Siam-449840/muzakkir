@@ -1,0 +1,1573 @@
+{
+  "surah": 72,
+  "verses": [
+    {
+      "content_id": "quran_072_001",
+      "reference": {
+        "surah_number": 72,
+        "surah_name": "Al-Jinn",
+        "surah_name_ar": "سُوْرَةُ الْجِنِّ",
+        "surah_name_translation": "The Jinn",
+        "ayah_number": 1,
+        "juz": 29,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 14,
+      "translations": {
+        "ar": {
+          "text": "قُلۡ أُوحِيَ إِلَيَّ أَنَّهُ ٱسۡتَمَعَ نَفَرࣱ مِّنَ ٱلۡجِنِّ فَقَالُوٓاْ إِنَّا سَمِعۡنَا قُرۡءَانًا عَجَبࣰ ا",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Say, ˹O Prophet,˺ “It has been revealed to me that a group of jinn listened ˹to the Quran,˺ and said ˹to their fellow jinn˺: ‘Indeed, we have heard a wondrous recitation",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "你说：我曾奉到启示：有几个精灵已经静听，并且说：我们确已听见奇异的《古兰经》，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "कह दो, \"मेरी ओर प्रकाशना की गई है कि जिन्नों के एक गिरोह ने सुना, फिर उन्होंने कहा कि हमने एक मनभाता क़ुरआन सुना",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "[¡Oh, Mujámmad!] Di: \"Me ha sido revelado que un grupo de yinnes dijeron al escuchar [la recitación del Corán]: ‘Hemos oído una recitación maravillosa",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Dis: «Il m'a été révélé qu'un groupe de djinns prêtèrent l'oreille, puis dirent: «Nous avons certes entendu une Lecture [le Coran] merveilleuse",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "বলুনঃ আমার প্রতি ওহী নাযিল করা হয়েছে যে, জিনদের একটি দল কোরআন শ্রবণ করেছে, অতঃপর তারা বলেছেঃ আমরা বিস্ময়কর কোরআন শ্রবণ করেছি;",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Dize: \"Foi-me revelado que um pequeno grupo de jinns ouviu minha recitação; então, disseram: 'Por certo, ouvimos um Alcorão admirável",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Скажи: «Мне было открыто, что несколько джиннов послушали чтение Корана и сказали: «Воистину, мы слышали удивительный Коран",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "(اے پیغمبر لوگوں سے) کہہ دو کہ میرے پاس وحی آئی ہے کہ جنوں کی ایک جماعت نے (اس کتاب کو) سنا تو کہنے لگے کہ ہم نے ایک عجیب قرآن سنا",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_072_002",
+      "reference": {
+        "surah_number": 72,
+        "surah_name": "Al-Jinn",
+        "surah_name_ar": "سُوْرَةُ الْجِنِّ",
+        "surah_name_translation": "The Jinn",
+        "ayah_number": 2,
+        "juz": 29,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 10,
+      "translations": {
+        "ar": {
+          "text": "يَهۡدِيٓ إِلَى ٱلرُّشۡدِ فَـَٔامَنَّا بِهِۦۖ وَلَن نُّشۡرِكَ بِرَبِّنَآ أَحَدࣰ ا",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "It leads to Right Guidance so we believed in it, and we will never associate anyone with our Lord ˹in worship˺",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "它能导人於正道，故我们信仰它，我们绝不以任何物配我们的主。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "जो भलाई और सूझ-बूझ का मार्ग दिखाता है, अतः हम उसपर ईमान ले आए, और अब हम कदापि किसी को अपने रब का साझी नहीं ठहराएँगे",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "que guía al sendero recto. Creemos en la recitación y no caeremos en la idolatría adorando a otro que Dios",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "qui guide vers la droiture. Nous y avons cru, et nous n'associerons jamais personne à notre Seigneur",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "যা সৎপথ প্রদর্শন করে। ফলে আমরা তাতে বিশ্বাস স্থাপন করেছি। আমরা কখনও আমাদের পালনকর্তার সাথে কাউকে শরীক করব না।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Ele guia à retidão: então, nele cremos. E não associaremos ninguém a nosso Senhor",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Он наставляет на прямой путь, и мы уверовали в него и не будем приобщать сотоварищей к нашему Господу",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "جو بھلائی کا رستہ بتاتا ہے سو ہم اس پر ایمان لے آئے۔ اور ہم اپنے پروردگار کے ساتھ کسی کو شریک نہیں بنائیں گے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_072_003",
+      "reference": {
+        "surah_number": 72,
+        "surah_name": "Al-Jinn",
+        "surah_name_ar": "سُوْرَةُ الْجِنِّ",
+        "surah_name_translation": "The Jinn",
+        "ayah_number": 3,
+        "juz": 29,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 10,
+      "translations": {
+        "ar": {
+          "text": "وَأَنَّهُۥ تَعَٰلَىٰ جَدُّ رَبِّنَا مَا ٱتَّخَذَ صَٰحِبَةࣰ وَلَا وَلَدࣰ ا",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "˹Now, we believe that˺ our Lord—Exalted is His Majesty—has neither taken a mate nor offspring",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "赞颂我们的主的尊严！超绝万物，他没有择取妻室，也没有择取儿女。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "और यह कि हमारे रब का गौरब अत्यन्त उच्च है। उसने अपने लिए न तो कोई पत्नी बनाई और न सन्तान",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Él, exaltada sea Su grandeza, no ha tomado compañera ni hijo",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "En vérité notre Seigneur - que Sa grandeur soit exaltée - ne S'est donné ni compagne, ni enfant",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "এবং আরও বিশ্বাস করি যে, আমাদের পালনকর্তার মহান মর্যাদা সবার উর্ধ্বে। তিনি কোন পত্নী গ্রহণ করেননি এবং তাঁর কোন সন্তান নেই।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E que: 'Que a majestade de nosso Senhor seja sublimada! Ele não tomou para Si companheira nem filho",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Величие (или богатство) нашего Господа превысокое, и Он не взял Себе ни супруги, ни сына",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور یہ کہ ہمارے پروردگار کی عظمت (شان) بہت بڑی ہے اور وہ نہ بیوی رکھتا ہے نہ اولاد",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_072_004",
+      "reference": {
+        "surah_number": 72,
+        "surah_name": "Al-Jinn",
+        "surah_name_ar": "سُوْرَةُ الْجِنِّ",
+        "surah_name_translation": "The Jinn",
+        "ayah_number": 4,
+        "juz": 29,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 8,
+      "translations": {
+        "ar": {
+          "text": "وَأَنَّهُۥ كَانَ يَقُولُ سَفِيهُنَا عَلَى ٱللَّهِ شَطَطࣰ ا",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "and that the foolish of us used to utter ˹outrageous˺ falsehoods about Allah",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "我们中的庸愚，常以悖谬的事诬蔑真主，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "और यह कि हममें का मूर्ख व्यक्ति अल्लाह के विषय में सत्य से बिल्कुल हटी हुई बातें कहता रहा है",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "No obstante, un malvado entre nosotros decía falsedades acerca de Dios",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Notre insensé [Iblis] disait des extravagances contre Allah",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "আমাদের মধ্যে নির্বোধেরা আল্লাহ তা’আলা সম্পর্কে বাড়াবাড়ির কথাবার্তা বলত।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E que: 'Nosso inepto dizia o cúmulo da blasfêmia acerca de Allah",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Глупец среди нас (Иблис) наговаривал на Аллаха чрезмерное",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور یہ کہ ہم میں سے بعض بےوقوف خدا کے بارے میں جھوٹ افتراء کرتا ہے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_072_005",
+      "reference": {
+        "surah_number": 72,
+        "surah_name": "Al-Jinn",
+        "surah_name_ar": "سُوْرَةُ الْجِنِّ",
+        "surah_name_translation": "The Jinn",
+        "ayah_number": 5,
+        "juz": 29,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 11,
+      "translations": {
+        "ar": {
+          "text": "وَأَنَّا ظَنَنَّآ أَن لَّن تَقُولَ ٱلۡإِنسُ وَٱلۡجِنُّ عَلَى ٱللَّهِ كَذِبࣰ ا",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "We certainly thought that humans and jinn would never speak lies about Allah",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "我们曾猜想人和精灵绝不诬蔑真主。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "और यह कि हमने समझ रखा था कि मनुष्य और जिन्न अल्लाह के विषय में कभी झूठ नहीं बोलते",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Nosotros creíamos que ni los seres humanos ni los yinnes dirían mentiras acerca de Dios",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Et nous pensions que ni les humains ni les djinns ne sauraient jamais proférer de mensonge contre Allah",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "অথচ আমরা মনে করতাম, মানুষ ও জিন কখনও আল্লাহ তা’আলা সম্পর্কে মিথ্যা বলতে পারে না।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E que: 'Pensávamos que os humanos e os jinns não diriam mentira acerca de Allah",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Мы же думали, что ни люди, ни джинны не станут говорить об Аллахе ложь",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور ہمارا (یہ) خیال تھا کہ انسان اور جن خدا کی نسبت جھوٹ نہیں بولتے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_072_006",
+      "reference": {
+        "surah_number": 72,
+        "surah_name": "Al-Jinn",
+        "surah_name_ar": "سُوْرَةُ الْجِنِّ",
+        "surah_name_translation": "The Jinn",
+        "ayah_number": 6,
+        "juz": 29,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 12,
+      "translations": {
+        "ar": {
+          "text": "وَأَنَّهُۥ كَانَ رِجَالࣱ مِّنَ ٱلۡإِنسِ يَعُوذُونَ بِرِجَالࣲ مِّنَ ٱلۡجِنِّ فَزَادُوهُمۡ رَهَقࣰ ا",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "And some men used to seek refuge with some jinn—so they increased each other in wickedness",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "曾有一些男人，求些男精灵保护他们，因而使他们更加骄傲。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "और यह कि मनुष्यों में से कितने ही पुरुष ऐसे थे, जो जिन्नों में से कितने ही पुरूषों की शरण माँगा करते थे। इसप्रकार उन्होंने उन्हें (जिन्नों को) और चढ़ा दिया",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "pero había seres humanos que solicitaban protección a los yinnes, siendo que ellos solo acrecentaban su desvío",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Or, il y avait parmi les humains, des mâles qui cherchaient protection auprès des mâles parmi les djinns mais cela ne fit qu'accroître leur détresse",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "অনেক মানুষ অনেক জিনের আশ্রয় নিত, ফলে তারা জিনদের আত্নম্ভরিতা বাড়িয়ে দিত।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E que: 'Alguns dos humanos refugiavam-se em alguns dos jinns, então, acrescentaram-lhes aflição",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Мужи из числа людей искали покровительства мужей из числа джиннов, но они только увеличивали в них страх (или беззаконие)",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور یہ کہ بعض بنی آدم بعض جنات کی پناہ پکڑا کرتے تھے (اس سے) ان کی سرکشی اور بڑھ گئی تھی",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_072_007",
+      "reference": {
+        "surah_number": 72,
+        "surah_name": "Al-Jinn",
+        "surah_name_ar": "سُوْرَةُ الْجِنِّ",
+        "surah_name_translation": "The Jinn",
+        "ayah_number": 7,
+        "juz": 29,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 10,
+      "translations": {
+        "ar": {
+          "text": "وَأَنَّهُمۡ ظَنُّواْ كَمَا ظَنَنتُمۡ أَن لَّن يَبۡعَثَ ٱللَّهُ أَحَدࣰ ا",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "And those ˹humans˺ thought, just like you ˹jinn˺, that Allah would not resurrect anyone ˹for judgment˺",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "那些男人曾像你们一样猜想真主绝不使任何死者复活。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "और यह कि उन्होंने गुमान किया जैसे कि तुमने गुमान किया कि अल्लाह किसी (नबी) को कदापि न उठाएगा",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Ellos pensaban, como piensan ustedes, que Dios no iba a resucitar a nadie [de su tumba]",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Et ils avaient pensé comme vous avez pensé qu'Allah ne ressusciterait jamais personne",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "তারা ধারণা করত, যেমন তোমরা মানবেরা ধারণা কর যে, মৃত্যুর পর আল্লাহ তা’আলা কখনও কাউকে পুনরুত্থিত করবেন না।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E que: 'Eles pensaram, como pensastes, que Allah não ressuscitaria a ninguém",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Они думали так же, как и вы, что Аллах никого не воскресит",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور یہ کہ ان کا بھی یہی اعتقاد تھا جس طرح تمہارا تھا کہ خدا کسی کو نہیں جلائے گا",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_072_008",
+      "reference": {
+        "surah_number": 72,
+        "surah_name": "Al-Jinn",
+        "surah_name_ar": "سُوْرَةُ الْجِنِّ",
+        "surah_name_translation": "The Jinn",
+        "ayah_number": 8,
+        "juz": 29,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 11,
+      "translations": {
+        "ar": {
+          "text": "وَأَنَّا لَمَسۡنَا ٱلسَّمَآءَ فَوَجَدۡنَٰهَا مُلِئَتۡ حَرَسࣰ ا شَدِيدࣰ ا وَشُهُبࣰ ا",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "˹Earlier˺ we tried to reach heaven ˹for news˺, only to find it filled with stern guards and shooting stars",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "我们曾试探天，发现天上布满坚强的卫士和灿烂的星宿。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "और यह कि हमने आकाश को टटोला तो उसे सख़्त पहरेदारों और उल्काओं से भरा हुआ पाया",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Quisimos acceder al cosmos pero lo encontramos lleno de guardianes severos y meteoritos",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Nous avions frôlé le ciel et nous l'avions trouvé plein d'une forte garde et de bolides",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "আমরা আকাশ পর্যবেক্ষণ করছি, অতঃপর দেখতে পেয়েছি যে, কঠোর প্রহরী ও উল্কাপিন্ড দ্বারা আকাশ পরিপূর্ণ।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E que: 'Tocamos o céu e encontramo-lo repleto de veementes guardas e de bólides",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Мы достигли неба, но обнаружили, что оно заполнено суровыми стражами и пылающими огнями",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور یہ کہ ہم نے آسمان کو ٹٹولا تو اس کو مضبوط چوکیداروں اور انگاروں سے سے بھرا پایا",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_072_009",
+      "reference": {
+        "surah_number": 72,
+        "surah_name": "Al-Jinn",
+        "surah_name_ar": "سُوْرَةُ الْجِنِّ",
+        "surah_name_translation": "The Jinn",
+        "ayah_number": 9,
+        "juz": 29,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 15,
+      "translations": {
+        "ar": {
+          "text": "وَأَنَّا كُنَّا نَقۡعُدُ مِنۡهَا مَقَٰعِدَ لِلسَّمۡعِۖ فَمَن يَسۡتَمِعِ ٱلۡأٓنَ يَجِدۡ لَهُۥ شِهَابࣰ ا رَّصَدࣰ ا",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "We used to take up positions there for eavesdropping, but whoever dares eavesdrop now will find a flare lying in wait for them",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "过去，我们为窃听而常常坐在天上可坐的地方。现在谁去窃听，谁就发现一颗灿烂的星宿在等著他。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "और यह कि हम उसमें बैठने के स्थानों में सुनने के लिए बैठा करते थे, किन्तु अब कोई सुनना चाहे तो वह अपने लिए घात में लगा एक उल्का पाएगा",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "a pesar que buscábamos posiciones apropiadas del cosmos para escuchar [la revelación], pero todo aquel que intenta ahora escuchar encuentra un meteoro que le acecha",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Nous y prenions place pour écouter. Mais quiconque prête l'oreille maintenant, trouve contre lui un bolide aux aguets",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "আমরা আকাশের বিভিন্ন ঘাঁটিতে সংবাদ শ্রবণার্থে বসতাম। এখন কেউ সংবাদ শুনতে চাইলে সে জলন্ত উল্কাপিন্ড ওঁৎ পেতে থাকতে দেখে।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E que: 'Nele, sentávamo-nos em posição de ouvir. Mas quem, agora, ouvir encontrará para si uma bólide a sua espreita",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Прежде мы садились там на седалищах, чтобы подслушивать. Но тот, кто подслушает сейчас, обнаружит, что его подстерегает пылающий огонь",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور یہ کہ پہلے ہم وہاں بہت سے مقامات میں (خبریں) سننے کے لئے بیٹھا کرتے تھے۔ اب کوئی سننا چاہے تو اپنے لئے انگارا تیار پائے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_072_010",
+      "reference": {
+        "surah_number": 72,
+        "surah_name": "Al-Jinn",
+        "surah_name_ar": "سُوْرَةُ الْجِنِّ",
+        "surah_name_translation": "The Jinn",
+        "ayah_number": 10,
+        "juz": 29,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 14,
+      "translations": {
+        "ar": {
+          "text": "وَأَنَّا لَا نَدۡرِيٓ أَشَرٌّ أُرِيدَ بِمَن فِي ٱلۡأَرۡضِ أَمۡ أَرَادَ بِهِمۡ رَبُّهُمۡ رَشَدࣰ ا",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Now, we have no clue whether evil is intended for those on earth, or their Lord intends for them what is right",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "我们不知道，究竟是大地上的万物将遭患难呢？还是他们的主欲引他们於正道呢？",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "और यह कि हम नहीं जानते कि उन लोगों के साथ जो धरती में है बुराई का इरादा किया गया है या उनके रब ने उनके लिए भलाई और मार्गदर्शन का इरादा किय है",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Y [ahora sabemos que los seres creados] no podemos saber si se ha destinado algún mal para quienes están en la Tierra o si su Señor quiere guiarlos",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Nous ne savons pas si on veut du mal aux habitants de la terre ou si leur Seigneur veut les mettre sur le droit chemin",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "আমরা জানি না পৃথিবীবাসীদের অমঙ্গল সাধন করা অভীষ্ট, না তাদের পালনকর্তা তাদের মঙ্গল সাধন করার ইচ্ছা রাখেন।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E que: 'Não estamos inteirados de que isso seja um mal desejado para os que estão na terra, ou de que seu Senhor lhes deseje retidão",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Мы не знаем, зло ли задумано для тех, кто на земле, или Господь пожелал направить их на прямой путь",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور یہ کہ ہمیں معلوم نہیں کہ اس سے اہل زمین کے حق میں برائی مقصود ہے یا ان کے پروردگار نے ان کی بھلائی کا ارادہ فرمایا ہے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_072_011",
+      "reference": {
+        "surah_number": 72,
+        "surah_name": "Al-Jinn",
+        "surah_name_ar": "سُوْرَةُ الْجِنِّ",
+        "surah_name_translation": "The Jinn",
+        "ayah_number": 11,
+        "juz": 29,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 10,
+      "translations": {
+        "ar": {
+          "text": "وَأَنَّا مِنَّا ٱلصَّٰلِحُونَ وَمِنَّا دُونَ ذَٰلِكَۖ كُنَّا طَرَآئِقَ قِدَدࣰ ا",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Among us are those who are righteous and those who are less so. We have been of different factions",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "我们中有善良的，有次於善良的，我们是分为许多派别的。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "और यह कि हममें से कुछ लोग अच्छे है और कुछ लोग उससे निम्नतर है, हम विभिन्न मार्गों पर है",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Entre nosotros hay quienes son virtuosos [creyentes] y quienes no lo son. Seguimos caminos diferentes",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Il y a parmi nous des vertueux et [d'autres] qui le sont moins: nous étions divisés en différentes sectes",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "আমাদের কেউ কেউ সৎকর্মপরায়ণ এবং কেউ কেউ এরূপ নয়। আমরা ছিলাম বিভিন্ন পথে বিভক্ত।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E que: 'Há, entre nós, os íntegros e há, entre nós, os que o são menos. Somos de vários procederes",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Среди нас есть праведные и те, которые ниже этого. Мы были разрозненными группами",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور یہ کہ ہم میں کوئی نیک ہیں اور کوئی اور طرح کے۔ ہمارے کئی طرح کے مذہب ہیں",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_072_012",
+      "reference": {
+        "surah_number": 72,
+        "surah_name": "Al-Jinn",
+        "surah_name_ar": "سُوْرَةُ الْجِنِّ",
+        "surah_name_translation": "The Jinn",
+        "ayah_number": 12,
+        "juz": 29,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 12,
+      "translations": {
+        "ar": {
+          "text": "وَأَنَّا ظَنَنَّآ أَن لَّن نُّعۡجِزَ ٱللَّهَ فِي ٱلۡأَرۡضِ وَلَن نُّعۡجِزَهُۥ هَرَبࣰ ا",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "˹Now,˺ we truly know that we cannot frustrate Allah on earth, nor can we escape from Him ˹into heaven˺",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "我们相信，我们在大地上，绝不能使真主无奈，也绝不能逃避真主的谴责。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "और यह कि हमने समझ लिया कि हम न धरती में कही जाकर अल्लाह के क़ाबू से निकल सकते है, और न आकाश में कहीं भागकर उसके क़ाबू से निकल सकते है",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Sabemos que no podremos escapar de Dios en la Tierra ni huir de Él",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Nous pensions bien que nous ne saurions jamais réduire Allah à l'impuissance sur la terre et que nous ne saurions jamais le réduire à l'impuissance en nous enfuyant",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "আমরা বুঝতে পেরেছি যে, আমরা পৃথিবীতে আল্লাহ তা’আলাকে পরাস্ত করতে পারব না এবং পলায়ন করেও তাকে অপারক করত পরব না।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E que: 'Pensamos que não escaparemos do castigo de Allah, na terra, e não escaparemos dEle, em fuga",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Мы знали, что не спасемся от Аллаха на земле и не спасемся от Него бегством",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور یہ کہ ہم نے یقین کرلیا ہے کہ ہم زمین میں (خواہ کہیں ہوں) خدا کو ہرا نہیں سکتے اور نہ بھاگ کر اس کو تھکا سکتے ہیں",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_072_013",
+      "reference": {
+        "surah_number": 72,
+        "surah_name": "Al-Jinn",
+        "surah_name_ar": "سُوْرَةُ الْجِنِّ",
+        "surah_name_translation": "The Jinn",
+        "ayah_number": 13,
+        "juz": 29,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 16,
+      "translations": {
+        "ar": {
+          "text": "وَأَنَّا لَمَّا سَمِعۡنَا ٱلۡهُدَىٰٓ ءَامَنَّا بِهِۦۖ فَمَن يُؤۡمِنۢ بِرَبِّهِۦ فَلَا يَخَافُ بَخۡسࣰ ا وَلَا رَهَقࣰ ا",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "When we heard the guidance ˹of the Quran˺, we ˹readily˺ believed in it. For whoever believes in their Lord will have no fear of being denied ˹a reward˺ or wronged",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "当我们听见正道的时候，我们已信仰它。谁信仰主，谁不怕克扣，也不怕受辱。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "और यह कि जब हमने मार्गदर्शन की बात सुनी तो उसपर ईमान ले आए। अब तो कोई अपने रब पर ईमान लाएगा, उसे न तो किसी हक़ के मारे जाने का भय होगा और न किसी ज़ुल्म-ज़्यादती का",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Pero cuando oímos la guía creímos, pues quien cree en su Señor no tendrá que temer que le mermen sus méritos ni que lo inculpen injustamente",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Et lorsque nous avons entendu le guide [le Coran], nous y avons cru, et quiconque croit en son Seigneur ne craint alors ni diminution de récompense ni oppression",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "আমরা যখন সুপথের নির্দেশ শুনলাম, তখন তাতে বিশ্বাস স্থাপন করলাম। অতএব, যে তার পালনকর্তার প্রতি বিশ্বাস করে, সে লোকসান ও জোর-জবরের আশংকা করে না।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E que: 'Ao ouvirmos a Orientação nela cremos. Então, quem crê em seu Senhor não temerá subtração nem aflição",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Когда же мы услышали верное руководство, то уверовали в него. А тот, кто верует в своего Господа, не должен бояться ни обиды, ни притеснения",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور جب ہم نے ہدایت (کی کتاب) سنی اس پر ایمان لے آئے۔ تو جو شخص اپنے پروردگار پر ایمان لاتا ہے اس کو نہ نقصان کا خوف ہے نہ ظلم کا",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_072_014",
+      "reference": {
+        "surah_number": 72,
+        "surah_name": "Al-Jinn",
+        "surah_name_ar": "سُوْرَةُ الْجِنِّ",
+        "surah_name_translation": "The Jinn",
+        "ayah_number": 14,
+        "juz": 29,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 11,
+      "translations": {
+        "ar": {
+          "text": "وَأَنَّا مِنَّا ٱلۡمُسۡلِمُونَ وَمِنَّا ٱلۡقَٰسِطُونَۖ فَمَنۡ أَسۡلَمَ فَأُوْلَٰٓئِكَ تَحَرَّوۡاْ رَشَدࣰ ا",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "And among us are those who have submitted ˹to Allah˺ and those who are deviant. So ˹as for˺ those who submitted, it is they who have attained Right Guidance",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "我们中有顺服的，有乖张的。凡顺服的，都是有志於正道的。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "और यह कि हममें से कुछ मुस्लिम (आज्ञाकारी) है और हममें से कुछ हक़ से हटे हुए है। तो जिन्होंने आज्ञापालन का मार्ग ग्रहण कर लिया उन्होंने भलाई और सूझ-बूझ की राह ढूँढ़ ली",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Entre nosotros [los yinnes] hay quienes aceptaron el Islam, pero también hay quienes se apartaron del sendero recto. Los que aceptaron el Islam son los que siguen la guía verdadera",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Il y a parmi nous les Musulmans, et il y en a les injustes [qui ont dévié]. Et ceux qui se sont convertis à l'Islam sont ceux qui ont cherché la droiture",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "আমাদের কিছুসংখ্যক আজ্ঞাবহ এবং কিছুসংখ্যক অন্যায়কারী। যারা আজ্ঞাবহ হয়, তারা সৎপথ বেছে নিয়েছে।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E que: 'Há, entre nós, os muçulmanos e há, entre nós, os iníquos. E quem se islamiza, esses são os que procuram retidão",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Среди нас есть мусульмане и уклонившиеся. Те, которые стали мусульманами, последовали прямым путем",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور یہ کہ ہم میں بعض فرمانبردار ہیں اور بعض (نافرمان) گنہگار ہیں۔ تو جو فرمانبردار ہوئے وہ سیدھے رستے پر چلے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_072_015",
+      "reference": {
+        "surah_number": 72,
+        "surah_name": "Al-Jinn",
+        "surah_name_ar": "سُوْرَةُ الْجِنِّ",
+        "surah_name_translation": "The Jinn",
+        "ayah_number": 15,
+        "juz": 29,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 6,
+      "translations": {
+        "ar": {
+          "text": "وَأَمَّا ٱلۡقَٰسِطُونَ فَكَانُواْ لِجَهَنَّمَ حَطَبࣰ ا",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "And as for the deviant, they will be fuel for Hell.’”",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "至於乖张的，将作火狱的燃料。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "रहे वे लोग जो हक़ से हटे हुए है, तो वे जहन्नम का ईधन होकर रहे।",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Los que rechazaron el sendero recto, en cambio, serán combustible para el Infierno’",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Et quant aux injustes, ils formeront le combustible de l'Enfer",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "আর যারা অন্যায়কারী, তারা তো জাহান্নামের ইন্ধন।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E, quanto aos iníquos, serão lenha para a Geena",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Уклонившиеся же будут дровами для Геенны»»",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور جو گنہگار ہوئے وہ دوزخ کا ایندھن بنے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_072_016",
+      "reference": {
+        "surah_number": 72,
+        "surah_name": "Al-Jinn",
+        "surah_name_ar": "سُوْرَةُ الْجِنِّ",
+        "surah_name_translation": "The Jinn",
+        "ayah_number": 16,
+        "juz": 29,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 8,
+      "translations": {
+        "ar": {
+          "text": "وَأَلَّوِ ٱسۡتَقَٰمُواْ عَلَى ٱلطَّرِيقَةِ لَأَسۡقَيۡنَٰهُم مَّآءً غَدَقࣰ ا",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Had the deniers followed the Right Way, We would have certainly granted them abundant rain to drink—",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "假如他们遵循正道，我必赏赐他们的丰富的雨水，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "और वह प्रकाशना की गई है कि यदि वे सीधे मार्ग पर धैर्यपूर्वक चलते तो हम उन्हें पर्याप्त जल से अभिषिक्त करते",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Pero si hubieran seguido el sendero recto les habría dado de beber de la abundancia",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Et s'ils se maintenaient dans la bonne direction, Nous les aurions abreuvés, certes d'une eau abondante",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "আর এই প্রত্যাদেশ করা হয়েছে যে, তারা যদি সত্যপথে কায়েম থাকত, তবে আমি তাদেরকে প্রচুর পানি বর্ষণে সিক্ত করতাম।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E, se eles permanecessem retos, no caminho da Verdade, fá-los-íamos beber água abundante",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Если бы они устояли на прямом пути, то Мы напоили бы их водой вволю",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور (اے پیغمبر) یہ (بھی ان سے کہہ دو) کہ اگر یہ لوگ سیدھے رستے پر رہتے تو ہم ان کے پینے کو بہت سا پانی دیتے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_072_017",
+      "reference": {
+        "surah_number": 72,
+        "surah_name": "Al-Jinn",
+        "surah_name_ar": "سُوْرَةُ الْجِنِّ",
+        "surah_name_translation": "The Jinn",
+        "ayah_number": 17,
+        "juz": 29,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 12,
+      "translations": {
+        "ar": {
+          "text": "لِّنَفۡتِنَهُمۡ فِيهِۚ وَمَن يُعۡرِضۡ عَن ذِكۡرِ رَبِّهِۦ يَسۡلُكۡهُ عَذَابࣰ ا صَعَدࣰ ا",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "as a test for them. And whoever turns away from the remembrance of their Lord will be admitted by Him into an overwhelming punishment",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "以便我以雨水考验他们。谁退避主的教训，他将使谁入在严峻的刑罚中。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "ताकि हम उसमें उनकी परीक्षा करें। और जो कोई अपने रब की याद से कतराएगा, तो वह उसे कठोर यातना में डाल देगा",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "para probarlos con ella. Porque quien se aparte del recuerdo de su Señor recibirá un castigo penoso",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "afin de les y éprouver. Et quiconque se détourne du rappel de son Seigneur, Il l'achemine vers un châtiment sans cesse croissant",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "যাতে এ ব্যাপারে তাদেরকে পরীক্ষা করি। পক্ষান্তরে যে ব্যক্তি তার পালনকর্তার স্মরণ থেকে মুখ ফিরিয়ে নেয়, তিনি তাকে উদীয়মান আযাবে পরিচালিত করবেন।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Para, com isso, prová-los. E a quem dá de ombros à Mensagem de seu Senhor, Ele o introduzirá em castigo sempre crescente",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "чтобы этим подвергнуть их испытанию. А тех, кто отвращается от Напоминания своего Господа, Он ввергает в тяжкие мучения",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "تاکہ اس سے ان کی آزمائش کریں۔ اور جو شخص اپنے پروردگار کی یاد سے منہ پھیرے گا وہ اس کو سخت عذاب میں داخل کرے گا",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_072_018",
+      "reference": {
+        "surah_number": 72,
+        "surah_name": "Al-Jinn",
+        "surah_name_ar": "سُوْرَةُ الْجِنِّ",
+        "surah_name_translation": "The Jinn",
+        "ayah_number": 18,
+        "juz": 29,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 9,
+      "translations": {
+        "ar": {
+          "text": "وَأَنَّ ٱلۡمَسَٰجِدَ لِلَّهِ فَلَا تَدۡعُواْ مَعَ ٱللَّهِ أَحَدࣰ ا",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "The places of worship are ˹only˺ for Allah, so do not invoke anyone besides Him",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "一切清真寺，都是真主的，故你们应当祈祷真主，不要祈祷任何物。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "और यह कि मस्जिदें अल्लाह के लिए है। अतः अल्लाह के साथ किसी और को न पुकारो",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Los lugares de culto son para adorar solo a Dios, por lo que no deben invocar a nada ni a nadie junto con Dios",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Les mosquées sont consacrées à Allah: n'invoquez donc personne avec Allah",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "এবং এই ওহীও করা হয়েছে যে, মসজিদসমূহ আল্লাহ তা’আলাকে স্মরণ করার জন্য। অতএব, তোমরা আল্লাহ তা’আলার সাথে কাউকে ডেকো না।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E foi-me revelado que as mesquitas são de Allah: então, não invoqueis, com Allah, a ninguém",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Мечети принадлежат Аллаху. Не взывайте же ни к кому наряду с Аллахом",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور یہ کہ مسجدیں (خاص) خدا کی ہیں تو خدا کے ساتھ کسی اور کی عبادت نہ کرو",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_072_019",
+      "reference": {
+        "surah_number": 72,
+        "surah_name": "Al-Jinn",
+        "surah_name_ar": "سُوْرَةُ الْجِنِّ",
+        "surah_name_translation": "The Jinn",
+        "ayah_number": 19,
+        "juz": 29,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 11,
+      "translations": {
+        "ar": {
+          "text": "وَأَنَّهُۥ لَمَّا قَامَ عَبۡدُ ٱللَّهِ يَدۡعُوهُ كَادُواْ يَكُونُونَ عَلَيۡهِ لِبَدࣰ ا",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Yet when the servant of Allah stood up calling upon Him ˹alone˺, the pagans almost swarmed over him",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "当真主的仆人起来祈祷的时候，他们几乎群起而攻之。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "और यह कि \"जब अल्लाह का बन्दा उसे पुकारता हुआ खड़ा हुआ तो वे ऐसे लगते है कि उसपर जत्थे बनकर टूट पड़ेगे।",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Cuando el siervo de Dios [el Profeta Mujámmad] se levantó para invocarlo, [los yinnes] se agolparon a su alrededor [para oír la recitación]",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Et quand le serviteur d'Allah s'est mis debout pour L'invoquer, ils faillirent se ruer en masse sur lui",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "আর যখন আল্লাহ তা’আলার বান্দা তাঁকে ডাকার জন্যে দন্ডায়মান হল, তখন অনেক জিন তার কাছে ভিড় জমাল।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E que, ao levantar-se o Servo de Allah para invocá-LO, quase se lançaram sobre ele, aglomerados",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Когда раб Аллаха встал, обращаясь с мольбой к Нему, они столпились вокруг него (джинны столпились вокруг Пророка, чтобы послушать Коран, или неверующие ополчились против него, чтобы помешать ему)",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور جب خدا کے بندے (محمدﷺ) اس کی عبادت کو کھڑے ہوئے تو کافر ان کے گرد ہجوم کرلینے کو تھے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_072_020",
+      "reference": {
+        "surah_number": 72,
+        "surah_name": "Al-Jinn",
+        "surah_name_ar": "سُوْرَةُ الْجِنِّ",
+        "surah_name_translation": "The Jinn",
+        "ayah_number": 20,
+        "juz": 29,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 9,
+      "translations": {
+        "ar": {
+          "text": "قُلۡ إِنَّمَآ أَدۡعُواْ رَبِّي وَلَآ أُشۡرِكُ بِهِۦٓ أَحَدࣰ ا",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Say, ˹O Prophet,˺ “I call only upon my Lord, associating none with Him ˹in worship˺.”",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "你说：我只祈祷我的主，我不以任何物配他。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "कह दो, \"मैं तो बस अपने रब ही को पुकारता हूँ, और उसके साथ किसी को साझी नहीं ठहराता।",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Diles [oh, Mujámmad]: \"Solo invoco a mi Señor y no adoro a otro que Dios",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Dis: «Je n'invoque que mon Seigneur et ne Lui associe personne»",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "বলুনঃ আমি তো আমার পালনকর্তাকেই ডাকি এবং তাঁর সাথে কাউকে শরীক করি না।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Dize: \"Invoco, apenas, a meu Senhor, e não associo ninguém a Ele",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Скажи: «Я взываю только к своему Господу и никого не приобщаю в сотоварищи к Нему»",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "کہہ دو کہ میں تو اپنے پروردگار ہی کی عبادت کرتا ہوں اور کسی کو اس کا شریک نہیں بناتا",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_072_021",
+      "reference": {
+        "surah_number": 72,
+        "surah_name": "Al-Jinn",
+        "surah_name_ar": "سُوْرَةُ الْجِنِّ",
+        "surah_name_translation": "The Jinn",
+        "ayah_number": 21,
+        "juz": 29,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 10,
+      "translations": {
+        "ar": {
+          "text": "قُلۡ إِنِّي لَآ أَمۡلِكُ لَكُمۡ ضَرࣰّ ا وَلَا رَشَدࣰ ا",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Say, “It is not in my power to harm or benefit you.”",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "你说：我不能为你们主持祸福。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "कह दो, \"मैं तो तुम्हारे लिए न किसी हानि का अधिकार रखता हूँ और न किसी भलाई का।",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Diles: \"No tengo poder personal para desviarlos ni para guiarlos por el camino recto",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Dis: «Je ne possède aucun moyen pour vous faire du mal, ni pour vous mettre sur le chemin droit»",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "বলুনঃ আমি তোমাদের ক্ষতি সাধন করার ও সুপথে আনয়ন করার মালিক নই।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Dize: \"Por certo, não possuo, para vós, prejuízo nem retidão",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Скажи: «Не в моей власти навредить вам или наставить вас на прямой путь»",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "(یہ بھی) کہہ دو کہ میں تمہارے حق میں نقصان اور نفع کا کچھ اختیار نہیں رکھتا",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_072_022",
+      "reference": {
+        "surah_number": 72,
+        "surah_name": "Al-Jinn",
+        "surah_name_ar": "سُوْرَةُ الْجِنِّ",
+        "surah_name_translation": "The Jinn",
+        "ayah_number": 22,
+        "juz": 29,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 12,
+      "translations": {
+        "ar": {
+          "text": "قُلۡ إِنِّي لَن يُجِيرَنِي مِنَ ٱللَّهِ أَحَدࣱ وَلَنۡ أَجِدَ مِن دُونِهِۦ مُلۡتَحَدًا",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Say, “No one can protect me from Allah ˹if I were to disobey Him˺, nor can I find any refuge other than Him",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "你说：任何人不能保护我不受真主的惩罚；除真主外，我绝不能发现任何避难所。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "कहो, \"अल्लाह के मुक़ाबले में मुझे कोई पनाह नहीं दे सकता और न मैं उससे बचकर कतराने की कोई जगह पा सकता हूँ।",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Diles: \"Nadie puede protegerme de Dios y no tengo refugio fuera de Él",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Dis: «Vraiment, personne ne saura me protéger contre Allah; et jamais je ne trouverai de refuge en dehors de Lui",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "বলুনঃ আল্লাহ তা’আলার কবল থেকে আমাকে কেউ রক্ষা করতে পারবে না এবং তিনি ব্যতীত আমি কোন আশ্রয়স্থল পাব না।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Dize: \"Por certo, ninguém me protegerá de Allah, e não encontrarei, fora dEle, refugio algum",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Скажи: «Никто не защитит меня от Аллаха, и мне не найти помимо Него прибежища",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "(یہ بھی) کہہ دو کہ خدا (کے عذاب) سے مجھے کوئی پناہ نہیں دے سکتا۔ اور میں اس کے سوا کہیں جائے پناہ نہیں دیکھتا",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_072_023",
+      "reference": {
+        "surah_number": 72,
+        "surah_name": "Al-Jinn",
+        "surah_name_ar": "سُوْرَةُ الْجِنِّ",
+        "surah_name_translation": "The Jinn",
+        "ayah_number": 23,
+        "juz": 29,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 17,
+      "translations": {
+        "ar": {
+          "text": "إِلَّا بَلَٰغࣰ ا مِّنَ ٱللَّهِ وَرِسَٰلَٰتِهِۦۚ وَمَن يَعۡصِ ٱللَّهَ وَرَسُولَهُۥ فَإِنَّ لَهُۥ نَارَ جَهَنَّمَ خَٰلِدِينَ فِيهَآ أَبَدًا",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "˹My duty is˺ only to convey ˹the truth˺ from Allah and ˹deliver˺ His messages.” And whoever disobeys Allah and His Messenger will certainly be in the Fire of Hell, to stay there for ever and ever",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "我只能传达从真主降示的通知和使命。谁违抗真主和使者，谁必受火狱的刑罚，而且永居其中。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "सिवाय अल्लाह की ओर से पहुँचने और उसके संदेश देने के। और जो कोई अल्लाह और उसके रसूल की अवज्ञा करेगा तो उसके लिए जहन्नम की आग है, जिसमें ऐसे लोग सदैव रहेंगे।",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "solo debo difundir el Mensaje que me ha encargado transmitir\". Quien rechace a Dios y a Su Mensajero, sepa que le espera el fuego del Infierno, en el que permanecerá por toda la eternidad",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "[Je ne puis que transmettre] une communication et des messages [émanant] d'Allah. Et quiconque désobéit à Allah et à Son Messager aura le feu de l'Enfer pour y demeurer éternellement",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "কিন্তু আল্লাহ তা’আলার বাণী পৌছানো ও তাঁর পয়গাম প্রচার করাই আমার কাজ। যে আল্লাহ ও তাঁর রসূলকে অমান্য করে, তার জন্যে রয়েছে জাহান্নামের অগ্নি। তথায় তারা চিরকাল থাকবে।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Exceto uma transmissão vinda de Allah e Suas Mensagens. E quem desobedece a Allah e a Seu Mensageiro, por certo, terá o fogo da Geena; nela será eterno, para todo o sempre",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Мне остается лишь доносить истину от Аллаха и Его послания. Кто же ослушается Аллаха и Его Посланника, тому уготован огонь Геенны, в котором они пребудут вечно»",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "ہاں خدا کی طرف سے احکام کا اور اس کے پیغاموں کا پہنچا دینا (ہی) میرے ذمے ہے۔ اور جو شخص خدا اور اس کے پیغمبر کی نافرمانی کرے گا تو ایسوں کے لئے جہنم کی آگ ہے ہمیشہ ہمیشہ اس میں رہیں گے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_072_024",
+      "reference": {
+        "surah_number": 72,
+        "surah_name": "Al-Jinn",
+        "surah_name_ar": "سُوْرَةُ الْجِنِّ",
+        "surah_name_translation": "The Jinn",
+        "ayah_number": 24,
+        "juz": 29,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 13,
+      "translations": {
+        "ar": {
+          "text": "حَتَّىٰٓ إِذَا رَأَوۡاْ مَا يُوعَدُونَ فَسَيَعۡلَمُونَ مَنۡ أَضۡعَفُ نَاصِرࣰ ا وَأَقَلُّ عَدَدࣰ ا",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Only when they see what they have been threatened with will they know who is weaker in helpers and inferior in manpower",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "待他们看见他们所被警告的刑罚的时候，他们就知道谁是更寡助的。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "यहाँ तक कि जब वे उस चीज़ को देख लेंगे जिसका उनसे वादा किया जाता है तो वे जान लेंगे कि कौन अपने सहायक की दृष्टि से कमज़ोर और संख्या में न्यूतर है",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Y cuando vean lo que se les había prometido sabrán quiénes están realmente desamparados y quiénes son los insignificantes",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Puis, quand ils verront ce dont on les menaçait, ils sauront lesquels ont les secours les plus faibles et [lesquels] sont les moins nombreux",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "এমনকি যখন তারা প্রতিশ্রুত শাস্তি দেখতে পাবে, তখন তারা জানতে পারবে, কার সাহায্যকারী দূর্বল এবং কার সংখ্যা কম।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Eles permanecerão descrentes até que, quando virem o que lhes foi prometido, saberão quem está com socorredor mais frágil e inferior em número",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Когда же они увидят то, что им было обещано, то узнают, чьи помощники слабее и малочисленнее",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "یہاں تک کہ جب یہ لوگ وہ (دن) دیکھ لیں گے جس کا ان سے وعدہ کیا جاتا ہے تب ان کو معلوم ہو جائے گا کہ مددگار کس کے کمزور اور شمار کن کا تھوڑا ہے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_072_025",
+      "reference": {
+        "surah_number": 72,
+        "surah_name": "Al-Jinn",
+        "surah_name_ar": "سُوْرَةُ الْجِنِّ",
+        "surah_name_translation": "The Jinn",
+        "ayah_number": 25,
+        "juz": 29,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 11,
+      "translations": {
+        "ar": {
+          "text": "قُلۡ إِنۡ أَدۡرِيٓ أَقَرِيبࣱ مَّا تُوعَدُونَ أَمۡ يَجۡعَلُ لَهُۥ رَبِّيٓ أَمَدًا",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Say, “I do not know if what you are promised is near or my Lord has set a distant time for it",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "你说：我不知道你们被警告的刑罚是临近的呢？还是我的主将为它规定一个期限呢？",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "कह दो, \"मैं नहीं जानता कि जिस चीज़ का तुमसे वादा किया जाता है वह निकट है या मेरा रब उसके लिए लम्बी अवधि ठहराता है",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Diles: \"No sé si está cerca aquello con que se los ha advertido, o si mi Señor le ha fijado un plazo distante",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Dis: «Je ne sais pas si ce dont vous êtes menacés est proche, ou bien, si mon Seigneur va lui assigner un délai",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "বলুনঃ আমি জানি না তোমাদের প্রতিশ্রুত বিষয় আসন্ন না আমার পালনকর্তা এর জন্যে কোন মেয়াদ স্থির করে রেখেছেন।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Dize: \"Não estou inteirado de que o quê vos é prometido esteja próximo, ou de que meu Senhor lhe faça longínquo termo",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Скажи: «Я не знаю, скоро ли настанет обещанное вам, или же мой Господь отсрочил его»",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "کہہ دو کہ جس (دن) کا تم سے وعدہ کیا جاتا ہے میں نہیں جانتا کہ وہ (عن) قریب (آنے والا ہے) یا میرے پروردگار نے اس کی مدت دراز کر دی ہے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_072_026",
+      "reference": {
+        "surah_number": 72,
+        "surah_name": "Al-Jinn",
+        "surah_name_ar": "سُوْرَةُ الْجِنِّ",
+        "surah_name_translation": "The Jinn",
+        "ayah_number": 26,
+        "juz": 29,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 7,
+      "translations": {
+        "ar": {
+          "text": "عَٰلِمُ ٱلۡغَيۡبِ فَلَا يُظۡهِرُ عَلَىٰ غَيۡبِهِۦٓ أَحَدًا",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "˹He is the˺ Knower of the unseen, disclosing none of it to anyone",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "他是全知幽玄的，他不让任何人窥见他的幽玄，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "परोक्ष का जाननेवाला वही है और वह अपने परोक्ष को किसी पर प्रकट नहीं करता",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Él es Quien conoce lo oculto y no permite que nadie acceda a él",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "[C'est Lui] qui connaît le mystère. Il ne dévoile Son mystère à personne",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "তিনি অদৃশ্যের জ্ঞানী। পরন্ত তিনি অদৃশ্য বিষয় কারও কাছে প্রকাশ করেন না।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Ele é O Sabedor do invisível e não faz aparecer Seu invisível a ninguém",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Он - Ведающий сокровенное, и Он не открывает Своего сокровенного никому",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "غیب (کی بات) جاننے والا ہے اور کسی پر اپنے غیب کو ظاہر نہیں کرتا",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_072_027",
+      "reference": {
+        "surah_number": 72,
+        "surah_name": "Al-Jinn",
+        "surah_name_ar": "سُوْرَةُ الْجِنِّ",
+        "surah_name_translation": "The Jinn",
+        "ayah_number": 27,
+        "juz": 29,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 14,
+      "translations": {
+        "ar": {
+          "text": "إِلَّا مَنِ ٱرۡتَضَىٰ مِن رَّسُولࣲ فَإِنَّهُۥ يَسۡلُكُ مِنۢ بَيۡنِ يَدَيۡهِ وَمِنۡ خَلۡفِهِۦ رَصَدࣰ ا",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "except messengers of His choice. Then He appoints angel-guards before and behind them",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "除非他所喜悦的使者，因为他派遣卫队，在使者的前面和后面行走，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "सिवाय उस व्यक्ति के जिसे उसने रसूल की हैसियत से पसन्द कर लिया हो तो उसके आगे से और उसके पीछे से निगरानी की पूर्ण व्यवस्था कर देता है",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Salvo aquel con quien Él se complace como Mensajero [y le revela asuntos de lo oculto]. Entonces, hace que lo escolten [ángeles] por delante y por detrás",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "sauf à celui qu'Il agrée comme Messager et qu'Il fait précéder et suivre de gardiens vigilants",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "তাঁর মনোনীত রসূল ব্যতীত। তখন তিনি তার অগ্রে ও পশ্চাতে প্রহরী নিযুক্ত করেন",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Exceto a um Mensageiro, de quem Se agrade; então, por certo, Ele introduzirá guardiães adiante dele e detrás dele",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "кроме тех посланников, которыми Он доволен и к которым Он приставляет спереди и сзади стражей",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "ہاں جس پیغمبر کو پسند فرمائے تو اس (کو غیب کی باتیں بتا دیتا اور اس) کے آگے اور پیچھے نگہبان مقرر کر دیتا ہے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_072_028",
+      "reference": {
+        "surah_number": 72,
+        "surah_name": "Al-Jinn",
+        "surah_name_ar": "سُوْرَةُ الْجِنِّ",
+        "surah_name_translation": "The Jinn",
+        "ayah_number": 28,
+        "juz": 29,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 13,
+      "translations": {
+        "ar": {
+          "text": "لِّيَعۡلَمَ أَن قَدۡ أَبۡلَغُواْ رِسَٰلَٰتِ رَبِّهِمۡ وَأَحَاطَ بِمَا لَدَيۡهِمۡ وَأَحۡصَىٰ كُلَّ شَيۡءٍ عَدَدَۢا",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "to ensure that the messengers fully deliver the messages of their Lord—though He ˹already˺ knows all about them, and keeps account of everything.”",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "以便他知道使者确已传达了他们的主的使命，并且周知他们所有的言行，而且统计万物的数目。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "ताकि वह यक़ीनी बना दे कि उन्होंने अपने रब के सन्देश पहुँचा दिए और जो कुछ उनके पास है उसे वह घेरे हुए है और हर चीज़ को उसने गिन रखा है।",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "para cerciorarse que ha transmitido los Mensajes de su Señor. Él tiene completo conocimiento de todo cuanto les sucede y lleva la cuenta exacta de todo",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "afin qu'Il sache s'ils ont bien transmis les messages de leur Seigneur. Il cerne (de Son savoir) ce qui est avec eux, et dénombre exactement toute chose",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "যাতে আল্লাহ তা’আলা জেনে নেন যে, রসূলগণ তাঁদের পালনকর্তার পয়গাম পৌছিয়েছেন কি না। রসূলগণের কাছে যা আছে, তা তাঁর জ্ঞান-গোচর। তিনি সবকিছুর সংখ্যার হিসাব রাখেন।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Para saber se eles, com efeito, transmitiram as Mensagens de seu Senhor; e Ele abarca o que há junto deles, e enumera todas as cousas, em exato número",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "чтобы знать, что они донесли послания своего Господа. Он объемлет знанием все, что с ними, и Он исчислил всякую вещь",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "تاکہ معلوم فرمائے کہ انہوں نے اپنے پروردگار کے پیغام پہنچا دیئے ہیں اور (یوں تو) اس نے ان کی سب چیزوں کو ہر طرف سے قابو کر رکھا ہے اور ایک ایک چیز گن رکھی ہے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,505 @@
+{
+  "total_rejections_logged": 1235,
+  "sample_rejections": [
+    {
+      "surah": 2,
+      "ayah": 32,
+      "reason": "Context-locked: narrative character dialogue reply"
+    },
+    {
+      "surah": 2,
+      "ayah": 34,
+      "reason": "Context-locked: historical narrative recall frame [wa-idh]"
+    },
+    {
+      "surah": 2,
+      "ayah": 50,
+      "reason": "Context-locked: historical narrative recall frame [wa-idh]"
+    },
+    {
+      "surah": 2,
+      "ayah": 51,
+      "reason": "Context-locked: historical narrative recall frame [wa-idh]"
+    },
+    {
+      "surah": 2,
+      "ayah": 53,
+      "reason": "Context-locked: historical narrative recall frame [wa-idh]"
+    },
+    {
+      "surah": 2,
+      "ayah": 55,
+      "reason": "Context-locked: historical narrative recall frame [wa-idh]"
+    },
+    {
+      "surah": 2,
+      "ayah": 63,
+      "reason": "Context-locked: historical narrative recall frame [wa-idh]"
+    },
+    {
+      "surah": 2,
+      "ayah": 84,
+      "reason": "Context-locked: historical narrative recall frame [wa-idh]"
+    },
+    {
+      "surah": 2,
+      "ayah": 86,
+      "reason": "Context-locked: demonstrative pointer requiring antecedent"
+    },
+    {
+      "surah": 2,
+      "ayah": 127,
+      "reason": "Context-locked: historical narrative recall frame [wa-idh]"
+    },
+    {
+      "surah": 3,
+      "ayah": 42,
+      "reason": "Context-locked: historical narrative recall frame [wa-idh]"
+    },
+    {
+      "surah": 3,
+      "ayah": 122,
+      "reason": "Context-locked: historical narrative recall frame [wa-idh]"
+    },
+    {
+      "surah": 4,
+      "ayah": 161,
+      "reason": "Mid-sentence participial clause"
+    },
+    {
+      "surah": 5,
+      "ayah": 26,
+      "reason": "Context-locked: narrative character dialogue reply"
+    },
+    {
+      "surah": 5,
+      "ayah": 79,
+      "reason": "Context-locked: unnamed pronoun subject chain without antecedent"
+    },
+    {
+      "surah": 5,
+      "ayah": 113,
+      "reason": "Context-locked: narrative character dialogue reply"
+    },
+    {
+      "surah": 6,
+      "ayah": 74,
+      "reason": "Context-locked: historical narrative recall frame [wa-idh]"
+    },
+    {
+      "surah": 7,
+      "ayah": 13,
+      "reason": "Context-locked: narrative character dialogue reply"
+    },
+    {
+      "surah": 7,
+      "ayah": 15,
+      "reason": "Context-locked: narrative character dialogue reply"
+    },
+    {
+      "surah": 7,
+      "ayah": 16,
+      "reason": "Context-locked: narrative character dialogue reply"
+    },
+    {
+      "surah": 7,
+      "ayah": 18,
+      "reason": "Context-locked: narrative character dialogue reply"
+    },
+    {
+      "surah": 7,
+      "ayah": 23,
+      "reason": "Context-locked: narrative character dialogue reply"
+    },
+    {
+      "surah": 7,
+      "ayah": 24,
+      "reason": "Context-locked: narrative character dialogue reply"
+    },
+    {
+      "surah": 7,
+      "ayah": 61,
+      "reason": "Context-locked: narrative character dialogue reply"
+    },
+    {
+      "surah": 7,
+      "ayah": 80,
+      "reason": "Context-locked: historical narrative recall frame [wa-idh]"
+    },
+    {
+      "surah": 7,
+      "ayah": 106,
+      "reason": "Context-locked: narrative character dialogue reply"
+    },
+    {
+      "surah": 7,
+      "ayah": 111,
+      "reason": "Context-locked: narrative character dialogue reply"
+    },
+    {
+      "surah": 7,
+      "ayah": 114,
+      "reason": "Context-locked: narrative character dialogue reply"
+    },
+    {
+      "surah": 7,
+      "ayah": 116,
+      "reason": "Context-locked: narrative character dialogue reply"
+    },
+    {
+      "surah": 7,
+      "ayah": 121,
+      "reason": "Context-locked: narrative character dialogue reply"
+    },
+    {
+      "surah": 7,
+      "ayah": 125,
+      "reason": "Context-locked: narrative character dialogue reply"
+    },
+    {
+      "surah": 7,
+      "ayah": 132,
+      "reason": "Context-locked: narrative character dialogue reply"
+    },
+    {
+      "surah": 7,
+      "ayah": 144,
+      "reason": "Context-locked: narrative character dialogue reply"
+    },
+    {
+      "surah": 8,
+      "ayah": 9,
+      "reason": "Context-locked: historical narrative recall frame [wa-idh]"
+    },
+    {
+      "surah": 10,
+      "ayah": 77,
+      "reason": "Context-locked: narrative character dialogue reply"
+    },
+    {
+      "surah": 10,
+      "ayah": 79,
+      "reason": "Context-locked: matches pattern [^(Pharaoh|Moses)\\s+(protested|demanded|ordered|com...]"
+    },
+    {
+      "surah": 10,
+      "ayah": 84,
+      "reason": "Context-locked: narrative character dialogue reply"
+    },
+    {
+      "surah": 10,
+      "ayah": 85,
+      "reason": "Context-locked: narrative character dialogue reply"
+    },
+    {
+      "surah": 11,
+      "ayah": 32,
+      "reason": "Context-locked: narrative character dialogue reply"
+    },
+    {
+      "surah": 11,
+      "ayah": 33,
+      "reason": "Context-locked: narrative character dialogue reply"
+    },
+    {
+      "surah": 11,
+      "ayah": 41,
+      "reason": "Context-locked: unnamed pronoun subject chain without antecedent"
+    },
+    {
+      "surah": 11,
+      "ayah": 53,
+      "reason": "Context-locked: narrative character dialogue reply"
+    },
+    {
+      "surah": 11,
+      "ayah": 73,
+      "reason": "Context-locked: narrative character dialogue reply"
+    },
+    {
+      "surah": 11,
+      "ayah": 79,
+      "reason": "Context-locked: narrative character dialogue reply"
+    },
+    {
+      "surah": 11,
+      "ayah": 80,
+      "reason": "Context-locked: narrative character dialogue reply"
+    },
+    {
+      "surah": 11,
+      "ayah": 92,
+      "reason": "Context-locked: narrative character dialogue reply"
+    },
+    {
+      "surah": 11,
+      "ayah": 97,
+      "reason": "Context-locked: matches pattern [^to (Pharaoh|Moses|Abraham|Noah|the people)\\b...]"
+    },
+    {
+      "surah": 11,
+      "ayah": 99,
+      "reason": "Context-locked: unnamed pronoun subject chain without antecedent"
+    },
+    {
+      "surah": 11,
+      "ayah": 102,
+      "reason": "Context-locked: demonstrative pointer requiring antecedent"
+    },
+    {
+      "surah": 12,
+      "ayah": 5,
+      "reason": "Context-locked: narrative character dialogue reply"
+    },
+    {
+      "surah": 12,
+      "ayah": 8,
+      "reason": "Context-locked: historical narrative recall frame [wa-idh]"
+    },
+    {
+      "surah": 12,
+      "ayah": 11,
+      "reason": "Context-locked: narrative character dialogue reply"
+    },
+    {
+      "surah": 12,
+      "ayah": 13,
+      "reason": "Context-locked: narrative character dialogue reply"
+    },
+    {
+      "surah": 12,
+      "ayah": 14,
+      "reason": "Context-locked: narrative character dialogue reply"
+    },
+    {
+      "surah": 12,
+      "ayah": 44,
+      "reason": "Context-locked: narrative character dialogue reply"
+    },
+    {
+      "surah": 12,
+      "ayah": 45,
+      "reason": "Context-locked: matches pattern [^˹[Ff]inally,?˺...]"
+    },
+    {
+      "surah": 12,
+      "ayah": 79,
+      "reason": "Context-locked: narrative character dialogue reply"
+    },
+    {
+      "surah": 12,
+      "ayah": 85,
+      "reason": "Context-locked: narrative character dialogue reply"
+    },
+    {
+      "surah": 12,
+      "ayah": 86,
+      "reason": "Context-locked: narrative character dialogue reply"
+    },
+    {
+      "surah": 12,
+      "ayah": 92,
+      "reason": "Context-locked: narrative character dialogue reply"
+    },
+    {
+      "surah": 12,
+      "ayah": 95,
+      "reason": "Context-locked: narrative character dialogue reply"
+    },
+    {
+      "surah": 12,
+      "ayah": 98,
+      "reason": "Context-locked: narrative character dialogue reply"
+    },
+    {
+      "surah": 14,
+      "ayah": 7,
+      "reason": "Context-locked: historical narrative recall frame [wa-idh]"
+    },
+    {
+      "surah": 14,
+      "ayah": 35,
+      "reason": "Context-locked: historical narrative recall frame [wa-idh]"
+    },
+    {
+      "surah": 15,
+      "ayah": 13,
+      "reason": "Context-locked: unnamed pronoun subject chain without antecedent"
+    },
+    {
+      "surah": 15,
+      "ayah": 33,
+      "reason": "Context-locked: narrative character dialogue reply"
+    },
+    {
+      "surah": 15,
+      "ayah": 37,
+      "reason": "Context-locked: narrative character dialogue reply"
+    },
+    {
+      "surah": 15,
+      "ayah": 39,
+      "reason": "Context-locked: narrative character speech without antecedent"
+    },
+    {
+      "surah": 15,
+      "ayah": 41,
+      "reason": "Context-locked: narrative character dialogue reply"
+    },
+    {
+      "surah": 15,
+      "ayah": 55,
+      "reason": "Context-locked: narrative character dialogue reply"
+    },
+    {
+      "surah": 15,
+      "ayah": 56,
+      "reason": "Context-locked: narrative character dialogue reply"
+    },
+    {
+      "surah": 15,
+      "ayah": 58,
+      "reason": "Context-locked: narrative character dialogue reply"
+    },
+    {
+      "surah": 15,
+      "ayah": 62,
+      "reason": "Context-locked: narrative character dialogue reply"
+    },
+    {
+      "surah": 15,
+      "ayah": 63,
+      "reason": "Context-locked: narrative character dialogue reply"
+    },
+    {
+      "surah": 15,
+      "ayah": 70,
+      "reason": "Context-locked: narrative character dialogue reply"
+    },
+    {
+      "surah": 15,
+      "ayah": 71,
+      "reason": "Context-locked: narrative character dialogue reply"
+    },
+    {
+      "surah": 17,
+      "ayah": 61,
+      "reason": "Context-locked: historical narrative recall frame [wa-idh]"
+    },
+    {
+      "surah": 17,
+      "ayah": 63,
+      "reason": "Context-locked: narrative character dialogue reply"
+    },
+    {
+      "surah": 17,
+      "ayah": 76,
+      "reason": "Context-locked: unnamed pronoun subject chain without antecedent"
+    },
+    {
+      "surah": 18,
+      "ayah": 60,
+      "reason": "Context-locked: historical narrative recall frame [wa-idh]"
+    },
+    {
+      "surah": 18,
+      "ayah": 64,
+      "reason": "Context-locked: narrative character dialogue reply"
+    },
+    {
+      "surah": 18,
+      "ayah": 66,
+      "reason": "Context-locked: narrative character speech without antecedent"
+    },
+    {
+      "surah": 18,
+      "ayah": 67,
+      "reason": "Context-locked: narrative character dialogue reply"
+    },
+    {
+      "surah": 18,
+      "ayah": 70,
+      "reason": "Context-locked: narrative character dialogue reply"
+    },
+    {
+      "surah": 18,
+      "ayah": 72,
+      "reason": "Context-locked: narrative character dialogue reply"
+    },
+    {
+      "surah": 18,
+      "ayah": 75,
+      "reason": "Context-locked: narrative character dialogue reply"
+    },
+    {
+      "surah": 18,
+      "ayah": 76,
+      "reason": "Context-locked: narrative character dialogue reply"
+    },
+    {
+      "surah": 18,
+      "ayah": 78,
+      "reason": "Context-locked: narrative character dialogue reply"
+    },
+    {
+      "surah": 18,
+      "ayah": 87,
+      "reason": "Context-locked: narrative character dialogue reply"
+    },
+    {
+      "surah": 18,
+      "ayah": 95,
+      "reason": "Context-locked: narrative character dialogue reply"
+    },
+    {
+      "surah": 19,
+      "ayah": 10,
+      "reason": "Context-locked: narrative character speech without antecedent"
+    },
+    {
+      "surah": 19,
+      "ayah": 19,
+      "reason": "Context-locked: narrative character dialogue reply"
+    },
+    {
+      "surah": 19,
+      "ayah": 47,
+      "reason": "Context-locked: narrative character dialogue reply"
+    },
+    {
+      "surah": 19,
+      "ayah": 55,
+      "reason": "Context-locked: unnamed pronoun subject chain without antecedent"
+    },
+    {
+      "surah": 20,
+      "ayah": 18,
+      "reason": "Context-locked: narrative character dialogue reply"
+    },
+    {
+      "surah": 20,
+      "ayah": 19,
+      "reason": "Context-locked: narrative character dialogue reply"
+    },
+    {
+      "surah": 20,
+      "ayah": 21,
+      "reason": "Context-locked: narrative character dialogue reply"
+    },
+    {
+      "surah": 20,
+      "ayah": 36,
+      "reason": "Context-locked: narrative character dialogue reply"
+    },
+    {
+      "surah": 20,
+      "ayah": 49,
+      "reason": "Context-locked: matches pattern [^(Pharaoh|Moses)\\s+(protested|demanded|ordered|com...]"
+    },
+    {
+      "surah": 20,
+      "ayah": 50,
+      "reason": "Context-locked: narrative character dialogue reply"
+    }
+  ]
+}

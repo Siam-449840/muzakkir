@@ -1,0 +1,3085 @@
+{
+  "surah": 54,
+  "verses": [
+    {
+      "content_id": "quran_054_001",
+      "reference": {
+        "surah_number": 54,
+        "surah_name": "Al-Qamar",
+        "surah_name_ar": "سُوْرَةُ الْقَمَرِ",
+        "surah_name_translation": "The Moon",
+        "ayah_number": 1,
+        "juz": 27,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 4,
+      "translations": {
+        "ar": {
+          "text": "ٱقۡتَرَبَتِ ٱلسَّاعَةُ وَٱنشَقَّ ٱلۡقَمَرُ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "The Hour has drawn near and the moon was split ˹in two˺",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "复活时临近了，月亮破裂了。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "वह घड़ी निकट और लगी और चाँद फट गया",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "El Día del Juicio está próximo, y la Luna se parte en dos",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "L'Heure approche et la Lune s'est fendue",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "কেয়ামত আসন্ন, চন্দ্র বিদীর্ণ হয়েছে।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "A Hora aproxima-se, e a lua fendeu-se",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Приблизился Час, и раскололся месяц",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "قیامت قریب آ پہنچی اور چاند شق ہوگیا",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_054_002",
+      "reference": {
+        "surah_number": 54,
+        "surah_name": "Al-Qamar",
+        "surah_name_ar": "سُوْرَةُ الْقَمَرِ",
+        "surah_name_translation": "The Moon",
+        "ayah_number": 2,
+        "juz": 27,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 7,
+      "translations": {
+        "ar": {
+          "text": "وَإِن يَرَوۡاْ ءَايَةࣰ يُعۡرِضُواْ وَيَقُولُواْ سِحۡرࣱ مُّسۡتَمِرࣱّ‏",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Yet, whenever they see a sign, they turn away, saying, “Same old magic!”",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "如果他们看见一种迹象，他们就退避，而且说：这是一种有力的魔术。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "किन्तु हाल यह है कि यदि वे कोई निशानी देख भी लें तो टाल जाएँगे और कहेंगे, \"यह तो जादू है, पहले से चला आ रहा है",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Pero cuando contemplaron el signo, se rehusaron a creer y dijeron: \"Esto es un hechizo persistente",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Et s'ils voient un prodige, ils s'en détournent et disent: «Une magie persistante»",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "তারা যদি কোন নিদর্শন দেখে তবে মুখ ফিরিয়ে নেয় এবং বলে, এটা তো চিরাগত জাদু।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E, contudo, se eles vêem um sinal, dão de ombros e dizem: \"É magia constante",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Когда они видят знамение, то отворачиваются и говорят: «Это - преходящее (или крепкое; или лживое) колдовство!»",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور اگر (کافر) کوئی نشانی دیکھتے ہیں تو منہ پھیر لیتے ہیں اور کہتے ہیں کہ یہ ایک ہمیشہ کا جادو ہے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_054_003",
+      "reference": {
+        "surah_number": 54,
+        "surah_name": "Al-Qamar",
+        "surah_name_ar": "سُوْرَةُ الْقَمَرِ",
+        "surah_name_translation": "The Moon",
+        "ayah_number": 3,
+        "juz": 27,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 6,
+      "translations": {
+        "ar": {
+          "text": "وَكَذَّبُواْ وَٱتَّبَعُوٓاْ أَهۡوَآءَهُمۡۚ وَكُلُّ أَمۡرࣲ مُّسۡتَقِرࣱّ‏",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "They rejected ˹the truth˺ and followed their own desires—and every matter will be settled—",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "他们否认他，而且顺从私欲。每一件事都是确定的。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "उन्होंने झुठलाया और अपनी इच्छाओं का अनुसरण किया; किन्तु हर मामले के लिए एक नियत अवधि है।",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Desmintieron y siguieron sus inclinaciones. Pero todo tiene un desenlace definitivo",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Et ils [le] traitent de mensonge et suivent leurs propres impulsions, or chaque chose arrivera à son terme [et son but]",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "তারা মিথ্যারোপ করছে এবং নিজেদের খেয়াল-খুশীর অনুসরণ করছে। প্রত্যেক কাজ যথাসময়ে স্থিরীকৃত হয়।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E desmentem a Mensagem e seguem suas paixões. E toda ordem tem seu tempo de ser",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Они сочли лжецами посланников и потакали своим желаниям, но каждый поступок утвердится (творения получат вознаграждение за добро и наказание за зло)",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور انہوں نے جھٹلایا اور اپنی خواہشوں کی پیروی کی اور ہر کام کا وقت مقرر ہے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_054_004",
+      "reference": {
+        "surah_number": 54,
+        "surah_name": "Al-Qamar",
+        "surah_name_ar": "سُوْرَةُ الْقَمَرِ",
+        "surah_name_translation": "The Moon",
+        "ayah_number": 4,
+        "juz": 27,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 7,
+      "translations": {
+        "ar": {
+          "text": "وَلَقَدۡ جَآءَهُم مِّنَ ٱلۡأَنۢبَآءِ مَا فِيهِ مُزۡدَجَرٌ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "even though the stories ˹of destroyed nations˺ that have already come to them are a sufficient deterrent",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "包含警戒的许多消息，确已来临他们了，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "उनके पास अतीत को ऐसी खबरें आ चुकी है, जिनमें ताड़ना अर्थात पूर्णतः तत्वदर्शीता है।",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Ya han recibido suficiente información disuasiva",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Ils ont pourtant reçu comme nouvelles de quoi les empêcher (du mal)",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "তাদের কাছে এমন সংবাদ এসে গেছে, যাতে সাবধানবাণী রয়েছে।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E, com efeito, chegou-lhes, dos informes, aquilo em que há repulsa à descrença",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "До них уже дошли известия, которые удерживали от неверия",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور ان کو ایسے حالات (سابقین) پہنچ چکے ہیں جن میں عبرت ہے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_054_005",
+      "reference": {
+        "surah_number": 54,
+        "surah_name": "Al-Qamar",
+        "surah_name_ar": "سُوْرَةُ الْقَمَرِ",
+        "surah_name_translation": "The Moon",
+        "ayah_number": 5,
+        "juz": 27,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 5,
+      "translations": {
+        "ar": {
+          "text": "حِكۡمَةُۢ بَٰلِغَةࣱۖ فَمَا تُغۡنِ ٱلنُّذُرُ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "˹This Quran is˺ profound ˹in˺ wisdom, but warnings are of no benefit ˹to them˺",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "那是极精密的智慧；但警告是无效的，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "किन्तु चेतावनियाँ उनके कुछ काम नहीं आ रही है",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Una sabiduría sublime [de Dios], pero las advertencias han sido en vano",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "[Cela est] une sagesse parfaite. Mais les avertissements ne [leur] servent à rien",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "এটা পরিপূর্ণ জ্ঞান, তবে সতর্ককারীগণ তাদের কোন উপকারে আসে না।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Uma terminante sabedoria. Mas de nada lhes valem as admoestações",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Это является совершенной мудростью, но какую пользу приносят предостережения (или предостережения не принесли им никакой пользы)",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور کامل دانائی (کی کتاب بھی) لیکن ڈرانا ان کو کچھ فائدہ نہیں دیتا",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_054_006",
+      "reference": {
+        "surah_number": 54,
+        "surah_name": "Al-Qamar",
+        "surah_name_ar": "سُوْرَةُ الْقَمَرِ",
+        "surah_name_translation": "The Moon",
+        "ayah_number": 6,
+        "juz": 27,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 8,
+      "translations": {
+        "ar": {
+          "text": "فَتَوَلَّ عَنۡهُمۡۘ يَوۡمَ يَدۡعُ ٱلدَّاعِ إِلَىٰ شَيۡءࣲ نُّكُرٍ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "So turn away from them ˹O Prophet˺. ˹And wait for˺ the Day ˹when˺ the caller will summon ˹them˺ for something horrifying",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "故你应当避开他们。当召唤者召人于难事的日子，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "अतः उनसे रुख़ फेर लो - जिस दिन पुकारनेवाला एक अत्यन्त अप्रिय चीज़ की ओर पुकारेगा",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "así que apártate de ellos. El día que un pregonero les convoque para algo terrible",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Détourne-toi d'eux. Le jour où l'appeleur appellera vers une chose affreuse",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "অতএব, আপনি তাদের থেকে মুখ ফিরিয়ে নিন। যেদিন আহবানকারী আহবান করবে এক অপ্রিয় পরিণামের দিকে,",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Então, Muhammad, volta-lhes as costas. Um dia, quando o convocador os convocar a uma Terrível cousa",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Отвернись же от них. В тот день, когда глашатай призовет к неприятной вещи",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "تو تم بھی ان کی کچھ پروا نہ کرو۔ جس دن بلانے والا ان کو ایک ناخوش چیز کی طرف بلائے گا",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_054_007",
+      "reference": {
+        "surah_number": 54,
+        "surah_name": "Al-Qamar",
+        "surah_name_ar": "سُوْرَةُ الْقَمَرِ",
+        "surah_name_translation": "The Moon",
+        "ayah_number": 7,
+        "juz": 27,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 8,
+      "translations": {
+        "ar": {
+          "text": "خُشَّعًا أَبۡصَٰرُهُمۡ يَخۡرُجُونَ مِنَ ٱلۡأَجۡدَاثِ كَأَنَّهُمۡ جَرَادࣱ مُّنتَشِرࣱ‏",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "With eyes downcast, they will come forth from the graves as if they were swarming locusts",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "他们不敢仰视地由坟中出来，好象是遍地的蝗虫；",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "वे अपनी झुकी हुई निगाहों के साथ अपनी क्रबों से निकल रहे होंगे, मानो वे बिखरी हुई टिड्डियाँ है",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "saldrán de las tumbas con la mirada baja, como si fueran langostas desorientadas",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "les regards baissés, ils sortiront des tombes comme des sauterelles éparpillées",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "তারা তখন অবনমিত নেত্রে কবর থেকে বের হবে বিক্ষিপ্ত পংগপাল সদৃশ।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Com as vistas humildemente baixas, sairão dos sepulcros, como gafanhotos espalhados",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "они с униженными взорами выйдут из могил, словно рассеянная саранча",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "تو آنکھیں نیچی کئے ہوئے قبروں سے نکل پڑیں گے گویا بکھری ہوئی ٹڈیاں",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_054_008",
+      "reference": {
+        "surah_number": 54,
+        "surah_name": "Al-Qamar",
+        "surah_name_ar": "سُوْرَةُ الْقَمَرِ",
+        "surah_name_translation": "The Moon",
+        "ayah_number": 8,
+        "juz": 27,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 8,
+      "translations": {
+        "ar": {
+          "text": "مُّهۡطِعِينَ إِلَى ٱلدَّاعِۖ يَقُولُ ٱلۡكَٰفِرُونَ هَٰذَا يَوۡمٌ عَسِرࣱ‏",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "rushing towards the caller. The disbelievers will cry, “This is a difficult Day!”",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "大家引颈而奔，群集于召唤者的面前。不信道的人们将说：这是一个烦难的日子！",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "दौड़ पड़ने को पुकारनेवाले की ओर। इनकार करनेवाले कहेंगे, \"यह तो एक कठिन दिन है",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "acudiendo presurosos a la llamada del pregonero. Los que se negaron a creer exclamarán: \"¡Hoy será un día difícil",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "courant, le cou tendu, vers l'appeleur. Les mécréants diront: «Voilà un jour difficile»",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "তারা আহবানকারীর দিকে দৌড়াতে থাকবে। কাফেরা বলবেঃ এটা কঠিন দিন।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Correndo, infrenes, de olhos fitos no convocador. Os renegadores da Fé dirão: \"Este é um dia difícil",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Они устремятся к глашатаю, и неверующие скажут: «Это - Тяжкий день!»",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اس بلانے والے کی طرف دوڑتے جاتے ہوں گے۔ کافر کہیں گے یہ دن بڑا سخت ہے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_054_009",
+      "reference": {
+        "surah_number": 54,
+        "surah_name": "Al-Qamar",
+        "surah_name_ar": "سُوْرَةُ الْقَمَرِ",
+        "surah_name_translation": "The Moon",
+        "ayah_number": 9,
+        "juz": 27,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 9,
+      "translations": {
+        "ar": {
+          "text": "۞كَذَّبَتۡ قَبۡلَهُمۡ قَوۡمُ نُوحࣲ فَكَذَّبُواْ عَبۡدَنَا وَقَالُواْ مَجۡنُونࣱ وَٱزۡدُجِرَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Before them, the people of Noah denied ˹the truth˺ and rejected Our servant, calling ˹him˺ insane. And he was intimidated",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "在他们之前，努哈的宗族否认过，他们否认过我的仆人，他们说：这是一个疯人。他曾被喝斥，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "उनसे पहले नूह की क़ौम ने भी झुठलाया। उन्होंने हमारे बन्दे को झूठा ठहराया और कहा, \"यह तो दीवाना है!\" और वह बुरी तरह झिड़का गया",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Pero antes que ellos ya se había negado a creer el pueblo de Noé. Desmintieron a Mi siervo y dijeron: \"Es un demente\", y lo amenazaron",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Avant eux, le peuple de Noé avait crié au mensonge. Ils traitèrent Notre serviteur de menteur et dirent: «C'est un possédé!» et il fut repoussé",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "তাদের পূর্বে নূহের সম্প্রদায়ও মিথ্যারোপ করেছিল। তারা মিথ্যারোপ করেছিল আমার বান্দা নূহের প্রতি এবং বলেছিলঃ এ তো উম্মাদ। তাঁরা তাকে হুমকি প্রদর্শন করেছিল।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Antes deles, o povo de Noé desmentiu a Mensagem; então, desmentiram Nosso servo e disseram: \"É um louco!\", e foi repulsado",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "До них счел лжецами посланников народ Нуха (Ноя). Они сочли лжецом Нашего раба и сказали: «Он - одержимый!». Они ругали его и угрожали ему",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "ان سے پہلے نوحؑ کی قوم نے بھی تکذیب کی تھی تو انہوں نے ہمارے بندے کو جھٹلایا اور کہا کہ دیوانہ ہے اور انہیں ڈانٹا بھی",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_054_010",
+      "reference": {
+        "surah_number": 54,
+        "surah_name": "Al-Qamar",
+        "surah_name_ar": "سُوْرَةُ الْقَمَرِ",
+        "surah_name_translation": "The Moon",
+        "ayah_number": 10,
+        "juz": 27,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 5,
+      "translations": {
+        "ar": {
+          "text": "فَدَعَا رَبَّهُۥٓ أَنِّي مَغۡلُوبࣱ فَٱنتَصِرۡ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "So he cried out to his Lord, “I am helpless, so help ˹me˺!”",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "故他祈祷他的主说：我确是被压迫的，求你相助吧！",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "अन्त में उसने अपने रब को पुकारा कि \"मैं दबा हुआ हूँ। अब तू बदला ले।",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Entonces [Noé] invocó a su Señor: \"¡Me han vencido, Te pido ayuda",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Il invoqua donc son Seigneur: «Moi, je suis vaincu. Fais triompher (Ta cause)»",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "অতঃপর সে তার পালনকর্তাকে ডেকে বললঃ আমি অক্ষম, অতএব, তুমি প্রতিবিধান কর।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E ele suplicou a seu Senhor: \"Por certo, estou vencido. Então, socorre-me",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Тогда он воззвал к своему Господу: «Меня одолели. Помоги же мне!»",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "تو انہوں نے اپنے پروردگار سے دعا کی کہ (بار الٓہا) میں (ان کے مقابلے میں) کمزور ہوں تو (ان سے) بدلہ لے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_054_011",
+      "reference": {
+        "surah_number": 54,
+        "surah_name": "Al-Qamar",
+        "surah_name_ar": "سُوْرَةُ الْقَمَرِ",
+        "surah_name_translation": "The Moon",
+        "ayah_number": 11,
+        "juz": 27,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 5,
+      "translations": {
+        "ar": {
+          "text": "فَفَتَحۡنَآ أَبۡوَٰبَ ٱلسَّمَآءِ بِمَآءࣲ مُّنۡهَمِرࣲ‏",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "So We opened the gates of the sky with pouring rain",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "我就以倾注的雨水开了许多天门，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "तब हमने मूसलाधार बरसते हुए पानी से आकाश के द्वार खोल दिए",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Entonces abrí las puertas del cielo con un agua torrencial",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Nous ouvrîmes alors les portes du ciel à une eau torrentielle",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "তখন আমি খুলে দিলাম আকাশের দ্বার প্রবল বারিবর্ষণের মাধ্যমে।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Então, abrimos as portas do céu com água torrencial",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Мы открыли врата неба, откуда стала изливаться вода",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "پس ہم نے زور کے مینہ سے آسمان کے دہانے کھول دیئے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_054_012",
+      "reference": {
+        "surah_number": 54,
+        "surah_name": "Al-Qamar",
+        "surah_name_ar": "سُوْرَةُ الْقَمَرِ",
+        "surah_name_translation": "The Moon",
+        "ayah_number": 12,
+        "juz": 27,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 10,
+      "translations": {
+        "ar": {
+          "text": "وَفَجَّرۡنَا ٱلۡأَرۡضَ عُيُونࣰ ا فَٱلۡتَقَى ٱلۡمَآءُ عَلَىٰٓ أَمۡرࣲ قَدۡ قُدِرَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "and caused the earth to burst with springs, so the waters met for a fate already set",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "我又使大地上的泉源涌出；雨水和泉水，就依既定的情状而汇合。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "और धरती को प्रवाहित स्रोतों में परिवर्तित कर दिया, और सारा पानी उस काम के लिए मिल गया जो नियत हो चुका था",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "también hice brotar agua de la tierra y se encontraron las aguas, por un mandato que había sido decretado",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "et fîmes jaillir la terre en sources. Les eaux se rencontrèrent d'après un ordre qui était déjà décrété dans une chose [faite]",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "এবং ভুমি থেকে প্রবাহিত করলাম প্রস্রবণ। অতঃপর সব পানি মিলিত হল এক পরিকম্পিত কাজে।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E fizemos a terra emanando em fontes. Então, depararam-se as águas, conforme ordem determinada",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "и разверзли землю, из которой забили ключи. Воды небес и земли слились для дела, которое было предопределено",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور زمین میں چشمے جاری کردیئے تو پانی ایک کام کے لئے جو مقدر ہوچکا تھا جمع ہوگیا",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_054_013",
+      "reference": {
+        "surah_number": 54,
+        "surah_name": "Al-Qamar",
+        "surah_name_ar": "سُوْرَةُ الْقَمَرِ",
+        "surah_name_translation": "The Moon",
+        "ayah_number": 13,
+        "juz": 27,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 5,
+      "translations": {
+        "ar": {
+          "text": "وَحَمَلۡنَٰهُ عَلَىٰ ذَاتِ أَلۡوَٰحࣲ وَدُسُرࣲ‏",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "We carried him on that ˹Ark made˺ of planks and nails",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "我使他乘坐一只用木板和钉子制造的船上，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "और हमने उसे एक तख़्तों और कीलोंवाली (नौका) पर सवार किया",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Pero a él lo transporté en una embarcación construida con tablas y clavos",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Et Nous le portâmes sur un objet [fait] de planches et de clous [l'arche]",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "আমি নূহকে আরোহণ করালাম এক কাষ্ঠ ও পেরেক নির্মিত জলযানে।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E carregamo-lo sobre a Arca de tábuas e pregos",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Мы понесли его в ковчеге из досок и гвоздей",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور ہم نے نوحؑ کو ایک کشتی پر جو تختوں اور میخوں سے تیار کی گئی تھی سوار کرلیا",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_054_014",
+      "reference": {
+        "surah_number": 54,
+        "surah_name": "Al-Qamar",
+        "surah_name_ar": "سُوْرَةُ الْقَمَرِ",
+        "surah_name_translation": "The Moon",
+        "ayah_number": 14,
+        "juz": 27,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 6,
+      "translations": {
+        "ar": {
+          "text": "تَجۡرِي بِأَعۡيُنِنَا جَزَآءࣰ لِّمَن كَانَ كُفِرَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "sailing under Our ˹watchful˺ Eyes—a ˹fair˺ punishment on behalf of the one ˹they˺ denied",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "在我的眷顾之下飘流，以报答被人否认者。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "जो हमारी निगाहों के सामने चल रही थी - यह बदला था उस व्यक्ति के लिए जिसकी क़द्र नहीं की गई।",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "que navegó bajo la protección de Mis ojos. Así recompensé a quien había sido rechazado",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "voguant sous Nos yeux: récompense pour celui qu'on avait renié [Noé]",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "যা চলত আমার দৃষ্টি সামনে। এটা তার পক্ষ থেকে প্রতিশোধ ছিল, যাকে প্রত্যখ্যান করা হয়েছিল।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Ela corria diante de Nossos olhos. E fizemo-lo, como recompensa a quem fora renegado",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Ковчег поплыл у Нас на Глазах в воздаяние тому, в кого не уверовали (или тем, которые не уверовали)",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "وہ ہماری آنکھوں کے سامنے چلتی تھی۔ (یہ سب کچھ) اس شخص کے انتقام کے لئے (کیا گیا) جس کو کافر مانتے نہ تھے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_054_015",
+      "reference": {
+        "surah_number": 54,
+        "surah_name": "Al-Qamar",
+        "surah_name_ar": "سُوْرَةُ الْقَمَرِ",
+        "surah_name_translation": "The Moon",
+        "ayah_number": 15,
+        "juz": 27,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 6,
+      "translations": {
+        "ar": {
+          "text": "وَلَقَد تَّرَكۡنَٰهَآ ءَايَةࣰ فَهَلۡ مِن مُّدَّكِرࣲ‏",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "We certainly left this as a sign. So is there anyone who will be mindful",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "我确已将这件事留作一种迹象，有接受劝告者吗？",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "हमने उसे एक निशानी बनाकर छोड़ दिया; फिर क्या कोई नसीहत हासिल करनेवाला",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Hice que la embarcación se preservara para que fuera un signo. Pero, ¿habrá alguien que reflexione",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Et Nous la laissâmes, comme un signe [d'avertissement]. Y a-t-il quelqu'un pour réfléchir",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "আমি একে এক নিদর্শনরূপে রেখে দিয়েছি। অতএব, কোন চিন্তাশীল আছে কি?",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E, com efeito, deixamo-la como sinal. Então, há quem disso se recorde",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Мы оставили его (корабль или рассказ о Нухе) в качестве знамения. Но есть ли среди вас вспоминающие",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور ہم نے اس کو ایک عبرت بنا چھوڑا تو کوئی ہے کہ سوچے سمجھے؟",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_054_016",
+      "reference": {
+        "surah_number": 54,
+        "surah_name": "Al-Qamar",
+        "surah_name_ar": "سُوْرَةُ الْقَمَرِ",
+        "surah_name_translation": "The Moon",
+        "ayah_number": 16,
+        "juz": 27,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 4,
+      "translations": {
+        "ar": {
+          "text": "فَكَيۡفَ كَانَ عَذَابِي وَنُذُرِ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Then how ˹dreadful˺ were My punishment and warnings",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "我的刑罚和警告是怎样的！",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "फिर कैसी रही मेरी यातना और मेरे डरावे",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "¡Qué severos fueron Mi castigo y Mi advertencia",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Comment furent Mon châtiment et Mes avertissements",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "কেমন কঠোর ছিল আমার শাস্তি ও সতর্কবাণী।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Então, como foi Meu castigo e Minhas admoestações",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Какими же были мучения от Меня и предостережения Мои",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "سو (دیکھ لو کہ) میرا عذاب اور ڈرانا کیسا ہوا؟",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_054_017",
+      "reference": {
+        "surah_number": 54,
+        "surah_name": "Al-Qamar",
+        "surah_name_ar": "سُوْرَةُ الْقَمَرِ",
+        "surah_name_translation": "The Moon",
+        "ayah_number": 17,
+        "juz": 27,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 7,
+      "translations": {
+        "ar": {
+          "text": "وَلَقَدۡ يَسَّرۡنَا ٱلۡقُرۡءَانَ لِلذِّكۡرِ فَهَلۡ مِن مُّدَّكِرࣲ‏",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "And We have certainly made the Quran easy to remember. So is there anyone who will be mindful",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "我确已使《古兰经》易于记诵，有接受劝告的人吗？",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "और हमने क़ुरआन को नसीहत के लिए अनुकूल और सहज बना दिया है। फिर क्या है कोई नसीहत करनेवाला",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "He hecho el Corán fácil de comprender y memorizar. Pero, ¿habrá alguien que reflexione",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "En effet, Nous avons rendu le Coran facile pour la méditation. Y a-t-il quelqu'un pour réfléchir",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "আমি কোরআনকে সহজ করে দিয়েছি বোঝার জন্যে। অতএব, কোন চিন্তাশীল আছে কি?",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E, com efeito, facilitamos o Alcorão, para a recordação. Então, há quem disso se recorde",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Мы облегчили Коран для поминания. Но есть ли среди вас вспоминающие",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور ہم نے قرآن کو سمجھنے کے لئے آسان کردیا ہے تو کوئی ہے کہ سوچے سمجھے؟",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_054_018",
+      "reference": {
+        "surah_number": 54,
+        "surah_name": "Al-Qamar",
+        "surah_name_ar": "سُوْرَةُ الْقَمَرِ",
+        "surah_name_translation": "The Moon",
+        "ayah_number": 18,
+        "juz": 27,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 6,
+      "translations": {
+        "ar": {
+          "text": "كَذَّبَتۡ عَادࣱ فَكَيۡفَ كَانَ عَذَابِي وَنُذُرِ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "’Ȃd ˹also˺ rejected ˹the truth˺. Then how ˹dreadful˺ were My punishment and warnings",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "阿德人否认过先知，我的刑罚和警告是怎样的！",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "आद ने भी झुठलाया, फिर कैसी रही मेरी यातना और मेरा डराना",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "[En la antigüedad] el pueblo de ‘Ad se negó a creer, ¡y qué severos fueron Mi castigo y Mi advertencia",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Les 'Aad ont traité de menteur (leur Messager). Comment furent Mon châtiment et Mes avertissements",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "আদ সম্প্রদায় মিথ্যারোপ করেছিল, অতঃপর কেমন কঠোর হয়েছিল আমার শাস্তি ও সতর্কবাণী।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "O povo de Ãd desmentiu aos Mensageiros; então, como foi Meu castigo e Minhas admoestações",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Адиты сочли лжецами посланников. Какими же были мучения от Меня и предостережения Мои",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "عاد نے بھی تکذیب کی تھی سو (دیکھ لو کہ) میرا عذاب اور ڈرانا کیسا ہوا",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_054_019",
+      "reference": {
+        "surah_number": 54,
+        "surah_name": "Al-Qamar",
+        "surah_name_ar": "سُوْرَةُ الْقَمَرِ",
+        "surah_name_translation": "The Moon",
+        "ayah_number": 19,
+        "juz": 27,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 11,
+      "translations": {
+        "ar": {
+          "text": "إِنَّآ أَرۡسَلۡنَا عَلَيۡهِمۡ رِيحࣰ ا صَرۡصَرࣰ ا فِي يَوۡمِ نَحۡسࣲ مُّسۡتَمِرࣲّ‏",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Indeed, We sent against them a furious wind, on a day of unrelenting misery",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "我确已使暴风在一个很凶恶的日子去毁灭他们，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "निश्चय ही हमने एक निरन्तर अशुभ दिन में तेज़ प्रचंड ठंडी हवा भेजी, उसे उनपर मुसल्लत कर दिया, तो वह लोगों को उखाड़ फेंक रही थी",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Envié sobre ellos un viento glacial y tempestuoso en un día interminable",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Nous avons envoyé contre eux un vent violent et glacial, en un jour néfaste et interminable",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "আমি তাদের উপর প্রেরণ করেছিলাম ঝঞ্জাবায়ু এক চিরাচরিত অশুভ দিনে।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Por certo, enviamos contra eles, em um dia funesto e interminável, estridente vento glacial",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Мы наслали на них морозный (или завывающий) ветер в день, злосчастье которого продолжалось",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "ہم نے ان پر سخت منحوس دن میں آندھی چلائی",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_054_020",
+      "reference": {
+        "surah_number": 54,
+        "surah_name": "Al-Qamar",
+        "surah_name_ar": "سُوْرَةُ الْقَمَرِ",
+        "surah_name_translation": "The Moon",
+        "ayah_number": 20,
+        "juz": 27,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 6,
+      "translations": {
+        "ar": {
+          "text": "تَنزِعُ ٱلنَّاسَ كَأَنَّهُمۡ أَعۡجَازُ نَخۡلࣲ مُّنقَعِرࣲ‏",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "that snatched people up, leaving them like trunks of uprooted palm trees",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "暴风将众人拔起，他们好象被拔出的海枣树干一样。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "मानो वे उखड़े खजूर के तने हो",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "que levantaba a la gente como si fueran troncos de palmeras arrancados de raíz",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "il arrachait les gens comme des souches de palmiers déracinés",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "তা মানুষকে উৎখাত করছিল, যেন তারা উৎপাটিত খর্জুর বৃক্ষের কান্ড।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Arrancava os homens como se foram troncos de tamareiras desarraigadas",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Он вырывал людей, словно стволы выкорчеванных финиковых пальм",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "وہ لوگوں کو (اس طرح) اکھیڑے ڈالتی تھی گویا اکھڑی ہوئی کھجوروں کے تنے ہیں",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_054_021",
+      "reference": {
+        "surah_number": 54,
+        "surah_name": "Al-Qamar",
+        "surah_name_ar": "سُوْرَةُ الْقَمَرِ",
+        "surah_name_translation": "The Moon",
+        "ayah_number": 21,
+        "juz": 27,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 4,
+      "translations": {
+        "ar": {
+          "text": "فَكَيۡفَ كَانَ عَذَابِي وَنُذُرِ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Then how ˹dreadful˺ were My punishment and warnings",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "我的刑罚和警告是怎样的！",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "फिर कैसी रही मेरी यातना और मेरे डरावे",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "¡Qué severos fueron Mi castigo y Mi advertencia",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Comment furent Mon châtiment et Mes avertissements",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "অতঃপর কেমন কঠোর ছিল আমার শাস্তি ও সতর্কবাণী।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Então, como foi Meu castigo e Minhas admoestações",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Какими же были мучения от Меня и предостережения Мои",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "سو (دیکھ لو کہ) میرا عذاب اور ڈرانا کیسا ہوا",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_054_022",
+      "reference": {
+        "surah_number": 54,
+        "surah_name": "Al-Qamar",
+        "surah_name_ar": "سُوْرَةُ الْقَمَرِ",
+        "surah_name_translation": "The Moon",
+        "ayah_number": 22,
+        "juz": 27,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 7,
+      "translations": {
+        "ar": {
+          "text": "وَلَقَدۡ يَسَّرۡنَا ٱلۡقُرۡءَانَ لِلذِّكۡرِ فَهَلۡ مِن مُّدَّكِرࣲ‏",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "And We have certainly made the Quran easy to remember. So is there anyone who will be mindful",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "我确已使《古兰经》易于记诵，有接受劝告的人吗？",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "और हमने क़ुरआन को नसीहत के लिए अनुकूल और सहज बना दिया है। फिर क्या है कोई नसीहत हासिल करनेवाला",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "He hecho el Corán fácil de entender y memorizar. Pero, ¿habrá alguien que lo reflexione",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "En effet, Nous avons rendu le Coran facile pour la méditation. Y a-t-il quelqu'un pour réfléchir",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "আমি কোরআনকে বোঝার জন্যে সহজ করে দিয়েছি। অতএব, কোন চিন্তাশীল আছে কি?",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E, com efeito, facilitamos o Alcorão, para a recordação. Então, há quem disso se recorde",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Мы облегчили Коран для поминания. Но есть ли среди вас вспоминающие",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور ہم نے قرآن کو سمجھنے کے لئے آسان کردیا ہے تو کوئی ہے کہ سوچے سمجھے؟",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_054_023",
+      "reference": {
+        "surah_number": 54,
+        "surah_name": "Al-Qamar",
+        "surah_name_ar": "سُوْرَةُ الْقَمَرِ",
+        "surah_name_translation": "The Moon",
+        "ayah_number": 23,
+        "juz": 27,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 3,
+      "translations": {
+        "ar": {
+          "text": "كَذَّبَتۡ ثَمُودُ بِٱلنُّذُرِ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Thamûd rejected the warnings ˹as well˺",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "赛莫德人否认过警告，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "समूद ने चेतावनियों को झुठलाया",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "El pueblo de Zamud desmintió las advertencias",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Les Thamûd ont traité de mensonges les avertissements",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "সামুদ সম্প্রদায় সতর্ককারীদের প্রতি মিথ্যারোপ করেছিল।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "O povo de Thamud desmentiu aos admoestadores",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Самудяне сочли ложью предостережения",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "ثمود نے بھی ہدایت کرنے والوں کو جھٹلایا",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_054_024",
+      "reference": {
+        "surah_number": 54,
+        "surah_name": "Al-Qamar",
+        "surah_name_ar": "سُوْرَةُ الْقَمَرِ",
+        "surah_name_translation": "The Moon",
+        "ayah_number": 24,
+        "juz": 27,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 13,
+      "translations": {
+        "ar": {
+          "text": "فَقَالُوٓاْ أَبَشَرࣰ ا مِّنَّا وَٰحِدࣰ ا نَّتَّبِعُهُۥٓ إِنَّآ إِذࣰ ا لَّفِي ضَلَٰلࣲ وَسُعُرٍ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "arguing, “How can we follow one ˹average˺ human being from among us? We would then truly be misguided and insane",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "故他们说：我们同族的一个凡人，我们能顺从他吗？如果那样，我们必定陷于迷误和疯狂之中。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "और कहने लगे, \"एक अकेला आदमी, जो हम ही में से है, क्या हम उसके पीछे चलेंगे? तब तो वास्तव में हम गुमराही और दीवानापन में पड़ गए",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Dijeron: \"¿Acaso vamos a seguir a un ser humano igual a nosotros? Si lo hiciéramos, estaríamos extraviados y delirantes",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Ils dirent: «Allons-nous suivre un seul homme (Sâlih) d'entre nous-mêmes? Nous serions alors dans l'égarement et la folie",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "তারা বলেছিলঃ আমরা কি আমাদেরই একজনের অনুসরণ করব? তবে তো আমরা বিপথগামী ও বিকার গ্রস্থরূপে গণ্য হব।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E disseram: \"Seguiremos um só mortal, dentre nós? Nesse caso, estaremos, por certo, em descaminho e em loucura",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Они сказали: «Неужели мы последуем за одним из нас? В этом случае мы окажемся в заблуждении и будем страдать (или отдалимся от истины)",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور کہا کہ بھلا ایک آدمی جو ہم ہی میں سے ہے ہم اس کی پیروی کریں؟ یوں ہو تو ہم گمراہی اور دیوانگی میں پڑ گئے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_054_025",
+      "reference": {
+        "surah_number": 54,
+        "surah_name": "Al-Qamar",
+        "surah_name_ar": "سُوْرَةُ الْقَمَرِ",
+        "surah_name_translation": "The Moon",
+        "ayah_number": 25,
+        "juz": 27,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 9,
+      "translations": {
+        "ar": {
+          "text": "أَءُلۡقِيَ ٱلذِّكۡرُ عَلَيۡهِ مِنۢ بَيۡنِنَا بَلۡ هُوَ كَذَّابٌ أَشِرࣱ‏",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Has the revelation been sent down ˹only˺ to him out of ˹all of˺ us? In fact, he is a boastful liar.”",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "难道他在我们之间独自奉到启示吗？不然，他是说谎者，是傲慢者。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "क्या हमारे बीच उसी पर अनुस्मृति उतारी है? नहीं, बल्कि वह तो परले दरजे का झूठा, बड़ा आत्मश्लाघी है।",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "¿Por qué le habría sido concedido el Mensaje solo a él de entre todos nosotros? Es un mentiroso arrogante",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Est-ce que le message a été envoyé à Lui à l'exception de nous tous? C'est plutôt un grand menteur, plein de prétention et d'orgueil»",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "আমাদের মধ্যে কি তারই প্রতি উপদেশ নাযিল করা হয়েছে? বরং সে একজন মিথ্যাবাদী, দাম্ভিক।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Foi-lhe transmitida a Mensagem, só a ele, dentre nós? Mas ele é mentiroso, enfatuado",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Неужели среди всех нас напоминание ниспослано только ему одному? О нет! Он - надменный лжец»",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "کیا ہم سب میں سے اسی پر وحی نازل ہوئی ہے؟ (نہیں) بلکہ یہ جھوٹا خود پسند ہے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_054_026",
+      "reference": {
+        "surah_number": 54,
+        "surah_name": "Al-Qamar",
+        "surah_name_ar": "سُوْرَةُ الْقَمَرِ",
+        "surah_name_translation": "The Moon",
+        "ayah_number": 26,
+        "juz": 27,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 6,
+      "translations": {
+        "ar": {
+          "text": "سَيَعۡلَمُونَ غَدࣰ ا مَّنِ ٱلۡكَذَّابُ ٱلۡأَشِرُ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "˹It was revealed to Ṣâliḥ,˺ “They will soon know who the boastful liar is",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "他们明日将知道谁是说谎者，谁是傲慢者。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "कल को ही वे जान लेंगे कि कौन परले दरजे का झूठा, बड़ा आत्मश्लाघी है।",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "¡Pero ya sabrán mañana quién es el verdadero mentiroso arrogante",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Demain, ils sauront qui est le grand menteur plein de prétention et d'orgueil",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "এখন আগামীকল্যই তারা জানতে পারবে কে মিথ্যাবাদী, দাম্ভিক।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Dissemos: \"Saberão, amanhã quem é o mentiroso, o enfatuado",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Завтра они узнают, кто является надменным лжецом",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "ان کو کل ہی معلوم ہوجائے گا کہ کون جھوٹا خود پسند ہے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_054_027",
+      "reference": {
+        "surah_number": 54,
+        "surah_name": "Al-Qamar",
+        "surah_name_ar": "سُوْرَةُ الْقَمَرِ",
+        "surah_name_translation": "The Moon",
+        "ayah_number": 27,
+        "juz": 27,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 7,
+      "translations": {
+        "ar": {
+          "text": "إِنَّا مُرۡسِلُواْ ٱلنَّاقَةِ فِتۡنَةࣰ لَّهُمۡ فَٱرۡتَقِبۡهُمۡ وَٱصۡطَبِرۡ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "We are sending the she-camel as a test for them. So watch them ˹closely˺, and have patience",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "我必定使母驼考验他们，故你应当期待他们，并应当坚忍，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "हम ऊँटनी को उनके लिए परीक्षा के रूप में भेज रहे है। अतः तुम उन्हें देखते जाओ और धैर्य से काम लो",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Les envié la camella como una prueba: \"Obsérvalos y ten paciencia",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Nous leur enverrons la chamelle, comme épreuve. Surveille-les donc et sois patient",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "আমি তাদের পরীক্ষার জন্য এক উষ্ট্রী প্রেরণ করব, অতএব, তাদের প্রতি লক্ষ্য রাখ এবং সবর কর।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Por certo, enviar-lhes-emos o camelo fêmea, por provação. Então, fica na expectativa deles e pacienta",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Аллах сказал их пророку: «Мы посылаем верблюдицу для того, чтобы испытать их. Подожди же и будь терпелив",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "(اے صالح) ہم ان کی آزمائش کے لئے اونٹنی بھیجنے والے ہیں تو تم ان کو دیکھتے رہو اور صبر کرو",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_054_028",
+      "reference": {
+        "surah_number": 54,
+        "surah_name": "Al-Qamar",
+        "surah_name_ar": "سُوْرَةُ الْقَمَرِ",
+        "surah_name_translation": "The Moon",
+        "ayah_number": 28,
+        "juz": 27,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 8,
+      "translations": {
+        "ar": {
+          "text": "وَنَبِّئۡهُمۡ أَنَّ ٱلۡمَآءَ قِسۡمَةُۢ بَيۡنَهُمۡۖ كُلُّ شِرۡبࣲ مُّحۡتَضَرࣱ‏",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "And tell them that the ˹drinking˺ water must be divided between them ˹and her˺, each taking a turn to drink ˹every other day˺.”",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "你应当告诉他们，井水是他们和母驼所均分的，应得水分的，轮流着到井边来。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "और उन्हें सूचित कर दो कि पानी उनके बीच बाँट दिया गया है। हर एक पीने की बारी पर बारीवाला उपस्थित होगा।",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "e infórmales que el agua debe compartirse, y que deberán respetar su turno",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Et informe-les que l'eau sera en partage entre eux [et la chamelle]; chacun boira à son tour",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "এবং তাদেরকে জানিয়ে দাও যে, তাদের মধ্যে পানির পালা নির্ধারিত হয়েছে এবং পালাক্রমে উপস্থিত হতে হবে।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E informa-os de que a água será partilhada entre eles e o camelo fêmea; cada porção de bebida será presenciada por aquele a quem ela pertence",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Сообщи им, что вода поделена между ними и верблюдицей. Пусть же они приходят попить каждый раз в отведенное для них время»",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور ان کو آگاہ کردو کہ ان میں پانی کی باری مقرر کر دی گئی ہے۔ ہر (باری والے کو اپنی) باری پر آنا چاہیئے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_054_029",
+      "reference": {
+        "surah_number": 54,
+        "surah_name": "Al-Qamar",
+        "surah_name_ar": "سُوْرَةُ الْقَمَرِ",
+        "surah_name_translation": "The Moon",
+        "ayah_number": 29,
+        "juz": 27,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 4,
+      "translations": {
+        "ar": {
+          "text": "فَنَادَوۡاْ صَاحِبَهُمۡ فَتَعَاطَىٰ فَعَقَرَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "But they roused a companion of theirs, so he dared to kill ˹her˺",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "他们曾喊来他们的朋友，他就拿起剑来宰了母驼。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "अन्ततः उन्होंने अपने साथी को पुकारा, तो उसने ज़िम्मा लिया फिर उसने उसकी कूचें काट दी",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Pero ellos llamaron a uno de sus compañeros, quien la mató",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Puis ils appelèrent leur camarade qui prit [son épée] et [la] tua",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "অতঃপর তারা তাদের সঙ্গীকে ডাকল। সে তাকে ধরল এবং বধ করল।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Depois, eles chamaram seu companheiro e este incumbiu-se de agir, e abateu-o",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Они позвали своего товарища, и тот схватил верблюдицу и перерезал ей поджилки",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "تو ان لوگوں نے اپنے رفیق کو بلایا اور اس نے (اونٹنی کو پکڑ کر اس کی) کونچیں کاٹ ڈالیں",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_054_030",
+      "reference": {
+        "surah_number": 54,
+        "surah_name": "Al-Qamar",
+        "surah_name_ar": "سُوْرَةُ الْقَمَرِ",
+        "surah_name_translation": "The Moon",
+        "ayah_number": 30,
+        "juz": 27,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 4,
+      "translations": {
+        "ar": {
+          "text": "فَكَيۡفَ كَانَ عَذَابِي وَنُذُرِ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Then how ˹dreadful˺ were My punishment and warnings",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "我的刑罚和警告是怎样的！",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "फिर कैसी रही मेरी यातना और मेरे डरावे",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "¡Y qué severos fueron Mi castigo y Mi advertencia",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Comment furent donc Mon châtiment et Mes avertissements",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "অতঃপর কেমন কঠোর ছিল আমার শাস্তি ও সতর্কবাণী।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Então, como foi Meu castigo e Minhas admoestações",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Какими же были мучения от Меня и предостережения Мои",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "سو (دیکھ لو کہ) میرا عذاب اور ڈرانا کیسا ہوا",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_054_031",
+      "reference": {
+        "surah_number": 54,
+        "surah_name": "Al-Qamar",
+        "surah_name_ar": "سُوْرَةُ الْقَمَرِ",
+        "surah_name_translation": "The Moon",
+        "ayah_number": 31,
+        "juz": 27,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 8,
+      "translations": {
+        "ar": {
+          "text": "إِنَّآ أَرۡسَلۡنَا عَلَيۡهِمۡ صَيۡحَةࣰ وَٰحِدَةࣰ فَكَانُواْ كَهَشِيمِ ٱلۡمُحۡتَظِرِ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Indeed, We sent against them ˹only˺ one ˹mighty˺ blast, leaving them like the twigs of fence-builders",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "我确已使一种爆炸去毁灭他们，他们就变成造圈栏者所用的枯木。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "हमने उनपर एक धमाका छोड़ा, फिर वे बाड़ लगानेवाले की रौंदी हुई बाड़ की तरह चूरा होकर रह गए",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Les envié una sola explosión [desde el cielo] y quedaron como hierba pisoteada por el ganado",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Nous lachâmes sur eux un seul Cri, et voilà qu'ils furent réduits à l'état de paille d'étable",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "আমি তাদের প্রতি একটিমাত্র নিনাদ প্রেরণ করেছিলাম। এতেই তারা হয়ে গেল শুষ্ক শাখাপল্লব নির্মিত দলিত খোয়াড়ের ন্যায়।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Por certo, enviamos contra eles um só Grito, e ficaram como resíduos de palha seca, de quem faz estábulos",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Воистину, Мы наслали на них всего лишь один вопль, и они уподобились сену хозяина загона",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "ہم نے ان پر (عذاب کے لئے) ایک چیخ بھیجی تو وہ ایسے ہوگئے جیسے باڑ والے کی سوکھی اور ٹوٹی ہوئی باڑ",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_054_032",
+      "reference": {
+        "surah_number": 54,
+        "surah_name": "Al-Qamar",
+        "surah_name_ar": "سُوْرَةُ الْقَمَرِ",
+        "surah_name_translation": "The Moon",
+        "ayah_number": 32,
+        "juz": 27,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 7,
+      "translations": {
+        "ar": {
+          "text": "وَلَقَدۡ يَسَّرۡنَا ٱلۡقُرۡءَانَ لِلذِّكۡرِ فَهَلۡ مِن مُّدَّكِرࣲ‏",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "And We have certainly made the Quran easy to remember. So is there anyone who will be mindful",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "我确已使《古兰经》易于记诵，有接受劝告的人吗？",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "हमने क़ुरआन को नसीहत के लिए अनुकूल और सहज बना दिया है। फिर क्या कोई नसीहत हासिल करनेवाला",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "He hecho el Corán fácil de entender y memorizar. Pero, ¿habrá alguien que lo reflexione",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Et vraiment, Nous avons rendu le Coran facile pour la méditation. Y a-t-il quelqu'un pour réfléchir",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "আমি কোরআনকে বোঝার জন্যে সহজ করে দিয়েছি। অতএব, কোন চিন্তাশীল আছে কি?",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E, com efeito, facilitamos o Alcorão, para a recordação. Então, há quem disso se recorde",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Мы облегчили Коран для поминания. Но есть ли среди вас вспоминающие",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور ہم نے قرآن کو سمجھنے کے لئے آسان کردیا ہے تو کوئی ہے کہ سوچے سمجھے؟",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_054_033",
+      "reference": {
+        "surah_number": 54,
+        "surah_name": "Al-Qamar",
+        "surah_name_ar": "سُوْرَةُ الْقَمَرِ",
+        "surah_name_translation": "The Moon",
+        "ayah_number": 33,
+        "juz": 27,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 4,
+      "translations": {
+        "ar": {
+          "text": "كَذَّبَتۡ قَوۡمُ لُوطِۭ بِٱلنُّذُرِ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "The people of Lot ˹also˺ rejected the warnings",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "鲁特的宗族曾否认警告，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "लूत की क़ौम ने भी चेतावनियों को झुठलाया",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "El pueblo de Lot desmintió la advertencia",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Le peuple de Lot traita de mensonges les avertissements",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "লূত-সম্প্রদায় সতর্ককারীদের প্রতি মিথ্যারোপ করেছিল।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "O povo de Lot desmentiu as admostações",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Народ Лута (Лота) счел ложью предостережения",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "لوط کی قوم نے بھی ڈر سنانے والوں کو جھٹلایا تھا",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_054_034",
+      "reference": {
+        "surah_number": 54,
+        "surah_name": "Al-Qamar",
+        "surah_name_ar": "سُوْرَةُ الْقَمَرِ",
+        "surah_name_translation": "The Moon",
+        "ayah_number": 34,
+        "juz": 27,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 9,
+      "translations": {
+        "ar": {
+          "text": "إِنَّآ أَرۡسَلۡنَا عَلَيۡهِمۡ حَاصِبًا إِلَّآ ءَالَ لُوطࣲۖ نَّجَّيۡنَٰهُم بِسَحَرࣲ‏",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "We unleashed upon them a storm of stones. As for ˹the believers of˺ Lot’s family, We delivered them before dawn",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "我确已使飞沙走石的暴风去毁灭他们；惟鲁特的信徒，我在黎明时拯救了他们。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "हमने लूत के घरवालों के सिवा उनपर पथराव करनेवाली तेज़ वायु भेजी।",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Les envié una tormenta de piedras, salvo a la familia de Lot, a quienes salvé al amanecer",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Nous lachâmes sur eux un ouragan, excepté la famille de Lot que Nous sauvâmes avant l'aube",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "আমি তাদের প্রতি প্রেরণ করেছিলাম প্রস্তর বর্ষণকারী প্রচন্ড ঘূর্ণিবায়ু; কিন্তু লূত পরিবারের উপর নয়। আমি তাদেরকে রাতের শেষপ্রহরে উদ্ধার করেছিলাম।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Por certo, enviamos contra eles um vento lastrado de seixos, exceto contra a família de Lot. Salvamo-los, na madrugada",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Мы наслали на них ураган с камнями, и только семью Лута (Лота) Мы спасли перед рассветом",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "تو ہم نے ان پر کنکر بھری ہوا چلائی مگر لوط کے گھر والے کہ ہم نے ان کو پچھلی رات ہی سے بچا لیا",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_054_035",
+      "reference": {
+        "surah_number": 54,
+        "surah_name": "Al-Qamar",
+        "surah_name_ar": "سُوْرَةُ الْقَمَرِ",
+        "surah_name_translation": "The Moon",
+        "ayah_number": 35,
+        "juz": 27,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 7,
+      "translations": {
+        "ar": {
+          "text": "نِّعۡمَةࣰ مِّنۡ عِندِنَاۚ كَذَٰلِكَ نَجۡزِي مَن شَكَرَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "as a blessing from Us. This is how We reward whoever gives thanks",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "那是从我的主那里发出的恩典，我如此报酬感谢者。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "हमने अपनी विशेष अनुकम्पा से प्रातःकाल उन्हें बचा लिया। हम इसी तरह उस व्यक्ति को बदला देते है जो कृतज्ञता दिखाए",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "como una gracia de Mi parte, porque así retribuyo a quienes son agradecidos",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "à titre de bienfait de Notre part: ainsi récompensons-Nous celui qui est reconnaissant",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "আমার পক্ষ থেকে অনুগ্রহ স্বরূপ। যারা কৃতজ্ঞতা স্বীকার করে, আমি তাদেরকে এভাবে পুরস্কৃত করে থকি।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Por graça de Nossa parte. Assim, recompensamos a quem agradece",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "по милости от Нас. Так Мы воздаем тем, кто благодарен",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اپنے فضل سے۔ شکر کرنے والوں کو ہم ایسا ہی بدلہ دیا کرتے ہیں",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_054_036",
+      "reference": {
+        "surah_number": 54,
+        "surah_name": "Al-Qamar",
+        "surah_name_ar": "سُوْرَةُ الْقَمَرِ",
+        "surah_name_translation": "The Moon",
+        "ayah_number": 36,
+        "juz": 27,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 5,
+      "translations": {
+        "ar": {
+          "text": "وَلَقَدۡ أَنذَرَهُم بَطۡشَتَنَا فَتَمَارَوۡاْ بِٱلنُّذُرِ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "He had already warned them of Our ˹crushing˺ blow but they disputed the warnings",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "他确已将我的惩治警告他们，但他们以怀疑的态度否认警告。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "उसने जो उन्हें हमारी पकड़ से सावधान कर दिया था। किन्तु वे चेतावनियों के विषय में संदेह करते रहे",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "[Lot] les había advertido de Mi rigor, pero dudaron de las advertencias",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Il les avait pourtant avertis de Nos représailles. Mais ils mirent les avertissements en doute",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "লূত (আঃ) তাদেরকে আমার প্রচন্ড পাকড়াও সম্পর্কে সতর্ক করেছিল। অতঃপর তারা সতর্কবাণী সম্পর্কে বাকবিতন্ডা করেছিল।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E, com efeito, ele admoestou-os de Nosso golpe; então, altercaram as admoestações",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Он предостерег их от Нашей Хватки, но они усомнились в его предостережениях",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور لوطؑ نے ان کو ہماری پکڑ سے ڈرایا بھی تھا مگر انہوں نے ڈرانے میں شک کیا",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_054_037",
+      "reference": {
+        "surah_number": 54,
+        "surah_name": "Al-Qamar",
+        "surah_name_ar": "سُوْرَةُ الْقَمَرِ",
+        "surah_name_translation": "The Moon",
+        "ayah_number": 37,
+        "juz": 27,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 9,
+      "translations": {
+        "ar": {
+          "text": "وَلَقَدۡ رَٰوَدُوهُ عَن ضَيۡفِهِۦ فَطَمَسۡنَآ أَعۡيُنَهُمۡ فَذُوقُواْ عَذَابِي وَنُذُرِ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "And they even demanded his angel-guests from him, so We blinded their eyes. ˹And they were told,˺ “Taste then My punishment and warnings!”",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "他们确已诱惑他，叫他不要保护他的客人，但我涂抹了他们的眼睛。你们尝试我的刑罚和警告吧！",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "उन्होंने उसे फुसलाकर उसके पास से उसके अतिथियों को बलाना चाहा। अन्ततः हमने उसकी आँखें मेट दीं, \"लो, अब चखो मज़ा मेरी यातना और चेतावनियों का",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "y le demandaron [a Lot] que les entregara a sus huéspedes, y entonces cegué sus ojos. ¡Sufran Mi castigo y Mi advertencia",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "En effet, ils voulaient séduire ses hôtes. Nous aveuglâmes leurs yeux «Goûtez donc Mon châtiment et Mes avertissements»",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "তারা লূতের (আঃ) কাছে তার মেহমানদেরকে দাবী করেছিল। তখন আমি তাদের চক্ষু লোপ করে দিলাম। অতএব, আস্বাদন কর আমার শাস্তি ও সতর্কবাণী।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E, com efeito, tentaram seduzi-lo, no tocante a seus hóspedes; então, apagamo-lhes os olhos. Dissemos: \"Experimentai, pois, Meu castigo e Minhas admoestações",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Они настойчиво требовали от него его гостей, и тогда Мы лишили их зрения. Вкусите же мучения от Меня и предостережения Мои",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور ان سے ان کے مہمانوں کو لے لینا چاہا تو ہم نے ان کی آنکھیں مٹا دیں سو (اب) میرے عذاب اور ڈرانے کے مزے چکھو",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_054_038",
+      "reference": {
+        "surah_number": 54,
+        "surah_name": "Al-Qamar",
+        "surah_name_ar": "سُوْرَةُ الْقَمَرِ",
+        "surah_name_translation": "The Moon",
+        "ayah_number": 38,
+        "juz": 27,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 5,
+      "translations": {
+        "ar": {
+          "text": "وَلَقَدۡ صَبَّحَهُم بُكۡرَةً عَذَابࣱ مُّسۡتَقِرࣱّ‏",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "And indeed, by the early morning they were overwhelmed by an unrelenting torment",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "一种永恒的刑罚在早晨确已袭击了他们。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "सुबह सवेरे ही एक अटल यातना उनपर आ पहुँची",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Y por la mañana los sorprendió un castigo decretado",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "En effet, au petit matin, un châtiment persistant les surprit",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "তাদেরকে প্রত্যুষে নির্ধারিত শাস্তি আঘাত হেনেছিল।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E, com efeito, de manhã, na alvorada, um castigo permanente surpreendeu-os",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "На утро их постигли неотвратимые мучения",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور ان پر صبح سویرے ہی اٹل عذاب آ نازل ہوا",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_054_039",
+      "reference": {
+        "surah_number": 54,
+        "surah_name": "Al-Qamar",
+        "surah_name_ar": "سُوْرَةُ الْقَمَرِ",
+        "surah_name_translation": "The Moon",
+        "ayah_number": 39,
+        "juz": 27,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 3,
+      "translations": {
+        "ar": {
+          "text": "فَذُوقُواْ عَذَابِي وَنُذُرِ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "˹Again they were told,˺ “Taste now My punishment and warnings!”",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "你们尝试我的刑罚和警告吧！",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "लो, अब चखो मज़ा मेरी यातना और चेतावनियों का",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "¡Sufran Mi castigo y Mi advertencia",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Goûtez donc Mon châtiment et Mes avertissements",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "অতএব, আমার শাস্তি ও সতর্কবাণী আস্বাদন কর।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Então, experimentai Meu castigo e Minhas admoestações",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Вкусите же мучения от Меня и предостережения Мои",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "تو اب میرے عذاب اور ڈرانے کے مزے چکھو",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_054_040",
+      "reference": {
+        "surah_number": 54,
+        "surah_name": "Al-Qamar",
+        "surah_name_ar": "سُوْرَةُ الْقَمَرِ",
+        "surah_name_translation": "The Moon",
+        "ayah_number": 40,
+        "juz": 27,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 7,
+      "translations": {
+        "ar": {
+          "text": "وَلَقَدۡ يَسَّرۡنَا ٱلۡقُرۡءَانَ لِلذِّكۡرِ فَهَلۡ مِن مُّدَّكِرࣲ‏",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "And We have certainly made the Quran easy to remember. So is there anyone who will be mindful",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "我确已《古兰经》易于记诵，有接受劝告的人吗？",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "और हमने क़ुरआन को नसीहत के लिए अनुकूल और सहज बना दिया है। फिर क्या है कोई नसीहत हासिल करनेवाला",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Hemos hecho el Corán fácil de entender y memorizar. Pero, ¿habrá alguien que reflexione",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Et vraiment, Nous avons rendu le Coran facile pour la méditation. Y a-t-il quelqu'un pour réfléchir",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "আমি কোরআনকে বোঝবার জন্যে সহজ করে দিয়েছি। অতএব, কোন চিন্তাশীল আছে কি?",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E, com efeito, facilitamos o Alcorão, para a recordação. Então, há quem disso se recorde",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Мы облегчили Коран для поминания. Но есть ли среди вас вспоминающие",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور ہم نے قرآن کو سمجھنے کے لئے آسان کردیا ہے تو کوئی ہے کہ سوچے سمجھے؟",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_054_041",
+      "reference": {
+        "surah_number": 54,
+        "surah_name": "Al-Qamar",
+        "surah_name_ar": "سُوْرَةُ الْقَمَرِ",
+        "surah_name_translation": "The Moon",
+        "ayah_number": 41,
+        "juz": 27,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 5,
+      "translations": {
+        "ar": {
+          "text": "وَلَقَدۡ جَآءَ ءَالَ فِرۡعَوۡنَ ٱلنُّذُرُ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "And indeed, the warnings ˹also˺ came to the people of Pharaoh",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "警告确已降临法老的百姓，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "और फ़िरऔनियों के पास चेतावनियाँ आई",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Mi advertencia le llegó al Faraón [y su pueblo]",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Les avertissements vinrent certes, aux gens de Pharaon",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "ফেরাউন সম্প্রদায়ের কাছেও সতর্ককারীগণ আগমন করেছিল।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E, de fato, chegaram os admoestadores ao povo de Faraó",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Предостережения также явились к роду Фараона",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور قوم فرعون کے پاس بھی ڈر سنانے والے آئے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_054_042",
+      "reference": {
+        "surah_number": 54,
+        "surah_name": "Al-Qamar",
+        "surah_name_ar": "سُوْرَةُ الْقَمَرِ",
+        "surah_name_translation": "The Moon",
+        "ayah_number": 42,
+        "juz": 27,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 7,
+      "translations": {
+        "ar": {
+          "text": "كَذَّبُواْ بِـَٔايَٰتِنَا كُلِّهَا فَأَخَذۡنَٰهُمۡ أَخۡذَ عَزِيزࣲ مُّقۡتَدِرٍ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "˹But˺ they rejected all of Our signs, so We seized them with the ˹crushing˺ grip of the Almighty, Most Powerful",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "他们否认了我的一切迹象，故我以万能者全能者的态度，惩治了他们。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "उन्होंने हमारी सारी निशानियों को झुठला दिया। अन्ततः हमने उन्हें पकड़ लिया, जिस प्रकार एक ज़बरदस्त प्रभुत्वशाली पकड़ता है",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "pero desmintieron todos Mis signos, y los castigué con un castigo severo, como solo puede hacer el Todopoderoso, el Omnipotente",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Ils traitèrent de mensonges tous Nos prodiges. Nous les saisîmes donc, de la saisie d'un Puissant Omnipotent",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "তারা আমার সকল নিদর্শনের প্রতি মিথ্যারোপ করেছিল। অতঃপর আমি পরাভূতকারী, পরাক্রমশালীর ন্যায় তাদেরকে পাকড়াও করলাম।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Eles desmentiram todos Nossos sinais; então, apanhamo-los, com o apanhar de Um Todo-Poderoso, Potentíssimo",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Они сочли ложью все Наши знамения, и Мы схватили их Хваткой Могущественного, Всемогущего",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "انہوں نے ہماری تمام نشانیوں کو جھٹلایا تو ہم نے ان کو اس طرح پکڑ لیا جس طرح ایک قوی اور غالب شخص پکڑ لیتا ہے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_054_043",
+      "reference": {
+        "surah_number": 54,
+        "surah_name": "Al-Qamar",
+        "surah_name_ar": "سُوْرَةُ الْقَمَرِ",
+        "surah_name_translation": "The Moon",
+        "ayah_number": 43,
+        "juz": 27,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 9,
+      "translations": {
+        "ar": {
+          "text": "أَكُفَّارُكُمۡ خَيۡرࣱ مِّنۡ أُوْلَٰٓئِكُمۡ أَمۡ لَكُم بَرَآءَةࣱ فِي ٱلزُّبُرِ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Now, are you ˹Meccan˺ disbelievers superior to those ˹destroyed peoples˺? Or have you ˹been granted˺ immunity ˹from punishment˺ in divine Books",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "你们中不信道的人们比这等人还优秀呢！还是天经中有关于你们的赦条呢？",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "क्या तुम्हारे काफ़िर कुछ उन लोगो से अच्छे है या किताबों में तुम्हारे लिए कोई छुटकारा लिखा हुआ है",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "¿Acaso los que se niegan a creer entre ustedes son mejores que estos? ¿O tienen alguna Escritura que les proporcione inmunidad",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Vos mécréants sont-ils meilleurs que ceux-là? Ou bien y a-t-il dans les Ecritures une immunité pour vous",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "তোমাদের মধ্যকার কাফেররা কি তাদের চাইতে শ্রেষ্ঠ ? না তোমাদের মুক্তির সনদপত্র রয়েছে কিতাবসমূহে?",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Será que vossos renegadores da Fé, ó Quraich, são melhores que aqueles, ou tendes absolvição, nas Escrituras",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Разве ваши неверующие лучше тех? Или же у вас есть неприкосновенность, упомянутая в Писаниях",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "(اے اہل عرب) کیا تمہارے کافر ان لوگوں سے بہتر ہیں یا تمہارے لئے (پہلی) کتابوں میں کوئی فارغ خطی لکھ دی گئی ہے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_054_044",
+      "reference": {
+        "surah_number": 54,
+        "surah_name": "Al-Qamar",
+        "surah_name_ar": "سُوْرَةُ الْقَمَرِ",
+        "surah_name_translation": "The Moon",
+        "ayah_number": 44,
+        "juz": 27,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 5,
+      "translations": {
+        "ar": {
+          "text": "أَمۡ يَقُولُونَ نَحۡنُ جَمِيعࣱ مُّنتَصِرࣱ‏",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Or do they say, “We are all ˹a˺ united ˹front˺, bound to prevail.”",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "难道他们说：我们是一个常胜的团体。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "या वे कहते है, \"और हम मुक़ाबले की शक्ति रखनेवाले एक जत्था है",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "¿Es por ello que dicen: \"Somos un grupo invencible",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Ou bien ils disent: «Nous formons un groupe [fort] et nous vaincrons»",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "না তারা বলে যে, আমারা এক অপরাজেয় দল?",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Ou dizem: \"Somos uma multidão vitoriosa",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Или же они говорят: «Мы являемся победоносной группой»",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "کیا یہ لوگ کہتے ہیں کہ ہماری جماعت بڑی مضبوط ہے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_054_045",
+      "reference": {
+        "surah_number": 54,
+        "surah_name": "Al-Qamar",
+        "surah_name_ar": "سُوْرَةُ الْقَمَرِ",
+        "surah_name_translation": "The Moon",
+        "ayah_number": 45,
+        "juz": 27,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 4,
+      "translations": {
+        "ar": {
+          "text": "سَيُهۡزَمُ ٱلۡجَمۡعُ وَيُوَلُّونَ ٱلدُّبُرَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "˹Soon˺ their united front will be defeated and ˹forced to˺ flee",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "那个团体将败北，他们将转背。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "शीघ्र ही वह जत्था पराजित होकर रहेगा और वे पीठ दिखा जाएँगे",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Pero todos ellos serán vencidos y huirán",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Leur rassemblement sera bientôt mis en déroute, et ils fuiront",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "এ দল তো সত্ত্বরই পরাজিত হবে এবং পৃষ্ঠপ্রদর্শন করবে।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "A multidão será derrotada e fugirão eles, voltando as costas",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Эта группа будет разбита, и они обратятся вспять",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "عنقریب یہ جماعت شکست کھائے گی اور یہ لوگ پیٹھ پھیر کر بھاگ جائیں گے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_054_046",
+      "reference": {
+        "surah_number": 54,
+        "surah_name": "Al-Qamar",
+        "surah_name_ar": "سُوْرَةُ الْقَمَرِ",
+        "surah_name_translation": "The Moon",
+        "ayah_number": 46,
+        "juz": 27,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 6,
+      "translations": {
+        "ar": {
+          "text": "بَلِ ٱلسَّاعَةُ مَوۡعِدُهُمۡ وَٱلسَّاعَةُ أَدۡهَىٰ وَأَمَرُّ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Better yet, the Hour is their appointed time—and the Hour will be most catastrophic and most bitter",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "不然，复活时是他们的约期；复活时是更艰难的，是更辛苦的。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "नहीं, बल्कि वह घड़ी है, जिसका समय उनके लिए नियत है और वह बड़ी आपदावाली और कटु घड़ी है",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Mas la Hora será su cita, y ese día será más terrible y amargo aún",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "L'Heure, plutôt, sera leur rendez-vous, et l'Heure sera plus terrible et plus amère",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "বরং কেয়ামত তাদের প্রতিশ্রুত সময় এবং কেয়ামত ঘোরতর বিপদ ও তিক্ততর।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Aliás, a Hora é seu tempo prometido; e a Hora é mais horrenda e mais amarga",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Час является назначенным для них сроком, и Час этот - самый тяжкий, самый горький",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "ان کے وعدے کا وقت تو قیامت ہے اور قیامت بڑی سخت اور بہت تلخ ہے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_054_047",
+      "reference": {
+        "surah_number": 54,
+        "surah_name": "Al-Qamar",
+        "surah_name_ar": "سُوْرَةُ الْقَمَرِ",
+        "surah_name_translation": "The Moon",
+        "ayah_number": 47,
+        "juz": 27,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 5,
+      "translations": {
+        "ar": {
+          "text": "إِنَّ ٱلۡمُجۡرِمِينَ فِي ضَلَٰلࣲ وَسُعُرࣲ‏",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Indeed, the wicked are ˹entrenched˺ in misguidance, and ˹are bound for˺ blazes",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "犯罪者的确在迷误和烈火中。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "निस्संदेह, अपराधी लोग गुमराही और दीवानेपन में पड़े हुए है",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Los que hacen el mal están en un estado de extravío y locura",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Les criminels sont certes, dans l'égarement et la folie",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "নিশ্চয় অপরাধীরা পথভ্রষ্ট ও বিকারগ্রস্ত।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Por certo, os criminosos estão em descaminho e em loucura",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Воистину, грешники сбились с пути и страдают (или отдалились от истины)",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "بےشک گنہگار لوگ گمراہی اور دیوانگی میں (مبتلا) ہیں",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_054_048",
+      "reference": {
+        "surah_number": 54,
+        "surah_name": "Al-Qamar",
+        "surah_name_ar": "سُوْرَةُ الْقَمَرِ",
+        "surah_name_translation": "The Moon",
+        "ayah_number": 48,
+        "juz": 27,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 9,
+      "translations": {
+        "ar": {
+          "text": "يَوۡمَ يُسۡحَبُونَ فِي ٱلنَّارِ عَلَىٰ وُجُوهِهِمۡ ذُوقُواْ مَسَّ سَقَرَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "On the Day they will be dragged into the Fire on their faces, ˹they will be told,˺ “Taste the touch of Hell!”",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "他们匍匐着被拖入火狱之日，将对他们说：你们尝试火狱的烧灼吧！",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "जिस दिन वे अपने मुँह के बल आग में घसीटे जाएँगे, \"चखो मज़ा आग की लपट का",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "El día que sean arrojados de cara al fuego [se les dirá:] \"¡Sufran el tormento del Infierno",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Le jour où on les traînera dans le Feu sur leurs visages, (on leur dira): «Goûtez au contact de Saqar [la chaleur brûlante de l'Enfer]»",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "যেদিন তাদেরকে মুখ হিঁচড়ে টেনে নেয়া হবে জাহান্নামে, বলা হবেঃ অগ্নির খাদ্য আস্বাদন কর।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Um dia, quando, no Fogo, forem arrastados sobre suas faces, dir-se-lhes-á: \"Experimentai o toque de Saqar",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "В тот день их ничком поволокут в Огонь: «Вкусите прикосновение Преисподней!»",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اس روز منہ کے بل دوزخ میں گھسیٹے جائیں گے اب آگ کا مزہ چکھو",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_054_049",
+      "reference": {
+        "surah_number": 54,
+        "surah_name": "Al-Qamar",
+        "surah_name_ar": "سُوْرَةُ الْقَمَرِ",
+        "surah_name_translation": "The Moon",
+        "ayah_number": 49,
+        "juz": 27,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 5,
+      "translations": {
+        "ar": {
+          "text": "إِنَّا كُلَّ شَيۡءٍ خَلَقۡنَٰهُ بِقَدَرࣲ‏",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Indeed, We have created everything, perfectly preordained",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "我确已依定量而创造万物，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "निश्चय ही हमने हर चीज़ एक अंदाज़े के साथ पैदा की है",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "He creado todas las cosas en su justa medida",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Nous avons créé toute chose avec mesure",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "আমি প্রত্যেক বস্তুকে পরিমিতরূপে সৃষ্টি করেছি।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Por certo, Nós criamos cada cousa, na justa medida",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Воистину, Мы сотворили каждую вещь согласно предопределению",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "ہم نے ہر چیز اندازہٴ مقرر کے ساتھ پیدا کی ہے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_054_050",
+      "reference": {
+        "surah_number": 54,
+        "surah_name": "Al-Qamar",
+        "surah_name_ar": "سُوْرَةُ الْقَمَرِ",
+        "surah_name_translation": "The Moon",
+        "ayah_number": 50,
+        "juz": 27,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 6,
+      "translations": {
+        "ar": {
+          "text": "وَمَآ أَمۡرُنَآ إِلَّا وَٰحِدَةࣱ كَلَمۡحِۭ بِٱلۡبَصَرِ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Our command is but a single word, done in the blink of an eye",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "我的命令只是快如转瞬的一句话。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "और हमारा आदेश (और काम) तो बस एक दम की बात होती है जैसे आँख का झपकना",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Y Mi orden es dada solo una vez, y ejecutada en un abrir y cerrar de ojos",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "et Notre ordre est une seule [parole]; [il est prompt] comme un clin d'œil",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "আমার কাজ তো এক মুহূর্তে চোখের পলকের মত।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E Nossa ordem não é senão uma só palavra, rápida como o piscar da vista",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Мы повелеваем только один раз, и повеление исполняется в мгновение ока",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور ہمارا حکم تو آنکھ کے جھپکنے کی طرح ایک بات ہوتی ہے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_054_051",
+      "reference": {
+        "surah_number": 54,
+        "surah_name": "Al-Qamar",
+        "surah_name_ar": "سُوْرَةُ الْقَمَرِ",
+        "surah_name_translation": "The Moon",
+        "ayah_number": 51,
+        "juz": 27,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 6,
+      "translations": {
+        "ar": {
+          "text": "وَلَقَدۡ أَهۡلَكۡنَآ أَشۡيَاعَكُمۡ فَهَلۡ مِن مُّدَّكِرࣲ‏",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "We have already destroyed the likes of you. So will any ˹of you˺ be mindful",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "我确已将你们的宗派毁灭了。有接受劝告的人吗？",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "और हम तुम्हारे जैसे लोगों को विनष्ट कर चुके है। फिर क्या है कोई नसीहत हासिल करनेवाला",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Ya destruí en el pasado a quienes desmintieron como ustedes. Pero, ¿habrá alguien que reflexione",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "En effet, nous avons fait périr des peuples semblables à vous. Y a-t-il quelqu'un pour s'en souvenir",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "আমি তোমাদের সমমনা লোকদেরকে ধ্বংস করেছি, অতএব, কোন চিন্তাশীল আছে কি?",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E, com efeito, aniquilamos vossos semelhantes. Então, há quem disso se recorde",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Мы уже погубили подобных вам. Но есть ли среди вас вспоминающие",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور ہم تمہارے ہم مذہبوں کو ہلاک کرچکے ہیں تو کوئی ہے کہ سوچے سمجھے؟",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_054_052",
+      "reference": {
+        "surah_number": 54,
+        "surah_name": "Al-Qamar",
+        "surah_name_ar": "سُوْرَةُ الْقَمَرِ",
+        "surah_name_translation": "The Moon",
+        "ayah_number": 52,
+        "juz": 27,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 5,
+      "translations": {
+        "ar": {
+          "text": "وَكُلُّ شَيۡءࣲ فَعَلُوهُ فِي ٱلزُّبُرِ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Everything they have done is ˹listed˺ in ˹their˺ records",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "凡他们所做的事，都记载在天经中。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "जो कुछ उन्होंने किया है, वह पन्नों में अंकित है",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Todo cuanto obraron se encuentra registrado en el libro de sus obras",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Et tout ce qu'ils ont fait est mentionné dans les registres",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "তারা যা কিছু করেছে, সবই আমলনামায় লিপিবদ্ধ আছে।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E cada cousa que fizeram está nos registros",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Все, что они совершили, есть в книгах деяний",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور جو کچھ انہوں نے کیا، (ان کے) اعمال ناموں میں (مندرج) ہے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_054_053",
+      "reference": {
+        "surah_number": 54,
+        "surah_name": "Al-Qamar",
+        "surah_name_ar": "سُوْرَةُ الْقَمَرِ",
+        "surah_name_translation": "The Moon",
+        "ayah_number": 53,
+        "juz": 27,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 4,
+      "translations": {
+        "ar": {
+          "text": "وَكُلُّ صَغِيرࣲ وَكَبِيرࣲ مُّسۡتَطَرٌ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Every matter, small and large, is written ˹precisely˺",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "一切小事和大事，都是被记录的。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "और हर छोटी और बड़ी चीज़ लिखित है",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Y todo cuanto ocurre, importante o insignificante, está escrito",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "et tout fait, petit et grand, est consigné",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "ছোট ও বড় সবই লিপিবদ্ধ।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E cada cousa, pequena e grande, ali é escrita",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Все малое и великое уже начертано",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "(یعنی) ہر چھوٹا اور بڑا کام لکھ دیا گیا ہے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_054_054",
+      "reference": {
+        "surah_number": 54,
+        "surah_name": "Al-Qamar",
+        "surah_name_ar": "سُوْرَةُ الْقَمَرِ",
+        "surah_name_translation": "The Moon",
+        "ayah_number": 54,
+        "juz": 27,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 5,
+      "translations": {
+        "ar": {
+          "text": "إِنَّ ٱلۡمُتَّقِينَ فِي جَنَّٰتࣲ وَنَهَرࣲ‏",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Indeed, the righteous will be amid Gardens and rivers",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "敬畏的人们，必定在乐园里，在光明中，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "निश्चय ही डर रखनेवाले बाग़ो और नहरों के बीच होंगे",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Los piadosos estarán entre jardines y ríos",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Les pieux seront dans des Jardins et parmi des ruisseaux",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "খোদাভীরুরা থাকবে জান্নাতে ও নির্ঝরিণীতে।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Por certo, os piedosos estarão em Jardins e entre rios",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Воистину, богобоязненные пребудут в Райских садах и среди рек",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "جو پرہیزگار ہیں وہ باغوں اور نہروں میں ہوں گے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_054_055",
+      "reference": {
+        "surah_number": 54,
+        "surah_name": "Al-Qamar",
+        "surah_name_ar": "سُوْرَةُ الْقَمَرِ",
+        "surah_name_translation": "The Moon",
+        "ayah_number": 55,
+        "juz": 27,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 6,
+      "translations": {
+        "ar": {
+          "text": "فِي مَقۡعَدِ صِدۡقٍ عِندَ مَلِيكࣲ مُّقۡتَدِرِۭ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "at the Seat of Honour in the presence of the Most Powerful Sovereign",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "在全能的主那里，得居一个如意的地位。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "प्रतिष्ठित स्थान पर, प्रभुत्वशाली सम्राट के निकट",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "en un lugar honorable, junto al Soberano Todopoderoso",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "dans un séjour de vérité, auprès d'un Souverain Omnipotent",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "যোগ্য আসনে, সর্বাধিপতি সম্রাটের সান্নিধ্যে।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Em verdadeiro lugar de permanência, junto de Um Rei Potentíssimo",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "на седалище истины возле Всемогущего Властелина",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "(یعنی) پاک مقام میں ہر طرح کی قدرت رکھنے والے بادشاہ کی بارگاہ میں",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    }
+  ]
+}

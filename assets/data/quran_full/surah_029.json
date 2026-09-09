@@ -1,0 +1,3869 @@
+{
+  "surah": 29,
+  "verses": [
+    {
+      "content_id": "quran_029_001",
+      "reference": {
+        "surah_number": 29,
+        "surah_name": "Al-Ankaboot",
+        "surah_name_ar": "سُوْرَةُ الْعَنْكَبُوْتِ",
+        "surah_name_translation": "The Spider",
+        "ayah_number": 1,
+        "juz": 20,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 1,
+      "translations": {
+        "ar": {
+          "text": "الٓمٓ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Alif-Lãm-Mĩm",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "艾列弗，俩目，米目。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "अलिफ़॰ लाम॰ मीम॰",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Álif. Lam. Mim",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Alif, Lâm, Mîm",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "আলিফ-লাম-মীম।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Alif, Lām, Mīm",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Алиф. Лам. Мим",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "الم",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_029_002",
+      "reference": {
+        "surah_number": 29,
+        "surah_name": "Al-Ankaboot",
+        "surah_name_ar": "سُوْرَةُ الْعَنْكَبُوْتِ",
+        "surah_name_translation": "The Spider",
+        "ayah_number": 2,
+        "juz": 20,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 10,
+      "translations": {
+        "ar": {
+          "text": "أَحَسِبَ ٱلنَّاسُ أَن يُتۡرَكُوٓاْ أَن يَقُولُوٓاْ ءَامَنَّا وَهُمۡ لَا يُفۡتَنُونَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Do people think once they say, “We believe,” that they will be left without being put to the test",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "众人以为他们得自由地说：我们已信道了而不受考验吗？",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "क्या लोगों ने यह समझ रखा है कि वे इतना कह देने मात्र से छोड़ दिए जाएँगे कि \"हम ईमान लाए\" और उनकी परीक्षा न की जाएगी",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "¿Acaso piensa la gente que se los dejará decir: \"¡Creemos!\", y no van a ser puestos a prueba",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Est-ce que les gens pensent qu'on les laissera dire: «Nous croyons!» sans les éprouver",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "মানুষ কি মনে করে যে, তারা একথা বলেই অব্যাহতি পেয়ে যাবে যে, আমরা বিশ্বাস করি এবং তাদেরকে পরীক্ষা করা হবে না?",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Os homens supõem que, por dizerem: \"Cremos\", serão deixados, enquanto não provados",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Неужели люди полагают, что их оставят и не подвергнут искушению только за то, что они скажут: «Мы уверовали»",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "کیا لوگ یہ خیال کئے ہوئے ہیں کہ صرف یہ کہنے سے کہ ہم ایمان لے آئے چھوڑ دیئے جائیں گے اور اُن کی آزمائش نہیں کی جائے گی",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_029_003",
+      "reference": {
+        "surah_number": 29,
+        "surah_name": "Al-Ankaboot",
+        "surah_name_ar": "سُوْرَةُ الْعَنْكَبُوْتِ",
+        "surah_name_translation": "The Spider",
+        "ayah_number": 3,
+        "juz": 20,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 11,
+      "translations": {
+        "ar": {
+          "text": "وَلَقَدۡ فَتَنَّا ٱلَّذِينَ مِن قَبۡلِهِمۡۖ فَلَيَعۡلَمَنَّ ٱللَّهُ ٱلَّذِينَ صَدَقُواْ وَلَيَعۡلَمَنَّ ٱلۡكَٰذِبِينَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "We certainly tested those before them. And ˹in this way˺ Allah will clearly distinguish between those who are truthful and those who are liars",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "我确已考验在他们之前的人。真主必定要知道说实话者，必定要知道说谎者。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "हालाँकि हम उन लोगों की परीक्षा कर चुके है जो इनसे पहले गुज़र चुके है। अल्लाह तो उन लोगों को मालूम करके रहेगा, जो सच्चे है। और वह झूठों को भी मालूम करके रहेगा",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Puse a prueba a quienes los precedieron, para que Dios hiciera evidente quiénes son los sinceros y quiénes los mentirosos",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Certes, Nous avons éprouvé ceux qui ont vécu avant eux; [Ainsi] Allah connaît ceux qui disent la vérité et ceux qui mentent",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "আমি তাদেরকেও পরীক্ষা করেছি, যারা তাদের পূর্বে ছিল। আল্লাহ অবশ্যই জেনে নেবেন যারা সত্যবাদী এবং নিশ্চয়ই জেনে নেবেন মিথ্যুকদেরকে।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E, com efeito, provamos os que foram antes deles. E, em verdade, Allah sabe dos que dizem a verdade e sabe dos mentirosos",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Мы уже подвергли искушению тех, кто был до них. Аллах непременно узнает тех, которые говорят правду, и непременно узнает лжецов",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور جو لوگ اُن سے پہلے ہو چکے ہیں ہم نے اُن کو بھی آزمایا تھا (اور ان کو بھی آزمائیں گے) سو خدا اُن کو ضرور معلوم کریں گے جو (اپنے ایمان میں) سچے ہیں اور اُن کو بھی جو جھوٹے ہیں",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_029_004",
+      "reference": {
+        "surah_number": 29,
+        "surah_name": "Al-Ankaboot",
+        "surah_name_ar": "سُوْرَةُ الْعَنْكَبُوْتِ",
+        "surah_name_translation": "The Spider",
+        "ayah_number": 4,
+        "juz": 20,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 10,
+      "translations": {
+        "ar": {
+          "text": "أَمۡ حَسِبَ ٱلَّذِينَ يَعۡمَلُونَ ٱلسَّيِّـَٔاتِ أَن يَسۡبِقُونَاۚ سَآءَ مَا يَحۡكُمُونَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Or do the evildoers ˹simply˺ think that they will escape Us? How wrong is their judgment",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "难道做恶的人以为他们能逃出我的法网吗？他们的判定真恶劣！",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "या उन लोगों ने, जो बुरे कर्म करते है, यह समझ रखा है कि वे हमारे क़ाबू से बाहर निकल जाएँगे? बहुत बुरा है जो फ़ैसला वे कर रहे है",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "¿Acaso piensan quienes obran mal que podrán escapar de Mí? ¡Qué mal juzgan",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Ou bien ceux qui commettent des méfaits, comptent-ils pouvoir Nous échapper? Comme leur jugement est mauvais",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "যারা মন্দ কাজ করে, তারা কি মনে করে যে, তারা আমার হাত থেকে বেঁচে যাবে? তাদের ফয়সালা খুবই মন্দ।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Ou os que fazem as más obras supõem que se esquivarão de Nós? Que vil o que julgam",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Неужели те, которые совершают злые деяния, полагают, что они опередят Нас (спасутся от наказания)? Скверно же они судят",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "کیا وہ لوگ جو برے کام کرتے ہیں یہ سمجھے ہوئے ہیں کہ یہ ہمارے قابو سے نکل جائیں گے۔ جو خیال یہ کرتے ہیں برا ہے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_029_005",
+      "reference": {
+        "surah_number": 29,
+        "surah_name": "Al-Ankaboot",
+        "surah_name_ar": "سُوْرَةُ الْعَنْكَبُوْتِ",
+        "surah_name_translation": "The Spider",
+        "ayah_number": 5,
+        "juz": 20,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 12,
+      "translations": {
+        "ar": {
+          "text": "مَن كَانَ يَرۡجُواْ لِقَآءَ ٱللَّهِ فَإِنَّ أَجَلَ ٱللَّهِ لَأٓتࣲۚ وَهُوَ ٱلسَّمِيعُ ٱلۡعَلِيمُ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Whoever hopes for the meeting with Allah, ˹let them know that˺ Allah’s appointed time is sure to come. He is the All-Hearing, All-Knowing",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "凡希望会见真主者，谁都应当知道真主的期限是必定降临的，真主确是全聪的，确是全知的。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "जो व्यक्ति अल्लाह से मिलने का आशा रखता है तो अल्लाह का नियत समय तो आने ही वाला है। और वह सब कुछ सुनता, जानता है",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Quien anhele el encuentro con Dios sepa que el día que Dios fijó ha de llegar. Él todo lo oye, todo lo sabe",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Celui qui espère rencontrer Allah, le terme fixé par Allah va certainement venir. Et c'est Lui l'Audient, l'Omniscient",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "যে আল্লাহর সাক্ষাত কামনা করে, আল্লাহর সেই নির্ধারিত কাল অবশ্যই আসবে। তিনি সর্বশ্রোতা, সর্বজ্ঞানী।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Quem espera o deparar de Allah, por certo, o termo de Allah chegará. E Ele é O Oniouvinte, O Onisciente",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Если кто надеется на встречу с Аллахом, то ведь срок Аллаха непременно наступит. Он - Слышащий, Видящий",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "جو شخص خدا کی ملاقات کی اُمید رکھتا ہو خدا کا (مقرر کیا ہوا) وقت ضرور آنے والا ہے۔ اور وہ سننے والا اور جاننے والا ہے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_029_006",
+      "reference": {
+        "surah_number": 29,
+        "surah_name": "Al-Ankaboot",
+        "surah_name_ar": "سُوْرَةُ الْعَنْكَبُوْتِ",
+        "surah_name_translation": "The Spider",
+        "ayah_number": 6,
+        "juz": 20,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 10,
+      "translations": {
+        "ar": {
+          "text": "وَمَن جَٰهَدَ فَإِنَّمَا يُجَٰهِدُ لِنَفۡسِهِۦٓۚ إِنَّ ٱللَّهَ لَغَنِيٌّ عَنِ ٱلۡعَٰلَمِينَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "And whoever strives ˹in Allah’s cause˺, only does so for their own good. Surely Allah is not in need of ˹any of˺ His creation",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "凡奋斗者，都只为自己而奋斗，真主确是无求于全世界的。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "और जो व्यक्ति (अल्लाह के मार्ग में) संघर्ष करता है वह तो स्वयं अपने ही लिए संघर्ष करता है। निश्चय ही अल्लाह सारे संसार से निस्पृह है",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Quien luche [contra sus pasiones] será en beneficio propio. Dios no tiene necesidad de las cosas creadas",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Et quiconque lutte, ne lutte que pour lui-même, car Allah peut Se passer de tout l'univers",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "যে কষ্ট স্বীকার করে, সে তো নিজের জন্যেই কষ্ট স্বীকার করে। আল্লাহ বিশ্ববাসী থেকে বে-পরওয়া।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E quem luta, pela causa de Allah, apenas luta em benefício de si mesmo. Por certo, Allah é Bastante a Si mesmo. Prescindindo dos mundos",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Тот, кто сражается, сражается во благо себе. Воистину, Аллах не нуждается в мирах",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور جو شخص محنت کرتا ہے تو اپنے ہی فائدے کے لئے محنت کرتا ہے۔ اور خدا تو سارے جہان سے بےپروا ہے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_029_007",
+      "reference": {
+        "surah_number": 29,
+        "surah_name": "Al-Ankaboot",
+        "surah_name_ar": "سُوْرَةُ الْعَنْكَبُوْتِ",
+        "surah_name_translation": "The Spider",
+        "ayah_number": 7,
+        "juz": 20,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 12,
+      "translations": {
+        "ar": {
+          "text": "وَٱلَّذِينَ ءَامَنُواْ وَعَمِلُواْ ٱلصَّٰلِحَٰتِ لَنُكَفِّرَنَّ عَنۡهُمۡ سَيِّـَٔاتِهِمۡ وَلَنَجۡزِيَنَّهُمۡ أَحۡسَنَ ٱلَّذِي كَانُواْ يَعۡمَلُونَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "As for those who believe and do good, We will certainly absolve them of their sins, and reward them according to the best of what they used to do",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "信道而且行善者，我必定勾销他们的罪恶，我必定以他们的行为的最优的报酬赏赐他们。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "और जो लोग ईमान लाए और उन्होंने अच्छा कर्म किए हम उनसे उनकी बुराइयों को दूर कर देंगे और उन्हें अवश्य ही उसका प्रतिदान प्रदान करेंगे, जो कुछ अच्छे कर्म वे करते रहे होंगे",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "A quienes crean y hagan buenas obras les perdonaré sus faltas y los recompensaré por lo mejor de sus actos",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Et quant à ceux qui croient et font de bonnes œuvres, Nous leur effacerons leurs méfaits, et Nous les rétribuerons de la meilleure récompense pour ce qu'ils auront accompli",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "আর যারা বিশ্বাস স্থাপন করে ও সৎকর্ম করে, আমি অবশ্যই তাদের মন্দ কাজ গুলো মিটিয়ে দেব এবং তাদেরকে কর্মের উৎকৃষ্টতর প্রতিদান দেব।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E aos que crêem e fazem as boas obras, em verdade, remir-lhes-emos as más obras e recompensá-los-emos com prêmio melhor que aquilo que faziam",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Тем, которые уверовали и совершали праведные деяния, Мы простим их злодеяния и воздадим за наилучшее из того, что они совершали (или лучшим, чем то, что они совершали; или наилучшим образом за то, что они совершали)",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور جو لوگ ایمان لائے اور نیک عمل کرتے رہے ہم ان کے گناہوں کو اُن سے دور کردیں گے اور ان کو ان کے اعمال کا بہت اچھا بدلہ دیں گے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_029_008",
+      "reference": {
+        "surah_number": 29,
+        "surah_name": "Al-Ankaboot",
+        "surah_name_ar": "سُوْرَةُ الْعَنْكَبُوْتِ",
+        "surah_name_translation": "The Spider",
+        "ayah_number": 8,
+        "juz": 20,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 22,
+      "translations": {
+        "ar": {
+          "text": "وَوَصَّيۡنَا ٱلۡإِنسَٰنَ بِوَٰلِدَيۡهِ حُسۡنࣰ اۖ وَإِن جَٰهَدَاكَ لِتُشۡرِكَ بِي مَا لَيۡسَ لَكَ بِهِۦ عِلۡمࣱ فَلَا تُطِعۡهُمَآۚ إِلَيَّ مَرۡجِعُكُمۡ فَأُنَبِّئُكُم بِمَا كُنتُمۡ تَعۡمَلُونَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "We have commanded people to honour their parents. But if they urge you to associate with Me what you have no knowledge of, then do not obey them. To Me you will ˹all˺ return, and then I will inform you of what you used to do",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "我曾命人孝敬父母；如果他俩勒令你用你所不知道的东西配我，那末，你不要服从他俩。你们要归于我，我要把你们的行为告诉你们。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "और हमने मनुष्यों को अपने माँ-बाप के साथ अच्छा व्यवहार करने की ताकीद की है। किन्तु यदि वे तुमपर ज़ोर डालें कि तू किसी ऐसी चीज़ को मेरा साक्षी ठहराए, जिसका तुझे कोई ज्ञान नहीं, तो उनकी बात न मान। मेरी ही ओर तुम सबको पलटकर आना है, फिर मैं तुम्हें बता दूँगा जो कुछ कुम करते रहे होगे",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Le he ordenado al ser humano hacer el bien a sus padres. Pero si se esfuerzan por hacer que caigas en la idolatría de dedicar actos de adoración a otro que a Mí, lo cual es algo que no te he enseñado, no les debes obediencia. Ante Mí has de comparecer y te informaré lo que hacías",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Et Nous avons enjoint à l'homme de bien traiter ses père et mère, et «si ceux-ci te forcent à M'associer, ce dont tu n'as aucun savoir, alors ne leur obéis pas». Vers Moi est votre retour, et alors Je vous informerai de ce que vous faisiez",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "আমি মানুষকে পিতা-মাতার সাথে সদ্ব্যবহার করার জোর নির্দেশ দিয়েছি। যদি তারা তোমাকে আমার সাথে এমন কিছু শরীক করার জোর প্রচেষ্টা চালায়, যার সম্পর্কে তোমার কোন জ্ঞান নেই, তবে তাদের আনুগত্য করো না। আমারই দিকে তোমাদের প্রত্যাবর্তন। অতঃপর আমি তোমাদেরকে বলে দেব যা কিছু তোমরা করতে।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E recomendamos ao ser humano benevolência para com seus pais. E lhe dissemos: \"E, se ambos lutam contigo, para que associes a Mim o de que não tens ciência, não lhes obedeças.\" A Mim, será vosso retorno; então, informar-vos-ei do que fazíeis",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Мы заповедали человеку быть добрым к родителям. А если они станут сражаться с тобой, чтобы ты приобщал ко мне сотоварищей, о которых ты ничего не знаешь, то не повинуйся им. Ко Мне предстоит ваше возвращение, и тогда Я поведаю вам о том, что вы совершали",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور ہم نے انسان کو اپنے ماں باپ کے ساتھ نیک سلوک کرنے کا حکم دیا ہے۔ (اے مخاطب) اگر تیرے ماں باپ تیرے درپے ہوں کہ تو میرے ساتھ کسی کو شریک بنائے جس کی حقیقت کی تجھے واقفیت نہیں۔ تو ان کا کہنا نہ مانیو۔ تم (سب) کو میری طرف لوٹ کر آنا ہے۔ پھر جو کچھ تم کرتے تھے میں تم کو جتا دوں گا",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_029_009",
+      "reference": {
+        "surah_number": 29,
+        "surah_name": "Al-Ankaboot",
+        "surah_name_ar": "سُوْرَةُ الْعَنْكَبُوْتِ",
+        "surah_name_translation": "The Spider",
+        "ayah_number": 9,
+        "juz": 20,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 7,
+      "translations": {
+        "ar": {
+          "text": "وَٱلَّذِينَ ءَامَنُواْ وَعَمِلُواْ ٱلصَّٰلِحَٰتِ لَنُدۡخِلَنَّهُمۡ فِي ٱلصَّٰلِحِينَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Those who believe and do good will surely be admitted by Us into ˹the company of˺ the righteous",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "信道行而且行善者，我必定使他们入于善人之列。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "और जो लोग ईमान लाए और उन्होंने अच्छे कर्म किए हम उन्हें अवश्य अच्छे लोगों में सम्मिलित करेंगे",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "A quienes hayan creído y hecho obras de bien los introduciré [al Paraíso] junto a los que obran con justicia",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Et quant à ceux qui croient et font de bonnes œuvres, Nous les ferons certainement entrer parmi les gens de bien",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "যারা বিশ্বাস স্থাপন করে ও সৎকাজ করে, আমি অবশ্যই তাদেরকে সৎকর্মীদের অন্তর্ভুক্ত করব।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E aos que crêem e fazem as boas obras, certamente, fá-los-emos entrar na grei dos íntegros",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "А тех, которые уверовали и совершали праведные деяния, Мы введем в Рай вместе с праведниками",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور جو لوگ ایمان لائے اور نیک عمل کرتے رہے ان کو ہم نیک لوگوں میں داخل کریں گے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_029_010",
+      "reference": {
+        "surah_number": 29,
+        "surah_name": "Al-Ankaboot",
+        "surah_name_ar": "سُوْرَةُ الْعَنْكَبُوْتِ",
+        "surah_name_translation": "The Spider",
+        "ayah_number": 10,
+        "juz": 20,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 31,
+      "translations": {
+        "ar": {
+          "text": "وَمِنَ ٱلنَّاسِ مَن يَقُولُ ءَامَنَّا بِٱللَّهِ فَإِذَآ أُوذِيَ فِي ٱللَّهِ جَعَلَ فِتۡنَةَ ٱلنَّاسِ كَعَذَابِ ٱللَّهِۖ وَلَئِن جَآءَ نَصۡرࣱ مِّن رَّبِّكَ لَيَقُولُنَّ إِنَّا كُنَّا مَعَكُمۡۚ أَوَلَيۡسَ ٱللَّهُ بِأَعۡلَمَ بِمَا فِي صُدُورِ ٱلۡعَٰلَمِينَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "There are some who say, “We believe in Allah,” but when they suffer in the cause of Allah, they mistake ˹this˺ persecution at the hands of people for the punishment of Allah. But when victory comes from your Lord, they surely say ˹to the believers˺, “We have always been with you.” Does Allah not know best what is in the hearts of all beings",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "有些人说：我们已信真主了。当他们为真主而受迫害的时候，他们把众人的迫害当做真主的刑罚。如果援助从你们的主降临，他们必定说：我们确是与你们同在一起的。难道真主不是知道世人的胸襟的吗？",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "लोगों में ऐसे भी है जो कहते है कि \"हम अल्लाह पर ईमान लाए,\" किन्तु जब अल्लाह के मामले में वे सताए गए तो उन्होंने लोगों की ओर से आई हुई आज़माइश को अल्लाह की यातना समझ लिया। अब यदि तेरे रब की ओर से सहायता पहुँच गई तो कहेंगे, \"हम तो तुम्हारे साथ थे।\" क्या जो कुछ दुनियावालों के सीनों में है उसे अल्लाह भली-भाँति नहीं जानता",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Entre la gente hay quienes dicen: \"¡Creemos en Dios!\"; pero cuando sufren algún perjuicio por la causa de Dios, consideran que la opresión de los hombres es un castigo de Dios [y reniegan de su fe]. En cambio, cuando tu Señor les concede un triunfo, dicen: \"¡Siempre hemos estado con ustedes!\" ¿Acaso no es Dios Quien mejor sabe lo que hay en los corazones de la gente",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Parmi les gens il en est qui disent: «Nous croyons en Allah» puis, si on les fait souffrir pour la cause d'Allah, ils considèrent l'épreuve de la part des hommes comme un châtiment d'Allah. Or, s'il vient du secours de ton Seigneur, ils diront certes: «Nous étions avec vous!» Allah n'est-Il pas le meilleur à savoir ce qu'il y a dans les poitrines de tout le monde",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "কতক লোক বলে, আমরা আল্লাহর উপর বিশ্বাস স্থাপন করেছি; কিন্তু আল্লাহর পথে যখন তারা নির্যাতিত হয়, তখন তারা মানুষের নির্যাতনকে আল্লাহর আযাবের মত মনে করে। যখন আপনার পালনকর্তার কাছ থেকে কোন সাহায্য আসে তখন তারা বলতে থাকে, আমরা তো তোমাদের সাথেই ছিলাম। বিশ্ববাসীর অন্তরে যা আছে, আল্লাহ কি তা সম্যক অবগত নন?",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E, dentre os homens, há quem diga: \"Cremos em Allah\"; então, quando molestado, por causa de Allah, considera a provação dos homens como castigo de Allah. E, se uma vitória chega de teu Senhor, dizem: \"Por certo, estávamos convosco!\" E não é Allah bem Sabedor do que há nos peitos dos mundos",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Среди людей есть такие, которые говорят: «Мы уверовали в Аллаха». Но стоит им пострадать ради Аллаха, как они сравнивают искушения (наказание) людей с мучениями от Аллаха. Если же явится победа от твоего Господа, то они непременно скажут: «Мы были вместе с вами». Но разве Аллаху не лучше знать, что таится в груди миров",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور بعض لوگ ایسے ہیں جو کہتے ہیں کہ ہم خدا پر ایمان لائے جب اُن کو خدا (کے رستے) میں کوئی ایذا پہنچتی ہے تو لوگوں کی ایذا کو (یوں) سمجھتے ہیں جیسے خدا کا عذاب۔ اگر تمہارے پروردگار کی طرف سے مدد پہنچے تو کہتے ہیں کہ ہم تمہارے ساتھ تھے۔ کیا جو اہل عالم کے سینوں میں ہے خدا اس سے واقف نہیں؟",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_029_011",
+      "reference": {
+        "surah_number": 29,
+        "surah_name": "Al-Ankaboot",
+        "surah_name_ar": "سُوْرَةُ الْعَنْكَبُوْتِ",
+        "surah_name_translation": "The Spider",
+        "ayah_number": 11,
+        "juz": 20,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 6,
+      "translations": {
+        "ar": {
+          "text": "وَلَيَعۡلَمَنَّ ٱللَّهُ ٱلَّذِينَ ءَامَنُواْ وَلَيَعۡلَمَنَّ ٱلۡمُنَٰفِقِينَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Allah will certainly distinguish between those who have ˹sure˺ faith and the hypocrites",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "真主的确知道信道者，的确知道伪信者。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "और अल्लाह तो उन लोगों को मालूम करके रहेगा जो ईमान लाए, और वह कपटाचारियों को भी मालूम करके रहेगा",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Dios hará evidente quiénes son los que creen y quiénes son los hipócritas",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Allah connaît parfaitement les croyants et connaît parfaitement les hypocrites",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "আল্লাহ অবশ্যই জেনে নেবেন যারা বিশ্বাস স্থাপন করেছে এবং নিশ্চয় জেনে নেবেন যারা মুনাফেক।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E, em verdade, Allah sabe dos que crêem; e, em verdade, Allah sabe dos hipócritas",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Аллах непременно узнает тех, кто уверовал, и непременно узнает лицемеров",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور خدا اُن کو ضرور معلوم کرے گا جو (سچے) مومن ہیں اور منافقوں کو بھی معلوم کرکے رہے گا",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_029_012",
+      "reference": {
+        "surah_number": 29,
+        "surah_name": "Al-Ankaboot",
+        "surah_name_ar": "سُوْرَةُ الْعَنْكَبُوْتِ",
+        "surah_name_translation": "The Spider",
+        "ayah_number": 12,
+        "juz": 20,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 18,
+      "translations": {
+        "ar": {
+          "text": "وَقَالَ ٱلَّذِينَ كَفَرُواْ لِلَّذِينَ ءَامَنُواْ ٱتَّبِعُواْ سَبِيلَنَا وَلۡنَحۡمِلۡ خَطَٰيَٰكُمۡ وَمَا هُم بِحَٰمِلِينَ مِنۡ خَطَٰيَٰهُم مِّن شَيۡءٍۖ إِنَّهُمۡ لَكَٰذِبُونَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "The disbelievers say to the believers, “˹Just˺ follow our way, and we will bear ˹the burden of˺ your sins.” But they would never ˹want to˺ bear any of the believers’ sins. They are simply lying",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "不信道的人对信道的人说：你们遵守我们的教道吧！让我们担负你们的罪过。其实，他们绝不能担负他们的一点罪过，他们确是说谎的。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "और इनकार करनेवाले ईमान लानेवालों से कहते है, \"तुम हमारे मार्ग पर चलो, हम तुम्हारी ख़ताओं का बोझ उठा लेंगे।\" हालाँकि वे उनकी ख़ताओं में से कुछ भी उठानेवाले नहीं है। वे निश्चय ही झूठे है",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Los que se niegan a creer dicen a los creyentes: \"Sigan nuestra fe y nosotros cargaremos con sus pecados\". Pero ellos no pueden aligerar la carga de los pecados ajenos, son solo mentirosos",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Et ceux qui ne croient pas disent à ceux qui croient; «Suivez notre sentier, et que nous supportions vos fautes». Mais ils ne supporteront rien de leurs fautes. En vérité ce sont des menteurs",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "কাফেররা মুমিনদেরকে বলে, আমাদের পথ অনুসরণ কর। আমরা তোমাদের পাপভার বহন করব। অথচ তারা পাপভার কিছুতেই বহন করবে না। নিশ্চয় তারা মিথ্যাবাদী।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E os que renegam a Fé dizem aos que crêem: \"Segui nosso caminho e, com certeza, carregaremos vossos erros.\" Mas nada carregarão de seus erros. Por certo, eles são mentirosos",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Неверующие говорят тем, которые уверовали: «Следуйте нашим путем, и мы возьмем на себя ваши грехи». Они не возьмут на себя даже части их грехов. Воистину, они - лжецы",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور جو کافر ہیں وہ مومنوں سے کہتے ہیں کہ ہمارے طریق کی پیروی کرو ہم تمہارے گناہ اُٹھالیں گے۔ حالانکہ وہ اُن کے گناہوں کا کچھ بھی بوجھ اُٹھانے والے نہیں۔ کچھ شک نہیں کہ یہ جھوٹے ہیں",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_029_013",
+      "reference": {
+        "surah_number": 29,
+        "surah_name": "Al-Ankaboot",
+        "surah_name_ar": "سُوْرَةُ الْعَنْكَبُوْتِ",
+        "surah_name_translation": "The Spider",
+        "ayah_number": 13,
+        "juz": 20,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 12,
+      "translations": {
+        "ar": {
+          "text": "وَلَيَحۡمِلُنَّ أَثۡقَالَهُمۡ وَأَثۡقَالࣰ ا مَّعَ أَثۡقَالِهِمۡۖ وَلَيُسۡـَٔلُنَّ يَوۡمَ ٱلۡقِيَٰمَةِ عَمَّا كَانُواْ يَفۡتَرُونَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Yet they will certainly ˹be made to˺ carry their own burdens, as well as other burdens along with their own. And they will surely be questioned on Judgment Day about what they used to fabricate",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "他们必定担负自己的重担，再加上别的重担，复活日他们对于自己所伪造的谎言必受审问。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "हाँ, अवश्य ही वे अपने बोझ भी उठाएँगे और अपने बोझों के साथ और बहुत-से बोझ भी। और क़ियामत के दिन अवश्य उनसे उसके विषय में पूछा जाएगा जो कुछ झूठ वे घड़ते रहे होंगे",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Ellos no solo cargarán con sus propios pecados, sino también con los pecados que comentan aquellos que ellos extraviaron. El Día de la Resurrección se les preguntará acerca de las mentiras que inventaban",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Et très certainement, ils porteront leurs fardeaux et d'autres fardeaux en plus de leurs propres fardeaux. et ils seront interrogés, le Jour de la Résurrection, sur ce qu'ils inventaient",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "তারা নিজেদের পাপভার এবং তার সাথে আরও কিছু পাপভার বহন করবে। অবশ্য তারা যে সব মিথ্যা কথা উদ্ভাবন করে, সে সম্পর্কে কেয়ামতের দিন জিজ্ঞাসিত হবে।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E, em verdade, carregarão seus pesos, e mais pesos com seus pesos . E, em verdade, serão interrogados, no Dia da Ressurreição, acerca do que forjavam",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Они непременно понесут свое бремя и другое бремя вместе со своим бременем. В День воскресения их непременно спросят о том, что они измышляли",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور یہ اپنے بوجھ بھی اُٹھائیں گے اور اپنے بوجھوں کے ساتھ اور (لوگوں کے) بوجھ بھی۔ اور جو بہتان یہ باندھتے رہے قیامت کے دن اُن کی اُن سے ضرور پرسش ہوگی",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_029_014",
+      "reference": {
+        "surah_number": 29,
+        "surah_name": "Al-Ankaboot",
+        "surah_name_ar": "سُوْرَةُ الْعَنْكَبُوْتِ",
+        "surah_name_translation": "The Spider",
+        "ayah_number": 14,
+        "juz": 20,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 17,
+      "translations": {
+        "ar": {
+          "text": "وَلَقَدۡ أَرۡسَلۡنَا نُوحًا إِلَىٰ قَوۡمِهِۦ فَلَبِثَ فِيهِمۡ أَلۡفَ سَنَةٍ إِلَّا خَمۡسِينَ عَامࣰ ا فَأَخَذَهُمُ ٱلطُّوفَانُ وَهُمۡ ظَٰلِمُونَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Indeed, We sent Noah to his people, and he remained among them for a thousand years, less fifty. Then the Flood overtook them, while they persisted in wrongdoing",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "我确已派努哈去教化他的宗族，他在他们之间，逗留了九百五十年，洪水就袭击了他们，因为他们是不义的。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "हमने नूह को उसकी क़ौम की ओर भेजा। और वह पचास साल कम एक हजार वर्ष उनके बीच रहा। अन्ततः उनको तूफ़ान ने इस दशा में आ पकड़ा कि वे अत्याचारी था",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Envié a Noé a su pueblo y permaneció entre ellos mil años menos cincuenta. Los sorprendió el diluvio mientras cometían injusticias",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Et en effet, Nous avons envoyé Noé vers son peuple. Il demeura parmi eux mille ans moins cinquante années. Puis le déluge les emporta alors qu'ils étaient injustes",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "আমি নূহ (আঃ) কে তাঁর সম্প্রদায়ের কাছে প্রেরণ করেছিলাম। তিনি তাদের মধ্যে পঞ্চাশ কম এক হাজার বছর অবস্থান করেছিলেন। অতঃপর তাদেরকে মহাপ্লাবণ গ্রাস করেছিল। তারা ছিল পাপী।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E, com efeito, enviamos Noé a seu povo, e permaneceu, entre eles, um milênio menos cinqüenta anos. E desmentiram-no. Então, o dilúvio apanhou-os, enquanto injustos",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Мы послали Нуха (Ноя) к его народу, и он пробыл среди них тысячу лет без пятидесяти годов. Они были беззаконниками, и их погубил потоп",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور ہم نے نوحؑ کو اُن کی قوم کی طرف بھیجا تو وہ ان میں پچاس برس کم ہزار برس رہے پھر اُن کو طوفان (کے عذاب) نے آپکڑا۔ اور وہ ظالم تھے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_029_015",
+      "reference": {
+        "surah_number": 29,
+        "surah_name": "Al-Ankaboot",
+        "surah_name_ar": "سُوْرَةُ الْعَنْكَبُوْتِ",
+        "surah_name_translation": "The Spider",
+        "ayah_number": 15,
+        "juz": 20,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 6,
+      "translations": {
+        "ar": {
+          "text": "فَأَنجَيۡنَٰهُ وَأَصۡحَٰبَ ٱلسَّفِينَةِ وَجَعَلۡنَٰهَآ ءَايَةࣰ لِّلۡعَٰلَمِينَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "But We delivered him and those in the Ark, making it a sign for all people",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "我拯救了他和与他同船的人，我以那为全世界的一个迹象。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "फिर उसको और नौकावालों को हमने बचा लिया और उसे सारे संसार के लिए एक निशानी बना दिया",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Salvé [a Noé] y a quienes estaban en el arca. Hice de ella un signo para los universos",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Puis Nous le sauvâmes, lui et les gens de l'arche; et Nous en fîmes un avertissement pour l'univers",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "অতঃপর আমি তাঁকে ও নৌকারোহীগণকে রক্ষা করলাম এবং নৌকাকে নিদর্শন করলাম বিশ্ববাসীর জন্যে।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Então, salvamo-lo, e aos companheiros da nau, e fizemos desta um sinal para os mundos",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Мы спасли его вместе с теми, кто был в ковчеге, и сделали его (ковчег или чудесное спасение) знамением для миров",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "پھر ہم نے نوحؑ کو اور کشتی والوں کو نجات دی اور کشتی کو اہل عالم کے لئے نشانی بنا دیا",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_029_016",
+      "reference": {
+        "surah_number": 29,
+        "surah_name": "Al-Ankaboot",
+        "surah_name_ar": "سُوْرَةُ الْعَنْكَبُوْتِ",
+        "surah_name_translation": "The Spider",
+        "ayah_number": 16,
+        "juz": 20,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 13,
+      "translations": {
+        "ar": {
+          "text": "وَإِبۡرَٰهِيمَ إِذۡ قَالَ لِقَوۡمِهِ ٱعۡبُدُواْ ٱللَّهَ وَٱتَّقُوهُۖ ذَٰلِكُمۡ خَيۡرࣱ لَّكُمۡ إِن كُنتُمۡ تَعۡلَمُونَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "And ˹remember˺ when Abraham said to his people, “Worship Allah, and fear Him. This is better for you, if only you knew",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "（我确已派遣）易卜拉欣，当日，他对他的宗族说：你们应当崇拜真主，并当敬畏他，这对于你们是更好的。如果你们知道。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "और इबराहीम को भी भेजा, जबकि उसने अपनी क़ौम के लोगों से कहा, \"अल्लाह की बन्दगी करो और उसका डर रखो। यह तुम्हारे लिए अच्छा है, यदि तुम जानो",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "[Recuerda] a Abraham cuando le dijo a su pueblo: \"Adoren [solo] a Dios y tengan temor de Él, eso es lo mejor para ustedes, si supieran",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Et Abraham, quand il dit à son peuple; «Adorez Allah et craignez-Le: cela vous est bien meilleur si vous saviez»",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "স্মরণ কর ইব্রাহীমকে। যখন তিনি তাঁর সম্প্রদায়কে বললেন; তোমরা আল্লাহর এবাদত কর এবং তাঁকে ভয় কর। এটাই তোমাদের জন্যে উত্তম যদি তোমরা বোঝ।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E Abraão, quando disse a seu povo: \"Adorai a Allah e temei-O. Isso é melhor, se soubésseis",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "А вот Ибрахим (Авраам) сказал своему народу: «Поклоняйтесь Аллаху и бойтесь Его! Так будет лучше для вас, если бы вы только знали",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور ابراہیمؑ کو (یاد کرو) جب اُنہوں نے اپنی قوم سے کہا کہ خدا کی عبادت کرو اور اس سے ڈرو اگر تم سمجھ رکھتے ہو تو یہ تمہارے حق میں بہتر ہے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_029_017",
+      "reference": {
+        "surah_number": 29,
+        "surah_name": "Al-Ankaboot",
+        "surah_name_ar": "سُوْرَةُ الْعَنْكَبُوْتِ",
+        "surah_name_translation": "The Spider",
+        "ayah_number": 17,
+        "juz": 20,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 29,
+      "translations": {
+        "ar": {
+          "text": "إِنَّمَا تَعۡبُدُونَ مِن دُونِ ٱللَّهِ أَوۡثَٰنࣰ ا وَتَخۡلُقُونَ إِفۡكًاۚ إِنَّ ٱلَّذِينَ تَعۡبُدُونَ مِن دُونِ ٱللَّهِ لَا يَمۡلِكُونَ لَكُمۡ رِزۡقࣰ ا فَٱبۡتَغُواْ عِندَ ٱللَّهِ ٱلرِّزۡقَ وَٱعۡبُدُوهُ وَٱشۡكُرُواْ لَهُۥٓۖ إِلَيۡهِ تُرۡجَعُونَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "You worship besides Allah nothing but idols, simply creating lies ˹about them˺. Those you worship besides Allah certainly cannot give you any provision. So seek provision from Allah ˹alone˺, worship Him, and be grateful to Him. To Him you will ˹all˺ be returned",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "除真主外，你们只崇拜偶像，你们只捏造妄言。你们舍真主而崇拜的（偶像），不能主持你们的给养，所以，你们应当到真主那里寻求给养，你们应当崇拜他，你们应当感谢他，你们只被召归他。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "तुम तो अल्लाह से हटकर बस मूर्तियों को पूज रहे हो और झूठ घड़ रहे हो। तुम अल्लाह से हटकर जिनको पूजते हो वे तुम्हारे लिए रोज़ी का भी अधिकार नहीं रखते। अतः तुम अल्लाह ही के यहाँ रोज़ी तलाश करो और उसी की बन्दगी करो और उसके आभारी बनो। तुम्हें उसी की ओर लौटकर जाना है",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Lo que adoran en lugar de Dios son solo ídolos que ustedes mismos crean falsamente. Lo que adoran en lugar de Dios no puede proveerles ningún sustento. Así que supliquen a Dios el sustento, adórenle solo a Él y agradézcanle. Porque es ante Él que comparecerán",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Vous n'adorez que des idoles, en dehors d'Allah, et vous forgez un mensonge. Ceux que vous adorez en dehors d'Allah ne possèdent aucun moyen pour vous procurer nourriture; recherchez votre subsistance auprès d'Allah. Adorez-Le et soyez-Lui reconnaissants. C'est à Lui que vous serez ramenés",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "তোমরা তো আল্লাহর পরিবর্তে কেবল প্রতিমারই পূজা করছ এবং মিথ্যা উদ্ভাবন করছ। তোমরা আল্লাহর পরিবর্তে যাদের এবাদত করছ, তারা তোমাদের রিযিকের মালিক নয়। কাজেই আল্লাহর কাছে রিযিক তালাশ কর, তাঁর এবাদত কর এবং তাঁর কৃতজ্ঞতা প্রকাশ কর। তাঁরই কাছে তোমরা প্রত্যাবর্তিত হবে।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Apenas vós adorais ídolos, em vez de Allah, e inventais mentiras. Por certo, os que adorais, em vez de Allah, não possuem, para vós, sustento algum. Então, buscai, junto de Allah, o sustento, e adorai-O e agradecei-Lhe. A Ele sereis retornados",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Вы поклоняетесь вместо Аллаха идолам и измышляете ложь. Воистину, те, кому вы поклоняетесь вместо Аллаха, не способны даровать вам пропитание. Ищите же пропитание у Аллаха, поклоняйтесь Ему и благодарите Его. К Нему вы будете возвращены»",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "تو تم خدا کو چھوڑ کر بتوں کو پوجتے اور طوفان باندھتے ہو تو جن لوگوں کو تم خدا کے سوا پوجتے ہو وہ تم کو رزق دینے کا اختیار نہیں رکھتے پس خدا ہی کے ہاں سے رزق طلب کرو اور اسی کی عبادت کرو اور اسی کا شکر کرو اسی کی طرف تم لوٹ کر جاؤ گے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_029_018",
+      "reference": {
+        "surah_number": 29,
+        "surah_name": "Al-Ankaboot",
+        "surah_name_ar": "سُوْرَةُ الْعَنْكَبُوْتِ",
+        "surah_name_translation": "The Spider",
+        "ayah_number": 18,
+        "juz": 20,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 13,
+      "translations": {
+        "ar": {
+          "text": "وَإِن تُكَذِّبُواْ فَقَدۡ كَذَّبَ أُمَمࣱ مِّن قَبۡلِكُمۡۖ وَمَا عَلَى ٱلرَّسُولِ إِلَّا ٱلۡبَلَٰغُ ٱلۡمُبِينُ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "If you ˹Meccans˺ persist in denial, so did ˹many˺ communities before you. The Messenger’s duty is only to deliver ˹the message˺ clearly.”",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "如果你们否认（我），那末，在你们之前的许多民族，也否认过（他们的使者）。使者的责任只是明白地传达。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "और यदि तुम झुठलाते हो तो तुमसे पहले कितने ही समुदाय झुठला चुके है। रसूल पर तो बस केवल स्पष्ट रूप से (सत्य संदेश) पहुँचा देने की ज़िम्मेदारी है।",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Pero si [me] desmienten, ya lo hicieron otras naciones antes que ustedes. El Mensajero solo tiene la obligación de transmitir [el Mensaje] con claridad",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Et si vous criez au mensonge, d'autres nations avant vous, ont aussi traité (leurs prophètes) de menteurs. Au Messager, cependant, n'incombe que la transmission claire",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "তোমরা যদি মিথ্যাবাদী বল, তবে তোমাদের পূর্ববর্তীরাও তো মিথ্যাবাদী বলেছে। স্পষ্টভাবে পয়গাম পৌছে দেয়াই তো রসূলের দায়িত্ব।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E se me desmentis, com efeito, nações, antes de vós, desmentiram a seus Mensageiros. E não impende ao Mensageiro senão a evidente transmissão da Mensagem",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Если вы сочтете это ложью, то ведь до вас целые народы считали это ложью, но на Посланника возложена только ясная передача откровения",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور اگر تم (میری) تکذیب کرو تو تم سے پہلے بھی اُمتیں (اپنے پیغمبروں کی) تکذیب کرچکی ہیں۔ اور پیغمبر کے ذمے کھول کر سنا دینے کے سوا اور کچھ نہیں",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_029_019",
+      "reference": {
+        "surah_number": 29,
+        "surah_name": "Al-Ankaboot",
+        "surah_name_ar": "سُوْرَةُ الْعَنْكَبُوْتِ",
+        "surah_name_translation": "The Spider",
+        "ayah_number": 19,
+        "juz": 20,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 13,
+      "translations": {
+        "ar": {
+          "text": "أَوَلَمۡ يَرَوۡاْ كَيۡفَ يُبۡدِئُ ٱللَّهُ ٱلۡخَلۡقَ ثُمَّ يُعِيدُهُۥٓۚ إِنَّ ذَٰلِكَ عَلَى ٱللَّهِ يَسِيرࣱ‏",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Have they not seen how Allah originates the creation then resurrects it? That is certainly easy for Allah",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "难道他们没有看见真主怎样创造众生，然后使他们复活吗？这对于真主是容易的。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "क्या उन्होंने देखा नहीं कि अल्लाह किस प्रकार पैदाइश का आरम्भ करता है और फिर उसकी पुनरावृत्ति करता है? निस्संदेह यह अल्लाह के लिए अत्यन्त सरल है",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "¿Acaso no ven cómo Dios origina la creación y luego la reproduce? Eso es fácil para Dios",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Ne voient-ils pas comment Allah commence la création puis la refait? Cela est facile pour Allah",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "তারা কি দেখে না যে, আল্লাহ কিভাবে সৃষ্টিকর্ম শুরু করেন অতঃপর তাকে পুনরায় সৃষ্টি করবেন? এটা আল্লাহর জন্যে সহজ।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E não viram eles como Allah inicia a criação, em seguida, a repete? Por certo, isso é fácil para Allah",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Неужели они не видят, как Аллах создает творение в первый раз, а затем воссоздает его. Воистину, это для Аллаха легко",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "کیا اُنہوں نے نہیں دیکھا کہ خدا کس طرح خلقت کو پہلی بار پیدا کرتا پھر (کس طرح) اس کو بار بار پیدا کرتا رہتا ہے۔ یہ خدا کو آسان ہے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_029_020",
+      "reference": {
+        "surah_number": 29,
+        "surah_name": "Al-Ankaboot",
+        "surah_name_ar": "سُوْرَةُ الْعَنْكَبُوْتِ",
+        "surah_name_translation": "The Spider",
+        "ayah_number": 20,
+        "juz": 20,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 19,
+      "translations": {
+        "ar": {
+          "text": "قُلۡ سِيرُواْ فِي ٱلۡأَرۡضِ فَٱنظُرُواْ كَيۡفَ بَدَأَ ٱلۡخَلۡقَۚ ثُمَّ ٱللَّهُ يُنشِئُ ٱلنَّشۡأَةَ ٱلۡأٓخِرَةَۚ إِنَّ ٱللَّهَ عَلَىٰ كُلِّ شَيۡءࣲ قَدِيرࣱ‏",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Say, ˹O Prophet,˺ “Travel throughout the land and see how He originated the creation, then Allah will bring it into being one more time. Surely Allah is Most Capable of everything",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "你说：你们应当在大地上旅行，因而观察真主怎样创造众生，又怎样再造他们。真主对于万事确是全能的。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "कहो कि, \"धरती में चलो-फिरो और देखो कि उसने किस प्रकार पैदाइश का आरम्भ किया। फिर अल्लाह पश्चात्वर्ती उठान उठाएगा। निश्चय ही अल्लाह को हर चीज़ की सामर्थ्य प्राप्त है",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Diles [a quienes niegan la Resurrección]: \"Viajen por el mundo y observen cómo [Dios] originó la creación. Luego, Dios la hará surgir nuevamente [el Día de la Resurrección]. Dios es sobre toda cosa Poderoso",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Dis: «Parcourez la terre et voyez comment Il a commencé la création. Puis comment Allah crée la génération ultime. Car Allah est Omnipotent»",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "বলুন, তোমরা পৃথিবীতে ভ্রমণ কর এবং দেখ, কিভাবে তিনি সৃষ্টিকর্ম শুরু করেছেন। অতঃপর আল্লাহ পুর্নবার সৃষ্টি করবেন। নিশ্চয় আল্লাহ সবকিছু করতে সক্ষম।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Dize, Muhammad: \"Caminhai, na terra, e olhai como Allah iniciou a criação. Em seguida, Allah fará surgir a última criação. Por certo, Allah, sobre todas as cousas, é Onipotente",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Скажи: «Постранствуйте по земле и посмотрите, как Он создал творение в первый раз. Затем Аллах создаст конечное творение (воскресит мертвых). Воистину, Аллах способен на всякую вещь",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "کہہ دو کہ ملک میں چلو پھرو اور دیکھو کہ اس نے کس طرح خلقت کو پہلی دفعہ پیدا کیا ہے پھر خدا ہی پچھلی پیدائش پیدا کرے گا۔ بےشک خدا ہر چیز پر قادر ہے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_029_021",
+      "reference": {
+        "surah_number": 29,
+        "surah_name": "Al-Ankaboot",
+        "surah_name_ar": "سُوْرَةُ الْعَنْكَبُوْتِ",
+        "surah_name_translation": "The Spider",
+        "ayah_number": 21,
+        "juz": 20,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 8,
+      "translations": {
+        "ar": {
+          "text": "يُعَذِّبُ مَن يَشَآءُ وَيَرۡحَمُ مَن يَشَآءُۖ وَإِلَيۡهِ تُقۡلَبُونَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "He punishes whoever He wills, and shows mercy to whoever He wills. And you will ˹all˺ be returned to Him",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "他惩罚他所意欲者，怜恤他所意欲者，你们只被召归于他。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "वह जिसे चाहे यातना दे और जिसपर चाहे दया करे। और उसी की ओर तुम्हें पलटकर जाना है।",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Castiga a quien Él quiere y se apiada de quien Él quiere. Ante Él serán retornados",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Il châtie qui Il veut et fait miséricorde à qui Il veut; et c'est vers Lui que vous serez ramenés",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "তিনি যাকে ইচ্ছা শাস্তি দেন এবং যার প্রতি ইচ্ছা রহমত করেন। তাঁরই দিকে তোমরা প্রত্যাবর্তিত হবে।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Ele castiga a quem quer e tem misericórdia de quem quer, e a Ele sereis tornados",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Он подвергает мучениям, кого пожелает, и милует, кого пожелает, и к Нему вы будете возвращены",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "وہ جسے چاہے عذاب دے اور جس پر چاہے رحم کرے۔ اور اُسی کی طرف تم لوٹائے جاؤ گے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_029_022",
+      "reference": {
+        "surah_number": 29,
+        "surah_name": "Al-Ankaboot",
+        "surah_name_ar": "سُوْرَةُ الْعَنْكَبُوْتِ",
+        "surah_name_translation": "The Spider",
+        "ayah_number": 22,
+        "juz": 20,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 17,
+      "translations": {
+        "ar": {
+          "text": "وَمَآ أَنتُم بِمُعۡجِزِينَ فِي ٱلۡأَرۡضِ وَلَا فِي ٱلسَّمَآءِۖ وَمَا لَكُم مِّن دُونِ ٱللَّهِ مِن وَلِيࣲّ وَلَا نَصِيرࣲ‏",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "And you cannot escape Him on earth or in heaven. Nor have you any protector or helper besides Allah.”",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "你们无论在地上或天上，都不能逃避天谴，除真主外，你们没有任何监护者，也没有任何援助者。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "तुम न तो धरती में क़ाबू से बाहर निकल सकते हो और न आकाश में। और अल्लाह से हटकर न तो तुम्हारा कोई मित्र है और न सहायक",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "No podrán escapar de Dios ni en la Tierra ni en el cielo. No encontrarán fuera de Él quién los proteja ni los auxilie",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Et vous ne pourrez vous opposer à Sa puissance ni sur terre, ni au ciel; et il n'y a pas pour vous, en dehors d'Allah, ni allié ni secoureur",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "তোমরা স্থলে ও অন্তরীক্ষে আল্লাহকে অপারগ করতে পারবে না এবং আল্লাহ ব্যতীত তোমাদের কোন হিতাকাঙ্খী নেই, সাহায্যকারীও নেই।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E não podeis escapar do castigo de Allah, nem na terra nem no céu. E não tendes, em vez de Allah, nem protetor nem socorredor",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Вы не сможете сбежать ни на земле, ни на небе, и не будет у вас покровителей и помощников помимо Аллаха»",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور تم (اُس کو) نہ زمین میں عاجز کرسکتے ہو نہ آسمان میں اور نہ خدا کے سوا تمہارا کوئی دوست ہے اور نہ مددگار",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_029_023",
+      "reference": {
+        "surah_number": 29,
+        "surah_name": "Al-Ankaboot",
+        "surah_name_ar": "سُوْرَةُ الْعَنْكَبُوْتِ",
+        "surah_name_translation": "The Spider",
+        "ayah_number": 23,
+        "juz": 20,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 13,
+      "translations": {
+        "ar": {
+          "text": "وَٱلَّذِينَ كَفَرُواْ بِـَٔايَٰتِ ٱللَّهِ وَلِقَآئِهِۦٓ أُوْلَٰٓئِكَ يَئِسُواْ مِن رَّحۡمَتِي وَأُوْلَٰٓئِكَ لَهُمۡ عَذَابٌ أَلِيمࣱ‏",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "As for those who disbelieve in Allah’s signs and the meeting with Him, it is they who will have no hope in His mercy. And it is they who will suffer a painful punishment",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "不信真主的迹象及与真主会见的，这等人，对我的恩惠已绝望了，这等人，将受痛苦的刑罚。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "और जिन लोगों ने अल्लाह की आयतों और उससे मिलने का इनकार किया, वही लोग है जो मेरी दयालुता से निराश हुए और वही है जिनके लिए दुखद यातना है।",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Quienes no crean en los signos de Dios y en el encuentro con Él, esos son los que no tienen esperanza en Mi misericordia, tendrán un castigo doloroso",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Et ceux qui ne croient pas aux versets d'Allah et à Sa rencontre, désespèrent de Ma miséricorde. Et ceux-là auront un châtiment douloureux",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "যারা আল্লাহর আয়াত সমূহ ও তাঁর সাক্ষাত অস্বীকার করে, তারাই আমার রহমত থেকে নিরাশ হবে এবং তাদের জন্যেই যন্ত্রণাদায়ক শাস্তি রয়েছে।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E os que renegam os sinais de Allah e Seu deparar, esses se desesperam de Minha misericórdia. E esses terão doloroso castigo",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Те, которые не веруют в знамения Аллаха и во встречу с Ним, потеряли надежду на Мою милость. Именно им уготованы мучительные страдания",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور جن لوگوں نے خدا کی آیتوں سے اور اس کے ملنے سے انکار کیا وہ میری رحمت سے نااُمید ہوگئے ہیں اور ان کو درد دینے والا عذاب ہوگا",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_029_024",
+      "reference": {
+        "surah_number": 29,
+        "surah_name": "Al-Ankaboot",
+        "surah_name_ar": "سُوْرَةُ الْعَنْكَبُوْتِ",
+        "surah_name_translation": "The Spider",
+        "ayah_number": 24,
+        "juz": 20,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 20,
+      "translations": {
+        "ar": {
+          "text": "فَمَا كَانَ جَوَابَ قَوۡمِهِۦٓ إِلَّآ أَن قَالُواْ ٱقۡتُلُوهُ أَوۡ حَرِّقُوهُ فَأَنجَىٰهُ ٱللَّهُ مِنَ ٱلنَّارِۚ إِنَّ فِي ذَٰلِكَ لَأٓيَٰتࣲ لِّقَوۡمࣲ يُؤۡمِنُونَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "But the only response of Abraham’s people was to say: “Kill him or burn him!” But Allah saved him from the fire. Surely in this are signs for people who believe",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "他的宗族说：你们杀死他，或烧死他吧！这是他们唯一的答复。真主拯救他脱离烈火，对于信道的民众，此中确有许多迹象。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "फिर उनकी क़ौम के लोगों का उत्तर इसके सिवा और कुछ न था कि उन्होंने कहा, \"मार डालो उसे या जला दो उसे!\" अंततः अल्लाह ने उसको आग से बचा लिया। निश्चय ही इसमें उन लोगों के लिए निशानियाँ है, जो ईमान लाएँ",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "[Recuerda que] la respuesta del pueblo de Abraham fue decir: \"Mátenlo o quémenlo\", pero Dios lo salvó de la hoguera [en la que quisieron quemarlo]. En eso hay signos para gente que cree",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Son peuple ne fit d'autre réponse que: «tuez-le ou brûlez-le». Mais Allah le sauva du feu. C'est bien là des signes pour des gens qui croient",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "তখন ইব্রাহীমের সম্প্রদায়ের এছাড়া কোন জওয়াব ছিল না যে তারা বলল, তাকে হত্যা কর অথবা অগ্নিদগ্ধ কর। অতঃপর আল্লাহ তাকে অগ্নি থেকে রক্ষা করলেন। নিশ্চয় এতে বিশ্বাসী লোকদের জন্যে নিদর্শনাবলী রয়েছে।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E a resposta de seu povo não foi senão dizer: \"Matai-o ou queimai-o.\" Então, Allah salvou-o do fogo. Por certo, há nisso sinais para um povo que crê",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "В ответ его народ лишь сказал: «Убейте его или сожгите!». Но Аллах спас его из огня. Воистину, в этом - знамения для верующих людей",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "تو اُن کی قوم کے لوگ جواب میں بولے تو یہ بولے کہ اُسے مار ڈالو یا جلا دو۔ مگر خدا نے اُن کو آگ (کی سوزش) سے بچالیا۔ جو لوگ ایمان رکھتے ہیں اُن کے لئے اس میں نشانیاں ہیں",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_029_025",
+      "reference": {
+        "surah_number": 29,
+        "surah_name": "Al-Ankaboot",
+        "surah_name_ar": "سُوْرَةُ الْعَنْكَبُوْتِ",
+        "surah_name_translation": "The Spider",
+        "ayah_number": 25,
+        "juz": 20,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 29,
+      "translations": {
+        "ar": {
+          "text": "وَقَالَ إِنَّمَا ٱتَّخَذۡتُم مِّن دُونِ ٱللَّهِ أَوۡثَٰنࣰ ا مَّوَدَّةَ بَيۡنِكُمۡ فِي ٱلۡحَيَوٰةِ ٱلدُّنۡيَاۖ ثُمَّ يَوۡمَ ٱلۡقِيَٰمَةِ يَكۡفُرُ بَعۡضُكُم بِبَعۡضࣲ وَيَلۡعَنُ بَعۡضُكُم بَعۡضࣰ ا وَمَأۡوَىٰكُمُ ٱلنَّارُ وَمَا لَكُم مِّن نَّٰصِرِينَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "He said ˹to his people˺, “You have taken idols ˹for worship˺ instead of Allah, only to keep ˹the bond of˺ harmony among yourselves in this worldly life. But on the Day of Judgment you will disown and curse one another. Your home will be the Fire, and you will have no helper!”",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "他说：你们舍真主而以偶像为神灵，只为今世生活中互相亲爱罢了。但在复活日，你们将互相抵赖，互相诅咒，你们的归宿是火狱，你们绝没有援助者。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "और उसने कहा, \"अल्लाह से हटकर तुमने कुछ मूर्तियों को केवल सांसारिक जीवन में अपने पारस्परिक प्रेम के कारण पकड़ रखा है। फिर क़ियामत के दिन तुममें से एक-दूसरे का इनकार करेगा और तुममें से एक-दूसरे पर लानत करेगा। तुम्हारा ठौर-ठिकाना आग है और तुम्हारा कोई सहायक न होगा।",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Les dijo [Abraham]: \"Adoran ídolos en vez de adorar a Dios por mantener el lazo de afecto entre ustedes y sus antepasados en esta vida. Pero el Día de la Resurrección renegarán unos de otros y se maldecirán mutuamente. Su morada será el Fuego y no tendrán quién los auxilie",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Et [Abraham] dit: «En effet, c'est pour cimenter des liens entre vous-mêmes dans la vie présente, que vous avez adopté des idoles, en dehors d'Allah. Ensuite, le Jour de la Résurrection, les uns rejetteront les autres, et les uns maudiront les autres, tandis que vous aurez le Feu pour refuge, n'aurez pas de protecteurs",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "ইব্রাহীম বললেন, পার্থিব জীবনে তোমাদের পারস্পরিক ভালবাসা রক্ষার জন্যে তোমরা আল্লাহর পরিবর্তে প্রতিমাগুলোকে উপাস্যরূপে গ্রহণ করেছ। এরপর কেয়ামতের দিন তোমরা একে অপরকে অস্বীকার করবে এবং একে অপরকে লানত করবে। তোমাদের ঠিকানা জাহান্নাম এবং তোমাদের কোন সাহায্যকারী নেই।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E Abraão disse: \"Apenas, tomastes ídolos em vez de Allah, pela afeição, entre vós, na vida terrena. Em seguida, no Dia da Ressurreição, renegareis uns aos outros e vos amaldiçoareis uns aos outros; e vossa morada será o Fogo; e não tereis socorredores",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Он сказал: «Вы стали поклоняться идолам вместо Аллаха только из-за любви (или ради любви) друг к другу в мирской жизни. Но потом, в День воскресения, одни из вас станут отвергать и проклинать других. Вашим пристанищем будет Огонь, и не будет у вас защитников»",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور ابراہیم نے کہا کہ تم جو خدا کو چھوڑ کر بتوں کو لے بیٹھے ہو تو دنیا کی زندگی میں باہم دوستی کے لئے (مگر) پھر قیامت کے دن تم ایک دوسرے (کی دوستی) سے انکار کر دو گے اور ایک دوسرے پر لعنت بھیجو گے اور تمہارا ٹھکانا دوزخ ہوگا اور کوئی تمہارا مددگار نہ ہوگا",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_029_026",
+      "reference": {
+        "surah_number": 29,
+        "surah_name": "Al-Ankaboot",
+        "surah_name_ar": "سُوْرَةُ الْعَنْكَبُوْتِ",
+        "surah_name_translation": "The Spider",
+        "ayah_number": 26,
+        "juz": 20,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 12,
+      "translations": {
+        "ar": {
+          "text": "۞فَـَٔامَنَ لَهُۥ لُوطࣱۘ وَقَالَ إِنِّي مُهَاجِرٌ إِلَىٰ رَبِّيٓۖ إِنَّهُۥ هُوَ ٱلۡعَزِيزُ ٱلۡحَكِيمُ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "So Lot believed in him. And Abraham said, “I am emigrating ˹in obedience˺ to my Lord. He ˹alone˺ is indeed the Almighty, All-Wise.”",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "鲁特就为他而信道。易卜拉欣说：我必定迁移到我的主那里去，他确是万能的，确是至睿的。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "फिर लूत ने उसकी बात मानी औऱ उसने कहा, \"निस्संदेह मैं अपने रब की ओर हिजरत करता हूँ। निस्संदेह वह अत्यन्त प्रभुत्वशाली, तत्वदर्शी है।",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Lot creyó en Abraham, quien [al ver que su pueblo no creía en él] dijo: \"Emigraré a donde [me ordene] mi Señor, porque Él es el Poderoso, el Sabio",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Lot crut en lui. Il dit: «Moi, j'émigre vers mon Seigneur, car c'est Lui le Tout Puissant, le Sage»",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "অতঃপর তার প্রতি বিশ্বাস স্থাপন করলেন লূত। ইব্রাহীম বললেন, আমি আমার পালনকর্তার উদ্দেশে দেশত্যাগ করছি। নিশ্চয় তিনি পরাক্রমশালী, প্রজ্ঞাময়।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Então, Lot creu nele. E ele disse: \"Por certo, emigrarei para meu Senhor. Por certo, Ele é O Todo-Poderoso, O Sábio",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "В него уверовал Лут (Лот), и Ибрахим (Авраам) сказал: «Я собираюсь совершить переселение ради своего Господа. Воистину, Он - Могущественный, Мудрый»",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "پس اُن پر (ایک) لوط ایمان لائے اور (ابراہیم) کہنے لگے کہ میں اپنے پروردگار کی طرف ہجرت کرنے والا ہوں۔ بیشک وہ غالب حکمت والا ہے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_029_027",
+      "reference": {
+        "surah_number": 29,
+        "surah_name": "Al-Ankaboot",
+        "surah_name_ar": "سُوْرَةُ الْعَنْكَبُوْتِ",
+        "surah_name_translation": "The Spider",
+        "ayah_number": 27,
+        "juz": 20,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 18,
+      "translations": {
+        "ar": {
+          "text": "وَوَهَبۡنَا لَهُۥٓ إِسۡحَٰقَ وَيَعۡقُوبَ وَجَعَلۡنَا فِي ذُرِّيَّتِهِ ٱلنُّبُوَّةَ وَٱلۡكِتَٰبَ وَءَاتَيۡنَٰهُ أَجۡرَهُۥ فِي ٱلدُّنۡيَاۖ وَإِنَّهُۥ فِي ٱلۡأٓخِرَةِ لَمِنَ ٱلصَّٰلِحِينَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "We blessed him with Isaac and ˹later˺ Jacob, and reserved prophethood and revelation for his descendants. We gave him his reward in this life, and in the Hereafter he will certainly be among the righteous",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "我赏赐他易斯哈格和叶尔孤白，我以预言和天经赏赐他的后裔，我把他在今世的报酬赏赐他，在后世必在善人之列。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "और हमने उसे इसहाक़ और याक़ूब प्रदान किए और उसकी संतति में नुबूवत (पैग़म्बरी) और किताब का सिलसिला जारी किया और हमने उसे संसार में भी उसका अच्छा प्रतिदान प्रदान किया। और निश्चय ही वह आख़िरत में अच्छे लोगों में से होगा",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Lo agracié con Isaac y Jacob, e hice surgir Profetas de su descendencia, a los cuales revelé Mis Libros. Le di [a Abraham] su recompensa en esta vida, y en la otra estará entre los justos",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Nous lui donnâmes Isaac et Jacob, et plaçâmes dans sa descendance la prophétie et le Livre. Nous lui accordâmes sa récompense ici-bas, tandis que dans l'au-delà, il sera parmi les gens de bien",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "আমি তাকে দান করলাম ইসহাক ও ইয়াকুব, তাঁর বংশধরদের মধ্যে নবুওয়ত ও কিতাব রাখলাম এবং দুনিয়াতে তাঁকে পুরস্কৃত করলাম। নিশ্চয় পরকালে ও সে সৎলোকদর অন্তর্ভূক্ত হবে।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E dadivamo-lo com Isaque e Jacó. E fizemos haver em sua descendência, a profecia e o Livro. E concedemo-lhe sua recompensa, na vida terrena. E, por certo, na Derradeira Vida, ele será dos íntegros",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Мы даровали ему Исхака (Исаака) и Йакуба (Иакова), а его потомству - пророчество и Писание. Мы даровали ему его награду в этом мире, а в Последней жизни он будет в числе праведников",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور ہم نے اُن کو اسحٰق اور یعقوب بخشے اور اُن کی اولاد میں پیغمبری اور کتاب (مقرر) کر دی اور ان کو دنیا میں بھی اُن کا صلہ عنایت کیا اور وہ آخرت میں بھی نیک لوگوں میں ہوں گے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_029_028",
+      "reference": {
+        "surah_number": 29,
+        "surah_name": "Al-Ankaboot",
+        "surah_name_ar": "سُوْرَةُ الْعَنْكَبُوْتِ",
+        "surah_name_translation": "The Spider",
+        "ayah_number": 28,
+        "juz": 20,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 14,
+      "translations": {
+        "ar": {
+          "text": "وَلُوطًا إِذۡ قَالَ لِقَوۡمِهِۦٓ إِنَّكُمۡ لَتَأۡتُونَ ٱلۡفَٰحِشَةَ مَا سَبَقَكُم بِهَا مِنۡ أَحَدࣲ مِّنَ ٱلۡعَٰلَمِينَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "And ˹remember˺ when Lot rebuked ˹the men of˺ his people: “You certainly commit a shameful deed that no man has ever done before you",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "（我曾派遣）鲁特，当日，他对他的宗族说：你们的确干丑事，在你们之前，全世界的人没有一个干过这种丑事的。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "और हमने लूत को भेजा, जबकि उसने अपनी क़ौम के लोगों से कहा, \"तुम जो वह अश्लील कर्म करते हो, जिसे तुमसे पहले सारे संसार में किसी ने नहीं किया",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "[Recuerda] cuando Lot dijo a su pueblo: \"Cometen una inmoralidad que no tiene precedente en el universo",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Et Lot, quand il dit à son peuple: «Vraiment, vous commettez la turpitude où nul dans l'univers ne vous a précédés",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "আর প্রেরণ করেছি লূতকে। যখন সে তার সম্প্রদায়কে বলল, তোমরা এমন অশ্লীল কাজ করছ, যা তোমাদের পূর্বে পৃথিবীর কেউ করেনি।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E Lot, quando disse a seu povo: \"Por certo, vós vos achegais à obscenidade, em que ninguém, nos mundos, se vos antecipou",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Вот Лут (Лот) сказал своему народу: «Воистину, вы совершаете мерзость, которую не совершал до вас никто из миров",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور لوط (کو یاد کرو) جب اُنہوں نے اپنی قوم سے کہا کہ تم (عجب) بےحیائی کے مرتکب ہوتے ہو۔ تم سے پہلے اہل عالم میں سے کسی نے ایسا کام نہیں کیا",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_029_029",
+      "reference": {
+        "surah_number": 29,
+        "surah_name": "Al-Ankaboot",
+        "surah_name_ar": "سُوْرَةُ الْعَنْكَبُوْتِ",
+        "surah_name_translation": "The Spider",
+        "ayah_number": 29,
+        "juz": 20,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 23,
+      "translations": {
+        "ar": {
+          "text": "أَئِنَّكُمۡ لَتَأۡتُونَ ٱلرِّجَالَ وَتَقۡطَعُونَ ٱلسَّبِيلَ وَتَأۡتُونَ فِي نَادِيكُمُ ٱلۡمُنكَرَۖ فَمَا كَانَ جَوَابَ قَوۡمِهِۦٓ إِلَّآ أَن قَالُواْ ٱئۡتِنَا بِعَذَابِ ٱللَّهِ إِن كُنتَ مِنَ ٱلصَّٰدِقِينَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Do you really lust after ˹other˺ men, abuse the travellers, and practice immorality ˹openly˺ in your gatherings?” His people’s only response was to say ˹mockingly˺: “Bring Allah’s punishment upon us, if what you say is true.”",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "你们务必要将男做女，拦路作恶，当众宣淫吗？他的宗族说：你把真主的刑罚昭示我们吧，如果你是诚实的人。这是他们唯一的答复。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "क्या तुम पुरुषों के पास जाते हो और बटमारी करते हो औऱ अपनी मजलिस में बुरा कर्म करते हो?\" फिर उसकी क़ौम के लोगों का उत्तर बस यही था कि उन्होंने कहा, \"ले आ हमपर अल्लाह की यातना, यदि तू सच्चा है।",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "¿Tienen relaciones homosexuales con hombres, asaltan a los viajeros y cometen toda clase de actos reprobables en sus reuniones?\" Pero la respuesta de su pueblo fue: \"Envíanos el castigo de Dios, si es que dices la verdad",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Aurez-vous commerce charnel avec des mâles? Pratiquerez-vous le brigandage? Commettrez-vous le blâmable dans votre assemblée?» Mais son peuple ne fit d'autre réponse que: «Fais que le châtiment d'Allah nous vienne, si tu es du nombre des véridiques»",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "তোমরা কি পুংমৈথুনে লিপ্ত আছ, রাহাজানি করছ এবং নিজেদের মজলিসে গর্হিত কর্ম করছ? জওয়াবে তাঁর সম্প্রদায় কেবল একথা বলল, আমাদের উপর আল্লাহর আযাব আন যদি তুমি সত্যবাদী হও।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Por certo, vós vos achegais aos homens, por lascívia, e cortais o caminho, e vos achegais ao reprovável, em vossas reuniões.\" Então, a resposta de seu povo não foi senão dizer: \"Faze-nos vir o castigo de Allah, se és dos verídicos",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Неужели вы вожделеете мужчин, перекрываете дороги и совершаете предосудительное на своих сборищах?». В ответ его народ лишь сказал: «Нашли на нас мучения от Аллаха, если ты - один из тех, кто говорит правду»",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "تم کیوں (لذت کے ارادے سے) لونڈوں کی طرف مائل ہوتے اور (مسافروں کی) رہزنی کرتے ہو اور اپنی مجلسوں میں ناپسندیدہ کام کرتے ہو۔ تو اُن کی قوم کے لوگ جواب میں بولے تو یہ بولے کہ اگر تم سچے ہو تو ہم پر عذاب لے آؤ",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_029_030",
+      "reference": {
+        "surah_number": 29,
+        "surah_name": "Al-Ankaboot",
+        "surah_name_ar": "سُوْرَةُ الْعَنْكَبُوْتِ",
+        "surah_name_translation": "The Spider",
+        "ayah_number": 30,
+        "juz": 20,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 6,
+      "translations": {
+        "ar": {
+          "text": "قَالَ رَبِّ ٱنصُرۡنِي عَلَى ٱلۡقَوۡمِ ٱلۡمُفۡسِدِينَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Lot prayed, “My Lord! Help me against the people of corruption.”",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "他说：我的主啊！求你助我，以对抗伤风败俗的人们。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "उसने कहास \"ऐ मेरे रब! बिगाड़ पैदा करनेवाले लोगों के मुक़ावले में मेरी सहायता कर।",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Dijo [Lot]: \"¡Señor mío! Sálvame de este pueblo corrupto",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Il dit: «Seigneur, donne-moi victoire sur ce peuple de corrupteurs!»",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "সে বলল, হে আমার পালনকর্তা, দুস্কৃতকারীদের বিরুদ্ধে আমাকে সাহায্য কর।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Ele disse: \"Senhor meu! Socorre-me contra o povo corruptor",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Он сказал: «Господи! Помоги мне одержать верх над людьми, распространяющими нечестие!»",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "لوط نے کہا کہ اے میرے پروردگار ان مفسد لوگوں کے مقابلے میں مجھے نصرت عنایت فرما",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_029_031",
+      "reference": {
+        "surah_number": 29,
+        "surah_name": "Al-Ankaboot",
+        "surah_name_ar": "سُوْرَةُ الْعَنْكَبُوْتِ",
+        "surah_name_translation": "The Spider",
+        "ayah_number": 31,
+        "juz": 20,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 15,
+      "translations": {
+        "ar": {
+          "text": "وَلَمَّا جَآءَتۡ رُسُلُنَآ إِبۡرَٰهِيمَ بِٱلۡبُشۡرَىٰ قَالُوٓاْ إِنَّا مُهۡلِكُوٓاْ أَهۡلِ هَٰذِهِ ٱلۡقَرۡيَةِۖ إِنَّ أَهۡلَهَا كَانُواْ ظَٰلِمِينَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "When Our messenger-angels came to Abraham with the good news ˹of the birth of Isaac˺, they said, “We are going to destroy the people of this city ˹of Sodom˺, for its people have persisted in wrongdoing.”",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "当我的使者带着佳音来访易卜拉欣的时候，他们说：我们必定毁灭这个城市的居民。这个城市的居民，确是不义的。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "हमारे भेजे हुए जब इबराहीम के पास शुभ सूचना लेकर आए तो उन्होंने कहा, \"हम इस बस्ती के लोगों को विनष्ट करनेवाले है। निस्संदेह इस बस्ती के लोग ज़ालिम है।",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Cuando Mis [ángeles] emisarios se presentaron ante Abraham para albriciarle [el nacimiento de su hijo], dijeron: \"Destruiremos a la población de esa ciudad, porque su gente comete injusticias",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Et quand Nos Anges apportèrent à Abraham la bonne annonce, ils dirent: «Nous allons anéantir les habitants de cette cité car ses habitants sont injustes»",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "যখন আমার প্রেরিত ফেরেশতাগণ সুসংবাদ নিয়ে ইব্রাহীমের কাছে আগমন করল, তখন তারা বলল, আমরা এই জনপদের অধিবাসীদেরকে ধ্বংস করব। নিশ্চয় এর অধিবাসীরা জালেম।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E, quando Nossos Mensageiros chegaram a Abraão, com alvíssaras, disseram: \"Por certo, aniquilaremos os habitantes desta cidade. Por certo, seus habitantes são injustos",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Когда Наши посланцы прибыли к Ибрахиму (Аврааму) с радостной вестью, они сказали: «Мы собираемся погубить жителей этого селения. Воистину, его жители являются беззаконниками»",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور جب ہمارے فرشتے ابراہیم کے پاس خوشی کی خبر لے کر آئے تو کہنے لگے کہ ہم اس بستی کے لوگوں کو ہلاک کر دینے والے ہیں کہ یہاں کے رہنے والے نافرمان ہیں",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_029_032",
+      "reference": {
+        "surah_number": 29,
+        "surah_name": "Al-Ankaboot",
+        "surah_name_ar": "سُوْرَةُ الْعَنْكَبُوْتِ",
+        "surah_name_translation": "The Spider",
+        "ayah_number": 32,
+        "juz": 20,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 17,
+      "translations": {
+        "ar": {
+          "text": "قَالَ إِنَّ فِيهَا لُوطࣰ اۚ قَالُواْ نَحۡنُ أَعۡلَمُ بِمَن فِيهَاۖ لَنُنَجِّيَنَّهُۥ وَأَهۡلَهُۥٓ إِلَّا ٱمۡرَأَتَهُۥ كَانَتۡ مِنَ ٱلۡغَٰبِرِينَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "He said, “But Lot is there!” They responded, “We know best who is there. We will certainly save him and his family—except his wife, who is one of the doomed.”",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "他说：鲁特的确在这个城市里。他们说：我们知道在这个城市里的人，我们必定要拯救他和他的信徒，他的妻子除外，她是和其余的人同受刑罚的。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "उसने कहाँ, \"वहाँ तो लूत मौजूद है।\" वे बोले, \"जो कोई भी वहाँ है, हम भली-भाँति जानते है। हम उसको और उसके घरवालों को बचा लेंगे, सिवाय उसकी स्त्री के। वह पीछे रह जानेवालों में से है।",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Dijo [Abraham]: \"Pero Lot está allí\". Respondieron [los ángeles]: \"Nosotros conocemos mejor [que tú] quién está en ella. Lo salvaremos a él y a su familia, excepto a su mujer, que se contará entre los condenados",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Il dit: «Mais Lot s'y trouve!» Ils dirent: «Nous savons parfaitement qui y habite: nous le sauverons certainement, lui et sa famille, excepté sa femme qui sera parmi ceux qui périront»",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "সে বলল, এই জনপদে তো লূতও রয়েছে। তারা বলল, সেখানে কে আছে, তা আমরা ভাল জানি। আমরা অবশ্যই তাকে ও তাঁর পরিবারবর্গকে রক্ষা করব তাঁর স্ত্রী ব্যতীত; সে ধ্বংসপ্রাপ্তদের অন্তর্ভূক্ত থাকবে।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Ele disse: \"Mas, Lot está nela.\" Disseram: \"Somos bem sabedores de quem está nela. Em verdade, salvá-lo-emos e a sua família, exceto sua mulher. Ela será dos que ficarão para trás",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Он сказал: «Но ведь там Лут (Лот)!». Они сказали: «Нам лучше знать, кто там! Мы непременно спасем его и его семью, кроме его жены, которая будет в числе оставшихся позади»",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "ابراہیم نے کہا کہ اس میں تو لوط بھی ہیں۔ وہ کہنے لگے کہ جو لوگ یہاں (رہتے) ہیں ہمیں سب معلوم ہیں۔ ہم اُن کو اور اُن کے گھر والوں کو بچالیں گے بجز اُن کی بیوی کے وہ پیچھے رہنے والوں میں ہوگی",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_029_033",
+      "reference": {
+        "surah_number": 29,
+        "surah_name": "Al-Ankaboot",
+        "surah_name_ar": "سُوْرَةُ الْعَنْكَبُوْتِ",
+        "surah_name_translation": "The Spider",
+        "ayah_number": 33,
+        "juz": 20,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 25,
+      "translations": {
+        "ar": {
+          "text": "وَلَمَّآ أَن جَآءَتۡ رُسُلُنَا لُوطࣰ ا سِيٓءَ بِهِمۡ وَضَاقَ بِهِمۡ ذَرۡعࣰ اۖ وَقَالُواْ لَا تَخَفۡ وَلَا تَحۡزَنۡ إِنَّا مُنَجُّوكَ وَأَهۡلَكَ إِلَّا ٱمۡرَأَتَكَ كَانَتۡ مِنَ ٱلۡغَٰبِرِينَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "And when Our messenger-angels came to Lot, he was distressed and worried by their arrival. They reassured ˹him˺, “Do not fear, nor grieve. We will surely deliver you and your family—except your wife, who is one of the doomed",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "当我的使者来访鲁特的时候，他为他们而忧愁，他无法保护他们。他们说：你不要害怕，不要忧愁，我们必定拯救你和你的信徒，你的妻子除外，她是和其余的人同受刑罚的。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "जब यह हुआ कि हमारे भेजे हुए लूत के पास आए तो उनका आना उसे नागवार हुआ और उनके प्रति दिल को तंग पाया। किन्तु उन्होंने कहा, \"डरो मत और न शोकाकुल हो। हम तुम्हें और तुम्हारे घरवालों को बचा लेंगे सिवाय तुम्हारी स्त्री के। वह पीछे रह जानेवालों में से है",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Cuando Mis emisarios se presentaron ante Lot, este [pensando que eran viajeros] se intranquilizó [por lo que su pueblo pudiera hacerles] y se apenó, pero ellos le dijeron: \"No temas ni te apenes; te salvaremos a ti y a tu familia, excepto a tu mujer, que se contará entre los condenados",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Et quand Nos Anges vinrent à Lot, il fut affligé pour eux, et se sentit incapable de les protéger. Ils lui dirent: «Ne crains rien et ne t'afflige pas... Nous te sauverons ainsi que ta famille, excepté ta femme qui sera parmi ceux qui périront",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "যখন আমার প্রেরিত ফেরেশতাগণ লূতের কাছে আগমন করল, তখন তাদের কারণে সে বিষন্ন হয়ে পড়ল এবং তার মন সংকীর্ণ হয়ে গেল। তারা বলল, ভয় করবেন না এবং দুঃখ করবেন না। আমরা আপনাকে ও আপনার পরিবারবর্গকে রক্ষা করবই আপনার স্ত্রী ব্যতীত, সে ধ্বংস প্রাপ্তদের অন্তর্ভূক্ত থাকবে।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E, quando Nossos Mensageiros chegaram a Lot, ele afligiu-se com eles e sentiu-se impotente para defendê-los. E eles disseram: \"Não temas, e não te entristeças. Por certo, salvar-te-emos e a tua família, exceto tua mulher: ela será dos que ficarão para trás",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Когда Наши посланцы прибыли к Луту (Лоту), он огорчился и почувствовал свое бессилие. Тогда они сказали: «Не бойся и не печалься! Мы спасем тебя и твою семью, кроме твоей жены, которая будет в числе оставшихся позади",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور جب ہمارے فرشتے لوط کے پاس آئے تو وہ اُن (کی وجہ) سے ناخوش اور تنگ دل ہوئے۔ فرشتوں نے کہا کچھ خوف نہ کیجئے۔ اور نہ رنج کیجئے ہم آپ کو اور آپ کے گھر والوں کو بچالیں گے مگر آپ کی بیوی کہ پیچھے رہنے والوں میں ہوگی",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_029_034",
+      "reference": {
+        "surah_number": 29,
+        "surah_name": "Al-Ankaboot",
+        "surah_name_ar": "سُوْرَةُ الْعَنْكَبُوْتِ",
+        "surah_name_translation": "The Spider",
+        "ayah_number": 34,
+        "juz": 20,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 13,
+      "translations": {
+        "ar": {
+          "text": "إِنَّا مُنزِلُونَ عَلَىٰٓ أَهۡلِ هَٰذِهِ ٱلۡقَرۡيَةِ رِجۡزࣰ ا مِّنَ ٱلسَّمَآءِ بِمَا كَانُواْ يَفۡسُقُونَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "We are certainly bringing down a punishment from heaven upon the people of this city for their rebelliousness.”",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "我必使天灾从天空降于这个城市的居民，那是由于他们的放荡。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "निश्चय ही हम इस बस्ती के लोगों पर आकाश से एक यातना उतारनेवाले है, इस कारण कि वे बन्दगी की सीमा से निकलते रहे है।",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Haremos descender sobre la población de esta ciudad un castigo del cielo por haberse pervertido",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Nous ferons tomber du ciel un châtiment sur les habitants de cette cité, pour leur perversité»",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "আমরা এই জনপদের অধিবাসীদের উপর আকাশ থেকে আযাব নাজিল করব তাদের পাপাচারের কারণে।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Por certo, faremos descer, sobre os habitantes desta cidade, um tormento do céu, pela perversidade que cometiam",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Мы низвергнем на жителей этого селения наказание с небес за то, что они грешили»",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "ہم اس بستی کے رہنے والوں پر اس سبب سے کہ یہ بدکرداری کرتے رہے ہیں آسمان سے عذاب نازل کرنے والے ہیں",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_029_035",
+      "reference": {
+        "surah_number": 29,
+        "surah_name": "Al-Ankaboot",
+        "surah_name_ar": "سُوْرَةُ الْعَنْكَبُوْتِ",
+        "surah_name_translation": "The Spider",
+        "ayah_number": 35,
+        "juz": 20,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 7,
+      "translations": {
+        "ar": {
+          "text": "وَلَقَد تَّرَكۡنَا مِنۡهَآ ءَايَةَۢ بَيِّنَةࣰ لِّقَوۡمࣲ يَعۡقِلُونَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "And We did leave ˹some of˺ its ruins as a clear lesson for people of understanding",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "我确已为能了解的民众而将这个城市的遗址留着做一个明显的迹象。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "और हमने उस बस्ती से प्राप्त होनेवाली एक खुली निशानी उन लोगों के लिए छोड़ दी है, जो बुद्धि से काम लेना चाहे",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Dejé [vestigios] de ella como un signo claro, para que reflexionaran",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Et certainement, Nous avons laissé (des ruines de cette cité) un signe (d'avertissement) évident pour des gens qui comprennent",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "আমি বুদ্ধিমান লোকদের জন্যে এতে একটি স্পষ্ট নিদর্শন রেখে দিয়েছি।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E, com efeito, dela deixamos evidente sinal, para um povo que razoa",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Мы оставили от него (селения народа Лута) ясное знамение для людей разумеющих",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور ہم نے سمجھنے والے لوگوں کے لئے اس بستی سے ایک کھلی نشانی چھوڑ دی",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_029_036",
+      "reference": {
+        "surah_number": 29,
+        "surah_name": "Al-Ankaboot",
+        "surah_name_ar": "سُوْرَةُ الْعَنْكَبُوْتِ",
+        "surah_name_translation": "The Spider",
+        "ayah_number": 36,
+        "juz": 20,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 17,
+      "translations": {
+        "ar": {
+          "text": "وَإِلَىٰ مَدۡيَنَ أَخَاهُمۡ شُعَيۡبࣰ ا فَقَالَ يَٰقَوۡمِ ٱعۡبُدُواْ ٱللَّهَ وَٱرۡجُواْ ٱلۡيَوۡمَ ٱلۡأٓخِرَ وَلَا تَعۡثَوۡاْ فِي ٱلۡأَرۡضِ مُفۡسِدِينَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "And to the people of Midian ˹We sent˺ their brother Shu’aib. He said, “O my people! Worship Allah, and hope for ˹the reward of˺ the Last Day. And do not go about spreading corruption in the land.”",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "（我曾派遣）舒阿卜去教化麦德彦人，他就说：我的宗族啊！你们应当崇拜真主，应当畏惧末日，不要在地方上为非做歹，摆弄是非。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "और मदयन की ओर उनके भाई शुऐब को भेजा। उसने कहा, \"ऐ मेरी क़ौम के लोगो, अल्लाह की बन्दगी करो। और अंतिम दिन की आशा रखो और धरती में बिगाड़ फैलाते मत फिरो।",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "[Recuerda que] a Madián [le envié] a su hermano Jetró [como Profeta], quien les dijo: \"¡Oh, pueblo mío! Adoren solo a Dios y tengan esperanza en el Día del Juicio final, y no obren mal en la Tierra, sembrando corrupción",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "De même, aux Madyan (Nous envoyâmes) leur frère Chuayb qui leur dit: «O mon peuple, adorez Allah et attendez-vous au Jour dernier, et ne semez pas la corruption sur terre»",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "আমি মাদইয়ানবাসীদের প্রতি তাদের ভাই শোআয়বকে প্রেরণ করেছি। সে বলল, হে আমার সম্প্রদায় তোমরা আল্লাহর এবাদত কর, শেষ দিবসের আশা রাখ এবং পৃথিবীতে অনর্থ সৃষ্টি করো না।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E enviamos ao povo de Madian seu irmão Chuaib; então ele disse: \"Ó meu povo! Adorai a Allah e esperai pelo Derradeiro Dia, e não semeeis a maldade na terra como corruptores",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Мы отправили к мадьянитам их брата Шуейба, и он сказал: «О мой народ! Поклоняйтесь Аллаху, надейтесь на Последний день и не творите на земле зла, распространяя нечестие»",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور مدین کی طرف اُن کے بھائی شعیب کو (بھیجا) تو اُنہوں نے کہا (اے قوم) خدا کی عبادت کرو اور پچھلے دن کے آنے کی اُمید رکھو اور ملک میں فساد نہ مچاؤ",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_029_037",
+      "reference": {
+        "surah_number": 29,
+        "surah_name": "Al-Ankaboot",
+        "surah_name_ar": "سُوْرَةُ الْعَنْكَبُوْتِ",
+        "surah_name_translation": "The Spider",
+        "ayah_number": 37,
+        "juz": 20,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 7,
+      "translations": {
+        "ar": {
+          "text": "فَكَذَّبُوهُ فَأَخَذَتۡهُمُ ٱلرَّجۡفَةُ فَأَصۡبَحُواْ فِي دَارِهِمۡ جَٰثِمِينَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "But they rejected him, so an ˹overwhelming˺ earthquake struck them and they fell lifeless in their homes",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "但他们否认他，地震就袭击了他们。顷刻之间，他们都僵卧在各人的家中。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "किन्तु उन्होंने उसे झुठला दिया। अन्ततः भूकम्प ने उन्हें आ लिया। और वे अपने घरों में औंधे पड़े रह गए",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Pero lo desmintieron y fueron sorprendidos por un sismo estrepitoso, y amanecieron caídos de bruces [muertos] en sus propias casas",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Mais ils le traitèrent de menteur. Le cataclysme les saisit, et au matin, ils gisaient sans vie dans leurs demeures",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "কিন্তু তারা তাঁকে মিথ্যাবাদী বলল; অতঃপর তারা ভূমিকম্প দ্বারা আক্রান্ত হল এবং নিজেদের গৃহে উপুড় হয়ে পড়ে রইল।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E eles desmentiram-no; então, o terremoto apanhou-os, e amanheceram, em seus lares, inertes, sem vida",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Они сочли его лжецом, и тогда их постигло землетрясение, и они оказались повергнуты ниц в своих домах",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "مگر اُنہوں نے اُن کو جھوٹا سمجھا سو اُن کو زلزلے (کے عذاب) نے آپکڑا اور وہ اپنے گھروں میں اوندھے پڑے رہ گئے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_029_038",
+      "reference": {
+        "surah_number": 29,
+        "surah_name": "Al-Ankaboot",
+        "surah_name_ar": "سُوْرَةُ الْعَنْكَبُوْتِ",
+        "surah_name_translation": "The Spider",
+        "ayah_number": 38,
+        "juz": 20,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 17,
+      "translations": {
+        "ar": {
+          "text": "وَعَادࣰ ا وَثَمُودَاْ وَقَد تَّبَيَّنَ لَكُم مِّن مَّسَٰكِنِهِمۡۖ وَزَيَّنَ لَهُمُ ٱلشَّيۡطَٰنُ أَعۡمَٰلَهُمۡ فَصَدَّهُمۡ عَنِ ٱلسَّبِيلِ وَكَانُواْ مُسۡتَبۡصِرِينَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "And the people of ’Ȃd and Thamûd ˹met a similar fate˺, which must be clear to you ˹Meccans˺ from their ruins. Satan made their ˹evil˺ deeds appealing to them, hindering them from the ˹Right˺ Way, although they were capable of reasoning",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "（我曾毁灭）阿德人和赛莫德人，你们从他们居住的地方，确已明白他们被毁灭的情形。恶魔以他们的行为，迷惑他们而阻碍他们遵循正道，他们原来是能思维的。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "और आद और समूद को भी हमने विनष्ट किया। और उनके घरों और बस्तियों के अवशेषों से तुमपर स्पष्ट हो चुका है। शैतान ने उनके कर्मों को उनके लिए सुहाना बना दिया और उन्हें संमार्ग से रोक दिया। यद्यपि वे बड़े तीक्ष्ण स्पष्ट वाले थे",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "[Recuerda que] al pueblo de ‘Ad y Zamud [también los aniquilé], como pueden ver claramente en [lo que queda de] sus casas. El demonio les hizo ver como buenas sus malas obras, y los apartó del sendero [recto], a pesar de que eran gente con percepción",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "De même (Nous anéantîmes) les 'Aad et les Thamûd. - Vous le voyez clairement à travers leurs habitations - Le Diable, cependant, leur avait embelli leurs actions, au point de les repousser loin du Sentier; ils étaient pourtant invités à être clairvoyants",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "আমি আ’দ ও সামুদকে ধ্বংস করে দিয়েছি। তাদের বাড়ী-ঘর থেকেই তাদের অবস্থা তোমাদের জানা হয়ে গেছে। শয়তান তাদের কর্মকে তাদের দৃষ্টিতে সুশোভিত করেছিল, অতঃপর তাদেরকে সৎপথ অবলম্বনে বাধা দিয়েছিল এবং তারা ছিল হুশিয়ার।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E aniquilamos o povo de Ãd e Thamud, e isso se tornou evidente para vós, pelas ruínas de suas vivendas. E Satã aformoseara-Ihes as obras, e afastara-os do caminho certo, enquanto eram clarividentes",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "А также адиты и самудяне! Вам это ясно по их жилищам. Дьявол представил им их деяния прекрасными и сбил их с пути, хотя они были проницательны",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور عاد اور ثمود کو بھی (ہم نے ہلاک کر دیا) چنانچہ اُن کے (ویران گھر) تمہاری آنکھوں کے سامنے ہیں اور شیطان نے اُن کے اعمال ان کو آراستہ کر دکھائے اور ان کو (سیدھے) رستے سے روک دیا۔ حالانکہ وہ دیکھنے والے (لوگ) تھے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_029_039",
+      "reference": {
+        "surah_number": 29,
+        "surah_name": "Al-Ankaboot",
+        "surah_name_ar": "سُوْرَةُ الْعَنْكَبُوْتِ",
+        "surah_name_translation": "The Spider",
+        "ayah_number": 39,
+        "juz": 20,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 13,
+      "translations": {
+        "ar": {
+          "text": "وَقَٰرُونَ وَفِرۡعَوۡنَ وَهَٰمَٰنَۖ وَلَقَدۡ جَآءَهُم مُّوسَىٰ بِٱلۡبَيِّنَٰتِ فَٱسۡتَكۡبَرُواْ فِي ٱلۡأَرۡضِ وَمَا كَانُواْ سَٰبِقِينَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "˹We˺ also ˹destroyed˺ Korah, Pharaoh, and Hamân. Indeed, Moses had come to them with clear proofs, but they behaved arrogantly in the land. Yet they could not escape ˹Us˺",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "（我曾毁灭）戈伦、法老和哈曼。穆萨曾昭示他们许多明证，但他们在地方上自大，他们未能逃避天谴。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "और क़ारून और फ़िरऔन और हामान को हमने विनष्ट किया। मूसा उनके पास खुली निशानियाँ लेकर आया। किन्तु उन्होंने धरती में घमंड किया, हालाँकि वे हमसे निकल जानेवाले न थे",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "[Recuerda] a Qarún, al Faraón y a Hamán. Moisés se presentó ante ellos con las evidencias, pero actuaron con arrogancia en la tierra [de Egipto y se negaron a creer]. Sin embargo, no pudieron escapar de Mi [castigo]",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "De même (Nous détruisîmes) Coré, Pharaon et Hâmân. Alors que Moïse leur apporta des preuves, ils s'enorgueillirent sur terre. Et ils n'ont pas pu [Nous] échapper",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "আমি কারুন, ফেরাউন ও হামানকে ধ্বংস করেছি। মূসা তাদের কাছে সুস্পষ্ট নিদর্শনাবলী নিয়ে আগমন করেছিল অতঃপর তারা দেশে দম্ভ করেছিল। কিন্তু তারা জিতে যায়নি।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E aniquilamos Qarun e Faraó e Haman. E, com efeito, Moisés chegou-lhes com as evidências; e eles ensoberbeceram-se na terra, e não puderam esquivar-se de Nosso castigo",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "А также Карун (Корей), Фараон и Хаман! Муса (Моисей) явился к ним с ясными знамениями, но они превознеслись на земле и не смогли опередить наказание",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور قارون اور فرعون اور ہامان کو بھی (ہلاک کر دیا) اور اُن کے پاس موسٰی کھلی نشانی لےکر آئے تو وہ ملک میں مغرور ہوگئے اور ہمارے قابو سے نکل جانے والے نہ تھے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_029_040",
+      "reference": {
+        "surah_number": 29,
+        "surah_name": "Al-Ankaboot",
+        "surah_name_ar": "سُوْرَةُ الْعَنْكَبُوْتِ",
+        "surah_name_translation": "The Spider",
+        "ayah_number": 40,
+        "juz": 20,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 29,
+      "translations": {
+        "ar": {
+          "text": "فَكُلًّا أَخَذۡنَا بِذَنۢبِهِۦۖ فَمِنۡهُم مَّنۡ أَرۡسَلۡنَا عَلَيۡهِ حَاصِبࣰ ا وَمِنۡهُم مَّنۡ أَخَذَتۡهُ ٱلصَّيۡحَةُ وَمِنۡهُم مَّنۡ خَسَفۡنَا بِهِ ٱلۡأَرۡضَ وَمِنۡهُم مَّنۡ أَغۡرَقۡنَاۚ وَمَا كَانَ ٱللَّهُ لِيَظۡلِمَهُمۡ وَلَٰكِن كَانُوٓاْ أَنفُسَهُمۡ يَظۡلِمُونَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "So We seized each ˹people˺ for their sin: against some of them We sent a storm of stones, some were overtaken by a ˹mighty˺ blast, some We caused the earth to swallow, and some We drowned. Allah would not have wronged them, but it was they who wronged themselves",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "每一个人，我都因他的罪过而加以惩罚，他们中有我曾使飞沙走石的暴风去伤害的，有为恐怖所袭击的，有我使他沦陷在地面下的，有被我溺杀的，真主不致亏枉他们，但他们亏枉了自己。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "अन्ततः हमने हरेक को उसके अपने गुनाह के कारण पकड़ लिया। फिर उनमें से कुछ पर तो हमने पथराव करनेवाली वायु भेजी और उनमें से कुछ को एक प्रचंड चीत्कार न आ लिया। और उनमें से कुछ को हमने धरती में धँसा दिया। और उनमें से कुछ को हमने डूबो दिया। अल्लाह तो ऐसा न था कि उनपर ज़ुल्म करता, किन्तु वे स्वयं अपने आपपर ज़ुल्म कर रहे थे",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "A cada uno [de ellos] los aniquilé según sus pecados. A unos les envié un viento huracanado, a otros los sorprendió un estrépito, a otros hice que se los tragara la tierra, y a otros hice que se ahogaran. Dios no fue injusto con ellos, sino que ellos lo fueron consigo mismos",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Nous saisîmes donc chacun pour son péché: Il y en eut sur qui Nous envoyâmes un ouragan; il y en eut que le Cri saisit; il y en eut que Nous fîmes engloutir par la terre; et il y en eut que Nous noyâmes. Cependant, Allah n'est pas tel à leur faire du tort; mais ils ont fait du tort à eux-mêmes",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "আমি প্রত্যেককেই তার অপরাধের কারণে পাকড়াও করেছি। তাদের কারও প্রতি প্রেরণ করেছি প্রস্তরসহ প্রচন্ড বাতাস, কাউকে পেয়েছে বজ্রপাত, কাউকে আমি বিলীন করেছি ভূগর্ভে এবং কাউকে করেছি নিমজ্জত। আল্লাহ তাদের প্রতি যুলুম করার ছিলেন না; কিন্তু তারা নিজেরাই নিজেদের প্রতি যুলুম করেছে।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Então, a cada um deles, apanhamos, por seu delito. E, dentre eles, houve aquele contra quem enviamos um vento lastrado de seixos. E, dentre eles, houve aquele a quem o Grito apanhou. E, dentre eles, houve aquele a quem fizemos a terra engolir. E, dentre eles, houve aquele a quem afogamos. E não é admissível que Allah fosse injusto com eles; mas eles foram injustos com si mesmos",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Каждого Мы схватили за его грех. На некоторых из них Мы наслали ураган с камнями, некоторых из низ поразил чудовищный вопль, некоторых из них по Нашему велению поглотила земля, а некоторых из них Мы потопили. Аллах не был несправедлив к ним - они сами поступали несправедливо по отношению к себе",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "تو ہم نے سب کو اُن کے گناہوں کے سبب پکڑ لیا۔ سو ان میں کچھ تو ایسے تھے جن پر ہم نے پتھروں کا مینھہ برسایا۔ اور کچھ ایسے تھے جن کو چنگھاڑ نے آپکڑا اور کچھ ایسے تھے جن کو ہم نے زمین میں دھنسا دیا۔ اور کچھ ایسے تھے جن کو غرق کر دیا اور خدا ایسا نہ تھا کہ اُن پر ظلم کرتا لیکن وہی اپنے آپ پر ظلم کرتے تھے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_029_041",
+      "reference": {
+        "surah_number": 29,
+        "surah_name": "Al-Ankaboot",
+        "surah_name_ar": "سُوْرَةُ الْعَنْكَبُوْتِ",
+        "surah_name_translation": "The Spider",
+        "ayah_number": 41,
+        "juz": 20,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 20,
+      "translations": {
+        "ar": {
+          "text": "مَثَلُ ٱلَّذِينَ ٱتَّخَذُواْ مِن دُونِ ٱللَّهِ أَوۡلِيَآءَ كَمَثَلِ ٱلۡعَنكَبُوتِ ٱتَّخَذَتۡ بَيۡتࣰ اۖ وَإِنَّ أَوۡهَنَ ٱلۡبُيُوتِ لَبَيۡتُ ٱلۡعَنكَبُوتِۚ لَوۡ كَانُواْ يَعۡلَمُونَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "The parable of those who take protectors other than Allah is that of a spider spinning a shelter. And the flimsiest of all shelters is certainly that of a spider, if only they knew",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "有些人，舍真主而别求监护者，他们譬如蜘蛛造屋，最脆弱的房屋，确是蜘蛛的房屋。假若他们认识这个道理，（就不会崇拜偶像了）。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "जिन लोगों ने अल्लाह से हटकर अपने दूसरे संरक्षक बना लिए है उनकी मिसाल मकड़ी जैसी है, जिसने अपना एक घर बनाया, और यह सच है कि सब घरों से कमज़ोर घर मकड़ी का घर ही होता है। क्या ही अच्छा होता कि वे जानते",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Quienes tomaron en lugar de Dios otros protectores, son como la araña que teje su propio refugio, siendo que el refugio más frágil es la telaraña. ¡Si supieran",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Ceux qui ont pris des protecteurs en dehors d'Allah ressemblent à l'araignée qui s'est donnée maison. Or la maison la plus fragile est celle de l'araignée. Si seulement ils savaient",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "যারা আল্লাহর পরিবর্তে অপরকে সাহায্যকারীরূপে গ্রহণ করে তাদের উদাহরণ মাকড়সা। সে ঘর বানায়। আর সব ঘরের মধ্যে মাকড়সার ঘরই তো অধিক দুর্বল, যদি তারা জানত।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "O exemplo dos que tomam protetores em vez de Allah, é como o da aranha, que construiu uma casa para proteger-se. E, por certo, a mais frágil das casas é a casa da aranha. Se soubessem",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Те, которые взяли себе покровителей и помощников помимо Аллаха, подобны пауку, соткавшему себе жилище. Воистину, самое непрочное жилище - это жилище паука. Если бы они только знали",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "جن لوگوں نے خدا کے سوا (اوروں کو) کارساز بنا رکھا ہے اُن کی مثال مکڑی کی سی ہے کہ وہ بھی ایک (طرح کا) گھر بناتی ہے۔ اور کچھ شک نہیں کہ تمام گھروں سے کمزور مکڑی کا گھر ہے کاش یہ (اس بات کو) جانتے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_029_042",
+      "reference": {
+        "surah_number": 29,
+        "surah_name": "Al-Ankaboot",
+        "surah_name_ar": "سُوْرَةُ الْعَنْكَبُوْتِ",
+        "surah_name_translation": "The Spider",
+        "ayah_number": 42,
+        "juz": 20,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 12,
+      "translations": {
+        "ar": {
+          "text": "إِنَّ ٱللَّهَ يَعۡلَمُ مَا يَدۡعُونَ مِن دُونِهِۦ مِن شَيۡءࣲۚ وَهُوَ ٱلۡعَزِيزُ ٱلۡحَكِيمُ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Allah surely knows that whatever ˹gods˺ they invoke besides Him are ˹simply˺ nothing. For He is the Almighty, All-Wise",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "真主的确知道他们舍他而祈祷的任何物，他是万能的，是至睿的。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "निस्संदेह अल्लाह उन चीज़ों को भली-भाँति जानता है, जिन्हें ये उससे हटकर पुकारते है। वह तो अत्यन्त प्रभुत्वशाली, तत्वदर्शी है",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Dios conoce lo que ellos invocan en lugar de Él, porque Él es el Poderoso, el Sabio",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Allah connaît toute chose qu'ils invoquent en dehors de Lui. Et c'est Lui le Tout Puissant, le Sage",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "তারা আল্লাহর পরিবর্তে যা কিছুকে ডাকে, আল্লাহ তা জানেন। তিনি শক্তিশালী, প্রজ্ঞাময়।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Por certo, Allah sabe todas as cousas que eles invocam em vez dEle. E Ele é O Todo-Poderoso, O Sábio",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Воистину, Аллах знает всех тех, кому они поклоняются помимо Него (или знает, что те, кому они поклоняются помимо Него, являются ничем). Он - Могущественный, Мудрый",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "یہ جس چیز کو خدا کے سوا پکارتے ہیں (خواہ) وہ کچھ ہی ہو خدا اُسے جانتا ہے۔ اور وہ غالب اور حکمت والا ہے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_029_043",
+      "reference": {
+        "surah_number": 29,
+        "surah_name": "Al-Ankaboot",
+        "surah_name_ar": "سُوْرَةُ الْعَنْكَبُوْتِ",
+        "surah_name_translation": "The Spider",
+        "ayah_number": 43,
+        "juz": 20,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 8,
+      "translations": {
+        "ar": {
+          "text": "وَتِلۡكَ ٱلۡأَمۡثَٰلُ نَضۡرِبُهَا لِلنَّاسِۖ وَمَا يَعۡقِلُهَآ إِلَّا ٱلۡعَٰلِمُونَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "These are the parables We set forth for humanity, but none will understand them except the people of knowledge",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "这些譬喻，是我为众人而设的，只有学者能了解它。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "ये मिसालें हम लोगों के लिए पेश करते है, परन्तु इनको ज्ञानवान ही समझते है",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Estos son ejemplos que doy a la gente, pero solo los comprenden quienes reflexionan",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Telles sont les paraboles que Nous citons aux gens; cependant, seuls les savants les comprennent",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "এ সকল উদাহরণ আমি মানুষের জন্যে দেই; কিন্তু জ্ঞানীরাই তা বোঝে।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E esses exemplos, Propomo-los, para os homens; e não os entendem senão os sabedores",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Такие притчи Мы приводим людям, но разумеют их только обладающие знанием",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور یہ مثالیں ہم لوگوں کے (سمجھانے کے) لئے بیان کرتے ہیں اور اُسے تو اہلِ دانش ہی سمجھتے ہیں",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_029_044",
+      "reference": {
+        "surah_number": 29,
+        "surah_name": "Al-Ankaboot",
+        "surah_name_ar": "سُوْرَةُ الْعَنْكَبُوْتِ",
+        "surah_name_translation": "The Spider",
+        "ayah_number": 44,
+        "juz": 20,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 10,
+      "translations": {
+        "ar": {
+          "text": "خَلَقَ ٱللَّهُ ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضَ بِٱلۡحَقِّۚ إِنَّ فِي ذَٰلِكَ لَأٓيَةࣰ لِّلۡمُؤۡمِنِينَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Allah created the heavens and the earth for a purpose. Surely in this is a sign for the people of faith",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "真主本真理而创造天地，对于信道的人，此中确有一种迹象。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "अल्लाह ने आकाशों और धरती को सत्य के साथ पैदा किया। निश्चय ही इसमें ईमानवालों के लिए एक बड़ी निशानी है",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Dios creó los cielos y la Tierra con un fin justo y verdadero. En ello hay un signo para los creyentes",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "C'est pour une juste raison qu'Allah a créé les cieux et la terre. Voilà bien là une preuve pour les croyants",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "আল্লাহ যথার্থরূপে নভোমন্ডল ও ভূমন্ডল সৃষ্টি করেছেন। এতে নিদর্শন রয়েছে ঈমানদার সম্প্রদায়ের জন্যে।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Allah criou os céus e a terra, com a verdade. Por certo, há nisso um sinal para os crentes",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Аллах создал небеса и землю ради истины. Воистину, в этом - знамение для верующих",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "خدا نے آسمانوں اور زمین کو حکمت کے ساتھ پیدا کیا ہے۔ کچھ شک نہیں کہ ایمان والوں کے لئے اس میں نشانی ہے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_029_045",
+      "reference": {
+        "surah_number": 29,
+        "surah_name": "Al-Ankaboot",
+        "surah_name_ar": "سُوْرَةُ الْعَنْكَبُوْتِ",
+        "surah_name_translation": "The Spider",
+        "ayah_number": 45,
+        "juz": 20,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 21,
+      "translations": {
+        "ar": {
+          "text": "ٱتۡلُ مَآ أُوحِيَ إِلَيۡكَ مِنَ ٱلۡكِتَٰبِ وَأَقِمِ ٱلصَّلَوٰةَۖ إِنَّ ٱلصَّلَوٰةَ تَنۡهَىٰ عَنِ ٱلۡفَحۡشَآءِ وَٱلۡمُنكَرِۗ وَلَذِكۡرُ ٱللَّهِ أَكۡبَرُۗ وَٱللَّهُ يَعۡلَمُ مَا تَصۡنَعُونَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Recite what has been revealed to you of the Book and establish prayer. Indeed, ˹genuine˺ prayer should deter ˹one˺ from indecency and wickedness. The remembrance of Allah is ˹an˺ even greater ˹deterrent˺. And Allah ˹fully˺ knows what you ˹all˺ do",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "你应当宣读启示你的经典，你当谨守拜功，拜功的确能防止丑事和罪恶，记念真主确是一件更大的事。真主知道你们的做为。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "उस किताब को पढ़ो जो तुम्हारी ओर प्रकाशना के द्वारा भेजी गई है, और नमाज़ का आयोजन करो। निस्संदेह नमाज़ अश्लीलता और बुराई से रोकती है। और अल्लाह का याद करना तो बहुत बड़ी चीज़ है। अल्लाह जानता है जो कुछ तुम रचते और बनाते हो",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Recita lo que se te ha revelado del Libro y cumple con la oración, porque la oración preserva de cometer actos inmorales y reprobables. Tener presente a Dios [en el corazón durante la oración] es lo más importante. Dios sabe lo que hacen",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Récite ce qui t'est révélé du Livre et accomplis la Salât. En vérité la Salât préserve de la turpitude et du blâmable. Le rappel d'Allah est certes ce qu'il y a de plus grand. Et Allah sait ce que vous faites",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "আপনি আপনার প্রতি প্রত্যাদিষ্ট কিতাব পাঠ করুন এবং নামায কায়েম করুন। নিশ্চয় নামায অশ্লীল ও গর্হিত কার্য থেকে বিরত রাখে। আল্লাহর স্মরণ সর্বশ্রেষ্ঠ। আল্লাহ জানেন তোমরা যা কর।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Recita, Muhammad, o que te foi revelado do Livro e cumpre a oração. Por certo, a oração coíbe a obscenidade e o reprovável. E, certamente, a lembrança de Allah é maior que isso. E Allah sabe o que engenhais",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Читай то, что внушено тебе из Писания, и совершай намаз. Воистину, намаз оберегает от мерзости и предосудительного. Но поминание Аллаха - гораздо важнее, и Аллах знает о том, что вы творите",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "(اے محمدﷺ! یہ) کتاب جو تمہاری طرف وحی کی گئی ہے اس کو پڑھا کرو اور نماز کے پابند رہو۔ کچھ شک نہیں کہ نماز بےحیائی اور بری باتوں سے روکتی ہے۔ اور خدا کا ذکر بڑا (اچھا کام) ہے۔ اور جو کچھ تم کرتے ہو خدا اُسے جانتا ہے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_029_046",
+      "reference": {
+        "surah_number": 29,
+        "surah_name": "Al-Ankaboot",
+        "surah_name_ar": "سُوْرَةُ الْعَنْكَبُوْتِ",
+        "surah_name_translation": "The Spider",
+        "ayah_number": 46,
+        "juz": 21,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 25,
+      "translations": {
+        "ar": {
+          "text": "۞وَلَا تُجَٰدِلُوٓاْ أَهۡلَ ٱلۡكِتَٰبِ إِلَّا بِٱلَّتِي هِيَ أَحۡسَنُ إِلَّا ٱلَّذِينَ ظَلَمُواْ مِنۡهُمۡۖ وَقُولُوٓاْ ءَامَنَّا بِٱلَّذِيٓ أُنزِلَ إِلَيۡنَا وَأُنزِلَ إِلَيۡكُمۡ وَإِلَٰهُنَا وَإِلَٰهُكُمۡ وَٰحِدࣱ وَنَحۡنُ لَهُۥ مُسۡلِمُونَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Do not argue with the People of the Book unless gracefully, except with those of them who act wrongfully. And say, “We believe in what has been revealed to us and what was revealed to you. Our God and your God is ˹only˺ One. And to Him we ˹fully˺ submit.”",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "除依最优的方式外，你们不要与信奉天经的人辩论，除非他们中不义的人。你们应当说：我们确信降示我们的经典，和降示你们的经典；我们所崇拜和你们所崇拜的是同一个神明，我们是归顺他的。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "और किताबवालों से बस उत्तम रीति ही से वाद-विवाद करो - रहे वे लोग जो उनमें ज़ालिम हैं, उनकी बात दूसरी है - और कहो - \"हम ईमान लाए उस चीज़ पर जो अवतरित हुई और तुम्हारी ओर भी अवतरित हुई। और हमारा पूज्य और तुम्हारा पूज्य अकेला ही है और हम उसी के आज्ञाकारी है।",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Debatan con la Gente del Libro con buenas maneras, excepto con aquellos que cometen injusticias. Digan: \"Creemos en lo que nos ha sido revelado a nosotros así como en lo que les fue revelado a ustedes. El Dios de ustedes y nuestro Dios es uno, y a Él entregamos nuestra voluntad [como musulmanes]",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Et ne discutez que de la meilleure façon avec les gens du Livre, sauf ceux d'entre eux qui sont injustes. Et dites: «Nous croyons en ce qu'on a fait descendre vers nous et descendre vers vous, tandis que notre Dieu et votre Dieu est le même, et c'est à Lui que nous nous soumettons»",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "তোমরা কিতাবধারীদের সাথে তর্ক-বিতর্ক করবে না, কিন্তু উত্তম পন্থায়; তবে তাদের সাথে নয়, যারা তাদের মধ্যে বে-ইনসাফ। এবং বল, আমাদের প্রতি ও তোমাদের প্রতি যা নাযিল করা হয়েছে, তাতে আমরা বিশ্বাস স্থাপন করেছি। আমাদের উপাস্য ও তোমাদের উপাস্য একই এবং আমরা তাঁরই আজ্ঞাবহ।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E não discutais com os seguidores do Livro senão da melhor maneira - exceto com os que, dentre eles, são injustos - e dizei: \"Cremos no que foi descido para nós e no que fora descido para vós; e nosso Deus e vosso Deus é Um só. E para Ele somos submissos",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Если вступаете в спор с людьми Писания, то ведите его наилучшим образом. Это не относится к тем из них, которые поступают несправедливо. Скажите: «Мы уверовали в то, что ниспослано нам, и то, что ниспослано вам. Наш Бог и ваш Бог - один, и мы покоряемся только Ему»",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور اہلِ کتاب سے جھگڑا نہ کرو مگر ایسے طریق سے کہ نہایت اچھا ہو۔ ہاں جو اُن میں سے بےانصافی کریں (اُن کے ساتھ اسی طرح مجادلہ کرو) اور کہہ دو کہ جو (کتاب) ہم پر اُتری اور جو (کتابیں) تم پر اُتریں ہم سب پر ایمان رکھتے ہیں اور ہمارا اور تمہارا معبود ایک ہی ہے اور ہم اُسی کے فرمانبردار ہیں",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_029_047",
+      "reference": {
+        "surah_number": 29,
+        "surah_name": "Al-Ankaboot",
+        "surah_name_ar": "سُوْرَةُ الْعَنْكَبُوْتِ",
+        "surah_name_translation": "The Spider",
+        "ayah_number": 47,
+        "juz": 21,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 19,
+      "translations": {
+        "ar": {
+          "text": "وَكَذَٰلِكَ أَنزَلۡنَآ إِلَيۡكَ ٱلۡكِتَٰبَۚ فَٱلَّذِينَ ءَاتَيۡنَٰهُمُ ٱلۡكِتَٰبَ يُؤۡمِنُونَ بِهِۦۖ وَمِنۡ هَٰٓؤُلَآءِ مَن يُؤۡمِنُ بِهِۦۚ وَمَا يَجۡحَدُ بِـَٔايَٰتِنَآ إِلَّا ٱلۡكَٰفِرُونَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Similarly ˹to earlier messengers˺, We have revealed to you a Book ˹O Prophet˺. ˹The faithful of˺ those to whom We gave the Scriptures believe in it, as do some of these ˹pagan Arabs˺. And none denies Our revelations except the ˹stubborn˺ disbelievers",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "我这样把经典降示你，蒙我赏赐经典的人，有确信它的。这等人中，也有确信它的，只有不信道的人，否认我的迹象。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "इसी प्रकार हमने तुम्हारी ओर किताब अवतरित की है, तो जिन्हें हमने किताब प्रदान की है वे उसपर ईमान लाएँगे। उनमें से कुछ उसपर ईमान ला भी रहे है। हमारी आयतों का इनकार तो केवल न माननेवाले ही करते है",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Te he revelado el Libro [¡oh, Mujámmad!], y entre los que recibieron Mi revelación en el pasado hay quienes creen en él [el Corán], al igual que algunos de los habitantes de La Meca. Pero solo los que se niegan a creer pueden negar Mis signos",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "C'est ainsi que Nous t'avons fait descendre le Livre (le Coran). Ceux à qui Nous avons donné le Livre y croient. Et parmi ceux-ci, il en est qui y croient. Seuls les mécréants renient Nos versets",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "এভাবেই আমি আপনার প্রতি কিতাব অবর্তীণ করেছি। অতঃপর যাদের কে আমি কিতাব দিয়েছিলাম, তারা একে মেনে চলে এবং এদেরও (মক্কাবাসীদেরও) কেউ কেউ এতে বিশ্বাস রাখে। কেবল কাফেররাই আমার আয়াতসমূহ অস্বীকার করে।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E, assim, fizemos descer para ti o Livro. Então, aqueles aos quais concedêramos o Livro nele crêem. E, dentre estes, há quem nele creia. E não negam Nossos sinais senão os renegadores da Fé",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Так Мы ниспослали тебе Писание. Те, кому Мы даровали Писание, веруют в него. И среди этих (современников Пророка Мухаммада из числа людей Писания) есть такие, которые веруют в него (Коран), и только неверующие отвергают Наши знамения",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور اسی طرح ہم نے تمہاری طرف کتاب اُتاری ہے۔ تو جن لوگوں کو ہم نے کتابیں دی تھیں وہ اس پر ایمان لے آتے ہیں۔ اور بعض ان (مشرک) لوگوں میں سے بھی اس پر ایمان لے آتے ہیں۔ اور ہماری آیتوں سے وہی انکار کرتے ہیں جو کافر (ازلی) ہیں",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_029_048",
+      "reference": {
+        "surah_number": 29,
+        "surah_name": "Al-Ankaboot",
+        "surah_name_ar": "سُوْرَةُ الْعَنْكَبُوْتِ",
+        "surah_name_translation": "The Spider",
+        "ayah_number": 48,
+        "juz": 21,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 14,
+      "translations": {
+        "ar": {
+          "text": "وَمَا كُنتَ تَتۡلُواْ مِن قَبۡلِهِۦ مِن كِتَٰبࣲ وَلَا تَخُطُّهُۥ بِيَمِينِكَۖ إِذࣰ ا لَّٱرۡتَابَ ٱلۡمُبۡطِلُونَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "You ˹O Prophet˺ could not read any writing ˹even˺ before this ˹revelation˺, nor could you write at all. Otherwise, the people of falsehood would have been suspicious",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "以前，你不会读书，也不会写字，（假若你会读书写字），那末，反对真理的人必定怀疑。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "इससे पहले तुम न कोई किताब पढ़ते थे और न उसे अपने हाथ से लिखते ही थे। ऐसा होता तो ये मिथ्यावादी सन्देह में पड़ सकते थे",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Tú no sabías leer ningún tipo de escritura cuando te fue revelado [el Corán], ni tampoco escribir con tu diestra, porque de haber sido así hubieran podido sembrar dudas los que inventan mentiras",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Et avant cela, tu ne récitais aucun livre et tu n'en écrivais aucun de ta main droite. Sinon, ceux qui nient la vérité auraient eu des doutes",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "আপনি তো এর পূর্বে কোন কিতাব পাঠ করেননি এবং স্বীয় দক্ষিণ হস্ত দ্বারা কোন কিতাব লিখেননি। এরূপ হলে মিথ্যাবাদীরা অবশ্যই সন্দেহ পোষণ করত।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E, antes dele, tu não recitavas livro algum nem o escrevias com tua destra; nesse caso, os defensores da falsidade haveriam duvidado",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Ты не читал прежде ни одного Писания и не переписывал его своей десницей. В противном случае приверженцы лжи впали бы в сомнение",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور تم اس سے پہلے کوئی کتاب نہیں پڑھتے تھے اور نہ اُسے اپنے ہاتھ سے لکھ ہی سکتے تھے ایسا ہوتا تو اہلِ باطل ضرور شک کرتے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_029_049",
+      "reference": {
+        "surah_number": 29,
+        "surah_name": "Al-Ankaboot",
+        "surah_name_ar": "سُوْرَةُ الْعَنْكَبُوْتِ",
+        "surah_name_translation": "The Spider",
+        "ayah_number": 49,
+        "juz": 21,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 14,
+      "translations": {
+        "ar": {
+          "text": "بَلۡ هُوَ ءَايَٰتُۢ بَيِّنَٰتࣱ فِي صُدُورِ ٱلَّذِينَ أُوتُواْ ٱلۡعِلۡمَۚ وَمَا يَجۡحَدُ بِـَٔايَٰتِنَآ إِلَّا ٱلظَّٰلِمُونَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "But this ˹Quran˺ is ˹a set of˺ clear revelations ˹preserved˺ in the hearts of those gifted with knowledge. And none denies Our revelations except the ˹stubborn˺ wrongdoers",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "不然，这是我的明显的迹象，它保存在学者的胸中，只有不义的人否认我的迹象。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "नहीं, बल्कि वे तो उन लोगों के सीनों में विद्यमान खुली निशानियाँ है, जिन्हें ज्ञान प्राप्त हुआ है। हमारी आयतों का इनकार तो केवल ज़ालिम ही करते है",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "[El Corán] Es un conjunto de mensajes claros [grabados] en los corazones de quienes han sido agraciados con el conocimiento, y solo los injustos pueden negar Mis signos",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Il consiste plutôt en des versets évidents, (préservés) dans les poitrines de ceux à qui le savoir a été donné. Et seuls les injustes renient Nos versets",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "বরং যাদেরকে জ্ঞান দেয়া হয়েছে, তাদের অন্তরে ইহা (কোরআন) তো স্পষ্ট আয়াত। কেবল বে-ইনসাফরাই আমার আয়াতসমূহ অস্বীকার করে।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Mas ele é constituído de evidentes versículos encerrados nos peitos daqueles aos quais foi concedida a ciência. E não negam Nossos sinais senão os injustos",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Напротив, это - ясные аяты в груди тех, кому даровано знание, и только беззаконники отвергают Наши знамения",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "بلکہ یہ روشن آیتیں ہیں۔ جن لوگوں کو علم دیا گیا ہے اُن کے سینوں میں (محفوظ) اور ہماری آیتوں سے وہی لوگ انکار کرتے ہیں جو بےانصاف ہیں",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_029_050",
+      "reference": {
+        "surah_number": 29,
+        "surah_name": "Al-Ankaboot",
+        "surah_name_ar": "سُوْرَةُ الْعَنْكَبُوْتِ",
+        "surah_name_translation": "The Spider",
+        "ayah_number": 50,
+        "juz": 21,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 16,
+      "translations": {
+        "ar": {
+          "text": "وَقَالُواْ لَوۡلَآ أُنزِلَ عَلَيۡهِ ءَايَٰتࣱ مِّن رَّبِّهِۦۚ قُلۡ إِنَّمَا ٱلۡأٓيَٰتُ عِندَ ٱللَّهِ وَإِنَّمَآ أَنَا۠ نَذِيرࣱ مُّبِينٌ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "They say, “If only ˹some˺ signs had been sent down to him from his Lord!” Say, ˹O Prophet,˺ “Signs are only with Allah. And I am only sent with a clear warning.”",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "他们说：怎么没有一种迹象从他的主降临他呢？你说：迹象只在真主那里，我只是一个坦率的警告者。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "उनका कहना है कि \"उसपर उसके रब की ओर से निशानियाँ क्यों नहीं अवतरित हुई?\" कह दो, \"निशानियाँ तो अल्लाह ही के पास है। मैं तो केवल स्पष्ट रूप से सचेत करनेवाला हूँ।",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Dijeron [los que se niegan a creer]: \"¿Por qué no le han sido concedidos milagros de su Señor?\" Diles [¡oh, Mujámmad!]: \"Dios es Quien dispone de los milagros, yo solo debo advertirles con claridad",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Et ils dirent: «Pourquoi n'a-t-on pas fait descendre sur lui des prodiges de la part de son Seigneur?» Dis: «Les prodiges sont auprès d'Allah. Moi, je ne suis qu'un avertisseur bien clair»",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "তারা বলে, তার পালনকর্তার পক্ষ থেকে তার প্রতি কিছু নিদর্শন অবতীর্ণ হল না কেন? বলুন, নিদর্শন তো আল্লাহর ইচ্ছাধীন। আমি তো একজন সুস্পষ্ট সতর্ককারী মাত্র।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E eles dizem: \"Que se faça descer sobre ele sinais de seu Senhor!\" Dize, Muhammad: \"Os sinais estão, apenas, junto de Allah, e sou, apenas evidente admoestador",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Они говорят: «Почему ему не ниспосланы знамения от его Господа?». Скажи: «Воистину, знамения - у Аллаха, а я - всего лишь предостерегающий и разъясняющий увещеватель»",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور (کافر) کہتے ہیں کہ اس پر اس کے پروردگار کی طرف سے نشانیاں کیوں نازل نہیں ہوئیں کہہ دو کہ نشانیاں تو خدا ہی کے پاس ہیں۔ اور میں تو کھلم کھلا ہدایت کرنے والا ہوں",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_029_051",
+      "reference": {
+        "surah_number": 29,
+        "surah_name": "Al-Ankaboot",
+        "surah_name_ar": "سُوْرَةُ الْعَنْكَبُوْتِ",
+        "surah_name_translation": "The Spider",
+        "ayah_number": 51,
+        "juz": 21,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 15,
+      "translations": {
+        "ar": {
+          "text": "أَوَلَمۡ يَكۡفِهِمۡ أَنَّآ أَنزَلۡنَا عَلَيۡكَ ٱلۡكِتَٰبَ يُتۡلَىٰ عَلَيۡهِمۡۚ إِنَّ فِي ذَٰلِكَ لَرَحۡمَةࣰ وَذِكۡرَىٰ لِقَوۡمࣲ يُؤۡمِنُونَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Is it not enough for them that We have sent down to you the Book, ˹which is˺ recited to them. Surely in this ˹Quran˺ is a mercy and reminder for people who believe",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "我降示你这部经典，可以对他们常常宣读，难道还不能使他们满意吗？在这经典里对于信道的人确有恩惠和记念。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "क्या उनके लिए यह पर्याप्त नहीं कि हमने तुमपर किताब अवतरित की, जो उन्हें पढ़कर सुनाई जाती है? निस्संदेह उसमें उन लोगों के लिए दयालुता है और अनुस्मृति है जो ईमान लाएँ",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "¿Acaso no les es suficiente que te haya sido revelado el Libro que se les recita? En él hay misericordia y conciencia para la gente que cree",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Ne leur suffit-il donc point que Nous ayons fait descendre sur toi le Livre et qu'il leur soit récité? Il y a assurément là une miséricorde et un rappel pour des gens qui croient",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "এটাকি তাদের জন্যে যথেষ্ট নয় যে, আমি আপনার প্রতি কিতাব নাযিল করেছি, যা তাদের কাছে পাঠ করা হয়। এতে অবশ্যই বিশ্বাসী লোকদের জন্যে রহমত ও উপদেশ আছে।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E não lhes basta que façamos descer, sobre ti, o Livro, que se recita, para eles? Por certo, há nisso misericórdia e lembrança para um povo que crê",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Неужели им не достаточно того, что Мы ниспослали тебе Писание, которое им читается? Воистину, в этом - милость и напоминание для верующих людей",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "کیا اُن لوگوں کے لئے یہ کافی نہیں کہ ہم نے تم پر کتاب نازل کی جو اُن کو پڑھ کر سنائی جاتی ہے۔ کچھ شک نہیں کہ مومن لوگوں کے لیے اس میں رحمت اور نصیحت ہے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_029_052",
+      "reference": {
+        "surah_number": 29,
+        "surah_name": "Al-Ankaboot",
+        "surah_name_ar": "سُوْرَةُ الْعَنْكَبُوْتِ",
+        "surah_name_translation": "The Spider",
+        "ayah_number": 52,
+        "juz": 21,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 20,
+      "translations": {
+        "ar": {
+          "text": "قُلۡ كَفَىٰ بِٱللَّهِ بَيۡنِي وَبَيۡنَكُمۡ شَهِيدࣰ اۖ يَعۡلَمُ مَا فِي ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضِۗ وَٱلَّذِينَ ءَامَنُواْ بِٱلۡبَٰطِلِ وَكَفَرُواْ بِٱللَّهِ أُوْلَٰٓئِكَ هُمُ ٱلۡخَٰسِرُونَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Say, ˹O Prophet,˺ “Sufficient is Allah as a Witness between me and you. He ˹fully˺ knows whatever is in the heavens and the earth. And those who believe in falsehood and disbelieve in Allah, it is they who are the ˹true˺ losers.”",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "你说：真主做我和你之间的见证已经够了。他知道天地间的一切，确信邪神而不信真主者，确是亏折的。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "कह दो, \"मेरे और तुम्हारे बीच अल्लाह गवाह के रूप में काफ़ी है।\" वह जानता है जो कुछ आकाशों और धरती में है। जो लोग असत्य पर ईमान लाए और अल्लाह का इनकार किया वही है जो घाटे में है",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Di: \"Dios es suficiente testigo entre ustedes y yo. [Él] conoce cuanto hay en los cielos y en la Tierra. Quienes crean lo falso y rechacen a Dios serán los que pierdan",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Dis: «Allah suffit comme témoin entre moi et vous». Il sait ce qui est dans les cieux et la terre. Et quant à ceux qui croient au faux et ne croient pas en Allah, ceux-là seront les perdants",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "বলুন, আমার মধ্যে ও তোমাদের মধ্যে আল্লাহই সাক্ষীরূপে যথেষ্ট। তিনি জানেন যা কিছু নভোমন্ডলে ও ভূ-মন্ডলে আছে। আর যারা মিথ্যায় বিশ্বাস করে ও আল্লাহকে অস্বীকার করে, তারাই ক্ষতিগ্রস্ত।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Dize: \"Basta Allah, por testemunha, entre mim e vós. Ele sabe o que há nos céus e na terra. E os que crêem na falsidade e renegam a Allah, esses são os perdedores",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Скажи: «Довольно того, что Аллах является Свидетелем между мною и вами. Он знает то, что на небесах и на земле. Те же, которые уверовали в ложь и не уверовали в Аллаха, непременно окажутся в убытке»",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "کہہ دو کہ میرے اور تمہارے درمیان خدا ہی گواہ کافی ہے جو چیز آسمانوں میں اور زمین میں ہے وہ سب کو جانتا ہے۔ اور جن لوگوں نے باطل کو مانا اور خدا سے انکار کیا وہی نقصان اُٹھانے والے ہیں",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_029_053",
+      "reference": {
+        "surah_number": 29,
+        "surah_name": "Al-Ankaboot",
+        "surah_name_ar": "سُوْرَةُ الْعَنْكَبُوْتِ",
+        "surah_name_translation": "The Spider",
+        "ayah_number": 53,
+        "juz": 21,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 13,
+      "translations": {
+        "ar": {
+          "text": "وَيَسۡتَعۡجِلُونَكَ بِٱلۡعَذَابِ وَلَوۡلَآ أَجَلࣱ مُّسَمࣰّ ى لَّجَآءَهُمُ ٱلۡعَذَابُۚ وَلَيَأۡتِيَنَّهُم بَغۡتَةࣰ وَهُمۡ لَا يَشۡعُرُونَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "They challenge you ˹O Prophet˺ to hasten the punishment. Had it not been for a time already set, the punishment would have certainly come to them ˹at once˺. But it will definitely take them by surprise when they least expect it",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "他们要求你早日昭示刑罚，假若没有定期，那末刑罚必已降临他们。当他们不知不觉的时候，刑罚必定忽然降临他们。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "वे तुमसे यातना के लिए जल्दी मचा रहे है। यदि इसका एक नियत समय न होता तो उनपर अवश्य ही यातना आ जाती। वह तो अचानक उनपर आकर रहेगी कि उन्हें ख़बर भी न होगी",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Te piden que apresures el castigo [con el que les adviertes]. Y de no haber sido porque está predestinado, ya los hubiera azotado. Este les llegará sorpresivamente sin que lo adviertan",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Et ils te demandent de hâter [la venue] du châtiment. S'il n'y avait pas eu un terme fixé, le châtiment leur serait certes venu. Et assurément, il leur viendra soudain, sans qu'ils en aient conscience",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "তারা আপনাকে আযাব ত্বরান্বিত করতে বলে। যদি আযাবের সময় নির্ধারিত না থাকত, তবে আযাব তাদের উপর এসে যেত। নিশ্চয়ই আকস্মিকভাবে তাদের কাছে আযাব এসে যাবে, তাদের খবরও থাকবে না।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E pedem-te que apresses o castigo. E, não fora um termo designado, haver-lhes-ia chegado o castigo. E, em verdade, chegar-Ihes-á este, inopinadamente, enquanto não percebam",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Они торопят тебя с мучениями. Если бы не назначенный срок, то мучения уже явились бы к ним. Воистину, они явятся к ним внезапно, и они даже не почувствуют этого",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور یہ لوگ تم سے عذاب کے لئے جلدی کر رہے ہیں۔ اگر ایک وقت مقرر نہ (ہو چکا) ہوتا تو اُن پر عذاب آبھی گیا ہوتا۔ اور وہ (کسی وقت میں) اُن پر ضرور ناگہاں آکر رہے گا اور اُن کو معلوم بھی نہ ہوگا",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_029_054",
+      "reference": {
+        "surah_number": 29,
+        "surah_name": "Al-Ankaboot",
+        "surah_name_ar": "سُوْرَةُ الْعَنْكَبُوْتِ",
+        "surah_name_translation": "The Spider",
+        "ayah_number": 54,
+        "juz": 21,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 6,
+      "translations": {
+        "ar": {
+          "text": "يَسۡتَعۡجِلُونَكَ بِٱلۡعَذَابِ وَإِنَّ جَهَنَّمَ لَمُحِيطَةُۢ بِٱلۡكَٰفِرِينَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "They urge you to hasten the punishment. And Hell will certainly encompass the disbelievers",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "他们要求你早日昭示刑罚。火狱必定是包围不信道者的。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "वे तुमसे यातना के लिए जल्दी मचा रहे है, हालाँकि जहन्नम इनकार करनेवालों को अपने घेरे में लिए हुए है",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Te piden que apresures el castigo [con el que les adviertes]. Pero sabe que el Infierno está aguardando a los que se niegan a creer",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Ils te demandent de hâter [la venue] du châtiment, tandis que l'Enfer cerne les mécréants de toutes parts",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "তারা আপনাকে আযাব ত্বরান্বিত করতে বলে; অথচ জাহান্নাম কাফেরদেরকে ঘেরাও করছে।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Pedem-te que apresses o castigo. E, por certo, a Geena estará abarcando os renegadores da Fé",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Они торопят тебя с мучениями. Воистину, Геенна непременно обступит неверующих",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "یہ تم سے عذاب کے لئے جلدی کررہے ہیں۔ اور دوزخ تو کافروں کو گھیر لینے والی ہے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_029_055",
+      "reference": {
+        "surah_number": 29,
+        "surah_name": "Al-Ankaboot",
+        "surah_name_ar": "سُوْرَةُ الْعَنْكَبُوْتِ",
+        "surah_name_translation": "The Spider",
+        "ayah_number": 55,
+        "juz": 21,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 13,
+      "translations": {
+        "ar": {
+          "text": "يَوۡمَ يَغۡشَىٰهُمُ ٱلۡعَذَابُ مِن فَوۡقِهِمۡ وَمِن تَحۡتِ أَرۡجُلِهِمۡ وَيَقُولُ ذُوقُواْ مَا كُنتُمۡ تَعۡمَلُونَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "on the Day the punishment will overwhelm them from above them and from below their feet. And it will be said, “Reap what you sowed.”",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "在那日，刑罚将从他们的头上和脚下降临他们。他说：你们尝试你们的行为的果报吧！",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "जिस दिन यातना उन्हें उनके ऊपर से ढाँक लेगी और उनके पाँव के नीचे से भी, और वह कहेगा, \"चखो उसका मज़ा जो कुछ तुम करते रहे हो",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "El día que el castigo los envuelva por arriba y debajo de sus pies, [Dios] les dirá: \"Sufran las consecuencias de sus propias obras",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Le jour où le châtiment les enveloppera d'en haut et sous leurs pieds. Il [leur] dira: «Goûtez à ce que vous faisiez!»",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "যেদিন আযাব তাদেরকে ঘেরাও করবে মাথার উপর থেকে এবং পায়ের নীচ থেকে। আল্লাহ বললেন, তোমরা যা করতে, তার স্বাদ গ্রহণ কর।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Um dia, em que os encobrir o castigo, por cima deles e por baixo de seus pés, e ele disser: \"Experimentai o castigo do que fazíeis",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "В тот день мучения покроют их сверху и из-под ног. Он скажет: «Вкусите то, что вы совершали!»",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "جس دن عذاب اُن کو اُن کے اُوپر سے اور نیچے سے ڈھانک لے گا اور (خدا) فرمائے گا کہ جو کام تم کیا کرتے تھے (اب) اُن کا مزہ چکھو",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_029_056",
+      "reference": {
+        "surah_number": 29,
+        "surah_name": "Al-Ankaboot",
+        "surah_name_ar": "سُوْرَةُ الْعَنْكَبُوْتِ",
+        "surah_name_translation": "The Spider",
+        "ayah_number": 56,
+        "juz": 21,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 8,
+      "translations": {
+        "ar": {
+          "text": "يَٰعِبَادِيَ ٱلَّذِينَ ءَامَنُوٓاْ إِنَّ أَرۡضِي وَٰسِعَةࣱ فَإِيَّٰيَ فَٱعۡبُدُونِ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "O My believing servants! My earth is truly spacious, so worship Me ˹alone˺",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "我的信道的仆人们啊！我的大地确是宽大的，你们应当崇拜我。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "ऐ मेरे बन्दों, जो ईमान लाए हो! निस्संदेह मेरी धरती विशाल है। अतः तुम मेरी ही बन्दगी करो",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "¡Oh, siervos Míos que han creído! Mi tierra es amplia, adórenme solo a Mí",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "O Mes serviteurs qui avaient cru! Ma terre est bien vaste. Adorez-Moi donc",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "হে আমার ঈমানদার বান্দাগণ, আমার পৃথিবী প্রশস্ত। অতএব তোমরা আমারই এবাদত কর।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Ó Meus servos, que credes! Por certo, Minha terra é ampla; e a Mim, então, adorai-Me",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "О Мои верующие рабы! Воистину, Моя земля обширна, поклоняйтесь же Мне",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اے میرے بندو جو ایمان لائے ہو میری زمین فراخ ہے تو میری ہی عبادت کرو",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_029_057",
+      "reference": {
+        "surah_number": 29,
+        "surah_name": "Al-Ankaboot",
+        "surah_name_ar": "سُوْرَةُ الْعَنْكَبُوْتِ",
+        "surah_name_translation": "The Spider",
+        "ayah_number": 57,
+        "juz": 21,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 7,
+      "translations": {
+        "ar": {
+          "text": "كُلُّ نَفۡسࣲ ذَآئِقَةُ ٱلۡمَوۡتِۖ ثُمَّ إِلَيۡنَا تُرۡجَعُونَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Every soul will taste death, then to Us you will ˹all˺ be returned",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "每一个有息气的，都要尝死的滋味，然后，你们将被召归于我。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "प्रत्येक जीव को मृत्यु का स्वाद चखना है। फिर तुम हमारी ओर वापस लौटोगे",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Toda alma probará el sabor de la muerte, y luego ante Mí han de comparecer",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Toute âme goûtera la mort. Ensuite c'est vers Nous que vous serez ramenés",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "জীবমাত্রই মৃত্যুর স্বাদ গ্রহণ করবে। অতঃপর তোমরা আমারই কাছে প্রত্যাবর্তিত হবে।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Cada alma experimentará a morte. Em seguida, a Nós sereis retornados",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Каждая душа вкусит смерть, а потом вы будете возвращены к Нам",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "ہر متنفس موت کا مزہ چکھنے والا ہے۔ پھر تم ہماری ہی طرف لوٹ کر آؤ گے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_029_058",
+      "reference": {
+        "surah_number": 29,
+        "surah_name": "Al-Ankaboot",
+        "surah_name_ar": "سُوْرَةُ الْعَنْكَبُوْتِ",
+        "surah_name_translation": "The Spider",
+        "ayah_number": 58,
+        "juz": 21,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 18,
+      "translations": {
+        "ar": {
+          "text": "وَٱلَّذِينَ ءَامَنُواْ وَعَمِلُواْ ٱلصَّٰلِحَٰتِ لَنُبَوِّئَنَّهُم مِّنَ ٱلۡجَنَّةِ غُرَفࣰ ا تَجۡرِي مِن تَحۡتِهَا ٱلۡأَنۡهَٰرُ خَٰلِدِينَ فِيهَاۚ نِعۡمَ أَجۡرُ ٱلۡعَٰمِلِينَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "˹As for˺ those who believe and do good, We will certainly house them in ˹elevated˺ mansions in Paradise, under which rivers flow, to stay there forever. How excellent is the reward for those who work ˹righteousness!˺—",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "信道而且行善者，我必使他们在乐园中得居在下临诸河的楼上，他们将永居其中。工作者的报酬真好！",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "जो लोग ईमान लाए और उन्होंने अच्छे कर्म किए उन्हें हम जन्नत की ऊपरी मंज़िल के कक्षों में जगह देंगे, जिनके नीचे नहरें बह रही होंगी। वे उसमें सदैव रहेंगे। क्या ही अच्छा प्रतिदान है कर्म करनेवालों का",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "A quienes hayan creído y hecho obras de bien los alojaré en mansiones del Paraíso, bajo las cuales corren ríos, y donde morarán por toda la eternidad. ¡Qué placentera será la recompensa de los que obran [el bien]",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Et quant à ceux qui croient et accomplissent de bonnes œuvres, Nous les installerons certes à l'étage dans le Paradis sous lequel coulent les ruisseaux, pour y demeurer éternellement. Quelle belle récompense que celle de ceux qui font le bien",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "যারা বিশ্বাস স্থাপন করে ও সৎকর্ম করে, আমি অবশ্যই তাদেরকে জান্নাতের সুউচ্চ প্রাসাদে স্থান দেব, যার তলদেশে প্রস্রবণসমূহ প্রবাহিত। সেখানে তারা চিরকাল থাকবে। কত উত্তম পুরস্কার কর্মীদের।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E aos que crêem e fazem as boas obras, em verdade, dispô-los-emos nas câmaras etéreas do Paraíso, abaixo das quais correm os rios; nelas, serão eternos. Que excelente o prêmio dos laboriosos",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Тех, которые уверовали и совершали праведные деяния, Мы непременно поселим в горницах в Раю, в котором текут реки. Они пребудут там вечно. Как же прекрасно вознаграждение тружеников",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور جو لوگ ایمان لائے اور نیک عمل کرتے رہے اُن کو ہم بہشت کے اُونچے اُونچے محلوں میں جگہ دیں گے۔ جن کے نیچے نہریں بہ رہی ہیں۔ ہمیشہ ان میں رہیں گے۔ (نیک) عمل کرنے والوں کا (یہ) خوب بدلہ ہے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_029_059",
+      "reference": {
+        "surah_number": 29,
+        "surah_name": "Al-Ankaboot",
+        "surah_name_ar": "سُوْرَةُ الْعَنْكَبُوْتِ",
+        "surah_name_translation": "The Spider",
+        "ayah_number": 59,
+        "juz": 21,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 5,
+      "translations": {
+        "ar": {
+          "text": "ٱلَّذِينَ صَبَرُواْ وَعَلَىٰ رَبِّهِمۡ يَتَوَكَّلُونَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "those who patiently endure, and put their trust in their Lord",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "他们是坚忍的，他们只信托他们的主。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "जिन्होंने धैर्य से काम लिया और जो अपने रब पर भरोसा रखते है",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "que tuvieron paciencia y se encomendaron a su Señor",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "qui endurent, et placent leur confiance en leur Seigneur",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "যারা সবর করে এবং তাদের পালনকর্তার উপর ভরসা করে।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "São os que pacientam, e em seu Senhor confiam",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "которые были терпеливы и уповали на своего Господа",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "جو صبر کرتے اور اپنے پروردگار پر بھروسہ رکھتے ہیں",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_029_060",
+      "reference": {
+        "surah_number": 29,
+        "surah_name": "Al-Ankaboot",
+        "surah_name_ar": "سُوْرَةُ الْعَنْكَبُوْتِ",
+        "surah_name_translation": "The Spider",
+        "ayah_number": 60,
+        "juz": 21,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 12,
+      "translations": {
+        "ar": {
+          "text": "وَكَأَيِّن مِّن دَآبَّةࣲ لَّا تَحۡمِلُ رِزۡقَهَا ٱللَّهُ يَرۡزُقُهَا وَإِيَّاكُمۡۚ وَهُوَ ٱلسَّمِيعُ ٱلۡعَلِيمُ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "How many are the creatures that cannot secure their provisions! ˹It is˺ Allah ˹Who˺ provides for them and you ˹as well˺. He is indeed the All-Hearing, All-Knowing",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "许多动物，不能担负自己的给养，真主供给他们和你们，他是全聪的，是全知的。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "कितने ही चलनेवाले जीवधारी है, जो अपनी रोज़ी उठाए नहीं फिरते। अल्लाह ही उन्हें रोज़ी देता है और तुम्हें भी! वह सब कुछ सुनता, जानता है",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "¡Cuántos animales existen que no almacenan sus provisiones! Pero Dios los sustenta, y asimismo a ustedes. Él todo lo oye, todo lo sabe",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Que de bêtes ne se chargent point de leur propre nourriture! C'est Allah qui les nourrit ainsi que vous. Et c'est Lui l'Audient, l'Omniscient",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "এমন অনেক জন্তু আছে, যারা তাদের খাদ্য সঞ্চিত রাখে না। আল্লাহই রিযিক দেন তাদেরকে এবং তোমাদেরকেও। তিনি সর্বশ্রোতা, সর্বজ্ঞ।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E quantos seres animais não carregam seu sustento! Allah lhes dá sustento e a vós. E Ele é O Oniouvinte, O Onisciente",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Сколько есть живых существ, которые не уносят своего пропитания (или не запасаются своим пропитанием)! Аллах наделяет пропитанием их и вас. Он - Слышащий, Знающий",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور بہت سے جانور ہیں جو اپنا رزق اُٹھائے نہیں پھرتے خدا ہی ان کو رزق دیتا ہے اور تم کو بھی۔ اور وہ سننے والا اور جاننے والا ہے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_029_061",
+      "reference": {
+        "surah_number": 29,
+        "surah_name": "Al-Ankaboot",
+        "surah_name_ar": "سُوْرَةُ الْعَنْكَبُوْتِ",
+        "surah_name_translation": "The Spider",
+        "ayah_number": 61,
+        "juz": 21,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 13,
+      "translations": {
+        "ar": {
+          "text": "وَلَئِن سَأَلۡتَهُم مَّنۡ خَلَقَ ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضَ وَسَخَّرَ ٱلشَّمۡسَ وَٱلۡقَمَرَ لَيَقُولُنَّ ٱللَّهُۖ فَأَنَّىٰ يُؤۡفَكُونَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "If you ask them ˹O Prophet˺ who created the heavens and the earth and subjected the sun and the moon ˹for your benefit˺, they will certainly say, “Allah!” How can they then be deluded ˹from the truth˺",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "如果你问他们：谁创造了天地，制服了日月？他们必定说：真主。他们是如何荒谬的！",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "और यदि तुम उनसे पूछो कि \"किसने आकाशों और धरती को पैदा किया और सूर्य और चन्द्रमा को काम में लगाया?\" तो वे बोल पड़ेगे, \"अल्लाह ने!\" फिर वे किधर उलटे फिरे जाते है",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Si les preguntas [a los idólatras] quién creó los cielos y la Tierra, y sujetó al Sol y a la Luna [a una órbita], responderán: \"¡Dios!\" ¿Cómo, entonces, es que se desvían [del monoteísmo]",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Si tu leur demandes: «Qui a créé les cieux et la terre, et assujetti le soleil et la lune?», ils diront très certainement: «Allah». Comment se fait-il qu'ensuite ils se détournent (du chemin droit)",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "যদি আপনি তাদেরকে জিজ্ঞেস করেন, কে নভোমন্ডল ও ভূ-মন্ডল সৃষ্টি করেছে, চন্দ্র ও সূর্যকে কর্মে নিয়োজিত করেছে? তবে তারা অবশ্যই বলবে আল্লাহ। তাহলে তারা কোথায় ঘুরে বেড়াচ্ছে?",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E, se lhes perguntas: \"Quem criou os céus e a terra e submeteu o sol e a lua?\", em verdade, dirão: \"Allah!\" Então, como podem distanciar-se da verdade",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Если ты спросишь их: «Кто создал небеса и землю и подчинил солнце и луну?». - они непременно скажут: «Аллах». До чего же они отвращены от истины",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور اگر اُن سے پوچھو کہ آسمانوں اور زمین کو کس نے پیدا کیا۔ اور سورج اور چاند کو کس نے (تمہارے) زیر فرمان کیا تو کہہ دیں گے خدا نے۔ تو پھر یہ کہاں اُلٹے جا رہے ہیں",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_029_062",
+      "reference": {
+        "surah_number": 29,
+        "surah_name": "Al-Ankaboot",
+        "surah_name_ar": "سُوْرَةُ الْعَنْكَبُوْتِ",
+        "surah_name_translation": "The Spider",
+        "ayah_number": 62,
+        "juz": 21,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 14,
+      "translations": {
+        "ar": {
+          "text": "ٱللَّهُ يَبۡسُطُ ٱلرِّزۡقَ لِمَن يَشَآءُ مِنۡ عِبَادِهِۦ وَيَقۡدِرُ لَهُۥٓۚ إِنَّ ٱللَّهَ بِكُلِّ شَيۡءٍ عَلِيمࣱ‏",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Allah gives abundant or limited provisions to whoever He wills of His servants. Surely Allah has ˹full˺ knowledge of everything",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "真主要使哪个仆人的给养宽裕，就使他宽裕，（要使哪个仆人的给养窘迫，）就使他窘迫，真主确是全知万事的。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "अल्लाह अपने बन्दों में से जिसके लिए चाहता है आजीविका विस्तीर्ण कर देता है और जिसके लिए चाहता है नपी-तुली कर देता है। निस्संदेह अल्लाह हरेक चीज़ को भली-भाँति जानता है",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Dios concede Su sustento en abundancia a quien quiere de Sus siervos y se lo restringe [a quien Él quiere]. Dios conoce todas las cosas",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Allah dispense largement ou restreint Ses dons à qui Il veut parmi Ses serviteurs. Certes, Allah est Omniscient",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "আল্লাহ তাঁর বান্দাদের মধ্যে যার জন্য ইচ্ছা রিযিক প্রশস্ত করে দেন এবং যার জন্য ইচ্ছা হ্রাস করেন। নিশ্চয়, আল্লাহ সর্ববিষয়ে সম্যক পরিজ্ঞাত।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Allah prodigaliza o sustento a quem quer de Seus servos, e restringe-lho. Por certo, Allah, de todas as cousas, é Onisciente",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Аллах увеличивает или ограничивает удел тому из Своих рабов, кому пожелает. Воистину, Аллах знает о всякой вещи",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "خدا ہی اپنے بندوں میں سے جس کے لئے چاہتا ہے روزی فراخ کر دیتا ہے اور جس کے لئے چاہتا ہے تنگ کر دیتا ہے بیشک خدا ہر چیز سے واقف ہے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_029_063",
+      "reference": {
+        "surah_number": 29,
+        "surah_name": "Al-Ankaboot",
+        "surah_name_ar": "سُوْرَةُ الْعَنْكَبُوْتِ",
+        "surah_name_translation": "The Spider",
+        "ayah_number": 63,
+        "juz": 21,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 22,
+      "translations": {
+        "ar": {
+          "text": "وَلَئِن سَأَلۡتَهُم مَّن نَّزَّلَ مِنَ ٱلسَّمَآءِ مَآءࣰ فَأَحۡيَا بِهِ ٱلۡأَرۡضَ مِنۢ بَعۡدِ مَوۡتِهَا لَيَقُولُنَّ ٱللَّهُۚ قُلِ ٱلۡحَمۡدُ لِلَّهِۚ بَلۡ أَكۡثَرُهُمۡ لَا يَعۡقِلُونَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "And if you ask them who sends down rain from the sky, giving life to the earth after its death, they will surely say, “Allah!” Say, “Praise be to Allah!” In fact, most of them do not understand",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "如果你问他们：谁从云中降下雨水？而借雨水使已死的大地复活呢？他们必定说：真主。你说：一切赞颂全归真主！不然，他们大半是不了解的。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "और यदि तुम उनसे पूछो कि \"किसने आकाश से पानी बरसाया; फिर उसके द्वारा धरती को उसके मुर्दा हो जाने के पश्चात जीवित किया?\" तो वे बोल पड़ेंगे, \"अल्लाह ने!\" कहो, \"सारी प्रशंसा अल्लाह ही के लिए है।\" किन्तु उनमें से अधिकतर बुद्धि से काम नहीं लेते",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Si les preguntas [a los idólatras] quién hace descender agua del cielo con la que da vida a la tierra muerta [por la sequía], responderán: \"¡Dios!\" Di: \"¡Todas las alabanzas pertenecen a Dios!\" Pero la mayoría [de la gente] no razona",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Si tu leur demandes: «Qui a fait descendre du ciel une eau avec laquelle Il fit revivre la terre après sa mort?», ils diront très certainement: «Allah». Dis: «Louange à Allah!» Mais la plupart d'entre eux ne raisonnent pas",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "যদি আপনি তাদেরকে জিজ্ঞেস করেন, কে আকাশ থেকে বারি বর্ষণ করে, অতঃপর তা দ্বারা মৃত্তিকাকে উহার মৃত হওয়ার পর সঞ্জীবিত করে? তবে তারা অবশ্যই বলবে, আল্লাহ। বলুন, সমস্ত প্রশংসা আল্লাহরই। কিন্তু তাদের অধিকাংশই তা বোঝে না।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E, se lhes perguntas: \"Quem faz descer água do céu, e, com ela, vivifica a terra, depois de morta?\", em verdade, dirão: \"Allah!\" Dize: \"Louvor a Allah!\" Mas a maioria deles não razoa",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Если ты спросишь их: «Кто ниспосылает с неба воду и оживляет ею землю после того, как она умерла?». - они непременно скажут: «Аллах». Скажи: «Хвала Аллаху!». Но большинство их не разумеет",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور اگر تم ان سے پوچھو کہ آسمان سے پانی کس نے نازل فرمایا پھر اس سے زمین کو اس کے مرنے کے بعد (کس نے) زندہ کیا تو کہہ دیں گے کہ خدا نے۔ کہہ دو کہ خدا کا شکر ہے۔ لیکن ان میں اکثر نہیں سمجھتے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_029_064",
+      "reference": {
+        "surah_number": 29,
+        "surah_name": "Al-Ankaboot",
+        "surah_name_ar": "سُوْرَةُ الْعَنْكَبُوْتِ",
+        "surah_name_translation": "The Spider",
+        "ayah_number": 64,
+        "juz": 21,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 15,
+      "translations": {
+        "ar": {
+          "text": "وَمَا هَٰذِهِ ٱلۡحَيَوٰةُ ٱلدُّنۡيَآ إِلَّا لَهۡوࣱ وَلَعِبࣱۚ وَإِنَّ ٱلدَّارَ ٱلۡأٓخِرَةَ لَهِيَ ٱلۡحَيَوَانُۚ لَوۡ كَانُواْ يَعۡلَمُونَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "This worldly life is no more than play and amusement. But the Hereafter is indeed the real life, if only they knew",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "这种今世的生活，只是娱乐和游戏；后世的住宅，确是充满生活的。假若他们知道",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "और यह सांसारिक जीवन तो केवल दिल का बहलावा और खेल है। निस्संदेह पश्चात्वर्ती घर (का जीवन) ही वास्तविक जीवन है। क्या ही अच्छा होता कि वे जानते",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "La vida en este mundo no es más que distracción y diversión, la vida del más allá es la vida verdadera. ¡Si supieran",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Cette vie d'ici-bas n'est qu'amusement et jeu. La Demeure de l'au-delà est assurément la vraie vie. S'ils savaient",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "এই পার্থিব জীবন ক্রীড়া-কৌতুক বৈ তো কিছুই নয়। পরকালের গৃহই প্রকৃত জীবন; যদি তারা জানত।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E esta vida terrena não é senão entretenimento e diversão. E, por certo, a Derradeira Morada é ela, a Vida. Se soubessem",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Мирская жизнь - всего лишь потеха и игра, а Последняя обитель - это настоящая жизнь. Если бы они только знали это",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور یہ دنیا کی زندگی تو صرف کھیل اور تماشہ ہے اور (ہمیشہ کی) زندگی (کا مقام) تو آخرت کا گھر ہے۔ کاش یہ (لوگ) سمجھتے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_029_065",
+      "reference": {
+        "surah_number": 29,
+        "surah_name": "Al-Ankaboot",
+        "surah_name_ar": "سُوْرَةُ الْعَنْكَبُوْتِ",
+        "surah_name_translation": "The Spider",
+        "ayah_number": 65,
+        "juz": 21,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 16,
+      "translations": {
+        "ar": {
+          "text": "فَإِذَا رَكِبُواْ فِي ٱلۡفُلۡكِ دَعَوُاْ ٱللَّهَ مُخۡلِصِينَ لَهُ ٱلدِّينَ فَلَمَّا نَجَّىٰهُمۡ إِلَى ٱلۡبَرِّ إِذَا هُمۡ يُشۡرِكُونَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "If they happen to be aboard a ship ˹caught in a storm˺, they cry out to Allah ˹alone˺ in sincere devotion. But as soon as He delivers them ˹safely˺ to shore, they associate ˹others with Him once again˺",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "当他们乘船的时候，他们诚恳地祈祷真主，当他使他们平安登陆的时候，他们立刻就以物配主。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "जब वे नौका में सवार होते है तो वे अल्लाह को उसके दीन (आज्ञापालन) के लिए निष्ठा वान होकर पुकारते है। किन्तु जब वह उन्हें बचाकर शु्ष्क भूमि तक ले आता है तो क्या देखते है कि वे लगे (अल्लाह का साथ) साझी ठहराने",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Cuando suben a un barco [y son azotados por una tempestad] invocan solo a Dios con sinceridad, pero cuando los pongo a salvo llevándolos a la costa, vuelven a dedicar actos de adoración a sus ídolos",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Quand ils montent en bateau, ils invoquent Allah Lui vouant exclusivement leur culte. Une fois qu'Il les a sauvés [des dangers de la mer en les ramenant] sur la terre ferme, voilà qu'ils [Lui] donnent des associés",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "তারা যখন জলযানে আরোহণ করে তখন একনিষ্ঠভাবে আল্লাহকে ডাকে। অতঃপর তিনি যখন স্থলে এনে তাদেরকে উদ্ধার করেন, তখনই তারা শরীক করতে থাকে।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Então, quando eles embarcam no barco, invocam a Allah, sendo sinceros com Ele, na devoção. E, quando Ele os traz a salvo à terra, ei-los que idolatram",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Когда они садятся на корабль, то взывают к Аллаху, очищая перед Ним свою веру. Когда же Он спасает их и выводит на сушу, они тотчас начинают приобщать сотоварищей",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "پھر جب یہ کشتی میں سوار ہوتے ہیں تو خدا کو پکارتے (اور) خالص اُسی کی عبادت کرتے ہیں۔ لیکن جب وہ اُن کو نجات دے کر خشکی پر پہنچا دیتا ہے تو جھٹ شرک کرنے لگے جاتے ہیں",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_029_066",
+      "reference": {
+        "surah_number": 29,
+        "surah_name": "Al-Ankaboot",
+        "surah_name_ar": "سُوْرَةُ الْعَنْكَبُوْتِ",
+        "surah_name_translation": "The Spider",
+        "ayah_number": 66,
+        "juz": 21,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 6,
+      "translations": {
+        "ar": {
+          "text": "لِيَكۡفُرُواْ بِمَآ ءَاتَيۡنَٰهُمۡ وَلِيَتَمَتَّعُواْۚ فَسَوۡفَ يَعۡلَمُونَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "So let them be ungrateful for all We have given them, and ˹let them˺ enjoy themselves ˹for now˺! For they will soon know",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "叫他们孤负我赏赐吧，叫他们享乐吧。他们将来就知道了。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "ताकि जो कुछ हमने उन्हें दिया है उसके प्रति वे इस तरह कृतघ्नता दिखाएँ, और ताकि इस तरह से मज़े उड़ा ले। अच्छा तो वे शीघ्र ही जान लेंगे",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "¡Que no agradezcan por cuanto les he concedido y que solo disfruten! ¡Ya verán [la consecuencia de su decisión]",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Qu'ils nient ce que nous leur avons donné et jouissent des biens de ce monde! Ils sauront bientôt",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "যাতে তারা তাদের প্রতি আমার দান অস্বীকার করে এবং ভোগ-বিলাসে ডুবে থাকে। সত্বরই তারা জানতে পারবে।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Para renegar o que lhes concedemos. Gozai, pois! Logo, sabereis",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Это происходит для того, чтобы они проявили неблагодарность за то, чем Мы их одарили, и могли попользоваться благами, но скоро они узнают",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "تاکہ جو ہم نے اُن کو بخشا ہے اُس کی ناشکری کریں اور فائدہ اٹھائیں (سو خیر) عنقریب اُن کو معلوم ہوجائے گا",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_029_067",
+      "reference": {
+        "surah_number": 29,
+        "surah_name": "Al-Ankaboot",
+        "surah_name_ar": "سُوْرَةُ الْعَنْكَبُوْتِ",
+        "surah_name_translation": "The Spider",
+        "ayah_number": 67,
+        "juz": 21,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 16,
+      "translations": {
+        "ar": {
+          "text": "أَوَلَمۡ يَرَوۡاْ أَنَّا جَعَلۡنَا حَرَمًا ءَامِنࣰ ا وَيُتَخَطَّفُ ٱلنَّاسُ مِنۡ حَوۡلِهِمۡۚ أَفَبِٱلۡبَٰطِلِ يُؤۡمِنُونَ وَبِنِعۡمَةِ ٱللَّهِ يَكۡفُرُونَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Have they not seen how We have made ˹Mecca˺ a safe haven, whereas people ˹all˺ around them are snatched away? How can they then believe in falsehood and deny Allah’s favours",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "难道他们没有知道吗？我曾以他们的城市为安宁的禁地，而他们四周的居民被人劫掠。难道他们确信邪神，而孤负真主的恩惠吗？",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "क्या उन्होंने देखा नही कि हमने एक शान्तिमय हरम बनाया, हालाँकि उनके आसपास से लोग उचक लिए जाते है, तो क्या फिर भी वे असत्य पर ईमान रखते है और अल्लाह की अनुकम्पा के प्रति कृतघ्नता दिखलाते है",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "¿Acaso no ven que he dispuesto [para ellos] un territorio sagrado y seguro, mientras que a su alrededor se cometen todo tipo de injusticias? ¿Acaso creen en la falsedad y niegan las gracias de Dios",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Ne voient-ils pas que vraiment Nous avons fait un sanctuaire sûr [la Mecque], alors que tout autour d'eux on enlève les gens? Croiront-ils donc au faux et nieront-ils les bienfaits d'Allah",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "তারা কি দেখে না যে, আমি একটি নিরাপদ আশ্রয়স্থল করেছি। অথচ এর চতুপার্শ্বে যারা আছে, তাদের উপর আক্রমণ করা হয়। তবে কি তারা মিথ্যায়ই বিশ্বাস করবে এবং আল্লাহর নেয়ামত অস্বীকার করবে?",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E não viram eles que Nós lhes fizemos um Santuário seguro, enquanto os homens, a seu redor, são arrebatados? Então, crêem eles na falsidade e renegam a graça de Allah",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Неужели они не видят, что Мы сделали Мекку безопасным святилищем, тогда как вокруг них людей хватают? Неужели они веруют в ложь и не веруют в милость Аллаха",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "کیا اُنہوں نے نہیں دیکھا کہ ہم نے حرم کو مقام امن بنایا ہے اور لوگ اس کے گرد ونواح سے اُچک لئے جاتے ہیں۔ کیا یہ لوگ باطل پر اعتقاد رکھتے ہیں اور خدا کی نعمتوں کی ناشکری کرتے ہیں",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_029_068",
+      "reference": {
+        "surah_number": 29,
+        "surah_name": "Al-Ankaboot",
+        "surah_name_ar": "سُوْرَةُ الْعَنْكَبُوْتِ",
+        "surah_name_translation": "The Spider",
+        "ayah_number": 68,
+        "juz": 21,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 18,
+      "translations": {
+        "ar": {
+          "text": "وَمَنۡ أَظۡلَمُ مِمَّنِ ٱفۡتَرَىٰ عَلَى ٱللَّهِ كَذِبًا أَوۡ كَذَّبَ بِٱلۡحَقِّ لَمَّا جَآءَهُۥٓۚ أَلَيۡسَ فِي جَهَنَّمَ مَثۡوࣰ ى لِّلۡكَٰفِرِينَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "And who does more wrong than those who fabricate lies against Allah or reject the truth after it has reached them? Is Hell not a ˹fitting˺ home for the disbelievers",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "假借真主的名义而造谣，或否认已降临的真理者，谁比他还不义呢？难道火狱里没有孤恩者的住处吗？",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "उस व्यक्ति से बढ़कर ज़ालिम कौन होगा जो अल्लाह पर थोपकर झूठ घड़े या सत्य को झुठलाए, जबकि वह उसके पास आ चुका हो? क्या इनकार करनेवालों का ठौर-ठिकाना जहन्नम नें नहीं होगा",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "¿Quién puede ser más injusto que aquel que inventa mentiras acerca de Dios o desmiente la Verdad cuando le llega? ¿Acaso no es el Infierno el destino de los que se niegan a creer [cuando la verdad se les hace evidente]",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Et quel pire injuste que celui qui invente un mensonge contre Allah, ou qui dément la Vérité quand elle lui parvient? N'est-ce pas dans l'Enfer une demeure pour les mécréants",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "যে আল্লাহ সম্পর্কে মিথ্যা কথা গড়ে অথবা তার কাছে সত্য আসার পর তাকে অস্বীকার করে, তার কি স্মরণ রাখা উচিত নয় যে, জাহান্নামই সেসব কাফেরের আশ্রয়স্থল হবে?",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E quem mais injusto que aquele que forja mentiras acerca de Allah, ou desmente a verdade, quando esta lhe chega? Não há, na Geena, moradia para os renegadores da Fé",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Кто может быть несправедливее того, кто возводит навет на Аллаха или считает ложью истину, которая явилась к нему? Разве не в Геенне будет обитель неверующих",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور اس سے ظالم کون جو خدا پر جھوٹ بہتان باندھے یا جب حق بات اُس کے پاس آئے تو اس کی تکذیب کرے۔ کیا کافروں کا ٹھکانا جہنم میں نہیں ہے؟",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_029_069",
+      "reference": {
+        "surah_number": 29,
+        "surah_name": "Al-Ankaboot",
+        "surah_name_ar": "سُوْرَةُ الْعَنْكَبُوْتِ",
+        "surah_name_translation": "The Spider",
+        "ayah_number": 69,
+        "juz": 21,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 9,
+      "translations": {
+        "ar": {
+          "text": "وَٱلَّذِينَ جَٰهَدُواْ فِينَا لَنَهۡدِيَنَّهُمۡ سُبُلَنَاۚ وَإِنَّ ٱللَّهَ لَمَعَ ٱلۡمُحۡسِنِينَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "As for those who struggle in Our cause, We will surely guide them along Our Way. And Allah is certainly with the good-doers",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "为我而奋斗的人，我必定指引他们我的道路，真主确是与善人同在一起的。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "रहे वे लोग जिन्होंने हमारे मार्ग में मिलकर प्रयास किया, हम उन्हें अवश्य अपने मार्ग दिखाएँगे। निस्संदेह अल्लाह सुकर्मियों के साथ है",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "A quienes se esfuercen por Mi causa los guiaré por Mis caminos. Dios está con los que hacen el bien",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Et quant à ceux qui luttent pour Notre cause, Nous les guiderons certes sur Nos sentiers. Allah est en vérité avec les bienfaisants",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "যারা আমার পথে সাধনায় আত্মনিয়োগ করে, আমি অবশ্যই তাদেরকে আমার পথে পরিচালিত করব। নিশ্চয় আল্লাহ সৎকর্মপরায়ণদের সাথে আছেন।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E aos que lutam por Nós, certamente, guiá-los-emos a Nossos caminhos. E, por certo, Allah é com os benfeitores",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "А тех, которые сражаются ради Нас, Мы непременно поведем Нашими путями. Воистину, Аллах - с творящими добро",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور جن لوگوں نے ہمارے لئے کوشش کی ہم اُن کو ضرور اپنے رستے دکھا دیں گے۔ اور خدا تو نیکو کاروں کے ساتھ ہے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    }
+  ]
+}

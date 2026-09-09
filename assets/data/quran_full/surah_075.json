@@ -1,0 +1,2245 @@
+{
+  "surah": 75,
+  "verses": [
+    {
+      "content_id": "quran_075_001",
+      "reference": {
+        "surah_number": 75,
+        "surah_name": "Al-Qiyaama",
+        "surah_name_ar": "سُوْرَةُ الْقِيَامَةِ",
+        "surah_name_translation": "The Resurrection",
+        "ayah_number": 1,
+        "juz": 29,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 4,
+      "translations": {
+        "ar": {
+          "text": "لَآ أُقۡسِمُ بِيَوۡمِ ٱلۡقِيَٰمَةِ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "I do swear by the Day of Judgment",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "我以复活日盟誓，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "नहीं, मैं क़सम खाता हूँ क़ियामत के दिन की",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Juro por el Día de la Resurrección",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Non!... Je jure par le Jour de la Résurrection",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "আমি শপথ করি কেয়ামত দিবসের,",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Juro pelo Dia da Ressurreição",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Нет, клянусь Днем воскресения",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "ہم کو روز قیامت کی قسم",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_075_002",
+      "reference": {
+        "surah_number": 75,
+        "surah_name": "Al-Qiyaama",
+        "surah_name_ar": "سُوْرَةُ الْقِيَامَةِ",
+        "surah_name_translation": "The Resurrection",
+        "ayah_number": 2,
+        "juz": 29,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 4,
+      "translations": {
+        "ar": {
+          "text": "وَلَآ أُقۡسِمُ بِٱلنَّفۡسِ ٱللَّوَّامَةِ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "And I do swear by the self-reproaching soul",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "我以自责的灵魂盟誓，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "और नहीं! मैं कसम खाता हूँ मलामत करनेवाली आत्मा की",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "y juro por el alma que se reprocha a sí misma [cuando comete una falta]",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Mais non!, Je jure par l'âme qui ne cesse de se blâmer",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "আরও শপথ করি সেই মনের, যে নিজেকে ধিক্কার দেয়-",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E juro pela alma, constante censora de si mesma, que ressuscitareis",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Клянусь душой попрекающей",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور نفس لوامہ کی (کہ سب لوگ اٹھا کر) کھڑے کئے جائیں گے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_075_003",
+      "reference": {
+        "surah_number": 75,
+        "surah_name": "Al-Qiyaama",
+        "surah_name_ar": "سُوْرَةُ الْقِيَامَةِ",
+        "surah_name_translation": "The Resurrection",
+        "ayah_number": 3,
+        "juz": 29,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 5,
+      "translations": {
+        "ar": {
+          "text": "أَيَحۡسَبُ ٱلۡإِنسَٰنُ أَلَّن نَّجۡمَعَ عِظَامَهُۥ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Do people think We cannot reassemble their bones",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "难道人猜想我绝不能集合他的骸骨吗？",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "क्या मनुष्य यह समझता है कि हम कदापि उसकी हड्डियों को एकत्र न करेंगे",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "¿Acaso cree el ser humano que no volveré a reunir sus huesos",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "L'homme, pense-t-il que Nous ne réunirons jamais ses os",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "মানুষ কি মনে করে যে আমি তার অস্থিসমূহ একত্রিত করব না?",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "O ser humano supõe que não lhe juntaremos os ossos",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Неужели человек полагает, что Мы не соберем его костей",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "کیا انسان یہ خیال کرتا ہے کہ ہم اس کی (بکھری ہوئی) ہڈیاں اکٹھی نہیں کریں گے؟",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_075_004",
+      "reference": {
+        "surah_number": 75,
+        "surah_name": "Al-Qiyaama",
+        "surah_name_ar": "سُوْرَةُ الْقِيَامَةِ",
+        "surah_name_translation": "The Resurrection",
+        "ayah_number": 4,
+        "juz": 29,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 6,
+      "translations": {
+        "ar": {
+          "text": "بَلَىٰ قَٰدِرِينَ عَلَىٰٓ أَن نُّسَوِّيَ بَنَانَهُۥ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Yes ˹indeed˺! We are ˹most˺ capable of restoring ˹even˺ their very fingertips",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "不然，（我将集合他的骸骨），而且能使他的每个手指复原。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "क्यों नहीं, हम उसकी पोरों को ठीक-ठाक करने की सामर्थ्य रखते है",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "¡Claro que sí! Soy capaz incluso de recomponer sus huellas digitales",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Mais si! Nous sommes Capable de remettre à leur place les extrémités de ses doigts",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "পরন্ত আমি তার অংগুলিগুলো পর্যন্ত সঠিকভাবে সন্নিবেশিত করতে সক্ষম।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Sim! Juntar-lhos-emos, sendo Nós Poderoso para refazer-lhe as extremidades dos dedos",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Конечно! Мы способны восстановить даже кончики его пальцев (или сделать всего его пальцы одинаковыми, так что он не сможет пользоваться ими, как прежде)",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "ضرور کریں گے (اور) ہم اس بات پر قادر ہیں کہ اس کی پور پور درست کردیں",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_075_005",
+      "reference": {
+        "surah_number": 75,
+        "surah_name": "Al-Qiyaama",
+        "surah_name_ar": "سُوْرَةُ الْقِيَامَةِ",
+        "surah_name_translation": "The Resurrection",
+        "ayah_number": 5,
+        "juz": 29,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 5,
+      "translations": {
+        "ar": {
+          "text": "بَلۡ يُرِيدُ ٱلۡإِنسَٰنُ لِيَفۡجُرَ أَمَامَهُۥ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Still people want to deny what is yet to come",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "不然，人欲长此放荡下去。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "बल्कि मनुष्य चाहता है कि अपने आगे ढिठाई करता रहे",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Pero el ser humano [reniega del Día de la Resurrección y] quiere obrar como un libertino lo que le queda de vida",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "L'homme voudrait plutôt continuer à vivre en libertin",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "বরং মানুষ তার ভবিষ্যত জীবনেও ধৃষ্টতা করতে চায়",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Mas o ser humano deseja ser ímpio, nos dias que tem à sua frente",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Но человек желает и впредь совершать грехи",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "مگر انسان چاہتا ہے کہ آگے کو خود سری کرتا جائے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_075_006",
+      "reference": {
+        "surah_number": 75,
+        "surah_name": "Al-Qiyaama",
+        "surah_name_ar": "سُوْرَةُ الْقِيَامَةِ",
+        "surah_name_translation": "The Resurrection",
+        "ayah_number": 6,
+        "juz": 29,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 4,
+      "translations": {
+        "ar": {
+          "text": "يَسۡـَٔلُ أَيَّانَ يَوۡمُ ٱلۡقِيَٰمَةِ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "asking ˹mockingly˺, “When is this Day of Judgment?”",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "他问复活日在甚么时候。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "पूछता है, \"आख़िर क़ियामत का दिन कब आएगा",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Y pregunta [burlonamente]: \"¿Cuándo será el día de la Resurrección",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Il interroge: «A quand, le Jour de la Résurrection?»",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "সে প্রশ্ন করে-কেয়ামত দিবস কবে?",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Ele interroga: \"Quando será o Dia da Ressurreição",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Он спрашивает, когда же наступит День воскресения",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "پوچھتا ہے کہ قیامت کا دن کب ہوگا؟",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_075_007",
+      "reference": {
+        "surah_number": 75,
+        "surah_name": "Al-Qiyaama",
+        "surah_name_ar": "سُوْرَةُ الْقِيَامَةِ",
+        "surah_name_translation": "The Resurrection",
+        "ayah_number": 7,
+        "juz": 29,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 3,
+      "translations": {
+        "ar": {
+          "text": "فَإِذَا بَرِقَ ٱلۡبَصَرُ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "But when the sight is stunned",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "当眼目昏花，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "तो जब निगाह चौंधिया जाएगी",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Pero cuando [llegue ese día y] la vista quede aturdida",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Lorsque la vue sera éblouie",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "যখন দৃষ্টি চমকে যাবে,",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Então, quando a vista se assombrar",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Когда взор будет ошеломлен",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "جب آنکھیں چندھیا جائیں",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_075_008",
+      "reference": {
+        "surah_number": 75,
+        "surah_name": "Al-Qiyaama",
+        "surah_name_ar": "سُوْرَةُ الْقِيَامَةِ",
+        "surah_name_translation": "The Resurrection",
+        "ayah_number": 8,
+        "juz": 29,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 2,
+      "translations": {
+        "ar": {
+          "text": "وَخَسَفَ ٱلۡقَمَرُ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "and the moon is dimmed",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "月亮昏暗，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "और चन्द्रमा को ग्रहण लग जाएगा",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "se eclipse la Luna",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "et que la lune s'éclipsera",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "চন্দ্র জ্যোতিহীন হয়ে যাবে।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E a lua se eclipsar",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "луна затмится",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور چاند گہنا جائے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_075_009",
+      "reference": {
+        "surah_number": 75,
+        "surah_name": "Al-Qiyaama",
+        "surah_name_ar": "سُوْرَةُ الْقِيَامَةِ",
+        "surah_name_translation": "The Resurrection",
+        "ayah_number": 9,
+        "juz": 29,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 3,
+      "translations": {
+        "ar": {
+          "text": "وَجُمِعَ ٱلشَّمۡسُ وَٱلۡقَمَرُ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "and the sun and the moon are brought together",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "日月相合的时候，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "और सूर्य और चन्द्रमा इकट्ठे कर दिए जाएँगे",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "y se junten el Sol y la Luna",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "et que le soleil et la lune seront réunis",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "এবং সূর্য ও চন্দ্রকে একত্রিত করা হবে-",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E o sol e a lua se juntarem",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "а солнце и луна сойдутся",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور سورج اور چاند جمع کردیئے جائیں",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_075_010",
+      "reference": {
+        "surah_number": 75,
+        "surah_name": "Al-Qiyaama",
+        "surah_name_ar": "سُوْرَةُ الْقِيَامَةِ",
+        "surah_name_translation": "The Resurrection",
+        "ayah_number": 10,
+        "juz": 29,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 5,
+      "translations": {
+        "ar": {
+          "text": "يَقُولُ ٱلۡإِنسَٰنُ يَوۡمَئِذٍ أَيۡنَ ٱلۡمَفَرُّ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "on that Day one will cry, “Where is the escape?”",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "在那日，人将说：逃到哪里去呢？",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "उस दिन मनुष्य कहेगा, \"कहाँ जाऊँ भागकर",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "el hombre dirá entonces: \"¿A dónde puedo huir",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "l'homme, ce jour-là, dira: «Où fuir?»",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "সে দিন মানুষ বলবেঃ পলায়নের জায়গা কোথায় ?",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "O ser humano nesse dia dirá: \"Para onde fugir",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "В тот день человек скажет: «Куда бежать?»",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اس دن انسان کہے گا کہ (اب) کہاں بھاگ جاؤں؟",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_075_011",
+      "reference": {
+        "surah_number": 75,
+        "surah_name": "Al-Qiyaama",
+        "surah_name_ar": "سُوْرَةُ الْقِيَامَةِ",
+        "surah_name_translation": "The Resurrection",
+        "ayah_number": 11,
+        "juz": 29,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 3,
+      "translations": {
+        "ar": {
+          "text": "كَلَّا لَا وَزَرَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "But no! There will be no refuge",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "绝不然，绝无任何避难所。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "कुछ नहीं, कोई शरण-स्थल नहीं",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "¡Pues no! No habrá refugio [a donde escapar]",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Non! Point de refuge",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "না কোথাও আশ্রয়স্থল নেই।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Em absoluto! Nada de refúgio",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "О нет! Не будет убежища",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "بےشک کہیں پناہ نہیں",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_075_012",
+      "reference": {
+        "surah_number": 75,
+        "surah_name": "Al-Qiyaama",
+        "surah_name_ar": "سُوْرَةُ الْقِيَامَةِ",
+        "surah_name_translation": "The Resurrection",
+        "ayah_number": 12,
+        "juz": 29,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 4,
+      "translations": {
+        "ar": {
+          "text": "إِلَىٰ رَبِّكَ يَوۡمَئِذٍ ٱلۡمُسۡتَقَرُّ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "On that Day all will end up before your Lord",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "在那日，唯你的主那里，有安定之所。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "उस दिन तुम्हारे रब ही ओर जाकर ठहरना है",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Ese día, todos comparecerán ante tu Señor",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Vers ton Seigneur sera, ce jour-là, le retour",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "আপনার পালনকর্তার কাছেই সেদিন ঠাঁই হবে।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Nesse dia, a teu Senhor será o lugar de estar",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "В тот день возвращение будет к твоему Господу",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اس روز پروردگار ہی کے پاس ٹھکانا ہے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_075_013",
+      "reference": {
+        "surah_number": 75,
+        "surah_name": "Al-Qiyaama",
+        "surah_name_ar": "سُوْرَةُ الْقِيَامَةِ",
+        "surah_name_translation": "The Resurrection",
+        "ayah_number": 13,
+        "juz": 29,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 6,
+      "translations": {
+        "ar": {
+          "text": "يُنَبَّؤُاْ ٱلۡإِنسَٰنُ يَوۡمَئِذِۭ بِمَا قَدَّمَ وَأَخَّرَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "All will then be informed of what they have sent forth and left behind",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "在那日，各人将被告知自己前前后后做过的事情。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "उस दिन मनुष्य को बता दिया जाएगा जो कुछ उसने आगे बढाया और पीछे टाला",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Ese día se le informará al ser humano todo cuanto hizo y dejó de hacer",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "L'homme sera informé ce jour-là de ce qu'il aura avancé et de ce qu'il aura remis à plus tard",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "সেদিন মানুষকে অবহিত করা হবে সে যা সামনে প্রেরণ করেছে ও পশ্চাতে ছেড়ে দিয়েছে।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "O ser humano será informado, nesse dia, do que antecipou e atrasou",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "В тот день человеку возвестят о том, что он совершил заранее и что оставил после себя",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اس دن انسان کو جو (عمل) اس نے آگے بھیجے اور پیچھے چھوڑے ہوں گے سب بتا دیئے جائیں گے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_075_014",
+      "reference": {
+        "surah_number": 75,
+        "surah_name": "Al-Qiyaama",
+        "surah_name_ar": "سُوْرَةُ الْقِيَامَةِ",
+        "surah_name_translation": "The Resurrection",
+        "ayah_number": 14,
+        "juz": 29,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 5,
+      "translations": {
+        "ar": {
+          "text": "بَلِ ٱلۡإِنسَٰنُ عَلَىٰ نَفۡسِهِۦ بَصِيرَةࣱ‏",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "In fact, people will testify against their own souls",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "不然，各人对自己就是明证，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "नहीं, बल्कि मनुष्य स्वयं अपने हाल पर निगाह रखता है",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "El ser humano dará testimonio contra sí mismo",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Mais l'homme sera un témoin perspicace contre lui-même",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "বরং মানুষ নিজেই তার নিজের সম্পর্কে চক্ষুমান।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Mas o ser humano será a prova evidente de si mesmo",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Но человек будет свидетельствовать против самого себя",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "بلکہ انسان آپ اپنا گواہ ہے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_075_015",
+      "reference": {
+        "surah_number": 75,
+        "surah_name": "Al-Qiyaama",
+        "surah_name_ar": "سُوْرَةُ الْقِيَامَةِ",
+        "surah_name_translation": "The Resurrection",
+        "ayah_number": 15,
+        "juz": 29,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 3,
+      "translations": {
+        "ar": {
+          "text": "وَلَوۡ أَلۡقَىٰ مَعَاذِيرَهُۥ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "despite the excuses they come up with",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "即使他多方托辞。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "यद्यपि उसने अपने कितने ही बहाने पेश किए हो",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Y aunque intente justificarse [no podrá hacerlo]",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "quand même il présenterait ses excuses",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "যদিও সে তার অজুহাত পেশ করতে চাইবে।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Ainda que lance suas escusas",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "даже если он будет оправдываться",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اگرچہ عذر ومعذرت کرتا رہے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_075_016",
+      "reference": {
+        "surah_number": 75,
+        "surah_name": "Al-Qiyaama",
+        "surah_name_ar": "سُوْرَةُ الْقِيَامَةِ",
+        "surah_name_translation": "The Resurrection",
+        "ayah_number": 16,
+        "juz": 29,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 6,
+      "translations": {
+        "ar": {
+          "text": "لَا تُحَرِّكۡ بِهِۦ لِسَانَكَ لِتَعۡجَلَ بِهِۦٓ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Do not rush your tongue trying to memorize ˹a revelation of˺ the Quran",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "你不要摇动你的舌头，以便你仓卒地诵读它。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "तू उसे शीघ्र पाने के लिए उसके प्रति अपनी ज़बान को न चला",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "[Oh, Mujámmad] No muevas tu lengua deprisa repitiendo [la revelación]",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Ne remue pas ta langue pour hâter sa récitation",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "তাড়াতাড়ি শিখে নেয়ার জন্যে আপনি দ্রুত ওহী আবৃত্তি করবেন না।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Não movimentes, com ele, tua língua, para te apressares a recitá-lo",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Не шевели своим языком, повторяя его (Коран), чтобы поскорее запомнить",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور (اے محمدﷺ) وحی کے پڑھنے کے لئے اپنی زبان نہ چلایا کرو کہ اس کو جلد یاد کرلو",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_075_017",
+      "reference": {
+        "surah_number": 75,
+        "surah_name": "Al-Qiyaama",
+        "surah_name_ar": "سُوْرَةُ الْقِيَامَةِ",
+        "surah_name_translation": "The Resurrection",
+        "ayah_number": 17,
+        "juz": 29,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 4,
+      "translations": {
+        "ar": {
+          "text": "إِنَّ عَلَيۡنَا جَمۡعَهُۥ وَقُرۡءَانَهُۥ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "It is certainly upon Us to ˹make you˺ memorize and recite it",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "集合它和诵读它，确是我的责任。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "हमारे ज़िम्मे है उसे एकत्र करना और उसका पढ़ना",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "porque a Mí me corresponde conservarla [en tu corazón libre de toda tergiversación] para que la recites",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Son rassemblement (dans ton cœur et sa fixation dans ta mémoire) Nous incombent, ainsi que la façon de le réciter",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "এর সংরক্ষণ ও পাঠ আমারই দায়িত্ব।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Por certo, impende-Nos juntá-lo e lê-lo",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Нам надлежит собрать его и прочесть",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اس کا جمع کرنا اور پڑھانا ہمارے ذمے ہے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_075_018",
+      "reference": {
+        "surah_number": 75,
+        "surah_name": "Al-Qiyaama",
+        "surah_name_ar": "سُوْرَةُ الْقِيَامَةِ",
+        "surah_name_translation": "The Resurrection",
+        "ayah_number": 18,
+        "juz": 29,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 4,
+      "translations": {
+        "ar": {
+          "text": "فَإِذَا قَرَأۡنَٰهُ فَٱتَّبِعۡ قُرۡءَانَهُۥ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "So once We have recited a revelation ˹through Gabriel˺, follow its recitation ˹closely˺",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "当我诵读它的时候，你当静听我的诵读。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "अतः जब हम उसे पढ़े तो उसके पठन का अनुसरण कर",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Y cuando te la transmita sigue atentamente la recitación",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Quand donc Nous le récitons, suis sa récitation",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "অতঃপর আমি যখন তা পাঠ করি, তখন আপনি সেই পাঠের অনুসরণ করুন।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E, quando o lermos, segue sua leitura",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Когда же Мы прочтем его, то читай его следом",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "جب ہم وحی پڑھا کریں تو تم (اس کو سنا کرو اور) پھر اسی طرح پڑھا کرو",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_075_019",
+      "reference": {
+        "surah_number": 75,
+        "surah_name": "Al-Qiyaama",
+        "surah_name_ar": "سُوْرَةُ الْقِيَامَةِ",
+        "surah_name_translation": "The Resurrection",
+        "ayah_number": 19,
+        "juz": 29,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 4,
+      "translations": {
+        "ar": {
+          "text": "ثُمَّ إِنَّ عَلَيۡنَا بَيَانَهُۥ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Then it is surely upon Us to make it clear ˹to you˺",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "然后解释它，也是我的责任。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "फिर हमारे ज़िम्मे है उसका स्पष्टीकरण करना",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Luego te explicaré claramente su significado",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "A Nous, ensuite incombera son explication",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "এরপর বিশদ বর্ণনা আমারই দায়িত্ব।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Em seguida, por certo, impende-Nos evidenciá-lo",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Нам надлежит разъяснять его",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "پھر اس (کے معانی) کا بیان بھی ہمارے ذمے ہے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_075_020",
+      "reference": {
+        "surah_number": 75,
+        "surah_name": "Al-Qiyaama",
+        "surah_name_ar": "سُوْرَةُ الْقِيَامَةِ",
+        "surah_name_translation": "The Resurrection",
+        "ayah_number": 20,
+        "juz": 29,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 4,
+      "translations": {
+        "ar": {
+          "text": "كَلَّا بَلۡ تُحِبُّونَ ٱلۡعَاجِلَةَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "But no! In fact, you love this fleeting world",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "真的，你们喜爱现世的生活，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "कुछ नहीं, बल्कि तुम लोग शीघ्र मिलनेवाली चीज़ (दुनिया) से प्रेम रखते हो",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Pero [los seres humanos] aman la vida pasajera",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Mais vous aimez plutôt [la vie] éphémère",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "কখনও না, বরং তোমরা পার্থিব জীবনকে ভালবাস",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Não! Mas vós amais a vida transitória",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Но нет! Вы любите жизнь ближнюю",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "مگر (لوگو) تم دنیا کو دوست رکھتے ہو",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_075_021",
+      "reference": {
+        "surah_number": 75,
+        "surah_name": "Al-Qiyaama",
+        "surah_name_ar": "سُوْرَةُ الْقِيَامَةِ",
+        "surah_name_translation": "The Resurrection",
+        "ayah_number": 21,
+        "juz": 29,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 2,
+      "translations": {
+        "ar": {
+          "text": "وَتَذَرُونَ ٱلۡأٓخِرَةَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "and neglect the Hereafter",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "而不顾后世的生活。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "और आख़िरत को छोड़ रहे हो",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "y descuidan la vida del más allá",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "et vous délaissez l'au-delà",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "এবং পরকালকে উপেক্ষা কর।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E deixais a Derradeira Vida",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "и пренебрегаете Последней жизнью",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور آخرت کو ترک کئے دیتے ہو",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_075_022",
+      "reference": {
+        "surah_number": 75,
+        "surah_name": "Al-Qiyaama",
+        "surah_name_ar": "سُوْرَةُ الْقِيَامَةِ",
+        "surah_name_translation": "The Resurrection",
+        "ayah_number": 22,
+        "juz": 29,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 3,
+      "translations": {
+        "ar": {
+          "text": "وُجُوهࣱ يَوۡمَئِذࣲ نَّاضِرَةٌ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "On that Day ˹some˺ faces will be bright",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "在那日，许多面目是光华的，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "किनते ही चहरे उस दिन तरो ताज़ा और प्रफुल्लित होंगे",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Ese día, habrá rostros resplandecientes [de felicidad]",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Ce jour-là, il y aura des visages resplendissants",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "সেদিন অনেক মুখমন্ডল উজ্জ্বল হবে।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Haverá, nesse dia, faces rutilantes",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Одни лица в тот день будут сиять",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اس روز بہت سے منہ رونق دار ہوں گے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_075_023",
+      "reference": {
+        "surah_number": 75,
+        "surah_name": "Al-Qiyaama",
+        "surah_name_ar": "سُوْرَةُ الْقِيَامَةِ",
+        "surah_name_translation": "The Resurrection",
+        "ayah_number": 23,
+        "juz": 29,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 3,
+      "translations": {
+        "ar": {
+          "text": "إِلَىٰ رَبِّهَا نَاظِرَةࣱ‏",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "looking at their Lord",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "是仰视著他们的主的。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "अपने रब की ओर देख रहे होंगे।",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "contemplando a su Señor",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "qui regarderont leur Seigneur",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "তারা তার পালনকর্তার দিকে তাকিয়ে থাকবে।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "De seu Senhor olhadoras",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "и взирать на своего Господа",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "(اور) اپنے پروردگار کے محو دیدار ہوں گے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_075_024",
+      "reference": {
+        "surah_number": 75,
+        "surah_name": "Al-Qiyaama",
+        "surah_name_ar": "سُوْرَةُ الْقِيَامَةِ",
+        "surah_name_translation": "The Resurrection",
+        "ayah_number": 24,
+        "juz": 29,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 3,
+      "translations": {
+        "ar": {
+          "text": "وَوُجُوهࣱ يَوۡمَئِذِۭ بَاسِرَةࣱ‏",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "And ˹other˺ faces will be gloomy",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "在那日，许多面目是愁苦的，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "और कितने ही चेहरे उस दिन उदास और बिगड़े हुए होंगे",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Pero otros rostros estarán ensombrecidos",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "et il y aura ce jour-là, des visages assombris",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "আর অনেক মুখমন্ডল সেদিন উদাস হয়ে পড়বে।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E, haverá, nesse dia, faces sombrias",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Другие же лица в тот день будут омрачены",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور بہت سے منہ اس دن اداس ہوں گے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_075_025",
+      "reference": {
+        "surah_number": 75,
+        "surah_name": "Al-Qiyaama",
+        "surah_name_ar": "سُوْرَةُ الْقِيَامَةِ",
+        "surah_name_translation": "The Resurrection",
+        "ayah_number": 25,
+        "juz": 29,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 5,
+      "translations": {
+        "ar": {
+          "text": "تَظُنُّ أَن يُفۡعَلَ بِهَا فَاقِرَةࣱ‏",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "anticipating something devastating to befall them",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "他们确信自己必遭大难。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "समझ रहे होंगे कि उनके साथ कमर तोड़ देनेवाला मामला किया जाएगा",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "al conocer la calamidad que caerá sobre ellos",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "qui s'attendent à subir une catastrophe",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "তারা ধারণা করবে যে, তাদের সাথে কোমর-ভাঙ্গা আচরণ করা হবে।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Pensarão que lhes sucederá uma ruina",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Они убедятся о том, что их поразит беда",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "خیال کریں گے کہ ان پر مصیبت واقع ہونے کو ہے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_075_026",
+      "reference": {
+        "surah_number": 75,
+        "surah_name": "Al-Qiyaama",
+        "surah_name_ar": "سُوْرَةُ الْقِيَامَةِ",
+        "surah_name_translation": "The Resurrection",
+        "ayah_number": 26,
+        "juz": 29,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 4,
+      "translations": {
+        "ar": {
+          "text": "كَلَّآ إِذَا بَلَغَتِ ٱلتَّرَاقِيَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "But no! ˹Beware of the day˺ when the soul reaches the collar bone ˹as it leaves˺",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "真的，灵魂达到锁骨，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "कुछ नहीं, जब प्राण कंठ को आ लगेंगे",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Cuando el alma llegue a la garganta [en la agonía de la muerte]",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Mais non! Quand [l'âme] en arrive aux clavicules",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "কখনও না, যখন প্রাণ কন্ঠাগত হবে।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Não! Quando a alma atingir as clavículas",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Но нет! Когда душа достигнет ключицы",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "دیکھو جب جان گلے تک پہنچ جائے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_075_027",
+      "reference": {
+        "surah_number": 75,
+        "surah_name": "Al-Qiyaama",
+        "surah_name_ar": "سُوْرَةُ الْقِيَامَةِ",
+        "surah_name_translation": "The Resurrection",
+        "ayah_number": 27,
+        "juz": 29,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 3,
+      "translations": {
+        "ar": {
+          "text": "وَقِيلَ مَنۡۜ رَاقࣲ‏",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "and it will be said, “Is there any healer ˹who can save this life˺?”",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "有人说：谁是祝由的？",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "और कहा जाएगा, \"कौन है झाड़-फूँक करनेवाला",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "y digan [quienes están junto al agonizante]: \"¿Hay alguien que pueda curarlo",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "et qu'on dit: «Qui est exorciseur?»",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "এবং বলা হবে, কে ঝাড়বে",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E se disser: \"Quem é exorcista",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "будет сказано: «Кто же прочтет заклинание?»",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور لوگ کہنے لگیں (اس وقت) کون جھاڑ پھونک کرنے والا ہے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_075_028",
+      "reference": {
+        "surah_number": 75,
+        "surah_name": "Al-Qiyaama",
+        "surah_name_ar": "سُوْرَةُ الْقِيَامَةِ",
+        "surah_name_translation": "The Resurrection",
+        "ayah_number": 28,
+        "juz": 29,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 3,
+      "translations": {
+        "ar": {
+          "text": "وَظَنَّ أَنَّهُ ٱلۡفِرَاقُ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "And the dying person realizes it is ˹their˺ time to depart",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "他确信那是离别。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "और वह समझ लेगा कि वह जुदाई (का समय) है",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "El agonizante sabrá que llega el momento de partir [de este mundo]",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "et qu'il [l'agonisant] est convaincu que c'est la séparation (la mort)",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "এবং সে মনে করবে যে, বিদায়ের ক্ষণ এসে গেছে।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E ele pensar que é a separação",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Умирающий поймет, что наступило расставание",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور اس (جان بلب) نے سمجھا کہ اب سب سے جدائی ہے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_075_029",
+      "reference": {
+        "surah_number": 75,
+        "surah_name": "Al-Qiyaama",
+        "surah_name_ar": "سُوْرَةُ الْقِيَامَةِ",
+        "surah_name_translation": "The Resurrection",
+        "ayah_number": 29,
+        "juz": 29,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 3,
+      "translations": {
+        "ar": {
+          "text": "وَٱلۡتَفَّتِ ٱلسَّاقُ بِٱلسَّاقِ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "and ˹then˺ their feet are tied together ˹in a shroud˺",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "（死时）胫与胫相缠结。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "और पिंडली से पिंडली लिपट जाएगी",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "y que sus piernas rígidas ya no podrán levantarlo de la agonía de la muerte",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "et que la jambe s'enlace à la jambe",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "এবং গোছা গোছার সাথে জড়িত হয়ে যাবে।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E a canela da perna se enlaçar a outra canela",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Голень сойдется с голенью (тяготы мирской жизни объединятся с тяготами последней жизни или голени человека будут сложены вместе в саване)",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور پنڈلی سے پنڈلی لپٹ جائے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_075_030",
+      "reference": {
+        "surah_number": 75,
+        "surah_name": "Al-Qiyaama",
+        "surah_name_ar": "سُوْرَةُ الْقِيَامَةِ",
+        "surah_name_translation": "The Resurrection",
+        "ayah_number": 30,
+        "juz": 29,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 4,
+      "translations": {
+        "ar": {
+          "text": "إِلَىٰ رَبِّكَ يَوۡمَئِذٍ ٱلۡمَسَاقُ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "On that day they will be driven to your Lord ˹alone˺",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "在那日，他只被驱赶到你的主那里。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "तुम्हारे रब की ओर उस दिन प्रस्थान होगा",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Ese día será conducido hacia su Señor",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "c'est vers ton Seigneur, ce jour-là que tu seras conduit",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "সেদিন, আপনার পালনকর্তার নিকট সবকিছু নীত হবে।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "A teu Senhor, nesse dia, que tu serás conduzido",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "и в тот день его пригонят к твоему Господу",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اس دن تجھ کو اپنے پروردگار کی طرف چلنا ہے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_075_031",
+      "reference": {
+        "surah_number": 75,
+        "surah_name": "Al-Qiyaama",
+        "surah_name_ar": "سُوْرَةُ الْقِيَامَةِ",
+        "surah_name_translation": "The Resurrection",
+        "ayah_number": 31,
+        "juz": 29,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 4,
+      "translations": {
+        "ar": {
+          "text": "فَلَا صَدَّقَ وَلَا صَلَّىٰ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "This denier neither believed nor prayed",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "他没有信道，也没有礼拜。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "किन्तु उसने न तो सत्य माना और न नमाज़ अदा की",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Quien no haya aceptado el Mensaje ni haya cumplido con las oraciones",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Mais il n'a ni cru, ni fait la Salât",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "সে বিশ্বাস করেনি এবং নামায পড়েনি;",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Então, ele não acreditou na Mensagem nem orou",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Он не уверовал и не совершал намаз",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "تو اس (ناعاقبت) اندیش نے نہ تو (کلام خدا) کی تصدیق کی نہ نماز پڑھی",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_075_032",
+      "reference": {
+        "surah_number": 75,
+        "surah_name": "Al-Qiyaama",
+        "surah_name_ar": "سُوْرَةُ الْقِيَامَةِ",
+        "surah_name_translation": "The Resurrection",
+        "ayah_number": 32,
+        "juz": 29,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 3,
+      "translations": {
+        "ar": {
+          "text": "وَلَٰكِن كَذَّبَ وَتَوَلَّىٰ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "but persisted in denial and turned away",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "他否认真理，背弃正道，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "लेकिन झुठलाया और मुँह मोड़ा",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "sino que desmentía [la verdad] y le daba la espalda",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "par contre, il a démenti et tourné le dos",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "পরন্ত মিথ্যারোপ করেছে ও পৃষ্ঠ প্রদর্শন করেছে।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Mas desmentiu e voltou as costas",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Напротив, он счел это ложью и отвернулся",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "بلکہ جھٹلایا اور منہ پھیر لیا",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_075_033",
+      "reference": {
+        "surah_number": 75,
+        "surah_name": "Al-Qiyaama",
+        "surah_name_ar": "سُوْرَةُ الْقِيَامَةِ",
+        "surah_name_translation": "The Resurrection",
+        "ayah_number": 33,
+        "juz": 29,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 5,
+      "translations": {
+        "ar": {
+          "text": "ثُمَّ ذَهَبَ إِلَىٰٓ أَهۡلِهِۦ يَتَمَطَّىٰٓ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "then went to their own people, walking boastfully",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "然后傲慢地走回家去。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "फिर अकड़ता हुआ अपने लोगों की ओर चल दिया",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "y luego iba a los suyos arrogante",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "puis il s'en est allé vers sa famille, marchant avec orgueil",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "অতঃপর সে দম্ভভরে পরিবার-পরিজনের নিকট ফিরে গিয়েছে।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Em seguida, jactando-se, foi ter com sua família",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "а затем горделиво отправился к своей семье",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "پھر اپنے گھر والوں کے پاس اکڑتا ہوا چل دیا",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_075_034",
+      "reference": {
+        "surah_number": 75,
+        "surah_name": "Al-Qiyaama",
+        "surah_name_ar": "سُوْرَةُ الْقِيَامَةِ",
+        "surah_name_translation": "The Resurrection",
+        "ayah_number": 34,
+        "juz": 29,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 3,
+      "translations": {
+        "ar": {
+          "text": "أَوۡلَىٰ لَكَ فَأَوۡلَىٰ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Woe to you, and more woe",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "毁灭已逐渐地临近你。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "अफ़सोस है तुझपर और अफ़सोस है",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "¡ay de él! Ya verá",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "«Malheur à toi, malheur!»",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "তোমার দুর্ভোগের উপর দুর্ভোগ।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Ai de ti! E, ai de ti",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Горе тебе, горе",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "افسوس ہے تجھ پر پھر افسوس ہے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_075_035",
+      "reference": {
+        "surah_number": 75,
+        "surah_name": "Al-Qiyaama",
+        "surah_name_ar": "سُوْرَةُ الْقِيَامَةِ",
+        "surah_name_translation": "The Resurrection",
+        "ayah_number": 35,
+        "juz": 29,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 4,
+      "translations": {
+        "ar": {
+          "text": "ثُمَّ أَوۡلَىٰ لَكَ فَأَوۡلَىٰٓ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Again, woe to you, and even more woe",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "毁灭已逐渐地临近你。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "फिर अफ़सोस है तुझपर और अफ़सोस है",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "¡Sí! ¡Ay de él! Ya verá",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Et encore malheur à toi, malheur",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "অতঃপর, তোমার দুর্ভোগের উপর দূর্ভোগ।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Mais uma vez, ai de ti! E, ai de ti",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Еще раз горе тебе, горе",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "پھر افسوس ہے تجھ پر پھر افسوس ہے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_075_036",
+      "reference": {
+        "surah_number": 75,
+        "surah_name": "Al-Qiyaama",
+        "surah_name_ar": "سُوْرَةُ الْقِيَامَةِ",
+        "surah_name_translation": "The Resurrection",
+        "ayah_number": 36,
+        "juz": 29,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 5,
+      "translations": {
+        "ar": {
+          "text": "أَيَحۡسَبُ ٱلۡإِنسَٰنُ أَن يُتۡرَكَ سُدًى",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Do people think they will be left without purpose",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "难道人猜想自己是被放任的吗？",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "क्या मनुष्य समझता है कि वह यूँ ही स्वतंत्र छोड़ दिया जाएगा",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "¿Acaso cree el ser humano que no será responsable de sus actos",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "L'homme pense-t-il qu'on le laissera sans obligation à observer",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "মানুষ কি মনে করে যে, তাকে এমনি ছেড়ে দেয়া হবে?",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "O ser humano supõe que será deixado negligenciado",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Неужели человек полагает, что он будет оставлен без присмотра",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "کیا انسان خیال کرتا ہے کہ یوں ہی چھوڑ دیا جائے گا؟",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_075_037",
+      "reference": {
+        "surah_number": 75,
+        "surah_name": "Al-Qiyaama",
+        "surah_name_ar": "سُوْرَةُ الْقِيَامَةِ",
+        "surah_name_translation": "The Resurrection",
+        "ayah_number": 37,
+        "juz": 29,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 6,
+      "translations": {
+        "ar": {
+          "text": "أَلَمۡ يَكُ نُطۡفَةࣰ مِّن مَّنِيࣲّ يُمۡنَىٰ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Were they not ˹once˺ a sperm-drop emitted",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "难道他不曾是被射出精液吗？",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "क्या वह केवल टपकाए हुए वीर्य की एक बूँद न था",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "¿Acaso no fue un óvulo fecundado por una gota de esperma eyaculada",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "N'était-il pas une goutte de sperme éjaculé",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "সে কি স্খলিত বীর্য ছিল না?",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Não era ele uma gota de esperma ejaculada",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Разве он не был каплей из семени источаемого",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "کیا وہ منی کا جو رحم میں ڈالی جاتی ہے ایک قطرہ نہ تھا؟",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_075_038",
+      "reference": {
+        "surah_number": 75,
+        "surah_name": "Al-Qiyaama",
+        "surah_name_ar": "سُوْرَةُ الْقِيَامَةِ",
+        "surah_name_translation": "The Resurrection",
+        "ayah_number": 38,
+        "juz": 29,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 5,
+      "translations": {
+        "ar": {
+          "text": "ثُمَّ كَانَ عَلَقَةࣰ فَخَلَقَ فَسَوَّىٰ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Then they became a clinging clot ˹of blood˺, then He developed and perfected their form",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "然后，他变成血块，而真主加以创造他，使之成为肢体完全的人吗？",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "फिर वह रक्त की एक फुटकी हुआ, फिर अल्लाह ने उसे रूप दिया और उसके अंग-प्रत्यंग ठीक-ठाक किए",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "¿Y luego un embrión? Dios lo creó y le dio forma armoniosa",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Et ensuite une adhérence Puis [Allah] l'a créée et formée harmonieusement",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "অতঃপর সে ছিল রক্তপিন্ড, অতঃপর আল্লাহ তাকে সৃষ্টি করেছেন এবং সুবিন্যস্ত করেছেন।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Em seguida, uma aderência. Então, Ele o criou e o formou",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Потом он превратился в сгусток крови, после чего Он создал его и придал ему соразмерный облик",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "پھر لوتھڑا ہوا پھر (خدا نے) اس کو بنایا پھر (اس کے اعضا کو) درست کیا",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_075_039",
+      "reference": {
+        "surah_number": 75,
+        "surah_name": "Al-Qiyaama",
+        "surah_name_ar": "سُوْرَةُ الْقِيَامَةِ",
+        "surah_name_translation": "The Resurrection",
+        "ayah_number": 39,
+        "juz": 29,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 5,
+      "translations": {
+        "ar": {
+          "text": "فَجَعَلَ مِنۡهُ ٱلزَّوۡجَيۡنِ ٱلذَّكَرَ وَٱلۡأُنثَىٰٓ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "producing from it both sexes, male and female",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "他用精液造化两性，男的和女的。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "और उसकी दो जातियाँ बनाई - पुरुष और स्त्री",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Y creó de allí la pareja: el hombre y la mujer",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "puis en a fait alors les deux éléments de couple: le mâle et la femelle",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "অতঃপর তা থেকে সৃষ্টি করেছেন যুগল নর ও নারী।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E fez dele o casal: o varão e a varoa",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Он сотворил из него чету: мужчину и женщину",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "پھر اس کی دو قسمیں بنائیں (ایک) مرد اور (ایک) عورت",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_075_040",
+      "reference": {
+        "surah_number": 75,
+        "surah_name": "Al-Qiyaama",
+        "surah_name_ar": "سُوْرَةُ الْقِيَامَةِ",
+        "surah_name_translation": "The Resurrection",
+        "ayah_number": 40,
+        "juz": 29,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 7,
+      "translations": {
+        "ar": {
+          "text": "أَلَيۡسَ ذَٰلِكَ بِقَٰدِرٍ عَلَىٰٓ أَن يُحۡـِۧيَ ٱلۡمَوۡتَىٰ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Is such ˹a Creator˺ unable to bring the dead back to life",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "难道那样的造化者不能使死人复活吗？",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "क्या उसे वह सामर्थ्य प्राप्त- नहीं कि वह मुर्दों को जीवित कर दे",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Quien ha hecho todo esto, ¿acaso no va a ser capaz de resucitar a los muertos",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Celui-là [Allah] n'est-Il pas capable de faire revivre les morts",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "তবুও কি সেই আল্লাহ মৃতদেরকে জীবিত করতে সক্ষম নন?",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Esse não é Poderoso para dar a vida aos mortos",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Неужели Он не способен воскресить мертвых",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "کیا اس خالق کو اس بات پر قدرت نہیں کہ مردوں کو جلا اُٹھائے؟",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,1181 @@
+{
+  "surah": 92,
+  "verses": [
+    {
+      "content_id": "quran_092_001",
+      "reference": {
+        "surah_number": 92,
+        "surah_name": "Al-Lail",
+        "surah_name_ar": "سُوْرَةُ الَّيْلِ",
+        "surah_name_translation": "The Night",
+        "ayah_number": 1,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 3,
+      "translations": {
+        "ar": {
+          "text": "وَٱلَّيۡلِ إِذَا يَغۡشَىٰ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "By the night when it covers",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "以笼罩时的黑夜发誓，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "साक्षी है रात जबकि वह छा जाए",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Juro por la noche cuando cubre con la oscuridad",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Par la nuit quand elle enveloppe tout",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "শপথ রাত্রির, যখন সে আচ্ছন্ন করে,",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Pela noite, quando tudo encobre",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Клянусь ночью, когда она покрывает землю",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "رات کی قسم جب (دن کو) چھپالے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_092_002",
+      "reference": {
+        "surah_number": 92,
+        "surah_name": "Al-Lail",
+        "surah_name_ar": "سُوْرَةُ الَّيْلِ",
+        "surah_name_translation": "The Night",
+        "ayah_number": 2,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 3,
+      "translations": {
+        "ar": {
+          "text": "وَٱلنَّهَارِ إِذَا تَجَلَّىٰ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "and the day when it shines",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "以显著时的白昼发誓，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "और दिन जबकि वह प्रकाशमान हो",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "por el día cuando resplandece",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Par le jour quand il éclaire",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "শপথ দিনের, যখন সে আলোকিত হয়",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Pelo dia, quando se mostra, em plenitude",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Клянусь днем, когда он проясняется",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور دن کی قسم جب چمک اٹھے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_092_003",
+      "reference": {
+        "surah_number": 92,
+        "surah_name": "Al-Lail",
+        "surah_name_ar": "سُوْرَةُ الَّيْلِ",
+        "surah_name_translation": "The Night",
+        "ayah_number": 3,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 4,
+      "translations": {
+        "ar": {
+          "text": "وَمَا خَلَقَ ٱلذَّكَرَ وَٱلۡأُنثَىٰٓ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "And by ˹the One˺ Who created male and female",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "以创造男性和女性的主发誓，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "और नर और मादा का पैदा करना",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "por Quien creó al hombre y a la mujer",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Et par ce qu'Il a créé, mâle et femelle",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "এবং তাঁর, যিনি নর ও নারী সৃষ্টি করেছেন,",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E por Quem criou o varão e a varoa",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Клянусь Тем, Кто создал мужчину и женщину",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور اس (ذات) کی قسم جس نے نر اور مادہ پیدا کیے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_092_004",
+      "reference": {
+        "surah_number": 92,
+        "surah_name": "Al-Lail",
+        "surah_name_ar": "سُوْرَةُ الَّيْلِ",
+        "surah_name_translation": "The Night",
+        "ayah_number": 4,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 3,
+      "translations": {
+        "ar": {
+          "text": "إِنَّ سَعۡيَكُمۡ لَشَتَّىٰ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Surely the ends you strive for are diverse",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "你们的行为，确是不同的。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "कि तुम्हारा प्रयास भिन्न-भिन्न है",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "que las obras [de las personas] son diversas",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Vos efforts sont divergents",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "নিশ্চয় তোমাদের কর্ম প্রচেষ্টা বিভিন্ন ধরনের।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Por certo, vossos esforços são vários",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Ваши стремления различны",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "کہ تم لوگوں کی کوششں طرح طرح کی ہے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_092_005",
+      "reference": {
+        "surah_number": 92,
+        "surah_name": "Al-Lail",
+        "surah_name_ar": "سُوْرَةُ الَّيْلِ",
+        "surah_name_translation": "The Night",
+        "ayah_number": 5,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 4,
+      "translations": {
+        "ar": {
+          "text": "فَأَمَّا مَنۡ أَعۡطَىٰ وَٱتَّقَىٰ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "As for the one who is charitable, mindful ˹of Allah˺",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "至於赈济贫民，敬畏真主，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "तो जिस किसी ने दिया और डर रखा",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "A quien dé caridades, tenga temor [de Dios]",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Celui qui donne et craint (Allah)",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "অতএব, যে দান করে এবং খোদাভীরু হয়,",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Então, quanto a quem dá e teme a Allah",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Тому, кто отдавал должное (или раздавал милостыню) и был богобоязнен",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "تو جس نے (خدا کے رستے میں مال) دیا اور پرہیز گاری کی",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_092_006",
+      "reference": {
+        "surah_number": 92,
+        "surah_name": "Al-Lail",
+        "surah_name_ar": "سُوْرَةُ الَّيْلِ",
+        "surah_name_translation": "The Night",
+        "ayah_number": 6,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 2,
+      "translations": {
+        "ar": {
+          "text": "وَصَدَّقَ بِٱلۡحُسۡنَىٰ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "and ˹firmly˺ believes in the finest reward",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "且承认至善者，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "और अच्छी चीज़ की पुष्टि की",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "y crea en los valores más sublimes",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "et déclare véridique la plus belle récompense",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "এবং উত্তম বিষয়কে সত্য মনে করে,",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E confirma a mais bela Verdade",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "кто признавал наилучшее (свидетельство единобожия или Рай)",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور نیک بات کو سچ جانا",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_092_007",
+      "reference": {
+        "surah_number": 92,
+        "surah_name": "Al-Lail",
+        "surah_name_ar": "سُوْرَةُ الَّيْلِ",
+        "surah_name_translation": "The Night",
+        "ayah_number": 7,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 2,
+      "translations": {
+        "ar": {
+          "text": "فَسَنُيَسِّرُهُۥ لِلۡيُسۡرَىٰ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "We will facilitate for them the Way of Ease",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "我将使他易於达到最易的结局。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "हम उस सहज ढंग से उस चीज का पात्र बना देंगे, जो सहज और मृदुल (सुख-साध्य) है",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "le facilitaré el camino del bien",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Nous lui faciliterons la voie au plus grand bonheur",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "আমি তাকে সুখের বিষয়ের জন্যে সহজ পথ দান করব।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "A esse, facilitar-lhe-emos o acesso ao caminho fácil",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Мы облегчим путь к легчайшему (к праведным деяниям)",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اس کو ہم آسان طریقے کی توفیق دیں گے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_092_008",
+      "reference": {
+        "surah_number": 92,
+        "surah_name": "Al-Lail",
+        "surah_name_ar": "سُوْرَةُ الَّيْلِ",
+        "surah_name_translation": "The Night",
+        "ayah_number": 8,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 4,
+      "translations": {
+        "ar": {
+          "text": "وَأَمَّا مَنۢ بَخِلَ وَٱسۡتَغۡنَىٰ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "And as for the one who is stingy, indifferent ˹to Allah˺",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "至於吝惜钱财，自谓无求，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "रहा वह व्यक्ति जिसने कंजूसी की और बेपरवाही बरती",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Pero a quien sea avaro, crea que puede prescindir [de Dios]",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Et quant à celui qui est avare, se dispense (de l'adoration d'Allah)",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "আর যে কৃপণতা করে ও বেপরওয়া হয়",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E, quanto a quem é avaro e prescinde da ajuda de Allah",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "А тому, кто был скуп и полагал, что ни в чем не нуждается",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور جس نے بخل کیا اور بےپروا بنا رہا",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_092_009",
+      "reference": {
+        "surah_number": 92,
+        "surah_name": "Al-Lail",
+        "surah_name_ar": "سُوْرَةُ الَّيْلِ",
+        "surah_name_translation": "The Night",
+        "ayah_number": 9,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 2,
+      "translations": {
+        "ar": {
+          "text": "وَكَذَّبَ بِٱلۡحُسۡنَىٰ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "and ˹staunchly˺ denies the finest reward",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "且否认至善者，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "और अच्छी चीज़ को झुठला दिया",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "y desmienta los valores más sublimes",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "et traite de mensonge la plus belle récompense",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "এবং উত্তম বিষয়কে মিথ্যা মনে করে,",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E desmente a mais bela Verdade",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "кто счел ложью наилучшее (свидетельство единобожия или Рай)",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور نیک بات کو جھوٹ سمجھا",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_092_010",
+      "reference": {
+        "surah_number": 92,
+        "surah_name": "Al-Lail",
+        "surah_name_ar": "سُوْرَةُ الَّيْلِ",
+        "surah_name_translation": "The Night",
+        "ayah_number": 10,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 2,
+      "translations": {
+        "ar": {
+          "text": "فَسَنُيَسِّرُهُۥ لِلۡعُسۡرَىٰ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "We will facilitate for them the path of hardship",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "我将使他易於达到最难的结局。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "हम उसे सहज ढंग से उस चीज़ का पात्र बना देंगे, जो कठिन चीज़ (कष्ट-साध्य) है",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "no le impediré transitar por el camino de la adversidad",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Nous lui faciliterons la voie à la plus grande difficulté",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "আমি তাকে কষ্টের বিষয়ের জন্যে সহজ পথ দান করব।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "A esse, facilitar-lhe-emos o acesso ao caminho difícil",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Мы облегчим путь к тягчайшему (к злу и наказанию)",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اسے سختی میں پہنچائیں گے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_092_011",
+      "reference": {
+        "surah_number": 92,
+        "surah_name": "Al-Lail",
+        "surah_name_ar": "سُوْرَةُ الَّيْلِ",
+        "surah_name_translation": "The Night",
+        "ayah_number": 11,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 6,
+      "translations": {
+        "ar": {
+          "text": "وَمَا يُغۡنِي عَنۡهُ مَالُهُۥٓ إِذَا تَرَدَّىٰٓ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "And their wealth will be of no benefit to them when they tumble ˹into Hell˺",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "当他沦亡的时候，他的财产於他有什麽裨益呢！",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "और उसका माल उसके कुछ काम न आएगा, जब वह (सिर के बल) खड्ड में गिरेगा",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "¿De qué le servirán sus bienes materiales cuando muera",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "et à rien ne lui serviront ses richesses quand il sera jeté (au Feu)",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "যখন সে অধঃপতিত হবে, তখন তার সম্পদ তার কোনই কাজে আসবে না।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E de nada lhe valerão suas riquezas, quando se abismar",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Не спасет его достояние, когда он падет (в Геенну или погибнет)",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور جب وہ (دوزخ کے گڑھے میں) گرے گا تو اس کا مال اس کے کچھ کام نہ آئے گا",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_092_012",
+      "reference": {
+        "surah_number": 92,
+        "surah_name": "Al-Lail",
+        "surah_name_ar": "سُوْرَةُ الَّيْلِ",
+        "surah_name_translation": "The Night",
+        "ayah_number": 12,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 3,
+      "translations": {
+        "ar": {
+          "text": "إِنَّ عَلَيۡنَا لَلۡهُدَىٰ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "It is certainly upon Us ˹alone˺ to show ˹the way to˺ guidance",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "我确有指导的责任，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "निस्संदेह हमारे ज़िम्मे है मार्ग दिखाना",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Evidencio la guía",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "C'est à Nous, certes, de guider",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "আমার দায়িত্ব পথ প্রদর্শন করা।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Por certo, impende-Nos a orientação",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Воистину, Нам надлежит вести прямым путем",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "ہمیں تو راہ دکھا دینا ہے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_092_013",
+      "reference": {
+        "surah_number": 92,
+        "surah_name": "Al-Lail",
+        "surah_name_ar": "سُوْرَةُ الَّيْلِ",
+        "surah_name_translation": "The Night",
+        "ayah_number": 13,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 4,
+      "translations": {
+        "ar": {
+          "text": "وَإِنَّ لَنَا لَلۡأٓخِرَةَ وَٱلۡأُولَىٰ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "And surely to Us ˹alone˺ belong this life and the next",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "我确有後世和今世的主权。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "और वास्तव में हमारे अधिकार में है आख़िरत और दुनिया भी",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "y a Mí me pertenecen esta vida y la otra",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "à Nous appartient, certes, la vie dernière et la vie présente",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "আর আমি মালিক ইহকালের ও পরকালের।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E, por certo, são Nossas a Derradeira Vida e a primeira",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Нам же принадлежат жизнь Последняя и первая",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور آخرت او ردنیا ہماری ہی چیزیں ہیں",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_092_014",
+      "reference": {
+        "surah_number": 92,
+        "surah_name": "Al-Lail",
+        "surah_name_ar": "سُوْرَةُ الَّيْلِ",
+        "surah_name_translation": "The Night",
+        "ayah_number": 14,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 4,
+      "translations": {
+        "ar": {
+          "text": "فَأَنذَرۡتُكُمۡ نَارࣰ ا تَلَظَّىٰ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "And so I have warned you of a raging Fire",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "故我警告你们一种发焰的火，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "अतः मैंने तुम्हें दहकती आग से सावधान कर दिया",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Les he advertido sobre un fuego abrasador",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Je vous ai donc avertis d'un Feu qui flambe",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "অতএব, আমি তোমাদেরকে প্রজ্বলিত অগ্নি সম্পর্কে সতর্ক করে দিয়েছি।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Então, admoesto-vos de um Fogo que flameja",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Я предостерег вас от пылающего Огня",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "سو میں نے تم کو بھڑکتی آگ سے متنبہ کر دیا",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_092_015",
+      "reference": {
+        "surah_number": 92,
+        "surah_name": "Al-Lail",
+        "surah_name_ar": "سُوْرَةُ الَّيْلِ",
+        "surah_name_translation": "The Night",
+        "ayah_number": 15,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 4,
+      "translations": {
+        "ar": {
+          "text": "لَا يَصۡلَىٰهَآ إِلَّا ٱلۡأَشۡقَى",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "in which none will burn except the most wretched—",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "唯薄命者坠入其中，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "इसमें बस वही पड़ेगा जो बड़ा ही अभागा होगा",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "en el que solo ingresarán los desventurados",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "où ne brûlera que le damné",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "এতে নিতান্ত হতভাগ্য ব্যক্তিই প্রবেশ করবে,",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Nele, não se queimará senão o mais infeliz",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Войдет в него только самый несчастный",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اس میں وہی داخل ہو گا جو بڑا بدبخت ہے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_092_016",
+      "reference": {
+        "surah_number": 92,
+        "surah_name": "Al-Lail",
+        "surah_name_ar": "سُوْرَةُ الَّيْلِ",
+        "surah_name_translation": "The Night",
+        "ayah_number": 16,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 3,
+      "translations": {
+        "ar": {
+          "text": "ٱلَّذِي كَذَّبَ وَتَوَلَّىٰ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "who deny and turn away",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "他否认真理，而背弃之。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "जिसने झुठलाया और मुँह फेरा",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "que desmientan y se aparten [del Mensaje]",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "qui dément et tourne le dos",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "যে মিথ্যারোপ করে ও মুখ ফিরিয়ে নেয়।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Que haja desmentido ao Mensageiro e voltado as costas",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "который считает истину ложью и отворачивается",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "جس نے جھٹلایا اور منہ پھیرا",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_092_017",
+      "reference": {
+        "surah_number": 92,
+        "surah_name": "Al-Lail",
+        "surah_name_ar": "سُوْرَةُ الَّيْلِ",
+        "surah_name_translation": "The Night",
+        "ayah_number": 17,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 2,
+      "translations": {
+        "ar": {
+          "text": "وَسَيُجَنَّبُهَا ٱلۡأَتۡقَى",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "But the righteous will be spared from it—",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "敬畏者，得免於火刑。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "और उससे बच जाएगा वह अत्यन्त परहेज़गार व्यक्ति",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Pero el piadoso estará a salvo [de ese fuego]",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "alors qu'en sera écarté le pieux",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "এ থেকে দূরে রাখা হবে খোদাভীরু ব্যক্তিকে,",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E far-se-á evitá-lo ao mais piedoso",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Отдален от него будет самый богобоязненный",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور جو بڑا پرہیزگار ہے وہ (اس سے) بچا لیا جائے گا",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_092_018",
+      "reference": {
+        "surah_number": 92,
+        "surah_name": "Al-Lail",
+        "surah_name_ar": "سُوْرَةُ الَّيْلِ",
+        "surah_name_translation": "The Night",
+        "ayah_number": 18,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 4,
+      "translations": {
+        "ar": {
+          "text": "ٱلَّذِي يُؤۡتِي مَالَهُۥ يَتَزَكَّىٰ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "who donate ˹some of˺ their wealth only to purify themselves",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "他虔诚地施舍他的财产，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "जो अपना माल देकर अपने आपको निखारता है",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "aquel que da parte de su riqueza para purificarse [de la avaricia]",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "qui donne ses biens pour se purifier",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "যে আত্নশুদ্ধির জন্যে তার ধন-সম্পদ দান করে।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Que concede sua riqueza, para dignificar-se",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "который раздает свое имущество, очищаясь",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "جو مال دیتا ہے تاکہ پاک ہو",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_092_019",
+      "reference": {
+        "surah_number": 92,
+        "surah_name": "Al-Lail",
+        "surah_name_ar": "سُوْرَةُ الَّيْلِ",
+        "surah_name_translation": "The Night",
+        "ayah_number": 19,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 6,
+      "translations": {
+        "ar": {
+          "text": "وَمَا لِأَحَدٍ عِندَهُۥ مِن نِّعۡمَةࣲ تُجۡزَىٰٓ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "not in return for someone’s favours",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "他没有受过任何人的应报的恩德，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "और हाल यह है कि किसी का उसपर उपकार नहीं कि उसका बदला दिया जा रहा हो",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "no anhelando una retribución ni favor [de otra persona]",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "et auprès de qui personne ne profite d'un bienfait intéressé",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "এবং তার উপর কারও কোন প্রতিদানযোগ্য অনুগ্রহ থাকে না।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E a ninguém faz uma graça, que deva ser quitada",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "и всякую милость возмещает сполна",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور (اس لیے) نہیں (دیتا کہ) اس پر کسی کا احسان (ہے) جس کا وہ بدلہ اتارتا ہے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_092_020",
+      "reference": {
+        "surah_number": 92,
+        "surah_name": "Al-Lail",
+        "surah_name_ar": "سُوْرَةُ الَّيْلِ",
+        "surah_name_translation": "The Night",
+        "ayah_number": 20,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 5,
+      "translations": {
+        "ar": {
+          "text": "إِلَّا ٱبۡتِغَآءَ وَجۡهِ رَبِّهِ ٱلۡأَعۡلَىٰ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "but seeking the pleasure of their Lord, the Most High",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "但他施舍只是为了求他的至尊主的喜悦，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "बल्कि इससे अभीष्ट केवल उसके अपने उच्च रब के मुख (प्रसन्नता) की चाह है",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "sino anhelando el Rostro de su Señor, el Altísimo",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "mais seulement pour la recherche de La Face de son Seigneur le Très Haut",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "তার মহান পালনকর্তার সন্তুষ্টি অন্বেষণ ব্যতীত।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Senão para buscar a face de seu Senhor, O Altíssimo",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "только из стремления к Лику своего Всевышнего Господа",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "بلکہ اپنے خداوند اعلیٰ کی رضامندی حاصل کرنے کے لیے دیتا ہے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_092_021",
+      "reference": {
+        "surah_number": 92,
+        "surah_name": "Al-Lail",
+        "surah_name_ar": "سُوْرَةُ الَّيْلِ",
+        "surah_name_translation": "The Night",
+        "ayah_number": 21,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 2,
+      "translations": {
+        "ar": {
+          "text": "وَلَسَوۡفَ يَرۡضَىٰ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "They will certainly be pleased",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "他自己将来必定喜悦。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "और वह शीघ्र ही राज़ी हो जाएगा",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "y por eso quedará complacido",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Et certes, il sera bientôt satisfait",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "সে সত্বরই সন্তুষ্টি লাভ করবে।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E, em verdade, agradar-se-á de sua recompensa",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "И он непременно будет удовлетворен",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور وہ عنقریب خوش ہو جائے گا",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    }
+  ]
+}

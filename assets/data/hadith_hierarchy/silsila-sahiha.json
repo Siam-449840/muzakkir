@@ -1,0 +1,36 @@
+{
+  "book_key": "silsila-sahiha",
+  "raw_key": "silsila-sahiha",
+  "id": 12,
+  "title_bn": "সিলসিলা সহিহা",
+  "title_en": "Silsila Sahiha",
+  "title_ar": "سلسلة صحيحة",
+  "total_hadiths": 60,
+  "total_chapters": 1,
+  "total_sections": 1,
+  "chapters": [
+    {
+      "id": 1,
+      "display_label": "১",
+      "title": "উত্তম চরিত্র, অনুকম্পা ও (আত্মীয়তার) সম্পর্ক বজায় রাখা প্রসংগ",
+      "arabic_title": "",
+      "preface": "",
+      "range": "১ - ৬০",
+      "order": 1,
+      "hadith_count": 60,
+      "sections_count": 1,
+      "sections": [
+        {
+          "id": 1,
+          "chapter_id": 1,
+          "display_label": "১/১. অধ্যায়ঃ",
+          "title": "উত্তম চরিত্র, অনুকম্পা ও (আত্মীয়তার) সম্পর্ক বজায় রাখা প্রসংগ",
+          "arabic_title": "",
+          "preface": "",
+          "order": 1,
+          "hadith_count": 60
+        }
+      ]
+    }
+  ]
+}

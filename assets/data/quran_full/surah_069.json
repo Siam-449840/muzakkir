@@ -1,0 +1,2917 @@
+{
+  "surah": 69,
+  "verses": [
+    {
+      "content_id": "quran_069_001",
+      "reference": {
+        "surah_number": 69,
+        "surah_name": "Al-Haaqqa",
+        "surah_name_ar": "سُوْرَةُ الْحَآقَّةِ",
+        "surah_name_translation": "The Reality",
+        "ayah_number": 1,
+        "juz": 29,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 1,
+      "translations": {
+        "ar": {
+          "text": "ٱلۡحَآقَّةُ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "The Inevitable Hour",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "真灾，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "होकर रहनेवाली",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "La exposición de la verdad",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "L'inévitable [l'Heure qui montre la vérité]",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "সুনিশ্চিত বিষয়।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "A Incontestável",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Неминуемое (День воскресения)",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "سچ مچ ہونے والی",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_069_002",
+      "reference": {
+        "surah_number": 69,
+        "surah_name": "Al-Haaqqa",
+        "surah_name_ar": "سُوْرَةُ الْحَآقَّةِ",
+        "surah_name_translation": "The Reality",
+        "ayah_number": 2,
+        "juz": 29,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 2,
+      "translations": {
+        "ar": {
+          "text": "مَا ٱلۡحَآقَّةُ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "What is the Inevitable Hour",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "真灾是什么？",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "क्या है वह होकर रहनेवाली",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "¿Qué es la exposición de la verdad",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Qu'est-ce que l'inévitable",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "সুনিশ্চিত বিষয় কি?",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Que é a Incontestável",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Что такое Неминуемое (День воскресения)",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "وہ سچ مچ ہونے والی کیا ہے؟",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_069_003",
+      "reference": {
+        "surah_number": 69,
+        "surah_name": "Al-Haaqqa",
+        "surah_name_ar": "سُوْرَةُ الْحَآقَّةِ",
+        "surah_name_translation": "The Reality",
+        "ayah_number": 3,
+        "juz": 29,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 4,
+      "translations": {
+        "ar": {
+          "text": "وَمَآ أَدۡرَىٰكَ مَا ٱلۡحَآقَّةُ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "And what will make you realize what the Inevitable Hour is",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "你怎么能认识真灾是什么呢？",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "और तुम क्या जानो कि क्या है वह होकर रहनेवाली",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "¿Qué te hará comprender lo que es la exposición de la verdad",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Et qui te dira ce que c'est que l'inévitable",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "আপনি কি কিছু জানেন, সেই সুনিশ্চিত বিষয় কি?",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E o que te faz inteirar-te do que é a Incontestável",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Откуда ты мог знать, что такое Неминуемое (День воскресения)",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور تم کو کیا معلوم ہے کہ سچ مچ ہونے والی کیا ہے؟",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_069_004",
+      "reference": {
+        "surah_number": 69,
+        "surah_name": "Al-Haaqqa",
+        "surah_name_ar": "سُوْرَةُ الْحَآقَّةِ",
+        "surah_name_translation": "The Reality",
+        "ayah_number": 4,
+        "juz": 29,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 4,
+      "translations": {
+        "ar": {
+          "text": "كَذَّبَتۡ ثَمُودُ وَعَادُۢ بِٱلۡقَارِعَةِ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "˹Both˺ Thamûd and ’Ȃd denied the Striking Disaster",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "赛莫德人和阿德人，曾否认大难。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "समूद और आद ने उस खड़खड़ा देनेवाली (घटना) को झुठलाया",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "[Los pueblos de] Zamud y ‘Ad desmintieron el evento repentino",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Les Thamûd et les 'Aad avaient traité de mensonge le cataclysme",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "আদ ও সামুদ গোত্র মহাপ্রলয়কে মিথ্যা বলেছিল।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "O povo de Thamud e de Ãd desmentiram o estrondo",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Самудяне и адиты отрицали Великое бедствие (День воскресения)",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "کھڑکھڑانے والی (جس) کو ثمود اور عاد (دونوں) نے جھٹلایا",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_069_005",
+      "reference": {
+        "surah_number": 69,
+        "surah_name": "Al-Haaqqa",
+        "surah_name_ar": "سُوْرَةُ الْحَآقَّةِ",
+        "surah_name_translation": "The Reality",
+        "ayah_number": 5,
+        "juz": 29,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 4,
+      "translations": {
+        "ar": {
+          "text": "فَأَمَّا ثَمُودُ فَأُهۡلِكُواْ بِٱلطَّاغِيَةِ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "As for Thamûd, they were destroyed by an overwhelming blast",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "至於赛莫德人呢，已为严刑所毁灭；",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "फिर समूद तो एक हद से बढ़ जानेवाली आपदा से विनष्ट किए गए",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Zamud fue destruido por una catástrofe",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Quant aux Thamûd, ils furent détruits par le [bruit] excessivement fort",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "অতঃপর সমুদ গোত্রকে ধ্বংস করা হয়েছিল এক প্রলয়ংকর বিপর্যয় দ্বারা।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Então, quanto ao povo de Thamud, foram aniquilados pelo Grito transgressor",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Самудяне были истреблены неистовым воплем",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "سو ثمود تو کڑک سے ہلاک کردیئے گئے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_069_006",
+      "reference": {
+        "surah_number": 69,
+        "surah_name": "Al-Haaqqa",
+        "surah_name_ar": "سُوْرَةُ الْحَآقَّةِ",
+        "surah_name_translation": "The Reality",
+        "ayah_number": 6,
+        "juz": 29,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 6,
+      "translations": {
+        "ar": {
+          "text": "وَأَمَّا عَادࣱ فَأُهۡلِكُواْ بِرِيحࣲ صَرۡصَرٍ عَاتِيَةࣲ‏",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "And as for ’Ȃd, they were destroyed by a furious, bitter wind",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "至於阿德人，已为怒吼的暴风所毁灭。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "और रहे आद, तो वे एक अनियंत्रित प्रचंड वायु से विनष्ट कर दिए गए",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Y ‘Ad fue aniquilado por un viento gélido",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Et quant aux 'Aad, ils furent détruits par un vent mugissant et furieux",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "এবং আদ গোত্রকে ধ্বংস করা হয়েছিল এক প্রচন্ড ঝঞ্জাবায়ূ,",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E, quanto ao povo de Ãd, foram aniquilados por estridente, desmesurado vento glacial",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Адиты же были истреблены ветром морозным (или завывающим), лютым",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "رہے عاد تو ان کا نہایت تیز آندھی سے ستیاناس کردیا گیا",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_069_007",
+      "reference": {
+        "surah_number": 69,
+        "surah_name": "Al-Haaqqa",
+        "surah_name_ar": "سُوْرَةُ الْحَآقَّةِ",
+        "surah_name_translation": "The Reality",
+        "ayah_number": 7,
+        "juz": 29,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 16,
+      "translations": {
+        "ar": {
+          "text": "سَخَّرَهَا عَلَيۡهِمۡ سَبۡعَ لَيَالࣲ وَثَمَٰنِيَةَ أَيَّامٍ حُسُومࣰ اۖ فَتَرَى ٱلۡقَوۡمَ فِيهَا صَرۡعَىٰ كَأَنَّهُمۡ أَعۡجَازُ نَخۡلٍ خَاوِيَةࣲ‏",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "which Allah unleashed on them non-stop for seven nights and eight days, so that you would have seen its people lying dead like trunks of uprooted palm trees",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "真主曾使暴风对著他们连刮了七夜8昼，你看阿德人倒仆在地上，好像空心的海枣树干一样。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "अल्लाह ने उसको सात रात और आठ दिन तक उन्मूलन के उद्देश्य से उनपर लगाए रखा। तो लोगों को तुम देखते कि वे उसमें पछाड़े हुए ऐसे पड़े है मानो वे खजूर के जर्जर तने हों",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "que los azotó durante siete noches y ocho días ininterrumpidamente. La gente quedó tendida, sin vida, como troncos huecos de palmeras derribadas",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "qu'[Allah] déchaîna contre eux pendant sept nuits et huit jours consécutifs; tu voyais alors les gens renversés par terre comme des souches de palmiers évidées",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "যা তিনি প্রবাহিত করেছিলেন তাদের উপর সাত রাত্রি ও আট দিবস পর্যন্ত অবিরাম। আপনি তাদেরকে দেখতেন যে, তারা অসার খর্জুর কান্ডের ন্যায় ভূপাতিত হয়ে রয়েছে।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Allah submeteu-o, contra eles, durante sete noites e oito dias seqüentes; então, podias ver neles as pessoas prostradas, como ocos troncos de tamareiras",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Он заставил его бушевать над ними в течение семи ночей и восьми дней без перерыва, и ты мог бы увидеть людей, которые были повержены, словно рухнувшие сгнившие пальмовые стволы",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "خدا نے اس کو سات رات اور آٹھ دن لگاتار ان پر چلائے رکھا تو (اے مخاطب) تو لوگوں کو اس میں (اس طرح) ڈھئے (اور مرے) پڑے دیکھے جیسے کھجوروں کے کھوکھلے تنے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_069_008",
+      "reference": {
+        "surah_number": 69,
+        "surah_name": "Al-Haaqqa",
+        "surah_name_ar": "سُوْرَةُ الْحَآقَّةِ",
+        "surah_name_translation": "The Reality",
+        "ayah_number": 8,
+        "juz": 29,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 5,
+      "translations": {
+        "ar": {
+          "text": "فَهَلۡ تَرَىٰ لَهُم مِّنۢ بَاقِيَةࣲ‏",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Do you see any of them left alive",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "你能看见他们还有孑遗吗？",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "अब क्या तुम्हें उनमें से कोई शेष दिखाई देता है",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "¿Acaso ves ahora algún rastro de ellos",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "En vois-tu le moindre vestige",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "আপনি তাদের কোন অস্তিত্ব দেখতে পান কি?",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Então, tu vês deles algum remanescente",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Видишь ли ты что-либо оставшееся от них",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "بھلا تو ان میں سے کسی کو بھی باقی دیکھتا ہے؟",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_069_009",
+      "reference": {
+        "surah_number": 69,
+        "surah_name": "Al-Haaqqa",
+        "surah_name_ar": "سُوْرَةُ الْحَآقَّةِ",
+        "surah_name_translation": "The Reality",
+        "ayah_number": 9,
+        "juz": 29,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 6,
+      "translations": {
+        "ar": {
+          "text": "وَجَآءَ فِرۡعَوۡنُ وَمَن قَبۡلَهُۥ وَٱلۡمُؤۡتَفِكَٰتُ بِٱلۡخَاطِئَةِ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Also, Pharaoh and those before him, and ˹the people of˺ the overturned cities ˹of Lot˺ indulged in sin",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "法老和在他之前的人，以及被倾覆的城市的居民，又再犯罪，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "और फ़िरऔन ने और उससे पहले के लोगों ने और तलपट हो जानेवाली बस्तियों ने यह ख़ता की",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "El Faraón, otros pueblos de la antigüedad y los que fueron elevados con sus casas y arrojados al revés, cometieron los pecados más graves",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Pharaon et ceux qui vécurent avant lui ainsi que les Villes renversées, commirent des fautes",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "ফেরাউন, তাঁর পূর্ববর্তীরা এবং উল্টে যাওয়া বস্তিবাসীরা গুরুতর পাপ করেছিল।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E Faraó e os que foram antes dele e os habitantes das cidades tombadas, chegaram com o nefando erro",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Фараон, его предшественники и опрокинутые селения (селения народа Лута) совершали грехи",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور فرعون اور جو لوگ اس سے پہلے تھے اور وہ جو الٹی بستیوں میں رہتے تھے سب گناہ کے کام کرتے تھے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_069_010",
+      "reference": {
+        "surah_number": 69,
+        "surah_name": "Al-Haaqqa",
+        "surah_name_ar": "سُوْرَةُ الْحَآقَّةِ",
+        "surah_name_translation": "The Reality",
+        "ayah_number": 10,
+        "juz": 29,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 6,
+      "translations": {
+        "ar": {
+          "text": "فَعَصَوۡاْ رَسُولَ رَبِّهِمۡ فَأَخَذَهُمۡ أَخۡذَةࣰ رَّابِيَةً",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "each disobeying their Lord’s messenger, so He seized them with a crushing grip",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "他们曾违抗他们的主的使者，故他严厉惩治了他们。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "उन्होंने अपने रब के रसूल की अवज्ञा की तो उसने उन्हें ऐसी पकड़ में ले लिया जो बड़ी कठोर थी",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "desobedecieron al Mensajero que les había enviado su Señor, y por eso Dios los sorprendió con un castigo severo",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Ils désobéirent au Messager de leur Seigneur. Celui-ci donc, les saisit d'une façon irrésistible",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "তারা তাদের পালনকর্তার রসূলকে অমান্য করেছিল। ফলে তিনি তাদেরকে কঠোরহস্তে পাকড়াও করলেন।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E desobedeceram ao Mensageiro de seu Senhor; então, Ele os apanhou, violentamente",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Они ослушались посланника своего Господа, и Он схватил их Хваткой превосходящей",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "انہوں نے اپنے پروردگار کے پیغمبر کی نافرمانی کی تو خدا نے بھی ان کو بڑا سخت پکڑا",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_069_011",
+      "reference": {
+        "surah_number": 69,
+        "surah_name": "Al-Haaqqa",
+        "surah_name_ar": "سُوْرَةُ الْحَآقَّةِ",
+        "surah_name_translation": "The Reality",
+        "ayah_number": 11,
+        "juz": 29,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 7,
+      "translations": {
+        "ar": {
+          "text": "إِنَّا لَمَّا طَغَا ٱلۡمَآءُ حَمَلۡنَٰكُمۡ فِي ٱلۡجَارِيَةِ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Indeed, when the floodwater had overflowed, We carried you in the floating Ark ˹with Noah˺",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "当大水泛滥的时候，我让你们乘船，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "जब पानी उमड़ आया तो हमने तुम्हें प्रवाहित नौका में सवार किया",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Cuando las aguas lo inundaron todo, salvé en el arca a Noé y a quienes creyeron en él",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "C'est Nous qui, quand l'eau déborda, vous avons chargés sur l'Arche",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "যখন জলোচ্ছ্বাস হয়েছিল, তখন আমি তোমাদেরকে চলন্ত নৌযানে আরোহণ করিয়েছিলাম।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Por certo, quando as águas transbordaram, carregamo-vos, na corrente nau",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Когда вода стала разливаться, Мы повезли вас в плавучем ковчеге",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "جب پانی طغیانی پر آیا تو ہم نے تم (لوگوں) کو کشتی میں سوار کرلیا",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_069_012",
+      "reference": {
+        "surah_number": 69,
+        "surah_name": "Al-Haaqqa",
+        "surah_name_ar": "سُوْرَةُ الْحَآقَّةِ",
+        "surah_name_translation": "The Reality",
+        "ayah_number": 12,
+        "juz": 29,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 6,
+      "translations": {
+        "ar": {
+          "text": "لِنَجۡعَلَهَا لَكُمۡ تَذۡكِرَةࣰ وَتَعِيَهَآ أُذُنࣱ وَٰعِيَةࣱ‏",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "so that We may make this a reminder to you, and that attentive ears may grasp it",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "以便我以那件事为你们的教训，以便能记忆的耳朵把它记住。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "ताकि उसे तुम्हारे लिए हम शिक्षाप्रद यादगार बनाएँ और याद रखनेवाले कान उसे सुरक्षित रखें",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "para que sea un motivo de reflexión y para que todo oído atento escuche su historia",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "afin d'en faire pour vous un rappel que toute oreille fidèle conserve",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "যাতে এ ঘটনা তোমাদের জন্যে স্মৃতির বিষয় এবং কান এটাকে উপদেশ গ্রহণের উপযোগী রূপে গ্রহণ করে।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Para fazermos dela lembrança para vós, e para a atentarem ouvidos atentos",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "чтобы он стал для вас напоминанием и чтобы запоминающее ухо запомнило это",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "تاکہ اس کو تمہارے لئے یادگار بنائیں اور یاد رکھنے والے کان اسے یاد رکھیں",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_069_013",
+      "reference": {
+        "surah_number": 69,
+        "surah_name": "Al-Haaqqa",
+        "surah_name_ar": "سُوْرَةُ الْحَآقَّةِ",
+        "surah_name_translation": "The Reality",
+        "ayah_number": 13,
+        "juz": 29,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 6,
+      "translations": {
+        "ar": {
+          "text": "فَإِذَا نُفِخَ فِي ٱلصُّورِ نَفۡخَةࣱ وَٰحِدَةࣱ‏",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "At last, when the Trumpet will be blown with one blast",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "当号角一向，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "तो याद रखो जब सूर (नरसिंघा) में एक फूँक मारी जाएगी",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Cuando la trompeta sea soplada una primera vez",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Puis, quand d'un seul souffle, on soufflera dans la Trompe",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "যখন শিংগায় ফুৎকার দেয়া হবে-একটি মাত্র ফুৎকার",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Então, quando se soprar na Trombeta, um só sopro",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Когда же подуют в Рог всего один раз",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "تو جب صور میں ایک (بار) پھونک مار دی جائے گی",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_069_014",
+      "reference": {
+        "surah_number": 69,
+        "surah_name": "Al-Haaqqa",
+        "surah_name_ar": "سُوْرَةُ الْحَآقَّةِ",
+        "surah_name_translation": "The Reality",
+        "ayah_number": 14,
+        "juz": 29,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 6,
+      "translations": {
+        "ar": {
+          "text": "وَحُمِلَتِ ٱلۡأَرۡضُ وَٱلۡجِبَالُ فَدُكَّتَا دَكَّةࣰ وَٰحِدَةࣰ‏",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "and the earth and mountains will be lifted up and crushed with one blow",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "大地和山岳都被移动，且互相碰撞一次的时候；",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "और धरती और पहाड़ों को उठाकर एक ही बार में चूर्ण-विचूर्ण कर दिया जाएगा",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "y la tierra y las montañas sean elevadas y choquen unas contra otras",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "et que la terre et les montagnes seront soulevées puis tassées d'un seul coup",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "এবং পৃথিবী ও পর্বতমালা উত্তোলিত হবে ও চুর্ণ-বিচুর্ণ করে দেয়া হবে,",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E forem carregadas a terra e as montanhas, e forem pulverizados, de um só golpe",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "когда земля и горы будут подняты и разобьются, превратившись в песок за один раз",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور زمین اور پہاڑ دونوں اٹھا لئے جائیں گے۔ پھر ایک بارگی توڑ پھوڑ کر برابر کردیئے جائیں گے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_069_015",
+      "reference": {
+        "surah_number": 69,
+        "surah_name": "Al-Haaqqa",
+        "surah_name_ar": "سُوْرَةُ الْحَآقَّةِ",
+        "surah_name_translation": "The Reality",
+        "ayah_number": 15,
+        "juz": 29,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 3,
+      "translations": {
+        "ar": {
+          "text": "فَيَوۡمَئِذࣲ وَقَعَتِ ٱلۡوَاقِعَةُ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "on that Day the Inevitable Event will have come to pass",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "在那日，那件大事将发生，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "तो उस दिन घटित होनेवाली घटना घटित हो जाएगी",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "entonces ocurrirá el suceso",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "ce jour-là alors, l'Evénement se produira",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "সেদিন কেয়ামত সংঘটিত হবে।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Então, nesse dia, sobrevirá o Acontecimento, o Dia do Juízo",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "в тот день наступит Событие (День воскресения)",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "تو اس روز ہو پڑنے والی (یعنی قیامت) ہو پڑے گی",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_069_016",
+      "reference": {
+        "surah_number": 69,
+        "surah_name": "Al-Haaqqa",
+        "surah_name_ar": "سُوْرَةُ الْحَآقَّةِ",
+        "surah_name_translation": "The Reality",
+        "ayah_number": 16,
+        "juz": 29,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 5,
+      "translations": {
+        "ar": {
+          "text": "وَٱنشَقَّتِ ٱلسَّمَآءُ فَهِيَ يَوۡمَئِذࣲ وَاهِيَةࣱ‏",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "The sky will then be so torn that it will be frail",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "天将破裂；在那日，天将成为脆弱的。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "और आकाश फट जाएगा और उस दिन उसका बन्धन ढीला पड़ जाएगा",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Ese día el cielo se quebrantará en su fragilidad",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "et le ciel se fendra et sera fragile, ce jour-là",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "সেদিন আকাশ বিদীর্ণ হবে ও বিক্ষিপ্ত হবে।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E o céu fender-se-á, e será frágil, nesse dia",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Небо разверзнется, ибо оно в тот день будет слабым",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور آسمان پھٹ جائے گا تو وہ اس دن کمزور ہوگا",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_069_017",
+      "reference": {
+        "surah_number": 69,
+        "surah_name": "Al-Haaqqa",
+        "surah_name_ar": "سُوْرَةُ الْحَآقَّةِ",
+        "surah_name_translation": "The Reality",
+        "ayah_number": 17,
+        "juz": 29,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 9,
+      "translations": {
+        "ar": {
+          "text": "وَٱلۡمَلَكُ عَلَىٰٓ أَرۡجَآئِهَاۚ وَيَحۡمِلُ عَرۡشَ رَبِّكَ فَوۡقَهُمۡ يَوۡمَئِذࣲ ثَمَٰنِيَةࣱ‏",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "with the angels on its sides. On that Day eight ˹mighty angels˺ will bear the Throne of your Lord above them",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "众天神将在天的各方；在那日，在他们上面，将有八个天神，担负你的主的宝座；",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "और फ़रिश्ते उसके किनारों पर होंगे और उस दिन तुम्हारे रब के सिंहासन को आठ अपने ऊपर उठाए हुए होंगे",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Los ángeles estarán en sus confines, y ocho serán los que portarán el Trono de tu Señor ese día",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Et sur ses côtés [se tiendront] les Anges, tandis que huit, ce jour-là, porteront au-dessus d'eux le Trône de ton Seigneur",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "এবং ফেরেশতাগণ আকাশের প্রান্তদেশে থাকবে ও আট জন ফেরেশতা আপনার পালনকর্তার আরশকে তাদের উর্ধ্বে বহন করবে।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E os anjos estarão em seus confins, enquanto oito carregarão o Trono de teu Senhor, acima deles, nesse dia",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Ангелы будут находиться по его краю, и восьмеро понесут над собой Трон твоего Господа",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور فرشتے اس کے کناروں پر (اُتر آئیں گے) اور تمہارے پروردگار کے عرش کو اس روز آٹھ فرشتے اپنے سروں پر اُٹھائے ہوں گے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_069_018",
+      "reference": {
+        "surah_number": 69,
+        "surah_name": "Al-Haaqqa",
+        "surah_name_ar": "سُوْرَةُ الْحَآقَّةِ",
+        "surah_name_translation": "The Reality",
+        "ayah_number": 18,
+        "juz": 29,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 6,
+      "translations": {
+        "ar": {
+          "text": "يَوۡمَئِذࣲ تُعۡرَضُونَ لَا تَخۡفَىٰ مِنكُمۡ خَافِيَةࣱ‏",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "You will then be presented ˹before Him for judgment˺, and none of your secrets will stay hidden",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "在那日，你们将被检阅，你们的任何秘密，都无法隐藏。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "उस दिन तुम लोग पेश किए जाओगे, तुम्हारी कोई छिपी बात छिपी न रहेगी",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Ese día ustedes comparecerán [ante Dios], y ni la más secreta de sus obras quedará oculta",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Ce jour-là vous serez exposés; et rien de vous ne sera caché",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "সেদিন তোমাদেরকে উপস্থিত করা হবে। তোমাদের কোন কিছু গোপন থাকবে না।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Nesse dia, sereis expostos; nenhum segredo vosso se ocultará",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "В тот день вы предстанете, и ни одна ваша тайна не останется сокрытой",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اس روز تم (سب لوگوں کے سامنے) پیش کئے جاؤ گے اور تمہاری کوئی پوشیدہ بات چھپی نہ رہے گی",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_069_019",
+      "reference": {
+        "surah_number": 69,
+        "surah_name": "Al-Haaqqa",
+        "surah_name_ar": "سُوْرَةُ الْحَآقَّةِ",
+        "surah_name_translation": "The Reality",
+        "ayah_number": 19,
+        "juz": 29,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 9,
+      "translations": {
+        "ar": {
+          "text": "فَأَمَّا مَنۡ أُوتِيَ كِتَٰبَهُۥ بِيَمِينِهِۦ فَيَقُولُ هَآؤُمُ ٱقۡرَءُواْ كِتَٰبِيَهۡ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "As for those given their records in their right hand, they will cry ˹happily˺, “Here ˹everyone˺! Read my record",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "用右手接受自己的功过簿的人将说：你们拿我的功过簿去读读吧！",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "फिर जिस किसी को उसका कर्म-पत्र उसके दाहिने हाथ में दिया गया, तो वह कहेगा, \"लो पढ़ो, मेरा कर्म-पत्र",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Quien reciba el libro de sus obras con la mano derecha dirá [a los demás con felicidad]: \"Miren y vean mi libro",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Quant à celui à qui on aura remis le Livre en sa main droite, il dira: «Tenez! lisez mon livre",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "অতঃপর যার আমলনামা ডান হাতে দেয়া হবে, সে বলবেঃ নাও, তোমরাও আমলনামা পড়ে দেখ।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Então, quanto àquele a quem for concedido seu livro, em sua destra, dirá: \"Vinde, lede meu livro",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Тот, кому его книга будет дана в правую руку, скажет: «Вот! Прочтите мою книгу",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "تو جس کا (اعمال) نامہ اس کے داہنے ہاتھ میں دیا جائے گا وہ (دوسروں سے) کہے گا کہ لیجیئے میرا نامہ (اعمال) پڑھیئے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_069_020",
+      "reference": {
+        "surah_number": 69,
+        "surah_name": "Al-Haaqqa",
+        "surah_name_ar": "سُوْرَةُ الْحَآقَّةِ",
+        "surah_name_translation": "The Reality",
+        "ayah_number": 20,
+        "juz": 29,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 5,
+      "translations": {
+        "ar": {
+          "text": "إِنِّي ظَنَنتُ أَنِّي مُلَٰقٍ حِسَابِيَهۡ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "I surely knew I would face my reckoning.”",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "我确已猜想到我必遇见我的账目。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "मैं तो समझता ही था कि मुझे अपना हिसाब मिलनेवाला है।",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "yo sabía que iba a ser juzgado [algún día]",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "J'étais sûr d'y trouver mon compte»",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "আমি জানতাম যে, আমাকে হিসাবের সম্মুখীন হতে হবে।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Por certo, já pensara deparar minha conta",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Я верил в то, что мне предъявят счет»",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "مجھے یقین تھا کہ مجھ کو میرا حساب (کتاب) ضرور ملے گا",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_069_021",
+      "reference": {
+        "surah_number": 69,
+        "surah_name": "Al-Haaqqa",
+        "surah_name_ar": "سُوْرَةُ الْحَآقَّةِ",
+        "surah_name_translation": "The Reality",
+        "ayah_number": 21,
+        "juz": 29,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 4,
+      "translations": {
+        "ar": {
+          "text": "فَهُوَ فِي عِيشَةࣲ رَّاضِيَةࣲ‏",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "They will be in a life of bliss",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "他将在愉快的生活里，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "अतः वह सुख और आनन्दमय जीवन में होगा",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Tendrá una vida placentera",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Il jouira d'une vie agréable",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "অতঃপর সে সুখী জীবন-যাপন করবে,",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Estará em vida agradável",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Для него будет отрадная жизнь",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "پس وہ (شخص) من مانے عیش میں ہوگا",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_069_022",
+      "reference": {
+        "surah_number": 69,
+        "surah_name": "Al-Haaqqa",
+        "surah_name_ar": "سُوْرَةُ الْحَآقَّةِ",
+        "surah_name_translation": "The Reality",
+        "ayah_number": 22,
+        "juz": 29,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 3,
+      "translations": {
+        "ar": {
+          "text": "فِي جَنَّةٍ عَالِيَةࣲ‏",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "in an elevated Garden",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "在崇高的乐园里，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "उच्च जन्नत में",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "en un jardín elevado",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "dans un Jardin haut placé",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "সুউচ্চ জান্নাতে।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Estarão em um alto Jardim",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "в вышнем саду",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "(یعنی) اونچے (اونچے محلوں) کے باغ میں",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_069_023",
+      "reference": {
+        "surah_number": 69,
+        "surah_name": "Al-Haaqqa",
+        "surah_name_ar": "سُوْرَةُ الْحَآقَّةِ",
+        "surah_name_translation": "The Reality",
+        "ayah_number": 23,
+        "juz": 29,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 2,
+      "translations": {
+        "ar": {
+          "text": "قُطُوفُهَا دَانِيَةࣱ‏",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "whose fruit will hang within reach",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "那里面的水果伸手可得。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "जिसके फलों के गुच्छे झुके होंगे",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "cuyos frutos estarán al alcance de la mano",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "dont les fruits sont à portée de la main",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "তার ফলসমূহ অবনমিত থাকবে।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Seus frutos estarão à mão",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "где плоды склоняются низко",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "جن کے میوے جھکے ہوئے ہوں گے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_069_024",
+      "reference": {
+        "surah_number": 69,
+        "surah_name": "Al-Haaqqa",
+        "surah_name_ar": "سُوْرَةُ الْحَآقَّةِ",
+        "surah_name_translation": "The Reality",
+        "ayah_number": 24,
+        "juz": 29,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 8,
+      "translations": {
+        "ar": {
+          "text": "كُلُواْ وَٱشۡرَبُواْ هَنِيٓـَٔۢا بِمَآ أَسۡلَفۡتُمۡ فِي ٱلۡأَيَّامِ ٱلۡخَالِيَةِ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "˹They will be told,˺ “Eat and drink joyfully for what you did in the days gone by.”",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "你们可以愉快地饮食，因为你们在过去的岁月中行过善。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "मज़े से खाओ और पियो उन कर्मों के बदले में जो तुमने बीते दिनों में किए है",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "[Se les dirá:] \"Coman y beban con alegría en recompensa por lo que obraron en los días pasados",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "«Mangez et buvez agréablement pour ce que vous avez avancé dans les jours passés»",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "বিগত দিনে তোমরা যা প্রেরণ করেছিলে, তার প্রতিদানে তোমরা খাও এবং পান কর তৃপ্তি সহকারে।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Dir-se-Ihes-á: \"Comei e bebei, com deleite, pelo que adiantastes nos dias passados",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Ешьте и пейте во здравие за то, что вы совершили в минувшие дни",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "جو (عمل) تم ایام گزشتہ میں آگے بھیج چکے ہو اس کے صلے میں مزے سے کھاؤ اور پیو",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_069_025",
+      "reference": {
+        "surah_number": 69,
+        "surah_name": "Al-Haaqqa",
+        "surah_name_ar": "سُوْرَةُ الْحَآقَّةِ",
+        "surah_name_translation": "The Reality",
+        "ayah_number": 25,
+        "juz": 29,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 10,
+      "translations": {
+        "ar": {
+          "text": "وَأَمَّا مَنۡ أُوتِيَ كِتَٰبَهُۥ بِشِمَالِهِۦ فَيَقُولُ يَٰلَيۡتَنِي لَمۡ أُوتَ كِتَٰبِيَهۡ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "And as for those given their record in their left hand, they will cry ˹bitterly˺, “I wish I had not been given my record",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "以左手接过自己的功过簿的人将说：啊呀！但愿我没有接过我的功过簿，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "और रहा वह क्यक्ति जिसका कर्म-पत्र उसके बाएँ हाथ में दिया गया, वह कहेगा, \"काश, मेरा कर्म-पत्र मुझे न दिया जाता",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "En cambio, quien reciba el registro de sus obras en la mano izquierda, se dirá a sí mismo: \"Ojalá no se me hubiera entregado mi libro",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Quant à celui à qui on aura remis le Livre en sa main gauche, il dira: «Hélas pour moi! J'aurai souhaité qu'on ne m'ait pas remis mon livre",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "যার আমলনামা তার বাম হাতে দেয়া হবে, সে বলবেঃ হায় আমায় যদি আমার আমল নামা না দেয়া হতো।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E, quanto àquele a quem for concedido seu livro, em sua sestra, dirá: \"Quem dera, não me houvesse sido concedido meu livro",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Тот же, кому его книга будет дана в левую руку, скажет: «Лучше бы мне не вручали моей книги",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور جس کا نامہ (اعمال) اس کے بائیں ہاتھ میں یاد جائے گا وہ کہے گا اے کاش مجھ کو میرا (اعمال) نامہ نہ دیا جاتا",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_069_026",
+      "reference": {
+        "surah_number": 69,
+        "surah_name": "Al-Haaqqa",
+        "surah_name_ar": "سُوْرَةُ الْحَآقَّةِ",
+        "surah_name_translation": "The Reality",
+        "ayah_number": 26,
+        "juz": 29,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 4,
+      "translations": {
+        "ar": {
+          "text": "وَلَمۡ أَدۡرِ مَا حِسَابِيَهۡ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "nor known anything of my reckoning",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "不知道我自己的账目！",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "और मैं न जानता कि मेरा हिसाब क्या है",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "ni se me hubiese juzgado",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "et ne pas avoir connu mon compte",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "আমি যদি না জানতাম আমার হিসাব!",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E me não inteirasse de minha conta",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Не знать бы мне, каков мой счет",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور مجھے معلوم نہ ہو کہ میرا حساب کیا ہے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_069_027",
+      "reference": {
+        "surah_number": 69,
+        "surah_name": "Al-Haaqqa",
+        "surah_name_ar": "سُوْرَةُ الْحَآقَّةِ",
+        "surah_name_translation": "The Reality",
+        "ayah_number": 27,
+        "juz": 29,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 3,
+      "translations": {
+        "ar": {
+          "text": "يَٰلَيۡتَهَا كَانَتِ ٱلۡقَاضِيَةَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "I wish death was the end",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "但愿尘世的死亡已了结我的一生！",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "ऐ काश, वह (मृत्यु) समाप्त करनेवाली होती",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Ojalá mi muerte hubiera sido definitiva [y no me hubieran resucitado]",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Hélas, comme j'aurai souhaité que [ma première mort] fût la définitive",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "হায়, আমার মৃত্যুই যদি শেষ হত।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Quem dera fosse ela o decisivo fim",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Лучше бы она была концом всего",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اے کاش موت (ابد الاآباد کے لئے میرا کام) تمام کرچکی ہوتی",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_069_028",
+      "reference": {
+        "surah_number": 69,
+        "surah_name": "Al-Haaqqa",
+        "surah_name_ar": "سُوْرَةُ الْحَآقَّةِ",
+        "surah_name_translation": "The Reality",
+        "ayah_number": 28,
+        "juz": 29,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 4,
+      "translations": {
+        "ar": {
+          "text": "مَآ أَغۡنَىٰ عَنِّي مَالِيَهۡۜ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "My wealth has not benefited me",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "我的财产於我毫无裨益，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "मेरा माल मेरे कुछ काम न आया",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "De nada me sirve ahora el dinero que tuve",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Ma fortune ne m'a servi à rien",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "আমার ধন-সম্পদ আমার কোন উপকারে আসল না।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "De nada me valeram minhas riquezas",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Не помогло мне мое богатство",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "(آج) میرا مال میرے کچھ بھی کام بھی نہ آیا",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_069_029",
+      "reference": {
+        "surah_number": 69,
+        "surah_name": "Al-Haaqqa",
+        "surah_name_ar": "سُوْرَةُ الْحَآقَّةِ",
+        "surah_name_translation": "The Reality",
+        "ayah_number": 29,
+        "juz": 29,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 3,
+      "translations": {
+        "ar": {
+          "text": "هَلَكَ عَنِّي سُلۡطَٰنِيَهۡ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "My authority has been stripped from me.”",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "我的权柄已从我的手中消失。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "मेरा ज़ोर (सत्ता) मुझसे जाता रहा",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Mi influencia ha desaparecido",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Mon autorité est anéantie et m'a quitté!»",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "আমার ক্ষমতাও বরবাদ হয়ে গেল।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Foi-se minha autoridade para longe de mim",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Лишился я своей власти!»",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "(ہائے) میری سلطنت خاک میں مل گئی",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_069_030",
+      "reference": {
+        "surah_number": 69,
+        "surah_name": "Al-Haaqqa",
+        "surah_name_ar": "سُوْرَةُ الْحَآقَّةِ",
+        "surah_name_translation": "The Reality",
+        "ayah_number": 30,
+        "juz": 29,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 2,
+      "translations": {
+        "ar": {
+          "text": "خُذُوهُ فَغُلُّوهُ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "˹It will be said,˺ “Seize and shackle them",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "你们捉住他，给他带上枷锁，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "पकड़ो उसे और उसकी गरदन में तौक़ डाल दो",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "[Dios dirá a los ángeles:] \"Aprésenlo y encadénenlo",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "«Saisissez-le! Puis, mettez-lui un carcan",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "ফেরেশতাদেরকে বলা হবেঃ ধর একে গলায় বেড়ি পড়িয়ে দাও,",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Dir-se-á: \"Apanhai-o e agrilhoai-o",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Схватите его и закуйте",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "(حکم ہوگا کہ) اسے پکڑ لو اور طوق پہنا دو",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_069_031",
+      "reference": {
+        "surah_number": 69,
+        "surah_name": "Al-Haaqqa",
+        "surah_name_ar": "سُوْرَةُ الْحَآقَّةِ",
+        "surah_name_translation": "The Reality",
+        "ayah_number": 31,
+        "juz": 29,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 3,
+      "translations": {
+        "ar": {
+          "text": "ثُمَّ ٱلۡجَحِيمَ صَلُّوهُ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "then burn them in Hell",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "然后把他投在烈火里，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "फिर उसे भड़कती हुई आग में झोंक दो",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Introdúzcanlo en el fuego del Infierno",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "ensuite, brûlez-le dans la Fournaise",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "অতঃপর নিক্ষেপ কর জাহান্নামে।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Em seguida, fazei-o entrar no Inferno",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "потом бросьте его в Ад",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "پھر دوزخ کی آگ میں جھونک دو",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_069_032",
+      "reference": {
+        "surah_number": 69,
+        "surah_name": "Al-Haaqqa",
+        "surah_name_ar": "سُوْرَةُ الْحَآقَّةِ",
+        "surah_name_translation": "The Reality",
+        "ayah_number": 32,
+        "juz": 29,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 8,
+      "translations": {
+        "ar": {
+          "text": "ثُمَّ فِي سِلۡسِلَةࣲ ذَرۡعُهَا سَبۡعُونَ ذِرَاعࣰ ا فَٱسۡلُكُوهُ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "then tie them up with chains seventy arms long",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "然后把他穿在一条7十臂长的链子上。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "फिर उसे एक ऐसी जंजीर में जकड़ दो जिसकी माप सत्तर हाथ है",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "sujétenlo con una cadena de setenta codos",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "puis, liez-le avec une chaîne de soixante-dix coudées",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "অতঃপর তাকে শৃঙ্খলিত কর সত্তর গজ দীর্ঘ এক শিকলে।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Em seguida, prendei-o, então, em corrente de setenta côvados",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "и нанизьте его на цепь длиной в семьдесят локтей",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "پھر زنجیر سے جس کی ناپ ستر گز ہے جکڑ دو",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_069_033",
+      "reference": {
+        "surah_number": 69,
+        "surah_name": "Al-Haaqqa",
+        "surah_name_ar": "سُوْرَةُ الْحَآقَّةِ",
+        "surah_name_translation": "The Reality",
+        "ayah_number": 33,
+        "juz": 29,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 6,
+      "translations": {
+        "ar": {
+          "text": "إِنَّهُۥ كَانَ لَا يُؤۡمِنُ بِٱللَّهِ ٱلۡعَظِيمِ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "For they never had faith in Allah, the Greatest",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "他生前确是不信仰尊大的真主，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "वह न तो महिमावान अल्लाह पर ईमान रखता था",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "porque no creía en Dios, el Grandioso",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "car il ne croyait pas en Allah, le Très Grand",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "নিশ্চয় সে মহান আল্লাহতে বিশ্বাসী ছিল না।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Por certo, ele não cria no Magnífico Allah",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Он не веровал в Великого Аллаха",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "یہ نہ تو خدائے جل شانہ پر ایمان لاتا تھا",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_069_034",
+      "reference": {
+        "surah_number": 69,
+        "surah_name": "Al-Haaqqa",
+        "surah_name_ar": "سُوْرَةُ الْحَآقَّةِ",
+        "surah_name_translation": "The Reality",
+        "ayah_number": 34,
+        "juz": 29,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 5,
+      "translations": {
+        "ar": {
+          "text": "وَلَا يَحُضُّ عَلَىٰ طَعَامِ ٱلۡمِسۡكِينِ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "nor encouraged the feeding of the poor",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "不勉励人账济贪民；",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "और न मुहताज को खाना खिलाने पर उभारता था",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "ni alentaba a alimentar al pobre",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "et n'incitait pas à nourrir le pauvre",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "এবং মিসকীনকে আহার্য দিতে উৎসাহিত করত না।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E não incitava ninguém a alimentar o necessitado",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "и не призывал кормить бедняка",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور نہ فقیر کے کھانا کھلانے پر آمادہ کرتا تھا",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_069_035",
+      "reference": {
+        "surah_number": 69,
+        "surah_name": "Al-Haaqqa",
+        "surah_name_ar": "سُوْرَةُ الْحَآقَّةِ",
+        "surah_name_translation": "The Reality",
+        "ayah_number": 35,
+        "juz": 29,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 5,
+      "translations": {
+        "ar": {
+          "text": "فَلَيۡسَ لَهُ ٱلۡيَوۡمَ هَٰهُنَا حَمِيمࣱ‏",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "So this Day they will have no close friend here",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "故今日他在这里没有一个亲戚。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "अतः आज उसका यहाँ कोई घनिष्ट मित्र नहीं",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Hoy no tiene aquí amigo que pueda interceder por él",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Il n'a pour lui ici, aujourd'hui, point d'ami chaleureux [pour le protéger]",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "অতএব, আজকের দিন এখানে তার কোন সুহূদ নাই।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Então, hoje, ele não terá, aqui, íntimo algum",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Сегодня здесь у него нет любящего родственника",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "سو آج اس کا بھی یہاں کوئی دوستدار نہیں",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_069_036",
+      "reference": {
+        "surah_number": 69,
+        "surah_name": "Al-Haaqqa",
+        "surah_name_ar": "سُوْرَةُ الْحَآقَّةِ",
+        "surah_name_translation": "The Reality",
+        "ayah_number": 36,
+        "juz": 29,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 5,
+      "translations": {
+        "ar": {
+          "text": "وَلَا طَعَامٌ إِلَّا مِنۡ غِسۡلِينࣲ‏",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "nor any food except ˹oozing˺ pus",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "除脓汁外，他没有食物。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "और न ही धोवन के सिवा कोई भोजन है",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "No tendrá más comida que pus",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "ni d'autre nourriture que du pus",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "এবং কোন খাদ্য নাই, ক্ষত-নিঃসৃত পুঁজ ব্যতীত।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Nem alimento algum, exceto o ghislín",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "и нет пищи, кроме кровавого гноя",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور نہ پیپ کے سوا (اس کے لئے) کھانا ہے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_069_037",
+      "reference": {
+        "surah_number": 69,
+        "surah_name": "Al-Haaqqa",
+        "surah_name_ar": "سُوْرَةُ الْحَآقَّةِ",
+        "surah_name_translation": "The Reality",
+        "ayah_number": 37,
+        "juz": 29,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 4,
+      "translations": {
+        "ar": {
+          "text": "لَّا يَأۡكُلُهُۥٓ إِلَّا ٱلۡخَٰطِـُٔونَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "which none will eat except the evildoers.”",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "只有迷误的人们才吃脓汁。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "उसे ख़ताकारों (अपराधियों) के अतिरिक्त कोई नहीं खाता।",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "que solo comerán los pecadores",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "que seuls les fautifs mangeront»",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "গোনাহগার ব্যতীত কেউ এটা খাবে না।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Não o comerão senão os errados",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Едят его только грешники",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "جس کو گنہگاروں کے سوا کوئی نہیں کھائے گا",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_069_038",
+      "reference": {
+        "surah_number": 69,
+        "surah_name": "Al-Haaqqa",
+        "surah_name_ar": "سُوْرَةُ الْحَآقَّةِ",
+        "surah_name_translation": "The Reality",
+        "ayah_number": 38,
+        "juz": 29,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 4,
+      "translations": {
+        "ar": {
+          "text": "فَلَآ أُقۡسِمُ بِمَا تُبۡصِرُونَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Now, I do swear by whatever you see",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "不然！我以你们所能见的万象盟誓，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "अतः कुछ नहीं! मैं क़सम खाता हूँ उन चीज़ों की जो तुम देखते",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Juro por lo que ven",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Mais non... Je jure par ce que vous voyez",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "তোমরা যা দেখ, আমি তার শপথ করছি।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Então, juro pelo que enxergais",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "О да! Клянусь тем, что вы видите",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "تو ہم کو ان چیزوں کی قسم جو تم کو نظر آتی ہیں",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_069_039",
+      "reference": {
+        "surah_number": 69,
+        "surah_name": "Al-Haaqqa",
+        "surah_name_ar": "سُوْرَةُ الْحَآقَّةِ",
+        "surah_name_translation": "The Reality",
+        "ayah_number": 39,
+        "juz": 29,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 3,
+      "translations": {
+        "ar": {
+          "text": "وَمَا لَا تُبۡصِرُونَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "and whatever you cannot see",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "并且以你们不能见的幽玄盟誓，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "हो और उन चीज़ों को भी जो तुम नहीं देखते",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "y por lo que no puede verse",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "ainsi que par ce que vous ne voyez pas",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "এবং যা তোমরা দেখ না, তার-",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E pelo que não enxergais",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "и тем, чего вы не видите",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور ان کی جو نظر میں نہیں آتیں",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_069_040",
+      "reference": {
+        "surah_number": 69,
+        "surah_name": "Al-Haaqqa",
+        "surah_name_ar": "سُوْرَةُ الْحَآقَّةِ",
+        "surah_name_translation": "The Reality",
+        "ayah_number": 40,
+        "juz": 29,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 4,
+      "translations": {
+        "ar": {
+          "text": "إِنَّهُۥ لَقَوۡلُ رَسُولࣲ كَرِيمࣲ‏",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Indeed, this ˹Quran˺ is the recitation of a noble Messenger",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "这确是尊贵的使者的言辞；",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "निश्चय ही वह एक प्रतिष्ठित रसूल की लाई हुई वाणी है",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "que el Corán es la palabra recitada por un Mensajero noble",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "que ceci [le Coran] est la parole d'un noble Messager",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "নিশ্চয়ই এই কোরআন একজন সম্মানিত রসূলের আনীত।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Por certo, ele é o dito de um nobre Mensageiro",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Это - слова благородного посланца (Мухаммада или Джибрила)",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "کہ یہ (قرآن) فرشتہٴ عالی مقام کی زبان کا پیغام ہے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_069_041",
+      "reference": {
+        "surah_number": 69,
+        "surah_name": "Al-Haaqqa",
+        "surah_name_ar": "سُوْرَةُ الْحَآقَّةِ",
+        "surah_name_translation": "The Reality",
+        "ayah_number": 41,
+        "juz": 29,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 8,
+      "translations": {
+        "ar": {
+          "text": "وَمَا هُوَ بِقَوۡلِ شَاعِرࣲۚ قَلِيلࣰ ا مَّا تُؤۡمِنُونَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "It is not the prose of a poet ˹as you claim˺, ˹yet˺ you hardly have any faith",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "并不是诗人的言辞，你们很少信仰，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "वह किसी कवि की वाणी नहीं। तुम ईमान थोड़े ही लाते हो",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "No es la palabra de un poeta. ¡Qué poco creen",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "et que ce n'est pas la parole d'un poète; mais vous ne croyez que très peu",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "এবং এটা কোন কবির কালাম নয়; তোমরা কমই বিশ্বাস কর।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E não um dito de poeta; Quão pouco credes",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Это - не слова поэта. Мало же вы веруете",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور یہ کسی شاعر کا کلام نہیں۔ مگر تم لوگ بہت ہی کم ایمان لاتے ہو",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_069_042",
+      "reference": {
+        "surah_number": 69,
+        "surah_name": "Al-Haaqqa",
+        "surah_name_ar": "سُوْرَةُ الْحَآقَّةِ",
+        "surah_name_translation": "The Reality",
+        "ayah_number": 42,
+        "juz": 29,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 7,
+      "translations": {
+        "ar": {
+          "text": "وَلَا بِقَوۡلِ كَاهِنࣲۚ قَلِيلࣰ ا مَّا تَذَكَّرُونَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Nor is it the mumbling of a fortune-teller, ˹yet˺ you are hardly mindful",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "也不是仆人的言辞，你们很少觉悟。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "और न वह किसी काहिन का वाणी है। तुम होश से थोड़े ही काम लेते हो",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Ni tampoco la palabra de un adivino. ¡Qué poco reflexionan",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "ni la parole d'un devin, mais vous vous rappelez bien peu",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "এবং এটা কোন অতীন্দ্রিয়বাদীর কথা নয়; তোমরা কমই অনুধাবন কর।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Nem um dito de adivinho; Quão pouco meditais",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Это - не слова прорицателя. Мало же вы поминаете назидания",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور نہ کسی کاہن کے مزخرفات ہیں۔ لیکن تم لوگ بہت ہی کم فکر کرتے ہو",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_069_043",
+      "reference": {
+        "surah_number": 69,
+        "surah_name": "Al-Haaqqa",
+        "surah_name_ar": "سُوْرَةُ الْحَآقَّةِ",
+        "surah_name_translation": "The Reality",
+        "ayah_number": 43,
+        "juz": 29,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 4,
+      "translations": {
+        "ar": {
+          "text": "تَنزِيلࣱ مِّن رَّبِّ ٱلۡعَٰلَمِينَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "˹It is˺ a revelation from the Lord of all worlds",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "这是从全世界的主降示的。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "अवतरण है सारे संसार के रब की ओर से",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Es una revelación que dimana del Señor del universo",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "C'est une révélation du Seigneur de l'Univers",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "এটা বিশ্বপালনকর্তার কাছ থেকে অবতীর্ণ।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "É revelação do Senhor dos Mundos",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Это - Ниспослание от Господа миров",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "(یہ تو) پروردگار عالم کا اُتارا (ہوا) ہے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_069_044",
+      "reference": {
+        "surah_number": 69,
+        "surah_name": "Al-Haaqqa",
+        "surah_name_ar": "سُوْرَةُ الْحَآقَّةِ",
+        "surah_name_translation": "The Reality",
+        "ayah_number": 44,
+        "juz": 29,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 5,
+      "translations": {
+        "ar": {
+          "text": "وَلَوۡ تَقَوَّلَ عَلَيۡنَا بَعۡضَ ٱلۡأَقَاوِيلِ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Had the Messenger made up something in Our Name",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "假若他假借我的名义，捏造谣言，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "यदि वह (नबी) हमपर थोपकर कुछ बातें घड़ता",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Si [el Profeta] hubiera atribuido algo falsamente a Mi Mensaje",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Et s'il avait forgé quelques paroles qu'ils Nous avait attribuées",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "সে যদি আমার নামে কোন কথা রচনা করত,",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E, se ele Nos atribuísse certos ditos",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Если бы он приписал Нам некоторые слова",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اگر یہ پیغمبر ہماری نسبت کوئی بات جھوٹ بنا لاتے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_069_045",
+      "reference": {
+        "surah_number": 69,
+        "surah_name": "Al-Haaqqa",
+        "surah_name_ar": "سُوْرَةُ الْحَآقَّةِ",
+        "surah_name_translation": "The Reality",
+        "ayah_number": 45,
+        "juz": 29,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 3,
+      "translations": {
+        "ar": {
+          "text": "لَأَخَذۡنَا مِنۡهُ بِٱلۡيَمِينِ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "We would have certainly seized him by his right hand",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "我必以权力逮捕他，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "तो अवश्य हम उसका दाहिना हाथ पकड़ लेते",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "lo habría apresado severamente",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Nous l'aurions saisi de la main droite",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "তবে আমি তার দক্ষিণ হস্ত ধরে ফেলতাম,",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Apanhá-lo-íamos pela destra",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "то Мы схватили бы его за правую руку (или схватили бы его крепко)",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "تو ہم ان کا داہنا ہاتھ پکڑ لیتے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_069_046",
+      "reference": {
+        "surah_number": 69,
+        "surah_name": "Al-Haaqqa",
+        "surah_name_ar": "سُوْرَةُ الْحَآقَّةِ",
+        "surah_name_translation": "The Reality",
+        "ayah_number": 46,
+        "juz": 29,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 4,
+      "translations": {
+        "ar": {
+          "text": "ثُمَّ لَقَطَعۡنَا مِنۡهُ ٱلۡوَتِينَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "then severed his aorta",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "然后必割断他的大动脉，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "फिर उसकी गर्दन की रग काट देते",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "luego le habría cortado la arteria vital",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "ensuite, Nous lui aurions tranché l'aorte",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "অতঃপর কেটে দিতাম তার গ্রীবা।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Em seguida, cortar-lhe-íamos a aorta",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "а потом перерезали бы ему аорту",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "پھر ان کی رگ گردن کاٹ ڈالتے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_069_047",
+      "reference": {
+        "surah_number": 69,
+        "surah_name": "Al-Haaqqa",
+        "surah_name_ar": "سُوْرَةُ الْحَآقَّةِ",
+        "surah_name_translation": "The Reality",
+        "ayah_number": 47,
+        "juz": 29,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 6,
+      "translations": {
+        "ar": {
+          "text": "فَمَا مِنكُم مِّنۡ أَحَدٍ عَنۡهُ حَٰجِزِينَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "and none of you could have shielded him ˹from Us˺",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "你们中没有一个人能保卫他。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "और तुममें से कोई भी इससे रोकनेवाला न होता",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "y nadie habría podido impedirlo",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Et nul d'entre vous n'aurait pu lui servir de rempart",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "তোমাদের কেউ তাকে রক্ষা করতে পারতে না।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Então, nenhum de vós seria barreira contra sua punição",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "и никто из вас не избавил бы его",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "پھر تم میں سے کوئی (ہمیں) اس سے روکنے والا نہ ہوتا",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_069_048",
+      "reference": {
+        "surah_number": 69,
+        "surah_name": "Al-Haaqqa",
+        "surah_name_ar": "سُوْرَةُ الْحَآقَّةِ",
+        "surah_name_translation": "The Reality",
+        "ayah_number": 48,
+        "juz": 29,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 3,
+      "translations": {
+        "ar": {
+          "text": "وَإِنَّهُۥ لَتَذۡكِرَةࣱ لِّلۡمُتَّقِينَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Indeed, this ˹Quran˺ is a reminder to those mindful ˹of Allah˺",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "这确是对敬畏者的教训。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "और निश्चय ही वह एक अनुस्मृति है डर रखनेवालों के लिए",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "El Corán es un motivo de reflexión para los que tienen temor de Dios",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "C'est en vérité un rappel pour les pieux",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "এটা খোদাভীরুদের জন্যে অবশ্যই একটি উপদেশ।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E, por certo, ele é lembrança para os piedosos",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Воистину, это - Назидание для богобоязненных",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور یہ (کتاب) تو پرہیزگاروں کے لئے نصیحت ہے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_069_049",
+      "reference": {
+        "surah_number": 69,
+        "surah_name": "Al-Haaqqa",
+        "surah_name_ar": "سُوْرَةُ الْحَآقَّةِ",
+        "surah_name_translation": "The Reality",
+        "ayah_number": 49,
+        "juz": 29,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 5,
+      "translations": {
+        "ar": {
+          "text": "وَإِنَّا لَنَعۡلَمُ أَنَّ مِنكُم مُّكَذِّبِينَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "And We certainly know that some of you will persist in denial",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "我的确知道你们中有否认的人。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "और निश्चय ही हम जानते है कि तुममें कितने ही ऐसे है जो झुठलाते है",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "y bien sé que hay entre ustedes quienes desmienten",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Et Nous savons qu'il y a parmi vous qui le traitent de menteur",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "আমি জানি যে, তোমাদের মধ্যে কেউ কেউ মিথ্যারোপ করবে।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E, por certo, sabemos que, entre vós, há desmentidores",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Нам известно, что среди вас есть считающие его ложью",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور ہم جانتے ہیں کہ تم میں سے بعض اس کو جھٹلانے والے ہیں",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_069_050",
+      "reference": {
+        "surah_number": 69,
+        "surah_name": "Al-Haaqqa",
+        "surah_name_ar": "سُوْرَةُ الْحَآقَّةِ",
+        "surah_name_translation": "The Reality",
+        "ayah_number": 50,
+        "juz": 29,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 4,
+      "translations": {
+        "ar": {
+          "text": "وَإِنَّهُۥ لَحَسۡرَةٌ عَلَى ٱلۡكَٰفِرِينَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "and it will surely be a source of regret for the disbelievers",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "这对於不信道的人们确是悔恨。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "निश्चय ही वह इनकार करनेवालों के लिए सर्वथा पछतावा है",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "pero eso será motivo de pesar para los que rechazan el Mensaje",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "mais en vérité, ce sera un sujet de regret pour les mécréants",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "নিশ্চয় এটা কাফেরদের জন্যে অনুতাপের কারণ।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E, por certo, ele é motivo de aflição para os renegadores da Fé",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Воистину, это - горе для неверующих",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "نیز یہ کافروں کے لئے (موجب) حسرت ہے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_069_051",
+      "reference": {
+        "surah_number": 69,
+        "surah_name": "Al-Haaqqa",
+        "surah_name_ar": "سُوْرَةُ الْحَآقَّةِ",
+        "surah_name_translation": "The Reality",
+        "ayah_number": 51,
+        "juz": 29,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 3,
+      "translations": {
+        "ar": {
+          "text": "وَإِنَّهُۥ لَحَقُّ ٱلۡيَقِينِ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "And indeed, this ˹Quran˺ is the absolute truth",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "这确是真实的信念，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "और वह बिल्कुल विश्वसनीय सत्य है।",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "El Corán es la verdad indubitable",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "c'est là la véritable certitude",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "নিশ্চয় এটা নিশ্চিত সত্য।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E, por certo, ele é a Verdade certa",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Воистину, это - убедительная истина",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور کچھ شک نہیں کہ یہ برحق قابل یقین ہے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_069_052",
+      "reference": {
+        "surah_number": 69,
+        "surah_name": "Al-Haaqqa",
+        "surah_name_ar": "سُوْرَةُ الْحَآقَّةِ",
+        "surah_name_translation": "The Reality",
+        "ayah_number": 52,
+        "juz": 29,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 4,
+      "translations": {
+        "ar": {
+          "text": "فَسَبِّحۡ بِٱسۡمِ رَبِّكَ ٱلۡعَظِيمِ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "So glorify the Name of your Lord, the Greatest",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "故你当颂扬你的主的大名。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "अतः तुम अपने महिमावान रब के नाम की तसबीह (गुणगान) करो",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "¡Glorifica el nombre de tu Señor, el Grandioso",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Glorifie donc le nom de ton Seigneur, le Très Grand",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "অতএব, আপনি আপনার মহান পালনকর্তার নামের পবিত্রতা বর্ননা করুন।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Então, glorifica o nome de teu Magnífico Senhor",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Прославляй же имя Господа твоего Великого",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "سو تم اپنے پروردگار عزوجل کے نام کی تنزیہ کرتے رہو",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    }
+  ]
+}

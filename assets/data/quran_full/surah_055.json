@@ -1,0 +1,4373 @@
+{
+  "surah": 55,
+  "verses": [
+    {
+      "content_id": "quran_055_001",
+      "reference": {
+        "surah_number": 55,
+        "surah_name": "Ar-Rahmaan",
+        "surah_name_ar": "سُوْرَةُ الرَّحْمٰنِ",
+        "surah_name_translation": "The Beneficent",
+        "ayah_number": 1,
+        "juz": 27,
+        "revelation_type": "Madina"
+      },
+      "arabic_word_count": 1,
+      "translations": {
+        "ar": {
+          "text": "ٱلرَّحۡمَٰنُ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "The Most Compassionate",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "至仁主，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "रहमान ने",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "El Compasivo",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Le Tout Miséricordieux",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "করুনাময় আল্লাহ।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "O Misericordioso",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Милостивый",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "(خدا جو) نہایت مہربان",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_055_002",
+      "reference": {
+        "surah_number": 55,
+        "surah_name": "Ar-Rahmaan",
+        "surah_name_ar": "سُوْرَةُ الرَّحْمٰنِ",
+        "surah_name_translation": "The Beneficent",
+        "ayah_number": 2,
+        "juz": 27,
+        "revelation_type": "Madina"
+      },
+      "arabic_word_count": 2,
+      "translations": {
+        "ar": {
+          "text": "عَلَّمَ ٱلۡقُرۡءَانَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "taught the Quran",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "曾教授《古兰经》，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "क़ुरआन सिखाया",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "enseñó el Corán",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Il a enseigné le Coran",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "শিক্ষা দিয়েছেন কোরআন,",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Ensinou o Alcorão",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "научил Корану",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اسی نے قرآن کی تعلیم فرمائی",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_055_003",
+      "reference": {
+        "surah_number": 55,
+        "surah_name": "Ar-Rahmaan",
+        "surah_name_ar": "سُوْرَةُ الرَّحْمٰنِ",
+        "surah_name_translation": "The Beneficent",
+        "ayah_number": 3,
+        "juz": 27,
+        "revelation_type": "Madina"
+      },
+      "arabic_word_count": 2,
+      "translations": {
+        "ar": {
+          "text": "خَلَقَ ٱلۡإِنسَٰنَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "created humanity",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "他创造了人，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "उसी ने मनुष्य को पैदा किया",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "creó al ser humano",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Il a créé l'homme",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "সৃষ্টি করেছেন মানুষ,",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Criou o ser humano",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "создал человека",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اسی نے انسان کو پیدا کیا",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_055_004",
+      "reference": {
+        "surah_number": 55,
+        "surah_name": "Ar-Rahmaan",
+        "surah_name_ar": "سُوْرَةُ الرَّحْمٰنِ",
+        "surah_name_translation": "The Beneficent",
+        "ayah_number": 4,
+        "juz": 27,
+        "revelation_type": "Madina"
+      },
+      "arabic_word_count": 2,
+      "translations": {
+        "ar": {
+          "text": "عَلَّمَهُ ٱلۡبَيَانَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "˹and˺ taught them speech",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "并教人修辞。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "उसे बोलना सिखाया",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "y le enseñó a hablar con elocuencia",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Il lui a appris à s'exprimer clairement",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "তাকে শিখিয়েছেন বর্ণনা।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Ensinou-o a expressar-se",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "и научил его изъясняться",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اسی نے اس کو بولنا سکھایا",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_055_005",
+      "reference": {
+        "surah_number": 55,
+        "surah_name": "Ar-Rahmaan",
+        "surah_name_ar": "سُوْرَةُ الرَّحْمٰنِ",
+        "surah_name_translation": "The Beneficent",
+        "ayah_number": 5,
+        "juz": 27,
+        "revelation_type": "Madina"
+      },
+      "arabic_word_count": 3,
+      "translations": {
+        "ar": {
+          "text": "ٱلشَّمۡسُ وَٱلۡقَمَرُ بِحُسۡبَانࣲ‏",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "The sun and the moon ˹travel˺ with precision",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "日月是依定数而运行的。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "सूर्य और चन्द्रमा एक हिसाब के पाबन्द है",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "El Sol y la Luna siguen una órbita precisa",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Le soleil et la lune [évoluent] selon un calcul [minutieux]",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "সূর্য ও চন্দ্র হিসাবমত চলে।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "O sol e a lua movem-se com cômputo",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Солнце и луна движутся согласно рассчитанному порядку",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "سورج اور چاند ایک حساب مقرر سے چل رہے ہیں",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_055_006",
+      "reference": {
+        "surah_number": 55,
+        "surah_name": "Ar-Rahmaan",
+        "surah_name_ar": "سُوْرَةُ الرَّحْمٰنِ",
+        "surah_name_translation": "The Beneficent",
+        "ayah_number": 6,
+        "juz": 27,
+        "revelation_type": "Madina"
+      },
+      "arabic_word_count": 3,
+      "translations": {
+        "ar": {
+          "text": "وَٱلنَّجۡمُ وَٱلشَّجَرُ يَسۡجُدَانِ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "The stars and the trees bow down ˹in submission˺",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "草木是顺从他的意旨的。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "और तारे और वृक्ष सजदा करते है",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "y las hierbas y los árboles se prosternan [ante Dios]",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Et l'herbe et les arbres se prosternent",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "এবং তৃণলতা ও বৃক্ষাদি সেজদারত আছে।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E a grama e as árvores prosternam-se",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Травы (или звезды) и деревья совершают поклоны",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور بوٹیاں اور درخت سجدہ کر رہے ہیں",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_055_007",
+      "reference": {
+        "surah_number": 55,
+        "surah_name": "Ar-Rahmaan",
+        "surah_name_ar": "سُوْرَةُ الرَّحْمٰنِ",
+        "surah_name_translation": "The Beneficent",
+        "ayah_number": 7,
+        "juz": 27,
+        "revelation_type": "Madina"
+      },
+      "arabic_word_count": 4,
+      "translations": {
+        "ar": {
+          "text": "وَٱلسَّمَآءَ رَفَعَهَا وَوَضَعَ ٱلۡمِيزَانَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "As for the sky, He raised it ˹high˺, and set the balance ˹of justice˺",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "他曾将天升起。他曾规定公平，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "उसने आकाश को ऊँचा किया और संतुलन स्थापित किया",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Elevó el cielo, y estableció la balanza de la justicia",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Et quant au ciel, Il l'a élevé bien haut. Et Il a établi la balance",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "তিনি আকাশকে করেছেন সমুন্নত এবং স্থাপন করেছেন তুলাদন্ড।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E o céu, Ele o elevou; e estabeleceu a balança",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Он возвысил небо и установил весы",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور اسی نے آسمان کو بلند کیا اور ترازو قائم کی",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_055_008",
+      "reference": {
+        "surah_number": 55,
+        "surah_name": "Ar-Rahmaan",
+        "surah_name_ar": "سُوْرَةُ الرَّحْمٰنِ",
+        "surah_name_translation": "The Beneficent",
+        "ayah_number": 8,
+        "juz": 27,
+        "revelation_type": "Madina"
+      },
+      "arabic_word_count": 4,
+      "translations": {
+        "ar": {
+          "text": "أَلَّا تَطۡغَوۡاْ فِي ٱلۡمِيزَانِ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "so that you do not defraud the scales",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "以免你们用秤不公。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "कि तुम भी तुला में सीमा का उल्लंघन न करो",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "para que no transgredan el equilibrio [de la equidad]",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "afin que vous ne transgressiez pas dans la pesée",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "যাতে তোমরা সীমালংঘন না কর তুলাদন্ডে।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Para que, na balança, não cometais transgressão",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "чтобы вы не преступали границы дозволенного на весах",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "کہ ترازو (سے تولنے) میں حد سے تجاوز نہ کرو",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_055_009",
+      "reference": {
+        "surah_number": 55,
+        "surah_name": "Ar-Rahmaan",
+        "surah_name_ar": "سُوْرَةُ الرَّحْمٰنِ",
+        "surah_name_translation": "The Beneficent",
+        "ayah_number": 9,
+        "juz": 27,
+        "revelation_type": "Madina"
+      },
+      "arabic_word_count": 6,
+      "translations": {
+        "ar": {
+          "text": "وَأَقِيمُواْ ٱلۡوَزۡنَ بِٱلۡقِسۡطِ وَلَا تُخۡسِرُواْ ٱلۡمِيزَانَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Weigh with justice, and do not give short measure",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "你们应当秉公地谨守衡度，你们不要使所称之物分量不足。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "न्याय के साथ ठीक-ठीक तौलो और तौल में कमी न करो।",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Pesen con equidad y no cometan fraude en la balanza",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Donnez [toujours] le poids exact et ne faussez pas la pesée",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "তোমরা ন্যায্য ওজন কায়েম কর এবং ওজনে কম দিয়ো না।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E, assim, cumpri o peso com equidade, e não defraudeis na balança",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Взвешивайте беспристрастно и не занижайте вес",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور انصاف کے ساتھ ٹھیک تولو۔ اور تول کم مت کرو",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_055_010",
+      "reference": {
+        "surah_number": 55,
+        "surah_name": "Ar-Rahmaan",
+        "surah_name_ar": "سُوْرَةُ الرَّحْمٰنِ",
+        "surah_name_translation": "The Beneficent",
+        "ayah_number": 10,
+        "juz": 27,
+        "revelation_type": "Madina"
+      },
+      "arabic_word_count": 3,
+      "translations": {
+        "ar": {
+          "text": "وَٱلۡأَرۡضَ وَضَعَهَا لِلۡأَنَامِ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "He laid out the earth for all beings",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "他为众生而将大地放下。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "और धरती को उसने सृष्टल प्राणियों के लिए बनाया",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Preparó la Tierra para Sus criaturas",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Quant à la terre, Il l'a étendue pour les êtres vivants",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "তিনি পৃথিবীকে স্থাপন করেছেন সৃষ্টজীবের জন্যে।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E a terra, pô-la à disposição dos viventes",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Он установил землю для тварей",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور اسی نے خلقت کے لئے زمین بچھائی",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_055_011",
+      "reference": {
+        "surah_number": 55,
+        "surah_name": "Ar-Rahmaan",
+        "surah_name_ar": "سُوْرَةُ الرَّحْمٰنِ",
+        "surah_name_translation": "The Beneficent",
+        "ayah_number": 11,
+        "juz": 27,
+        "revelation_type": "Madina"
+      },
+      "arabic_word_count": 5,
+      "translations": {
+        "ar": {
+          "text": "فِيهَا فَٰكِهَةࣱ وَٱلنَّخۡلُ ذَاتُ ٱلۡأَكۡمَامِ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "In it are fruit, palm trees with date stalks",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "大地上有水果，和有花篦的海枣，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "उसमें स्वादिष्ट फल है और खजूर के वृक्ष है, जिनके फल आवरणों में लिपटे हुए है",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "En ella hay árboles frutales, palmeras con racimos [de dátiles]",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "il s'y trouve des fruits, et aussi les palmiers aux fruits recouverts d'enveloppes",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "এতে আছে ফলমূল এবং বহিরাবরণবিশিষ্ট খর্জুর বৃক্ষ।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Nela, há frutas, e as tamareiras de invólucros",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "На ней есть фрукты и финиковые пальмы с чашечками (или волокнами)",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اس میں میوے اور کھجور کے درخت ہیں جن کے خوشوں پر غلاف ہوتے ہیں",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_055_012",
+      "reference": {
+        "surah_number": 55,
+        "surah_name": "Ar-Rahmaan",
+        "surah_name_ar": "سُوْرَةُ الرَّحْمٰنِ",
+        "surah_name_translation": "The Beneficent",
+        "ayah_number": 12,
+        "juz": 27,
+        "revelation_type": "Madina"
+      },
+      "arabic_word_count": 4,
+      "translations": {
+        "ar": {
+          "text": "وَٱلۡحَبُّ ذُو ٱلۡعَصۡفِ وَٱلرَّيۡحَانُ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "and grain with husks, and aromatic plants",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "与有秆的五谷和香草。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "और भुसवाले अनाज भी और सुगंधित बेल-बूटा भी",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "semillas y plantas aromáticas",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "tout comme les grains dans leurs balles, et les plantes aromatiques",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "আর আছে খোসাবিশিষ্ট শস্য ও সুগন্ধি ফুল।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E os grãos em palhas, e as plantas aromáticas",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "а также злаки с листьями и травы благоуханные",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور اناج جس کے ساتھ بھس ہوتا ہے اور خوشبودار پھول",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_055_013",
+      "reference": {
+        "surah_number": 55,
+        "surah_name": "Ar-Rahmaan",
+        "surah_name_ar": "سُوْرَةُ الرَّحْمٰنِ",
+        "surah_name_translation": "The Beneficent",
+        "ayah_number": 13,
+        "juz": 27,
+        "revelation_type": "Madina"
+      },
+      "arabic_word_count": 4,
+      "translations": {
+        "ar": {
+          "text": "فَبِأَيِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Then which of your Lord’s favours will you ˹humans and jinn˺ both deny",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "你们究竟否认你们的主的哪一件恩典呢？",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "तो तुम दोनों अपने रब की अनुकम्पाओं में से किस-किस को झुठलाओगे",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "¿Acaso pueden negar alguna de las gracias que les ha concedido su Señor",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Lequel donc des bienfaits de votre Seigneur nierez-vous",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "অতএব, তোমরা উভয়ে তোমাদের পালনকর্তার কোন কোন অনুগ্রহকে অস্বীকার করবে?",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Então, qual das mercês de vosso Senhor vós ambos desmentis",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Какую же из милостей вашего Господа вы считаете ложью",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "تو (اے گروہ جن وانس) تم اپنے پروردگار کی کون کون سی نعمت کو جھٹلاؤ گے؟",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_055_014",
+      "reference": {
+        "surah_number": 55,
+        "surah_name": "Ar-Rahmaan",
+        "surah_name_ar": "سُوْرَةُ الرَّحْمٰنِ",
+        "surah_name_translation": "The Beneficent",
+        "ayah_number": 14,
+        "juz": 27,
+        "revelation_type": "Madina"
+      },
+      "arabic_word_count": 5,
+      "translations": {
+        "ar": {
+          "text": "خَلَقَ ٱلۡإِنسَٰنَ مِن صَلۡصَٰلࣲ كَٱلۡفَخَّارِ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "He created humankind from ˹sounding˺ clay like pottery",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "他曾用陶器般的干土创造人，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "उसने मनुष्य को ठीकरी जैसी खनखनाती हुए मिट्टी से पैदा किया",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Creó al ser humano de arcilla como la cerámica",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Il a crée l'homme d'argile sonnante comme la poterie",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "তিনি মানুষকে সৃষ্টি করেছেন পোড়া মাটির ন্যায় শুষ্ক মৃত্তিকা থেকে।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Ele criou o ser humano de argila sonorosa, como a cerâmica",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Он создал человека из сухой (или звенящей) глины, подобной гончарной",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اسی نے انسان کو ٹھیکرے کی طرح کھنکھناتی مٹی سے بنایا",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_055_015",
+      "reference": {
+        "surah_number": 55,
+        "surah_name": "Ar-Rahmaan",
+        "surah_name_ar": "سُوْرَةُ الرَّحْمٰنِ",
+        "surah_name_translation": "The Beneficent",
+        "ayah_number": 15,
+        "juz": 27,
+        "revelation_type": "Madina"
+      },
+      "arabic_word_count": 6,
+      "translations": {
+        "ar": {
+          "text": "وَخَلَقَ ٱلۡجَآنَّ مِن مَّارِجࣲ مِّن نَّارࣲ‏",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "and created jinn from a ˹smokeless˺ flame of fire",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "他用火焰创造精灵。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "और जिन्न को उसने आग की लपट से पैदा किया",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "y creó a los yinnes de fuego puro",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "et Il a créé les djinns de la flamme d'un feu sans fumée",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "এবং জিনকে সৃষ্টি করেছেন অগ্নিশিখা থেকে।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E criou o jinn de pura chama de fogo",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "и создал джиннов из чистого пламени (или из пламени, смешанного с дымом)",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور جنات کو آگ کے شعلے سے پیدا کیا",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_055_016",
+      "reference": {
+        "surah_number": 55,
+        "surah_name": "Ar-Rahmaan",
+        "surah_name_ar": "سُوْرَةُ الرَّحْمٰنِ",
+        "surah_name_translation": "The Beneficent",
+        "ayah_number": 16,
+        "juz": 27,
+        "revelation_type": "Madina"
+      },
+      "arabic_word_count": 4,
+      "translations": {
+        "ar": {
+          "text": "فَبِأَيِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Then which of your Lord’s favours will you both deny",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "你们究竟否认你们的主的哪一件恩典呢？",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "फिर तुम दोनों अपने रब की सामर्थ्यों में से किस-किस को झुठलाओगे",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "¿Acaso pueden negar alguna de las gracias que les ha concedido su Señor",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Lequel donc des bienfaits de votre Seigneur nierez-vous",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "অতএব, তোমরা উভয়ে তোমাদের পালনকর্তার কোন কোন অনুগ্রহ অস্বীকার করবে?",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Então, qual das mercês de vosso Senhor vós ambos desmentis",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Какую же из милостей вашего Господа вы считаете ложью",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "تو تم اپنے پروردگار کی کون کون سی نعمت کو جھٹلاؤ گے؟",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_055_017",
+      "reference": {
+        "surah_number": 55,
+        "surah_name": "Ar-Rahmaan",
+        "surah_name_ar": "سُوْرَةُ الرَّحْمٰنِ",
+        "surah_name_translation": "The Beneficent",
+        "ayah_number": 17,
+        "juz": 27,
+        "revelation_type": "Madina"
+      },
+      "arabic_word_count": 4,
+      "translations": {
+        "ar": {
+          "text": "رَبُّ ٱلۡمَشۡرِقَيۡنِ وَرَبُّ ٱلۡمَغۡرِبَيۡنِ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "˹He is˺ Lord of the two easts and the two wests",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "他是两个东方的主，也是两个西方的主。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "वह दो पूर्व का रब है और दो पश्चिम का रब भी।",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "El Señor de los dos nacientes y los dos ponientes",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Seigneur des deux Levants et Seigneur des deux Couchants",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "তিনি দুই উদয়াচল ও দুই অস্তাচলের মালিক।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "O Senhor dos dois levantes e O Senhor dos dois poentes",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Господь обоих востоков и Господь обоих западов",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "وہی دونوں مشرقوں اور دونوں مغربوں کا مالک (ہے)",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_055_018",
+      "reference": {
+        "surah_number": 55,
+        "surah_name": "Ar-Rahmaan",
+        "surah_name_ar": "سُوْرَةُ الرَّحْمٰنِ",
+        "surah_name_translation": "The Beneficent",
+        "ayah_number": 18,
+        "juz": 27,
+        "revelation_type": "Madina"
+      },
+      "arabic_word_count": 4,
+      "translations": {
+        "ar": {
+          "text": "فَبِأَيِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Then which of your Lord’s favours will you both deny",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "你们究竟否认你们的主的哪一件恩典呢？",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "फिर तुम दोनों अपने रब की महानताओं में से किस-किस को झुठलाओगे",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "¿Acaso pueden negar alguna de las gracias que les ha concedido su Señor",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Lequel donc des bienfaits de votre Seigneur nierez-vous",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "অতএব, তোমরা উভয়ে তোমাদের পালনকর্তার কোন কোন অবদানকে অস্বীকার করবে?",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Então, qual das mercês de vosso Senhor vós ambos desmentis",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Какую же из милостей вашего Господа вы считаете ложью",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "تو تم اپنے پروردگار کی کون کون سی نعمت کو جھٹلاؤ گے؟",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_055_019",
+      "reference": {
+        "surah_number": 55,
+        "surah_name": "Ar-Rahmaan",
+        "surah_name_ar": "سُوْرَةُ الرَّحْمٰنِ",
+        "surah_name_translation": "The Beneficent",
+        "ayah_number": 19,
+        "juz": 27,
+        "revelation_type": "Madina"
+      },
+      "arabic_word_count": 3,
+      "translations": {
+        "ar": {
+          "text": "مَرَجَ ٱلۡبَحۡرَيۡنِ يَلۡتَقِيَانِ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "He merges the two bodies of ˹fresh and salt˺ water",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "他曾任两海相交而会合，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "उसने दो समुद्रो को प्रवाहित कर दिया, जो आपस में मिल रहे होते है।",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Hizo que las dos grandes masas de agua se encuentren",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Il a donné libre cours aux deux mers pour se rencontrer",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "তিনি পাশাপাশি দুই দরিয়া প্রবাহিত করেছেন।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Desenleia os dois mares, para se depararem",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Он смешал два моря, которые встречаются друг с другом",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اسی نے دو دریا رواں کئے جو آپس میں ملتے ہیں",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_055_020",
+      "reference": {
+        "surah_number": 55,
+        "surah_name": "Ar-Rahmaan",
+        "surah_name_ar": "سُوْرَةُ الرَّحْمٰنِ",
+        "surah_name_translation": "The Beneficent",
+        "ayah_number": 20,
+        "juz": 27,
+        "revelation_type": "Madina"
+      },
+      "arabic_word_count": 4,
+      "translations": {
+        "ar": {
+          "text": "بَيۡنَهُمَا بَرۡزَخࣱ لَّا يَبۡغِيَانِ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "yet between them is a barrier they never cross",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "两海之间，有一个堤坊，两海互不侵犯。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "उन दोनों के बीच एक परदा बाधक होता है, जिसका वे अतिक्रमण नहीं करते",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "pero dispuso entre ambas una barrera que no transgreden",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "il y a entre elles une barrière qu'elles ne dépassent pas",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "উভয়ের মাঝখানে রয়েছে এক অন্তরাল, যা তারা অতিক্রম করে না।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Entre ambos, há uma barreira; nenhum dos dois comete transgressão",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Между ними существует преграда, которую они не могут преступить",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "دونوں میں ایک آڑ ہے کہ (اس سے) تجاوز نہیں کرسکتے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_055_021",
+      "reference": {
+        "surah_number": 55,
+        "surah_name": "Ar-Rahmaan",
+        "surah_name_ar": "سُوْرَةُ الرَّحْمٰنِ",
+        "surah_name_translation": "The Beneficent",
+        "ayah_number": 21,
+        "juz": 27,
+        "revelation_type": "Madina"
+      },
+      "arabic_word_count": 4,
+      "translations": {
+        "ar": {
+          "text": "فَبِأَيِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Then which of your Lord’s favours will you both deny",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "你们究竟否认你们的主的哪一件恩典呢？",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "तो तुम दोनों अपने रब के चमत्कारों में से किस-किस को झुठलाओगे",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "¿Acaso pueden negar alguna de las gracias que les ha concedido su Señor",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Lequel donc des bienfaits de votre Seigneur nierez-vous",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "অতএব, তোমরা উভয়ে তোমাদের পালনকর্তার কোন কোন অবদানকে অস্বীকার করবে?",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Então, qual das mercês de vosso Senhor vós ambos desmentis",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Какую же из милостей вашего Господа вы считаете ложью",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "تو تم اپنے پروردگار کی کون کون سی نعمت کو جھٹلاؤ گے؟",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_055_022",
+      "reference": {
+        "surah_number": 55,
+        "surah_name": "Ar-Rahmaan",
+        "surah_name_ar": "سُوْرَةُ الرَّحْمٰنِ",
+        "surah_name_translation": "The Beneficent",
+        "ayah_number": 22,
+        "juz": 27,
+        "revelation_type": "Madina"
+      },
+      "arabic_word_count": 4,
+      "translations": {
+        "ar": {
+          "text": "يَخۡرُجُ مِنۡهُمَا ٱللُّؤۡلُؤُ وَٱلۡمَرۡجَانُ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Out of both ˹waters˺ come forth pearls and coral",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "他从两海中取出大珍珠和小珍珠。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "उन (समुद्रों) से मोती और मूँगा निकलता है।",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "De ambas se extraen perlas y corales",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "De ces deux [mers] sortent la perle et le corail",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "উভয় দরিয়া থেকে উৎপন্ন হয় মোতি ও প্রবাল।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "De ambos saem as pérolas e o coral",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Из них обоих вылавливают жемчуг и кораллы",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "دونوں دریاؤں سے موتی اور مونگے نکلتے ہیں",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_055_023",
+      "reference": {
+        "surah_number": 55,
+        "surah_name": "Ar-Rahmaan",
+        "surah_name_ar": "سُوْرَةُ الرَّحْمٰنِ",
+        "surah_name_translation": "The Beneficent",
+        "ayah_number": 23,
+        "juz": 27,
+        "revelation_type": "Madina"
+      },
+      "arabic_word_count": 4,
+      "translations": {
+        "ar": {
+          "text": "فَبِأَيِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Then which of your Lord’s favours will you both deny",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "你们究竟否认你们的主的哪一件恩典呢？",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "अतः तुम दोनों अपने रब के चमत्कारों में से किस-किस को झुठलाओगे",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "¿Acaso pueden negar alguna de las gracias que les ha concedido su Señor",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Lequel donc des bienfaits de votre Seigneur nierez-vous",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "অতএব, তোমরা উভয়ে তোমাদের পালনকর্তার কোন কোন অবদানকে অস্বীকার করবে?",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Então, qual das mercês de vosso Senhor vós ambos desmentis",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Какую же из милостей вашего Господа вы считаете ложью",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "تو تم اپنے پروردگار کی کون کون سی نعمت کو جھٹلاؤ گے؟",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_055_024",
+      "reference": {
+        "surah_number": 55,
+        "surah_name": "Ar-Rahmaan",
+        "surah_name_ar": "سُوْرَةُ الرَّحْمٰنِ",
+        "surah_name_translation": "The Beneficent",
+        "ayah_number": 24,
+        "juz": 27,
+        "revelation_type": "Madina"
+      },
+      "arabic_word_count": 6,
+      "translations": {
+        "ar": {
+          "text": "وَلَهُ ٱلۡجَوَارِ ٱلۡمُنشَـَٔاتُ فِي ٱلۡبَحۡرِ كَٱلۡأَعۡلَٰمِ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "To Him belong the ships with raised sails, sailing through the seas like mountains",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "在海中桅帆高举，状如山峦的船舶，只是他的。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "उसी के बस में है समुद्र में पहाड़ो की तरह उठे हुए जहाज़",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Suyas son las embarcaciones que sobresalen en el mar como montañas",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "A Lui appartiennent les vaisseaux élevés sur la mer comme des montagnes",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "দরিয়ায় বিচরণশীল পর্বতদৃশ্য জাহাজসমূহ তাঁরই (নিয়ন্ত্রনাধীন)",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E são dEle as naus correntes, por vós feitas, como montanhas, no mar",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Ему принадлежат плывущие по морю с поднятыми парусами корабли, подобные горам",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور جہاز بھی اسی کے ہیں جو دریا میں پہاڑوں کی طرح اونچے کھڑے ہوتے ہیں",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_055_025",
+      "reference": {
+        "surah_number": 55,
+        "surah_name": "Ar-Rahmaan",
+        "surah_name_ar": "سُوْرَةُ الرَّحْمٰنِ",
+        "surah_name_translation": "The Beneficent",
+        "ayah_number": 25,
+        "juz": 27,
+        "revelation_type": "Madina"
+      },
+      "arabic_word_count": 4,
+      "translations": {
+        "ar": {
+          "text": "فَبِأَيِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Then which of your Lord’s favours will you both deny",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "你们究竟否认你们的主的哪一件恩典呢？",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "तो तुम दोनों अपने रब की अनुकम्पाओं में से किस-किस को झुठलाओग",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "¿Acaso pueden negar alguna de las gracias que les ha concedido su Señor",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Lequel donc des bienfaits de votre Seigneur nierez-vous",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "অতএব, তোমরা উভয়ে তোমাদের পালনকর্তার কোন কোন অবদানকে অস্বীকার করবে?",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Então, qual das mercês de vosso Senhor vós ambos desmentis",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Какую же из милостей вашего Господа вы считаете ложью",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "تو تم اپنے پروردگار کی کون کون سی نعمت کو جھٹلاؤ گے؟",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_055_026",
+      "reference": {
+        "surah_number": 55,
+        "surah_name": "Ar-Rahmaan",
+        "surah_name_ar": "سُوْرَةُ الرَّحْمٰنِ",
+        "surah_name_translation": "The Beneficent",
+        "ayah_number": 26,
+        "juz": 27,
+        "revelation_type": "Madina"
+      },
+      "arabic_word_count": 4,
+      "translations": {
+        "ar": {
+          "text": "كُلُّ مَنۡ عَلَيۡهَا فَانࣲ‏",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Every being on earth is bound to perish",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "凡在大地上的，都要毁灭；",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "प्रत्येक जो भी इस (धरती) पर है, नाशवान है",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Todo cuanto existe en la Tierra perecerá",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Tout ce qui est sur elle [la terre] doit disparaître",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "ভূপৃষ্টের সবকিছুই ধ্বংসশীল।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Tudo o que está sobre ela é finito",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Все на ней (земле) смертны",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "جو (مخلوق) زمین پر ہے سب کو فنا ہونا ہے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_055_027",
+      "reference": {
+        "surah_number": 55,
+        "surah_name": "Ar-Rahmaan",
+        "surah_name_ar": "سُوْرَةُ الرَّحْمٰنِ",
+        "surah_name_translation": "The Beneficent",
+        "ayah_number": 27,
+        "juz": 27,
+        "revelation_type": "Madina"
+      },
+      "arabic_word_count": 6,
+      "translations": {
+        "ar": {
+          "text": "وَيَبۡقَىٰ وَجۡهُ رَبِّكَ ذُو ٱلۡجَلَٰلِ وَٱلۡإِكۡرَامِ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Only your Lord Himself, full of Majesty and Honour, will remain ˹forever˺",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "惟有你的主的本体，具有尊严与大德，将永恒存在。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "किन्तु तुम्हारे रब का प्रतापवान और उदार स्वरूप शेष रहनेवाला है",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "y solo el rostro de tu Señor perdurará por siempre, el Majestuoso y el Noble",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "[Seule] subsistera La Face [Wajh] de ton Seigneur, plein de majesté et de noblesse",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "একমাত্র আপনার মহিমায় ও মহানুভব পালনকর্তার সত্তা ছাড়া।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E só permanecerá a face de teu Senhor, Possuidor de majestade e honorabilidade",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Вечен лишь Лик Господа твоего, обладающий величием и великодушием",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور تمہارے پروردگار ہی کی ذات (بابرکات) جو صاحب جلال وعظمت ہے باقی رہے گی",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_055_028",
+      "reference": {
+        "surah_number": 55,
+        "surah_name": "Ar-Rahmaan",
+        "surah_name_ar": "سُوْرَةُ الرَّحْمٰنِ",
+        "surah_name_translation": "The Beneficent",
+        "ayah_number": 28,
+        "juz": 27,
+        "revelation_type": "Madina"
+      },
+      "arabic_word_count": 4,
+      "translations": {
+        "ar": {
+          "text": "فَبِأَيِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Then which of your Lord’s favours will you both deny",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "你们究竟否认你们的主的哪一件恩典呢？",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "अतः तुम दोनों अपने रब के चमत्कारों में से किस-किस को झुठलाओगं",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "¿Acaso pueden negar alguna de las gracias que les ha concedido su Señor",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Lequel donc des bienfaits de votre Seigneur nierez-vous",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "অতএব, তোমরা উভয়ে তোমাদের পালনকর্তার কোন কোন অবদানকে অস্বীকার করবে?",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Então, qual das mercês de vosso Senhor vós ambos desmentis",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Какую же из милостей вашего Господа вы считаете ложью",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "تو تم اپنے پروردگار کی کون کون سی نعمت کو جھٹلاؤ گے؟",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_055_029",
+      "reference": {
+        "surah_number": 55,
+        "surah_name": "Ar-Rahmaan",
+        "surah_name_ar": "سُوْرَةُ الرَّحْمٰنِ",
+        "surah_name_translation": "The Beneficent",
+        "ayah_number": 29,
+        "juz": 27,
+        "revelation_type": "Madina"
+      },
+      "arabic_word_count": 10,
+      "translations": {
+        "ar": {
+          "text": "يَسۡـَٔلُهُۥ مَن فِي ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضِۚ كُلَّ يَوۡمٍ هُوَ فِي شَأۡنࣲ‏",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "All those in the heavens and the earth are dependent on Him. Day in and day out He has something to bring about",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "凡在天地间的都仰求他；他时时都有事物。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "आकाशों और धरती में जो भी है उसी से माँगता है। उसकी नित्य नई शान है",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Lo invocan suplicando todos los que habitan en los cielos y en la Tierra. Todos los días se encuentra atendiendo los asuntos [de Su creación]",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Ceux qui sont dans les cieux et la terre L'implorent. Chaque jour, Il accomplit une œuvre nouvelle",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "নভোমন্ডল ও ভূমন্ডলের সবাই তাঁর কাছে প্রার্থী। তিনি সর্বদাই কোন না কোন কাজে রত আছেন।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Pede-lhe benevolência quem está nos céus e na terra. Em cada dia, Ele executa uma obra nova",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Его просят те, кто на небесах и на земле, и каждый день Он занят делом",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "آسمان اور زمین میں جتنے لوگ ہیں سب اسی سے مانگتے ہیں۔ وہ ہر روز کام میں مصروف رہتا ہے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_055_030",
+      "reference": {
+        "surah_number": 55,
+        "surah_name": "Ar-Rahmaan",
+        "surah_name_ar": "سُوْرَةُ الرَّحْمٰنِ",
+        "surah_name_translation": "The Beneficent",
+        "ayah_number": 30,
+        "juz": 27,
+        "revelation_type": "Madina"
+      },
+      "arabic_word_count": 4,
+      "translations": {
+        "ar": {
+          "text": "فَبِأَيِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Then which of your Lord’s favours will you both deny",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "你们究竟否认你们的主的哪一件恩典呢？",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "अतः तुम दोनों अपने रब की अनुकम्पाओं में से किस-किस को झुठलाओगे",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "¿Acaso pueden negar alguna de las gracias que les ha concedido su Señor",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Lequel donc des bienfaits de votre Seigneur nierez-vous",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "অতএব, তোমরা উভয়ে তোমাদের পালনকর্তার কোন কোন অবদানকে অস্বীকার করবে?",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Então, qual das mercês de vosso Senhor vós ambos desmentis",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Какую же из милостей вашего Господа вы считаете ложью",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "تو تم اپنے پروردگار کی کون کون سی نعمت کو جھٹلاؤ گے؟",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_055_031",
+      "reference": {
+        "surah_number": 55,
+        "surah_name": "Ar-Rahmaan",
+        "surah_name_ar": "سُوْرَةُ الرَّحْمٰنِ",
+        "surah_name_translation": "The Beneficent",
+        "ayah_number": 31,
+        "juz": 27,
+        "revelation_type": "Madina"
+      },
+      "arabic_word_count": 4,
+      "translations": {
+        "ar": {
+          "text": "سَنَفۡرُغُ لَكُمۡ أَيُّهَ ٱلثَّقَلَانِ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "We will soon attend to you ˹for judgment˺, O two multitudes ˹of jinn and humans˺",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "精灵和人类啊！我将专心应付你们。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "ऐ दोनों बोझों! शीघ्र ही हम तुम्हारे लिए निवृत हुए जाते है",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Me encargaré de los que cargan con el libre albedrío",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Nous allons bientôt entreprendre votre jugement, ô vous les deux charges [hommes et djinns]",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "হে জিন ও মানব! আমি শীঘ্রই তোমাদের জন্যে কর্মমুক্ত হয়ে যাব।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Nós nos dedicaremos a vós ambos, ó humanos e gênios",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Скоро Мы займемся только вами, о два весомых (или обремененных) рода",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اے دونوں جماعتو! ہم عنقریب تمہاری طرف متوجہ ہوتے ہیں",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_055_032",
+      "reference": {
+        "surah_number": 55,
+        "surah_name": "Ar-Rahmaan",
+        "surah_name_ar": "سُوْرَةُ الرَّحْمٰنِ",
+        "surah_name_translation": "The Beneficent",
+        "ayah_number": 32,
+        "juz": 27,
+        "revelation_type": "Madina"
+      },
+      "arabic_word_count": 4,
+      "translations": {
+        "ar": {
+          "text": "فَبِأَيِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Then which of your Lord’s favours will you both deny",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "你们究竟否认你们的主的哪一件恩典呢？",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "तो तुम दोनों अपने रब की अनुकम्पाओं में से किस-किस को झुठलाओगे",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "¿Acaso pueden negar alguna de las gracias que les ha concedido su Señor",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Lequel donc des bienfaits de votre Seigneur nierez-vous",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "অতএব, তোমরা উভয়ে তোমাদের পালনকর্তার কোন কোন অবদানকে অস্বীকার করবে?",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Então, qual das mercês de vosso Senhor vós ambos desmentis",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Какую же из милостей вашего Господа вы считаете ложью",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "تو تم اپنے پروردگار کی کون کون سی نعمت کو جھٹلاؤ گے؟",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_055_033",
+      "reference": {
+        "surah_number": 55,
+        "surah_name": "Ar-Rahmaan",
+        "surah_name_ar": "سُوْرَةُ الرَّحْمٰنِ",
+        "surah_name_translation": "The Beneficent",
+        "ayah_number": 33,
+        "juz": 27,
+        "revelation_type": "Madina"
+      },
+      "arabic_word_count": 16,
+      "translations": {
+        "ar": {
+          "text": "يَٰمَعۡشَرَ ٱلۡجِنِّ وَٱلۡإِنسِ إِنِ ٱسۡتَطَعۡتُمۡ أَن تَنفُذُواْ مِنۡ أَقۡطَارِ ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضِ فَٱنفُذُواْۚ لَا تَنفُذُونَ إِلَّا بِسُلۡطَٰنࣲ‏",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "O assembly of jinn and humans! If you can penetrate beyond the realms of the heavens and the earth, then do so. ˹But˺ you cannot do that without ˹Our˺ authority",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "精灵和人类的群众啊！如果你们能通过天地的境界，你们就通过吧！你们必须凭据一种权柄，才能通过。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "ऐ जिन्नों और मनुष्यों के गिरोह! यदि तुममें हो सके कि आकाशों और धरती की सीमाओं को पार कर सको, तो पार कर जाओ; तुम कदापि पार नहीं कर सकते बिना अधिकार-शक्ति के",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "¡Oh, yinnes y seres humanos! Si pueden traspasar los confines del cielo y de la Tierra, háganlo. Pero sepan que solo podrán traspasarlos con autorización [de Dios]",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "O peuple de djinns et d'hommes! Si vous pouvez sortir du domaine des cieux et de la terre, alors faites-le. Mais vous ne pourrez en sortir qu'à l'aide d'un pouvoir [illimité]",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "হে জিন ও মানবকূল, নভোমন্ডল ও ভূমন্ডলের প্রান্ত অতিক্রম করা যদি তোমাদের সাধ্যে কুলায়, তবে অতিক্রম কর। কিন্তু ছাড়পত্র ব্যতীত তোমরা তা অতিক্রম করতে পারবে না।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Ó coorte de jinns e humanos! Se podeis atravessar os limites dos céus e da terra, atravessai-os. Vós não os atravessareis senão com um poder",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "О сонмище джиннов и людей! Если вы можете проникнуть за пределы небес и земли, то проникните. Но вы не проникните, не обладая властью (или ясным доводом)",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اے گروہِ جن وانس اگر تمہیں قدرت ہو کہ آسمان اور زمین کے کناروں سے نکل جاؤ تو نکل جاؤ۔ اور زور کے سوا تم نکل سکنے ہی کے نہیں",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_055_034",
+      "reference": {
+        "surah_number": 55,
+        "surah_name": "Ar-Rahmaan",
+        "surah_name_ar": "سُوْرَةُ الرَّحْمٰنِ",
+        "surah_name_translation": "The Beneficent",
+        "ayah_number": 34,
+        "juz": 27,
+        "revelation_type": "Madina"
+      },
+      "arabic_word_count": 4,
+      "translations": {
+        "ar": {
+          "text": "فَبِأَيِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Then which of your Lord’s favours will you both deny",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "你们究竟否认你们的主的哪一件恩典呢？",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "अतः तुम दोनों अपने रब की सामर्थ्यों में से किस-किस को झुठलाओगे",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "¿Acaso pueden negar alguna de las gracias que les ha concedido su Señor",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Lequel donc des bienfaits de votre Seigneur nierez-vous",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "অতএব, তোমরা উভয়ে তোমাদের পালনকর্তার কোন কোন অবদানকে অস্বীকার করবে?",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Então, qual das mercês de vosso Senhor vós ambos desmentis",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Какую же из милостей вашего Господа вы считаете ложью",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "تو تم اپنے پروردگار کی کون کون سی نعمت کو جھٹلاؤ گے؟",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_055_035",
+      "reference": {
+        "surah_number": 55,
+        "surah_name": "Ar-Rahmaan",
+        "surah_name_ar": "سُوْرَةُ الرَّحْمٰنِ",
+        "surah_name_translation": "The Beneficent",
+        "ayah_number": 35,
+        "juz": 27,
+        "revelation_type": "Madina"
+      },
+      "arabic_word_count": 8,
+      "translations": {
+        "ar": {
+          "text": "يُرۡسَلُ عَلَيۡكُمَا شُوَاظࣱ مِّن نَّارࣲ وَنُحَاسࣱ فَلَا تَنتَصِرَانِ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Flames of fire and ˹molten˺ copper will be sent against you, and you will not be able to defend one another",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "火焰和火烟将被降于你们，而你们不能自卫。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "अतः तुम दोनों पर अग्नि-ज्वाला और धुएँवाला अंगारा (पिघला ताँबा) छोड़ दिया जाएगा, फिर तुम मुक़ाबला न कर सकोगे।",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "[Si lo intentaran,] llamaradas de fuego y cobre fundido les serían lanzadas y no podrían defenderse",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Il sera lancé contre vous un jet de feu et de fumée [ou de cuivre fondu], et vous ne serez pas secourus",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "ছাড়া হবে তোমাদের প্রতি অগ্নিস্ফুলিঙ্গ ও ধুম্রকুঞ্জ তখন তোমরা সেসব প্রতিহত করতে পারবে না।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Enviar-se-ão contra vós ambos chamas de fogo e cobre fundido; e não sereis socorridos",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "На вас нашлют зеленое пламя (или пламя без дыма) и расплавленную медь (или дым), и вы не поможете друг другу",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "تم پر آگ کے شعلے اور دھواں چھوڑ دیا جائے گا تو پھر تم مقابلہ نہ کرسکو گے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_055_036",
+      "reference": {
+        "surah_number": 55,
+        "surah_name": "Ar-Rahmaan",
+        "surah_name_ar": "سُوْرَةُ الرَّحْمٰنِ",
+        "surah_name_translation": "The Beneficent",
+        "ayah_number": 36,
+        "juz": 27,
+        "revelation_type": "Madina"
+      },
+      "arabic_word_count": 4,
+      "translations": {
+        "ar": {
+          "text": "فَبِأَيِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Then which of your Lord’s favours will you both deny",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "你们究竟否认你们的主的哪一件恩典呢？",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "अतः तुम दोनों अपने रब की सामर्थ्यों में से किस-किस को झुठलाओगे",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "¿Acaso pueden negar alguna de las gracias que les ha concedido su Señor",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Lequel donc des bienfaits de votre Seigneur nierez-vous",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "অতএব, তোমরা উভয়ে তোমাদের পালনকর্তার কোন কোন অবদানকে অস্বীকার করবে?",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Então, qual das mercês de vosso Senhor vós ambos desmentis",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Какую же из милостей вашего Господа вы считаете ложью",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "تو تم اپنے پروردگار کی کون کون سی نعمت کو جھٹلاؤ گے؟",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_055_037",
+      "reference": {
+        "surah_number": 55,
+        "surah_name": "Ar-Rahmaan",
+        "surah_name_ar": "سُوْرَةُ الرَّحْمٰنِ",
+        "surah_name_translation": "The Beneficent",
+        "ayah_number": 37,
+        "juz": 27,
+        "revelation_type": "Madina"
+      },
+      "arabic_word_count": 6,
+      "translations": {
+        "ar": {
+          "text": "فَإِذَا ٱنشَقَّتِ ٱلسَّمَآءُ فَكَانَتۡ وَرۡدَةࣰ كَٱلدِّهَانِ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "˹How horrible will it be˺ when the heavens will split apart, becoming rose-red like ˹burnt˺ oil",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "当天破离的时候，天将变成玫瑰色，好象红皮一样。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "फिर जब आकाश फट जाएगा और लाल चमड़े की तरह लाल हो जाएगा।",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "El cielo se hendirá y se pondrá al rojo vivo como la lava",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Puis quand le ciel se fendra et deviendra alors écarlate comme le cuir rouge",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "যেদিন আকাশ বিদীর্ণ হবে তখন সেটি রক্তবর্ণে রঞ্জিত চামড়ার মত হয়ে যাবে।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E, quando o céu fender e se tornar róseo como a pele",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "И вот небо разверзнется и станет красным, как кипящее масло (или покрасневшая кожа; или расплавленный свинец)",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "پھر جب آسمان پھٹ کر تیل کی تلچھٹ کی طرح گلابی ہوجائے گا (تو) وہ کیسا ہولناک دن ہوگا",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_055_038",
+      "reference": {
+        "surah_number": 55,
+        "surah_name": "Ar-Rahmaan",
+        "surah_name_ar": "سُوْرَةُ الرَّحْمٰنِ",
+        "surah_name_translation": "The Beneficent",
+        "ayah_number": 38,
+        "juz": 27,
+        "revelation_type": "Madina"
+      },
+      "arabic_word_count": 4,
+      "translations": {
+        "ar": {
+          "text": "فَبِأَيِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Then which of your Lord’s favours will you both deny",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "你们究竟否认你们的主的哪一件恩典呢？",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "अतः तुम दोनों अपने रब के चमत्कारों में से किस-किस को झुठलाओगे",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "¿Acaso pueden negar alguna de las gracias que les ha concedido su Señor",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Lequel des bienfaits de votre Seigneur nierez-vous",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "অতএব, তোমরা উভয়ে তোমাদের পালনকর্তার কোন কোন অবদানকে অস্বীকার করবে?",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Então, qual das mercês de vosso Senhor vós ambos desmentis",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Какую же из милостей вашего Господа вы считаете ложью",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "تو تم اپنے پروردگار کی کون کون سی نعمت کو جھٹلاؤ گے؟",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_055_039",
+      "reference": {
+        "surah_number": 55,
+        "surah_name": "Ar-Rahmaan",
+        "surah_name_ar": "سُوْرَةُ الرَّحْمٰنِ",
+        "surah_name_translation": "The Beneficent",
+        "ayah_number": 39,
+        "juz": 27,
+        "revelation_type": "Madina"
+      },
+      "arabic_word_count": 8,
+      "translations": {
+        "ar": {
+          "text": "فَيَوۡمَئِذࣲ لَّا يُسۡـَٔلُ عَن ذَنۢبِهِۦٓ إِنسࣱ وَلَا جَآنࣱّ‏",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "On that Day there will be no need for any human or jinn to be asked about their sins",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "在那日，任何人和精灵都不因罪过而受审问。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "फिर उस दिन न किसी मनुष्य से उसके गुनाह के विषय में पूछा जाएगा न किसी जिन्न से",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Ese día no será necesario preguntarles por sus pecados a los seres humanos ni a los yinnes",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Alors, ni aux hommes ni aux djinns, on ne posera des questions à propos de leurs péchés",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "সেদিন মানুষ না তার অপরাধ সম্পর্কে জিজ্ঞাসিত হবে, না জিন।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Então, nesse dia, não será interrogado, acerca de seu delito, nem humano nem jinn",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "В тот день ни человек, ни джинн не будет спрошен о его грехе",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اس روز نہ تو کسی انسان سے اس کے گناہوں کے بارے میں پرسش کی جائے گی اور نہ کسی جن سے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_055_040",
+      "reference": {
+        "surah_number": 55,
+        "surah_name": "Ar-Rahmaan",
+        "surah_name_ar": "سُوْرَةُ الرَّحْمٰنِ",
+        "surah_name_translation": "The Beneficent",
+        "ayah_number": 40,
+        "juz": 27,
+        "revelation_type": "Madina"
+      },
+      "arabic_word_count": 4,
+      "translations": {
+        "ar": {
+          "text": "فَبِأَيِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Then which of your Lord’s favours will you both deny",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "你们究竟否认你们的主的哪一件恩典呢？",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "अतः तुम दोनों अपने रब के चमत्कारों में से किस-किस को झुठलाओगे",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "¿Acaso pueden negar alguna de las gracias que les ha concedido su Señor",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Lequel donc des bienfaits de votre Seigneur nierez-vous",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "অতএব, তোমরা উভয়ে তোমাদের পালনকর্তার কোন কোন অবদানকে অস্বীকার করবে?",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Então, qual das mercês de vosso Senhor vós ambos desmentis",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Какую же из милостей вашего Господа вы считаете ложью",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "تو تم اپنے پروردگار کی کون کون سی نعمت کو جھٹلاؤ گے؟",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_055_041",
+      "reference": {
+        "surah_number": 55,
+        "surah_name": "Ar-Rahmaan",
+        "surah_name_ar": "سُوْرَةُ الرَّحْمٰنِ",
+        "surah_name_translation": "The Beneficent",
+        "ayah_number": 41,
+        "juz": 27,
+        "revelation_type": "Madina"
+      },
+      "arabic_word_count": 6,
+      "translations": {
+        "ar": {
+          "text": "يُعۡرَفُ ٱلۡمُجۡرِمُونَ بِسِيمَٰهُمۡ فَيُؤۡخَذُ بِٱلنَّوَٰصِي وَٱلۡأَقۡدَامِ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "The wicked will be recognized by their appearance, then will be seized by ˹their˺ forelocks and feet",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "犯罪者将因他们的形迹而被认识，他们的额发将被系在脚掌上。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "अपराधी अपने चहरों से पहचान लिए जाएँगे और उनके माथे के बालों और टाँगों द्वारा पकड़ लिया जाएगा",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Los pecadores serán reconocidos por su aspecto, y se les tomará por la frente y por los pies",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "On reconnaîtra les criminels à leurs traits. Ils seront donc saisis par les toupets et les pieds",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "অপরাধীদের পরিচয় পাওয়া যাবে তাদের চেহারা থেকে; অতঃপর তাদের কপালের চুল ও পা ধরে টেনে নেয়া হবে।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Serão reconhecidos os criminosos por seus semblantes e serão apanhados pelos topetes e pelos pés",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Грешников будут узнавать по их признакам, а затем хватать за хохлы и стопы",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "گنہگار اپنے چہرے ہی سے پہچان لئے جائیں گے تو پیشانی کے بالوں اور پاؤں سے پکڑ لئے جائیں گے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_055_042",
+      "reference": {
+        "surah_number": 55,
+        "surah_name": "Ar-Rahmaan",
+        "surah_name_ar": "سُوْرَةُ الرَّحْمٰنِ",
+        "surah_name_translation": "The Beneficent",
+        "ayah_number": 42,
+        "juz": 27,
+        "revelation_type": "Madina"
+      },
+      "arabic_word_count": 4,
+      "translations": {
+        "ar": {
+          "text": "فَبِأَيِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Then which of your Lord’s favours will you both deny",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "你们究竟否认你们的主的哪一件恩典呢？",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "अतः तुम दोनों अपने रब की सामर्थ्यों में से किस-किस को झुठलाओगे",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "¿Acaso pueden negar alguna de las gracias que les ha concedido su Señor",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Lequel donc des bienfaits de votre Seigneur nierez-vous",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "অতএব, তোমরা উভয়ে তোমাদের পালনকর্তার কোন কোন অবদানকে অস্বীকার করবে?",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Então, qual das mercês de vosso Senhor vós ambos desmentis",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Какую же из милостей вашего Господа вы считаете ложью",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "تو تم اپنے پروردگار کی کون کون سی نعمت کو جھٹلاؤ گے؟",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_055_043",
+      "reference": {
+        "surah_number": 55,
+        "surah_name": "Ar-Rahmaan",
+        "surah_name_ar": "سُوْرَةُ الرَّحْمٰنِ",
+        "surah_name_translation": "The Beneficent",
+        "ayah_number": 43,
+        "juz": 27,
+        "revelation_type": "Madina"
+      },
+      "arabic_word_count": 6,
+      "translations": {
+        "ar": {
+          "text": "هَٰذِهِۦ جَهَنَّمُ ٱلَّتِي يُكَذِّبُ بِهَا ٱلۡمُجۡرِمُونَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "˹They will be told,˺ “This is the Hell which the wicked denied.”",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "这是犯罪者所否认的火狱。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "यही वह जहन्नम है जिसे अपराधी लोग झूठ ठहराते रहे है",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Este es el Infierno que desmentían los criminales",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Voilà l'Enfer que les criminels traitaient de mensonge",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "এটাই জাহান্নাম, যাকে অপরাধীরা মিথ্যা বলত।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Dir-se-Ihes-á: \"Eis a Geena que os criminosos desmentiam",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Вот Геенна, которую грешники считали ложью",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "یہی وہ جہنم ہے جسے گنہگار لوگ جھٹلاتے تھے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_055_044",
+      "reference": {
+        "surah_number": 55,
+        "surah_name": "Ar-Rahmaan",
+        "surah_name_ar": "سُوْرَةُ الرَّحْمٰنِ",
+        "surah_name_translation": "The Beneficent",
+        "ayah_number": 44,
+        "juz": 27,
+        "revelation_type": "Madina"
+      },
+      "arabic_word_count": 5,
+      "translations": {
+        "ar": {
+          "text": "يَطُوفُونَ بَيۡنَهَا وَبَيۡنَ حَمِيمٍ ءَانࣲ‏",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "They will alternate between its flames and scalding water",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "他们将往来于火狱和沸水之间。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "वे उनके और खौलते हुए पानी के बीच चक्कर लगा रहें होंगे",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "No dejarán de ir y venir entre el fuego y un agua hirviente",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Ils feront le va-et-vient entre lui (l'Enfer) et une eau bouillante extrêmement chaude",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "তারা জাহান্নামের অগ্নি ও ফুটন্ত পানির মাঝখানে প্রদক্ষিণ করবে।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Eles circularão entre ela e água ebuliente, escaldante",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Они будут ходить между нею и кипящей водой",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "وہ دوزخ اور کھولتے ہوئے گرم پانی کے درمیان گھومتے پھریں گے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_055_045",
+      "reference": {
+        "surah_number": 55,
+        "surah_name": "Ar-Rahmaan",
+        "surah_name_ar": "سُوْرَةُ الرَّحْمٰنِ",
+        "surah_name_translation": "The Beneficent",
+        "ayah_number": 45,
+        "juz": 27,
+        "revelation_type": "Madina"
+      },
+      "arabic_word_count": 4,
+      "translations": {
+        "ar": {
+          "text": "فَبِأَيِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Then which of your Lord’s favours will you both deny",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "你们究竟否认你们的主的哪一件恩典呢？",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "फिर तुम दोनों अपने रब के सामर्थ्यों में से किस-किस को झुठलाओगे",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "¿Acaso pueden negar alguna de las gracias que les ha concedido su Señor",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Lequel donc des bienfaits de votre Seigneur nierez-vous",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "অতএব, তোমরা উভয়ে তোমাদের পালনকর্তার কোন কোন অবদানকে অস্বীকার করবে?",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Então, qual das mercês de vosso Senhor vós ambos desmentis",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Какую же из милостей вашего Господа вы считаете ложью",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "تو تم اپنے پروردگار کی کون کون سی نعمت کو جھٹلاؤ گے؟",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_055_046",
+      "reference": {
+        "surah_number": 55,
+        "surah_name": "Ar-Rahmaan",
+        "surah_name_ar": "سُوْرَةُ الرَّحْمٰنِ",
+        "surah_name_translation": "The Beneficent",
+        "ayah_number": 46,
+        "juz": 27,
+        "revelation_type": "Madina"
+      },
+      "arabic_word_count": 5,
+      "translations": {
+        "ar": {
+          "text": "وَلِمَنۡ خَافَ مَقَامَ رَبِّهِۦ جَنَّتَانِ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "And whoever is in awe of standing before their Lord will have two Gardens",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "凡怕站在主的御前受审问者，都得享受两座乐园。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "किन्तु जो अपने रब के सामने खड़े होने का डर रखता होगा, उसके लिए दो बाग़ है।",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Para quien haya tenido temor de comparecer ante su Señor habrá dos jardines",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Et pour celui qui aura craint de comparaître devant son Seigneur, il y aura deux jardins",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "যে ব্যক্তি তার পালনকর্তার সামনে পেশ হওয়ার ভয় রাখে, তার জন্যে রয়েছে দু’টি উদ্যান।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E para quem teme a preeminência de seu senhor, haverá dois Jardins",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Тем же, которые боялись предстать перед своим Господом, уготовано два сада",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور جو شخص اپنے پروردگار کے سامنے کھڑے ہونے سے ڈرا اس کے لئے دو باغ ہیں",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_055_047",
+      "reference": {
+        "surah_number": 55,
+        "surah_name": "Ar-Rahmaan",
+        "surah_name_ar": "سُوْرَةُ الرَّحْمٰنِ",
+        "surah_name_translation": "The Beneficent",
+        "ayah_number": 47,
+        "juz": 27,
+        "revelation_type": "Madina"
+      },
+      "arabic_word_count": 4,
+      "translations": {
+        "ar": {
+          "text": "فَبِأَيِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Then which of your Lord’s favours will you both deny",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "你们究竟否认你们的主的哪一件恩典呢？",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "तो तुम दोनों अपने रब की अनुकम्पाओं में से किस-किस को झुठलाओगे",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "¿Acaso pueden negar alguna de las gracias que les ha concedido su Señor",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Lequel donc des bienfaits de votre Seigneur nierez-vous",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "অতএব, তোমরা উভয়ে তোমাদের পালনকর্তার কোন কোন অবদানকে অস্বীকার করবে?",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Então, qual das mercês de vosso Senhor vós ambos desmentis",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Какую же из милостей вашего Господа вы считаете ложью",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "تو تم اپنے پروردگار کی کون کون سی نعمت کو جھٹلاؤ گے؟",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_055_048",
+      "reference": {
+        "surah_number": 55,
+        "surah_name": "Ar-Rahmaan",
+        "surah_name_ar": "سُوْرَةُ الرَّحْمٰنِ",
+        "surah_name_translation": "The Beneficent",
+        "ayah_number": 48,
+        "juz": 27,
+        "revelation_type": "Madina"
+      },
+      "arabic_word_count": 2,
+      "translations": {
+        "ar": {
+          "text": "ذَوَاتَآ أَفۡنَانࣲ‏",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "˹Both will be˺ with lush branches",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "那两座乐园，是有各种果树的。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "घनी डालियोंवाले",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "[Jardines] frondosos",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Aux branches touffues",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "উভয় উদ্যানই ঘন শাখা-পল্লববিশিষ্ট।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Ambos de ramos florescentes",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "В них обоих есть ветви",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "ان دونوں میں بہت سی شاخیں (یعنی قسم قسم کے میووں کے درخت ہیں)",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_055_049",
+      "reference": {
+        "surah_number": 55,
+        "surah_name": "Ar-Rahmaan",
+        "surah_name_ar": "سُوْرَةُ الرَّحْمٰنِ",
+        "surah_name_translation": "The Beneficent",
+        "ayah_number": 49,
+        "juz": 27,
+        "revelation_type": "Madina"
+      },
+      "arabic_word_count": 4,
+      "translations": {
+        "ar": {
+          "text": "فَبِأَيِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Then which of your Lord’s favours will you both deny",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "你们究竟否认你们的主哪一件恩典呢？",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "अतः तुम दोनों अपने रब के उपकारों में से किस-किस को झुठलाओगे",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "¿Acaso pueden negar alguna de las gracias que les ha concedido su Señor",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Lequel donc des bienfaits de votre Seigneur nierez-vous",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "অতএব, তোমরা উভয়ে তোমাদের পালনকর্তার কোন কোন অবদানকে অস্বীকার করবে?",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Então, qual das mercês de vosso Senhor vós ambos desmentis",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Какую же из милостей вашего Господа вы считаете ложью",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "تو تم اپنے پروردگار کی کون کون سی نعمت کو جھٹلاؤ گے؟",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_055_050",
+      "reference": {
+        "surah_number": 55,
+        "surah_name": "Ar-Rahmaan",
+        "surah_name_ar": "سُوْرَةُ الرَّحْمٰنِ",
+        "surah_name_translation": "The Beneficent",
+        "ayah_number": 50,
+        "juz": 27,
+        "revelation_type": "Madina"
+      },
+      "arabic_word_count": 3,
+      "translations": {
+        "ar": {
+          "text": "فِيهِمَا عَيۡنَانِ تَجۡرِيَانِ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "In each ˹Garden˺ will be two flowing springs",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "在那两座乐园里，有两洞流行的泉源。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "उन दोनो (बाग़ो) में दो प्रवाहित स्रोत है।",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "En cada uno habrá dos manantiales",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Ils y trouveront deux sources courantes",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "উভয় উদ্যানে আছে বহমান দুই প্রস্রবন।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Em ambos, correm duas fontes",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "В них обоих текут два источника",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "ان میں دو چشمے بہہ رہے ہیں",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_055_051",
+      "reference": {
+        "surah_number": 55,
+        "surah_name": "Ar-Rahmaan",
+        "surah_name_ar": "سُوْرَةُ الرَّحْمٰنِ",
+        "surah_name_translation": "The Beneficent",
+        "ayah_number": 51,
+        "juz": 27,
+        "revelation_type": "Madina"
+      },
+      "arabic_word_count": 4,
+      "translations": {
+        "ar": {
+          "text": "فَبِأَيِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Then which of your Lord’s favours will you both deny",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "你们究竟否认你们的主的哪一件恩典呢？",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "अतः तुम दोनों अपने रब की अनुकम्पाओं में से किस-किस को झुठलाओगे",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "¿Acaso pueden negar alguna de las gracias que les ha concedido su Señor",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Lequel donc des bienfaits de votre Seigneur nierez-vous",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "অতএব, তোমরা উভয়ে তোমাদের পালনকর্তার কোন কোন অবদানকে অস্বীকার করবে?",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Então, qual das mercês de vosso Senhor vós ambos desmentis",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Какую же из милостей вашего Господа вы считаете ложью",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "تو تم اپنے پروردگار کی کون کون سی نعمت کو جھٹلاؤ گے؟",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_055_052",
+      "reference": {
+        "surah_number": 55,
+        "surah_name": "Ar-Rahmaan",
+        "surah_name_ar": "سُوْرَةُ الرَّحْمٰنِ",
+        "surah_name_translation": "The Beneficent",
+        "ayah_number": 52,
+        "juz": 27,
+        "revelation_type": "Madina"
+      },
+      "arabic_word_count": 5,
+      "translations": {
+        "ar": {
+          "text": "فِيهِمَا مِن كُلِّ فَٰكِهَةࣲ زَوۡجَانِ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "In each will be two types of every fruit",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "在那两座乐园里，每种水果，都有两样。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "उन दोनों (बाग़ो) मे हर स्वादिष्ट फल की दो-दो किस्में हैं",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "En cada uno habrá dos especies de cada fruta",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Ils contiennent deux espèces de chaque fruit",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "উভয়ের মধ্যে প্রত্যেক ফল বিভিন্ন রকমের হবে।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Em ambos, há, de cada fruta, duas espécies",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "В них обоих есть от всех фруктов по паре",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "ان میں سب میوے دو دو قسم کے ہیں",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_055_053",
+      "reference": {
+        "surah_number": 55,
+        "surah_name": "Ar-Rahmaan",
+        "surah_name_ar": "سُوْرَةُ الرَّحْمٰنِ",
+        "surah_name_translation": "The Beneficent",
+        "ayah_number": 53,
+        "juz": 27,
+        "revelation_type": "Madina"
+      },
+      "arabic_word_count": 4,
+      "translations": {
+        "ar": {
+          "text": "فَبِأَيِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Then which of your Lord’s favours will you both deny",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "你们究竟否认你们的主的哪一件恩典呢？",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "अतः तुम दोनो रब के चमत्कारों में से किस-किस को झुठलाओगे",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "¿Acaso pueden negar alguna de las gracias que les ha concedido su Señor",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Lequel donc des bienfaits de votre Seigneur nierez-vous",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "অতএব, তোমরা উভয়ে তোমাদের পালনকর্তার কোন কোন অবদানকে অস্বীকার করবে?",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Então, qual das mercês de vosso Senhor vós ambos desmentis",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Какую же из милостей вашего Господа вы считаете ложью",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "تو تم اپنے پروردگار کی کون کون سی نعمت کو جھٹلاؤ گے؟",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_055_054",
+      "reference": {
+        "surah_number": 55,
+        "surah_name": "Ar-Rahmaan",
+        "surah_name_ar": "سُوْرَةُ الرَّحْمٰنِ",
+        "surah_name_translation": "The Beneficent",
+        "ayah_number": 54,
+        "juz": 27,
+        "revelation_type": "Madina"
+      },
+      "arabic_word_count": 9,
+      "translations": {
+        "ar": {
+          "text": "مُتَّكِـِٔينَ عَلَىٰ فُرُشِۭ بَطَآئِنُهَا مِنۡ إِسۡتَبۡرَقࣲۚ وَجَنَى ٱلۡجَنَّتَيۡنِ دَانࣲ‏",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Those ˹believers˺ will recline on furnishings lined with rich brocade. And the fruit of both Gardens will hang within reach",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "他们靠在用锦缎做里子的坐褥上，那两座乐园的水果，都是手所能及的。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "वे ऐसे बिछौनो पर तकिया लगाए हुए होंगे जिनके अस्तर गाढे रेशम के होंगे, और दोनों बाग़ो के फल झुके हुए निकट ही होंगे।",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Estarán reclinados en sofás tapizados de brocado, y la fruta de ambos jardines estará al alcance de la mano",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Ils seront accoudés sur des tapis doublés de brocart, et les fruits des deux jardins seront à leur portée (pour être cueillis)",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "তারা তথায় রেশমের আস্তরবিশিষ্ট বিছানায় হেলান দিয়ে বসবে। উভয় উদ্যানের ফল তাদের নিকট ঝুলবে।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Reclinados estarão sobre acolchoados, cujos forros são de brocado. E os frutos de ambos os Jardins estarão à mão",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Они будут лежать, прислонившись, на матрацах, выстланных снизу парчой, а свежие плоды этих двух садов будут склоняться низко",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "(اہل جنت) ایسے بچھونوں پر جن کے استرا طلس کے ہیں تکیہ لگائے ہوئے ہوں گے۔ اور دونوں باغوں کے میوے قریب (جھک رہے) ہیں",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_055_055",
+      "reference": {
+        "surah_number": 55,
+        "surah_name": "Ar-Rahmaan",
+        "surah_name_ar": "سُوْرَةُ الرَّحْمٰنِ",
+        "surah_name_translation": "The Beneficent",
+        "ayah_number": 55,
+        "juz": 27,
+        "revelation_type": "Madina"
+      },
+      "arabic_word_count": 4,
+      "translations": {
+        "ar": {
+          "text": "فَبِأَيِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Then which of your Lord’s favours will you both deny",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "你们究竟否认你们的主的哪一件恩典呢？",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "अतः तुम अपने रब के चमत्कारों में से किस-किस को झुठलाओगे",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "¿Acaso pueden negar alguna de las gracias que les ha concedido su Señor",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Lequel donc des bienfaits de votre Seigneur nierez-vous",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "অতএব, তোমরা উভয়ে তোমাদের পালনকর্তার কোন কোন অবদানকে অস্বীকার করবে?",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Então, qual das mercês de vosso Senhor vós ambos desmentis",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Какую же из милостей вашего Господа вы считаете ложью",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "تو تم اپنے پروردگار کی کون کون سی نعمت کو جھٹلاؤ گے؟",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_055_056",
+      "reference": {
+        "surah_number": 55,
+        "surah_name": "Ar-Rahmaan",
+        "surah_name_ar": "سُوْرَةُ الرَّحْمٰنِ",
+        "surah_name_translation": "The Beneficent",
+        "ayah_number": 56,
+        "juz": 27,
+        "revelation_type": "Madina"
+      },
+      "arabic_word_count": 9,
+      "translations": {
+        "ar": {
+          "text": "فِيهِنَّ قَٰصِرَٰتُ ٱلطَّرۡفِ لَمۡ يَطۡمِثۡهُنَّ إِنسࣱ قَبۡلَهُمۡ وَلَا جَآنࣱّ‏",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "In both ˹Gardens˺ will be maidens of modest gaze, who no human or jinn has ever touched before",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "在那些乐园中，有不视非礼的妻子，在他们的妻子之前，任何人和任何精灵都未与她们交接过。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "उन (अनुकम्पाओं) में निगाह बचाए रखनेवाली (सुन्दर) स्त्रियाँ होंगी, जिन्हें उनसे पहले न किसी मनुष्य ने हाथ लगाया और न किसी जिन्न ने",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Habrá en ellos mujeres de mirar recatado, que no fueron tocadas antes por ningún ser humano ni tampoco un yinn",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Ils y trouveront [les houris] aux regards chastes, qu'avant eux aucun homme ou djinn n'aura déflorées",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "তথায় থাকবে আনতনয়ন রমনীগন, কোন জিন ও মানব পূর্বে যাদের ব্যবহার করেনি।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Neles, haverá donzelas de olhares restritos a seus amados. Não as tocou, antes deles, nem humano nem jinn",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Там будут девы, потупляющие взоры, с которыми прежде не имели близости ни человек, ни джинн",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "ان میں نیچی نگاہ والی عورتیں ہیں جن کو اہل جنت سے پہلے نہ کسی انسان نے ہاتھ لگایا اور نہ کسی جن نے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_055_057",
+      "reference": {
+        "surah_number": 55,
+        "surah_name": "Ar-Rahmaan",
+        "surah_name_ar": "سُوْرَةُ الرَّحْمٰنِ",
+        "surah_name_translation": "The Beneficent",
+        "ayah_number": 57,
+        "juz": 27,
+        "revelation_type": "Madina"
+      },
+      "arabic_word_count": 4,
+      "translations": {
+        "ar": {
+          "text": "فَبِأَيِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Then which of your Lord’s favours will you both deny",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "你们究竟否认你们的主的哪一件恩典呢？",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "फिर तुम दोनों अपने रब की अनुकम्पाओं में से किस-किस को झुठलाओगे",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "¿Acaso pueden negar alguna de las gracias que les ha concedido su Señor",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Lequel donc des bienfaits de votre Seigneur nierez-vous",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "অতএব, তোমরা উভয়ে তোমাদের পালনকর্তার কোন কোন অবদানকে অস্বীকার করবে?",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Então, qual das mercês de vosso Senhor vós ambos desmentis",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Какую же из милостей вашего Господа вы считаете ложью",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "تو تم اپنے پروردگار کی کون کون سی نعمت کو جھٹلاؤ گے؟",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_055_058",
+      "reference": {
+        "surah_number": 55,
+        "surah_name": "Ar-Rahmaan",
+        "surah_name_ar": "سُوْرَةُ الرَّحْمٰنِ",
+        "surah_name_translation": "The Beneficent",
+        "ayah_number": 58,
+        "juz": 27,
+        "revelation_type": "Madina"
+      },
+      "arabic_word_count": 3,
+      "translations": {
+        "ar": {
+          "text": "كَأَنَّهُنَّ ٱلۡيَاقُوتُ وَٱلۡمَرۡجَانُ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Those ˹maidens˺ will be ˹as elegant˺ as rubies and coral",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "她们好象红宝石和小珍珠一样。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "मानो वे लाल (याकूत) और प्रवाल (मूँगा) है।",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Ellas serán de una belleza semejante al rubí y al coral",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Elles seront [aussi belles] que le rubis et le corail",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "প্রবাল ও পদ্মরাগ সদৃশ রমণীগণ।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Como se fossem o rubi e o coral",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Они подобны рубинам и кораллам",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "گویا وہ یاقوت اور مرجان ہیں",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_055_059",
+      "reference": {
+        "surah_number": 55,
+        "surah_name": "Ar-Rahmaan",
+        "surah_name_ar": "سُوْرَةُ الرَّحْمٰنِ",
+        "surah_name_translation": "The Beneficent",
+        "ayah_number": 59,
+        "juz": 27,
+        "revelation_type": "Madina"
+      },
+      "arabic_word_count": 4,
+      "translations": {
+        "ar": {
+          "text": "فَبِأَيِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Then which of your Lord’s favours will you both deny",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "你们究竟否认你们的主的哪一件恩典呢？",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "अतः तुम दोनों अपने रब की अनुकम्पाओं में से किस-किस को झुठलाओगे",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "¿Acaso pueden negar alguna de las gracias que les ha concedido su Señor",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Lequel donc des bienfaits de votre Seigneur nierez-vous",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "অতএব, তোমরা উভয়ে তোমাদের পালনকর্তার কোন কোন অবদানকে অস্বীকার করবে?",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Então, qual das mercês de vosso Senhor vós ambos desmentis",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Какую же из милостей вашего Господа вы считаете ложью",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "تو تم اپنے پروردگار کی کون کون سی نعمت کو جھٹلاؤ گے؟",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_055_060",
+      "reference": {
+        "surah_number": 55,
+        "surah_name": "Ar-Rahmaan",
+        "surah_name_ar": "سُوْرَةُ الرَّحْمٰنِ",
+        "surah_name_translation": "The Beneficent",
+        "ayah_number": 60,
+        "juz": 27,
+        "revelation_type": "Madina"
+      },
+      "arabic_word_count": 5,
+      "translations": {
+        "ar": {
+          "text": "هَلۡ جَزَآءُ ٱلۡإِحۡسَٰنِ إِلَّا ٱلۡإِحۡسَٰنُ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Is there any reward for goodness except goodness",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "行善者，只受善报。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "अच्छाई का बदला अच्छाई के सिवा और क्या हो सकता है",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "¿Acaso la recompensa del bien no es el bien mismo",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Y a-t-il d'autre récompense pour le bien, que le bien",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "সৎকাজের প্রতিদান উত্তম পুরস্কার ব্যতীত কি হতে পারে?",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Há outra recompensa da benevolência senão benevolência",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Воздают ли за добро иначе, чем добром",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "نیکی کا بدلہ نیکی کے سوا کچھ نہیں ہے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_055_061",
+      "reference": {
+        "surah_number": 55,
+        "surah_name": "Ar-Rahmaan",
+        "surah_name_ar": "سُوْرَةُ الرَّحْمٰنِ",
+        "surah_name_translation": "The Beneficent",
+        "ayah_number": 61,
+        "juz": 27,
+        "revelation_type": "Madina"
+      },
+      "arabic_word_count": 4,
+      "translations": {
+        "ar": {
+          "text": "فَبِأَيِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Then which of your Lord’s favours will you both deny",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "你们究竟否认你们的主的哪一件恩典呢？",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "अतः तुम दोनों अपने रब की अनुकम्पाओं में से किस-किस को झुठलाओगे",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "¿Acaso pueden negar alguna de las gracias que les ha concedido su Señor",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Lequel donc des bienfaits de votre Seigneur nierez-vous",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "অতএব, তোমরা উভয়ে তোমাদের পালনকর্তার কোন কোন অবদানকে অস্বীকার করবে?",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Então, qual das mercês de vosso Senhor vós ambos desmentis",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Какую же из милостей вашего Господа вы считаете ложью",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "تو تم اپنے پروردگار کی کون کون سی نعمت کو جھٹلاؤ گے؟",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_055_062",
+      "reference": {
+        "surah_number": 55,
+        "surah_name": "Ar-Rahmaan",
+        "surah_name_ar": "سُوْرَةُ الرَّحْمٰنِ",
+        "surah_name_translation": "The Beneficent",
+        "ayah_number": 62,
+        "juz": 27,
+        "revelation_type": "Madina"
+      },
+      "arabic_word_count": 3,
+      "translations": {
+        "ar": {
+          "text": "وَمِن دُونِهِمَا جَنَّتَانِ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "And below these two ˹Gardens˺ will be two others",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "次于那两座乐园的，还有两座乐园。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "उन दोनों से हटकर दो और बाग़ है।",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Además de esos dos, habrá otros dos jardines",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "En deçà de ces deux jardins il y aura deux autres jardins",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "এই দু’টি ছাড়া আরও দু’টি উদ্যান রয়েছে।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E, além de ambos, haverá dois outros Jardins",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "А перед теми двумя есть еще два сада",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور ان باغوں کے علاوہ دو باغ اور ہیں",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_055_063",
+      "reference": {
+        "surah_number": 55,
+        "surah_name": "Ar-Rahmaan",
+        "surah_name_ar": "سُوْرَةُ الرَّحْمٰنِ",
+        "surah_name_translation": "The Beneficent",
+        "ayah_number": 63,
+        "juz": 27,
+        "revelation_type": "Madina"
+      },
+      "arabic_word_count": 4,
+      "translations": {
+        "ar": {
+          "text": "فَبِأَيِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Then which of your Lord’s favours will you both deny",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "你们究竟否认你们的主的哪一件恩典呢？",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "फिर तुम दोनों अपने रब की अनुकम्पाओं में से किस-किस को झुठलाओगे",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "¿Acaso pueden negar alguna de las gracias que les ha concedido su Señor",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Lequel donc des bienfaits de votre Seigneur nierez-vous",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "অতএব, তোমরা উভয়ে তোমাদের পালনকর্তার কোন কোন অবদানকে অস্বীকার করবে?",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Então, qual das mercês de vosso Senhor vós ambos desmentis",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Какую же из милостей вашего Господа вы считаете ложью",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "تو تم اپنے پروردگار کی کون کون سی نعمت کو جھٹلاؤ گے؟",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_055_064",
+      "reference": {
+        "surah_number": 55,
+        "surah_name": "Ar-Rahmaan",
+        "surah_name_ar": "سُوْرَةُ الرَّحْمٰنِ",
+        "surah_name_translation": "The Beneficent",
+        "ayah_number": 64,
+        "juz": 27,
+        "revelation_type": "Madina"
+      },
+      "arabic_word_count": 1,
+      "translations": {
+        "ar": {
+          "text": "مُدۡهَآمَّتَانِ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Both will be dark green",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "那两座乐园都是苍翠的。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "गहरे हरित",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "De profundo verdor",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Ils sont d'un vert sombre",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "কালোমত ঘন সবুজ।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Ambos verde-escuros",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Они оба - темно-зеленые",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "دونوں خوب گہرے سبز",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_055_065",
+      "reference": {
+        "surah_number": 55,
+        "surah_name": "Ar-Rahmaan",
+        "surah_name_ar": "سُوْرَةُ الرَّحْمٰنِ",
+        "surah_name_translation": "The Beneficent",
+        "ayah_number": 65,
+        "juz": 27,
+        "revelation_type": "Madina"
+      },
+      "arabic_word_count": 4,
+      "translations": {
+        "ar": {
+          "text": "فَبِأَيِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Then which of your Lord’s favours will you both deny",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "你们究竟否认你们的主的哪一件恩典呢？",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "अतः तुम दोनों अपने रब की अनुकम्पाओं में से किस-किस को झुठलाओगे",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "¿Acaso pueden negar alguna de las gracias que les ha concedido su Señor",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Lequel donc des bienfaits de votre Seigneur nierez-vous",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "অতএব, তোমরা উভয়ে তোমাদের পালনকর্তার কোন কোন অবদানকে অস্বীকার করবে?",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Então, qual das mercês de vosso Senhor vós ambos desmentis",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Какую же из милостей вашего Господа вы считаете ложью",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "تو تم اپنے پروردگار کی کون کون سی نعمت کو جھٹلاؤ گے؟",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_055_066",
+      "reference": {
+        "surah_number": 55,
+        "surah_name": "Ar-Rahmaan",
+        "surah_name_ar": "سُوْرَةُ الرَّحْمٰنِ",
+        "surah_name_translation": "The Beneficent",
+        "ayah_number": 66,
+        "juz": 27,
+        "revelation_type": "Madina"
+      },
+      "arabic_word_count": 3,
+      "translations": {
+        "ar": {
+          "text": "فِيهِمَا عَيۡنَانِ نَضَّاخَتَانِ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "In each will be two gushing springs",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "在那两座乐园里，有两洞涌出的泉源。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "उन दोनों (बाग़ो) में दो स्रोत है जोश मारते हुए",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "En ambos habrá dos manantiales brotando",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Dans lesquelles il y aura deux sources jaillissantes",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "তথায় আছে উদ্বেলিত দুই প্রস্রবণ।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Em ambos, haverá duas fontes jorrando",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "В них обоих бурлят два источника",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "ان میں دو چشمے ابل رہے ہیں",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_055_067",
+      "reference": {
+        "surah_number": 55,
+        "surah_name": "Ar-Rahmaan",
+        "surah_name_ar": "سُوْرَةُ الرَّحْمٰنِ",
+        "surah_name_translation": "The Beneficent",
+        "ayah_number": 67,
+        "juz": 27,
+        "revelation_type": "Madina"
+      },
+      "arabic_word_count": 4,
+      "translations": {
+        "ar": {
+          "text": "فَبِأَيِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Then which of your Lord’s favours will you both deny",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "你们究竟否认你们的主的哪一件恩典呢？",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "अतः तुम दोनों अपने रब के चमत्कारों में से किस-किस को झुठलाओगे",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "¿Acaso pueden negar alguna de las gracias que les ha concedido su Señor",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Lequel donc des bienfaits de votre Seigneur nierez-vous",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "অতএব, তোমরা উভয়ে তোমাদের পালনকর্তার কোন কোন অবদানকে অস্বীকার করবে?",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Então, qual das mercês de vosso Senhor vós ambos desmentis",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Какую же из милостей вашего Господа вы считаете ложью",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "تو تم اپنے پروردگار کی کون کون سی نعمت کو جھٹلاؤ گے؟",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_055_068",
+      "reference": {
+        "surah_number": 55,
+        "surah_name": "Ar-Rahmaan",
+        "surah_name_ar": "سُوْرَةُ الرَّحْمٰنِ",
+        "surah_name_translation": "The Beneficent",
+        "ayah_number": 68,
+        "juz": 27,
+        "revelation_type": "Madina"
+      },
+      "arabic_word_count": 4,
+      "translations": {
+        "ar": {
+          "text": "فِيهِمَا فَٰكِهَةࣱ وَنَخۡلࣱ وَرُمَّانࣱ‏",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "In both will be fruit, palm trees, and pomegranates",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "在那两座乐园里，有水果，有海枣，有石榴。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "उनमें है स्वादिष्ट फल और खजूर और अनार",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Habrá frutas, datileras y granadas",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Ils contiennent des fruits, des palmiers, et des grenadiers",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "তথায় আছে ফল-মূল, খর্জুর ও আনার।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Em ambos, haverá frutas, e tamareiras, e romãs",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "В них обоих есть фрукты, финиковые пальмы, гранаты",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "ان میں میوے اور کھجوریں اور انار ہیں",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_055_069",
+      "reference": {
+        "surah_number": 55,
+        "surah_name": "Ar-Rahmaan",
+        "surah_name_ar": "سُوْرَةُ الرَّحْمٰنِ",
+        "surah_name_translation": "The Beneficent",
+        "ayah_number": 69,
+        "juz": 27,
+        "revelation_type": "Madina"
+      },
+      "arabic_word_count": 4,
+      "translations": {
+        "ar": {
+          "text": "فَبِأَيِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Then which of your Lord’s favours will you both deny",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "你们否认你们的主的哪一件恩典呢？",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "अतः तुम दोनों अपने रब की अनुकम्पाओं में से किस-किस को झुठलाओगे",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "¿Acaso pueden negar alguna de las gracias que les ha concedido su Señor",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Lequel donc des bienfaits de votre Seigneur nierez-vous",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "অতএব, তোমরা উভয়ে তোমাদের পালনকর্তার কোন কোন অবদানকে অস্বীকার করবে?",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Então, qual das mercês de vosso Senhor vós ambos desmentis",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Какую же из милостей вашего Господа вы считаете ложью",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "تو تم اپنے پروردگار کی کون کون سی نعمت کو جھٹلاؤ گے؟",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_055_070",
+      "reference": {
+        "surah_number": 55,
+        "surah_name": "Ar-Rahmaan",
+        "surah_name_ar": "سُوْرَةُ الرَّحْمٰنِ",
+        "surah_name_translation": "The Beneficent",
+        "ayah_number": 70,
+        "juz": 27,
+        "revelation_type": "Madina"
+      },
+      "arabic_word_count": 3,
+      "translations": {
+        "ar": {
+          "text": "فِيهِنَّ خَيۡرَٰتٌ حِسَانࣱ‏",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "In all Gardens will be noble, pleasant mates",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "在那些乐园里，有许多贤淑佳丽的女子。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "उनमें भली और सुन्दर स्त्रियाँ होंगी।",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Y también habrá buenas y hermosas [mujeres]",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Là, il y aura des vertueuses et des belles",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "সেখানে থাকবে সচ্চরিত্রা সুন্দরী রমণীগণ।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Neles, haverá fidalgas, formosas",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Там есть девы хорошие, прекрасные",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "ان میں نیک سیرت (اور) خوبصورت عورتیں ہیں",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_055_071",
+      "reference": {
+        "surah_number": 55,
+        "surah_name": "Ar-Rahmaan",
+        "surah_name_ar": "سُوْرَةُ الرَّحْمٰنِ",
+        "surah_name_translation": "The Beneficent",
+        "ayah_number": 71,
+        "juz": 27,
+        "revelation_type": "Madina"
+      },
+      "arabic_word_count": 4,
+      "translations": {
+        "ar": {
+          "text": "فَبِأَيِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Then which of your Lord’s favours will you both deny",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "你们究竟否认你们的主的哪一件恩典呢？",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "तो तुम दोनों अपने रब की अनुकम्पाओं में से किस-किस को झुठलाओगे",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "¿Acaso pueden negar alguna de las gracias que les ha concedido su Señor",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Lequel donc des bienfaits de votre Seigneur nierez-vous",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "অতএব, তোমরা উভয়ে তোমাদের পালনকর্তার কোন কোন অবদানকে অস্বীকার করবে?",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Então, qual das mercês de vosso Senhor vós ambos desmentis",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Какую же из милостей вашего Господа вы считаете ложью",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "تو تم اپنے پروردگار کی کون کون سی نعمت کو جھٹلاؤ گے؟",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_055_072",
+      "reference": {
+        "surah_number": 55,
+        "surah_name": "Ar-Rahmaan",
+        "surah_name_ar": "سُوْرَةُ الرَّحْمٰنِ",
+        "surah_name_translation": "The Beneficent",
+        "ayah_number": 72,
+        "juz": 27,
+        "revelation_type": "Madina"
+      },
+      "arabic_word_count": 4,
+      "translations": {
+        "ar": {
+          "text": "حُورࣱ مَّقۡصُورَٰتࣱ فِي ٱلۡخِيَامِ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "˹They will be˺ maidens with gorgeous eyes, reserved in pavilions",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "他们是白皙的，是蛰居于帐幕中的。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "हूरें (परम रूपवती स्त्रियाँ) ख़ेमों में रहनेवाली",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Huríes, retiradas en bellas moradas",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Des houris cloîtrées dans les tentes",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "তাঁবুতে অবস্থানকারিণী হুরগণ।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Húris, reclusas nas tendas",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Они - черноокие и большеглазые, удерживаемые в шатрах",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "(وہ) حوریں (ہیں جو) خیموں میں مستور (ہیں)",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_055_073",
+      "reference": {
+        "surah_number": 55,
+        "surah_name": "Ar-Rahmaan",
+        "surah_name_ar": "سُوْرَةُ الرَّحْمٰنِ",
+        "surah_name_translation": "The Beneficent",
+        "ayah_number": 73,
+        "juz": 27,
+        "revelation_type": "Madina"
+      },
+      "arabic_word_count": 4,
+      "translations": {
+        "ar": {
+          "text": "فَبِأَيِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Then which of your Lord’s favours will you both deny",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "你们究竟否认你们的主的哪一件恩典呢？",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "अतः तुम दोनों अपने रब के चमत्कारों में से किस-किस को झुठलाओगे",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "¿Acaso pueden negar alguna de las gracias que les ha concedido su Señor",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Lequel donc des bienfaits de votre Seigneur nierez-vous",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "অতএব, তোমরা উভয়ে তোমাদের পালনকর্তার কোন কোন অবদানকে অস্বীকার করবে?",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Então, qual das mercês de vosso Senhor vós ambos desmentis",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Какую же из милостей вашего Господа вы считаете ложью",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "تو تم اپنے پروردگار کی کون کون سی نعمت کو جھٹلاؤ گے؟",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_055_074",
+      "reference": {
+        "surah_number": 55,
+        "surah_name": "Ar-Rahmaan",
+        "surah_name_ar": "سُوْرَةُ الرَّحْمٰنِ",
+        "surah_name_translation": "The Beneficent",
+        "ayah_number": 74,
+        "juz": 27,
+        "revelation_type": "Madina"
+      },
+      "arabic_word_count": 6,
+      "translations": {
+        "ar": {
+          "text": "لَمۡ يَطۡمِثۡهُنَّ إِنسࣱ قَبۡلَهُمۡ وَلَا جَآنࣱّ‏",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "No human or jinn has ever touched these ˹maidens˺ before",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "在他们的妻子之前，任何人或精灵，都未曾与她们交接过。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "जिन्हें उससे पहले न किसी मनुष्य ने हाथ लगाया होगा और न किसी जिन्न ने।",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Que no fueron tocadas antes por ningún ser humano ni tampoco un yinn",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "qu'avant eux aucun homme ou djinn n'a déflorées",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "কোন জিন ও মানব পূর্বে তাদেরকে স্পর্শ করেনি।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Não as tocou, antes deles, nem humano nem jinn",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "С ними прежде не имели близости ни человек, ни джинн",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "ان کو اہل جنت سے پہلے نہ کسی انسان نے ہاتھ لگایا اور نہ کسی جن نے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_055_075",
+      "reference": {
+        "surah_number": 55,
+        "surah_name": "Ar-Rahmaan",
+        "surah_name_ar": "سُوْرَةُ الرَّحْمٰنِ",
+        "surah_name_translation": "The Beneficent",
+        "ayah_number": 75,
+        "juz": 27,
+        "revelation_type": "Madina"
+      },
+      "arabic_word_count": 4,
+      "translations": {
+        "ar": {
+          "text": "فَبِأَيِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Then which of your Lord’s favours will you both deny",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "你们究竟否认你们的主的哪一件恩典呢？",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "अतः तुम दोनों अपने रब की अनुकम्पाओं में से किस-किस को झुठलाओगे",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "¿Acaso pueden negar alguna de las gracias que les ha concedido su Señor",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Lequel donc des bienfaits de votre Seigneur nierez-vous",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "অতএব, তোমরা উভয়ে তোমাদের পালনকর্তার কোন কোন অবদানকে অস্বীকার করবে?",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Então, qual das mercês de vosso Senhor vós ambos desmentis",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Какую же из милостей вашего Господа вы считаете ложью",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "تو تم اپنے پروردگار کی کون کون سی نعمت کو جھٹلاؤ گے؟",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_055_076",
+      "reference": {
+        "surah_number": 55,
+        "surah_name": "Ar-Rahmaan",
+        "surah_name_ar": "سُوْرَةُ الرَّحْمٰنِ",
+        "surah_name_translation": "The Beneficent",
+        "ayah_number": 76,
+        "juz": 27,
+        "revelation_type": "Madina"
+      },
+      "arabic_word_count": 6,
+      "translations": {
+        "ar": {
+          "text": "مُتَّكِـِٔينَ عَلَىٰ رَفۡرَفٍ خُضۡرࣲ وَعَبۡقَرِيٍّ حِسَانࣲ‏",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "All ˹believers˺ will be reclining on green cushions and splendid carpets",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "他们靠在翠绿的坐褥和美丽的花毯上。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "वे हरे रेशमी गद्दो और उत्कृष्ट् और असाधारण क़ालीनों पर तकिया लगाए होंगे",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "[Los bienaventurados] estarán reclinados sobre cojines verdes y hermosas alfombras",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Ils seront accoudés sur des coussins verts et des tapis épais et jolis",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "তারা সবুজ মসনদে এবং উৎকৃষ্ট মূল্যবান বিছানায় হেলান দিয়ে বসবে।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Reclinados estarão sobre almofadas verdes e formosos tapetes",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Они будут лежать, прислонившись, на зеленых подушках и прекрасных матрацах",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "سبز قالینوں اور نفیس مسندوں پر تکیہ لگائے بیٹھے ہوں گے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_055_077",
+      "reference": {
+        "surah_number": 55,
+        "surah_name": "Ar-Rahmaan",
+        "surah_name_ar": "سُوْرَةُ الرَّحْمٰنِ",
+        "surah_name_translation": "The Beneficent",
+        "ayah_number": 77,
+        "juz": 27,
+        "revelation_type": "Madina"
+      },
+      "arabic_word_count": 4,
+      "translations": {
+        "ar": {
+          "text": "فَبِأَيِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Then which of your Lord’s favours will you both deny",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "你们究竟否认你们的主的哪一件恩典呢？",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "अतः तुम दोनों अपने रब की अनुकम्पाओं में से किस-किस को झुठलाओगे",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "¿Acaso pueden negar alguna de las gracias que les ha concedido su Señor",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Lequel donc des bienfaits de votre Seigneur nierez-vous",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "অতএব, তোমরা উভয়ে তোমাদের পালনকর্তার কোন কোন অবদানকে অস্বীকার করবে?",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Então, qual das mercês de vosso Senhor vós ambos desmentis",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Какую же из милостей вашего Господа вы считаете ложью",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "تو تم اپنے پروردگار کی کون کون سی نعمت کو جھٹلاؤ گے؟",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_055_078",
+      "reference": {
+        "surah_number": 55,
+        "surah_name": "Ar-Rahmaan",
+        "surah_name_ar": "سُوْرَةُ الرَّحْمٰنِ",
+        "surah_name_translation": "The Beneficent",
+        "ayah_number": 78,
+        "juz": 27,
+        "revelation_type": "Madina"
+      },
+      "arabic_word_count": 6,
+      "translations": {
+        "ar": {
+          "text": "تَبَٰرَكَ ٱسۡمُ رَبِّكَ ذِي ٱلۡجَلَٰلِ وَٱلۡإِكۡرَامِ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Blessed is the Name of your Lord, full of Majesty and Honour",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "多福哉，你具尊严和大德的主的名号！",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "बड़ा ही बरकतवाला नाम है तुम्हारे प्रतापवान और उदार रब का",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "¡Bendito sea el nombre de tu Señor, el poseedor de la majestuosidad y la generosidad",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Béni soit le Nom de ton Seigneur, Plein de Majesté et de Munificence",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "কত পূণ্যময় আপনার পালনকর্তার নাম, যিনি মহিমাময় ও মহানুভব।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Bendito seja o Nome de teu Senhor, Possuidor de majestade e honorabilidade",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Благословенно имя Господа твоего, Обладающего величием и великодушием",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "(اے محمدﷺ) تمہارا پروردگار جو صاحب جلال وعظمت ہے اس کا نام بڑا بابرکت ہے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    }
+  ]
+}

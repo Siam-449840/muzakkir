@@ -1,0 +1,3141 @@
+{
+  "surah": 74,
+  "verses": [
+    {
+      "content_id": "quran_074_001",
+      "reference": {
+        "surah_number": 74,
+        "surah_name": "Al-Muddaththir",
+        "surah_name_ar": "سُوْرَةُ الْمُدَّثِّرِ",
+        "surah_name_translation": "The Cloaked One",
+        "ayah_number": 1,
+        "juz": 29,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 2,
+      "translations": {
+        "ar": {
+          "text": "يَٰٓأَيُّهَا ٱلۡمُدَّثِّرُ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "O you covered up ˹in your clothes˺",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "盖被的人啊！",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "ऐ ओढ़ने लपेटनेवाले",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "¡Oh, tú [Mujámmad] que te envuelves en un manto",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "O, toi (Muhammad)! Le revêtu d'un manteau",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "হে চাদরাবৃত!",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Ó agasalhado",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "О завернувшийся",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اے (محمدﷺ) جو کپڑا لپیٹے پڑے ہو",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_074_002",
+      "reference": {
+        "surah_number": 74,
+        "surah_name": "Al-Muddaththir",
+        "surah_name_ar": "سُوْرَةُ الْمُدَّثِّرِ",
+        "surah_name_translation": "The Cloaked One",
+        "ayah_number": 2,
+        "juz": 29,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 2,
+      "translations": {
+        "ar": {
+          "text": "قُمۡ فَأَنذِرۡ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Arise and warn ˹all˺",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "你应当起来，你应当警告，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "उठो, और सावधान करने में लग जाओ",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Ponte de pie y advierte",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Lève-toi et avertis",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "উঠুন, সতর্ক করুন,",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Levanta-te e admoesta os incréus",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Встань и увещевай",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اُٹھو اور ہدایت کرو",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_074_003",
+      "reference": {
+        "surah_number": 74,
+        "surah_name": "Al-Muddaththir",
+        "surah_name_ar": "سُوْرَةُ الْمُدَّثِّرِ",
+        "surah_name_translation": "The Cloaked One",
+        "ayah_number": 3,
+        "juz": 29,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 2,
+      "translations": {
+        "ar": {
+          "text": "وَرَبَّكَ فَكَبِّرۡ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Revere your Lord ˹alone˺",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "你应当颂扬你的主宰，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "और अपने रब की बड़ाई ही करो",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Proclama la grandeza de tu Señor",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Et de ton Seigneur, célèbre la grandeur",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "আপন পালনকর্তার মাহাত্ম্য ঘোষনা করুন,",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E a teu Senhor, magnifica-O",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Господа своего величай",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور اپنے پروردگار کی بڑائی کرو",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_074_004",
+      "reference": {
+        "surah_number": 74,
+        "surah_name": "Al-Muddaththir",
+        "surah_name_ar": "سُوْرَةُ الْمُدَّثِّرِ",
+        "surah_name_translation": "The Cloaked One",
+        "ayah_number": 4,
+        "juz": 29,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 2,
+      "translations": {
+        "ar": {
+          "text": "وَثِيَابَكَ فَطَهِّرۡ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Purify your garments",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "你应当洗涤你的衣服，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "अपने दामन को पाक रखो",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "purifica tus vestimentas",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Et tes vêtements, purifie-les",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "আপন পোশাক পবিত্র করুন",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E a teus trajes, purifica-os",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Одежды свои очищай",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور اپنے کپڑوں کو پاک رکھو",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_074_005",
+      "reference": {
+        "surah_number": 74,
+        "surah_name": "Al-Muddaththir",
+        "surah_name_ar": "سُوْرَةُ الْمُدَّثِّرِ",
+        "surah_name_translation": "The Cloaked One",
+        "ayah_number": 5,
+        "juz": 29,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 2,
+      "translations": {
+        "ar": {
+          "text": "وَٱلرُّجۡزَ فَٱهۡجُرۡ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "˹Continue to˺ shun idols",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "你应当远离污秽，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "और गन्दगी से दूर ही रहो",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "apártate de la idolatría",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Et de tout péché, écarte-toi",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "এবং অপবিত্রতা থেকে দূরে থাকুন।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E ao abominável, abandona-o",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Скверны (идолов) сторонись",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور ناپاکی سے دور رہو",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_074_006",
+      "reference": {
+        "surah_number": 74,
+        "surah_name": "Al-Muddaththir",
+        "surah_name_ar": "سُوْرَةُ الْمُدَّثِّرِ",
+        "surah_name_translation": "The Cloaked One",
+        "ayah_number": 6,
+        "juz": 29,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 3,
+      "translations": {
+        "ar": {
+          "text": "وَلَا تَمۡنُن تَسۡتَكۡثِرُ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Do not do a favour expecting more ˹in return˺",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "你不要施恩而求厚报，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "अपनी कोशिशों को अधिक समझकर उसके क्रम को भंग न करो",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "y no des esperando recibir más a cambio",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Et ne donne pas dans le but de recevoir davantage",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "অধিক প্রতিদানের আশায় অন্যকে কিছু দিবেন না।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E não faças mercê, esperando receber mais",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Не оказывай милости, чтобы получить большее",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور (اس نیت سے) احسان نہ کرو کہ اس سے زیادہ کے طالب ہو",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_074_007",
+      "reference": {
+        "surah_number": 74,
+        "surah_name": "Al-Muddaththir",
+        "surah_name_ar": "سُوْرَةُ الْمُدَّثِّرِ",
+        "surah_name_translation": "The Cloaked One",
+        "ayah_number": 7,
+        "juz": 29,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 2,
+      "translations": {
+        "ar": {
+          "text": "وَلِرَبِّكَ فَٱصۡبِرۡ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "And persevere for ˹the sake of˺ your Lord",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "你应当为你的主而坚忍。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "और अपने रब के लिए धैर्य ही से काम लो",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Sé paciente [con las dificultades que enfrentarás al divulgar el Mensaje] de tu Señor",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Et pour ton Seigneur, endure",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "এবং আপনার পালনকর্তার উদ্দেশে সবর করুন।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E, quanto à determinação de teu Senhor, pacienta",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Ради Господа твоего будь терпелив",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور اپنے پروردگار کے لئے صبر کرو",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_074_008",
+      "reference": {
+        "surah_number": 74,
+        "surah_name": "Al-Muddaththir",
+        "surah_name_ar": "سُوْرَةُ الْمُدَّثِّرِ",
+        "surah_name_translation": "The Cloaked One",
+        "ayah_number": 8,
+        "juz": 29,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 4,
+      "translations": {
+        "ar": {
+          "text": "فَإِذَا نُقِرَ فِي ٱلنَّاقُورِ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "˹For˺ when the Trumpet will be sounded",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "当号角被吹向的时候，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "जब सूर में फूँक मारी जाएगी",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "[Pero ten en cuenta que] cuando se sople la trompeta [y comience el Día del Juicio]",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Quand on sonnera du Clairon",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "যেদিন শিংগায় ফুঁক দেয়া হবে;",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Então, quando se tocar a Corneta",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Когда же протрубят в рог",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "جب صور پھونکا جائے گا",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_074_009",
+      "reference": {
+        "surah_number": 74,
+        "surah_name": "Al-Muddaththir",
+        "surah_name_ar": "سُوْرَةُ الْمُدَّثِّرِ",
+        "surah_name_translation": "The Cloaked One",
+        "ayah_number": 9,
+        "juz": 29,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 4,
+      "translations": {
+        "ar": {
+          "text": "فَذَٰلِكَ يَوۡمَئِذࣲ يَوۡمٌ عَسِيرٌ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "that will ˹truly˺ be a difficult Day—",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "在那时，将有一个艰难的日子。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "तो जिस दिन ऐसा होगा, वह दिन बड़ा ही कठोर होगा",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "ese será un día difícil",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "alors, ce jour-là sera un jour difficile",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "সেদিন হবে কঠিন দিন,",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Esse dia será um difícil dia",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "то день тот будет Днем тяжким",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "وہ دن کا مشکل دن ہوگا",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_074_010",
+      "reference": {
+        "surah_number": 74,
+        "surah_name": "Al-Muddaththir",
+        "surah_name_ar": "سُوْرَةُ الْمُدَّثِّرِ",
+        "surah_name_translation": "The Cloaked One",
+        "ayah_number": 10,
+        "juz": 29,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 4,
+      "translations": {
+        "ar": {
+          "text": "عَلَى ٱلۡكَٰفِرِينَ غَيۡرُ يَسِيرࣲ‏",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "far from easy for the disbelievers",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "那个日子对不信道的人们，是不容易渡过的。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "इनकार करनेवालो पर आसान न होगा",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Nada fácil para los que hoy desmienten la verdad",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "pas facile pour les mécréants",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "কাফেরদের জন্যে এটা সহজ নয়।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Para os renegadores da Fé não será fácil",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "нелегким для неверующих",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "(یعنی) کافروں پر آسان نہ ہوگا",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_074_011",
+      "reference": {
+        "surah_number": 74,
+        "surah_name": "Al-Muddaththir",
+        "surah_name_ar": "سُوْرَةُ الْمُدَّثِّرِ",
+        "surah_name_translation": "The Cloaked One",
+        "ayah_number": 11,
+        "juz": 29,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 5,
+      "translations": {
+        "ar": {
+          "text": "ذَرۡنِي وَمَنۡ خَلَقۡتُ وَحِيدࣰ ا",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "And leave to me ˹O Prophet˺ the one I created all by Myself",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "你让我独自处治我所创造的那个人吧！",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "छोड़ दो मुझे और उसको जिसे मैंने अकेला पैदा किया",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "[Oh, Mujámmad] Deja que Yo me encargaré de aquel que he creado, y vino al mundo solo",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Laisse-Moi avec celui que J'ai créé seul",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "যাকে আমি অনন্য করে সৃষ্টি করেছি, তাকে আমার হাতে ছেড়ে দিন।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Deixa-Me Só, com quem Eu criei",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Оставь Меня с тем, кого Я сотворил одиноким",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "ہمیں اس شخص سے سمجھ لینے دو جس کو ہم نے اکیلا پیدا کیا",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_074_012",
+      "reference": {
+        "surah_number": 74,
+        "surah_name": "Al-Muddaththir",
+        "surah_name_ar": "سُوْرَةُ الْمُدَّثِّرِ",
+        "surah_name_translation": "The Cloaked One",
+        "ayah_number": 12,
+        "juz": 29,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 6,
+      "translations": {
+        "ar": {
+          "text": "وَجَعَلۡتُ لَهُۥ مَالࣰ ا مَّمۡدُودࣰ ا",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "and granted him abundant wealth",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "我赏赐他丰富的财产，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "और उसे माल दिया दूर तक फैला हुआ",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "a quien concedí abundantes riquezas",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "et à qui J'ai donné des biens étendus",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "আমি তাকে বিপুল ধন-সম্পদ দিয়েছি।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E para quem fiz riquezas extensas",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "даровал ему большое богатство",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور مال کثیر دیا",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_074_013",
+      "reference": {
+        "surah_number": 74,
+        "surah_name": "Al-Muddaththir",
+        "surah_name_ar": "سُوْرَةُ الْمُدَّثِّرِ",
+        "surah_name_translation": "The Cloaked One",
+        "ayah_number": 13,
+        "juz": 29,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 3,
+      "translations": {
+        "ar": {
+          "text": "وَبَنِينَ شُهُودࣰ ا",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "and children always by his side",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "和在跟前的子嗣，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "और उसके पास उपस्थित रहनेवाले बेटे दिए",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "y numerosos hijos atentos",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "et des enfants qui lui tiennent toujours compagnie",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "এবং সদা সংগী পুত্রবর্গ দিয়েছি,",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E filhos sempre presentes",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "и сыновей, которые находились рядом с ним",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور (ہر وقت اس کے پاس) حاضر رہنے والے بیٹے دیئے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_074_014",
+      "reference": {
+        "surah_number": 74,
+        "surah_name": "Al-Muddaththir",
+        "surah_name_ar": "سُوْرَةُ الْمُدَّثِّرِ",
+        "surah_name_translation": "The Cloaked One",
+        "ayah_number": 14,
+        "juz": 29,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 4,
+      "translations": {
+        "ar": {
+          "text": "وَمَهَّدتُّ لَهُۥ تَمۡهِيدࣰ ا",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "and made life very easy for him",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "我提高了他的声望，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "और मैंने उसके लिए अच्छी तरह जीवन-मार्ग समतल किया",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Y le facilité medios con holgura",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "pour qui aussi J'ai aplani toutes difficultés",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "এবং তাকে খুব সচ্ছলতা দিয়েছি।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E para quem tudo aplainei, plenamente",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "и распростер перед ним этот мир полностью",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور ہر طرح کے سامان میں وسعت دی",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_074_015",
+      "reference": {
+        "surah_number": 74,
+        "surah_name": "Al-Muddaththir",
+        "surah_name_ar": "سُوْرَةُ الْمُدَّثِّرِ",
+        "surah_name_translation": "The Cloaked One",
+        "ayah_number": 15,
+        "juz": 29,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 4,
+      "translations": {
+        "ar": {
+          "text": "ثُمَّ يَطۡمَعُ أَنۡ أَزِيدَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Yet he is hungry for more",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "而他还冀望我再多加赏赐。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "फिर वह लोभ रखता है कि मैं उसके लिए और अधिक दूँगा",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "pero aun así anhela más",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Cependant, il convoite [de Moi] que Je lui donne davantage",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "এরপরও সে আশা করে যে, আমি তাকে আরও বেশী দেই।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Em seguida, ele aspira a que Eu lho acrescente",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "После всего этого он желает, чтобы Я добавил ему",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "ابھی خواہش رکھتا ہے کہ اور زیادہ دیں",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_074_016",
+      "reference": {
+        "surah_number": 74,
+        "surah_name": "Al-Muddaththir",
+        "surah_name_ar": "سُوْرَةُ الْمُدَّثِّرِ",
+        "surah_name_translation": "The Cloaked One",
+        "ayah_number": 16,
+        "juz": 29,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 6,
+      "translations": {
+        "ar": {
+          "text": "كَلَّآۖ إِنَّهُۥ كَانَ لِأٓيَٰتِنَا عَنِيدࣰ ا",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "But no! ˹For˺ he has been truly stubborn with Our revelations",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "绝不然，他确实是反对我的迹象的，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "कदापि नहीं, वह हमारी आयतों का दुश्मन है",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "¡No! Porque rechazó Mis signos",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Pas du tout! Car il reniait nos versets (le Coran) avec entêtement",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "কখনই নয়! সে আমার নিদর্শনসমূহের বিরুদ্ধাচরণকারী।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Em absoluto, não lho acrescentarei! Por certo, quanto a Nossos sinais, ele foi obstinado",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Но нет! Он упрямо отрицает Наши знамения",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "ایسا ہرگز نہیں ہوگا۔ یہ ہماری آیتیں کا دشمن رہا ہے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_074_017",
+      "reference": {
+        "surah_number": 74,
+        "surah_name": "Al-Muddaththir",
+        "surah_name_ar": "سُوْرَةُ الْمُدَّثِّرِ",
+        "surah_name_translation": "The Cloaked One",
+        "ayah_number": 17,
+        "juz": 29,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 2,
+      "translations": {
+        "ar": {
+          "text": "سَأُرۡهِقُهُۥ صَعُودًا",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "I will make his fate unbearable",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "我将使他遭受苦难。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "शीघ्र ही मैं उसे घेरकर कठिन चढ़ाई चढ़वाऊँगा",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Haré que sus dificultades vayan en aumento",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Je vais le contraindre à gravir une pente",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "আমি সত্ত্বরই তাকে শাস্তির পাহাড়ে আরোহণ করাব।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Obrigá-lo-ei a penosa escalada",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Я возложу на него подъем (восхождение на гору в Аду)",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "ہم اسے صعود پر چڑھائیں گے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_074_018",
+      "reference": {
+        "surah_number": 74,
+        "surah_name": "Al-Muddaththir",
+        "surah_name_ar": "سُوْرَةُ الْمُدَّثِّرِ",
+        "surah_name_translation": "The Cloaked One",
+        "ayah_number": 18,
+        "juz": 29,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 3,
+      "translations": {
+        "ar": {
+          "text": "إِنَّهُۥ فَكَّرَ وَقَدَّرَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "for he contemplated and determined ˹a degrading label for the Quran˺",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "他碓已思考，确已计划。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "उसने सोचा और अटकल से एक बात बनाई",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Porque él pensó y decidió [a sabiendas, desmentir el Mensaje]",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Il a réfléchi. Et il a décidé",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "সে চিন্তা করেছে এবং মনঃস্থির করেছে,",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Por certo, ele refletiu, e decidiu",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Он подумал и рассчитал",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اس نے فکر کیا اور تجویز کی",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_074_019",
+      "reference": {
+        "surah_number": 74,
+        "surah_name": "Al-Muddaththir",
+        "surah_name_ar": "سُوْرَةُ الْمُدَّثِّرِ",
+        "surah_name_translation": "The Cloaked One",
+        "ayah_number": 19,
+        "juz": 29,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 3,
+      "translations": {
+        "ar": {
+          "text": "فَقُتِلَ كَيۡفَ قَدَّرَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "May he be condemned! How evil was what he determined",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "但无论他怎样计划，他是被弃绝的。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "तो विनष्ट हो, कैसी बात बनाई",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Fue maldecido por la decisión que tomó",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Qu'il périsse! Comme il a décidé",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "ধ্বংস হোক সে, কিরূপে সে মনঃস্থির করেছে!",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Que ele morra! Como decidiu",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Да сгинет он! Как он рассчитал",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "یہ مارا جائے اس نے کیسی تجویز کی",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_074_020",
+      "reference": {
+        "surah_number": 74,
+        "surah_name": "Al-Muddaththir",
+        "surah_name_ar": "سُوْرَةُ الْمُدَّثِّرِ",
+        "surah_name_translation": "The Cloaked One",
+        "ayah_number": 20,
+        "juz": 29,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 4,
+      "translations": {
+        "ar": {
+          "text": "ثُمَّ قُتِلَ كَيۡفَ قَدَّرَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "May he be condemned even more! How evil was what he determined",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "无论他怎样计划，他终是被弃绝的。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "फिर विनष्ट हो, कैसी बात बनाई",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "¡Sí!, fue maldecido por la decisión que tomó",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Encore une fois, qu'il périsse; comme il a décidé",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "আবার ধ্বংস হোক সে, কিরূপে সে মনঃস্থির করেছে!",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Mais uma vez, que ele morra, como decidiu",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Да сгинет он еще раз! Как он рассчитал",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "پھر یہ مارا جائے اس نے کیسی تجویز کی",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_074_021",
+      "reference": {
+        "surah_number": 74,
+        "surah_name": "Al-Muddaththir",
+        "surah_name_ar": "سُوْرَةُ الْمُدَّثِّرِ",
+        "surah_name_translation": "The Cloaked One",
+        "ayah_number": 21,
+        "juz": 29,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 2,
+      "translations": {
+        "ar": {
+          "text": "ثُمَّ نَظَرَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Then he re-contemplated ˹in frustration˺",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "他看一看，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "फिर नज़र दौड़ाई",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Luego meditó [cómo desacreditar la revelación]",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Ensuite, il a regardé",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "সে আবার দৃষ্টিপাত করেছে,",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Em seguida, ele olhou",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Затем он задумался",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "پھر تامل کیا",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_074_022",
+      "reference": {
+        "surah_number": 74,
+        "surah_name": "Al-Muddaththir",
+        "surah_name_ar": "سُوْرَةُ الْمُدَّثِّرِ",
+        "surah_name_translation": "The Cloaked One",
+        "ayah_number": 22,
+        "juz": 29,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 3,
+      "translations": {
+        "ar": {
+          "text": "ثُمَّ عَبَسَ وَبَسَرَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "then frowned and scowled",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "然后皱眉蹙额，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "फिर त्योरी चढ़ाई और मुँह बनाया",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "pero [al no poder encontrar ningún argumento] frunció el ceño y ofuscó el semblante",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Et il s'est renfrogné et a durci son visage",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "অতঃপর সে ভ্রূকুঞ্চিত করেছে ও মুখ বিকৃত করেছে,",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Depois, carranqueou, e ensombrou-se-lhe o semblante",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Затем он нахмурился и насупился",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "پھر تیوری چڑھائی اور منہ بگاڑ لیا",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_074_023",
+      "reference": {
+        "surah_number": 74,
+        "surah_name": "Al-Muddaththir",
+        "surah_name_ar": "سُوْرَةُ الْمُدَّثِّرِ",
+        "surah_name_translation": "The Cloaked One",
+        "ayah_number": 23,
+        "juz": 29,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 3,
+      "translations": {
+        "ar": {
+          "text": "ثُمَّ أَدۡبَرَ وَٱسۡتَكۡبَرَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "then turned his back ˹on the truth˺ and acted arrogantly",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "然后高傲地转过身去，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "फिर पीठ फेरी और घमंड किया",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Luego le dio la espalda [al Mensaje] y se comportó con soberbia",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Ensuite il a tourné le dos et s'est enflé d'orgueil",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "অতঃপর পৃষ্ঠপ্রদশন করেছে ও অহংকার করেছে।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Depois, voltou as costas, e ensoberbeceu-se",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Затем он повернулся спиной и возгордился",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "پھر پشت پھیر کر چلا اور (قبول حق سے) غرور کیا",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_074_024",
+      "reference": {
+        "surah_number": 74,
+        "surah_name": "Al-Muddaththir",
+        "surah_name_ar": "سُوْرَةُ الْمُدَّثِّرِ",
+        "surah_name_translation": "The Cloaked One",
+        "ayah_number": 24,
+        "juz": 29,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 6,
+      "translations": {
+        "ar": {
+          "text": "فَقَالَ إِنۡ هَٰذَآ إِلَّا سِحۡرࣱ يُؤۡثَرُ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "saying, “This ˹Quran˺ is nothing but magic from the ancients",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "而且说：这只是传习的魔术，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "अन्ततः बोला, \"यह तो बस एक जादू है, जो पहले से चला आ रहा है",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "diciendo: \"Esto solo es hechicería que impresiona",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Puis il a dit: «Ceci (le Coran) n'est que magie apprise",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "এরপর বলেছেঃ এতো লোক পরস্পরায় প্রাপ্ত জাদু বৈ নয়,",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Então, disse: \"Isso não é senão magia herdada dos antepassados",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "и сказал: «Это - не что иное, как пересказанное колдовство",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "پھر کہنے لگا کہ یہ تو جادو ہے جو (اگلوں سے) منتقل ہوتا آیا ہے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_074_025",
+      "reference": {
+        "surah_number": 74,
+        "surah_name": "Al-Muddaththir",
+        "surah_name_ar": "سُوْرَةُ الْمُدَّثِّرِ",
+        "surah_name_translation": "The Cloaked One",
+        "ayah_number": 25,
+        "juz": 29,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 5,
+      "translations": {
+        "ar": {
+          "text": "إِنۡ هَٰذَآ إِلَّا قَوۡلُ ٱلۡبَشَرِ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "This is no more than the word of a man.”",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "这只是凡人的言辞。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "यह तो मात्र मनुष्य की वाणी है।",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Es la palabra de un mortal",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "ce n'est là que la parole d'un humain»",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "এতো মানুষের উক্তি বৈ নয়।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Isto não é senão o dito dos mortais",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Это - не что иное, как слова человека»",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "(پھر بولا) یہ (خدا کا کلام نہیں بلکہ) بشر کا کلام ہے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_074_026",
+      "reference": {
+        "surah_number": 74,
+        "surah_name": "Al-Muddaththir",
+        "surah_name_ar": "سُوْرَةُ الْمُدَّثِّرِ",
+        "surah_name_translation": "The Cloaked One",
+        "ayah_number": 26,
+        "juz": 29,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 2,
+      "translations": {
+        "ar": {
+          "text": "سَأُصۡلِيهِ سَقَرَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Soon I will burn him in Hell",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "我将使他堕入火狱，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "मैं शीघ्र ही उसे 'सक़र' (जहन्नम की आग) में झोंक दूँगा",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "En consecuencia, lo llevaré al fuego del Infierno",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Je vais le brûler dans le Feu intense (Saqar)",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "আমি তাকে দাখিল করব অগ্নিতে।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Fá-lo-ei queimar-se em Saqar",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Я брошу его в Преисподнюю",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "ہم عنقریب اس کو سقر میں داخل کریں گے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_074_027",
+      "reference": {
+        "surah_number": 74,
+        "surah_name": "Al-Muddaththir",
+        "surah_name_ar": "سُوْرَةُ الْمُدَّثِّرِ",
+        "surah_name_translation": "The Cloaked One",
+        "ayah_number": 27,
+        "juz": 29,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 4,
+      "translations": {
+        "ar": {
+          "text": "وَمَآ أَدۡرَىٰكَ مَا سَقَرُ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "And what will make you realize what Hell is",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "你怎能知道火狱是什么？",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "और तुम्हें क्या पता की सक़र क्या है",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "¿Y qué te hará comprender lo que es el fuego del Infierno",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Et qui te dira ce qu'est Saqar",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "আপনি কি বুঝলেন অগ্নি কি?",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E o que te faz inteirar-te do que é Saqar",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Откуда ты мог знать, что такое Преисподняя",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور تم کیا سمجھے کہ سقر کیا ہے؟",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_074_028",
+      "reference": {
+        "surah_number": 74,
+        "surah_name": "Al-Muddaththir",
+        "surah_name_ar": "سُوْرَةُ الْمُدَّثِّرِ",
+        "surah_name_translation": "The Cloaked One",
+        "ayah_number": 28,
+        "juz": 29,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 4,
+      "translations": {
+        "ar": {
+          "text": "لَا تُبۡقِي وَلَا تَذَرُ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "It does not let anyone live or die",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "它不让任何物存在，不许任何物留下，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "वह न तरस खाएगी और न छोड़ेगी",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "[Es un fuego que] no deja nada sin quemar ni cesa jamás",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Il ne laisse rien et n'épargne rien",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "এটা অক্ষত রাখবে না এবং ছাড়বেও না।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Ele nada mantém e nada deixa",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Она не щадит и не оставляет",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "(وہ آگ ہے کہ) نہ باقی رکھے گی اور نہ چھوڑے گی",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_074_029",
+      "reference": {
+        "surah_number": 74,
+        "surah_name": "Al-Muddaththir",
+        "surah_name_ar": "سُوْرَةُ الْمُدَّثِّرِ",
+        "surah_name_translation": "The Cloaked One",
+        "ayah_number": 29,
+        "juz": 29,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 2,
+      "translations": {
+        "ar": {
+          "text": "لَوَّاحَةࣱ لِّلۡبَشَرِ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "scorching the skin",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "它烧灼肌肤。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "खाल को झुलसा देनेवाली है",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Abrasa la piel",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Il brûle la peau et la noircit",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "মানুষকে দগ্ধ করবে।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Carbonizador da pele",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Она сжигает кожу",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور بدن جھلس کر سیاہ کردے گی",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_074_030",
+      "reference": {
+        "surah_number": 74,
+        "surah_name": "Al-Muddaththir",
+        "surah_name_ar": "سُوْرَةُ الْمُدَّثِّرِ",
+        "surah_name_translation": "The Cloaked One",
+        "ayah_number": 30,
+        "juz": 29,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 3,
+      "translations": {
+        "ar": {
+          "text": "عَلَيۡهَا تِسۡعَةَ عَشَرَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "It is overseen by nineteen ˹keepers˺",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "管理它的，共计十九名。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "उसपर उन्नीस (कार्यकर्ता) नियुक्त है",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Hay diecinueve [ángeles] que lo custodian",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Ils sont dix neuf à y veiller",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "এর উপর নিয়োজিত আছে উনিশ (ফেরেশতা)।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Sobre ele, há dezenove guardiães",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Их (ангелов) над ней - девятнадцать",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اس پر اُنیس داروغہ ہیں",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_074_031",
+      "reference": {
+        "surah_number": 74,
+        "surah_name": "Al-Muddaththir",
+        "surah_name_ar": "سُوْرَةُ الْمُدَّثِّرِ",
+        "surah_name_translation": "The Cloaked One",
+        "ayah_number": 31,
+        "juz": 29,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 59,
+      "translations": {
+        "ar": {
+          "text": "وَمَا جَعَلۡنَآ أَصۡحَٰبَ ٱلنَّارِ إِلَّا مَلَٰٓئِكَةࣰۖ وَمَا جَعَلۡنَا عِدَّتَهُمۡ إِلَّا فِتۡنَةࣰ لِّلَّذِينَ كَفَرُواْ لِيَسۡتَيۡقِنَ ٱلَّذِينَ أُوتُواْ ٱلۡكِتَٰبَ وَيَزۡدَادَ ٱلَّذِينَ ءَامَنُوٓاْ إِيمَٰنࣰ ا وَلَا يَرۡتَابَ ٱلَّذِينَ أُوتُواْ ٱلۡكِتَٰبَ وَٱلۡمُؤۡمِنُونَ وَلِيَقُولَ ٱلَّذِينَ فِي قُلُوبِهِم مَّرَضࣱ وَٱلۡكَٰفِرُونَ مَاذَآ أَرَادَ ٱللَّهُ بِهَٰذَا مَثَلࣰ اۚ كَذَٰلِكَ يُضِلُّ ٱللَّهُ مَن يَشَآءُ وَيَهۡدِي مَن يَشَآءُۚ وَمَا يَعۡلَمُ جُنُودَ رَبِّكَ إِلَّا هُوَۚ وَمَا هِيَ إِلَّا ذِكۡرَىٰ لِلۡبَشَرِ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "We have appointed only ˹stern˺ angels as wardens of the Fire. And We have made their number only as a test for the disbelievers, so that the People of the Book will be certain, and the believers will increase in faith, and neither the People of the Book nor the believers will have any doubts, and so that those ˹hypocrites˺ with sickness in their hearts and the disbelievers will argue, “What does Allah mean by such a number?” In this way Allah leaves whoever He wills to stray and guides whoever He wills. And none knows the forces of your Lord except He. And this ˹description of Hell˺ is only a reminder to humanity",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "我只将管理火狱的成天神，我只以他们的数目，考验不信道的人们，以便曾受天经的人们认清，而信道的人们更加笃信；以免曾受天经的人们和信道的人们怀疑；以便心中有病者和不信道者说：真主设这个譬喻做什么？真主这样使他所意欲的人误入迷途，使他所意欲的人遵循正路。只有你的主，能知道他的军队，这只是人类的教训。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "और हमने उस आग पर नियुक्त रहनेवालों को फ़रिश्ते ही बनाया है, और हमने उनकी संख्या को इनकार करनेवालों के लिए मुसीबत और आज़माइश ही बनाकर रखा है। ताकि वे लोग जिन्हें किताब प्रदान की गई थी पूर्ण विश्वास प्राप्त करें, और वे लोग जो ईमान ले आए वे ईमान में और आगे बढ़ जाएँ। और जिन लोगों को किताब प्रदान की गई वे और ईमानवाले किसी संशय मे न पड़े, और ताकि जिनके दिलों मे रोग है वे और इनकार करनेवाले कहें, \"इस वर्णन से अल्लाह का क्या अभिप्राय है?\" इस प्रकार अल्लाह जिसे चाहता है पथभ्रष्ट कर देता है और जिसे चाहता हैं संमार्ग प्रदान करता है। और तुम्हारे रब की सेनाओं को स्वयं उसके सिवा कोई नहीं जानता, और यह तो मनुष्य के लिए मात्र एक शिक्षा-सामग्री है",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Decreté que los guardianes del Infierno fueran ángeles, y dispuse ese número para probar a los que rechazan la verdad, también para que la Gente del Libro se convenzan y crean, y para que los creyentes fortifiquen su fe y no les queden dudas a ellos ni a la Gente del Libro. También para que aquellos cuyos corazones están enfermos [de duda e hipocresía] y los que niegan la fe se pregunten: \"¿Qué es lo que quiere demostrar Dios con este ejemplo?\" Así es como Dios extravía a quien quiere [extraviarse] y guía a quien quiere [guiarse]. Solo Él conoce a todos los que sirven Su causa. Todo esto es motivo de reflexión para la humanidad",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Nous n'avons assigné comme gardiens du Feu que des Anges. Cependant, Nous n'en avons fixé le nombre que pour éprouver les mécréants, et aussi afin que ceux à qui le Livre a été apporté soient convaincus, et que croisse la foi de ceux qui croient, et que ceux à qui le Livre a été apporté et les croyants n'aient point de doute; et pour que ceux qui ont au cœur quelque maladie ainsi que les mécréants disent: «Qu'a donc voulu Allah par cette parabole?» C'est ainsi qu'Allah égare qui Il veut et guide qui Il veut. Nul ne connaît les armées de ton Seigneur, à part Lui. Et ce n'est là qu'un rappel pour les humains",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "আমি জাহান্নামের তত্ত্বাবধায়ক ফেরেশতাই রেখেছি। আমি কাফেরদেরকে পরীক্ষা করার জন্যেই তার এই সংখ্যা করেছি-যাতে কিতাবীরা দৃঢ়বিশ্বাসী হয়, মুমিনদের ঈমান বৃদ্ধি পায় এবং কিতাবীরা ও মুমিনগণ সন্দেহ পোষণ না করে এবং যাতে যাদের অন্তরে রোগ আছে, তারা এবং কাফেররা বলে যে, আল্লাহ এর দ্বারা কি বোঝাতে চেয়েছেন। এমনিভাবে আল্লাহ যাকে ইচ্ছা পথভ্রষ্ট করেন এবং যাকে ইচ্ছা সৎপথে চালান। আপনার পালনকর্তার বাহিনী সম্পর্কে একমাত্র তিনিই জানেন এটা তো মানুষের জন্যে উপদেশ বৈ নয়।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E não fizemos por guardiães do Fogo senão anjos. E não fizemos seu número senão como provação para os que renegam a Fé, para que aqueles aos quais fora concedido o Livro se convençam disso; e para que os que crêem se acrescentem em fé; e para que aqueles aos quais fora concedido o Livro e os crentes não duvidem; e para que aqueles, em cujos corações há enfermidade, e os renegadores da Fé, digam: \"Que deseja Allah com isto, como exemplo?\" Assim, Allah descaminha a quem quer e guia a quem quer. E ninguém sabe dos exércitos de teu Senhor senão Ele. - E ela não é senão lembrança para os mortais",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Стражами Огня мы сделали только ангелов, а количество их сделали искушением для неверующих, чтобы удостоверились те, кому было даровано Писание, чтобы усилилась вера у верующих, чтобы не сомневались те, кому было даровано Писание, и верующие, и чтобы спросили те, чьи сердца поражены недугом, и неверующие: «Что хотел Аллах этой притчей?». Так Аллах вводит в заблуждение, кого пожелает, и ведет прямым путем, кого пожелает. Воинство твоего Господа не знает никто, кроме Него. Это же - не что иное, как Напоминание для человечества",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور ہم نے دوزخ کے داروغہ فرشتے بنائے ہیں۔ اور ان کا شمار کافروں کی آزمائش کے لئے مقرر کیا ہے (اور) اس لئے کہ اہل کتاب یقین کریں اور مومنوں کا ایمان اور زیادہ ہو اور اہل کتاب اور مومن شک نہ لائیں۔ اور اس لئے کہ جن لوگوں کے دلوں میں (نفاق کا) مرض ہے اور (جو) کافر (ہیں) کہیں کہ اس مثال (کے بیان کرنے) سے خدا کا مقصد کیا ہے؟ اسی طرح خدا جس کو چاہتا ہے گمراہ کرتا ہے اور جس کو چاہتا ہے ہدایت کرتا ہے اور تمہارے پروردگار کے لشکروں کو اس کے سوا کوئی نہیں جانتا۔ اور یہ تو بنی آدم کے لئے نصیحت ہے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_074_032",
+      "reference": {
+        "surah_number": 74,
+        "surah_name": "Al-Muddaththir",
+        "surah_name_ar": "سُوْرَةُ الْمُدَّثِّرِ",
+        "surah_name_translation": "The Cloaked One",
+        "ayah_number": 32,
+        "juz": 29,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 2,
+      "translations": {
+        "ar": {
+          "text": "كَلَّا وَٱلۡقَمَرِ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "But no! By the moon",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "真的，以月亮盟誓，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "कुछ नहीं, साक्षी है चाँद",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "[No es como pretenden los que rechazan la revelación, lo] juro por la Luna",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Non!... Par la lune",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "কখনই নয়। চন্দ্রের শপথ,",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "De fato! Pela lua",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "О да! Клянусь луной",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "ہاں ہاں (ہمیں) چاند کی قسم",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_074_033",
+      "reference": {
+        "surah_number": 74,
+        "surah_name": "Al-Muddaththir",
+        "surah_name_ar": "سُوْرَةُ الْمُدَّثِّرِ",
+        "surah_name_translation": "The Cloaked One",
+        "ayah_number": 33,
+        "juz": 29,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 3,
+      "translations": {
+        "ar": {
+          "text": "وَٱلَّيۡلِ إِذۡ أَدۡبَرَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "and the night as it retreats",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "以逝去的黑夜盟誓，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "और साक्षी है रात जबकि वह पीठ फेर चुकी",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "por la noche cuando desaparece",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Et par la nuit quand elle se retire",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "শপথ রাত্রির যখন তার অবসান হয়,",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E pela noite, quando se vai",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Клянусь ночью, когда она отступает",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور رات کی جب پیٹھ پھیرنے لگے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_074_034",
+      "reference": {
+        "surah_number": 74,
+        "surah_name": "Al-Muddaththir",
+        "surah_name_ar": "سُوْرَةُ الْمُدَّثِّرِ",
+        "surah_name_translation": "The Cloaked One",
+        "ayah_number": 34,
+        "juz": 29,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 3,
+      "translations": {
+        "ar": {
+          "text": "وَٱلصُّبۡحِ إِذَآ أَسۡفَرَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "and the day as it breaks",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "以显照的黎明盟誓，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "और प्रातःकाल जबकि वह पूर्णरूपेण प्रकाशित हो जाए।",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "por la mañana cuando resplandece",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Et par l'aurore quand elle se découvre",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "শপথ প্রভাতকালের যখন তা আলোকোদ্ভাসিত হয়,",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E pela manhã, quando clareia",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Клянусь зарей, когда она занимается",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور صبح کی جب روشن ہو",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_074_035",
+      "reference": {
+        "surah_number": 74,
+        "surah_name": "Al-Muddaththir",
+        "surah_name_ar": "سُوْرَةُ الْمُدَّثِّرِ",
+        "surah_name_translation": "The Cloaked One",
+        "ayah_number": 35,
+        "juz": 29,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 3,
+      "translations": {
+        "ar": {
+          "text": "إِنَّهَا لَإِحۡدَى ٱلۡكُبَرِ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Surely Hell is one of the mightiest catastrophes—",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "火狱确是一个大难，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "निश्चय ही वह भारी (भयंकर) चीज़ों में से एक है",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "que [el Infierno] es uno de los mayores [avisos]",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "[Saqar] est l'un des plus grands [malheurs]",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "নিশ্চয় জাহান্নাম গুরুতর বিপদসমূহের অন্যতম,",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Por certo, ele é uma das calamidades",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Это есть одно из величайших явлений",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "کہ وہ (آگ) ایک بہت بڑی (آفت) ہے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_074_036",
+      "reference": {
+        "surah_number": 74,
+        "surah_name": "Al-Muddaththir",
+        "surah_name_ar": "سُوْرَةُ الْمُدَّثِّرِ",
+        "surah_name_translation": "The Cloaked One",
+        "ayah_number": 36,
+        "juz": 29,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 3,
+      "translations": {
+        "ar": {
+          "text": "نَذِيرࣰ ا لِّلۡبَشَرِ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "a warning to humankind",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "可以警告人类，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "मनुष्यों के लिए सावधानकर्ता के रूप में",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "una advertencia para los seres humanos",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "un avertissement, pour les humains",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "মানুষের জন্যে সতর্ককারী।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Em sendo admoestação para os mortais",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "предостерегающее человечество",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "(اور) بنی آدم کے لئے مؤجب خوف",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_074_037",
+      "reference": {
+        "surah_number": 74,
+        "surah_name": "Al-Muddaththir",
+        "surah_name_ar": "سُوْرَةُ الْمُدَّثِّرِ",
+        "surah_name_translation": "The Cloaked One",
+        "ayah_number": 37,
+        "juz": 29,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 7,
+      "translations": {
+        "ar": {
+          "text": "لِمَن شَآءَ مِنكُمۡ أَن يَتَقَدَّمَ أَوۡ يَتَأَخَّرَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "to whichever of you chooses to take the lead or lag behind",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "警告你们中欲前进者或欲后退者；",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "तुममें से उस व्यक्ति के लिए जो आगे बढ़ना या पीछे हटना चाहे",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Para que cada uno elija [libremente] obrar bien u obrar mal",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Pour qui d'entre vous, veut avancer ou reculer",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "তোমাদের মধ্যে যে সামনে অগ্রসর হয় অথবা পশ্চাতে থাকে।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Para quem, entre vós quer antecipar-se ou atrasar-se",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "тех из вас, кто желает продвигаться вперед благодаря праведным деяниям или отступать назад, совершая грехи",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "جو تم میں سے آگے بڑھنا چاہے یا پیچھے رہنا چاہے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_074_038",
+      "reference": {
+        "surah_number": 74,
+        "surah_name": "Al-Muddaththir",
+        "surah_name_ar": "سُوْرَةُ الْمُدَّثِّرِ",
+        "surah_name_translation": "The Cloaked One",
+        "ayah_number": 38,
+        "juz": 29,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 5,
+      "translations": {
+        "ar": {
+          "text": "كُلُّ نَفۡسِۭ بِمَا كَسَبَتۡ رَهِينَةٌ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Every soul will be detained for what it has done",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "各人将因自己的营谋而作抵押，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "प्रत्येक व्यक्ति जो कुछ उसने कमाया उसके बदले रेहन (गिरवी) है",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Toda alma será rehén de lo que haya hecho",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Toute âme est l'otage de ce qu'elle a acquis",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "প্রত্যেক ব্যক্তি তার কৃতকর্মের জন্য দায়ী;",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Cada alma será o penhor do que houver logrado",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Каждый человек является заложником того, что он приобрел",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "ہر شخص اپنے اعمال کے بدلے گرو ہے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_074_039",
+      "reference": {
+        "surah_number": 74,
+        "surah_name": "Al-Muddaththir",
+        "surah_name_ar": "سُوْرَةُ الْمُدَّثِّرِ",
+        "surah_name_translation": "The Cloaked One",
+        "ayah_number": 39,
+        "juz": 29,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 3,
+      "translations": {
+        "ar": {
+          "text": "إِلَّآ أَصۡحَٰبَ ٱلۡيَمِينِ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "except the people of the right",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "惟幸福的人们除外。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "सिवाय दाएँवालों के",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "salvo los [bienaventurados] de la derecha",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Sauf les gens de la droite (les élus)",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "কিন্তু ডানদিকস্থরা,",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Exceto os companheiros da direita",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "кроме людей правой стороны",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "مگر داہنی طرف والے (نیک لوگ)",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_074_040",
+      "reference": {
+        "surah_number": 74,
+        "surah_name": "Al-Muddaththir",
+        "surah_name_ar": "سُوْرَةُ الْمُدَّثِّرِ",
+        "surah_name_translation": "The Cloaked One",
+        "ayah_number": 40,
+        "juz": 29,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 3,
+      "translations": {
+        "ar": {
+          "text": "فِي جَنَّٰتࣲ يَتَسَآءَلُونَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "who will be in Gardens, asking one another",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "他们在乐园中互相询问，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "वे बाग़ों में होंगे, पूछ-ताछ कर रहे होंगे",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "[Ellos estarán] en jardines y se preguntarán unos a otros",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "dans des Jardins, ils s'interrogeront",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "তারা থাকবে জান্নাতে এবং পরস্পরে জিজ্ঞাসাবাদ করবে।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Estarão em Jardins, interrogando-se",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "В Райских садах они будут расспрашивать друг друга",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "(کہ) وہ باغہائے بہشت میں (ہوں گے اور) پوچھتے ہوں گے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_074_041",
+      "reference": {
+        "surah_number": 74,
+        "surah_name": "Al-Muddaththir",
+        "surah_name_ar": "سُوْرَةُ الْمُدَّثِّرِ",
+        "surah_name_translation": "The Cloaked One",
+        "ayah_number": 41,
+        "juz": 29,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 2,
+      "translations": {
+        "ar": {
+          "text": "عَنِ ٱلۡمُجۡرِمِينَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "about the wicked ˹who will then be asked˺",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "问犯罪人们的情状，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "अपराधियों के विषय में",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "acerca de [la situación] de los criminales",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "au sujet des criminels",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "অপরাধীদের সম্পর্কে",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Sobre os criminosos",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "о грешниках",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "(یعنی آگ میں جلنے والے) گنہگاروں سے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_074_042",
+      "reference": {
+        "surah_number": 74,
+        "surah_name": "Al-Muddaththir",
+        "surah_name_ar": "سُوْرَةُ الْمُدَّثِّرِ",
+        "surah_name_translation": "The Cloaked One",
+        "ayah_number": 42,
+        "juz": 29,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 4,
+      "translations": {
+        "ar": {
+          "text": "مَا سَلَكَكُمۡ فِي سَقَرَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "“What has landed you in Hell?”",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "你们为什么堕入火狱呢？",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "तुम्हे क्या चीज़ सकंर (जहन्नम) में ले आई",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Y les preguntarán: \"¿Qué fue lo que los llevó al fuego del Infierno",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "«Qu'est-ce qui vous a acheminés à Saqar?»",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "বলবেঃ তোমাদেরকে কিসে জাহান্নামে নীত করেছে?",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "O que vos fez entrar em Saqar",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Что привело вас в Преисподнюю",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "کہ تم دوزخ میں کیوں پڑے؟",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_074_043",
+      "reference": {
+        "surah_number": 74,
+        "surah_name": "Al-Muddaththir",
+        "surah_name_ar": "سُوْرَةُ الْمُدَّثِّرِ",
+        "surah_name_translation": "The Cloaked One",
+        "ayah_number": 43,
+        "juz": 29,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 5,
+      "translations": {
+        "ar": {
+          "text": "قَالُواْ لَمۡ نَكُ مِنَ ٱلۡمُصَلِّينَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "They will reply, “We were not of those who prayed",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "他们说：我们没有礼拜，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "वे कहेंगे, \"हम नमाज़ अदा करनेवालों में से न थे।",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Ellos responderán: \"Fue que no cumplíamos con la oración",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Ils diront: «Nous n'étions pas de ceux qui faisaient la Salât",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "তারা বলবেঃ আমরা নামায পড়তাম না,",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Dirão: \"Não estávamos entre os orantes",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Они скажут: «Мы не были в числе тех, которые совершали намаз",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "وہ جواب دیں گے کہ ہم نماز نہیں پڑھتے تھے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_074_044",
+      "reference": {
+        "surah_number": 74,
+        "surah_name": "Al-Muddaththir",
+        "surah_name_ar": "سُوْرَةُ الْمُدَّثِّرِ",
+        "surah_name_translation": "The Cloaked One",
+        "ayah_number": 44,
+        "juz": 29,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 4,
+      "translations": {
+        "ar": {
+          "text": "وَلَمۡ نَكُ نُطۡعِمُ ٱلۡمِسۡكِينَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "nor did we feed the poor",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "也没有济贫，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "और न हम मुहताज को खाना खिलाते थे",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "no dábamos de comer al pobre",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "et nous ne nourrissions pas le pauvre",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "অভাবগ্রস্তকে আহার্য্য দিতাম না,",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E não alimentávamos o necessitado",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Мы не кормили бедняков",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور نہ فقیروں کو کھانا کھلاتے تھے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_074_045",
+      "reference": {
+        "surah_number": 74,
+        "surah_name": "Al-Muddaththir",
+        "surah_name_ar": "سُوْرَةُ الْمُدَّثِّرِ",
+        "surah_name_translation": "The Cloaked One",
+        "ayah_number": 45,
+        "juz": 29,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 4,
+      "translations": {
+        "ar": {
+          "text": "وَكُنَّا نَخُوضُ مَعَ ٱلۡخَآئِضِينَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "We used to indulge ˹in falsehood˺ along with others",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "我们与妄言的人们一道妄言，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "और व्यर्थ बात और कठ-हुज्जती में पड़े रहनेवालों के साथ हम भी उसी में लगे रहते थे।",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "nos entreteníamos difamando [la revelación] junto a quienes retuercen la lógica para negar la verdad",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "et nous nous associions à ceux qui tenaient des conversations futiles",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "আমরা সমালোচকদের সাথে সমালোচনা করতাম।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E confabulámos com os confabuladores",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Мы погружались в словоблудие вместе с погружавшимися",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور اہل باطل کے ساتھ مل کر (حق سے) انکار کرتے تھے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_074_046",
+      "reference": {
+        "surah_number": 74,
+        "surah_name": "Al-Muddaththir",
+        "surah_name_ar": "سُوْرَةُ الْمُدَّثِّرِ",
+        "surah_name_translation": "The Cloaked One",
+        "ayah_number": 46,
+        "juz": 29,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 4,
+      "translations": {
+        "ar": {
+          "text": "وَكُنَّا نُكَذِّبُ بِيَوۡمِ ٱلدِّينِ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "and deny the Day of Judgment",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "我们否认报应日，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "और हम बदला दिए जाने के दिन को झुठलाते थे",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "y desmentíamos la existencia del Día del Juicio",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "et nous traitions de mensonge le jour de la Rétribution",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "এবং আমরা প্রতিফল দিবসকে অস্বীকার করতাম।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E desmentíamos o Dia do Juízo",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Мы считали ложью Последний день",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور روز جزا کو جھٹلاتے تھے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_074_047",
+      "reference": {
+        "surah_number": 74,
+        "surah_name": "Al-Muddaththir",
+        "surah_name_ar": "سُوْرَةُ الْمُدَّثِّرِ",
+        "surah_name_translation": "The Cloaked One",
+        "ayah_number": 47,
+        "juz": 29,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 3,
+      "translations": {
+        "ar": {
+          "text": "حَتَّىٰٓ أَتَىٰنَا ٱلۡيَقِينُ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "until the inevitable came to us.”",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "一直到死亡降临了我们。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "यहाँ तक कि विश्वसनीय चीज़ (प्रलय-दिवस) में हमें आ लिया।",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "hasta que nos alcanzó la muerte [y con ella la certeza]",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "jusqu'à ce que nous vînt la vérité évidente [la mort]»",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "আমাদের মৃত্যু পর্যন্ত।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Até que nos chegou a Certeza",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "пока к нам не явилась убежденность (смерть)»",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "یہاں تک کہ ہمیں موت آگئی",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_074_048",
+      "reference": {
+        "surah_number": 74,
+        "surah_name": "Al-Muddaththir",
+        "surah_name_ar": "سُوْرَةُ الْمُدَّثِّرِ",
+        "surah_name_translation": "The Cloaked One",
+        "ayah_number": 48,
+        "juz": 29,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 4,
+      "translations": {
+        "ar": {
+          "text": "فَمَا تَنفَعُهُمۡ شَفَٰعَةُ ٱلشَّٰفِعِينَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "So the pleas of intercessors will be of no benefit to them",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "说情者的说情，将无益於他们。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "अतः सिफ़ारिश करनेवालों को कोई सिफ़ारिश उनको कुछ लाभ न पहुँचा सकेगी",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "A estos no les beneficiará intercesión alguna",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Ne leur profitera point donc, l'intercession des intercesseurs",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "অতএব, সুপারিশকারীদের সুপারিশ তাদের কোন উপকারে আসবে না।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Então, não os beneficiará a intercessão dos intercessores",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Заступничество заступников не поможет им",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "(تو اس حال میں) سفارش کرنے والوں کی سفارش ان کے حق میں کچھ فائدہ نہ دے گی",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_074_049",
+      "reference": {
+        "surah_number": 74,
+        "surah_name": "Al-Muddaththir",
+        "surah_name_ar": "سُوْرَةُ الْمُدَّثِّرِ",
+        "surah_name_translation": "The Cloaked One",
+        "ayah_number": 49,
+        "juz": 29,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 5,
+      "translations": {
+        "ar": {
+          "text": "فَمَا لَهُمۡ عَنِ ٱلتَّذۡكِرَةِ مُعۡرِضِينَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Now, what is the matter with them that they are turning away from the reminder",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "他们怎么退避这教训呢？",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "आख़िर उन्हें क्या हुआ है कि वे नसीहत से कतराते है",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "¿Qué les pasa que se apartan de la amonestación [del Corán]",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Qu'ont-ils à se détourner du Rappel",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "তাদের কি হল যে, তারা উপদেশ থেকে মুখ ফিরিয়ে নেয়?",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E por que razão estão dando de ombros à lembrança",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Что же с ними? Почему они отворачиваются от Напоминания",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "ان کو کیا ہوا ہے کہ نصیحت سے روگرداں ہو رہے ہیں",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_074_050",
+      "reference": {
+        "surah_number": 74,
+        "surah_name": "Al-Muddaththir",
+        "surah_name_ar": "سُوْرَةُ الْمُدَّثِّرِ",
+        "surah_name_translation": "The Cloaked One",
+        "ayah_number": 50,
+        "juz": 29,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 3,
+      "translations": {
+        "ar": {
+          "text": "كَأَنَّهُمۡ حُمُرࣱ مُّسۡتَنفِرَةࣱ‏",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "as if they were spooked zebras",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "他们好像一群惊慌的驴子，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "मानो वे बिदके हुए जंगली गधे है",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "como si fueran cebras espantadas",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Ils sont comme des onagres épouvantés",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "যেন তারা ইতস্ততঃ বিক্ষিপ্ত গর্দভ।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Como se foram asnos assustados",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "словно напуганные ослы",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "گویا گدھے ہیں کہ بدک جاتے ہیں",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_074_051",
+      "reference": {
+        "surah_number": 74,
+        "surah_name": "Al-Muddaththir",
+        "surah_name_ar": "سُوْرَةُ الْمُدَّثِّرِ",
+        "surah_name_translation": "The Cloaked One",
+        "ayah_number": 51,
+        "juz": 29,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 3,
+      "translations": {
+        "ar": {
+          "text": "فَرَّتۡ مِن قَسۡوَرَةِۭ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "fleeing from a lion",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "刚逃避了一只狮子一样。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "जो शेर से (डरकर) भागे है",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "huyendo de un león",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "s'enfuyant devant un lion",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "হট্টগোলের কারণে পলায়নপর।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Que fogem de leão",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "бегущие от стрелка (или льва)",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "(یعنی) شیر سے ڈر کر بھاگ جاتے ہیں",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_074_052",
+      "reference": {
+        "surah_number": 74,
+        "surah_name": "Al-Muddaththir",
+        "surah_name_ar": "سُوْرَةُ الْمُدَّثِّرِ",
+        "surah_name_translation": "The Cloaked One",
+        "ayah_number": 52,
+        "juz": 29,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 10,
+      "translations": {
+        "ar": {
+          "text": "بَلۡ يُرِيدُ كُلُّ ٱمۡرِيࣲٕ مِّنۡهُمۡ أَن يُؤۡتَىٰ صُحُفࣰ ا مُّنَشَّرَةࣰ‏",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "In fact, each one of them wishes to be given a ˹personal˺ letter ˹from Allah˺ for all ˹to read˺",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "不然，他们中的每个人都希望获得一些展开的天经。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "नहीं, बल्कि उनमें से प्रत्येक व्यक्ति चाहता है कि उसे खुली किताबें दी जाएँ",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Ellos quisieran que descendieran [del cielo] páginas con un mensaje especial [que les confirmase que Mujámmad es un Mensajero de Dios]",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Chacun d'eux voudrait plutôt qu'on lui apporte des feuilles tout étalées",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "বরং তাদের প্রত্যেকেই চায় তাদের প্রত্যেককে একটি উম্মুক্ত গ্রন্থ দেয়া হোক।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Aliás, cada um deles desejaria lhe fossem concedidas páginas desenroladas",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Но ведь каждый из них желает получить развернутые свитки",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اصل یہ ہے کہ ان میں سے ہر شخص یہ چاہتا ہے کہ اس کے پاس کھلی ہوئی کتاب آئے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_074_053",
+      "reference": {
+        "surah_number": 74,
+        "surah_name": "Al-Muddaththir",
+        "surah_name_ar": "سُوْرَةُ الْمُدَّثِّرِ",
+        "surah_name_translation": "The Cloaked One",
+        "ayah_number": 53,
+        "juz": 29,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 5,
+      "translations": {
+        "ar": {
+          "text": "كَلَّاۖ بَل لَّا يَخَافُونَ ٱلۡأٓخِرَةَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "But no! In fact, they do not fear the Hereafter",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "绝不然，他们不畏惧后世！",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "कदापि नहीं, बल्कि ले आख़िरत से डरते नहीं",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Pero no se lo concederemos, porque no tienen temor devocional a la vida del más allá",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Ah! Non! C'est plutôt qu'ils ne craignent pas l'au-delà",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "কখনও না, বরং তারা পরকালকে ভয় করে না।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Em absoluto, não serão concedidas! Mas eles não temem a Derradeira Vida",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Но нет! Они не боятся Последней жизни",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "ایسا ہرگز نہیں ہوگا۔ حقیقت یہ ہے کہ ان کو آخرت کا خوف ہی نہیں",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_074_054",
+      "reference": {
+        "surah_number": 74,
+        "surah_name": "Al-Muddaththir",
+        "surah_name_ar": "سُوْرَةُ الْمُدَّثِّرِ",
+        "surah_name_translation": "The Cloaked One",
+        "ayah_number": 54,
+        "juz": 29,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 3,
+      "translations": {
+        "ar": {
+          "text": "كَلَّآ إِنَّهُۥ تَذۡكِرَةࣱ‏",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Enough! Surely this ˹Quran˺ is a reminder",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "真的，这《古兰经》确是一个教诲！",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "कुछ नहीं, वह तो एक अनुस्मति है",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "[El Corán] es una exhortación",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Ah! Non! Ceci est vraiment un Rappel",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "কখনও না, এটা তো উপদেশ মাত্র।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Não! Ele, por certo, é uma lembrança",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Но нет! Это есть Назидание",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "کچھ شک نہیں کہ یہ نصیحت ہے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_074_055",
+      "reference": {
+        "surah_number": 74,
+        "surah_name": "Al-Muddaththir",
+        "surah_name_ar": "سُوْرَةُ الْمُدَّثِّرِ",
+        "surah_name_translation": "The Cloaked One",
+        "ayah_number": 55,
+        "juz": 29,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 3,
+      "translations": {
+        "ar": {
+          "text": "فَمَن شَآءَ ذَكَرَهُۥ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "So let whoever wills be mindful of it",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "谁愿意，谁记忆它，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "अब जो कोई चाहे इससे नसीहत हासिल करे",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "para que reflexione quien quiera",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Quiconque veut, qu'il se le rappelle",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "অতএব, যার ইচ্ছা, সে একে স্মরণ করুক।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Então, quem quiser, disso se lembrará",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Помянет его тот, кто захочет",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "تو جو چاہے اسے یاد رکھے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_074_056",
+      "reference": {
+        "surah_number": 74,
+        "surah_name": "Al-Muddaththir",
+        "surah_name_ar": "سُوْرَةُ الْمُدَّثِّرِ",
+        "surah_name_translation": "The Cloaked One",
+        "ayah_number": 56,
+        "juz": 29,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 11,
+      "translations": {
+        "ar": {
+          "text": "وَمَا يَذۡكُرُونَ إِلَّآ أَن يَشَآءَ ٱللَّهُۚ هُوَ أَهۡلُ ٱلتَّقۡوَىٰ وَأَهۡلُ ٱلۡمَغۡفِرَةِ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "But they cannot do so unless Allah wills. He ˹alone˺ is worthy to be feared and entitled to forgive",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "他们只因真主的意欲而记忆它。他是应受敬畏的，他是宜於赦宥的。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "और वे नसीहत हासिल नहीं करेंगे। यह और बात है कि अल्लाह ही ऐसा चाहे। वही इस योग्य है कि उसका डर रखा जाए और इस योग्य भी कि क्षमा करे",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Pero solo lo harán aquellos para quienes Dios quiera la guía. Solo Él es digno de ser adorado, y solo Él es la fuente del perdón",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Mais ils ne se rappelleront que si Allah veut. C'est Lui qui est Le plus digne d'être craint; et c'est Lui qui détient le pardon",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "তারা স্মরণ করবে না, কিন্তু যদি আল্লাহ চান। তিনিই ভয়ের যোগ্য এবং ক্ষমার অধিকারী।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E não se lembrarão, a não ser que Allah o queira. Ele é O Dono da piedade e O Dono do perdão",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Но они не помянут его, если этого не пожелает Аллах. Он - Тот, Кто достоин страха и способен на прощение",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور یاد بھی تب ہی رکھیں گے جب خدا چاہے۔ وہی ڈرنے کے لائق اور بخشش کا مالک ہے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    }
+  ]
+}

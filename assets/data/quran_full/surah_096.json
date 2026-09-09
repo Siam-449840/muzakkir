@@ -1,0 +1,1069 @@
+{
+  "surah": 96,
+  "verses": [
+    {
+      "content_id": "quran_096_001",
+      "reference": {
+        "surah_number": 96,
+        "surah_name": "Al-Alaq",
+        "surah_name_ar": "سُوْرَةُ الْعَلَقِ",
+        "surah_name_translation": "The Clot",
+        "ayah_number": 1,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 5,
+      "translations": {
+        "ar": {
+          "text": "ٱقۡرَأۡ بِٱسۡمِ رَبِّكَ ٱلَّذِي خَلَقَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Read, ˹O Prophet,˺ in the Name of your Lord Who created—",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "你应当奉你的创造主的名义而宣读，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "पढ़ो, अपने रब के नाम के साथ जिसने पैदा किया",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "¡Lee! [¡oh, Mujámmad!] En el nombre de tu Señor, Quien creó todas las cosas",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Lis, au nom de ton Seigneur qui a créé",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "পাঠ করুন আপনার পালনকর্তার নামে যিনি সৃষ্টি করেছেন",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Lê, em nome de teu Senhor, que criou",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Читай во имя твоего Господа, Который сотворил все сущее",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "(اے محمدﷺ) اپنے پروردگار کا نام لے کر پڑھو جس نے (عالم کو) پیدا کیا",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_096_002",
+      "reference": {
+        "surah_number": 96,
+        "surah_name": "Al-Alaq",
+        "surah_name_ar": "سُوْرَةُ الْعَلَقِ",
+        "surah_name_translation": "The Clot",
+        "ayah_number": 2,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 4,
+      "translations": {
+        "ar": {
+          "text": "خَلَقَ ٱلۡإِنسَٰنَ مِنۡ عَلَقٍ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "created humans from a clinging clot",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "他曾用血块创造人。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "पैदा किया मनुष्य को जमे हुए ख़ून के एक लोथड़े से",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Creó al hombre de una célula embrionaria",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "qui a créé l'homme d'une adhérence",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "সৃষ্টি করেছেন মানুষকে জমাট রক্ত থেকে।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Que criou o ser humano de uma aderência",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "сотворил человека из сгустка крови",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "جس نے انسان کو خون کی پھٹکی سے بنایا",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_096_003",
+      "reference": {
+        "surah_number": 96,
+        "surah_name": "Al-Alaq",
+        "surah_name_ar": "سُوْرَةُ الْعَلَقِ",
+        "surah_name_translation": "The Clot",
+        "ayah_number": 3,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 3,
+      "translations": {
+        "ar": {
+          "text": "ٱقۡرَأۡ وَرَبُّكَ ٱلۡأَكۡرَمُ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Read! And your Lord is the Most Generous",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "你应当宣读，你的主是最尊严的，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "पढ़ो, हाल यह है कि तुम्हारा रब बड़ा ही उदार है",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "¡Lee! Que tu Señor es el más Generoso",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Lis! Ton Seigneur est le Très Noble",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "পাঠ করুন, আপনার পালনকর্তা মহা দয়ালু,",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Lê, e teu Senhor é O mais Generoso",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Читай, ведь твой Господь - Самый великодушный",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "پڑھو اور تمہارا پروردگار بڑا کریم ہے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_096_004",
+      "reference": {
+        "surah_number": 96,
+        "surah_name": "Al-Alaq",
+        "surah_name_ar": "سُوْرَةُ الْعَلَقِ",
+        "surah_name_translation": "The Clot",
+        "ayah_number": 4,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 3,
+      "translations": {
+        "ar": {
+          "text": "ٱلَّذِي عَلَّمَ بِٱلۡقَلَمِ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Who taught by the pen—",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "他曾教人用笔写字，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "जिसने क़लम के द्वारा शिक्षा दी",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Enseñó la escritura con la pluma",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "qui a enseigné par la plume [le calame]",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "যিনি কলমের সাহায্যে শিক্ষা দিয়েছেন,",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Que ensinou a escrever com o cálamo",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Он научил посредством письменной трости",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "جس نے قلم کے ذریعے سے علم سکھایا",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_096_005",
+      "reference": {
+        "surah_number": 96,
+        "surah_name": "Al-Alaq",
+        "surah_name_ar": "سُوْرَةُ الْعَلَقِ",
+        "surah_name_translation": "The Clot",
+        "ayah_number": 5,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 5,
+      "translations": {
+        "ar": {
+          "text": "عَلَّمَ ٱلۡإِنسَٰنَ مَا لَمۡ يَعۡلَمۡ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "taught humanity what they knew not",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "他曾教人知道自己所不知道的东西。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "मनुष्य को वह ज्ञान प्रदान किया जिस वह न जानता था",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "y le enseñó al hombre lo que este no sabía",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "a enseigné à l'homme ce qu'il ne savait pas",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "শিক্ষা দিয়েছেন মানুষকে যা সে জানত না।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Ensinou ao ser humano o que ele não sabia",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "научил человека тому, чего тот не знал",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور انسان کو وہ باتیں سکھائیں جس کا اس کو علم نہ تھا",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_096_006",
+      "reference": {
+        "surah_number": 96,
+        "surah_name": "Al-Alaq",
+        "surah_name_ar": "سُوْرَةُ الْعَلَقِ",
+        "surah_name_translation": "The Clot",
+        "ayah_number": 6,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 4,
+      "translations": {
+        "ar": {
+          "text": "كَلَّآ إِنَّ ٱلۡإِنسَٰنَ لَيَطۡغَىٰٓ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Most certainly, one exceeds all bounds",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "绝不然，人确是悖逆的，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "कदापि नहीं, मनुष्य सरकशी करता है",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "No obstante, el ser humano se excede",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Prenez-garde! Vraiment l'homme devient rebelle",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "সত্যি সত্যি মানুষ সীমালংঘন করে,",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Ora, por certo, o ser humano a tudo transgride",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Но нет! Человек преступает границы дозволенного",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "مگر انسان سرکش ہو جاتا ہے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_096_007",
+      "reference": {
+        "surah_number": 96,
+        "surah_name": "Al-Alaq",
+        "surah_name_ar": "سُوْرَةُ الْعَلَقِ",
+        "surah_name_translation": "The Clot",
+        "ayah_number": 7,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 3,
+      "translations": {
+        "ar": {
+          "text": "أَن رَّءَاهُ ٱسۡتَغۡنَىٰٓ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "once they think they are self-sufficient",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "因为他自己是无求的。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "इसलिए कि वह अपने आपको आत्मनिर्भर देखता है",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "cuando se cree autosuficiente",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "dès qu'il estime qu'il peut se suffire à lui-même (à cause de sa richesse)",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "এ কারণে যে, সে নিজেকে অভাবমুক্ত মনে করে।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Desde que ele se vê prescindindo de ajuda",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "когда ему кажется, что он ни в чем не нуждается",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "جب کہ اپنے تیئں غنی دیکھتا ہے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_096_008",
+      "reference": {
+        "surah_number": 96,
+        "surah_name": "Al-Alaq",
+        "surah_name_ar": "سُوْرَةُ الْعَلَقِ",
+        "surah_name_translation": "The Clot",
+        "ayah_number": 8,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 4,
+      "translations": {
+        "ar": {
+          "text": "إِنَّ إِلَىٰ رَبِّكَ ٱلرُّجۡعَىٰٓ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "˹But˺ surely to your Lord is the return ˹of all˺",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "万物必定只归於你的主。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "निश्चय ही तुम्हारे रब ही की ओर पलटना है",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Pero todos habrán de comparecer ante tu Señor",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Mais, c'est vers ton Seigneur qu'est le retour",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "নিশ্চয় আপনার পালনকর্তার দিকেই প্রত্যাবর্তন হবে।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Por certo, a teu Senhor será o retorno",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Но к твоему Господу предстоит возвращение",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "کچھ شک نہیں کہ (اس کو) تمہارے پروردگار ہی کی طرف لوٹ کر جانا ہے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_096_009",
+      "reference": {
+        "surah_number": 96,
+        "surah_name": "Al-Alaq",
+        "surah_name_ar": "سُوْرَةُ الْعَلَقِ",
+        "surah_name_translation": "The Clot",
+        "ayah_number": 9,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 3,
+      "translations": {
+        "ar": {
+          "text": "أَرَءَيۡتَ ٱلَّذِي يَنۡهَىٰ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Have you seen the man who prevents",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "你告诉我吧！",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "क्या तुमने देखा उस व्यक्ति को",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "¿Qué piensas de quien impide",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "As-tu vu celui qui interdit",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "আপনি কি তাকে দেখেছেন, যে নিষেধ করে",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Viste aquele que coíbe",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Что ты думаешь о том, кто мешает",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "بھلا تم نے اس شخص کو دیکھا جو منع کرتا ہے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_096_010",
+      "reference": {
+        "surah_number": 96,
+        "surah_name": "Al-Alaq",
+        "surah_name_ar": "سُوْرَةُ الْعَلَقِ",
+        "surah_name_translation": "The Clot",
+        "ayah_number": 10,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 3,
+      "translations": {
+        "ar": {
+          "text": "عَبۡدًا إِذَا صَلَّىٰٓ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "a servant ˹of Ours˺ from praying",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "那个禁止我的仆人礼拜的人；",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "जो एक बन्दे को रोकता है, जब वह नमाज़ अदा करता है",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "a un siervo de Dios realizar sus oraciones",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "à un serviteur d'Allah [Muhammad] de célébrer la Salât",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "এক বান্দাকে যখন সে নামায পড়ে?",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Um servo de orar, quando este ora",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "рабу, когда тот молится",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "(یعنی) ایک بندے کو جب وہ نماز پڑھنے لگتا ہے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_096_011",
+      "reference": {
+        "surah_number": 96,
+        "surah_name": "Al-Alaq",
+        "surah_name_ar": "سُوْرَةُ الْعَلَقِ",
+        "surah_name_translation": "The Clot",
+        "ayah_number": 11,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 5,
+      "translations": {
+        "ar": {
+          "text": "أَرَءَيۡتَ إِن كَانَ عَلَى ٱلۡهُدَىٰٓ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "What if this ˹servant˺ is ˹rightly˺ guided",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "你告诉我吧！如果他是遵循正道的，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "तुम्हारा क्या विचार है? यदि वह सीधे मार्ग पर हो",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "¿Acaso ha recapacitado que trae la guía",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Vois-tu s'il est sur la bonne voie",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "আপনি কি দেখেছেন যদি সে সৎপথে থাকে।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Viste se ele está na Orientação",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Что ты думаешь, а если он был на правом пути",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "بھلا دیکھو تو اگر یہ راہِ راست پر ہو",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_096_012",
+      "reference": {
+        "surah_number": 96,
+        "surah_name": "Al-Alaq",
+        "surah_name_ar": "سُوْرَةُ الْعَلَقِ",
+        "surah_name_translation": "The Clot",
+        "ayah_number": 12,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 3,
+      "translations": {
+        "ar": {
+          "text": "أَوۡ أَمَرَ بِٱلتَّقۡوَىٰٓ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "or encourages righteousness",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "或是命人敬畏的；",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "या परहेज़गारी का हुक्म दे (उसके अच्छा होने में क्या संदेह है)",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "y exhorta a la piedad",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "ou s'il ordonne la piété",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "অথবা খোদাভীতি শিক্ষা দেয়।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Ou se ordena a piedade",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "или призывал к богобоязненности",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "یا پرہیز گاری کا حکم کرے (تو منع کرنا کیسا)",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_096_013",
+      "reference": {
+        "surah_number": 96,
+        "surah_name": "Al-Alaq",
+        "surah_name_ar": "سُوْرَةُ الْعَلَقِ",
+        "surah_name_translation": "The Clot",
+        "ayah_number": 13,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 4,
+      "translations": {
+        "ar": {
+          "text": "أَرَءَيۡتَ إِن كَذَّبَ وَتَوَلَّىٰٓ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "What if that ˹man˺ persists in denial and turns away",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "你告诉我吧！如果他是否认真理，背弃真理的，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "तुम्हारा क्या विचार है? यदि उस (रोकनेवाले) ने झुठलाया और मुँह मोड़ा (तो उसके बुरा होने में क्या संदेह है)",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "¿Acaso no ves cómo desmiente y rechaza",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Vois-tu s'il dément et tourne le dos",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "আপনি কি দেখেছেন, যদি সে মিথ্যারোপ করে ও মুখ ফিরিয়ে নেয়।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Viste se te desmente e te volta as costas",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Что ты думаешь, а если он счел ложью истину и отвернулся",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور دیکھو تو اگر اس نے دین حق کو جھٹلایا اور اس سے منہ موڑا (تو کیا ہوا)",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_096_014",
+      "reference": {
+        "surah_number": 96,
+        "surah_name": "Al-Alaq",
+        "surah_name_ar": "سُوْرَةُ الْعَلَقِ",
+        "surah_name_translation": "The Clot",
+        "ayah_number": 14,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 5,
+      "translations": {
+        "ar": {
+          "text": "أَلَمۡ يَعۡلَم بِأَنَّ ٱللَّهَ يَرَىٰ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Does he not know that Allah sees ˹all˺",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "难道他还不知道真主是监察的吗？",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "क्या उसने नहीं जाना कि अल्लाह देख रहा है",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "¿Acaso no sabe que Dios lo ve",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Ne sait-il pas que vraiment Allah voit",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "সে কি জানে না যে, আল্লাহ দেখেন?",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Não sabe ele que Allah a tudo vê",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Неужели он не знал, что Аллах видит его",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "کیااس کو معلوم نہیں کہ خدا دیکھ رہا ہے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_096_015",
+      "reference": {
+        "surah_number": 96,
+        "surah_name": "Al-Alaq",
+        "surah_name_ar": "سُوْرَةُ الْعَلَقِ",
+        "surah_name_translation": "The Clot",
+        "ayah_number": 15,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 6,
+      "translations": {
+        "ar": {
+          "text": "كَلَّا لَئِن لَّمۡ يَنتَهِ لَنَسۡفَعَۢا بِٱلنَّاصِيَةِ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "But no! If he does not desist, We will certainly drag him by the forelock—",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "绝不然，如果他不停止，我一定要抓住他的额发",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "कदापि नहीं, यदि वह बाज़ न आया तो हम चोटी पकड़कर घसीटेंगे",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Si no pone fin [a sus agresiones contra los creyentes] lo arrastraré por su frente",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Mais non! S'il ne cesse pas, Nous le saisirons certes, par le toupet",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "কখনই নয়, যদি সে বিরত না হয়, তবে আমি মস্তকের সামনের কেশগুচ্ছ ধরে হেঁচড়াবই-",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Em absoluto, não o sabe! Em verdade, se ele não se detiver, arrastá-lo-emos pelo topete",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Но нет, если он не перестанет, то Мы схватим его за хохол",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "دیکھو اگر وہ باز نہ آئے گا تو ہم (اس کی) پیشانی کے بال پکڑ گھسیٹیں گے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_096_016",
+      "reference": {
+        "surah_number": 96,
+        "surah_name": "Al-Alaq",
+        "surah_name_ar": "سُوْرَةُ الْعَلَقِ",
+        "surah_name_translation": "The Clot",
+        "ayah_number": 16,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 3,
+      "translations": {
+        "ar": {
+          "text": "نَاصِيَةࣲ كَٰذِبَةٍ خَاطِئَةࣲ‏",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "a lying, sinful forelock",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "说谎者，犯罪者的额发。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "झूठी, ख़ताकार चोटी",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "esa frente mentirosa y perversa",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "le toupet d'un menteur, d'un pécheur",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "মিথ্যাচারী, পাপীর কেশগুচ্ছ।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Topete mentiroso, errado",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "хохол лживый, грешный",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "یعنی اس جھوٹے خطاکار کی پیشانی کے بال",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_096_017",
+      "reference": {
+        "surah_number": 96,
+        "surah_name": "Al-Alaq",
+        "surah_name_ar": "سُوْرَةُ الْعَلَقِ",
+        "surah_name_translation": "The Clot",
+        "ayah_number": 17,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 2,
+      "translations": {
+        "ar": {
+          "text": "فَلۡيَدۡعُ نَادِيَهُۥ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "So let him call his associates",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "让他去召集他的会众吧！",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "अब बुला ले वह अपनी मजलिस को",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Que pida auxilio a sus secuaces",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Qu'il appelle donc son assemblée",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "অতএব, সে তার সভাসদদেরকে আহবান করুক।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Então, que convoque seus partidários",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Пусть он зовет свое сборище",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "تو وہ اپنے یاروں کی مجلس کو بلالے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_096_018",
+      "reference": {
+        "surah_number": 96,
+        "surah_name": "Al-Alaq",
+        "surah_name_ar": "سُوْرَةُ الْعَلَقِ",
+        "surah_name_translation": "The Clot",
+        "ayah_number": 18,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 2,
+      "translations": {
+        "ar": {
+          "text": "سَنَدۡعُ ٱلزَّبَانِيَةَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "We will call the wardens of Hell",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "我将召集强悍的天神。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "हम भी बुलाए लेते है सिपाहियों को",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "que llamaré a los ángeles guardianes del Infierno",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Nous appellerons les gardiens [de l'Enfer]",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "আমিও আহবান করব জাহান্নামের প্রহরীদেরকে",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Convocaremos os verdugos",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Мы же позовем адских стражей",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "ہم بھی اپنے موکلانِ دوزخ کو بلا لیں گے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_096_019",
+      "reference": {
+        "surah_number": 96,
+        "surah_name": "Al-Alaq",
+        "surah_name_ar": "سُوْرَةُ الْعَلَقِ",
+        "surah_name_translation": "The Clot",
+        "ayah_number": 19,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 5,
+      "translations": {
+        "ar": {
+          "text": "كَلَّا لَا تُطِعۡهُ وَٱسۡجُدۡۤ وَٱقۡتَرِب۩",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Again, no! Never obey him ˹O Prophet˺! Rather, ˹continue to˺ prostrate and draw near ˹to Allah˺",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "绝不然，你不要顺从他，你应当为真主而叩头，你应当亲近真主。※",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "कदापि नहीं, उसकी बात न मानो और सजदे करते और क़रीब होते रहो",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "¡No! No lo obedezcas, sino que prostérnate [ante Dios] y busca Su proximidad",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Non! Ne lui obéis pas; mais prosterne-toi et rapproche-toi",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "কখনই নয়, আপনি তার আনুগত্য করবেন না। আপনি সেজদা করুন ও আমার নৈকট্য অর্জন করুন।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Em absoluto, não lhe obedeças; e prosterna-te e aproxima-te de Allah",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Так нет! Не повинуйся ему, а пади ниц и приближайся к Аллаху",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "دیکھو اس کا کہا نہ ماننا اور قربِ (خدا) حاصل کرتے رہنا",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    }
+  ]
+}

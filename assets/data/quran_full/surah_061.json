@@ -1,0 +1,789 @@
+{
+  "surah": 61,
+  "verses": [
+    {
+      "content_id": "quran_061_001",
+      "reference": {
+        "surah_number": 61,
+        "surah_name": "As-Saff",
+        "surah_name_ar": "سُوْرَةُ الصَّفِّ",
+        "surah_name_translation": "The Ranks",
+        "ayah_number": 1,
+        "juz": 28,
+        "revelation_type": "Madina"
+      },
+      "arabic_word_count": 11,
+      "translations": {
+        "ar": {
+          "text": "سَبَّحَ لِلَّهِ مَا فِي ٱلسَّمَٰوَٰتِ وَمَا فِي ٱلۡأَرۡضِۖ وَهُوَ ٱلۡعَزِيزُ ٱلۡحَكِيمُ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Whatever is in the heavens and whatever is on the earth glorifies Allah. For He ˹alone˺ is the Almighty, All-Wise",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "凡在天地间的，都赞颂真主超绝万物，他是万能的，是至睿的。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "अल्लाह की तसबीह की हर उस चीज़ ने जो आकाशों और धरती में है। वही प्रभुत्वशाली, तत्वदर्शी है",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Todo cuanto existe en los cielos y en la Tierra glorifica a Dios. Él es el Poderoso, el Sabio",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Ce qui est dans les cieux et ce qui est sur la terre glorifient Allah, et Il est le Puissant, le Sage",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "নভোমন্ডলে ও ভূমন্ডলে যা কিছু আছে, সবই আল্লাহর পবিত্রতা ঘোষণা করে। তিনি পরাক্রান্ত প্রজ্ঞাবান।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "O que há nos céus e o que há na terra glorificam a Allah. E Ele é O Todo-Poderoso, O Sábio",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Славит Аллаха то, что на небесах, и то, что на земле. Он - Могущественный, Мудрый",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "جو چیز آسمانوں میں ہے اور زمین میں ہے سب خدا کی تنزیہ کرتی ہے اور وہ غالب حکمت والا ہے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_061_002",
+      "reference": {
+        "surah_number": 61,
+        "surah_name": "As-Saff",
+        "surah_name_ar": "سُوْرَةُ الصَّفِّ",
+        "surah_name_translation": "The Ranks",
+        "ayah_number": 2,
+        "juz": 28,
+        "revelation_type": "Madina"
+      },
+      "arabic_word_count": 8,
+      "translations": {
+        "ar": {
+          "text": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُواْ لِمَ تَقُولُونَ مَا لَا تَفۡعَلُونَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "O believers! Why do you say what you do not do",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "信道的人们啊！你们为什麽说你们所不做的事呢？",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "ऐ ईमान लानेवालो! तुम वह बात क्यों कहते हो जो करते नहीं",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "¡Creyentes! ¿Por qué dicen una cosa pero hacen otra",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "O vous qui avez cru! Pourquoi dites-vous ce que vous ne faites pas",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "মুমিনগণ! তোমরা যা কর না, তা কেন বল?",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Ó vós que credes! Por que dizeis o que não fazeis",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "О те, которые уверовали! Почему вы говорите то, чего не делаете",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "مومنو! تم ایسی باتیں کیوں کہا کرتے ہو جو کیا نہیں کرتے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_061_003",
+      "reference": {
+        "surah_number": 61,
+        "surah_name": "As-Saff",
+        "surah_name_ar": "سُوْرَةُ الصَّفِّ",
+        "surah_name_translation": "The Ranks",
+        "ayah_number": 3,
+        "juz": 28,
+        "revelation_type": "Madina"
+      },
+      "arabic_word_count": 9,
+      "translations": {
+        "ar": {
+          "text": "كَبُرَ مَقۡتًا عِندَ ٱللَّهِ أَن تَقُولُواْ مَا لَا تَفۡعَلُونَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "How despicable it is in the sight of Allah that you say what you do not do",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "你们说你们所不做的，这在真主看来，是很可恨的。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "अल्लाह के यहाँ यह अत्यन्त अप्रिय बात है कि तुम वह बात कहो, जो करो नहीं",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Es aborrecible ante Dios que sus actos no sean coherentes con sus palabras",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "C'est une grande abomination auprès d'Allah que de dire ce que vous ne faites pas",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "তোমরা যা কর না, তা বলা আল্লাহর কাছে খুবই অসন্তোষজনক।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Grave é, em sendo abominação perante Allah, que digais o que não fazeis",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Велика ненависть Аллаха к тому, что вы говорите то, чего не делаете",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "خدا اس بات سے سخت بیزار ہے کہ ایسی بات کہو جو کرو نہیں",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_061_004",
+      "reference": {
+        "surah_number": 61,
+        "surah_name": "As-Saff",
+        "surah_name_ar": "سُوْرَةُ الصَّفِّ",
+        "surah_name_translation": "The Ranks",
+        "ayah_number": 4,
+        "juz": 28,
+        "revelation_type": "Madina"
+      },
+      "arabic_word_count": 12,
+      "translations": {
+        "ar": {
+          "text": "إِنَّ ٱللَّهَ يُحِبُّ ٱلَّذِينَ يُقَٰتِلُونَ فِي سَبِيلِهِۦ صَفࣰّ ا كَأَنَّهُم بُنۡيَٰنࣱ مَّرۡصُوصࣱ‏",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Surely Allah loves those who fight in His cause in ˹solid˺ ranks as if they were one concrete structure",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "真主的确喜爱那等人；他们为他而列阵作战，好像坚实的墙壁一样。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "अल्लाह तो उन लोगों से प्रेम रखता है जो उसके मार्ग में पंक्तिबद्ध होकर लड़ते है मानो वे सीसा पिलाई हुए दीवार है",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Dios ama a quienes luchan por Su causa en filas ordenadas, como si fueran una edificación sólida",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Allah aime ceux qui combattent dans Son chemin en rang serré pareils à un édifice renforcé",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "আল্লাহ তাদেরকে ভালবাসেন, যারা তাঁর পথে সারিবদ্ধভাবে লড়াই করে, যেন তারা সীসাগালানো প্রাচীর।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Por certo, Allah ama os que combatem em Seu caminho, em fileira, como se fossem edificações ligadas por chumbo",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Воистину, Аллах любит тех, которые сражаются на Его пути рядами, словно они - прочное строение",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "جو لوگ خدا کی راہ میں (ایسے طور پر) پرے جما کر لڑتے کہ گویا سیسہ پلائی دیوار ہیں وہ بےشک محبوب کردگار ہیں",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_061_005",
+      "reference": {
+        "surah_number": 61,
+        "surah_name": "As-Saff",
+        "surah_name_ar": "سُوْرَةُ الصَّفِّ",
+        "surah_name_translation": "The Ranks",
+        "ayah_number": 5,
+        "juz": 28,
+        "revelation_type": "Madina"
+      },
+      "arabic_word_count": 23,
+      "translations": {
+        "ar": {
+          "text": "وَإِذۡ قَالَ مُوسَىٰ لِقَوۡمِهِۦ يَٰقَوۡمِ لِمَ تُؤۡذُونَنِي وَقَد تَّعۡلَمُونَ أَنِّي رَسُولُ ٱللَّهِ إِلَيۡكُمۡۖ فَلَمَّا زَاغُوٓاْ أَزَاغَ ٱللَّهُ قُلُوبَهُمۡۚ وَٱللَّهُ لَا يَهۡدِي ٱلۡقَوۡمَ ٱلۡفَٰسِقِينَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "˹Remember, O Prophet,˺ when Moses said to his people, “O my people! Why do you hurt me when you already know I am Allah’s messenger to you?” So when they ˹persistently˺ deviated, Allah caused their hearts to deviate. For Allah does not guide the rebellious people",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "当时，穆萨曾对他的宗族说：我的宗族啊！你们既知道我是真主派来教化你们的使者，你们为什麽诽谤我呢？当他们背离正道的时候，真主使他们的心背离真理；真主是不引导悖逆的民众的。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "और याद करो जब मूसा ने अपनी क़ौम के लोगों से कहा, \"ऐ मेरी क़ौम के लोगों! तुम मुझे क्यो दुख देते हो, हालाँकि तुम जानते हो कि मैं तुम्हारी ओर भेजा हुआ अल्लाह का रसूल हूँ?\" फिर जब उन्होंने टेढ़ अपनाई तो अल्लाह ने भी उनके दिल टेढ़ कर दिए। अल्लाह अवज्ञाकारियों को सीधा मार्ग नहीं दिखाता",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "[Recuerden] cuando Moisés dijo a su pueblo: \"¡Pueblo mío! ¿Por qué me maltratan a pesar de saber que soy el Mensajero que Dios les ha enviado?\" Cuando [su pueblo] se alejó [del Mensaje], Dios desvió sus corazones [alejándolos de la guía]. Dios no guía a los perversos",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Et quand Moïse dit à son peuple: «O mon peuple! Pourquoi me maltraitez-vous alors que vous savez que je suis vraiment le Messager d'Allah [envoyé] à vous?» Puis quand ils dévièrent, Allah fit dévier leurs cœurs, car Allah ne guide pas les gens pervers",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "স্মরণ কর, যখন মূসা (আঃ) তাঁর সম্প্রদায়কে বললঃ হে আমার সম্প্রদায়, তোমরা কেন আমাকে কষ্ট দাও, অথচ তোমরা জান যে, আমি তোমাদের কাছে আল্লাহর রসূল। অতঃপর তারা যখন বক্রতা অবলম্বন করল, তখন আল্লাহ তাদের অন্তরকে বক্র করে দিলেন। আল্লাহ পাপাচারী সম্প্রদায়কে পথপ্রদর্শন করেন না।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E quando Moisés disse a seu povo: \"Ó meu povo! Por que me molestais, enquanto, com efeito, sabeis que sou para vós o Mensageiro de Allah?\" Então, quando se desviaram, Allah desviou-lhes os corações. E Allah não guia o povo perverso",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Вот сказал Муса (Моисей) своему народу: «О мой народ! Почему вы причиняете мне страдания, зная, что я послан к вам Аллахом?». Когда же они уклонились, Аллах совратил их сердца. Аллах не ведет прямым путем людей нечестивых",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور وہ وقت یاد کرنے کے لائق ہے جب موسیٰ نے اپنی قوم سے کہا کہ اے قوم! تم مجھے کیوں ایذا دیتے ہو حالانکہ تم جانتے ہو کہ میں تمہارے پاس خدا کا بھیجا ہوا آیا ہوں۔ تو جب ان لوگوں نے کج روی کی خدا نے بھی ان کے دل ٹیڑھے کردیئے۔ اور خدا نافرمانوں کو ہدایت نہیں دیتا",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_061_006",
+      "reference": {
+        "surah_number": 61,
+        "surah_name": "As-Saff",
+        "surah_name_ar": "سُوْرَةُ الصَّفِّ",
+        "surah_name_translation": "The Ranks",
+        "ayah_number": 6,
+        "juz": 28,
+        "revelation_type": "Madina"
+      },
+      "arabic_word_count": 32,
+      "translations": {
+        "ar": {
+          "text": "وَإِذۡ قَالَ عِيسَى ٱبۡنُ مَرۡيَمَ يَٰبَنِيٓ إِسۡرَٰٓءِيلَ إِنِّي رَسُولُ ٱللَّهِ إِلَيۡكُم مُّصَدِّقࣰ ا لِّمَا بَيۡنَ يَدَيَّ مِنَ ٱلتَّوۡرَىٰةِ وَمُبَشِّرَۢا بِرَسُولࣲ يَأۡتِي مِنۢ بَعۡدِي ٱسۡمُهُۥٓ أَحۡمَدُۖ فَلَمَّا جَآءَهُم بِٱلۡبَيِّنَٰتِ قَالُواْ هَٰذَا سِحۡرࣱ مُّبِينࣱ‏",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "And ˹remember˺ when Jesus, son of Mary, said, “O children of Israel! I am truly Allah’s messenger to you, confirming the Torah which came before me, and giving good news of a messenger after me whose name will be Aḥmad.” Yet when the Prophet came to them with clear proofs, they said, “This is pure magic.”",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "当时，麦尔彦之子尔撒曾说：以色列的後裔啊！我确是真主派来教化你们的使者，他派我来证实在我之前的《讨拉特》，并且以在我之後诞生的使者，名叫艾哈默德的，向你们报喜。当他已昭示他们许多明证的时候，他们说：这是明显的魔术。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "और याद करो जबकि मरयम के बेटे ईसा ने कहा, \"ऐ इसराईल की संतान! मैं तुम्हारी ओर भेजा हुआ अल्लाह का रसूल हूँ। मैं तौरात की (उस भविष्यवाणी की) पुष्टि करता हूँ जो मुझसे पहले से विद्यमान है और एक रसूल की शुभ सूचना देता हूँ जो मेरे बाद आएगा, उसका नाम अहमद होगा।\" किन्तु वह जब उनके पास स्पट्जो प्रमाणों के साथ आया तो उन्होंने कहा, \"यह तो जादू है।",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Y cuando Jesús, hijo de María, dijo: \"¡Oh, hijos de Israel! Yo soy el Mensajero que Dios les ha enviado para corroborar la Tora y anunciar a un Mensajero que vendrá después de mí llamado Ajmad\". Pero cuando les mostró los milagros, dijeron [con incredulidad manifiesta]: \"¡Esto es pura hechicería",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Et quand Jésus fils de Marie dit: «O Enfants d'Israël, je suis vraiment le Messager d'Allah [envoyé] à vous, confirmateur de ce qui, dans la Thora, est antérieur à moi, et annonciateur d'un Messager à venir après moi, dont le nom sera «Ahmad». Puis quand celui-ci vint à eux avec des preuves évidentes, ils dirent: «C'est là une magie manifeste»",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "স্মরণ কর, যখন মরিয়ম-তনয় ঈসা (আঃ) বললঃ হে বনী ইসরাইল! আমি তোমাদের কাছে আল্লাহর প্রেরিত রসূল, আমার পূর্ববর্তী তওরাতের আমি সত্যায়নকারী এবং আমি এমন একজন রসূলের সুসংবাদদাতা, যিনি আমার পরে আগমন করবেন। তাঁর নাম আহমদ। অতঃপর যখন সে স্পষ্ট প্রমাণাদি নিয়ে আগমন করল, তখন তারা বললঃ এ তো এক প্রকাশ্য যাদু।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E quando Jesus, filho de Maria, disse: \"Ó filhos de Israel! Por certo, sou para vós o Mensageiro de Allah, para confirmar a Torá, que havia antes de mim, e anunciar um Mensageiro, que virá depois de mim, cujo nome é Ahmad.\" Então, quando lhes chegou com as evidências, disseram: \"Isso é evidente magia",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "А вот Иса (Иисус), сын Марьям (Марии), сказал: «О сыны Исраила (Израиля)! Я послан к вам Аллахом, чтобы подтвердить правдивость того, что было в Таурате (Торе) до меня, и чтобы сообщить благую весть о Посланнике, который придет после меня, имя которого будет Ахмад (Мухаммад)». Когда же он явился к ним с ясными знамениями, они сказали: «Это - очевидное колдовство»",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور (وہ وقت بھی یاد کرو) جب مریمؑ کے بیٹے عیسیٰ نے کہا کے اے بنی اسرائیل میں تمہارے پاس خدا کا بھیجا ہوا آیا ہوں (اور) جو (کتاب) مجھ سے پہلے آچکی ہے (یعنی) تورات اس کی تصدیق کرتا ہوں اور ایک پیغمبر جو میرے بعد آئیں گے جن کا نام احمدﷺ ہوگا ان کی بشارت سناتا ہوں۔ (پھر) جب وہ ان لوگوں کے پاس کھلی نشانیاں لے کر آئے تو کہنے لگے کہ یہ تو صریح جادو ہے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_061_007",
+      "reference": {
+        "surah_number": 61,
+        "surah_name": "As-Saff",
+        "surah_name_ar": "سُوْرَةُ الصَّفِّ",
+        "surah_name_translation": "The Ranks",
+        "ayah_number": 7,
+        "juz": 28,
+        "revelation_type": "Madina"
+      },
+      "arabic_word_count": 16,
+      "translations": {
+        "ar": {
+          "text": "وَمَنۡ أَظۡلَمُ مِمَّنِ ٱفۡتَرَىٰ عَلَى ٱللَّهِ ٱلۡكَذِبَ وَهُوَ يُدۡعَىٰٓ إِلَى ٱلۡإِسۡلَٰمِۚ وَٱللَّهُ لَا يَهۡدِي ٱلۡقَوۡمَ ٱلظَّٰلِمِينَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Who does more wrong than the one who fabricates lies about Allah when invited to submit ˹to Him˺? For Allah does not guide the wrongdoing people",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "别人劝他入伊斯兰，他却假借真主的名义而造谣；这样的人，谁比他还不义呢？真主不引导不义的民众的。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "अब उस व्यक्ति से बढ़कर ज़ालिम कौन होगा, जो अल्लाह पर थोपकर झूठ घड़े जबकि इस्लाम (अल्लाह के आगे समर्पण करने) का ओर बुलाया जा रहा हो? अल्लाह ज़ालिम लोगों को सीधा मार्ग नहीं दिखाया करता",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "¿Existe alguien más injusto que quien inventa mentiras acerca de Dios cuando es invitado al Islam? Dios no guía a los injustos",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Et qui est plus injuste que celui qui invente un mensonge contre Allah, alors qu'il est appelé à l'Islam? Et Allah ne guide pas les gens injustes",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "যে ব্যক্তি ইসলামের দিকে আহুত হয়েও আল্লাহ সম্পর্কে মিথ্যা বলে; তার চাইতে অধিক যালেম আর কে? আল্লাহ যালেম সম্প্রদায়কে পথ প্রদর্শন করেন না।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E quem mais injusto que aquele que forja a mentira acerca de Allah, enquanto convocado para o Islam? E Allah não guia o povo injusto",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Кто же может быть несправедливее того, кто измышляет ложь об Аллахе, когда его призывают к исламу? Аллах не ведет прямым путем несправедливых людей",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور اس سے ظالم کون کہ بلایا تو جائے اسلام کی طرف اور وہ خدا پر جھوٹ بہتان باندھے۔ اور خدا ظالم لوگوں کو ہدایت نہیں دیا کرتا",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_061_008",
+      "reference": {
+        "surah_number": 61,
+        "surah_name": "As-Saff",
+        "surah_name_ar": "سُوْرَةُ الصَّفِّ",
+        "surah_name_translation": "The Ranks",
+        "ayah_number": 8,
+        "juz": 28,
+        "revelation_type": "Madina"
+      },
+      "arabic_word_count": 11,
+      "translations": {
+        "ar": {
+          "text": "يُرِيدُونَ لِيُطۡفِـُٔواْ نُورَ ٱللَّهِ بِأَفۡوَٰهِهِمۡ وَٱللَّهُ مُتِمُّ نُورِهِۦ وَلَوۡ كَرِهَ ٱلۡكَٰفِرُونَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "They wish to extinguish Allah’s light with their mouths, but Allah will ˹certainly˺ perfect His light, even to the dismay of the disbelievers",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "他们想吹灭真主的光明，但真主要完成他的光明，即使不信道的人不愿意。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "वे चाहते है कि अल्लाह के प्रकाश को अपने मुँह की फूँक से बुझा दे, किन्तु अल्लाह अपने प्रकाश को पूर्ण करके ही रहेगा, यद्यपि इनकार करनेवालों को अप्रिय ही लगे",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Pretenden extinguir la luz [del Mensaje] de Dios con las mentiras que pronuncian sus bocas, pero Dios hará que Su luz resplandezca, aunque esto desagrade a los que rechazan el Mensaje",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Ils veulent éteindre de leurs bouches la lumière d'Allah, alors qu'Allah parachèvera Sa lumière en dépit de l'aversion des mécréants",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "তারা মুখের ফুঁৎকারে আল্লাহর আলো নিভিয়ে দিতে চায়। আল্লাহ তাঁর আলোকে পূর্ণরূপে বিকশিত করবেন যদিও কাফেররা তা অপছন্দ করে।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Desejam apagar, com o sopro das bocas, a luz de Allah e Allah completará Sua luz, ainda que o odeiem os renegadores da Fé",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Они хотят погасить свет Аллаха своими ртами, но Аллах сохранит Свой свет, даже если это ненавистно неверующим",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "یہ چاہتے ہیں کہ خدا کے (چراغ) کی روشنی کو منہ سے (پھونک مار کر) بجھا دیں۔ حالانکہ خدا اپنی روشنی کو پورا کرکے رہے گا خواہ کافر ناخوش ہی ہوں",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_061_009",
+      "reference": {
+        "surah_number": 61,
+        "surah_name": "As-Saff",
+        "surah_name_ar": "سُوْرَةُ الصَّفِّ",
+        "surah_name_translation": "The Ranks",
+        "ayah_number": 9,
+        "juz": 28,
+        "revelation_type": "Madina"
+      },
+      "arabic_word_count": 14,
+      "translations": {
+        "ar": {
+          "text": "هُوَ ٱلَّذِيٓ أَرۡسَلَ رَسُولَهُۥ بِٱلۡهُدَىٰ وَدِينِ ٱلۡحَقِّ لِيُظۡهِرَهُۥ عَلَى ٱلدِّينِ كُلِّهِۦ وَلَوۡ كَرِهَ ٱلۡمُشۡرِكُونَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "He is the One Who has sent His Messenger with ˹true˺ guidance and the religion of truth, making it prevail over all others, even to the dismay of the polytheists",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "他曾以正道和真教的使命委托他的使者，以便他使真教胜过一切宗教，即使以物配主的人不愿意。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "वही है जिसने अपने रसूल को मार्गदर्शन और सत्यधर्म के साथ भेजा, ताकि उसे पूरे के पूरे धर्म पर प्रभुत्व प्रदान कर दे, यद्यपि बहुदेवादियों को अप्रिय ही लगे",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Él es Quien ha enviado a Su Mensajero con la Guía y la religión verdadera para que prevalezca sobre todas las religiones, aunque ello disguste a los idólatras",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "C'est Lui qui a envoyé Son messager avec la guidée et la Religion de Vérité, pour la placer au-dessus de toute autre religion, en dépit de l'aversion des associateurs",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "তিনি তাঁর রসূলকে পথ নির্দেশ ও সত্যধর্ম নিয়ে প্রেরণ করেছেন, যাতে একে সবধর্মের উপর প্রবল করে দেন যদিও মুশরিকরা তা অপছন্দ করে।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Ele é Quem enviou Seu Mensageiro, com a Orientação e a religião da Verdade, para fazê-la prevalecer sobre todas as religiões, ainda que o odeiem os idólatras",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Он - Тот, Кто отправил Своего Посланника с верным руководством и религией истины, чтобы превознести ее над всеми остальными религиями, даже если это ненавистно многобожникам",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "وہی تو ہے جس نے اپنے پیغمبر کو ہدایت اور دین حق دے کر بھیجا تاکہ اسے اور سب دینوں پر غالب کرے خواہ مشرکوں کو برا ہی لگے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_061_010",
+      "reference": {
+        "surah_number": 61,
+        "surah_name": "As-Saff",
+        "surah_name_ar": "سُوْرَةُ الصَّفِّ",
+        "surah_name_translation": "The Ranks",
+        "ayah_number": 10,
+        "juz": 28,
+        "revelation_type": "Madina"
+      },
+      "arabic_word_count": 11,
+      "translations": {
+        "ar": {
+          "text": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُواْ هَلۡ أَدُلُّكُمۡ عَلَىٰ تِجَٰرَةࣲ تُنجِيكُم مِّنۡ عَذَابٍ أَلِيمࣲ‏",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "O believers! Shall I guide you to an exchange that will save you from a painful punishment",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "信道的人们啊！我将指示你们一种生意，它能拯救你们脱离痛苦的刑罚，好吗？",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "ऐ ईमान लानेवालो! क्या मैं तुम्हें एक ऐसा व्यापार बताऊँ जो तुम्हें दुखद यातना से बचा ले",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "¡Creyentes! ¿Quieren que les enseñe un negocio que los salvará del castigo doloroso",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "O vous qui avez cru! vous indiquerai-je un commerce qui vous sauvera d'un châtiment douloureux",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "মুমিনগণ, আমি কি তোমাদেরকে এমন এক বানিজ্যের সন্ধান দিব, যা তোমাদেরকে যন্ত্রণাদায়ক শাস্তি থেকে মুক্তি দেবে?",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Ó vós que credes! Indicar-vos-ei um comércio, que vos salvará de doloroso castigo",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "О те, которые уверовали! Указать ли вам на торговлю, которая спасет вас от мучительных страданий",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "مومنو! میں تم کو ایسی تجارت بتاؤں جو تمہیں عذاب الیم سے مخلصی دے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_061_011",
+      "reference": {
+        "surah_number": 61,
+        "surah_name": "As-Saff",
+        "surah_name_ar": "سُوْرَةُ الصَّفِّ",
+        "surah_name_translation": "The Ranks",
+        "ayah_number": 11,
+        "juz": 28,
+        "revelation_type": "Madina"
+      },
+      "arabic_word_count": 15,
+      "translations": {
+        "ar": {
+          "text": "تُؤۡمِنُونَ بِٱللَّهِ وَرَسُولِهِۦ وَتُجَٰهِدُونَ فِي سَبِيلِ ٱللَّهِ بِأَمۡوَٰلِكُمۡ وَأَنفُسِكُمۡۚ ذَٰلِكُمۡ خَيۡرࣱ لَّكُمۡ إِن كُنتُمۡ تَعۡلَمُونَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "˹It is to˺ have faith in Allah and His Messenger, and strive in the cause of Allah with your wealth and your lives. That is best for you, if only you knew",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "你们信仰真主和使者，你们以自己的财产和生命，为真主而奋斗，那对於你们是更好的，如果你们知道。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "तुम्हें ईमान लाना है अल्लाह और उसके रसूल पर, और जिहाद करना है अल्लाह के मार्ग में अपने मालों और अपनी जानों से। यही तुम्हारे लिए उत्तम है, यदि तुम जानो",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "[Este buen negocio es que] crean en Dios y en Su Mensajero, contribuyan por la causa de Dios con sus bienes y sus seres, pues ello es lo mejor para ustedes. ¡Si supieran",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Vous croyez en Allah et en Son messager et vous combattez avec vos biens et vos personnes dans le chemin d'Allah, et cela vous est bien meilleur, si vous saviez",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "তা এই যে, তোমরা আল্লাহ ও তাঁর রসূলের প্রতি বিশ্বাস স্থাপন করবে এবং আল্লাহর পথে নিজেদের ধন-সম্পদ ও জীবনপণ করে জেহাদ করবে। এটাই তোমাদের জন্যে উত্তম; যদি তোমরা বোঝ।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Crerdes em Allah e em Seu Mensageiro, e lutardes no caminho de Allah com vossas riquezas e com vós mesmos. Isso vos é melhor. Se soubésseis",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Веруйте в Аллаха и Его Посланника и сражайтесь на пути Аллаха своим имуществом и своими душами. Так будет лучше для вас, если бы вы только знали",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "(وہ یہ کہ) خدا پر اور اس کے رسولﷺ پر ایمان لاؤ اور خدا کی راہ میں اپنے مال اور جان سے جہاد کرو۔ اگر سمجھو تو یہ تمہارے حق میں بہتر ہے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_061_012",
+      "reference": {
+        "surah_number": 61,
+        "surah_name": "As-Saff",
+        "surah_name_ar": "سُوْرَةُ الصَّفِّ",
+        "surah_name_translation": "The Ranks",
+        "ayah_number": 12,
+        "juz": 28,
+        "revelation_type": "Madina"
+      },
+      "arabic_word_count": 17,
+      "translations": {
+        "ar": {
+          "text": "يَغۡفِرۡ لَكُمۡ ذُنُوبَكُمۡ وَيُدۡخِلۡكُمۡ جَنَّٰتࣲ تَجۡرِي مِن تَحۡتِهَا ٱلۡأَنۡهَٰرُ وَمَسَٰكِنَ طَيِّبَةࣰ فِي جَنَّٰتِ عَدۡنࣲۚ ذَٰلِكَ ٱلۡفَوۡزُ ٱلۡعَظِيمُ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "He will forgive your sins, and admit you into Gardens under which rivers flow, and ˹house you in˺ splendid homes in the Gardens of Eternity. That is the ultimate triumph",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "他将赦宥你们的罪过，并且使你们入下临诸河的乐园和常住的乐园中的许多优美的住宅，那确是伟大的成功。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "वह तुम्हारे गुनाहों को क्षमा कर देगा और तुम्हें ऐसे बागों में दाखिल करेगा जिनके नीचे नहरें बह रही होगी और उन अच्छे घरों में भी जो सदाबहार बाग़ों में होंगे। यही बड़ी सफलता है",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "[Si hacen esto, Dios] perdonará sus pecados y los ingresará en jardines por donde corren ríos, donde habitarán en hermosas moradas en los jardines del Edén. ¡Ese es, sin duda, el éxito grandioso",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Il vous pardonnera vos péchés et vous fera entrer dans des Jardins sous lesquels coulent les ruisseaux, et dans des demeures agréables dans les jardins d'Eden. Voilà l'énorme succès",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "তিনি তোমাদের পাপরাশি ক্ষমা করবেন এবং এমন জান্নাতে দাখিল করবেন, যার পাদদেশে নদী প্রবাহিত এবং বসবাসের জান্নাতে উত্তম বাসগৃহে। এটা মহাসাফল্য।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Se o fizerdes, Ele vos perdoará os delitos e vos fará entrar em Jardins, abaixo dos quais correm os rios, e em esplêndidas vivendas, nos Jardins do Éden. - Isso é o magnífico triunfo",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Он простит вам ваши грехи, введет вас в Райские сады, в которых текут реки, и в прекрасные жилища в садах Эдема. Это - великое преуспеяние",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "وہ تمہارے گناہ بخش دے گا اور تم کو باغہائے جنت میں جن میں نہریں بہہ رہیں ہیں اور پاکیزہ مکانات میں جو بہشت ہائے جاودانی میں (تیار) ہیں داخل کرے گا۔ یہ بڑی کامیابی ہے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_061_013",
+      "reference": {
+        "surah_number": 61,
+        "surah_name": "As-Saff",
+        "surah_name_ar": "سُوْرَةُ الصَّفِّ",
+        "surah_name_translation": "The Ranks",
+        "ayah_number": 13,
+        "juz": 28,
+        "revelation_type": "Madina"
+      },
+      "arabic_word_count": 9,
+      "translations": {
+        "ar": {
+          "text": "وَأُخۡرَىٰ تُحِبُّونَهَاۖ نَصۡرࣱ مِّنَ ٱللَّهِ وَفَتۡحࣱ قَرِيبࣱۗ وَبَشِّرِ ٱلۡمُؤۡمِنِينَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "˹He will also give you˺ another favour that you long for: help from Allah and an imminent victory. ˹So˺ give good news ˹O Prophet˺ to the believers",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "他将赏赐你们另一种为你们所爱好的恩典--从真主降下的援助，和临近的胜利。你向信士们报喜吧。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "और दूसरी चीज़ भी जो तुम्हें प्रिय है (प्रदान करेगा), \"अल्लाह की ओर से सहायता और निकट प्राप्त होनेवाली विजय,\" ईमानवालों को शुभसूचना दे दो",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "También les dará algo que aman: \"Su auxilio y una pronta victoria\". Albricia a los creyentes [con la recompensa que recibirán en esta vida y en la otra]",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "et Il vous accordera d'autres choses encore que vous aimez bien: un secours [venant] d'Allah et une victoire prochaine. Et annonce la bonne nouvelle aux croyants",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "এবং আরও একটি অনুগ্রহ দিবেন, যা তোমরা পছন্দ কর। আল্লাহর পক্ষ থেকে সাহায্য এবং আসন্ন বিজয়। মুমিনদেরকে এর সুসংবাদ দান করুন।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E conceder-vos-á outra graça, que amais: socorro de Allah e vitória próxima. E alvissara-o aos crentes",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Будет еще то, что вы любите: помощь от Аллаха и близкая победа. Сообщи же благую весть верующим",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور ایک اور چیز جس کو تم بہت چاہتے ہو (یعنی تمہیں) خدا کی طرف سے مدد (نصیب ہوگی) اور فتح عنقریب ہوگی اور مومنوں کو (اس کی) خوشخبری سنا دو",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_061_014",
+      "reference": {
+        "surah_number": 61,
+        "surah_name": "As-Saff",
+        "surah_name_ar": "سُوْرَةُ الصَّفِّ",
+        "surah_name_translation": "The Ranks",
+        "ayah_number": 14,
+        "juz": 28,
+        "revelation_type": "Madina"
+      },
+      "arabic_word_count": 35,
+      "translations": {
+        "ar": {
+          "text": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُواْ كُونُوٓاْ أَنصَارَ ٱللَّهِ كَمَا قَالَ عِيسَى ٱبۡنُ مَرۡيَمَ لِلۡحَوَارِيِّـۧنَ مَنۡ أَنصَارِيٓ إِلَى ٱللَّهِۖ قَالَ ٱلۡحَوَارِيُّونَ نَحۡنُ أَنصَارُ ٱللَّهِۖ فَـَٔامَنَت طَّآئِفَةࣱ مِّنۢ بَنِيٓ إِسۡرَٰٓءِيلَ وَكَفَرَت طَّآئِفَةࣱۖ فَأَيَّدۡنَا ٱلَّذِينَ ءَامَنُواْ عَلَىٰ عَدُوِّهِمۡ فَأَصۡبَحُواْ ظَٰهِرِينَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "O believers! Stand up for Allah, as Jesus, son of Mary, asked the disciples, “Who will stand up with me for Allah?” The disciples replied, “We will stand up for Allah.” Then a group from the Children of Israel believed while another disbelieved. We then supported the believers against their enemies, so they prevailed",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "信道的人们啊！你们应当做协助真主的人，犹如麦尔彦之子尔撒对他的门徒所说的：谁是与我共同协助真主的？那些门徒说：我们是协助真主的。以色列的後裔中，有一派人已经信道，有一派人并不信道。我扶助信道的人们对抗他们的敌人，故他们变成优胜的。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "ऐ ईमान लानेवालों! अल्लाह के सहायक बनो, जैसा कि मरयम के बेटे ईसा ने हवारियों (साथियों) से कहा था, \"कौन है अल्लाह की ओर (बुलाने में) मेरे सहायक?\" हवारियों ने कहा, \"हम है अल्लाह के सहायक।\" फिर इसराईल की संतान में से एक गिरोह ईमान ले आया और एक गिरोह न इनकार किया। अतः हमने उन लोगों को, जो ईमान लाए थे, उनके अपने शत्रुओं के मुकाबले में शक्ति प्रदान की, तो वे छाकर रहे",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "¡Creyentes! Socorran [la religión de] Dios como lo hicieron los discípulos de Jesús, el hijo de María, cuando les dijo: \"¿Quiénes me socorrerán en la causa de Dios?\" Los discípulos respondieron: \"Seremos los socorredores de [la religión de] Dios\". Pero un grupo de los Hijos de Israel creyó [en la profecía de Jesús] y otro grupo rechazó su Mensaje. Entonces di Mi apoyo a los creyentes y así vencieron a sus enemigos",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "O vous qui avez cru! Soyez les alliés d'Allah, à l'instar de ce que Jésus fils de Marie a dit aux apôtres: «Qui sont mes alliés (pour la cause) d'Allah?» - Les apôtres dirent: «Nous sommes les alliés d'Allah». Un groupe des Enfants d'Israël crut, tandis qu'un groupe nia. Nous aidâmes donc ceux qui crurent contre leur ennemi, et ils triomphèrent",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "মুমিনগণ, তোমরা আল্লাহর সাহায্যকারী হয়ে যাও, যেমন ঈসা ইবনে-মরিয়ম তার শিষ্যবর্গকে বলেছিল, আল্লাহর পথে কে আমার সাহায্যকারী হবে? শিষ্যবর্গ বলেছিলঃ আমরা আল্লাহর পথে সাহায্যকারী। অতঃপর বনী-ইসরাঈলের একদল বিশ্বাস স্থাপন করল এবং একদল কাফের হয়ে গেল। যারা বিশ্বাস স্থাপন করেছিল, আমি তাদেরকে তাদের শত্রুদের মোকাবেলায় শক্তি যোগালাম, ফলে তারা বিজয়ী হল।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Ó vós que credes! Sede aliados a Allah, da mesma maneira como Jesus, filho de Maria, disse aos discípulos: \"Quem são meus aliados à causa de Allah\". Os discípulos disseram: \"Nós somos os aliados a Allah\". Então, uma facção dos filhos de Israel creu, e uma facção renegou a Fé. Amparamos, pois, os que creram contra seus inimigos, e foram prevalecentes",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "О те, которые уверовали! Будьте помощниками Аллаха. Иса (Иисус), сын Марьям (Марии), сказал апостолам: «Кто будет моим помощником на пути к Аллаху?». Апостолы ответили: «Мы - помощники Аллаха». Часть сынов Исраила (Израиля) уверовала, а другая часть не уверовала. Мы поддержали тех, которые уверовали, в борьбе с их врагами, и они вышли победителями",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "مومنو! خدا کے مددگار بن جاؤ جیسے عیسیٰ ابن مریم نے حواریوں سے کہا کہ بھلا کون ہیں جو خدا کی طرف (بلانے میں) میرے مددگار ہوں۔ حواریوں نے کہا کہ ہم خدا کے مددگار ہیں۔ تو بنی اسرائیل میں سے ایک گروہ تو ایمان لے آیا اور ایک گروہ کافر رہا۔ آخر الامر ہم نے ایمان لانے والوں کو ان کے دشمنوں کے مقابلے میں مدد دی اور وہ غالب ہوگئے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    }
+  ]
+}

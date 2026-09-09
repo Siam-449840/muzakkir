@@ -1,0 +1,36 @@
+{
+  "book_key": "40-hadith",
+  "raw_key": "40-hadith",
+  "id": 15,
+  "title_bn": "৪০ হাদিস",
+  "title_en": "40 Hadith",
+  "title_ar": "الأربعينات",
+  "total_hadiths": 42,
+  "total_chapters": 1,
+  "total_sections": 1,
+  "chapters": [
+    {
+      "id": 1,
+      "display_label": "১",
+      "title": "৪০ হাদিস",
+      "arabic_title": "",
+      "preface": "",
+      "range": "১ - ৪২",
+      "order": 1,
+      "hadith_count": 42,
+      "sections_count": 1,
+      "sections": [
+        {
+          "id": 1,
+          "chapter_id": 1,
+          "display_label": "১/১. অধ্যায়ঃ",
+          "title": "৪০ হাদিস",
+          "arabic_title": "",
+          "preface": "",
+          "order": 1,
+          "hadith_count": 42
+        }
+      ]
+    }
+  ]
+}

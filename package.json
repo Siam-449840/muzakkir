@@ -1,0 +1,49 @@
+{
+  "name": "islamic-daily-reminder",
+  "version": "1.0.0",
+  "main": "node_modules/expo/AppEntry.js",
+  "scripts": {
+    "start": "expo start",
+    "android": "expo run:android",
+    "ios": "expo run:ios",
+    "web": "expo start --web",
+    "test": "jest",
+    "ingest": "python3 scripts/ingest_to_sqlite.py && python3 scripts/export_app_metadata.py && python3 scripts/generate_compact_index.py",
+    "ingest:hadeethenc": "python3 scripts/ingest_hadeethenc.py",
+    "ingest:hadeethenc:resume": "python3 scripts/ingest_hadeethenc.py --resume",
+    "ingest:hadeethenc:sample": "python3 scripts/ingest_hadeethenc.py --sample-run",
+    "ingest:hadeethenc:db": "python3 scripts/ingest_hadeethenc_to_db.py",
+    "filter:sahih": "python3 scripts/filter_sahih_pool.py",
+    "ingest:all": "npm run ingest && npm run ingest:hadeethenc && npm run ingest:hadeethenc:db && npm run filter:sahih",
+    "audit:multilingual": "python3 scripts/audit_multilingual_db.py",
+    "verify:multilingual": "npm run ingest:hadeethenc:db && npm run filter:sahih && npm run audit:multilingual && npm test -- --forceExit && npx tsc --noEmit"
+  },
+  "dependencies": {
+    "@react-native-async-storage/async-storage": "1.23.1",
+    "@react-navigation/bottom-tabs": "^6.6.1",
+    "@react-navigation/native": "^6.1.18",
+    "@react-navigation/native-stack": "^6.10.1",
+    "expo": "~51.0.28",
+    "expo-av": "~14.0.5",
+    "expo-constants": "~16.0.2",
+    "expo-notifications": "~0.28.19",
+    "expo-splash-screen": "~0.27.6",
+    "expo-status-bar": "~1.12.1",
+    "lucide-react-native": "^0.395.0",
+    "react": "18.2.0",
+    "react-native": "0.74.5",
+    "react-native-gesture-handler": "~2.16.1",
+    "react-native-safe-area-context": "4.10.5",
+    "react-native-screens": "~3.31.1",
+    "react-native-svg": "15.2.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.24.0",
+    "@types/jest": "^29.5.12",
+    "@types/react": "~18.2.79",
+    "jest": "^29.7.0",
+    "ts-jest": "^29.1.5",
+    "typescript": "~5.3.3"
+  },
+  "private": true
+}

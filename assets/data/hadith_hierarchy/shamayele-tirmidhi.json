@@ -1,0 +1,3021 @@
+{
+  "book_key": "shamayele-tirmidhi",
+  "raw_key": "shamayele-tirmidhi",
+  "id": 21,
+  "title_bn": "শামায়েলে তিরমিযি",
+  "title_en": "Shamayil at-Tirmidhi",
+  "title_ar": "شمايل الترمذي",
+  "total_hadiths": 322,
+  "total_chapters": 56,
+  "total_sections": 228,
+  "chapters": [
+    {
+      "id": 1,
+      "display_label": "১",
+      "title": "রাসূলুল্লাহ (সাঃ) এর দৈহিক গঠন",
+      "arabic_title": "",
+      "preface": "",
+      "range": "১ - ১১",
+      "order": 1,
+      "hadith_count": 11,
+      "sections_count": 10,
+      "sections": [
+        {
+          "id": 1,
+          "chapter_id": 1,
+          "display_label": "১/১. অধ্যায়ঃ",
+          "title": "রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বেশী দীর্ঘ ছিলেন না, আবার বেশী খাটোও ছিলেন না",
+          "arabic_title": "",
+          "preface": "",
+          "order": 1,
+          "hadith_count": 1
+        },
+        {
+          "id": 2,
+          "chapter_id": 1,
+          "display_label": "১/২. অধ্যায়ঃ",
+          "title": "তিনি ছিলেন গৌরবর্ণের",
+          "arabic_title": "",
+          "preface": "",
+          "order": 2,
+          "hadith_count": 1
+        },
+        {
+          "id": 3,
+          "chapter_id": 1,
+          "display_label": "১/৩. অধ্যায়ঃ",
+          "title": "তিনি ছিলেন মধ্যমাকৃতির",
+          "arabic_title": "",
+          "preface": "",
+          "order": 3,
+          "hadith_count": 1
+        },
+        {
+          "id": 4,
+          "chapter_id": 1,
+          "display_label": "১/৪. অধ্যায়ঃ",
+          "title": "তাঁর দু’কাঁধের মধ্যবর্তী স্থান প্রশস্ত ছিল",
+          "arabic_title": "",
+          "preface": "",
+          "order": 4,
+          "hadith_count": 1
+        },
+        {
+          "id": 5,
+          "chapter_id": 1,
+          "display_label": "১/৫. অধ্যায়ঃ",
+          "title": "তাঁর হস্তদ্বয় ও পদদ্বয়ের তালু এবং আঙ্গুলসমূহ ছিল মাংসল",
+          "arabic_title": "",
+          "preface": "",
+          "order": 5,
+          "hadith_count": 1
+        },
+        {
+          "id": 6,
+          "chapter_id": 1,
+          "display_label": "১/৬. অধ্যায়ঃ",
+          "title": "তিনি ছিলেন প্রশস্ত মুখ, ডাগর চক্ষু এবং সরু গোড়ালি বিশিষ্ট",
+          "arabic_title": "",
+          "preface": "",
+          "order": 6,
+          "hadith_count": 1
+        },
+        {
+          "id": 7,
+          "chapter_id": 1,
+          "display_label": "১/৭. অধ্যায়ঃ",
+          "title": "তিনি ছিলেন পূর্ণিমার চাঁদের চেয়েও চমৎকার",
+          "arabic_title": "",
+          "preface": "",
+          "order": 7,
+          "hadith_count": 2
+        },
+        {
+          "id": 8,
+          "chapter_id": 1,
+          "display_label": "১/৮. অধ্যায়ঃ",
+          "title": "তাঁর শুভ্রতা ছিল রৌপ্যের ন্যায়",
+          "arabic_title": "",
+          "preface": "",
+          "order": 8,
+          "hadith_count": 1
+        },
+        {
+          "id": 9,
+          "chapter_id": 1,
+          "display_label": "১/৯. অধ্যায়ঃ",
+          "title": "তিনি ছিলেন ইবরাহীম (আঃ) এর সাথে সাদৃশ্যপূর্ণ",
+          "arabic_title": "",
+          "preface": "",
+          "order": 9,
+          "hadith_count": 1
+        },
+        {
+          "id": 10,
+          "chapter_id": 1,
+          "display_label": "১/১০. অধ্যায়ঃ",
+          "title": "তিনি ছিলেন শুভ্রকায় ও লাবণ্যময়",
+          "arabic_title": "",
+          "preface": "",
+          "order": 10,
+          "hadith_count": 1
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "display_label": "২",
+      "title": "রাসুলুল্লাহ (সাঃ) এর মোহরে নবুওয়াত",
+      "arabic_title": "",
+      "preface": "",
+      "range": "১২ - ১৮",
+      "order": 2,
+      "hadith_count": 7,
+      "sections_count": 6,
+      "sections": [
+        {
+          "id": 11,
+          "chapter_id": 2,
+          "display_label": "২/১. অধ্যায়ঃ",
+          "title": "নবী (সাল্লাল্লাহু ‘আলাইহি ওয়া সাল্লাম) এর দু’কাঁধের মধ্যভাগে মোহরে নবুওয়াত ছিল",
+          "arabic_title": "",
+          "preface": "خاتم অর্থ- আংটি, মোহর, সীল। মোহরে নবুওয়াত হলো রাসূলুল্লাহ (সাল্লাল্লাহু ‘আলাইহি ওয়া সাল্লাম) এর দু’কাঁধের মাঝামাঝি স্থানে অবস্থিত একটি গোশতের টুকরা। এটি ছিল রাসূলুল্লাহ (সাল্লাল্লাহু ‘আলাইহি ওয়া সাল্লাম) এর নবুওয়াতের নিদর্শন; আর এ নিদর্শনের কথা পূর্ববর্তী আসমানী কিতাবসমূহেও বর্ণিত ছিল।",
+          "order": 11,
+          "hadith_count": 1
+        },
+        {
+          "id": 12,
+          "chapter_id": 2,
+          "display_label": "২/২. অধ্যায়ঃ",
+          "title": "তা ছিল ডিমের ন্যায় লাল গোশতপিণ্ড",
+          "arabic_title": "",
+          "preface": "",
+          "order": 12,
+          "hadith_count": 2
+        },
+        {
+          "id": 13,
+          "chapter_id": 2,
+          "display_label": "২/৩. অধ্যায়ঃ",
+          "title": "সেটি ছিল এক গুচ্ছ কেশের মত",
+          "arabic_title": "",
+          "preface": "",
+          "order": 13,
+          "hadith_count": 1
+        },
+        {
+          "id": 14,
+          "chapter_id": 2,
+          "display_label": "২/৪. অধ্যায়ঃ",
+          "title": "সালমান ফারসি (রাঃ) মোহরে নবুওয়াত দেখে ঈমান এনেছিলেন",
+          "arabic_title": "",
+          "preface": "",
+          "order": 14,
+          "hadith_count": 1
+        },
+        {
+          "id": 15,
+          "chapter_id": 2,
+          "display_label": "২/৫. অধ্যায়ঃ",
+          "title": "এটি ছিল এক টুকরো বাড়তি গোশত",
+          "arabic_title": "",
+          "preface": "",
+          "order": 15,
+          "hadith_count": 1
+        },
+        {
+          "id": 16,
+          "chapter_id": 2,
+          "display_label": "২/৬. অধ্যায়ঃ",
+          "title": "এটি ছিল মুষ্টিবদ্ধ আঙ্গুলীর ন্যায়, আর এর চারপার্শ্বে আচিলের মতো কতগুলো তিলক ছিল",
+          "arabic_title": "",
+          "preface": "",
+          "order": 16,
+          "hadith_count": 1
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "display_label": "৩",
+      "title": "রাসূলুল্লাহ (সাঃ) এর চুল",
+      "arabic_title": "",
+      "preface": "",
+      "range": "১৯ - ২৬",
+      "order": 3,
+      "hadith_count": 8,
+      "sections_count": 4,
+      "sections": [
+        {
+          "id": 17,
+          "chapter_id": 3,
+          "display_label": "৩/১. অধ্যায়ঃ",
+          "title": "রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর মাথার চুল দু’কানের মধ্যভাগ পর্যন্ত লম্বা ছিল",
+          "arabic_title": "",
+          "preface": "",
+          "order": 17,
+          "hadith_count": 3
+        },
+        {
+          "id": 18,
+          "chapter_id": 3,
+          "display_label": "৩/২. অধ্যায়ঃ",
+          "title": "তাঁর চুল সামান্য কোঁকড়ানো ছিল",
+          "arabic_title": "",
+          "preface": "",
+          "order": 18,
+          "hadith_count": 1
+        },
+        {
+          "id": 19,
+          "chapter_id": 3,
+          "display_label": "৩/৩. অধ্যায়ঃ",
+          "title": "তিনি চুলের মধ্যে বেণী বাঁধতেন",
+          "arabic_title": "",
+          "preface": "",
+          "order": 19,
+          "hadith_count": 2
+        },
+        {
+          "id": 20,
+          "chapter_id": 3,
+          "display_label": "৩/৪. অধ্যায়ঃ",
+          "title": "রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম চুলের মধ্যে সিঁথি করতেন",
+          "arabic_title": "",
+          "preface": "",
+          "order": 20,
+          "hadith_count": 2
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "display_label": "৪",
+      "title": "রাসূলুল্লাহ (সাঃ) এর মাথার চুল বিন্যাস করা",
+      "arabic_title": "",
+      "preface": "",
+      "range": "২৭ - ২৯",
+      "order": 4,
+      "hadith_count": 3,
+      "sections_count": 3,
+      "sections": [
+        {
+          "id": 21,
+          "chapter_id": 4,
+          "display_label": "৪/১. অধ্যায়ঃ",
+          "title": "রাসূলুল্লাহ ও মাথার কেশ পরিপটি করতেন",
+          "arabic_title": "",
+          "preface": "",
+          "order": 21,
+          "hadith_count": 1
+        },
+        {
+          "id": 22,
+          "chapter_id": 4,
+          "display_label": "৪/২. অধ্যায়ঃ",
+          "title": "তিনি ডান দিক থেকে কেশ বিন্যাস করতেন",
+          "arabic_title": "",
+          "preface": "",
+          "order": 22,
+          "hadith_count": 1
+        },
+        {
+          "id": 23,
+          "chapter_id": 4,
+          "display_label": "৪/৩. অধ্যায়ঃ",
+          "title": "তিনি প্রত্যহ কেশ বিন্যাস করতে নিষেধ করেছেন",
+          "arabic_title": "",
+          "preface": "",
+          "order": 23,
+          "hadith_count": 1
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "display_label": "৫",
+      "title": "রাসূলুল্লাহ (সাঃ) এর বার্ধক্য (চুল সাদা হওয়া)",
+      "arabic_title": "",
+      "preface": "",
+      "range": "৩০ - ৩৭",
+      "order": 5,
+      "hadith_count": 8,
+      "sections_count": 5,
+      "sections": [
+        {
+          "id": 24,
+          "chapter_id": 5,
+          "display_label": "৫/১. অধ্যায়ঃ",
+          "title": "রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর চোখ ও দুকানের মধ্যবর্তী অংশের কিছু চুল সাদা হয়েছিল:",
+          "arabic_title": "",
+          "preface": "",
+          "order": 24,
+          "hadith_count": 1
+        },
+        {
+          "id": 25,
+          "chapter_id": 5,
+          "display_label": "৫/২. অধ্যায়ঃ",
+          "title": "তাঁর মাথা ও দাড়িতে মাত্র ১৪টি সাদা চুল ছিল",
+          "arabic_title": "",
+          "preface": "",
+          "order": 25,
+          "hadith_count": 3
+        },
+        {
+          "id": 26,
+          "chapter_id": 5,
+          "display_label": "৫/৩. অধ্যায়ঃ",
+          "title": "কয়েকটি সূরার প্রভাবে রাসূলুল্লাহ (সাঃ) এর চুল সাদা হয়ে গিয়েছিল",
+          "arabic_title": "",
+          "preface": "",
+          "order": 26,
+          "hadith_count": 2
+        },
+        {
+          "id": 27,
+          "chapter_id": 5,
+          "display_label": "৫/৪. অধ্যায়ঃ",
+          "title": "তাঁর চুল সাদা হলেও লাল মনে হতো",
+          "arabic_title": "",
+          "preface": "",
+          "order": 27,
+          "hadith_count": 1
+        },
+        {
+          "id": 28,
+          "chapter_id": 5,
+          "display_label": "৫/৫. অধ্যায়ঃ",
+          "title": "রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর সিঁথি কাটার স্থানে কয়েকটি চুল সাদা ছিল",
+          "arabic_title": "",
+          "preface": "",
+          "order": 28,
+          "hadith_count": 1
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "display_label": "৬",
+      "title": "রাসূলুল্লাহ (সাঃ) এর খিযাব লাগানো",
+      "arabic_title": "",
+      "preface": "",
+      "range": "৩৮ - ৪০",
+      "order": 6,
+      "hadith_count": 3,
+      "sections_count": 1,
+      "sections": [
+        {
+          "id": 29,
+          "chapter_id": 6,
+          "display_label": "৬/১. অধ্যায়ঃ",
+          "title": "রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম খিযাব ব্যবহার করতেন",
+          "arabic_title": "",
+          "preface": "",
+          "order": 29,
+          "hadith_count": 3
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "display_label": "৭",
+      "title": "রাসূলুল্লাহ (সাঃ) এর সুরমা ব্যবহার",
+      "arabic_title": "",
+      "preface": "",
+      "range": "৪১ - ৪৩",
+      "order": 7,
+      "hadith_count": 3,
+      "sections_count": 2,
+      "sections": [
+        {
+          "id": 30,
+          "chapter_id": 7,
+          "display_label": "৭/১. অধ্যায়ঃ",
+          "title": "রাসূলুল্লাহ (সাঃ) প্রত্যেক রাতে উভয় চোখে তিনবার করে সুরমা লাগাতেন",
+          "arabic_title": "",
+          "preface": "",
+          "order": 30,
+          "hadith_count": 1
+        },
+        {
+          "id": 31,
+          "chapter_id": 7,
+          "display_label": "৭/২. অধ্যায়ঃ",
+          "title": "তিনি সাহাবীদেরকে ইছমিদ সুরমা ব্যবহারের জন্য উপদেশ দিয়েছেন",
+          "arabic_title": "",
+          "preface": "",
+          "order": 31,
+          "hadith_count": 2
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "display_label": "৮",
+      "title": "রাসূলুল্লাহ (সাঃ)-এর পোশাক-পরিচ্ছদ",
+      "arabic_title": "",
+      "preface": "",
+      "range": "৪৪ - ৫৫",
+      "order": 8,
+      "hadith_count": 12,
+      "sections_count": 9,
+      "sections": [
+        {
+          "id": 32,
+          "chapter_id": 8,
+          "display_label": "৮/১. অধ্যায়ঃ",
+          "title": "রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর প্রিয় পোষাক ছিল কামীস",
+          "arabic_title": "",
+          "preface": "",
+          "order": 32,
+          "hadith_count": 2
+        },
+        {
+          "id": 33,
+          "chapter_id": 8,
+          "display_label": "৮/২. অধ্যায়ঃ",
+          "title": "তিনি ইয়ামেনী নকশী কাপড়ও পরিধান করতেন",
+          "arabic_title": "",
+          "preface": "",
+          "order": 33,
+          "hadith_count": 1
+        },
+        {
+          "id": 34,
+          "chapter_id": 8,
+          "display_label": "৮/৩. অধ্যায়ঃ",
+          "title": "তিনি নতুন কাপড় পরিধানকালে কাপড়ের নাম উচ্চারণ পূর্বক দু’আ পাঠ করতেন",
+          "arabic_title": "",
+          "preface": "",
+          "order": 34,
+          "hadith_count": 1
+        },
+        {
+          "id": 35,
+          "chapter_id": 8,
+          "display_label": "৮/৪. অধ্যায়ঃ",
+          "title": "রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর একটি প্রিয় পোষাক ছিল হিবারা",
+          "arabic_title": "",
+          "preface": "",
+          "order": 35,
+          "hadith_count": 1
+        },
+        {
+          "id": 36,
+          "chapter_id": 8,
+          "display_label": "৮/৫. অধ্যায়ঃ",
+          "title": "তিনি লাল রঙ্গের নকশী করা চাদরও পরিধান করতেন",
+          "arabic_title": "",
+          "preface": "",
+          "order": 36,
+          "hadith_count": 2
+        },
+        {
+          "id": 37,
+          "chapter_id": 8,
+          "display_label": "৮/৬. অধ্যায়ঃ",
+          "title": "তিনি সবুজ চাদরও পরিধান করতেন",
+          "arabic_title": "",
+          "preface": "",
+          "order": 37,
+          "hadith_count": 1
+        },
+        {
+          "id": 38,
+          "chapter_id": 8,
+          "display_label": "৮/৭. অধ্যায়ঃ",
+          "title": "তিনি সাহাবীদেরকে সাদা রঙের কাপড় পরিধান করতে উপদেশ দিয়েছেন",
+          "arabic_title": "",
+          "preface": "",
+          "order": 38,
+          "hadith_count": 2
+        },
+        {
+          "id": 39,
+          "chapter_id": 8,
+          "display_label": "৮/৮. অধ্যায়ঃ",
+          "title": "তিনি কালো রঙের পশমী চাদরও পরিধান করতেন",
+          "arabic_title": "",
+          "preface": "",
+          "order": 39,
+          "hadith_count": 1
+        },
+        {
+          "id": 40,
+          "chapter_id": 8,
+          "display_label": "৮/৯. অধ্যায়ঃ",
+          "title": "তিনি আঁটসাঁট আস্তিন বিশিষ্ট রুমী জুব্বা পরিধান করেছিলেন",
+          "arabic_title": "",
+          "preface": "",
+          "order": 40,
+          "hadith_count": 1
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "display_label": "৯",
+      "title": "রাসূলুল্লাহ (সাঃ) এর জীবন-যাপন",
+      "arabic_title": "",
+      "preface": "",
+      "range": "৫৬ - ৫৭",
+      "order": 9,
+      "hadith_count": 2,
+      "sections_count": 2,
+      "sections": [
+        {
+          "id": 41,
+          "chapter_id": 9,
+          "display_label": "৯/১. অধ্যায়ঃ",
+          "title": "রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম সাধারণ জীবন-যাপন করতেন",
+          "arabic_title": "",
+          "preface": "",
+          "order": 41,
+          "hadith_count": 1
+        },
+        {
+          "id": 42,
+          "chapter_id": 9,
+          "display_label": "৯/২. অধ্যায়ঃ",
+          "title": "তিনি তৃপ্তি সহকারে রুটি এবং গোশত ভক্ষণ করেননি",
+          "arabic_title": "",
+          "preface": "",
+          "order": 42,
+          "hadith_count": 1
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "display_label": "১০",
+      "title": "রাসূলুল্লাহ (সাঃ) এর মোজা ব্যবহার",
+      "arabic_title": "",
+      "preface": "",
+      "range": "৫৮ - ৫৮",
+      "order": 10,
+      "hadith_count": 1,
+      "sections_count": 1,
+      "sections": [
+        {
+          "id": 43,
+          "chapter_id": 10,
+          "display_label": "১০/১. অধ্যায়ঃ",
+          "title": "রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম নাজ্জাশীর হাদিয়াকৃত কালো রঙের মোজা পরিধান করতেন",
+          "arabic_title": "",
+          "preface": "",
+          "order": 43,
+          "hadith_count": 1
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "display_label": "১১",
+      "title": "রাসূলুল্লাহ (সাঃ) এর জুতা",
+      "arabic_title": "",
+      "preface": "",
+      "range": "৫৯ - ৬৮",
+      "order": 11,
+      "hadith_count": 10,
+      "sections_count": 9,
+      "sections": [
+        {
+          "id": 44,
+          "chapter_id": 11,
+          "display_label": "১১/১. অধ্যায়ঃ",
+          "title": "রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর প্রতিটি জুতায় দুটি করে ফিতা ছিল",
+          "arabic_title": "",
+          "preface": "",
+          "order": 44,
+          "hadith_count": 1
+        },
+        {
+          "id": 45,
+          "chapter_id": 11,
+          "display_label": "১১/২. অধ্যায়ঃ",
+          "title": "তাঁর জুতা ছিল চামড়ার",
+          "arabic_title": "",
+          "preface": "",
+          "order": 45,
+          "hadith_count": 1
+        },
+        {
+          "id": 46,
+          "chapter_id": 11,
+          "display_label": "১১/৩. অধ্যায়ঃ",
+          "title": "তিনি এসব জুতা পরে ওযু করতেন",
+          "arabic_title": "",
+          "preface": "",
+          "order": 46,
+          "hadith_count": 1
+        },
+        {
+          "id": 47,
+          "chapter_id": 11,
+          "display_label": "১১/৪. অধ্যায়ঃ",
+          "title": "তাঁর জুতার ফিতা দুটি ছিল চামড়ার",
+          "arabic_title": "",
+          "preface": "",
+          "order": 47,
+          "hadith_count": 1
+        },
+        {
+          "id": 48,
+          "chapter_id": 11,
+          "display_label": "১১/৫. অধ্যায়ঃ",
+          "title": "রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তালিযুক্ত জুতাও পরিধান করতেন",
+          "arabic_title": "",
+          "preface": "",
+          "order": 48,
+          "hadith_count": 1
+        },
+        {
+          "id": 49,
+          "chapter_id": 11,
+          "display_label": "১১/৬. অধ্যায়ঃ",
+          "title": "তিনি এক পায়ে জুতা পরিধান করতে নিষেধ করেছেন",
+          "arabic_title": "",
+          "preface": "",
+          "order": 49,
+          "hadith_count": 2
+        },
+        {
+          "id": 50,
+          "chapter_id": 11,
+          "display_label": "১১/৭. অধ্যায়ঃ",
+          "title": "জুতা পরিধান করা এবং খোলার ব্যাপারে রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর দিক নিদের্শনা",
+          "arabic_title": "",
+          "preface": "",
+          "order": 50,
+          "hadith_count": 1
+        },
+        {
+          "id": 51,
+          "chapter_id": 11,
+          "display_label": "১১/৮. অধ্যায়ঃ",
+          "title": "রাসুলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ডান দিক থেকে জুতা পরিধান করতেন",
+          "arabic_title": "",
+          "preface": "",
+          "order": 51,
+          "hadith_count": 1
+        },
+        {
+          "id": 52,
+          "chapter_id": 11,
+          "display_label": "১১/৯. অধ্যায়ঃ",
+          "title": "আবু বকর ও উমার (রাঃ) ও রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর ন্যায় জুতা ব্যবহার করতেন",
+          "arabic_title": "",
+          "preface": "",
+          "order": 52,
+          "hadith_count": 1
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "display_label": "১২",
+      "title": "রাসূলুল্লাহ (সাঃ) এর আংটির বিবরণ",
+      "arabic_title": "",
+      "preface": "",
+      "range": "৬৯ - ৭৪",
+      "order": 12,
+      "hadith_count": 6,
+      "sections_count": 5,
+      "sections": [
+        {
+          "id": 53,
+          "chapter_id": 12,
+          "display_label": "১২/১. অধ্যায়ঃ",
+          "title": "রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর আংটিতে আবিসিনীয় পাথর বসানো ছিল",
+          "arabic_title": "",
+          "preface": "",
+          "order": 53,
+          "hadith_count": 1
+        },
+        {
+          "id": 54,
+          "chapter_id": 12,
+          "display_label": "১২/২. অধ্যায়ঃ",
+          "title": "রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর কাছে একটি রৌপ্যের আংটি ছিল",
+          "arabic_title": "",
+          "preface": "",
+          "order": 54,
+          "hadith_count": 1
+        },
+        {
+          "id": 55,
+          "chapter_id": 12,
+          "display_label": "১২/৩. অধ্যায়ঃ",
+          "title": "রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম সীল মারার জন্য আংটিটি তৈরি করেছিলেন",
+          "arabic_title": "",
+          "preface": "",
+          "order": 55,
+          "hadith_count": 1
+        },
+        {
+          "id": 56,
+          "chapter_id": 12,
+          "display_label": "১২/৪. অধ্যায়ঃ",
+          "title": "আংটিটিতে ‘মুহাম্মাদুর রাসূলুল্লাহ’ অংকিত ছিল",
+          "arabic_title": "",
+          "preface": "",
+          "order": 56,
+          "hadith_count": 2
+        },
+        {
+          "id": 57,
+          "chapter_id": 12,
+          "display_label": "১২/৫. অধ্যায়ঃ",
+          "title": "আংটিটি পর্যায়ক্রমে খলীফাগণ ব্যবহার করেন এবং উসমান (রাঃ) এর হাত থেকে তা একটি কূপে পড়ে যায়",
+          "arabic_title": "",
+          "preface": "",
+          "order": 57,
+          "hadith_count": 1
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "display_label": "১৩",
+      "title": "নবী (সাঃ) ডান হাতে আংটি পরিধান করতেন",
+      "arabic_title": "",
+      "preface": "",
+      "range": "৭৫ - ৮০",
+      "order": 13,
+      "hadith_count": 6,
+      "sections_count": 5,
+      "sections": [
+        {
+          "id": 58,
+          "chapter_id": 13,
+          "display_label": "১৩/১. অধ্যায়ঃ",
+          "title": "নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ডান হাতে আংটি পরিধান করতেন",
+          "arabic_title": "",
+          "preface": "",
+          "order": 58,
+          "hadith_count": 1
+        },
+        {
+          "id": 59,
+          "chapter_id": 13,
+          "display_label": "১৩/২. অধ্যায়ঃ",
+          "title": "সাহাবীগণও তাঁর অনুসরণে ডান হাতে আংটি পরিধান করতেন",
+          "arabic_title": "",
+          "preface": "",
+          "order": 59,
+          "hadith_count": 2
+        },
+        {
+          "id": 60,
+          "chapter_id": 13,
+          "display_label": "১৩/৩. অধ্যায়ঃ",
+          "title": "রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর আংটির পাথরটি হাতের তালুর দিকে সন্নিহিত করে রাখতেন",
+          "arabic_title": "",
+          "preface": "",
+          "order": 60,
+          "hadith_count": 1
+        },
+        {
+          "id": 61,
+          "chapter_id": 13,
+          "display_label": "১৩/৪. অধ্যায়ঃ",
+          "title": "হাসান ও হুসাইন (রাঃ) বাম হাতে আংটি পরিধান করতেন",
+          "arabic_title": "",
+          "preface": "",
+          "order": 61,
+          "hadith_count": 1
+        },
+        {
+          "id": 62,
+          "chapter_id": 13,
+          "display_label": "১৩/৫. অধ্যায়ঃ",
+          "title": "স্বর্ণের আংটি ব্যবহার করা যাবে না",
+          "arabic_title": "",
+          "preface": "",
+          "order": 62,
+          "hadith_count": 1
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "display_label": "১৪",
+      "title": "রাসূলুল্লাহ (সাঃ) এর তরবারির বিবরণ",
+      "arabic_title": "",
+      "preface": "",
+      "range": "৮১ - ৮১",
+      "order": 14,
+      "hadith_count": 1,
+      "sections_count": 1,
+      "sections": [
+        {
+          "id": 63,
+          "chapter_id": 14,
+          "display_label": "১৪/১. অধ্যায়ঃ",
+          "title": "রাসূলুল্লাহ (সাঃ) এর তরবারির বিবরণ",
+          "arabic_title": "",
+          "preface": "",
+          "order": 63,
+          "hadith_count": 1
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "display_label": "১৫",
+      "title": "রাসূলুল্লাহ (সাঃ) এর যুদ্ধের পোশাকের বিবরণ",
+      "arabic_title": "",
+      "preface": "",
+      "range": "৮২ - ৮৩",
+      "order": 15,
+      "hadith_count": 2,
+      "sections_count": 1,
+      "sections": [
+        {
+          "id": 64,
+          "chapter_id": 15,
+          "display_label": "১৫/১. অধ্যায়ঃ",
+          "title": "রাসূলুল্লাহ (সাঃ) এর যুগে যুদ্ধের পোশাক",
+          "arabic_title": "",
+          "preface": "",
+          "order": 64,
+          "hadith_count": 2
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "display_label": "১৬",
+      "title": "রাসূলুল্লাহ (সাঃ) এর হেলমেট (শিরস্ত্রাণ) এর বিবরণ",
+      "arabic_title": "",
+      "preface": "",
+      "range": "৮৪ - ৮৫",
+      "order": 16,
+      "hadith_count": 2,
+      "sections_count": 1,
+      "sections": [
+        {
+          "id": 65,
+          "chapter_id": 16,
+          "display_label": "১৬/১. অধ্যায়ঃ",
+          "title": "রাসূলুল্লাহ (সাঃ) এর হেলমেট (শিরস্ত্রাণ)",
+          "arabic_title": "",
+          "preface": "",
+          "order": 65,
+          "hadith_count": 2
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "display_label": "১৭",
+      "title": "নবী (সাঃ) এর পাগড়ি",
+      "arabic_title": "",
+      "preface": "",
+      "range": "৮৬ - ৮৯",
+      "order": 17,
+      "hadith_count": 4,
+      "sections_count": 4,
+      "sections": [
+        {
+          "id": 66,
+          "chapter_id": 17,
+          "display_label": "১৭/১. অধ্যায়ঃ",
+          "title": "রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম কালো পাগড়ি পরিধান করতেন",
+          "arabic_title": "",
+          "preface": "",
+          "order": 66,
+          "hadith_count": 1
+        },
+        {
+          "id": 67,
+          "chapter_id": 17,
+          "display_label": "১৭/২. অধ্যায়ঃ",
+          "title": "তিনি পাগড়ি পরিধান করে খুৎবা প্রদান করতেন",
+          "arabic_title": "",
+          "preface": "",
+          "order": 67,
+          "hadith_count": 1
+        },
+        {
+          "id": 68,
+          "chapter_id": 17,
+          "display_label": "১৭/৩. অধ্যায়ঃ",
+          "title": "তিনি পাগড়ির কিছু অংশ দু’কাঁধের মধ্যবর্তী স্থানে ঝুলিয়ে দিতেন",
+          "arabic_title": "",
+          "preface": "",
+          "order": 68,
+          "hadith_count": 1
+        },
+        {
+          "id": 69,
+          "chapter_id": 17,
+          "display_label": "১৭/৪. অধ্যায়ঃ",
+          "title": "তিনি তৈলাক্ত পাগড়িও ব্যবহার করতেন",
+          "arabic_title": "",
+          "preface": "",
+          "order": 69,
+          "hadith_count": 1
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "display_label": "১৮",
+      "title": "রাসূলুল্লাহ (সাঃ) এর লুঙ্গির বিবরণ",
+      "arabic_title": "",
+      "preface": "",
+      "range": "৯০ - ৯২",
+      "order": 18,
+      "hadith_count": 3,
+      "sections_count": 3,
+      "sections": [
+        {
+          "id": 70,
+          "chapter_id": 18,
+          "display_label": "১৮/১. অধ্যায়ঃ",
+          "title": "রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম মোটা লুঙ্গি পরিধান করতেন",
+          "arabic_title": "",
+          "preface": "",
+          "order": 70,
+          "hadith_count": 1
+        },
+        {
+          "id": 71,
+          "chapter_id": 18,
+          "display_label": "১৮/২. অধ্যায়ঃ",
+          "title": "তিনি অর্ধ গোছ পর্যন্ত লুঙ্গি ঝুলিয়ে পরিধান করতেন",
+          "arabic_title": "",
+          "preface": "",
+          "order": 71,
+          "hadith_count": 1
+        },
+        {
+          "id": 72,
+          "chapter_id": 18,
+          "display_label": "১৮/৩. অধ্যায়ঃ",
+          "title": "তিনি টাখনুর নিচে লুঙ্গি পরিধান করতে নিষেধ করেছেন",
+          "arabic_title": "",
+          "preface": "",
+          "order": 72,
+          "hadith_count": 1
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "display_label": "১৯",
+      "title": "রাসূলুল্লাহ (সাঃ) এর হাঁটা-চলা",
+      "arabic_title": "",
+      "preface": "",
+      "range": "৯৩ - ৯৪",
+      "order": 19,
+      "hadith_count": 2,
+      "sections_count": 1,
+      "sections": [
+        {
+          "id": 73,
+          "chapter_id": 19,
+          "display_label": "১৯/১. অধ্যায়ঃ",
+          "title": "রাসূলুল্লাহ (সাঃ) এর হাঁটা-চলা",
+          "arabic_title": "",
+          "preface": "",
+          "order": 73,
+          "hadith_count": 2
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "display_label": "২০",
+      "title": "রাসূলুল্লাহ (সাঃ) এর মস্তকাবরণ ব্যবহার",
+      "arabic_title": "",
+      "preface": "",
+      "range": "৯৫ - ৯৫",
+      "order": 20,
+      "hadith_count": 1,
+      "sections_count": 1,
+      "sections": [
+        {
+          "id": 74,
+          "chapter_id": 20,
+          "display_label": "২০/১. অধ্যায়ঃ",
+          "title": "সূলুল্লাহ (সাঃ) এর মস্তকাবরণ ব্যবহার",
+          "arabic_title": "",
+          "preface": "",
+          "order": 74,
+          "hadith_count": 1
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "display_label": "২১",
+      "title": "রাসূলুল্লাহ (সাঃ) এর উঠা-বসা",
+      "arabic_title": "",
+      "preface": "",
+      "range": "৯৬ - ৯৭",
+      "order": 21,
+      "hadith_count": 2,
+      "sections_count": 1,
+      "sections": [
+        {
+          "id": 75,
+          "chapter_id": 21,
+          "display_label": "২১/১. অধ্যায়ঃ",
+          "title": "রাসূলুল্লাহ (সাঃ) এর উঠা-বসা",
+          "arabic_title": "",
+          "preface": "",
+          "order": 75,
+          "hadith_count": 2
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "display_label": "২২",
+      "title": "রাসূলুল্লাহ (সাঃ) এর বালিশে হেলান দেয়ার বিবরণ",
+      "arabic_title": "",
+      "preface": "",
+      "range": "৯৮ - ১০১",
+      "order": 22,
+      "hadith_count": 4,
+      "sections_count": 3,
+      "sections": [
+        {
+          "id": 76,
+          "chapter_id": 22,
+          "display_label": "২২/১. অধ্যায়ঃ",
+          "title": "রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বাম কাঁধে বালিশের উপর হেলান দিতেন",
+          "arabic_title": "",
+          "preface": "",
+          "order": 76,
+          "hadith_count": 1
+        },
+        {
+          "id": 77,
+          "chapter_id": 22,
+          "display_label": "২২/২. অধ্যায়ঃ",
+          "title": "হাদীস বর্ণনার সময়ও বালিশে হেলান দিতেন",
+          "arabic_title": "",
+          "preface": "",
+          "order": 77,
+          "hadith_count": 1
+        },
+        {
+          "id": 78,
+          "chapter_id": 22,
+          "display_label": "২২/৩. অধ্যায়ঃ",
+          "title": "তিনি কখনো ঠেস দেয়া অবস্থায় খেতেন না",
+          "arabic_title": "",
+          "preface": "",
+          "order": 78,
+          "hadith_count": 2
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "display_label": "২৩",
+      "title": "রাসূলুল্লাহ (সাঃ)-এর (বালিশ ছাড়া অন্য কিছুতে) ঠেস দেয়া",
+      "arabic_title": "",
+      "preface": "",
+      "range": "১০২ - ১০২",
+      "order": 23,
+      "hadith_count": 1,
+      "sections_count": 1,
+      "sections": [
+        {
+          "id": 79,
+          "chapter_id": 23,
+          "display_label": "২৩/১. অধ্যায়ঃ",
+          "title": "রাসূলুল্লাহ (সাঃ)-এর (বালিশ ছাড়া অন্য কিছুতে) ঠেস দেয়া",
+          "arabic_title": "",
+          "preface": "",
+          "order": 79,
+          "hadith_count": 1
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "display_label": "২৪",
+      "title": "রাসূলুল্লাহ (সাঃ) এর পানাহারের নিয়ম পদ্ধতি",
+      "arabic_title": "",
+      "preface": "",
+      "range": "১০৩ - ১০৬",
+      "order": 24,
+      "hadith_count": 4,
+      "sections_count": 3,
+      "sections": [
+        {
+          "id": 80,
+          "chapter_id": 24,
+          "display_label": "২৪/১. অধ্যায়ঃ",
+          "title": "রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আহার শেষে তিন আঙ্গুলি চুষে নিতেন",
+          "arabic_title": "",
+          "preface": "",
+          "order": 80,
+          "hadith_count": 2
+        },
+        {
+          "id": 81,
+          "chapter_id": 24,
+          "display_label": "২৪/২. অধ্যায়ঃ",
+          "title": "তিনি তিন আঙ্গুলি দিয়ে আহার করতেন",
+          "arabic_title": "",
+          "preface": "",
+          "order": 81,
+          "hadith_count": 1
+        },
+        {
+          "id": 82,
+          "chapter_id": 24,
+          "display_label": "২৪/৩. অধ্যায়ঃ",
+          "title": "অতি ক্ষুধার কারণ তিনি একবার বাঁকা হয়ে ঠেস দিয়ে খেয়েছিলেন",
+          "arabic_title": "",
+          "preface": "",
+          "order": 82,
+          "hadith_count": 1
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "display_label": "২৫",
+      "title": "রাসূলুল্লাহ (সাঃ) এর রুটির বিবরণ",
+      "arabic_title": "",
+      "preface": "",
+      "range": "১০৭ - ১১২",
+      "order": 25,
+      "hadith_count": 6,
+      "sections_count": 4,
+      "sections": [
+        {
+          "id": 83,
+          "chapter_id": 25,
+          "display_label": "২৫/১. অধ্যায়ঃ",
+          "title": "রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর পরিবারবর্গ কখনো একাধারে ২দিন পেট ভরে যবের রুটি আহার করেননি",
+          "arabic_title": "",
+          "preface": "",
+          "order": 83,
+          "hadith_count": 1
+        },
+        {
+          "id": 84,
+          "chapter_id": 25,
+          "display_label": "২৫/২. অধ্যায়ঃ",
+          "title": "রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর কাছে কখনো যবের রুটি উদ্ধৃত থাকত না",
+          "arabic_title": "",
+          "preface": "",
+          "order": 84,
+          "hadith_count": 1
+        },
+        {
+          "id": 85,
+          "chapter_id": 25,
+          "display_label": "২৫/৩. অধ্যায়ঃ",
+          "title": "মাঝে মাঝে তিনি আহারের জন্য কিছুই পেতেন না",
+          "arabic_title": "",
+          "preface": "",
+          "order": 85,
+          "hadith_count": 2
+        },
+        {
+          "id": 86,
+          "chapter_id": 25,
+          "display_label": "২৫/৪. অধ্যায়ঃ",
+          "title": "তিনি আহারের জন্য টেবিল এবং ছোট প্লেট ব্যবহার করতেন",
+          "arabic_title": "",
+          "preface": "",
+          "order": 86,
+          "hadith_count": 2
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "display_label": "২৬",
+      "title": "রাসূলুল্লাহ (সাঃ) এর তরকারীর বর্ণনা",
+      "arabic_title": "",
+      "preface": "",
+      "range": "১১৩ - ১৩৬",
+      "order": 26,
+      "hadith_count": 24,
+      "sections_count": 12,
+      "sections": [
+        {
+          "id": 87,
+          "chapter_id": 26,
+          "display_label": "২৬/১. অধ্যায়ঃ",
+          "title": "রাসূলুল্লাহ (সাঃ) এর তরকারী",
+          "arabic_title": "",
+          "preface": "",
+          "order": 87,
+          "hadith_count": 5
+        },
+        {
+          "id": 88,
+          "chapter_id": 26,
+          "display_label": "২৬/২. অধ্যায়ঃ",
+          "title": "রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম লাউ পছন্দ করতেন",
+          "arabic_title": "",
+          "preface": "",
+          "order": 88,
+          "hadith_count": 3
+        },
+        {
+          "id": 89,
+          "chapter_id": 26,
+          "display_label": "২৬/৩. অধ্যায়ঃ",
+          "title": "রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম মিষ্টি দ্রব্য ও মধু অধিক পছন্দ করতেন",
+          "arabic_title": "",
+          "preface": "",
+          "order": 89,
+          "hadith_count": 1
+        },
+        {
+          "id": 90,
+          "chapter_id": 26,
+          "display_label": "২৬/৪. অধ্যায়ঃ",
+          "title": "রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বকরীর পাঁজরের ভূনা গোশত পছন্দ করতেন",
+          "arabic_title": "",
+          "preface": "",
+          "order": 90,
+          "hadith_count": 3
+        },
+        {
+          "id": 91,
+          "chapter_id": 26,
+          "display_label": "২৬/৫. অধ্যায়ঃ",
+          "title": "রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম উরুর গোশত পছন্দ করতেন",
+          "arabic_title": "",
+          "preface": "",
+          "order": 91,
+          "hadith_count": 2
+        },
+        {
+          "id": 92,
+          "chapter_id": 26,
+          "display_label": "২৬/৬. অধ্যায়ঃ",
+          "title": "রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম শুকনা রুটি এবং সিরকা পছন্দ করতেন",
+          "arabic_title": "",
+          "preface": "",
+          "order": 92,
+          "hadith_count": 2
+        },
+        {
+          "id": 93,
+          "chapter_id": 26,
+          "display_label": "২৬/৭. অধ্যায়ঃ",
+          "title": "সর্বশ্রেষ্ঠ মহিলা কে ?",
+          "arabic_title": "",
+          "preface": "",
+          "order": 93,
+          "hadith_count": 1
+        },
+        {
+          "id": 94,
+          "chapter_id": 26,
+          "display_label": "২৬/৮. অধ্যায়ঃ",
+          "title": "রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বকরীর কাঁধের গোশতও খেতেন",
+          "arabic_title": "",
+          "preface": "",
+          "order": 94,
+          "hadith_count": 1
+        },
+        {
+          "id": 95,
+          "chapter_id": 26,
+          "display_label": "২৬/৯. অধ্যায়ঃ",
+          "title": "রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম খেজুর ও ছাতু দ্বারা ওলীমা করেছিলেন",
+          "arabic_title": "",
+          "preface": "",
+          "order": 95,
+          "hadith_count": 3
+        },
+        {
+          "id": 96,
+          "chapter_id": 26,
+          "display_label": "২৬/১০. অধ্যায়ঃ",
+          "title": "রাসূলুল্লাহ ও চর্বিযুক্ত খাবারও আহার করতেন",
+          "arabic_title": "",
+          "preface": "",
+          "order": 96,
+          "hadith_count": 1
+        },
+        {
+          "id": 97,
+          "chapter_id": 26,
+          "display_label": "২৬/১১. অধ্যায়ঃ",
+          "title": "রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ‘হায়স’ নামক খাবারও খেতেন",
+          "arabic_title": "",
+          "preface": "",
+          "order": 97,
+          "hadith_count": 1
+        },
+        {
+          "id": 98,
+          "chapter_id": 26,
+          "display_label": "২৬/১২. অধ্যায়ঃ",
+          "title": "রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ‘সুফল’ পছন্দ করতেন",
+          "arabic_title": "",
+          "preface": "",
+          "order": 98,
+          "hadith_count": 1
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "display_label": "২৭",
+      "title": "আহার গ্রহণকালে রাসূলুল্লাহ (সাঃ) এর ওযূ",
+      "arabic_title": "",
+      "preface": "",
+      "range": "১৩৭ - ১৩৮",
+      "order": 27,
+      "hadith_count": 2,
+      "sections_count": 1,
+      "sections": [
+        {
+          "id": 99,
+          "chapter_id": 27,
+          "display_label": "২৭/১. অধ্যায়ঃ",
+          "title": "আহার গ্রহণকালে রাসূলুল্লাহ (সাঃ) এর ওযূ",
+          "arabic_title": "",
+          "preface": "",
+          "order": 99,
+          "hadith_count": 2
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "display_label": "২৮",
+      "title": "খাওয়ার পূর্বে ও পরে রাসূলুল্লাহ (সাঃ) এর দুআ",
+      "arabic_title": "",
+      "preface": "",
+      "range": "১৩৯ - ১৪৩",
+      "order": 28,
+      "hadith_count": 5,
+      "sections_count": 5,
+      "sections": [
+        {
+          "id": 100,
+          "chapter_id": 28,
+          "display_label": "২৮/১. অধ্যায়ঃ",
+          "title": "রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম খাবারের শুরুতে আল্লাহর নাম নিতেন",
+          "arabic_title": "",
+          "preface": "",
+          "order": 100,
+          "hadith_count": 1
+        },
+        {
+          "id": 101,
+          "chapter_id": 28,
+          "display_label": "২৮/২. অধ্যায়ঃ",
+          "title": "তিনি ডান দিকে হতে খাবার খেতে শুরু করার জন্য আদেশ দিয়েছেন",
+          "arabic_title": "",
+          "preface": "",
+          "order": 101,
+          "hadith_count": 1
+        },
+        {
+          "id": 102,
+          "chapter_id": 28,
+          "display_label": "২৮/৩. অধ্যায়ঃ",
+          "title": "খাওয়া শেষ হয়ে গেলে তিনি যে দু’আ পাঠ করতেন",
+          "arabic_title": "",
+          "preface": "",
+          "order": 102,
+          "hadith_count": 1
+        },
+        {
+          "id": 103,
+          "chapter_id": 28,
+          "display_label": "২৮/৪. অধ্যায়ঃ",
+          "title": "বিসমিল্লাহ বলে খাবার খেলে বরকত হয়",
+          "arabic_title": "",
+          "preface": "",
+          "order": 103,
+          "hadith_count": 1
+        },
+        {
+          "id": 104,
+          "chapter_id": 28,
+          "display_label": "২৮/৫. অধ্যায়ঃ",
+          "title": "খাবার খেয়ে আল্লাহর প্রশংসা করলে আল্লাহ তাঁর প্রতি সন্তুষ্ট হয়ে যান",
+          "arabic_title": "",
+          "preface": "",
+          "order": 104,
+          "hadith_count": 1
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "display_label": "২৯",
+      "title": "রাসূলুল্লাহ (সাঃ) এর পানপাত্র",
+      "arabic_title": "",
+      "preface": "",
+      "range": "১৪৪ - ১৪৫",
+      "order": 29,
+      "hadith_count": 2,
+      "sections_count": 1,
+      "sections": [
+        {
+          "id": 105,
+          "chapter_id": 29,
+          "display_label": "২৯/১. অধ্যায়ঃ",
+          "title": "রাসূলুল্লাহ (সাঃ) এর পানপাত্র",
+          "arabic_title": "",
+          "preface": "",
+          "order": 105,
+          "hadith_count": 2
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "display_label": "৩০",
+      "title": "রাসূলুল্লাহ (সাঃ) এর ফলমূলের বিবরণ",
+      "arabic_title": "",
+      "preface": "",
+      "range": "১৪৬ - ১৪৯",
+      "order": 30,
+      "hadith_count": 4,
+      "sections_count": 4,
+      "sections": [
+        {
+          "id": 106,
+          "chapter_id": 30,
+          "display_label": "৩০/১. অধ্যায়ঃ",
+          "title": "নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম কাঁচা খেজুরের সাথে শসা খেতেন",
+          "arabic_title": "",
+          "preface": "",
+          "order": 106,
+          "hadith_count": 1
+        },
+        {
+          "id": 107,
+          "chapter_id": 30,
+          "display_label": "৩০/২. অধ্যায়ঃ",
+          "title": "তিনি তাজা খেজুরের সাথে তরমুজ খেতেন",
+          "arabic_title": "",
+          "preface": "",
+          "order": 107,
+          "hadith_count": 1
+        },
+        {
+          "id": 108,
+          "chapter_id": 30,
+          "display_label": "৩০/৩. অধ্যায়ঃ",
+          "title": "তিনি তাজা তরমুজ ও তাজা খেজুর একত্রে মিলিয়ে খেতেন",
+          "arabic_title": "",
+          "preface": "",
+          "order": 108,
+          "hadith_count": 1
+        },
+        {
+          "id": 109,
+          "chapter_id": 30,
+          "display_label": "৩০/৪. অধ্যায়ঃ",
+          "title": "নতুন ফল উদ্বোধনকালে তিনি যে দু’আ পাঠ করতেন",
+          "arabic_title": "",
+          "preface": "",
+          "order": 109,
+          "hadith_count": 1
+        }
+      ]
+    },
+    {
+      "id": 31,
+      "display_label": "৩১",
+      "title": "রাসূলুল্লাহ (সাঃ) এর পানীয় বস্তুর বিবরণ",
+      "arabic_title": "",
+      "preface": "",
+      "range": "১৫০ - ১৫১",
+      "order": 31,
+      "hadith_count": 2,
+      "sections_count": 2,
+      "sections": [
+        {
+          "id": 110,
+          "chapter_id": 31,
+          "display_label": "৩১/১. অধ্যায়ঃ",
+          "title": "রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ঠান্ডা মিষ্টি পানীয় অধিকতর পছন্দ করতেন",
+          "arabic_title": "",
+          "preface": "",
+          "order": 110,
+          "hadith_count": 1
+        },
+        {
+          "id": 111,
+          "chapter_id": 31,
+          "display_label": "৩১/২. অধ্যায়ঃ",
+          "title": "তিনি নিজে পান করে প্রথমে ডান পার্শ্বের ব্যক্তিকে দিতেন",
+          "arabic_title": "",
+          "preface": "",
+          "order": 111,
+          "hadith_count": 1
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "display_label": "৩২",
+      "title": "রাসূলুল্লাহ (সাঃ) এর পান করার পদ্ধতি",
+      "arabic_title": "",
+      "preface": "",
+      "range": "১৫২ - ১৬০",
+      "order": 32,
+      "hadith_count": 9,
+      "sections_count": 4,
+      "sections": [
+        {
+          "id": 112,
+          "chapter_id": 32,
+          "display_label": "৩২/১. অধ্যায়ঃ",
+          "title": "রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম দাঁড়ানো অবস্থায় যমযমের পানি পান করতেন",
+          "arabic_title": "",
+          "preface": "",
+          "order": 112,
+          "hadith_count": 3
+        },
+        {
+          "id": 113,
+          "chapter_id": 32,
+          "display_label": "৩২/২. অধ্যায়ঃ",
+          "title": "রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ওযুর অবশিষ্ট পানি দাঁড়িয়ে পান করতেন",
+          "arabic_title": "",
+          "preface": "",
+          "order": 113,
+          "hadith_count": 1
+        },
+        {
+          "id": 114,
+          "chapter_id": 32,
+          "display_label": "৩২/৩. অধ্যায়ঃ",
+          "title": "রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম পান করার সময় তিনবার শ্বাস নিতেন",
+          "arabic_title": "",
+          "preface": "",
+          "order": 114,
+          "hadith_count": 1
+        },
+        {
+          "id": 115,
+          "chapter_id": 32,
+          "display_label": "৩২/৪. অধ্যায়ঃ",
+          "title": "একদা তিনি দাঁড়ানো অবস্থায় মশক হতে পানি পান করেন",
+          "arabic_title": "",
+          "preface": "",
+          "order": 115,
+          "hadith_count": 4
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "display_label": "৩৩",
+      "title": "রাসূলুল্লাহ (সাঃ) এর সুগদ্ধি ব্যবহার",
+      "arabic_title": "",
+      "preface": "",
+      "range": "১৬১ - ১৬৪",
+      "order": 33,
+      "hadith_count": 4,
+      "sections_count": 3,
+      "sections": [
+        {
+          "id": 116,
+          "chapter_id": 33,
+          "display_label": "৩৩/১. অধ্যায়ঃ",
+          "title": "রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর একটি আতরদানি ছিল",
+          "arabic_title": "",
+          "preface": "",
+          "order": 116,
+          "hadith_count": 1
+        },
+        {
+          "id": 117,
+          "chapter_id": 33,
+          "display_label": "৩৩/২. অধ্যায়ঃ",
+          "title": "তিনি কখনো সুগন্ধি ফেরত দিতেন না",
+          "arabic_title": "",
+          "preface": "",
+          "order": 117,
+          "hadith_count": 2
+        },
+        {
+          "id": 118,
+          "chapter_id": 33,
+          "display_label": "৩৩/৩. অধ্যায়ঃ",
+          "title": "তিনি পুরুষ ও মহিলাদের সুগন্ধি ব্যবহারের পার্থক্য বলে দিয়েছেন",
+          "arabic_title": "",
+          "preface": "",
+          "order": 118,
+          "hadith_count": 1
+        }
+      ]
+    },
+    {
+      "id": 34,
+      "display_label": "৩৪",
+      "title": "রাসূলুল্লাহ (সাঃ) এর বাচনভঙ্গি",
+      "arabic_title": "",
+      "preface": "",
+      "range": "১৬৫ - ১৬৭",
+      "order": 34,
+      "hadith_count": 3,
+      "sections_count": 3,
+      "sections": [
+        {
+          "id": 119,
+          "chapter_id": 34,
+          "display_label": "৩৪/১. অধ্যায়ঃ",
+          "title": "রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর কথা ছিল সুস্পষ্ট",
+          "arabic_title": "",
+          "preface": "",
+          "order": 119,
+          "hadith_count": 1
+        },
+        {
+          "id": 120,
+          "chapter_id": 34,
+          "display_label": "৩৪/২. অধ্যায়ঃ",
+          "title": "রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম কোন কোন কথা তিনবার বলতেন",
+          "arabic_title": "",
+          "preface": "",
+          "order": 120,
+          "hadith_count": 1
+        },
+        {
+          "id": 121,
+          "chapter_id": 34,
+          "display_label": "৩৪/৩. অধ্যায়ঃ",
+          "title": "রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর বাচনভঙ্গি সম্পর্কে হিন্দ ইবনে আবু হালা (রাঃ) এর বর্ণনা",
+          "arabic_title": "",
+          "preface": "",
+          "order": 121,
+          "hadith_count": 1
+        }
+      ]
+    },
+    {
+      "id": 35,
+      "display_label": "৩৫",
+      "title": "রাসূলুল্লাহ (সাঃ) এর হাসি",
+      "arabic_title": "",
+      "preface": "",
+      "range": "১৬৮ - ১৭৩",
+      "order": 35,
+      "hadith_count": 6,
+      "sections_count": 2,
+      "sections": [
+        {
+          "id": 122,
+          "chapter_id": 35,
+          "display_label": "৩৫/১. অধ্যায়ঃ",
+          "title": "রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম মুচকি হাসি হাসতেন",
+          "arabic_title": "",
+          "preface": "",
+          "order": 122,
+          "hadith_count": 2
+        },
+        {
+          "id": 123,
+          "chapter_id": 35,
+          "display_label": "৩৫/২. অধ্যায়ঃ",
+          "title": "রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম হাসার সময় দাঁত দেখা যেত",
+          "arabic_title": "",
+          "preface": "",
+          "order": 123,
+          "hadith_count": 4
+        }
+      ]
+    },
+    {
+      "id": 36,
+      "display_label": "৩৬",
+      "title": "রাসূলুল্লাহ (সাঃ) এর কৌতুক",
+      "arabic_title": "",
+      "preface": "",
+      "range": "১৭৪ - ১৭৯",
+      "order": 36,
+      "hadith_count": 6,
+      "sections_count": 3,
+      "sections": [
+        {
+          "id": 124,
+          "chapter_id": 36,
+          "display_label": "৩৬/১. অধ্যায়ঃ",
+          "title": "রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আনাস (রাঃ) এর সাথে কৌতুক করতেন",
+          "arabic_title": "",
+          "preface": "",
+          "order": 124,
+          "hadith_count": 1
+        },
+        {
+          "id": 125,
+          "chapter_id": 36,
+          "display_label": "৩৬/২. অধ্যায়ঃ",
+          "title": "আনাস (রাঃ) এর ছোট ভাইয়ের সাথে কৌতুক করতেন",
+          "arabic_title": "",
+          "preface": "",
+          "order": 125,
+          "hadith_count": 1
+        },
+        {
+          "id": 126,
+          "chapter_id": 36,
+          "display_label": "৩৬/৩. অধ্যায়ঃ",
+          "title": "রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বাস্তবসম্মত কৌতুক করতেন",
+          "arabic_title": "",
+          "preface": "",
+          "order": 126,
+          "hadith_count": 4
+        }
+      ]
+    },
+    {
+      "id": 37,
+      "display_label": "৩৭",
+      "title": "কাব্যিক ছন্দে রাসূলুল্লাহ (সাঃ) এর কথা",
+      "arabic_title": "",
+      "preface": "",
+      "range": "১৮০ - ১৮৭",
+      "order": 37,
+      "hadith_count": 8,
+      "sections_count": 7,
+      "sections": [
+        {
+          "id": 127,
+          "chapter_id": 37,
+          "display_label": "৩৭/১. অধ্যায়ঃ",
+          "title": "নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ইবনে রাওয়াহার কবিতা আবৃত্তি করতেন",
+          "arabic_title": "",
+          "preface": "",
+          "order": 127,
+          "hadith_count": 1
+        },
+        {
+          "id": 128,
+          "chapter_id": 37,
+          "display_label": "৩৭/২. অধ্যায়ঃ",
+          "title": "একবার আঙ্গুল রক্তাক্ত হয়ে গেলে এ কবিতা পাঠ করেছিলেন",
+          "arabic_title": "",
+          "preface": "",
+          "order": 128,
+          "hadith_count": 1
+        },
+        {
+          "id": 129,
+          "chapter_id": 37,
+          "display_label": "৩৭/৩. অধ্যায়ঃ",
+          "title": "রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম হাওয়াযিন গোত্রের সাথে যুদ্ধের সময় কবিতা আবৃত্তি করেছিলেন",
+          "arabic_title": "",
+          "preface": "",
+          "order": 129,
+          "hadith_count": 1
+        },
+        {
+          "id": 130,
+          "chapter_id": 37,
+          "display_label": "৩৭/৪. অধ্যায়ঃ",
+          "title": "ইবনে রাওয়াহা (রাঃ) নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর সামনে কবিতা আবৃত্তি করতেন",
+          "arabic_title": "",
+          "preface": "",
+          "order": 130,
+          "hadith_count": 2
+        },
+        {
+          "id": 131,
+          "chapter_id": 37,
+          "display_label": "৩৭/৫. অধ্যায়ঃ",
+          "title": "রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর কাছে শ্রেষ্ঠতম উদ্ধৃতি",
+          "arabic_title": "",
+          "preface": "",
+          "order": 131,
+          "hadith_count": 1
+        },
+        {
+          "id": 132,
+          "chapter_id": 37,
+          "display_label": "৩৭/৬. অধ্যায়ঃ",
+          "title": "নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম অমুসলিম কবির কবিতাও শ্রবণ করতেন",
+          "arabic_title": "",
+          "preface": "",
+          "order": 132,
+          "hadith_count": 1
+        },
+        {
+          "id": 133,
+          "chapter_id": 37,
+          "display_label": "৩৭/৭. অধ্যায়ঃ",
+          "title": "নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম কবিতা আবৃত্তি করার উদ্দেশ্যে হাসসান (রাঃ)[১] এর জন্য মসজিদে একটি মিম্বার তৈরি করেছিলেন",
+          "arabic_title": "",
+          "preface": "",
+          "order": 133,
+          "hadith_count": 1
+        }
+      ]
+    },
+    {
+      "id": 38,
+      "display_label": "৩৮",
+      "title": "রাসূলুল্লাহ (সাঃ) এর রাত্রে গল্প বলা",
+      "arabic_title": "",
+      "preface": "",
+      "range": "১৮৮ - ১৮৮",
+      "order": 38,
+      "hadith_count": 1,
+      "sections_count": 1,
+      "sections": [
+        {
+          "id": 134,
+          "chapter_id": 38,
+          "display_label": "৩৮/১. অধ্যায়ঃ",
+          "title": "রাসূলুল্লাহ (সাঃ) এর রাত্রে গল্প বলা",
+          "arabic_title": "",
+          "preface": "",
+          "order": 134,
+          "hadith_count": 1
+        }
+      ]
+    },
+    {
+      "id": 39,
+      "display_label": "৩৯",
+      "title": "রাসূলুল্লাহ (সাঃ) এর নিদ্রা",
+      "arabic_title": "",
+      "preface": "",
+      "range": "১৮৯ - ১৯৪",
+      "order": 39,
+      "hadith_count": 6,
+      "sections_count": 5,
+      "sections": [
+        {
+          "id": 135,
+          "chapter_id": 39,
+          "display_label": "৩৯/১. অধ্যায়ঃ",
+          "title": "রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ডান হাত গালের নিচে রেখে শয্যা যেতেন এবং এ দু’আ পাঠ করতেন",
+          "arabic_title": "",
+          "preface": "",
+          "order": 135,
+          "hadith_count": 1
+        },
+        {
+          "id": 136,
+          "chapter_id": 39,
+          "display_label": "৩৯/২. অধ্যায়ঃ",
+          "title": "নিদ্রায় যাওয়া এবং নিদ্রা থেকে উঠার সময় এ দু’আ পাঠ করতেন",
+          "arabic_title": "",
+          "preface": "",
+          "order": 136,
+          "hadith_count": 1
+        },
+        {
+          "id": 137,
+          "chapter_id": 39,
+          "display_label": "৩৯/৩. অধ্যায়ঃ",
+          "title": "নিদ্রা যাওয়ার পূর্বে সূরা ইখলাস, ফালাক্ব ও নাস পাঠ  করতেন",
+          "arabic_title": "",
+          "preface": "",
+          "order": 137,
+          "hadith_count": 2
+        },
+        {
+          "id": 138,
+          "chapter_id": 39,
+          "display_label": "৩৯/৪. অধ্যায়ঃ",
+          "title": "রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম শয্যা গ্রহণকালে এ দু’আটিও পাঠ করতেন",
+          "arabic_title": "",
+          "preface": "",
+          "order": 138,
+          "hadith_count": 1
+        },
+        {
+          "id": 139,
+          "chapter_id": 39,
+          "display_label": "৩৯/৫. অধ্যায়ঃ",
+          "title": "তিনি ডান কাতে বিশ্রাম নিতেন",
+          "arabic_title": "",
+          "preface": "",
+          "order": 139,
+          "hadith_count": 1
+        }
+      ]
+    },
+    {
+      "id": 40,
+      "display_label": "৪০",
+      "title": "রাসূল (সাঃ) এর ইবাদাত",
+      "arabic_title": "",
+      "preface": "",
+      "range": "১৯৫ - ২১৫",
+      "order": 40,
+      "hadith_count": 21,
+      "sections_count": 16,
+      "sections": [
+        {
+          "id": 140,
+          "chapter_id": 40,
+          "display_label": "৪০/১. অধ্যায়ঃ",
+          "title": "সালাতে দীর্ঘক্ষণ দাঁড়ানোর কারণে রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর পা ফুলে যেত",
+          "arabic_title": "",
+          "preface": "",
+          "order": 140,
+          "hadith_count": 1
+        },
+        {
+          "id": 141,
+          "chapter_id": 40,
+          "display_label": "৪০/২. অধ্যায়ঃ",
+          "title": "রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম রাতের প্রথমাংশে ঘুমাতেন এবং সাহরীর পূর্ব পর্যন্ত সালাত আদায় করতেন",
+          "arabic_title": "",
+          "preface": "",
+          "order": 141,
+          "hadith_count": 1
+        },
+        {
+          "id": 142,
+          "chapter_id": 40,
+          "display_label": "৪০/৩. অধ্যায়ঃ",
+          "title": "তিনি রাতের শেষ অর্ধাংশেও সালাত আদায় করতেন",
+          "arabic_title": "",
+          "preface": "",
+          "order": 142,
+          "hadith_count": 2
+        },
+        {
+          "id": 143,
+          "chapter_id": 40,
+          "display_label": "৪০/৪. অধ্যায়ঃ",
+          "title": "রাত্রে তাহাজ্জুদ সালাত আদায় করতে না পারলে দিনে তা আদায় করে নিতেন",
+          "arabic_title": "",
+          "preface": "",
+          "order": 143,
+          "hadith_count": 1
+        },
+        {
+          "id": 144,
+          "chapter_id": 40,
+          "display_label": "৪০/৫. অধ্যায়ঃ",
+          "title": "রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম রাতের সালাত দু’রাক’আত করে আদায় করতেন",
+          "arabic_title": "",
+          "preface": "",
+          "order": 144,
+          "hadith_count": 1
+        },
+        {
+          "id": 145,
+          "chapter_id": 40,
+          "display_label": "৪০/৬. অধ্যায়ঃ",
+          "title": "রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম রমাযান মাসে ১১ রাক’আত তাহাজ্জুদের সালাত আদায় করতেন",
+          "arabic_title": "",
+          "preface": "",
+          "order": 145,
+          "hadith_count": 1
+        },
+        {
+          "id": 146,
+          "chapter_id": 40,
+          "display_label": "৪০/৭. অধ্যায়ঃ",
+          "title": "তিনি ১ রাক’আত বিতর আদায় করতেন",
+          "arabic_title": "",
+          "preface": "",
+          "order": 146,
+          "hadith_count": 1
+        },
+        {
+          "id": 147,
+          "chapter_id": 40,
+          "display_label": "৪০/৮. অধ্যায়ঃ",
+          "title": "রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর এক রাতের সালাতের বিবরণ",
+          "arabic_title": "",
+          "preface": "",
+          "order": 147,
+          "hadith_count": 1
+        },
+        {
+          "id": 148,
+          "chapter_id": 40,
+          "display_label": "৪০/৯. অধ্যায়ঃ",
+          "title": "রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম সালাতের মধ্যে একটি আয়াত বারবার তিলাওয়াত করতেন",
+          "arabic_title": "",
+          "preface": "",
+          "order": 148,
+          "hadith_count": 2
+        },
+        {
+          "id": 149,
+          "chapter_id": 40,
+          "display_label": "৪০/১০. অধ্যায়ঃ",
+          "title": "বসে সালাত আদায় করলে তিলাওয়াতও বসে করতেন",
+          "arabic_title": "",
+          "preface": "",
+          "order": 149,
+          "hadith_count": 1
+        },
+        {
+          "id": 150,
+          "chapter_id": 40,
+          "display_label": "৪০/১১. অধ্যায়ঃ",
+          "title": "দাঁড়িয়ে কিরাআত পাঠ করলে রুকূ-সিজদাও দাঁড়ানো অবস্থাতেই করতেন",
+          "arabic_title": "",
+          "preface": "",
+          "order": 150,
+          "hadith_count": 2
+        },
+        {
+          "id": 151,
+          "chapter_id": 40,
+          "display_label": "৪০/১২. অধ্যায়ঃ",
+          "title": "নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম মৃত্যুর পূর্বে অধিকাংশ নফল সালাত বসে আদায় করতেন",
+          "arabic_title": "",
+          "preface": "",
+          "order": 151,
+          "hadith_count": 1
+        },
+        {
+          "id": 152,
+          "chapter_id": 40,
+          "display_label": "৪০/১৩. অধ্যায়ঃ",
+          "title": "রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর ৮ রাক’আত সুন্নাতের বর্ণনা",
+          "arabic_title": "",
+          "preface": "",
+          "order": 152,
+          "hadith_count": 2
+        },
+        {
+          "id": 153,
+          "chapter_id": 40,
+          "display_label": "৪০/১৪. অধ্যায়ঃ",
+          "title": "রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর ১০ রাক’আত সুন্নাতের বিবরণ",
+          "arabic_title": "",
+          "preface": "",
+          "order": 153,
+          "hadith_count": 2
+        },
+        {
+          "id": 154,
+          "chapter_id": 40,
+          "display_label": "৪০/১৫. অধ্যায়ঃ",
+          "title": "রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর দিনের ১৬ রাক’আত নফল সালাতের বিবরণ",
+          "arabic_title": "",
+          "preface": "",
+          "order": 154,
+          "hadith_count": 1
+        },
+        {
+          "id": 155,
+          "chapter_id": 40,
+          "display_label": "৪০/১৬. অধ্যায়ঃ",
+          "title": "কখনো কখনো তিনি রাতে ৯ রাক’আত সালাত আদায় করতেন",
+          "arabic_title": "",
+          "preface": "",
+          "order": 155,
+          "hadith_count": 1
+        }
+      ]
+    },
+    {
+      "id": 41,
+      "display_label": "৪১",
+      "title": "রাসূলুল্লাহ (সাঃ) এর দ্বোহার সালাত",
+      "arabic_title": "",
+      "preface": "",
+      "range": "২১৬ - ২২২",
+      "order": 41,
+      "hadith_count": 7,
+      "sections_count": 5,
+      "sections": [
+        {
+          "id": 156,
+          "chapter_id": 41,
+          "display_label": "৪১/১. অধ্যায়ঃ",
+          "title": "রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ৪ রাক’আত চাশতের সালাত আদায় করতেন",
+          "arabic_title": "",
+          "preface": "",
+          "order": 156,
+          "hadith_count": 1
+        },
+        {
+          "id": 157,
+          "chapter_id": 41,
+          "display_label": "৪১/২. অধ্যায়ঃ",
+          "title": "রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ৬ রাক’আতও চাশতের সালাত আদায় করতেন",
+          "arabic_title": "",
+          "preface": "",
+          "order": 157,
+          "hadith_count": 1
+        },
+        {
+          "id": 158,
+          "chapter_id": 41,
+          "display_label": "৪১/৩. অধ্যায়ঃ",
+          "title": "রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম মক্কা বিজয়ের দিন ৮ রাক’আত চাশতের সালাত আদায় করেছিলেন",
+          "arabic_title": "",
+          "preface": "",
+          "order": 158,
+          "hadith_count": 1
+        },
+        {
+          "id": 159,
+          "chapter_id": 41,
+          "display_label": "৪১/৪. অধ্যায়ঃ",
+          "title": "রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম সফর থেকে ফিরে আসলে আগে সালাত আদায় করতেন",
+          "arabic_title": "",
+          "preface": "",
+          "order": 159,
+          "hadith_count": 1
+        },
+        {
+          "id": 160,
+          "chapter_id": 41,
+          "display_label": "৪১/৫. অধ্যায়ঃ",
+          "title": "রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম সূর্য ঢলে পড়ার পর ৪ রাক’আত সালাত আদায় করতেন",
+          "arabic_title": "",
+          "preface": "",
+          "order": 160,
+          "hadith_count": 3
+        }
+      ]
+    },
+    {
+      "id": 42,
+      "display_label": "৪২",
+      "title": "ঘরে নফল সালাত",
+      "arabic_title": "",
+      "preface": "",
+      "range": "২২৩ - ২২৩",
+      "order": 42,
+      "hadith_count": 1,
+      "sections_count": 1,
+      "sections": [
+        {
+          "id": 161,
+          "chapter_id": 42,
+          "display_label": "৪২/১. অধ্যায়ঃ",
+          "title": "ঘরে নফল সালাত",
+          "arabic_title": "",
+          "preface": "",
+          "order": 161,
+          "hadith_count": 1
+        }
+      ]
+    },
+    {
+      "id": 43,
+      "display_label": "৪৩",
+      "title": "রাসূলুল্লাহ (সাঃ) এর রোযা",
+      "arabic_title": "",
+      "preface": "",
+      "range": "২২৪ - ২৩৯",
+      "order": 43,
+      "hadith_count": 16,
+      "sections_count": 6,
+      "sections": [
+        {
+          "id": 162,
+          "chapter_id": 43,
+          "display_label": "৪৩/১. অধ্যায়ঃ",
+          "title": "রাসূলুল্লাহ (সাঃ) এর রোযা",
+          "arabic_title": "",
+          "preface": "",
+          "order": 162,
+          "hadith_count": 5
+        },
+        {
+          "id": 163,
+          "chapter_id": 43,
+          "display_label": "৪৩/২. অধ্যায়ঃ",
+          "title": "রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম প্রতি মাসে ৩টি করে রোযা রাখতেন",
+          "arabic_title": "",
+          "preface": "",
+          "order": 163,
+          "hadith_count": 1
+        },
+        {
+          "id": 164,
+          "chapter_id": 43,
+          "display_label": "৪৩/৩. অধ্যায়ঃ",
+          "title": "রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম সোম ও বৃহস্পতিবার রোযা রাখতেন",
+          "arabic_title": "",
+          "preface": "",
+          "order": 164,
+          "hadith_count": 5
+        },
+        {
+          "id": 165,
+          "chapter_id": 43,
+          "display_label": "৪৩/৪. অধ্যায়ঃ",
+          "title": "রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আশুরার রোযা রাখতেন",
+          "arabic_title": "",
+          "preface": "",
+          "order": 165,
+          "hadith_count": 1
+        },
+        {
+          "id": 166,
+          "chapter_id": 43,
+          "display_label": "৪৩/৫. অধ্যায়ঃ",
+          "title": "রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর আমল ছিল নিয়মিত",
+          "arabic_title": "",
+          "preface": "",
+          "order": 166,
+          "hadith_count": 3
+        },
+        {
+          "id": 167,
+          "chapter_id": 43,
+          "display_label": "৪৩/৬. অধ্যায়ঃ",
+          "title": "রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর রাতের আমল",
+          "arabic_title": "",
+          "preface": "",
+          "order": 167,
+          "hadith_count": 1
+        }
+      ]
+    },
+    {
+      "id": 44,
+      "display_label": "৪৪",
+      "title": "রাসূলুল্লাহ (সাঃ) এর কিরাআত",
+      "arabic_title": "",
+      "preface": "",
+      "range": "২৪০ - ২৪৬",
+      "order": 44,
+      "hadith_count": 7,
+      "sections_count": 7,
+      "sections": [
+        {
+          "id": 168,
+          "chapter_id": 44,
+          "display_label": "৪৪/১. অধ্যায়ঃ",
+          "title": "রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম টেনে টেনে কিরাআত পাঠ করতেন",
+          "arabic_title": "",
+          "preface": "",
+          "order": 168,
+          "hadith_count": 1
+        },
+        {
+          "id": 169,
+          "chapter_id": 44,
+          "display_label": "৪৪/২. অধ্যায়ঃ",
+          "title": "রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম প্রতিটি আয়াত আলাদা আলাদা করে পাঠ করতেন",
+          "arabic_title": "",
+          "preface": "",
+          "order": 169,
+          "hadith_count": 1
+        },
+        {
+          "id": 170,
+          "chapter_id": 44,
+          "display_label": "৪৪/৩. অধ্যায়ঃ",
+          "title": "রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম কখনো আস্তে এবং কখনো উচ্চৈঃস্বরে কিরাআত পাঠ করতেন",
+          "arabic_title": "",
+          "preface": "",
+          "order": 170,
+          "hadith_count": 1
+        },
+        {
+          "id": 171,
+          "chapter_id": 44,
+          "display_label": "৪৪/৪. অধ্যায়ঃ",
+          "title": "রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর তিলাওয়াত প্রতিবেশীর ঘরের ছাদ থেকেও শুনা যেত",
+          "arabic_title": "",
+          "preface": "",
+          "order": 171,
+          "hadith_count": 1
+        },
+        {
+          "id": 172,
+          "chapter_id": 44,
+          "display_label": "৪৪/৫. অধ্যায়ঃ",
+          "title": "রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম উষ্ট্রের উপর বসেও তিলাওয়াত করতেন",
+          "arabic_title": "",
+          "preface": "",
+          "order": 172,
+          "hadith_count": 1
+        },
+        {
+          "id": 173,
+          "chapter_id": 44,
+          "display_label": "৪৪/৬. অধ্যায়ঃ",
+          "title": "রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম গানের সূরে তিলাওয়াত করতেন না",
+          "arabic_title": "",
+          "preface": "",
+          "order": 173,
+          "hadith_count": 1
+        },
+        {
+          "id": 174,
+          "chapter_id": 44,
+          "display_label": "৪৪/৭. অধ্যায়ঃ",
+          "title": "রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর তিলা",
+          "arabic_title": "",
+          "preface": "",
+          "order": 174,
+          "hadith_count": 1
+        }
+      ]
+    },
+    {
+      "id": 45,
+      "display_label": "৪৫",
+      "title": "রাসূলুল্লাহ (সাঃ) এর ক্ৰন্দন",
+      "arabic_title": "",
+      "preface": "",
+      "range": "২৪৭ - ২৫২",
+      "order": 45,
+      "hadith_count": 6,
+      "sections_count": 6,
+      "sections": [
+        {
+          "id": 175,
+          "chapter_id": 45,
+          "display_label": "৪৫/১. অধ্যায়ঃ",
+          "title": "রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম সালাত আদায়কালে ক্ৰন্দন করতেন",
+          "arabic_title": "",
+          "preface": "",
+          "order": 175,
+          "hadith_count": 1
+        },
+        {
+          "id": 176,
+          "chapter_id": 45,
+          "display_label": "৪৫/২. অধ্যায়ঃ",
+          "title": "রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম কুরআন শ্রবণ করেও ক্ৰন্দন করতেন",
+          "arabic_title": "",
+          "preface": "",
+          "order": 176,
+          "hadith_count": 1
+        },
+        {
+          "id": 177,
+          "chapter_id": 45,
+          "display_label": "৪৫/৩. অধ্যায়ঃ",
+          "title": "রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম সিজদাতে গেলেও ক্ৰন্দন করতেন",
+          "arabic_title": "",
+          "preface": "",
+          "order": 177,
+          "hadith_count": 1
+        },
+        {
+          "id": 178,
+          "chapter_id": 45,
+          "display_label": "৪৫/৪. অধ্যায়ঃ",
+          "title": "রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম কন্যার মৃত্যুশোকে অশ্রুসিক্ত হয়েছিলেন",
+          "arabic_title": "",
+          "preface": "",
+          "order": 178,
+          "hadith_count": 1
+        },
+        {
+          "id": 179,
+          "chapter_id": 45,
+          "display_label": "৪৫/৫. অধ্যায়ঃ",
+          "title": "উসমান ইবনে মাযউন (রাঃ) এর মৃত্যুতেও রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম কেঁদেছিলেন",
+          "arabic_title": "",
+          "preface": "",
+          "order": 179,
+          "hadith_count": 1
+        },
+        {
+          "id": 180,
+          "chapter_id": 45,
+          "display_label": "৪৫/৬. অধ্যায়ঃ",
+          "title": "রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তাঁর কন্যাকে কবরের শোয়োনোর সময়ও কেঁদেছিলেন",
+          "arabic_title": "",
+          "preface": "",
+          "order": 180,
+          "hadith_count": 1
+        }
+      ]
+    },
+    {
+      "id": 46,
+      "display_label": "৪৬",
+      "title": "রাসূলুল্লাহ (সাঃ) এর বিছানা",
+      "arabic_title": "",
+      "preface": "",
+      "range": "২৫৩ - ২৫৩",
+      "order": 46,
+      "hadith_count": 1,
+      "sections_count": 1,
+      "sections": [
+        {
+          "id": 181,
+          "chapter_id": 46,
+          "display_label": "৪৬/১. অধ্যায়ঃ",
+          "title": "রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আঁশভর্তি চামড়ার বিছানায় নিদ্রা যেতেন",
+          "arabic_title": "",
+          "preface": "",
+          "order": 181,
+          "hadith_count": 1
+        }
+      ]
+    },
+    {
+      "id": 47,
+      "display_label": "৪৭",
+      "title": "রাসূলুল্লাহ (সাঃ) এর বিনয়",
+      "arabic_title": "",
+      "preface": "",
+      "range": "২৫৪ - ২৬৪",
+      "order": 47,
+      "hadith_count": 11,
+      "sections_count": 9,
+      "sections": [
+        {
+          "id": 182,
+          "chapter_id": 47,
+          "display_label": "৪৭/১. অধ্যায়ঃ",
+          "title": "রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তাঁকে নিয়ে বাড়াবাড়ি করতে নিষেধ করেছেন",
+          "arabic_title": "",
+          "preface": "",
+          "order": 182,
+          "hadith_count": 1
+        },
+        {
+          "id": 183,
+          "chapter_id": 47,
+          "display_label": "৪৭/২. অধ্যায়ঃ",
+          "title": "রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম সামান্য খাবারে দাওয়াত দিলেও অংশগ্রহণ করতেন",
+          "arabic_title": "",
+          "preface": "",
+          "order": 183,
+          "hadith_count": 1
+        },
+        {
+          "id": 184,
+          "chapter_id": 47,
+          "display_label": "৪৭/৩. অধ্যায়ঃ",
+          "title": "রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম একটি পুরনো আসনে বসে হজ্জ পালন করেন",
+          "arabic_title": "",
+          "preface": "",
+          "order": 184,
+          "hadith_count": 1
+        },
+        {
+          "id": 185,
+          "chapter_id": 47,
+          "display_label": "৪৭/৪. অধ্যায়ঃ",
+          "title": "রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তার জন্য কারো দাঁড়ানোকে পছন্দ করতেন না",
+          "arabic_title": "",
+          "preface": "",
+          "order": 185,
+          "hadith_count": 1
+        },
+        {
+          "id": 186,
+          "chapter_id": 47,
+          "display_label": "৪৭/৫. অধ্যায়ঃ",
+          "title": "রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর জীবনধারার আরো কিছু বিবরণ",
+          "arabic_title": "",
+          "preface": "",
+          "order": 186,
+          "hadith_count": 3
+        },
+        {
+          "id": 187,
+          "chapter_id": 47,
+          "display_label": "৪৭/৬. অধ্যায়ঃ",
+          "title": "তিনি নবজাতক বাচ্চাকেও কোলে তুলে নিতেন",
+          "arabic_title": "",
+          "preface": "",
+          "order": 187,
+          "hadith_count": 1
+        },
+        {
+          "id": 188,
+          "chapter_id": 47,
+          "display_label": "৪৭/৭. অধ্যায়ঃ",
+          "title": "রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম লাউ খুব পছন্দ করতেন",
+          "arabic_title": "",
+          "preface": "",
+          "order": 188,
+          "hadith_count": 1
+        },
+        {
+          "id": 189,
+          "chapter_id": 47,
+          "display_label": "৪৭/৮. অধ্যায়ঃ",
+          "title": "রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম নিজের কাজ নিজেই সম্পন্ন করতেন",
+          "arabic_title": "",
+          "preface": "",
+          "order": 189,
+          "hadith_count": 1
+        },
+        {
+          "id": 190,
+          "chapter_id": 47,
+          "display_label": "৪৭/৯. অধ্যায়ঃ",
+          "title": "রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম মাত্র ৪ দিরহাম মূল্যের হাওদার উপর বসে হজ্জ পালন করেন",
+          "arabic_title": "",
+          "preface": "",
+          "order": 190,
+          "hadith_count": 1
+        }
+      ]
+    },
+    {
+      "id": 48,
+      "display_label": "৪৮",
+      "title": "রাসূলুল্লাহ (সাঃ) এর চরিত্র (মাধুর্য)",
+      "arabic_title": "",
+      "preface": "",
+      "range": "২৬৫ - ২৭৬",
+      "order": 48,
+      "hadith_count": 12,
+      "sections_count": 11,
+      "sections": [
+        {
+          "id": 191,
+          "chapter_id": 48,
+          "display_label": "৪৮/১. অধ্যায়ঃ",
+          "title": "রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম সকলের সাথেই পূর্ণ মনোযোগের দিয়ে কথা বলতেন",
+          "arabic_title": "",
+          "preface": "",
+          "order": 191,
+          "hadith_count": 1
+        },
+        {
+          "id": 192,
+          "chapter_id": 48,
+          "display_label": "৪৮/২. অধ্যায়ঃ",
+          "title": "রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর চরিত্র সম্পর্কে আনাস (রাঃ) এর বর্ণনা",
+          "arabic_title": "",
+          "preface": "",
+          "order": 192,
+          "hadith_count": 1
+        },
+        {
+          "id": 193,
+          "chapter_id": 48,
+          "display_label": "৪৮/৩. অধ্যায়ঃ",
+          "title": "রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম কখনো অশোভনীয় আচরণ করতেন না",
+          "arabic_title": "",
+          "preface": "",
+          "order": 193,
+          "hadith_count": 1
+        },
+        {
+          "id": 194,
+          "chapter_id": 48,
+          "display_label": "৪৮/৪. অধ্যায়ঃ",
+          "title": "রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম কখনো কাউকে প্রহার করতেন না",
+          "arabic_title": "",
+          "preface": "",
+          "order": 194,
+          "hadith_count": 1
+        },
+        {
+          "id": 195,
+          "chapter_id": 48,
+          "display_label": "৪৮/৫. অধ্যায়ঃ",
+          "title": "রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম কখনো নিজের জন্য প্রতিশোধ নিতেন না",
+          "arabic_title": "",
+          "preface": "",
+          "order": 195,
+          "hadith_count": 1
+        },
+        {
+          "id": 196,
+          "chapter_id": 48,
+          "display_label": "৪৮/৬. অধ্যায়ঃ",
+          "title": "রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম খারাপ লোকের সাথেও উত্তম আচরণ করতেন",
+          "arabic_title": "",
+          "preface": "",
+          "order": 196,
+          "hadith_count": 1
+        },
+        {
+          "id": 197,
+          "chapter_id": 48,
+          "display_label": "৪৮/৭. অধ্যায়ঃ",
+          "title": "আলী (রাঃ) এর ভাষায় রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর চরিত্রের বর্ণনা",
+          "arabic_title": "",
+          "preface": "",
+          "order": 197,
+          "hadith_count": 1
+        },
+        {
+          "id": 198,
+          "chapter_id": 48,
+          "display_label": "৪৮/৮. অধ্যায়ঃ",
+          "title": "রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর নিকট কোন কিছু চাইলে তিনি কখনো না বলতেন না",
+          "arabic_title": "",
+          "preface": "",
+          "order": 198,
+          "hadith_count": 1
+        },
+        {
+          "id": 199,
+          "chapter_id": 48,
+          "display_label": "৪৮/৯. অধ্যায়ঃ",
+          "title": "রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ছিলেন সর্বশ্রেষ্ঠ দানশীল",
+          "arabic_title": "",
+          "preface": "",
+          "order": 199,
+          "hadith_count": 1
+        },
+        {
+          "id": 200,
+          "chapter_id": 48,
+          "display_label": "৪৮/১০. অধ্যায়ঃ",
+          "title": "তিনি আগামীকালের জন্য কোন কিছু জমা করে রাখতেন না",
+          "arabic_title": "",
+          "preface": "",
+          "order": 200,
+          "hadith_count": 1
+        },
+        {
+          "id": 201,
+          "chapter_id": 48,
+          "display_label": "৪৮/১১. অধ্যায়ঃ",
+          "title": "রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম হাদিয়া গ্রহণ করতেন এবং প্রতিদান দিতেন",
+          "arabic_title": "",
+          "preface": "",
+          "order": 201,
+          "hadith_count": 2
+        }
+      ]
+    },
+    {
+      "id": 49,
+      "display_label": "৪৯",
+      "title": "রাসূলুল্লাহ (সাঃ) এর লজ্জাবোধ",
+      "arabic_title": "",
+      "preface": "",
+      "range": "২৭৭ - ২৭৭",
+      "order": 49,
+      "hadith_count": 1,
+      "sections_count": 1,
+      "sections": [
+        {
+          "id": 202,
+          "chapter_id": 49,
+          "display_label": "৪৯/১. অধ্যায়ঃ",
+          "title": "রাসূলুল্লাহ (সাঃ) এর লজ্জাবোধ",
+          "arabic_title": "",
+          "preface": "",
+          "order": 202,
+          "hadith_count": 1
+        }
+      ]
+    },
+    {
+      "id": 50,
+      "display_label": "৫০",
+      "title": "রাসূলুল্লাহ (সাঃ) এর শিঙ্গা লাগানো",
+      "arabic_title": "",
+      "preface": "",
+      "range": "২৭৮ - ২৮৩",
+      "order": 50,
+      "hadith_count": 6,
+      "sections_count": 3,
+      "sections": [
+        {
+          "id": 203,
+          "chapter_id": 50,
+          "display_label": "৫০/১. অধ্যায়ঃ",
+          "title": "রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম শিঙ্গা লাগাতেন এবং এর পারিশ্রমিকও দিতেন",
+          "arabic_title": "",
+          "preface": "",
+          "order": 203,
+          "hadith_count": 2
+        },
+        {
+          "id": 204,
+          "chapter_id": 50,
+          "display_label": "৫০/২. অধ্যায়ঃ",
+          "title": "রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম গর্দানের দু’পার্শ্বে ও কাঁধের দু’পার্শ্বে শিঙ্গা লাগাতেন",
+          "arabic_title": "",
+          "preface": "",
+          "order": 204,
+          "hadith_count": 2
+        },
+        {
+          "id": 205,
+          "chapter_id": 50,
+          "display_label": "৫০/৩. অধ্যায়ঃ",
+          "title": "রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ১৭, ১৯ ও ২১ তারিখে শিঙ্গা লাগাতেন",
+          "arabic_title": "",
+          "preface": "",
+          "order": 205,
+          "hadith_count": 2
+        }
+      ]
+    },
+    {
+      "id": 51,
+      "display_label": "৫১",
+      "title": "রাসূলুল্লাহ (সাঃ) এর নাম",
+      "arabic_title": "",
+      "preface": "",
+      "range": "২৮৪ - ২৮৫",
+      "order": 51,
+      "hadith_count": 2,
+      "sections_count": 1,
+      "sections": [
+        {
+          "id": 206,
+          "chapter_id": 51,
+          "display_label": "৫১/১. অধ্যায়ঃ",
+          "title": "রাসূলুল্লাহ (সাঃ) এর নাম",
+          "arabic_title": "",
+          "preface": "",
+          "order": 206,
+          "hadith_count": 2
+        }
+      ]
+    },
+    {
+      "id": 52,
+      "display_label": "৫২",
+      "title": "রাসূলুল্লাহ (সাঃ) এর জীবিকা",
+      "arabic_title": "",
+      "preface": "",
+      "range": "২৮৬ - ২৯১",
+      "order": 52,
+      "hadith_count": 6,
+      "sections_count": 6,
+      "sections": [
+        {
+          "id": 207,
+          "chapter_id": 52,
+          "display_label": "৫২/১. অধ্যায়ঃ",
+          "title": "রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর কাছে কখনো পেটভরে খাওয়ার মতো খেজুর থাকত না",
+          "arabic_title": "",
+          "preface": "",
+          "order": 207,
+          "hadith_count": 1
+        },
+        {
+          "id": 208,
+          "chapter_id": 52,
+          "display_label": "৫২/২. অধ্যায়ঃ",
+          "title": "কখনো কখনো তাঁর পরিবারের চুলায় ১ মাসের অধিক সময় পর্যন্তও আগুন জ্বালানো হতো না",
+          "arabic_title": "",
+          "preface": "",
+          "order": 208,
+          "hadith_count": 1
+        },
+        {
+          "id": 209,
+          "chapter_id": 52,
+          "display_label": "৫২/৩. অধ্যায়ঃ",
+          "title": "রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ও কয়েকজন সাহাবীর ক্ষুধাকালীন এক সময়ের ঘটনা",
+          "arabic_title": "",
+          "preface": "",
+          "order": 209,
+          "hadith_count": 1
+        },
+        {
+          "id": 210,
+          "chapter_id": 52,
+          "display_label": "৫২/৪. অধ্যায়ঃ",
+          "title": "শিয়াবে তালিবের সময় রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম কে গাছের চামড়া ও পাতা খেয়ে জীবনপাত করতে হয়েছিল",
+          "arabic_title": "",
+          "preface": "",
+          "order": 210,
+          "hadith_count": 1
+        },
+        {
+          "id": 211,
+          "chapter_id": 52,
+          "display_label": "৫২/৫. অধ্যায়ঃ",
+          "title": "রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ৩০ রাত পর্যন্তও সামান্য আহারেই কাটিয়ে ছিলেন",
+          "arabic_title": "",
+          "preface": "",
+          "order": 211,
+          "hadith_count": 1
+        },
+        {
+          "id": 212,
+          "chapter_id": 52,
+          "display_label": "৫২/৬. অধ্যায়ঃ",
+          "title": "রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর কাছে কখনো রুটি ও গোশত একত্রিত হতো না",
+          "arabic_title": "",
+          "preface": "",
+          "order": 212,
+          "hadith_count": 1
+        }
+      ]
+    },
+    {
+      "id": 53,
+      "display_label": "৫৩",
+      "title": "রাসূলুল্লাহ (সাঃ) এর বয়স সম্পর্কে যা বর্ণিত হয়েছে",
+      "arabic_title": "",
+      "preface": "",
+      "range": "২৯২ - ২৯৬",
+      "order": 53,
+      "hadith_count": 5,
+      "sections_count": 1,
+      "sections": [
+        {
+          "id": 213,
+          "chapter_id": 53,
+          "display_label": "৫৩/১. অধ্যায়ঃ",
+          "title": "রাসূলুল্লাহ (সাঃ) এর বয়স সম্পর্কে যা বর্ণিত হয়েছে",
+          "arabic_title": "",
+          "preface": "",
+          "order": 213,
+          "hadith_count": 5
+        }
+      ]
+    },
+    {
+      "id": 54,
+      "display_label": "৫৪",
+      "title": "রাসূলুল্লাহ (সাঃ) এর ওফাত",
+      "arabic_title": "",
+      "preface": "",
+      "range": "২৯৭ - ৩০৭",
+      "order": 54,
+      "hadith_count": 11,
+      "sections_count": 10,
+      "sections": [
+        {
+          "id": 214,
+          "chapter_id": 54,
+          "display_label": "৫৪/১. অধ্যায়ঃ",
+          "title": "রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর ওফাতের দিন আবু বকর (রাঃ) লোকদের ইমামতি করেন",
+          "arabic_title": "",
+          "preface": "",
+          "order": 214,
+          "hadith_count": 1
+        },
+        {
+          "id": 215,
+          "chapter_id": 54,
+          "display_label": "৫৪/২. অধ্যায়ঃ",
+          "title": "রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ওফাতের",
+          "arabic_title": "",
+          "preface": "",
+          "order": 215,
+          "hadith_count": 1
+        },
+        {
+          "id": 216,
+          "chapter_id": 54,
+          "display_label": "৫৪/৩. অধ্যায়ঃ",
+          "title": "রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-ও মৃত্যুর যন্ত্রণা ভোগ করেছিলেন",
+          "arabic_title": "",
+          "preface": "",
+          "order": 216,
+          "hadith_count": 1
+        },
+        {
+          "id": 217,
+          "chapter_id": 54,
+          "display_label": "৫৪/৪. অধ্যায়ঃ",
+          "title": "রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম কে তাঁর মৃত্যুর স্থানেই দাফন করা হয়",
+          "arabic_title": "",
+          "preface": "",
+          "order": 217,
+          "hadith_count": 1
+        },
+        {
+          "id": 218,
+          "chapter_id": 54,
+          "display_label": "৫৪/৫. অধ্যায়ঃ",
+          "title": "রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর ওফাতের পর আবু বকর (রাঃ) তাঁর কপালে চুম্বন করেন",
+          "arabic_title": "",
+          "preface": "",
+          "order": 218,
+          "hadith_count": 2
+        },
+        {
+          "id": 219,
+          "chapter_id": 54,
+          "display_label": "৫৪/৬. অধ্যায়ঃ",
+          "title": "রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর মৃত্যুতে সাহাবীদের কাছে সবকিছু অন্ধকার মনে হচ্ছিল",
+          "arabic_title": "",
+          "preface": "",
+          "order": 219,
+          "hadith_count": 1
+        },
+        {
+          "id": 220,
+          "chapter_id": 54,
+          "display_label": "৫৪/৭. অধ্যায়ঃ",
+          "title": "রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম সোমবারের দিন ইন্তেকাল করেন",
+          "arabic_title": "",
+          "preface": "",
+          "order": 220,
+          "hadith_count": 1
+        },
+        {
+          "id": 221,
+          "chapter_id": 54,
+          "display_label": "৫৪/৮. অধ্যায়ঃ",
+          "title": "মঙ্গলবারের দিন রাতে তাঁকে দাফন করা হয়",
+          "arabic_title": "",
+          "preface": "",
+          "order": 221,
+          "hadith_count": 1
+        },
+        {
+          "id": 222,
+          "chapter_id": 54,
+          "display_label": "৫৪/৯. অধ্যায়ঃ",
+          "title": "রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর মৃত্যু ও আবুবকর (রাঃ) এর বাইয়াত গ্রহণ",
+          "arabic_title": "",
+          "preface": "",
+          "order": 222,
+          "hadith_count": 1
+        },
+        {
+          "id": 223,
+          "chapter_id": 54,
+          "display_label": "৫৪/১০. অধ্যায়ঃ",
+          "title": "রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর মৃত্যুতে ফাতিমা (রাঃ) এর ক্ৰন্দন",
+          "arabic_title": "",
+          "preface": "",
+          "order": 223,
+          "hadith_count": 1
+        }
+      ]
+    },
+    {
+      "id": 55,
+      "display_label": "৫৫",
+      "title": "রাসূলুল্লাহ (সাঃ) এর মীরাস",
+      "arabic_title": "",
+      "preface": "",
+      "range": "৩০৮ - ৩১৪",
+      "order": 55,
+      "hadith_count": 7,
+      "sections_count": 2,
+      "sections": [
+        {
+          "id": 224,
+          "chapter_id": 55,
+          "display_label": "৫৫/১. অধ্যায়ঃ",
+          "title": "রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম মৃত্যুর সময় সবকিছু সাদাকা করে যান",
+          "arabic_title": "",
+          "preface": "",
+          "order": 224,
+          "hadith_count": 1
+        },
+        {
+          "id": 225,
+          "chapter_id": 55,
+          "display_label": "৫৫/২. অধ্যায়ঃ",
+          "title": "রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম কোন ওয়ারিস রেখে যাননি",
+          "arabic_title": "",
+          "preface": "",
+          "order": 225,
+          "hadith_count": 6
+        }
+      ]
+    },
+    {
+      "id": 56,
+      "display_label": "৫৬",
+      "title": "রাসূলুল্লাহ (সাঃ) কে স্বপ্নযোগে দর্শন",
+      "arabic_title": "",
+      "preface": "",
+      "range": "৩১৫ - ৩২২",
+      "order": 56,
+      "hadith_count": 8,
+      "sections_count": 3,
+      "sections": [
+        {
+          "id": 226,
+          "chapter_id": 56,
+          "display_label": "৫৬/১. অধ্যায়ঃ",
+          "title": "রাসূলুল্লাহ (সাঃ) কে স্বপ্নযোগে দর্শন",
+          "arabic_title": "",
+          "preface": "",
+          "order": 226,
+          "hadith_count": 1
+        },
+        {
+          "id": 227,
+          "chapter_id": 56,
+          "display_label": "৫৬/২. অধ্যায়ঃ",
+          "title": "শয়তান রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর রূপ ধারণ করতে পারে না",
+          "arabic_title": "",
+          "preface": "",
+          "order": 227,
+          "hadith_count": 4
+        },
+        {
+          "id": 228,
+          "chapter_id": 56,
+          "display_label": "৫৬/৩. অধ্যায়ঃ",
+          "title": "মুমিনের সত্য স্বপ্ন নবুওয়াতের ৪৬ ভাগের ১ ভাগ",
+          "arabic_title": "",
+          "preface": "",
+          "order": 228,
+          "hadith_count": 3
+        }
+      ]
+    }
+  ]
+}

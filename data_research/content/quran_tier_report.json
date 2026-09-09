@@ -1,0 +1,227 @@
+{
+  "generated_on": "2026-08-28",
+  "preliminary_candidates": 3243,
+  "continuation_word_excluded": 219,
+  "post_structural_filter": 3024,
+  "tier_A": 1062,
+  "tier_B": 1784,
+  "tier_C": 178,
+  "missing_master": 0,
+  "final_daily_pool": 2846,
+  "tier_C_reason_breakdown": {
+    "Context-locked: matches pattern [^(Allah |He |She |They |Moses |Pharaoh |Abraham |N...]": 116,
+    "Context-locked: matches pattern [^(And\\s+)?(they|he|she|it)\\s+(were|was|had been|us...]": 18,
+    "Context-locked: matches pattern [^(And\\s+)?˹?[Rr]emember˺?\\s+when\\b...]": 12,
+    "Context-locked: matches pattern [^(He|She|They|Moses|Pharaoh|Abraham|Noah|Satan|Ibl...]": 11,
+    "Context-locked: matches pattern [^(Leaving|Going|Taking|Saying|Telling|Knowing|Givi...]": 7,
+    "Context-locked: matches pattern [^(Pharaoh|Moses)\\s+(protested|demanded|ordered|com...]": 6,
+    "Context-locked: matches pattern [^to (Pharaoh|Moses|Abraham|Noah|the people)\\b...]": 3,
+    "Short context-dependent fragment": 2,
+    "Context-locked: matches pattern [^˹[Ff]inally,?˺...]": 1,
+    "Contextual reference to a specific group established earlier": 1,
+    "Context-locked: matches pattern [^never (out of|ending|ceasing)\\b...]": 1
+  },
+  "tier_A_sample_ids": [
+    "quran_001_001",
+    "quran_001_002",
+    "quran_001_004",
+    "quran_001_005",
+    "quran_001_006",
+    "quran_002_002",
+    "quran_002_003",
+    "quran_002_006",
+    "quran_002_016",
+    "quran_002_021",
+    "quran_002_040",
+    "quran_002_042",
+    "quran_002_047",
+    "quran_002_052",
+    "quran_002_088",
+    "quran_002_092",
+    "quran_002_099",
+    "quran_002_100",
+    "quran_002_103",
+    "quran_002_119",
+    "quran_002_121",
+    "quran_002_122",
+    "quran_002_138",
+    "quran_002_139",
+    "quran_002_146",
+    "quran_002_147",
+    "quran_002_152",
+    "quran_002_154",
+    "quran_002_157",
+    "quran_002_160"
+  ],
+  "tier_B_sample_ids": [
+    "quran_001_007",
+    "quran_002_005",
+    "quran_002_007",
+    "quran_002_009",
+    "quran_002_010",
+    "quran_002_011",
+    "quran_002_012",
+    "quran_002_015",
+    "quran_002_018",
+    "quran_002_028",
+    "quran_002_031",
+    "quran_002_043",
+    "quran_002_044",
+    "quran_002_046",
+    "quran_002_065",
+    "quran_002_072",
+    "quran_002_077",
+    "quran_002_086",
+    "quran_002_098",
+    "quran_002_104",
+    "quran_002_115",
+    "quran_002_116",
+    "quran_002_117",
+    "quran_002_131",
+    "quran_002_134",
+    "quran_002_141",
+    "quran_002_153",
+    "quran_002_155",
+    "quran_002_156",
+    "quran_002_162"
+  ],
+  "tier_C_sample": [
+    {
+      "id": "quran_002_032",
+      "reason": "Context-locked: matches pattern [^(Allah |He |She |They |Moses |Pharaoh |Abraham |N...]"
+    },
+    {
+      "id": "quran_003_122",
+      "reason": "Context-locked: matches pattern [^(And\\s+)?˹?[Rr]emember˺?\\s+when\\b...]"
+    },
+    {
+      "id": "quran_004_161",
+      "reason": "Context-locked: matches pattern [^(Leaving|Going|Taking|Saying|Telling|Knowing|Givi...]"
+    },
+    {
+      "id": "quran_005_026",
+      "reason": "Context-locked: matches pattern [^(Allah |He |She |They |Moses |Pharaoh |Abraham |N...]"
+    },
+    {
+      "id": "quran_005_079",
+      "reason": "Context-locked: matches pattern [^(And\\s+)?(they|he|she|it)\\s+(were|was|had been|us...]"
+    },
+    {
+      "id": "quran_005_113",
+      "reason": "Context-locked: matches pattern [^(Allah |He |She |They |Moses |Pharaoh |Abraham |N...]"
+    },
+    {
+      "id": "quran_007_013",
+      "reason": "Context-locked: matches pattern [^(Allah |He |She |They |Moses |Pharaoh |Abraham |N...]"
+    },
+    {
+      "id": "quran_007_015",
+      "reason": "Context-locked: matches pattern [^(Allah |He |She |They |Moses |Pharaoh |Abraham |N...]"
+    },
+    {
+      "id": "quran_007_016",
+      "reason": "Context-locked: matches pattern [^(Allah |He |She |They |Moses |Pharaoh |Abraham |N...]"
+    },
+    {
+      "id": "quran_007_018",
+      "reason": "Context-locked: matches pattern [^(Allah |He |She |They |Moses |Pharaoh |Abraham |N...]"
+    },
+    {
+      "id": "quran_007_023",
+      "reason": "Context-locked: matches pattern [^(Allah |He |She |They |Moses |Pharaoh |Abraham |N...]"
+    },
+    {
+      "id": "quran_007_024",
+      "reason": "Context-locked: matches pattern [^(Allah |He |She |They |Moses |Pharaoh |Abraham |N...]"
+    },
+    {
+      "id": "quran_007_061",
+      "reason": "Context-locked: matches pattern [^(Allah |He |She |They |Moses |Pharaoh |Abraham |N...]"
+    },
+    {
+      "id": "quran_007_106",
+      "reason": "Context-locked: matches pattern [^(Allah |He |She |They |Moses |Pharaoh |Abraham |N...]"
+    },
+    {
+      "id": "quran_007_111",
+      "reason": "Context-locked: matches pattern [^(Allah |He |She |They |Moses |Pharaoh |Abraham |N...]"
+    },
+    {
+      "id": "quran_007_114",
+      "reason": "Context-locked: matches pattern [^(Allah |He |She |They |Moses |Pharaoh |Abraham |N...]"
+    },
+    {
+      "id": "quran_007_116",
+      "reason": "Context-locked: matches pattern [^(Allah |He |She |They |Moses |Pharaoh |Abraham |N...]"
+    },
+    {
+      "id": "quran_007_121",
+      "reason": "Context-locked: matches pattern [^(Allah |He |She |They |Moses |Pharaoh |Abraham |N...]"
+    },
+    {
+      "id": "quran_007_125",
+      "reason": "Context-locked: matches pattern [^(Allah |He |She |They |Moses |Pharaoh |Abraham |N...]"
+    },
+    {
+      "id": "quran_007_132",
+      "reason": "Context-locked: matches pattern [^(Allah |He |She |They |Moses |Pharaoh |Abraham |N...]"
+    },
+    {
+      "id": "quran_007_144",
+      "reason": "Context-locked: matches pattern [^(Allah |He |She |They |Moses |Pharaoh |Abraham |N...]"
+    },
+    {
+      "id": "quran_008_009",
+      "reason": "Context-locked: matches pattern [^(And\\s+)?˹?[Rr]emember˺?\\s+when\\b...]"
+    },
+    {
+      "id": "quran_010_077",
+      "reason": "Context-locked: matches pattern [^(Allah |He |She |They |Moses |Pharaoh |Abraham |N...]"
+    },
+    {
+      "id": "quran_010_079",
+      "reason": "Context-locked: matches pattern [^(Pharaoh|Moses)\\s+(protested|demanded|ordered|com...]"
+    },
+    {
+      "id": "quran_010_084",
+      "reason": "Context-locked: matches pattern [^(Allah |He |She |They |Moses |Pharaoh |Abraham |N...]"
+    },
+    {
+      "id": "quran_010_085",
+      "reason": "Context-locked: matches pattern [^(Allah |He |She |They |Moses |Pharaoh |Abraham |N...]"
+    },
+    {
+      "id": "quran_011_032",
+      "reason": "Context-locked: matches pattern [^(Allah |He |She |They |Moses |Pharaoh |Abraham |N...]"
+    },
+    {
+      "id": "quran_011_033",
+      "reason": "Context-locked: matches pattern [^(Allah |He |She |They |Moses |Pharaoh |Abraham |N...]"
+    },
+    {
+      "id": "quran_011_053",
+      "reason": "Context-locked: matches pattern [^(Allah |He |She |They |Moses |Pharaoh |Abraham |N...]"
+    },
+    {
+      "id": "quran_011_073",
+      "reason": "Context-locked: matches pattern [^(Allah |He |She |They |Moses |Pharaoh |Abraham |N...]"
+    }
+  ],
+  "duration_estimates": {
+    "5_per_day_3Q2H": {
+      "quran_unique_days": 948,
+      "hadith_unique_days": 349,
+      "bottleneck": "Hadith at ~350 days"
+    },
+    "3_per_day_2Q1H": {
+      "quran_unique_days": 1423,
+      "hadith_unique_days": 699,
+      "bottleneck": "Hadith at ~699 days (~1.9 years)"
+    },
+    "2_per_day_1Q1H": {
+      "quran_unique_days": 2846,
+      "hadith_unique_days": 699,
+      "bottleneck": "Hadith at 699 days (~1.9 years)"
+    }
+  }
+}

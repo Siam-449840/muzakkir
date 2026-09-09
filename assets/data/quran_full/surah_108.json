@@ -1,0 +1,173 @@
+{
+  "surah": 108,
+  "verses": [
+    {
+      "content_id": "quran_108_001",
+      "reference": {
+        "surah_number": 108,
+        "surah_name": "Al-Kawthar",
+        "surah_name_ar": "سُوْرَةُ الْكَوْثَرِ",
+        "surah_name_translation": "Abundance",
+        "ayah_number": 1,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 3,
+      "translations": {
+        "ar": {
+          "text": "إِنَّآ أَعۡطَيۡنَٰكَ ٱلۡكَوۡثَرَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Indeed, We have granted you ˹O Prophet˺ abundant goodness",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "我确已赐你多福",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "निश्चय ही हमने तुम्हें कौसर प्रदान किया",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "[¡Oh, Mujámmad!] te he agraciado con la abundancia",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Nous t'avons certes, accordé l'Abondance",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "নিশ্চয় আমি আপনাকে কাওসার দান করেছি।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Por certo, Nós te demos Al-Kawthar",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Мы даровали тебе аль-Каусар (бесчисленные блага, в том числе одноименную реку в Раю)",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "(اے محمدﷺ) ہم نے تم کو کوثر عطا فرمائی ہے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_108_002",
+      "reference": {
+        "surah_number": 108,
+        "surah_name": "Al-Kawthar",
+        "surah_name_ar": "سُوْرَةُ الْكَوْثَرِ",
+        "surah_name_translation": "Abundance",
+        "ayah_number": 2,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 3,
+      "translations": {
+        "ar": {
+          "text": "فَصَلِّ لِرَبِّكَ وَٱنۡحَرۡ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "So pray and sacrifice to your Lord ˹alone˺",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "故你应当为你的主而礼拜, 并宰牺牲。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "अतः तुम अपने रब ही के लिए नमाज़ पढ़ो और (उसी के दिन) क़़ुरबानी करो",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Reza a tu Señor y sacrifica [los animales en Su nombre]",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Accomplis la Salât pour ton Seigneur et sacrifie",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "অতএব আপনার পালনকর্তার উদ্দেশ্যে নামায পড়ুন এবং কোরবানী করুন।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Então, ora a teu Senhor e imola as oferendas",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Посему совершай намаз ради своего Господа и закалывай жертву",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "تو اپنے پروردگار کے لیے نماز پڑھا کرو اور قربانی دیا کرو",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_108_003",
+      "reference": {
+        "surah_number": 108,
+        "surah_name": "Al-Kawthar",
+        "surah_name_ar": "سُوْرَةُ الْكَوْثَرِ",
+        "surah_name_translation": "Abundance",
+        "ayah_number": 3,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 4,
+      "translations": {
+        "ar": {
+          "text": "إِنَّ شَانِئَكَ هُوَ ٱلۡأَبۡتَرُ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Only the one who hates you is truly cut off ˹from any goodness˺",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "怨恨你者, 确是绝后的。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "निस्संदेह तुम्हारा जो वैरी है वही जड़कटा है",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Porque a quien te desdeñe y odie le privaré de todo bien",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Celui qui te hait sera certes, sans postérité",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "যে আপনার শত্রু, সেই তো লেজকাটা, নির্বংশ।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Por certo, quem te odeia será ele o sem posteridade",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Воистину, твой ненавистник сам окажется безвестным",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "کچھ شک نہیں کہ تمہارا دشمن ہی بےاولاد رہے گا",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    }
+  ]
+}

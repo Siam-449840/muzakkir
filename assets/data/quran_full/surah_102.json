@@ -1,0 +1,453 @@
+{
+  "surah": 102,
+  "verses": [
+    {
+      "content_id": "quran_102_001",
+      "reference": {
+        "surah_number": 102,
+        "surah_name": "At-Takaathur",
+        "surah_name_ar": "سُوْرَةُ التَّكَاثُرِ",
+        "surah_name_translation": "Competition",
+        "ayah_number": 1,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 2,
+      "translations": {
+        "ar": {
+          "text": "أَلۡهَىٰكُمُ ٱلتَّكَاثُرُ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Competition for more ˹gains˺ diverts you ˹from Allah˺",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "竞赛富庶, 已使你们疏忽",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "तुम्हें एक-दूसरे के मुक़ाबले में बहुतायत के प्रदर्शन और घमंड ने ग़फ़़लत में डाल रखा है",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "El afán de tener más y más los domina",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "La course aux richesses vous distrait",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "প্রাচুর্যের লালসা তোমাদেরকে গাফেল রাখে,",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "A ostentação entretém-vos",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Страсть к приумножению (похвальба богатством и детьми) увлекает вас",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "(لوگو) تم کو (مال کی) بہت سی طلب نے غافل کر دیا",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_102_002",
+      "reference": {
+        "surah_number": 102,
+        "surah_name": "At-Takaathur",
+        "surah_name_ar": "سُوْرَةُ التَّكَاثُرِ",
+        "surah_name_translation": "Competition",
+        "ayah_number": 2,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 3,
+      "translations": {
+        "ar": {
+          "text": "حَتَّىٰ زُرۡتُمُ ٱلۡمَقَابِرَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "until you end up in ˹your˺ graves",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "直到你们去游坟地。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "यहाँ तक कि तुम क़ब्रिस्तानों में पहुँच गए",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "hasta que la muerte los sorprenda y entren en la tumba",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "jusqu'à ce que vous visitiez les tombes",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "এমনকি, তোমরা কবরস্থানে পৌছে যাও।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Até visitardes os sepulcros",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "настолько, что вы посещаете кладбища, чтобы бахвалиться своими покойниками (или пока вы сами не посетите могилы)",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "یہاں تک کہ تم نے قبریں جا دیکھیں",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_102_003",
+      "reference": {
+        "surah_number": 102,
+        "surah_name": "At-Takaathur",
+        "surah_name_ar": "سُوْرَةُ التَّكَاثُرِ",
+        "surah_name_translation": "Competition",
+        "ayah_number": 3,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 3,
+      "translations": {
+        "ar": {
+          "text": "كَلَّا سَوۡفَ تَعۡلَمُونَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "But no! You will soon come to know",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "真的, 你们将来就知道了。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "कुछ नहीं, तुम शीघ्र ही जान लोगे",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "¡No deberían comportarse así! Ya se van a enterar [que obrar para la otra vida es superior]",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Mais non! Vous saurez bientôt",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "এটা কখনও উচিত নয়। তোমরা সত্ত্বরই জেনে নেবে।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Em absoluto, não vos ostenteis! Vós logo sabereis",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Но нет! Скоро вы узнаете",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "دیکھو تمہیں عنقریب معلوم ہو جائے گا",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_102_004",
+      "reference": {
+        "surah_number": 102,
+        "surah_name": "At-Takaathur",
+        "surah_name_ar": "سُوْرَةُ التَّكَاثُرِ",
+        "surah_name_translation": "Competition",
+        "ayah_number": 4,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 4,
+      "translations": {
+        "ar": {
+          "text": "ثُمَّ كَلَّا سَوۡفَ تَعۡلَمُونَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Again, no! You will soon come to know",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "真的, 你们将来就知道了。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "फिर, कुछ नहीं, तुम्हें शीघ्र ही मालूम हो जाएगा",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Una vez más: ¡No deberían comportarse así! Ya se van a enterar [que obrar para la otra vida es superior]",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "(Encore une fois)! Vous saurez bientôt",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "অতঃপর এটা কখনও উচিত নয়। তোমরা সত্ত্বরই জেনে নেবে।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Mais uma vez, em absoluto, não vos ostenteis! Vós logo sabereis",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Еще раз нет! Скоро вы узнаете",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "پھر دیکھو تمہیں عنقریب معلوم ہو جائے گا",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_102_005",
+      "reference": {
+        "surah_number": 102,
+        "surah_name": "At-Takaathur",
+        "surah_name_ar": "سُوْرَةُ التَّكَاثُرِ",
+        "surah_name_translation": "Competition",
+        "ayah_number": 5,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 5,
+      "translations": {
+        "ar": {
+          "text": "كَلَّا لَوۡ تَعۡلَمُونَ عِلۡمَ ٱلۡيَقِينِ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Indeed, if you were to know ˹your fate˺ with certainty, ˹you would have acted differently˺",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "真的, 假若你们有真知灼见, (你们必不疏忽)",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "कुछ नहीं, अगर तुम विश्वसनीय ज्ञान के रूप में जान लो! (तो तुम धन-दौलत के पुजारी न बनो)",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Si hubieran sabido con certeza [el castigo de quienes consumen su vida en el afán de tener más y más, habrían cambiado el rumbo de sus vidas]",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Sûrement! Si vous saviez de science certaine",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "কখনই নয়; যদি তোমরা নিশ্চিত জানতে।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Ora, se soubésseis a ciência da Certeza, renunciaríeis a ostentação",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Но нет! Если бы вы только обладали убедительным знанием",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "دیکھو اگر تم جانتے (یعنی) علم الیقین (رکھتے تو غفلت نہ کرتے)",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_102_006",
+      "reference": {
+        "surah_number": 102,
+        "surah_name": "At-Takaathur",
+        "surah_name_ar": "سُوْرَةُ التَّكَاثُرِ",
+        "surah_name_translation": "Competition",
+        "ayah_number": 6,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 2,
+      "translations": {
+        "ar": {
+          "text": "لَتَرَوُنَّ ٱلۡجَحِيمَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "˹But˺ you will surely see the Hellfire",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "你们必定看见火狱",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "अवश्य ही तुम भड़कती आग से दो-चार होगे",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Habrán de ver el fuego del Infierno",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Vous verrez, certes, la Fournaise",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "তোমরা অবশ্যই জাহান্নাম দেখবে,",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Em verdade, vereis o Inferno",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "А ведь вы непременно увидите Ад",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "تم ضرور دوزخ کو دیکھو گے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_102_007",
+      "reference": {
+        "surah_number": 102,
+        "surah_name": "At-Takaathur",
+        "surah_name_ar": "سُوْرَةُ التَّكَاثُرِ",
+        "surah_name_translation": "Competition",
+        "ayah_number": 7,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 4,
+      "translations": {
+        "ar": {
+          "text": "ثُمَّ لَتَرَوُنَّهَا عَيۡنَ ٱلۡيَقِينِ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Again, you will surely see it with the eye of certainty",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "然後, 你们必亲眼看见它。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "फिर सुनो, उसे अवश्य देखोगे इस दशा में कि वह यथावत विश्वास होगा",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "y lo verán con los ojos de la certeza",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Puis, vous la verrez certes, avec l'œil de la certitude",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "অতঃপর তোমরা তা অবশ্যই দেখবে দিব্য প্রত্যয়ে,",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Em seguida, certamente, vê-lo-eis, com os olhos da certeza",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Вы увидите его глазами убежденными",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "پھر اس کو (ایسا) دیکھو گے (کہ) عین الیقین (آ جائے گا)",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_102_008",
+      "reference": {
+        "surah_number": 102,
+        "surah_name": "At-Takaathur",
+        "surah_name_ar": "سُوْرَةُ التَّكَاثُرِ",
+        "surah_name_translation": "Competition",
+        "ayah_number": 8,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 5,
+      "translations": {
+        "ar": {
+          "text": "ثُمَّ لَتُسۡـَٔلُنَّ يَوۡمَئِذٍ عَنِ ٱلنَّعِيمِ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Then, on that Day, you will definitely be questioned about ˹your worldly˺ pleasures",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "在那日, 你们必为恩泽而被审问。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "फिर निश्चय ही उस दिन तुमसे नेमतों के बारे में पूछा जाएगा",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Luego, ese día [del Juicio] se les preguntará por cada bendición que recibieron [durante la vida mundanal]",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Puis, assurément, vous serez interrogés, ce jour-là, sur les délices",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "এরপর অবশ্যই সেদিন তোমরা নেয়ামত সম্পর্কে জিজ্ঞাসিত হবে।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Depois, sereis, em verdade, nesse dia, interrogados das delícias da vida",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "В тот день вы будете спрошены о благах",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "پھر اس روز تم سے (شکر) نعمت کے بارے میں پرسش ہو گی",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    }
+  ]
+}

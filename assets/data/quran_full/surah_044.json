@@ -1,0 +1,3309 @@
+{
+  "surah": 44,
+  "verses": [
+    {
+      "content_id": "quran_044_001",
+      "reference": {
+        "surah_number": 44,
+        "surah_name": "Ad-Dukhaan",
+        "surah_name_ar": "سُوْرَةُ الدُّخَانِ",
+        "surah_name_translation": "The Smoke",
+        "ayah_number": 1,
+        "juz": 25,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 1,
+      "translations": {
+        "ar": {
+          "text": "حمٓ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Ḥâ-Mĩm",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "哈一，米目。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "हा॰ मीम॰",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Ha’. Mim",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "H'â, Mîm",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "হা-মীম।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Ha, Mim",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Ха. Мим",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "حٰم",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_044_002",
+      "reference": {
+        "surah_number": 44,
+        "surah_name": "Ad-Dukhaan",
+        "surah_name_ar": "سُوْرَةُ الدُّخَانِ",
+        "surah_name_translation": "The Smoke",
+        "ayah_number": 2,
+        "juz": 25,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 2,
+      "translations": {
+        "ar": {
+          "text": "وَٱلۡكِتَٰبِ ٱلۡمُبِينِ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "By the clear Book",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "以明确的经典盟誓，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "गवाह है स्पष्ट किताब",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "[Juro] por el Libro clarificador",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Par le Livre (le Coran) explicite",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "শপথ সুস্পষ্ট কিতাবের।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Pelo Livro explícito",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Клянусь ясным Писанием",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اس کتاب روشن کی قسم",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_044_003",
+      "reference": {
+        "surah_number": 44,
+        "surah_name": "Ad-Dukhaan",
+        "surah_name_ar": "سُوْرَةُ الدُّخَانِ",
+        "surah_name_translation": "The Smoke",
+        "ayah_number": 3,
+        "juz": 25,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 8,
+      "translations": {
+        "ar": {
+          "text": "إِنَّآ أَنزَلۡنَٰهُ فِي لَيۡلَةࣲ مُّبَٰرَكَةٍۚ إِنَّا كُنَّا مُنذِرِينَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Indeed, We sent it down on a blessed night, for We always warn ˹against evil˺",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "在一个吉祥的夜间，我确已降示它，我确是警告者。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "निस्संदेह हमने उसे एक बरकत भरी रात में अवतरित किया है। - निश्चय ही हम सावधान करनेवाले है।",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "que he revelado en una noche bendita: ¡Les he advertido",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Nous l'avons fait descendre en une nuit bénie, Nous sommes en vérité Celui qui avertit",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "আমি একে নাযিল করেছি। এক বরকতময় রাতে, নিশ্চয় আমি সতর্ককারী।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Surat Ad-Dukhan. Por certo, Nós o fizemos descer em uma noite bendita, por certo, somos Admoestadores",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Мы ниспослали его в благословенную ночь, и Мы предостерегаем",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "کہ ہم نے اس کو مبارک رات میں نازل فرمایا ہم تو رستہ دکھانے والے ہیں",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_044_004",
+      "reference": {
+        "surah_number": 44,
+        "surah_name": "Ad-Dukhaan",
+        "surah_name_ar": "سُوْرَةُ الدُّخَانِ",
+        "surah_name_translation": "The Smoke",
+        "ayah_number": 4,
+        "juz": 25,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 5,
+      "translations": {
+        "ar": {
+          "text": "فِيهَا يُفۡرَقُ كُلُّ أَمۡرٍ حَكِيمٍ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "On that night every matter of wisdom is ordained",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "在那夜里，一切睿智的事，都被判定，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "उस (रात) में तमाम तत्वदर्शिता युक्त मामलों का फ़ैसला किया जाता है",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "En ella se decreta sabiamente cada asunto",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "durant laquelle est décidé tout ordre sage",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "এ রাতে প্রত্যেক প্রজ্ঞাপূর্ণ বিষয় স্থিরীকৃত হয়।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Nela, decide-se toda sábia ordem",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "В нее решаются все мудрые дела",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اسی رات میں تمام حکمت کے کام فیصل کئے جاتے ہیں",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_044_005",
+      "reference": {
+        "surah_number": 44,
+        "surah_name": "Ad-Dukhaan",
+        "surah_name_ar": "سُوْرَةُ الدُّخَانِ",
+        "surah_name_translation": "The Smoke",
+        "ayah_number": 5,
+        "juz": 25,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 7,
+      "translations": {
+        "ar": {
+          "text": "أَمۡرࣰ ا مِّنۡ عِندِنَآۚ إِنَّا كُنَّا مُرۡسِلِينَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "by a command from Us, for We have always sent ˹messengers˺",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "那是按照从我那里了出的命令的。我确是派遣使者的。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "हमारे यहाँ से आदेश के रूप में। निस्संदेह रसूलों को भेजनेवाले हम ही है।",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Todo sucede por Mi designio. He enviado [Profetas y libros sagrados]",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "c'est là un commandement venant de Nous. C'est Nous qui envoyons [les Messagers]",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "আমার পক্ষ থেকে আদেশক্রমে, আমিই প্রেরণকারী।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Como ordem de Nossa parte. Por certo, Somos Nós Que enviamos a Mensagem",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "по повелению от Нас. Мы посылаем пророков и Писания",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "(یعنی) ہمارے ہاں سے حکم ہو کر۔ بےشک ہم ہی (پیغمبر کو) بھیجتے ہیں",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_044_006",
+      "reference": {
+        "surah_number": 44,
+        "surah_name": "Ad-Dukhaan",
+        "surah_name_ar": "سُوْرَةُ الدُّخَانِ",
+        "surah_name_translation": "The Smoke",
+        "ayah_number": 6,
+        "juz": 25,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 7,
+      "translations": {
+        "ar": {
+          "text": "رَحۡمَةࣰ مِّن رَّبِّكَۚ إِنَّهُۥ هُوَ ٱلسَّمِيعُ ٱلۡعَلِيمُ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "as a mercy from your Lord. He ˹alone˺ is truly the All-Hearing, All-Knowing—",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "那是由于从你的主发出的恩惠。他确是全聪的，确是全知的。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "तुम्हारे रब की दयालुता के कारण। निस्संदेह वही सब कुछ सुननेवाला, जाननेवाला है",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "como una misericordia de tu Señor. Él todo lo oye, todo lo sabe",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "à titre de miséricorde de la part de ton Seigneur, car c'est Lui l'Audient, l'Omniscient",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "আপনার পালনকর্তার পক্ষ থেকে রহমতস্বরূপ। তিনি সর্বশ্রোতা, সর্বজ্ঞ।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Como misericórdia de teu Senhor. Por certo, Ele é O Oniouvinte, O Onisciente",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "по милости твоего Господа, Слышащего, Знающего",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "(یہ) تمہارے پروردگار کی رحمت ہے۔ وہ تو سننے والا جاننے والا ہے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_044_007",
+      "reference": {
+        "surah_number": 44,
+        "surah_name": "Ad-Dukhaan",
+        "surah_name_ar": "سُوْرَةُ الدُّخَانِ",
+        "surah_name_translation": "The Smoke",
+        "ayah_number": 7,
+        "juz": 25,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 8,
+      "translations": {
+        "ar": {
+          "text": "رَبِّ ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضِ وَمَا بَيۡنَهُمَآۖ إِن كُنتُم مُّوقِنِينَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "the Lord of the heavens and the earth and everything in between, if only you had sure faith",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "他是天地万物的主，如果你们是坚信者。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "आकाशों और धरती का रब और जो कुछ उन दोनों के बीच है उसका भी, यदि तुम विश्वास रखनेवाले हो (तो विश्वास करो कि किताब का अवतरण अल्लाह की दयालुता है)",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Señor de los cielos y de la Tierra, y de lo que existe entre ambos. ¿Acaso no tienen certeza de eso",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Seigneur des cieux et de la terre et de ce qui est entre eux, si seulement vous pouviez en avoir la conviction",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "যদি তোমাদের বিশ্বাস থাকে দেখতে পাবে। তিনি নভোমন্ডল, ভূমন্ডল ও এতদুভয়ের মধ্যেবর্তী সবকিছুর পালনকর্তা।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "O Senhor dos céus e da terra e do que há entre ambos, se estais convictos disso",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Господа небес, земли и того, что между ними, если только вы обладаете убежденностью",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "آسمانوں اور زمین کا اور جو کچھ ان دونوں میں ہے سب کا مالک۔ بشرطیکہ تم لوگ یقین کرنے والے ہو",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_044_008",
+      "reference": {
+        "surah_number": 44,
+        "surah_name": "Ad-Dukhaan",
+        "surah_name_ar": "سُوْرَةُ الدُّخَانِ",
+        "surah_name_translation": "The Smoke",
+        "ayah_number": 8,
+        "juz": 25,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 10,
+      "translations": {
+        "ar": {
+          "text": "لَآ إِلَٰهَ إِلَّا هُوَ يُحۡيِۦ وَيُمِيتُۖ رَبُّكُمۡ وَرَبُّ ءَابَآئِكُمُ ٱلۡأَوَّلِينَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "There is no god ˹worthy of worship˺ except Him. He ˹alone˺ gives life and causes death. ˹He is˺ your Lord, and the Lord of your forefathers",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "除他外，绝无应受崇拜的。他能使死者生，能使生者死，他是你们的主，也是你们祖先的主。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "उसके अतिरिक्त कोई पूज्य-प्रभु नहीं; वही जीवित करता और मारता है; तुम्हारा रब और तुम्हारे अगले बाप-दादों का रब है",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "No hay nada ni nadie con derecho a ser adorado salvo Dios; Él da la vida y da la muerte. Él es su Señor y el de sus ancestros",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Point de divinité à part Lui. Il donne la vie et donne la mort, et Il est votre Seigneur et le Seigneur de vos premiers ancêtres",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "তিনি ব্যতীত কোন উপাস্য নেই। তিনি জীবন দান করেন ও মৃত্যু দেন। তিনি তোমাদের পালনকর্তা এবং তোমাদের পূর্ববর্তী পিতৃ-পুরুষদেরও পালনকর্তা।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Não existe deus senão Ele. Ele dá a vida e dá a morte. Ele é Vosso Senhor e O Senhor de vossos pais antepassados",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Нет божества, кроме Него. Он оживляет и умерщвляет. Он - ваш Господь и Господь ваших праотцев",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اس کے سوا کوئی معبود نہیں۔ (وہی) جِلاتا ہے اور (وہی) مارتا ہے۔ وہی تمہارا اور تمہارے باپ دادا کا پروردگار ہے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_044_009",
+      "reference": {
+        "surah_number": 44,
+        "surah_name": "Ad-Dukhaan",
+        "surah_name_ar": "سُوْرَةُ الدُّخَانِ",
+        "surah_name_translation": "The Smoke",
+        "ayah_number": 9,
+        "juz": 25,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 5,
+      "translations": {
+        "ar": {
+          "text": "بَلۡ هُمۡ فِي شَكࣲّ يَلۡعَبُونَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "In fact, they are in doubt, amusing themselves",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "不然，他们是在疑惑中的，是游戏的。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "बल्कि वे संदेह में पड़े रहे हैं",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Pero ellos juegan con las dudas",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Mais ces gens-là, dans le doute, s'amusent",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "এতদসত্ত্বেও এরা সন্দেহে পতিত হয়ে ক্রীড়া-কৌতুক করছে।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Mas eles, mergulhados em dúvida, se divertem",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Но они забавляются, испытывая сомнения",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "لیکن یہ لوگ شک میں کھیل رہے ہیں",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_044_010",
+      "reference": {
+        "surah_number": 44,
+        "surah_name": "Ad-Dukhaan",
+        "surah_name_ar": "سُوْرَةُ الدُّخَانِ",
+        "surah_name_translation": "The Smoke",
+        "ayah_number": 10,
+        "juz": 25,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 6,
+      "translations": {
+        "ar": {
+          "text": "فَٱرۡتَقِبۡ يَوۡمَ تَأۡتِي ٱلسَّمَآءُ بِدُخَانࣲ مُّبِينࣲ‏",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Wait then ˹O Prophet˺ for the day ˹when˺ the sky will be veiled in haze, clearly visible",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "你应当等待烟雾漫天的日子，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "अच्छा तो तुम उस दिन की प्रतीक्षा करो, जब आकाश प्रत्यक्ष धुँआ लाएगा।",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Aguarda el día en que el cielo traiga un humo visible",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Eh bien, attends le jour où le ciel apportera une fumée visible",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "অতএব আপনি সেই দিনের অপেক্ষা করুন, যখন আকাশ ধূয়ায় ছেয়ে যাবে।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Então, fica na expectativa de um dia, em que o céu chegará com um fumo evidente",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Подожди же того дня, когда небо принесет ясный дым",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "تو اس دن کا انتظار کرو کہ آسمان سے صریح دھواں نکلے گا",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_044_011",
+      "reference": {
+        "surah_number": 44,
+        "surah_name": "Ad-Dukhaan",
+        "surah_name_ar": "سُوْرَةُ الدُّخَانِ",
+        "surah_name_translation": "The Smoke",
+        "ayah_number": 11,
+        "juz": 25,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 5,
+      "translations": {
+        "ar": {
+          "text": "يَغۡشَى ٱلنَّاسَۖ هَٰذَا عَذَابٌ أَلِيمࣱ‏",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "overwhelming the people. ˹They will cry,˺ “This is a painful torment",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "那烟雾将笼罩世人，他们说：这是一种痛苦的刑罚。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "वह लोगों का ढाँक लेगा। यह है दुखद यातना",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "que cubrirá a la gente. Ese será un castigo doloroso",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "qui couvrira les gens. Ce sera un châtiment douloureux",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "যা মানুষকে ঘিরে ফেলবে। এটা যন্ত্রণাদায়ক শাস্তি।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Que encobrirá os homens. Dirão: \"Este é um doloroso castigo",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "который окутает людей. Это будут мучительные страдания",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "جو لوگوں پر چھا جائے گا۔ یہ درد دینے والا عذاب ہے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_044_012",
+      "reference": {
+        "surah_number": 44,
+        "surah_name": "Ad-Dukhaan",
+        "surah_name_ar": "سُوْرَةُ الدُّخَانِ",
+        "surah_name_translation": "The Smoke",
+        "ayah_number": 12,
+        "juz": 25,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 6,
+      "translations": {
+        "ar": {
+          "text": "رَّبَّنَا ٱكۡشِفۡ عَنَّا ٱلۡعَذَابَ إِنَّا مُؤۡمِنُونَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Our Lord! Remove ˹this˺ torment from us, ˹and˺ we will certainly believe.”",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "我们的主啊！求你为我们解除这种刑罚，我们确是信道的。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "वे कहेंगे, \"ऐ हमारे रब! हमपर से यातना हटा दे। हम ईमान लाते है।",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "[Dirán los que se negaron a creer:] \"¡Oh, Señor nuestro! Aparta de nosotros el castigo, somos creyentes",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "«Seigneur, éloigne de nous le châtiment. Car, [à présent] nous croyons»",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "হে আমাদের পালনকর্তা আমাদের উপর থেকে শাস্তি প্রত্যাহার করুন, আমরা বিশ্বাস স্থাপন করছি।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Senhor nosso! Remove de nós o castigo: por certo, somos crentes",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Они скажут: «Господь наш! Избавь нас от страданий, ведь мы уверовали»",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اے پروردگار ہم سے اس عذاب کو دور کر ہم ایمان لاتے ہیں",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_044_013",
+      "reference": {
+        "surah_number": 44,
+        "surah_name": "Ad-Dukhaan",
+        "surah_name_ar": "سُوْرَةُ الدُّخَانِ",
+        "surah_name_translation": "The Smoke",
+        "ayah_number": 13,
+        "juz": 25,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 7,
+      "translations": {
+        "ar": {
+          "text": "أَنَّىٰ لَهُمُ ٱلذِّكۡرَىٰ وَقَدۡ جَآءَهُمۡ رَسُولࣱ مُّبِينࣱ‏",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "How can they be reminded when a messenger has already come to them, making things clear",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "他们怎能觉悟呢？显赫的使者，确已来临他们，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "अब उनके होश में आने का मौक़ा कहाँ बाक़ी रहा। उनका हाल तो यह है कि उनके पास साफ़-साफ़ बतानेवाला एक रसूल आ चुका है।",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "De qué les servirá recapacitar entonces, si cuando se les presentó un Mensajero con pruebas evidentes",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "D'où leur vient cette prise de conscience alors qu'un Messager explicite leur est déjà venu",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "তারা কি করে বুঝবে, অথচ তাদের কাছে এসেছিলেন স্পষ্ট বর্ণনাকারী রসূল।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Como poderão ter a lembrança disso, enquanto com efeito, lhes chegou um evidente Mensageiro",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Но как они могут помянуть такое назидание, если к ним уже приходил разъясняющий посланник",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "(اس وقت) ان کو نصیحت کہاں مفید ہوگی جب کہ ان کے پاس پیغمبر آچکے جو کھول کھول کر بیان کر دیتے ہیں",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_044_014",
+      "reference": {
+        "surah_number": 44,
+        "surah_name": "Ad-Dukhaan",
+        "surah_name_ar": "سُوْرَةُ الدُّخَانِ",
+        "surah_name_translation": "The Smoke",
+        "ayah_number": 14,
+        "juz": 25,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 6,
+      "translations": {
+        "ar": {
+          "text": "ثُمَّ تَوَلَّوۡاْ عَنۡهُ وَقَالُواْ مُعَلَّمࣱ مَّجۡنُونٌ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "then they turned away from him, saying, “A madman, taught by others!”",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "而他们却鄙弃他。他们说：他是受教的，是疯狂的。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "फिर उन्होंने उसकी ओर से मुँह मोड़ लिया और कहने लगे, \"यह तो एक सिखाया-पढ़ाया दीवाना है।",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "lo rechazaron y dijeron: \"Fue aleccionado o es un loco",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Puis ils s'en détournèrent en disant: «C'est un homme instruit [par d'autres], un possédé»",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "অতঃপর তারা তাকে পৃষ্ঠপ্রদর্শন করে এবং বলে, সে তো উম্মাদ-শিখানো কথা বলে।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Em seguida, voltaram-lhe as costas e disseram: \"Ele está sendo instruído, é um louco",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Затем они отвернулись от него и сказали: «Он - обученный, одержимый»",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "پھر انہوں نے ان سے منہ پھیر لیا اور کہنے لگے (یہ تو) پڑھایا ہوا (اور) دیوانہ ہے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_044_015",
+      "reference": {
+        "surah_number": 44,
+        "surah_name": "Ad-Dukhaan",
+        "surah_name_ar": "سُوْرَةُ الدُّخَانِ",
+        "surah_name_translation": "The Smoke",
+        "ayah_number": 15,
+        "juz": 25,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 6,
+      "translations": {
+        "ar": {
+          "text": "إِنَّا كَاشِفُواْ ٱلۡعَذَابِ قَلِيلًاۚ إِنَّكُمۡ عَآئِدُونَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Indeed, We will remove ˹that˺ torment for a while, and you ˹Meccans˺ will return ˹to disbelief˺",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "我必定要暂时解除这种刑罚，你们必定复返于悖逆。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "हम यातना थोड़ा हटा देते है तो तुम पुनः फिर जाते हो।",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Los libraré del castigo por un tiempo, pero reincidirán",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Nous dissiperons le châtiment pour peu de temps; car vous récidiverez",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "আমি তোমাদের উপর থেকে আযাব কিছুটা প্রত্যাহার করব, কিন্তু তোমরা পুনরায় পুনর্বস্থায় ফিরে যাবে।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Por certo, removeremos por um pouco, o castigo, mas por certo, à descrença voltareis",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Мы избавим вас от страданий ненадолго, но ведь вы вернетесь к неверию",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "ہم تو تھوڑے دنوں عذاب ٹال دیتے ہیں (مگر) تم پھر کفر کرنے لگتے ہو",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_044_016",
+      "reference": {
+        "surah_number": 44,
+        "surah_name": "Ad-Dukhaan",
+        "surah_name_ar": "سُوْرَةُ الدُّخَانِ",
+        "surah_name_translation": "The Smoke",
+        "ayah_number": 16,
+        "juz": 25,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 6,
+      "translations": {
+        "ar": {
+          "text": "يَوۡمَ نَبۡطِشُ ٱلۡبَطۡشَةَ ٱلۡكُبۡرَىٰٓ إِنَّا مُنتَقِمُونَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "˹Then˺ on the Day We will deal ˹you˺ the fiercest blow, We will surely inflict punishment",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "我进行最大的袭击之日，我必定要惩罚他们。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "याद रखो, जिस दिन हम बड़ी पकड़ पकड़ेंगे, तो निश्चय ही हम बदला लेकर रहेंगे",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "El día que acometa con el máximo rigor, les infligiré un castigo doloroso",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Le jour où Nous userons de la plus grande violence et Nous Nous vengerons",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "যেদিন আমি প্রবলভাবে ধৃত করব, সেদিন পুরোপুরি প্রতিশোধ গ্রহণ করবই।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Um dia, desferiremos o maior golpe; por certo, deles Nos vingaremos",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "В тот день, когда Мы схватим вас величайшей Хваткой, Мы будем мстить",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "جس دن ہم بڑی سخت پکڑ پکڑیں گے تو بےشک انتقام لے کر چھوڑیں گے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_044_017",
+      "reference": {
+        "surah_number": 44,
+        "surah_name": "Ad-Dukhaan",
+        "surah_name_ar": "سُوْرَةُ الدُّخَانِ",
+        "surah_name_translation": "The Smoke",
+        "ayah_number": 17,
+        "juz": 25,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 8,
+      "translations": {
+        "ar": {
+          "text": "۞وَلَقَدۡ فَتَنَّا قَبۡلَهُمۡ قَوۡمَ فِرۡعَوۡنَ وَجَآءَهُمۡ رَسُولࣱ كَرِيمٌ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Indeed, before them We tested Pharaoh’s people: a noble messenger came to them",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "在他们之前，我确已考验了法老的百姓。有一个高贵的使者来临他们，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "उनसे पहले हम फ़िरऔन की क़ौम के लोगों को परीक्षा में डाल चुके हैं, जबकि उनके पास एक अत्यन्त सज्जन रसूल आया",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Antes de ellos probé al pueblo del Faraón, cuando se les presentó un Mensajero noble",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Et avant eux Nous avons déjà éprouvé le peuple de Pharaon, quand un noble Messager leur était venu",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "তাদের পূর্বে আমি ফেরাউনের সম্প্রদায়কে পরীক্ষা করেছি এবং তাদের কাছে আগমন করেছেন একজন সম্মানিত রসূল,",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E, com efeito, prováramos, antes deles, o povo de Faraó; e já lhes havia chegado um nobre Mensageiro",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "До вас Мы уже испытали народ Фараона, и к ним явился благородный посланник",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور ان سے پہلے ہم نے قوم فرعون کی آزمائش کی اور ان کے پاس ایک عالی قدر پیغمبر آئے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_044_018",
+      "reference": {
+        "surah_number": 44,
+        "surah_name": "Ad-Dukhaan",
+        "surah_name_ar": "سُوْرَةُ الدُّخَانِ",
+        "surah_name_translation": "The Smoke",
+        "ayah_number": 18,
+        "juz": 25,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 9,
+      "translations": {
+        "ar": {
+          "text": "أَنۡ أَدُّوٓاْ إِلَيَّ عِبَادَ ٱللَّهِۖ إِنِّي لَكُمۡ رَسُولٌ أَمِينࣱ‏",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "˹proclaiming,˺ “Hand over the servants of Allah to me. I am truly a trustworthy messenger to you",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "说：你们把真主的仆人们交给我吧！我确是一个忠实的使者，奉命来教化你们的。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "कि \"तुम अल्लाह के बन्दों को मेरे हवाले कर दो। निश्चय ही मै तुम्हारे लिए एक विश्वसनीय रसूल हूँ",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "[que les dijo:] \"Dejen en libertad a los siervos de Dios para que puedan marcharse conmigo. Yo he sido enviado para ustedes como un Mensajero leal",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "[leur disant]: «Livrez-moi les serviteurs d'Allah! Je suis pour vous un Messager digne de confiance",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "এই মর্মে যে, আল্লাহর বান্দাদেরকে আমার কাছে অর্পণ কর। আমি তোমাদের জন্য প্রেরীত বিশ্বস্ত রসূল।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Que dissera: \"Entregai-me os servos de Allah. Por certo, sou-vos leal Mensageiro",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Он сказал: «Верните мне рабов Аллаха. Я являюсь посланником к вам, заслуживающим доверия",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "(جنہوں نے) یہ (کہا) کہ خدا کے بندوں (یعنی بنی اسرائیل) کو میرے حوالے کردو میں تمہارا امانت دار پیغمبر ہوں",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_044_019",
+      "reference": {
+        "surah_number": 44,
+        "surah_name": "Ad-Dukhaan",
+        "surah_name_ar": "سُوْرَةُ الدُّخَانِ",
+        "surah_name_translation": "The Smoke",
+        "ayah_number": 19,
+        "juz": 25,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 9,
+      "translations": {
+        "ar": {
+          "text": "وَأَن لَّا تَعۡلُواْ عَلَى ٱللَّهِۖ إِنِّيٓ ءَاتِيكُم بِسُلۡطَٰنࣲ مُّبِينࣲ‏",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "And do not be arrogant with Allah. I have certainly come to you with a compelling proof",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "你们不要对真主高傲。我必定要昭示你们一个明证。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "और अल्लाह के मुक़ाबले में सरकशी न करो, मैं तुम्हारे लिए एक स्पष्ट प्रमाण लेकर आया हूँ",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "No sean soberbios con Dios. Les he presentado pruebas evidentes",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Ne vous montrez pas hautains vis-à-vis d'Allah, car je vous apporte une preuve évidente",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "আর তোমরা আল্লাহর বিরুদ্ধে ঔদ্ধত্য প্রকাশ করো না। আমি তোমাদের কাছে প্রকাশ্য প্রমাণ উপস্থিত করছি।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E não vos sublimeis em arrogância para com Allah. Por certo, eu vos chego com evidente comprovação",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Не превозноситесь над Аллахом, ведь я принес вам явное доказательство",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور خدا کے سامنے سرکشی نہ کرو۔ میں تمہارے پاس کھلی دلیل لے کر آیا ہوں",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_044_020",
+      "reference": {
+        "surah_number": 44,
+        "surah_name": "Ad-Dukhaan",
+        "surah_name_ar": "سُوْرَةُ الدُّخَانِ",
+        "surah_name_translation": "The Smoke",
+        "ayah_number": 20,
+        "juz": 25,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 6,
+      "translations": {
+        "ar": {
+          "text": "وَإِنِّي عُذۡتُ بِرَبِّي وَرَبِّكُمۡ أَن تَرۡجُمُونِ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "And indeed, I seek refuge with my Lord and your Lord so you do not stone me ˹to death˺",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "我确已求庇于我的主和你们的主，免遭你们的谋害。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "और मैं इससे अपने रब और तुम्हारे रब की शरण ले चुका हूँ कि तुम मुझ पर पथराव करके मार डालो",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Me refugio en mi Señor y el suyo para que no me injurien",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Et je cherche protection auprès de mon Seigneur et votre Seigneur, pour que vous ne me lapidiez pas",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "তোমরা যাতে আমাকে প্রস্তরবর্ষণে হত্যা না কর, তজ্জন্যে আমি আমার পালনকর্তা ও তোমাদের পালনকর্তার শরনাপন্ন হয়েছি।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E, por certo, refugio-me em meu Senhor e vosso Senhor, contra o me apedrejardes",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Я прибег к защите моего Господа и вашего Господа, чтобы вы не побили меня камнями",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور اس (بات) سے کہ تم مجھے سنگسار کرو اپنے اور تمہارے پروردگار کی پناہ مانگتا ہوں",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_044_021",
+      "reference": {
+        "surah_number": 44,
+        "surah_name": "Ad-Dukhaan",
+        "surah_name_ar": "سُوْرَةُ الدُّخَانِ",
+        "surah_name_translation": "The Smoke",
+        "ayah_number": 21,
+        "juz": 25,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 5,
+      "translations": {
+        "ar": {
+          "text": "وَإِن لَّمۡ تُؤۡمِنُواْ لِي فَٱعۡتَزِلُونِ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "˹But˺ if you do not believe me, then let me be.”",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "如果你们不归信我，那末，你们放任我吧！",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "किन्तु यदि तुम मेरी बात नहीं मानते तो मुझसे अलग हो जाओ",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Si no creen en mí, déjenme en paz",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Si vous ne voulez pas croire en moi, éloignez-vous de moi»",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "তোমরা যদি আমার প্রতি বিশ্বাস স্থাপন না কর, তবে আমার কাছ থেকে দূরে থাক।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E, se não credes em mim, apartai-vos de mim",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Если же вы не верите мне, то оставьте меня»",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور اگر تم مجھ پر ایمان نہیں لاتے تو مجھ سے الگ ہو جاؤ",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_044_022",
+      "reference": {
+        "surah_number": 44,
+        "surah_name": "Ad-Dukhaan",
+        "surah_name_ar": "سُوْرَةُ الدُّخَانِ",
+        "surah_name_translation": "The Smoke",
+        "ayah_number": 22,
+        "juz": 25,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 6,
+      "translations": {
+        "ar": {
+          "text": "فَدَعَا رَبَّهُۥٓ أَنَّ هَٰٓؤُلَآءِ قَوۡمࣱ مُّجۡرِمُونَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Ultimately, he cried out to his Lord, “These are a wicked people!”",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "他就祈祷他的主说：这等人，确是犯罪的民众。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "अन्ततः उसने अपने रब को पुकारा कि \"ये अपराधी लोग है।",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Pero invocó a su Señor diciendo: \"Éste es un pueblo de criminales",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Il invoqua alors son Seigneur: «Ce sont des gens criminels»",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "অতঃপর সে তার পালনকর্তার কাছে দোয়া করল যে, এরা অপরাধী সম্প্রদায়।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Então, ele invocou o seu Senhor: \"Por certo, estes são um povo criminoso",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Затем он воззвал к своему Господу: «Они являются грешными людьми»",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "تب موسیٰ نے اپنے پروردگار سے دعا کی کہ یہ نافرمان لوگ ہیں",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_044_023",
+      "reference": {
+        "surah_number": 44,
+        "surah_name": "Ad-Dukhaan",
+        "surah_name_ar": "سُوْرَةُ الدُّخَانِ",
+        "surah_name_translation": "The Smoke",
+        "ayah_number": 23,
+        "juz": 25,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 5,
+      "translations": {
+        "ar": {
+          "text": "فَأَسۡرِ بِعِبَادِي لَيۡلًا إِنَّكُم مُّتَّبَعُونَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "˹Allah responded,˺ “Leave with My servants at night, for you will surely be pursued",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "（主说）：你带着我的众仆在夜间出走吧！你们必定要被追赶。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "अच्छा तुम रातों रात मेरे बन्दों को लेकर चले जाओ। निश्चय ही तुम्हारा पीछा किया जाएगा",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "[Entonces Dios le respondió:] \"Marcha con Mis siervos por la noche, pero sabe que ellos van a perseguirlos",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "«Voyage de nuit avec Mes serviteurs; vous serez poursuivis",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "তাহলে তুমি আমার বান্দাদেরকে নিয়ে রাত্রিবেলায় বের হয়ে পড়। নিশ্চয় তোমাদের পশ্চাদ্ধবন করা হবে।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Allah disse: \"Então, parte com Meus servos, durante a noite. Por certo, sereis perseguidos",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Аллах сказал: «Выступи с Моими рабами ночью. Воистину, вас будут преследовать",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "(خدا نے فرمایا کہ) میرے بندوں کو راتوں رات لے کر چلے جاؤ اور (فرعونی) ضرور تمہارا تعاقب کریں گے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_044_024",
+      "reference": {
+        "surah_number": 44,
+        "surah_name": "Ad-Dukhaan",
+        "surah_name_ar": "سُوْرَةُ الدُّخَانِ",
+        "surah_name_translation": "The Smoke",
+        "ayah_number": 24,
+        "juz": 25,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 6,
+      "translations": {
+        "ar": {
+          "text": "وَٱتۡرُكِ ٱلۡبَحۡرَ رَهۡوًاۖ إِنَّهُمۡ جُندࣱ مُّغۡرَقُونَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "And leave the sea parted, for they are certainly an army bound to drown.”",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "你让海水保持平静，他们必定是被淹死的军队。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "और सागर को स्थिर छोड़ दो। वे तो एक सेना दल हैं, डूब जानेवाले।",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Deja el mar [luego de que se haya abierto para ti] tal como está, que el ejército será ahogado",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Laisse la mer calme; [telle que tu l'as franchie] ce sont, des armées [vouées] à la noyade»",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "এবং সমুদ্রকে অচল থাকতে দাও। নিশ্চয় ওরা নিমজ্জত বাহিনী।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E deixa o mar como está, calmo: por certo, eles serão um exército afogado",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Оставь море в покое - их воинство будет потоплено»",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور دریا سے (کہ) خشک (ہو رہا ہوگا) پار ہو جاؤ (تمہارے بعد) ان کا تمام لشکر ڈبو دیا جائے گا",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_044_025",
+      "reference": {
+        "surah_number": 44,
+        "surah_name": "Ad-Dukhaan",
+        "surah_name_ar": "سُوْرَةُ الدُّخَانِ",
+        "surah_name_translation": "The Smoke",
+        "ayah_number": 25,
+        "juz": 25,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 5,
+      "translations": {
+        "ar": {
+          "text": "كَمۡ تَرَكُواْ مِن جَنَّٰتࣲ وَعُيُونࣲ‏",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "˹Imagine˺ how many gardens and springs the tyrants left behind",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "他们曾抛下若干园圃和泉源，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "वे छोड़ गये कितनॆ ही बाग़ और स्रोत",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Cuántos huertos y manantiales abandonaron",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Que de jardins et de sources ils laissèrent [derrière eux]",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "তারা ছেড়ে গিয়েছিল কত উদ্যান ও প্রস্রবন,",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Que de jardins e fontes deixaram",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Сколько они оставили садов, источников",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "وہ لوگ بہت سے باغ اور چشمے چھوڑ گئے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_044_026",
+      "reference": {
+        "surah_number": 44,
+        "surah_name": "Ad-Dukhaan",
+        "surah_name_ar": "سُوْرَةُ الدُّخَانِ",
+        "surah_name_translation": "The Smoke",
+        "ayah_number": 26,
+        "juz": 25,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 3,
+      "translations": {
+        "ar": {
+          "text": "وَزُرُوعࣲ وَمَقَامࣲ كَرِيمࣲ‏",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "as well as ˹various˺ crops and splendid residences",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "庄稼和美宅，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "और ख़ेतियां और उत्तम आवास",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "cultivos y hermosas residencias",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "que de champs et de superbes résidences",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "কত শস্যক্ষেত্র ও সূরম্য স্থান।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E searas, e nobre residência",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "посевов, благородных мест",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور کھیتیاں اور نفیس مکان",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_044_027",
+      "reference": {
+        "surah_number": 44,
+        "surah_name": "Ad-Dukhaan",
+        "surah_name_ar": "سُوْرَةُ الدُّخَانِ",
+        "surah_name_translation": "The Smoke",
+        "ayah_number": 27,
+        "juz": 25,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 4,
+      "translations": {
+        "ar": {
+          "text": "وَنَعۡمَةࣲ كَانُواْ فِيهَا فَٰكِهِينَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "and luxuries which they fully enjoyed",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "以及他们所享受的福泽！",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "और सुख सामग्री जिनमें वे मज़े कर रहे थे।",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "y una comodidad de la que disfrutaban",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "que de délices au sein desquels ils se réjouissaient",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "কত সুখের উপকরণ, যাতে তারা খোশগল্প করত।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E graça, em que estavam hílares",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "и блаженства, в котором они наслаждались",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور آرام کی چیزیں جن میں عیش کیا کرتے تھے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_044_028",
+      "reference": {
+        "surah_number": 44,
+        "surah_name": "Ad-Dukhaan",
+        "surah_name_ar": "سُوْرَةُ الدُّخَانِ",
+        "surah_name_translation": "The Smoke",
+        "ayah_number": 28,
+        "juz": 25,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 4,
+      "translations": {
+        "ar": {
+          "text": "كَذَٰلِكَۖ وَأَوۡرَثۡنَٰهَا قَوۡمًا ءَاخَرِينَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "So it was. And We awarded it ˹all˺ to another people",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "结局是这样的：我曾使别的民众继承他们，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "हम ऐसा ही मामला करते है, और उन चीज़ों का वारिस हमने दूसरे लोगों को बनाया",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Así fue. Pero se lo di en herencia a otro pueblo",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Il en fut ainsi et Nous fîmes qu'un autre peuple en hérita",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "এমনিই হয়েছিল এবং আমি ওগুলোর মালিক করেছিলাম ভিন্ন সম্প্রদায়কে।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Assim foi. E fizemos herdá-los um outro povo",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Вот так! Мы позволили унаследовать это другому народу",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اسی طرح (ہوا) اور ہم نے دوسرے لوگوں کو ان چیزوں کا مالک بنا دیا",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_044_029",
+      "reference": {
+        "surah_number": 44,
+        "surah_name": "Ad-Dukhaan",
+        "surah_name_ar": "سُوْرَةُ الدُّخَانِ",
+        "surah_name_translation": "The Smoke",
+        "ayah_number": 29,
+        "juz": 25,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 8,
+      "translations": {
+        "ar": {
+          "text": "فَمَا بَكَتۡ عَلَيۡهِمُ ٱلسَّمَآءُ وَٱلۡأَرۡضُ وَمَا كَانُواْ مُنظَرِينَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Neither heaven nor earth wept over them, nor was their fate delayed",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "天地没有哭他们，他们也没有获得缓刑。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "फिर न तो आकाश और धरती ने उनपर विलाप किया और न उन्हें मुहलत ही मिली",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "No lloraron por ellos ni el cielo ni la Tierra. Tampoco fueron perdonados",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Ni le ciel ni la terre ne les pleurèrent et ils n'eurent aucun délai",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "তাদের জন্যে ক্রন্দন করেনি আকাশ ও পৃথিবী এবং তারা অবকাশও পায়নি।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Então, nem o céu nem a terra choraram por eles, e lhes não foi concedida dilação",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Ни небо, ни земля не оплакивали их, и им не была предоставлена отсрочка",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "پھر ان پر نہ تو آسمان کو اور زمین کو رونا آیا اور نہ ان کو مہلت ہی دی گئی",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_044_030",
+      "reference": {
+        "surah_number": 44,
+        "surah_name": "Ad-Dukhaan",
+        "surah_name_ar": "سُوْرَةُ الدُّخَانِ",
+        "surah_name_translation": "The Smoke",
+        "ayah_number": 30,
+        "juz": 25,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 7,
+      "translations": {
+        "ar": {
+          "text": "وَلَقَدۡ نَجَّيۡنَا بَنِيٓ إِسۡرَٰٓءِيلَ مِنَ ٱلۡعَذَابِ ٱلۡمُهِينِ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "And We certainly delivered the Children of Israel from the humiliating torment",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "我确已使以色列的后裔摆脱了凌辱的刑罚",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "इस प्रकार हमने इसराईल की सन्तान को अपमानजनक यातना से",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Salvé a los Hijos de Israel de un tormento humillante",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Et certes, Nous sauvâmes les Enfants d'Israël du châtiment avilissant",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "আমি বনী-ইসরাঈলকে অপমানজনক শাস্তি থেকে উদ্ধার করছি।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E, com efeito, salvamos os filhos de Israel do aviltante castigo",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Мы уже спасли сынов Исраила (Израиля) от унизительных страданий",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور ہم نے بنی اسرائیل کو ذلت کے عذاب سے نجات دی",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_044_031",
+      "reference": {
+        "surah_number": 44,
+        "surah_name": "Ad-Dukhaan",
+        "surah_name_ar": "سُوْرَةُ الدُّخَانِ",
+        "surah_name_translation": "The Smoke",
+        "ayah_number": 31,
+        "juz": 25,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 8,
+      "translations": {
+        "ar": {
+          "text": "مِن فِرۡعَوۡنَۚ إِنَّهُۥ كَانَ عَالِيࣰ ا مِّنَ ٱلۡمُسۡرِفِينَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "of Pharaoh. He was truly a tyrant, a transgressor",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "法老的刑罚。他确是高傲的，确是过分的。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "अर्थात फ़िरऔन से छुटकारा दिया। निश्चय ही वह मर्यादाहीन लोगों में से बड़ा ही सरकश था",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "que les infligía el Faraón. Él era soberbio y transgresor",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "de Pharaon qui était hautain et outrancier",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "ফেরাউন সে ছিল সীমালংঘনকারীদের মধ্যে শীর্ষস্থানীয়।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "De Faraó. Por certo, ele era altivo, entre os que se entregavam a excessos",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "от Фараона. Воистину, он был надменен и был одним из преступающих границы дозволенного",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "(یعنی) فرعون سے۔ بےشک وہ سرکش (اور) حد سے نکلا ہوا تھا",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_044_032",
+      "reference": {
+        "surah_number": 44,
+        "surah_name": "Ad-Dukhaan",
+        "surah_name_ar": "سُوْرَةُ الدُّخَانِ",
+        "surah_name_translation": "The Smoke",
+        "ayah_number": 32,
+        "juz": 25,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 6,
+      "translations": {
+        "ar": {
+          "text": "وَلَقَدِ ٱخۡتَرۡنَٰهُمۡ عَلَىٰ عِلۡمٍ عَلَى ٱلۡعَٰلَمِينَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "And indeed, We chose the Israelites knowingly above the others",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "我确已本真知而选拔他们，使他们超轶各民族，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "और हमने (उनकी स्थिति को) जानते हुए उन्हें सारे संसारवालों के मुक़ाबले मं चुन लिया",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "[Al pueblo de Israel,] basado en un conocimiento, lo elegí entre sus contemporáneos",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "A bon escient Nous les choisîmes parmi tous les peuples de l'univers",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "আমি জেনেশুনে তাদেরকে বিশ্ববাসীদের উপর শ্রেষ্ঠত্ব দিয়েছিলাম।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E, com efeito, escolhemo-los com ciência, acima dos mundos",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Мы избрали их и возвысили их над мирами на основании знания",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور ہم نے بنی اسرائیل کو اہل عالم سے دانستہ منتخب کیا تھا",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_044_033",
+      "reference": {
+        "surah_number": 44,
+        "surah_name": "Ad-Dukhaan",
+        "surah_name_ar": "سُوْرَةُ الدُّخَانِ",
+        "surah_name_translation": "The Smoke",
+        "ayah_number": 33,
+        "juz": 25,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 8,
+      "translations": {
+        "ar": {
+          "text": "وَءَاتَيۡنَٰهُم مِّنَ ٱلۡأٓيَٰتِ مَا فِيهِ بَلَٰٓؤࣱ اْ مُّبِينٌ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "And We showed them signs in which there was a clear test",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "我赏赐他们许多迹象，都是有明显的试验的。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "और हमने उन्हें निशानियों के द्वारा वह चीज़ दी जिसमें स्पष्ट परीक्षा थी",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "y les concedí signos que representaban una prueba clara en su fe",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "et leur apportâmes des miracles de quoi les mettre manifestement à l'épreuve",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "এবং আমি তাদেরকে এমন নিদর্শনাবলী দিয়েছিলাম যাতে ছিল স্পষ্ট সাহায্য।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E concedemo-lhes, dentre os sinais, aquilo em que havia evidente prova",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Мы даровали им знамения, в которых было заключено явное испытание (или явная милость)",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور ان کو ایسی نشانیاں دی تھیں جن میں صریح آزمائش تھی",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_044_034",
+      "reference": {
+        "surah_number": 44,
+        "surah_name": "Ad-Dukhaan",
+        "surah_name_ar": "سُوْرَةُ الدُّخَانِ",
+        "surah_name_translation": "The Smoke",
+        "ayah_number": 34,
+        "juz": 25,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 3,
+      "translations": {
+        "ar": {
+          "text": "إِنَّ هَٰٓؤُلَآءِ لَيَقُولُونَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Indeed, these ˹Meccans˺ say",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "这等人必定要说：",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "ये लोग बड़ी दृढ़तापूर्वक कहते है",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Pero ellos dicen",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Ceux-là (les Mecquois) disent",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "কাফেররা বলেই থাকে,",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Por certo, estes dizem",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Воистину, они непременно скажут",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "یہ لوگ یہ کہتے ہیں",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_044_035",
+      "reference": {
+        "surah_number": 44,
+        "surah_name": "Ad-Dukhaan",
+        "surah_name_ar": "سُوْرَةُ الدُّخَانِ",
+        "surah_name_translation": "The Smoke",
+        "ayah_number": 35,
+        "juz": 25,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 8,
+      "translations": {
+        "ar": {
+          "text": "إِنۡ هِيَ إِلَّا مَوۡتَتُنَا ٱلۡأُولَىٰ وَمَا نَحۡنُ بِمُنشَرِينَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "“There is nothing beyond our first death, and we will never be resurrected",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "我们只有初次的死亡，我们不会复活。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "बस यह हमारी पहली मृत्यु ही है, हम दोबारा उठाए जानेवाले नहीं हैं",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Solo moriremos una vez, y no seremos resucitados",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "«Il n'y a pour nous qu'une mort, la première. Et nous ne serons pas ressuscités",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "প্রথম মৃত্যুর মাধ্যমেই আমাদের সবকিছুর অবসান হবে এবং আমরা পুনরুত্থিত হব না।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Não há senão nossa primeira morte, e não seremos ressuscitados",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "«Для нас есть только одна смерть, и мы не будем воскрешены",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "کہ ہمیں صرف پہلی دفعہ (یعنی ایک بار) مرنا ہے اور (پھر) اُٹھنا نہیں",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_044_036",
+      "reference": {
+        "surah_number": 44,
+        "surah_name": "Ad-Dukhaan",
+        "surah_name_ar": "سُوْرَةُ الدُّخَانِ",
+        "surah_name_translation": "The Smoke",
+        "ayah_number": 36,
+        "juz": 25,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 5,
+      "translations": {
+        "ar": {
+          "text": "فَأۡتُواْ بِـَٔابَآئِنَآ إِن كُنتُمۡ صَٰدِقِينَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Bring ˹back˺ our forefathers, if what you say is true.”",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "你们把我们的祖先召唤回来吧，如果你们是说实话的。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "तो ले आओ हमारे बाप-दादा को, यदि तुम सच्चे हो",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Resucita a nuestros padres, si es que eres veraz",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Faites donc revenir nos ancêtres, si vous êtes véridiques»",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "তোমরা যদি সত্যবাদী হও, তবে আমাদের পূর্বপুরুষদেরকে নিয়ে এস।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Então, fazei vir vossos pais, se sois verídicos",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Приведите же наших отцов, если вы говорите правду»",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "پس اگر تم سچے ہو تو ہمارے باپ دادا کو (زندہ کر) لاؤ",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_044_037",
+      "reference": {
+        "surah_number": 44,
+        "surah_name": "Ad-Dukhaan",
+        "surah_name_ar": "سُوْرَةُ الدُّخَانِ",
+        "surah_name_translation": "The Smoke",
+        "ayah_number": 37,
+        "juz": 25,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 12,
+      "translations": {
+        "ar": {
+          "text": "أَهُمۡ خَيۡرٌ أَمۡ قَوۡمُ تُبَّعࣲ وَٱلَّذِينَ مِن قَبۡلِهِمۡ أَهۡلَكۡنَٰهُمۡۚ إِنَّهُمۡ كَانُواْ مُجۡرِمِينَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Are they superior to the people of Tubba’ and those before them? We destroyed them ˹all˺, ˹for˺ they were truly wicked",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "他们是更高贵的呢？还是图白的宗族是更高贵呢？在他们之前的许多民族，我已加以毁灭了；因为他们确是犯罪者。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "क्या वे अच्छे है या तुब्बा की क़ौम या वे लोग जो उनसे पहले गुज़र चुके है? हमने उन्हें विनष्ट कर दिया, निश्चय ही वे अपराधी थे",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "¿Acaso ellos son mejores que los pueblos que he destruido, como el pueblo de Tubba’ y los que los precedieron? Todos ellos fueron criminales",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Sont-ils les meilleurs ou le peuple de Tubba' et ceux qui les ont précédés? Nous les avons fait périr parce que vraiment ils étaient criminels",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "ওরা শ্রেষ্ঠ, না তুব্বার সম্প্রদায় ও তাদের পূর্ববর্তীরা? আমি ওদেরকে ধ্বংস করে দিয়েছি। ওরা ছিল অপরাধী।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "São eles melhores ou o povo de Tubba e os que foram antes deles? Nós os aniquilamos. Por certo, eram criminosos",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Они лучше или же народ Тубба (Тобба) и их предшественники? Мы погубили их. Воистину, они были грешниками",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "بھلا یہ اچھے ہیں یا تُبّع کی قوم اور وہ لوگ جو تم سے پہلے ہوچکے ہیں۔ ہم نے ان (سب) کو ہلاک کردیا۔ بےشک وہ گنہگار تھے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_044_038",
+      "reference": {
+        "surah_number": 44,
+        "surah_name": "Ad-Dukhaan",
+        "surah_name_ar": "سُوْرَةُ الدُّخَانِ",
+        "surah_name_translation": "The Smoke",
+        "ayah_number": 38,
+        "juz": 25,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 7,
+      "translations": {
+        "ar": {
+          "text": "وَمَا خَلَقۡنَا ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضَ وَمَا بَيۡنَهُمَا لَٰعِبِينَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "We did not create the heavens and the earth and everything in between for sport",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "我没有以游戏的态度创造天地万物，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "हमने आकाशों और धरती को और जो कुछ उनके बीच है उन्हें खेल नहीं बनाया",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "No he creado a los cielos, la Tierra y todo lo que hay entre ellos como un simple juego",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Ce n'est pas par divertissement que Nous avons créé les cieux et la terre et ce qui est entre eux",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "আমি নভোমন্ডল, ভূমন্ডল ও এতদুভয়ের মধ্যবর্তী সবকিছু ক্রীড়াচ্ছলে সৃষ্টি করিনি।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E não criamos os céus e a terra e o que há entre ambos, por diversão",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Мы не сотворили небеса, землю и то, что между ними, забавляясь",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور ہم نے آسمانوں اور زمین کو اور جو کچھ ان میں ہے ان کو کھیلتے ہوئے نہیں بنایا",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_044_039",
+      "reference": {
+        "surah_number": 44,
+        "surah_name": "Ad-Dukhaan",
+        "surah_name_ar": "سُوْرَةُ الدُّخَانِ",
+        "surah_name_translation": "The Smoke",
+        "ayah_number": 39,
+        "juz": 25,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 8,
+      "translations": {
+        "ar": {
+          "text": "مَا خَلَقۡنَٰهُمَآ إِلَّا بِٱلۡحَقِّ وَلَٰكِنَّ أَكۡثَرَهُمۡ لَا يَعۡلَمُونَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "We only created them for a purpose, but most of these ˹pagans˺ do not know",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "我只本真理而创造之，但他们大半不知道。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "हमने उन्हें हक़ के साथ पैदा किया, किन्तु उनमें से अधिककर लोग जानते नहीं",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Los creé con un fin justo y verdadero, pero la mayoría de la gente lo ignora",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Nous ne les avons créés qu'en toute vérité. Mais la plupart d'entre eux ne savent pas",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "আমি এগুলো যথাযথ উদ্দেশ্যে সৃষ্টি করেছি; কিন্তু তাদের অধিকাংশই বোঝে না।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Não os criamos, a ambos, senão com a verdade, mas a maioria deles não sabe",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Мы сотворили их (небеса и землю) только ради истины, но большинство их не знает этого",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "ان کو ہم نے تدبیر سے پیدا کیا ہے لیکن اکثر لوگ نہیں جانتے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_044_040",
+      "reference": {
+        "surah_number": 44,
+        "surah_name": "Ad-Dukhaan",
+        "surah_name_ar": "سُوْرَةُ الدُّخَانِ",
+        "surah_name_translation": "The Smoke",
+        "ayah_number": 40,
+        "juz": 25,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 5,
+      "translations": {
+        "ar": {
+          "text": "إِنَّ يَوۡمَ ٱلۡفَصۡلِ مِيقَٰتُهُمۡ أَجۡمَعِينَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Surely the Day of ˹Final˺ Decision is the time appointed for all—",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "甄别日，确是为他们全体预定的日期。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "निश्चय ही फ़ैसले का दिन उन सबका नियत समय है",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "El Día del Juicio es una cita establecida para todos",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "En vérité, le Jour de la Décision sera leur rendez-vous à tous",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "নিশ্চয় ফয়সালার দিন তাদের সবারই নির্ধারিত সময়।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Por certo, o Dia da Decisão será seu tempo marcado, de todos",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Воистину, День различения - это срок, установленный для каждого из них",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "کچھ شک نہیں کہ فیصلے کا دن ان سب (کے اُٹھنے) کا وقت ہے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_044_041",
+      "reference": {
+        "surah_number": 44,
+        "surah_name": "Ad-Dukhaan",
+        "surah_name_ar": "سُوْرَةُ الدُّخَانِ",
+        "surah_name_translation": "The Smoke",
+        "ayah_number": 41,
+        "juz": 25,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 12,
+      "translations": {
+        "ar": {
+          "text": "يَوۡمَ لَا يُغۡنِي مَوۡلًى عَن مَّوۡلࣰ ى شَيۡـࣰٔ ا وَلَا هُمۡ يُنصَرُونَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "the Day no kith or kin will be of benefit to another whatsoever, nor will they be helped",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "在那日，朋友对于朋友，毫无裨益，他们也不蒙援助；",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "जिस दिन कोई अपना किसी अपने के कुछ काम न आएगा और न कोई सहायता पहुँचेगी",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Ese día no podrán los familiares ayudarse entre sí, nadie recibirá socorro",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "le jour où un allié ne sera d'aucune utilité à un [autre] allié; et ils ne seront point secourus non plus",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "যেদিন কোন বন্ধুই কোন বন্ধুর উপকারে আসবে না এবং তারা সাহায্যপ্রাপ্তও হবে না।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Um dia, em que nenhum aliado de nada valerá a outro aliado; e eles não serão socorridos",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Это будет день, когда близкий ничем не поможет своему близкому и когда помощь не будет оказана никому",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "جس دن کوئی دوست کسی دوست کے کچھ کام نہ آئے گا اور نہ ان کو مدد ملے گی",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_044_042",
+      "reference": {
+        "surah_number": 44,
+        "surah_name": "Ad-Dukhaan",
+        "surah_name_ar": "سُوْرَةُ الدُّخَانِ",
+        "surah_name_translation": "The Smoke",
+        "ayah_number": 42,
+        "juz": 25,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 8,
+      "translations": {
+        "ar": {
+          "text": "إِلَّا مَن رَّحِمَ ٱللَّهُۚ إِنَّهُۥ هُوَ ٱلۡعَزِيزُ ٱلرَّحِيمُ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "except those shown mercy by Allah. He is truly the Almighty, Most Merciful",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "惟真主所怜恤者则不然。他确是万能的，确是至慈的。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "सिवाय उस व्यक्ति के जिसपर अल्लाह दया करे। निश्चय ही वह प्रभुत्वशाली, अत्यन्त दयावान है",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "excepto aquel de quien Dios tenga misericordia. Él es el Poderoso, el Misericordioso",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "sauf celui à qui Allah fera miséricorde. Car c'est Lui, le Puissant, le Très Miséricordieux",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "তবে আল্লাহ যার প্রতি দয়া করেন, তার কথা ভিন্ন। নিশ্চয় তিনি পরাক্রমশালী দয়াময়।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Exceto aquele de quem Allah tiver misericórdia. Por certo, Ele é O Todo-Poderoso, O Misericordiador",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "кроме тех, над кем смилостивится Аллах. Воистину, Он - Могущественный, Милосердный",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "مگر جس پر خدا مہربانی کرے۔ وہ تو غالب اور مہربان ہے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_044_043",
+      "reference": {
+        "surah_number": 44,
+        "surah_name": "Ad-Dukhaan",
+        "surah_name_ar": "سُوْرَةُ الدُّخَانِ",
+        "surah_name_translation": "The Smoke",
+        "ayah_number": 43,
+        "juz": 25,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 3,
+      "translations": {
+        "ar": {
+          "text": "إِنَّ شَجَرَتَ ٱلزَّقُّومِ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Surely ˹the fruit of˺ the tree of Zaqqûm",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "櫕（木+苦）木的果实，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "निस्संदेह ज़क़्क़ूम का वृक्ष",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "El árbol de Zaqqum",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Certes l'arbre de Zakkûm",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "নিশ্চয় যাক্কুম বৃক্ষ",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Por certo, a árvore de Zaqqum",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Воистину, дерево заккум будет",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "بلاشبہ تھوہر کا درخت",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_044_044",
+      "reference": {
+        "surah_number": 44,
+        "surah_name": "Ad-Dukhaan",
+        "surah_name_ar": "سُوْرَةُ الدُّخَانِ",
+        "surah_name_translation": "The Smoke",
+        "ayah_number": 44,
+        "juz": 25,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 2,
+      "translations": {
+        "ar": {
+          "text": "طَعَامُ ٱلۡأَثِيمِ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "will be the food of the evildoer",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "确是罪人的食品，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "गुनहगार का भोजन होगा",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "será la comida del pecador",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "sera la nourriture du grand pécheur",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "পাপীর খাদ্য হবে;",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Será o alimento do pecador",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "пищей грешника",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "گنہگار کا کھانا ہے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_044_045",
+      "reference": {
+        "surah_number": 44,
+        "surah_name": "Ad-Dukhaan",
+        "surah_name_ar": "سُوْرَةُ الدُّخَانِ",
+        "surah_name_translation": "The Smoke",
+        "ayah_number": 45,
+        "juz": 25,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 4,
+      "translations": {
+        "ar": {
+          "text": "كَٱلۡمُهۡلِ يَغۡلِي فِي ٱلۡبُطُونِ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Like molten metal, it will boil in the bellies",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "象油脚样在他们的腹中沸腾，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "तेल की तलछट जैसा, वह पेटों में खौलता होगा",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Similar al metal fundido, hierve en las entrañas",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Comme du métal en fusion; il bouillonnera dans les ventres",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "গলিত তাম্রের মত পেটে ফুটতে থাকবে।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Como o metal em fusão, ferverá nos ventres",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Подобно осадку масла (или расплавленной меди), оно будет кипеть в животах так",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "جیسے پگھلا ہوا تانبا۔ پیٹوں میں (اس طرح) کھولے گا",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_044_046",
+      "reference": {
+        "surah_number": 44,
+        "surah_name": "Ad-Dukhaan",
+        "surah_name_ar": "سُوْرَةُ الدُّخَانِ",
+        "surah_name_translation": "The Smoke",
+        "ayah_number": 46,
+        "juz": 25,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 2,
+      "translations": {
+        "ar": {
+          "text": "كَغَلۡيِ ٱلۡحَمِيمِ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "like the boiling of hot water",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "象开水一样地沸腾。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "जैसे गर्म पानी खौलता है",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "como si fuera agua hirviente",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "comme le bouillonnement de l'eau surchauffée",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "যেমন ফুটে পানি।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Como o ferver da água ebuliente",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "как кипит кипяток",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "جس طرح گرم پانی کھولتا ہے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_044_047",
+      "reference": {
+        "surah_number": 44,
+        "surah_name": "Ad-Dukhaan",
+        "surah_name_ar": "سُوْرَةُ الدُّخَانِ",
+        "surah_name_translation": "The Smoke",
+        "ayah_number": 47,
+        "juz": 25,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 5,
+      "translations": {
+        "ar": {
+          "text": "خُذُوهُ فَٱعۡتِلُوهُ إِلَىٰ سَوَآءِ ٱلۡجَحِيمِ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "˹It will be said,˺ “Seize them and drag them into the depths of the Hellfire",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "（主说）你们捉住他，然后，把他拖入火狱中，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "पकड़ो उसे, और भड़कती हुई आग के बीच तक घसीट ले जाओ",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "[Se les dirá a los ángeles:] \"Tomen [a este transgresor] y arrójenlo al centro del Infierno",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Qu'on le saisisse et qu'on l'emporte en plein dans la fournaise",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "একে ধর এবং টেনে নিয়ে যাও জাহান্নামের মধ্যস্থলে,",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Dir-se-á aos anjos: \"Apanhai-o, e puxai-o para o meio do Inferno",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Схватите его и волоките (или несите) до самой середины Ада",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "(حکم دیا جائے گا کہ) اس کو پکڑ لو اور کھینچتے ہوئے دوزخ کے بیچوں بیچ لے جاؤ",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_044_048",
+      "reference": {
+        "surah_number": 44,
+        "surah_name": "Ad-Dukhaan",
+        "surah_name_ar": "سُوْرَةُ الدُّخَانِ",
+        "surah_name_translation": "The Smoke",
+        "ayah_number": 48,
+        "juz": 25,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 7,
+      "translations": {
+        "ar": {
+          "text": "ثُمَّ صُبُّواْ فَوۡقَ رَأۡسِهِۦ مِنۡ عَذَابِ ٱلۡحَمِيمِ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Then pour over their heads the torment of boiling water.”",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "然后，再把沸水的刑罚倾注在他的头上！",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "फिर उसके सिर पर खौलते हुए पानी का यातना उंडेल दो",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Luego viertan sobre su cabeza el castigo hirviente",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "qu'on verse ensuite sur sa tête de l'eau bouillante comme châtiment",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "অতঃপর তার মাথার উপর ফুটন্ত পানির আযাব ঢেলে দাও,",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Em seguida, entornai, sobre sua cabeça, algo do castigo da água ebuliente",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Затем налейте ему на голову кипяток, причиняющий страдания",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "پھر اس کے سر پر کھولتا ہوا پانی انڈیل دو (کہ عذاب پر) عذاب (ہو)",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_044_049",
+      "reference": {
+        "surah_number": 44,
+        "surah_name": "Ad-Dukhaan",
+        "surah_name_ar": "سُوْرَةُ الدُّخَانِ",
+        "surah_name_translation": "The Smoke",
+        "ayah_number": 49,
+        "juz": 25,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 5,
+      "translations": {
+        "ar": {
+          "text": "ذُقۡ إِنَّكَ أَنتَ ٱلۡعَزِيزُ ٱلۡكَرِيمُ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "˹The wicked will be told,˺ “Taste this. You mighty, noble one",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "你尝试吧！你确是显赫的，确是尊贵的！",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "मज़ा चख, तू तो बड़ा बलशाली, सज्जन और आदरणीय है",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "¡Súfrelo! [Porque en la vida mundanal pensabas que] eras \"el poderoso\" y \"el noble",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Goûte! Toi [qui prétendait être] le puissant, le noble",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "স্বাদ গ্রহণ কর, তুমি তো সম্মানিত, সম্ভ্রান্ত।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Dir-se-lhe-á: \"Experimentai-o! Por certo, tu te imaginavas o todo-poderoso, o nobre",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Вкушай, ведь ты - могущественный, благородный",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "(اب) مزہ چکھ۔ تو بڑی عزت والا (اور) سردار ہے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_044_050",
+      "reference": {
+        "surah_number": 44,
+        "surah_name": "Ad-Dukhaan",
+        "surah_name_ar": "سُوْرَةُ الدُّخَانِ",
+        "surah_name_translation": "The Smoke",
+        "ayah_number": 50,
+        "juz": 25,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 6,
+      "translations": {
+        "ar": {
+          "text": "إِنَّ هَٰذَا مَا كُنتُم بِهِۦ تَمۡتَرُونَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "This is truly what you ˹all˺ used to doubt.”",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "这（刑罚）确是你们生前所怀疑的。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "यही तो है जिसके विषय में तुम संदेह करते थे।",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Esto es sobre lo que dudabas",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Voilà ce dont vous doutiez",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "এ সম্পর্কে তোমরা সন্দেহে পতিত ছিলে।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Por certo, este é o que contestáveis",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Вот то, в чем вы сомневались",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "یہ وہی (دوزخ) ہے جس میں تم لوگ شک کیا کرتے تھے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_044_051",
+      "reference": {
+        "surah_number": 44,
+        "surah_name": "Ad-Dukhaan",
+        "surah_name_ar": "سُوْرَةُ الدُّخَانِ",
+        "surah_name_translation": "The Smoke",
+        "ayah_number": 51,
+        "juz": 25,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 5,
+      "translations": {
+        "ar": {
+          "text": "إِنَّ ٱلۡمُتَّقِينَ فِي مَقَامٍ أَمِينࣲ‏",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Indeed, the righteous will be in a secure place",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "敬畏者必定要住在安全的地方",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "निस्संदेह डर रखनेवाले निश्चिन्तता की जगह होंगे",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Pero los piadosos estarán en una situación segura",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Les pieux seront dans une demeure sûre",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "নিশ্চয় খোদাভীরুরা নিরাপদ স্থানে থাকবে-",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Por certo, os piedosos estarão em segura morada",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Воистину, богобоязненные пребудут в безопасном месте",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "بےشک پرہیزگار لوگ امن کے مقام میں ہوں گے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_044_052",
+      "reference": {
+        "surah_number": 44,
+        "surah_name": "Ad-Dukhaan",
+        "surah_name_ar": "سُوْرَةُ الدُّخَانِ",
+        "surah_name_translation": "The Smoke",
+        "ayah_number": 52,
+        "juz": 25,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 3,
+      "translations": {
+        "ar": {
+          "text": "فِي جَنَّٰتࣲ وَعُيُونࣲ‏",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "amid Gardens and springs",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "住在乐园之中，住在泉源之滨，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "बाग़ों और स्रोतों में",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "en jardines y manantiales",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "parmi des jardins et des sources",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "উদ্যানরাজি ও নির্ঝরিণীসমূহে।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Entre Jardins e fontes",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "в Райских садах и среди источников",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "(یعنی) باغوں اور چشموں میں",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_044_053",
+      "reference": {
+        "surah_number": 44,
+        "surah_name": "Ad-Dukhaan",
+        "surah_name_ar": "سُوْرَةُ الدُّخَانِ",
+        "surah_name_translation": "The Smoke",
+        "ayah_number": 53,
+        "juz": 25,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 5,
+      "translations": {
+        "ar": {
+          "text": "يَلۡبَسُونَ مِن سُندُسࣲ وَإِسۡتَبۡرَقࣲ مُّتَقَٰبِلِينَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "dressed in fine silk and rich brocade, facing one another",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "穿着绫罗绸缎，相向而坐。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "बारीक और गाढ़े रेशम के वस्त्र पहने हुए, एक-दूसरे के आमने-सामने उपस्थित होंगे",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Vestirán fina seda y brocado, y se sentarán unos frente a otros",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Ils porteront des vêtements de satin et de brocart et seront placés face à face",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "তারা পরিধান করবে চিকন ও পুরু রেশমীবস্ত্র, মুখোমুখি হয়ে বসবে।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Vestir-se-ão de fina seda e de brocado; eles estarão frente a frente",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Они будут облачены в атлас и парчу и будут восседать друг против друга",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "حریر کا باریک اور دبیز لباس پہن کر ایک دوسرے کے سامنے بیٹھے ہوں گے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_044_054",
+      "reference": {
+        "surah_number": 44,
+        "surah_name": "Ad-Dukhaan",
+        "surah_name_ar": "سُوْرَةُ الدُّخَانِ",
+        "surah_name_translation": "The Smoke",
+        "ayah_number": 54,
+        "juz": 25,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 4,
+      "translations": {
+        "ar": {
+          "text": "كَذَٰلِكَ وَزَوَّجۡنَٰهُم بِحُورٍ عِينࣲ‏",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "So it will be. And We will pair them to maidens with gorgeous eyes",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "结局是这样的：我将以白皙的、美目的女子，做他们的伴侣。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "ऐसा ही उनके साथ मामला होगा। और हम साफ़ गोरी, बड़ी नेत्रोवाली स्त्रियों से उनका विवाह कर देंगे",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Los desposaremos con huríes de grandes ojos",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "C'est ainsi! Et Nous leur donnerons pour épouses des houris aux grands yeux",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "এরূপই হবে এবং আমি তাদেরকে আনতলোচনা স্ত্রী দেব।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Assim será. E fá-los-emos se casarem com húris de belos grandes olhos",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Вот так! Мы сочетаем их с черноокими, большеглазыми девами",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اس طرح (کا حال ہوگا) اور ہم بڑی بڑی آنکھوں والی سفید رنگ کی عورتوں سے ان کے جوڑے لگائیں گے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_044_055",
+      "reference": {
+        "surah_number": 44,
+        "surah_name": "Ad-Dukhaan",
+        "surah_name_ar": "سُوْرَةُ الدُّخَانِ",
+        "surah_name_translation": "The Smoke",
+        "ayah_number": 55,
+        "juz": 25,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 5,
+      "translations": {
+        "ar": {
+          "text": "يَدۡعُونَ فِيهَا بِكُلِّ فَٰكِهَةٍ ءَامِنِينَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "There they will call for every fruit in serenity",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "他们在乐园中，将安全地索取各种水果。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "वे वहाँ निश्चिन्तता के साथ हर प्रकार के स्वादिष्ट फल मँगवाते होंगे",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Allí podrán pedir toda clase de frutas. Estarán en total seguridad",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Ils y demanderont en toute quiétude toutes sortes de fruits",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "তারা সেখানে শান্ত মনে বিভিন্ন ফল-মূল আনতে বলবে।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Neles, em segurança, requestarão toda espécie de frutas",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Там они будут просить любые фрукты, будучи в безопасности",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "وہاں خاطر جمع سے ہر قسم کے میوے منگوائیں گے (اور کھائیں گے)",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_044_056",
+      "reference": {
+        "surah_number": 44,
+        "surah_name": "Ad-Dukhaan",
+        "surah_name_ar": "سُوْرَةُ الدُّخَانِ",
+        "surah_name_translation": "The Smoke",
+        "ayah_number": 56,
+        "juz": 25,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 10,
+      "translations": {
+        "ar": {
+          "text": "لَا يَذُوقُونَ فِيهَا ٱلۡمَوۡتَ إِلَّا ٱلۡمَوۡتَةَ ٱلۡأُولَىٰۖ وَوَقَىٰهُمۡ عَذَابَ ٱلۡجَحِيمِ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "There they will never taste death, beyond the first death. And He will protect them from the punishment of the Hellfire—",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "他们在乐园中，除初次死亡外不再尝死的滋味。真主将使他们得免于火狱的刑罚。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "वहाँ वे मृत्यु का मज़ा कभी न चखेगे। बस पहली मृत्यु जो हुई, सो हुई। और उसने उन्हें भड़कती हुई आग की यातना से बचा लिया",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "No experimentarán otra vez la muerte, salvo la que ya conocieron. Él los preservará del castigo infernal",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Ils n'y goûteront pas à la mort sauf leur mort première. Et [Allah] les protègera du châtiment de la Fournaise",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "তারা সেখানে মৃত্যু আস্বাদন করবে না, প্রথম মৃত্যু ব্যতীত এবং আপনার পালনকর্তা তাদেরকে জাহান্নামের আযাব থেকে রক্ষা করবেন।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Neles, não experimentarão mais a morte, exceto a primeira morte. E Ele os guardam do castigo do Inferno",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Там они не вкусят смерти после первой смерти. Он защитил их от мучений в Аду",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "(اور) پہلی دفعہ کے مرنے کے سوا (کہ مرچکے تھے) موت کا مزہ نہیں چکھیں گے۔ اور خدا ان کو دوزخ کے عذاب سے بچا لے گا",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_044_057",
+      "reference": {
+        "surah_number": 44,
+        "surah_name": "Ad-Dukhaan",
+        "surah_name_ar": "سُوْرَةُ الدُّخَانِ",
+        "surah_name_translation": "The Smoke",
+        "ayah_number": 57,
+        "juz": 25,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 8,
+      "translations": {
+        "ar": {
+          "text": "فَضۡلࣰ ا مِّن رَّبِّكَۚ ذَٰلِكَ هُوَ ٱلۡفَوۡزُ ٱلۡعَظِيمُ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "as ˹an act of˺ grace from your Lord. That is ˹truly˺ the ultimate triumph",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "那是由于你的主的恩典，那确是伟大的成功。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "यह सब तुम्हारे रब के विशेष उदार अनुग्रह के कारण होगा, वही बड़ी सफलता है",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Ese es el favor de tu Señor. ¡Ese es el gran éxito",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "c'est là une grâce de ton Seigneur. Et c'est là l'énorme succès",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "আপনার পালনকর্তার কৃপায় এটাই মহা সাফল্য।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Como favor de teu Senhor. Esse é o magnífico triunfo",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "по милости от твоего Господа. Это и есть великое преуспеяние",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "یہ تمہارے پروردگار کا فضل ہے۔ یہی تو بڑی کامیابی ہے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_044_058",
+      "reference": {
+        "surah_number": 44,
+        "surah_name": "Ad-Dukhaan",
+        "surah_name_ar": "سُوْرَةُ الدُّخَانِ",
+        "surah_name_translation": "The Smoke",
+        "ayah_number": 58,
+        "juz": 25,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 5,
+      "translations": {
+        "ar": {
+          "text": "فَإِنَّمَا يَسَّرۡنَٰهُ بِلِسَانِكَ لَعَلَّهُمۡ يَتَذَكَّرُونَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Indeed, We have made this ˹Quran˺ easy in your own language ˹O Prophet˺ so perhaps they will be mindful",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "我以你的语言，使《古兰经》成为易解的，只为希望他们能觉悟。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "हमने तो इस (क़ुरआन) को बस तुम्हारी भाषा में सहज एवं सुगम बना दिया है ताकि वे याददिहानी प्राप्त (करें)",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Para facilitar su comprensión lo he revelado [al Corán] en tu lengua, para que reflexionen",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Nous ne l'avons facilité dans ta langue, qu'afin qu'ils se rappellent",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "আমি আপনার ভাষায় কোরআনকে সহজ করে দিয়েছি, যাতে তারা স্মরণ রাখে।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E, apenas, facilitamo-lo, em tua língua, para meditarem",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Мы облегчили его (Коран) на твоем языке, чтобы они могли помянуть назидание",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "ہم نے اس (قرآن) کو تمہاری زبان میں آسان کردیا ہے تاکہ یہ لوگ نصیحت پکڑیں",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_044_059",
+      "reference": {
+        "surah_number": 44,
+        "surah_name": "Ad-Dukhaan",
+        "surah_name_ar": "سُوْرَةُ الدُّخَانِ",
+        "surah_name_translation": "The Smoke",
+        "ayah_number": 59,
+        "juz": 25,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 3,
+      "translations": {
+        "ar": {
+          "text": "فَٱرۡتَقِبۡ إِنَّهُم مُّرۡتَقِبُونَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Wait then! They too are certainly waiting",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "你等待吧，他们确是等待着的！",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "अच्छा तुम भी प्रतीक्षा करो, वे भी प्रतीक्षा में हैं",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Así que espera pacientemente, de la misma manera que ellos están esperando",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Attends donc. Eux aussi attendent",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "অতএব, আপনি অপেক্ষা করুন, তারাও অপেক্ষা করছে।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Então, expecta. Por certo, eles estão expectando",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Подожди же, ведь они тоже ждут",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "پس تم بھی انتظار کرو یہ بھی انتظار کر رہے ہیں",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    }
+  ]
+}

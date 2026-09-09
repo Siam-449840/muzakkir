@@ -1,0 +1,621 @@
+{
+  "surah": 100,
+  "verses": [
+    {
+      "content_id": "quran_100_001",
+      "reference": {
+        "surah_number": 100,
+        "surah_name": "Al-Aadiyaat",
+        "surah_name_ar": "سُوْرَةُ العٰدِيٰتِ",
+        "surah_name_translation": "The Chargers",
+        "ayah_number": 1,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 3,
+      "translations": {
+        "ar": {
+          "text": "وَٱلۡعَٰدِيَٰتِ ضَبۡحࣰ ا",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "’ By the galloping, panting horses",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "以喘息而奔驰的马队盟誓",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "साक्षी है जो हाँफते-फुँकार मारते हुए दौड़ते है",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Juro por los corceles que se lanzan relinchando",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Par les coursiers qui halètent",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "শপথ উর্ধ্বশ্বাসে চলমান অশ্বসমূহের,",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Pelos corcéis arquejantes",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Клянусь скачущими, запыхаясь",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "ان سرپٹ دوڑنے والے گھوڑوں کی قسم جو ہانپ اٹھتےہیں",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_100_002",
+      "reference": {
+        "surah_number": 100,
+        "surah_name": "Al-Aadiyaat",
+        "surah_name_ar": "سُوْرَةُ العٰدِيٰتِ",
+        "surah_name_translation": "The Chargers",
+        "ayah_number": 2,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 3,
+      "translations": {
+        "ar": {
+          "text": "فَٱلۡمُورِيَٰتِ قَدۡحࣰ ا",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "striking sparks of fire ˹with their hoofs˺",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "以蹄发火花的马队盟誓",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "फिर ठोकरों से चिनगारियाँ निकालते है",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "y arrancan chispas con sus cascos",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "qui font jaillir des étincelles",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "অতঃপর ক্ষুরাঘাতে অগ্নিবিচ্ছুরক অশ্বসমূহের",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E chispeantes, com seus cascos",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Клянусь высекающими искры копытами",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "پھر (پتھروں پر نعل) مار کر آگ نکالتے ہیں",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_100_003",
+      "reference": {
+        "surah_number": 100,
+        "surah_name": "Al-Aadiyaat",
+        "surah_name_ar": "سُوْرَةُ العٰدِيٰتِ",
+        "surah_name_translation": "The Chargers",
+        "ayah_number": 3,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 3,
+      "translations": {
+        "ar": {
+          "text": "فَٱلۡمُغِيرَٰتِ صُبۡحࣰ ا",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "launching raids at dawn",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "以早晨出击",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "फिर सुबह सवेरे धावा मारते होते है",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "y sorprenden al amanecer",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "qui attaquent au matin",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "অতঃপর প্রভাতকালে আক্রমণকারী অশ্বসমূহের",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E atacantes, pela manhã",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Клянусь нападающими на заре",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "پھر صبح کو چھاپہ مارتے ہیں",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_100_004",
+      "reference": {
+        "surah_number": 100,
+        "surah_name": "Al-Aadiyaat",
+        "surah_name_ar": "سُوْرَةُ العٰدِيٰتِ",
+        "surah_name_translation": "The Chargers",
+        "ayah_number": 4,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 4,
+      "translations": {
+        "ar": {
+          "text": "فَأَثَرۡنَ بِهِۦ نَقۡعࣰ ا",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "stirring up ˹clouds of˺ dust",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "卷起尘埃",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "उसमें उठाया उन्होंने गर्द-गुबार",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "levantando una nube de polvo",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "et font ainsi voler la poussière",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "ও যারা সে সময়ে ধুলি উৎক্ষিপ্ত করে",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Então, levantam, com isso, nuvens de poeira",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Тем самым они поднимают столб пыли",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "پھر اس میں گرد اٹھاتے ہیں",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_100_005",
+      "reference": {
+        "surah_number": 100,
+        "surah_name": "Al-Aadiyaat",
+        "surah_name_ar": "سُوْرَةُ العٰدِيٰتِ",
+        "surah_name_translation": "The Chargers",
+        "ayah_number": 5,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 3,
+      "translations": {
+        "ar": {
+          "text": "فَوَسَطۡنَ بِهِۦ جَمۡعًا",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "and penetrating into the heart of enemy lines",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "攻入敌围的马队盟誓",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "और इसी हाल में वे दल में जा घुसे",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "e irrumpiendo en las filas del enemigo",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "et pénètrent au centre de la troupe ennemie",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "অতঃপর যারা শক্রদলের অভ্যন্তরে ঢুকে পড়ে-",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E permeiam, com isso, uma inimiga multidão",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "и врываются с ним (со столбом пыли или с всадником) в гущу",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "پھر اس وقت دشمن کی فوج میں جا گھستے ہیں",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_100_006",
+      "reference": {
+        "surah_number": 100,
+        "surah_name": "Al-Aadiyaat",
+        "surah_name_ar": "سُوْرَةُ العٰدِيٰتِ",
+        "surah_name_translation": "The Chargers",
+        "ayah_number": 6,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 4,
+      "translations": {
+        "ar": {
+          "text": "إِنَّ ٱلۡإِنسَٰنَ لِرَبِّهِۦ لَكَنُودࣱ‏",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Surely humankind is ungrateful to their Lord—",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "人对于主, 确是孤负的。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "निस्संदेह मनुष्य अपने रब का बड़ा अकृतज्ञ हैं",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "que el ser humano es ingrato con su Señor",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "L'homme est, certes, ingrat envers son Seigneur",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "নিশ্চয় মানুষ তার পালনকর্তার প্রতি অকৃতজ্ঞ।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Por certo, o ser humano é ingrato a seu Senhor",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Воистину, человек неблагодарен своему Господу",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "کہ انسان اپنے پروردگار کا احسان ناشناس (اور ناشکرا) ہے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_100_007",
+      "reference": {
+        "surah_number": 100,
+        "surah_name": "Al-Aadiyaat",
+        "surah_name_ar": "سُوْرَةُ العٰدِيٰتِ",
+        "surah_name_translation": "The Chargers",
+        "ayah_number": 7,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 4,
+      "translations": {
+        "ar": {
+          "text": "وَإِنَّهُۥ عَلَىٰ ذَٰلِكَ لَشَهِيدࣱ‏",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "and they certainly attest to this—",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "他自己对那孤负确是见证的",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "और निश्चय ही वह स्वयं इसपर गवाह है",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Y él mismo es testigo de ello",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "et pourtant, il est certes, témoin de cela",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "এবং সে অবশ্য এ বিষয়ে অবহিত",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E, por certo, ele é testemunha disso",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "и он сам является тому свидетелем",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور وہ اس سے آگاہ بھی ہے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_100_008",
+      "reference": {
+        "surah_number": 100,
+        "surah_name": "Al-Aadiyaat",
+        "surah_name_ar": "سُوْرَةُ العٰدِيٰتِ",
+        "surah_name_translation": "The Chargers",
+        "ayah_number": 8,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 4,
+      "translations": {
+        "ar": {
+          "text": "وَإِنَّهُۥ لِحُبِّ ٱلۡخَيۡرِ لَشَدِيدٌ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "and they are truly extreme in their love of ˹worldly˺ gains",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "他对于财产确是酷好的。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "और निश्चय ही वह धन के मोह में बड़ा दृढ़ है",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "porque tiene una codicia apasionada por los bienes materiales",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "et pour l'amour des richesses il est certes ardent",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "এবং সে নিশ্চিতই ধন-সম্পদের ভালবাসায় মত্ত।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E, por certo, ele é veemente no amor à riqueza",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Воистину, он страстно любит блага",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "وہ تو مال سے سخت محبت کرنے والا ہے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_100_009",
+      "reference": {
+        "surah_number": 100,
+        "surah_name": "Al-Aadiyaat",
+        "surah_name_ar": "سُوْرَةُ العٰدِيٰتِ",
+        "surah_name_translation": "The Chargers",
+        "ayah_number": 9,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 7,
+      "translations": {
+        "ar": {
+          "text": "۞أَفَلَا يَعۡلَمُ إِذَا بُعۡثِرَ مَا فِي ٱلۡقُبُورِ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Do they not know that when the contents of the graves will be spilled out",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "难道他不知道吗？当坟中的朽骨被揭发",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "तो क्या वह जानता नहीं जब उगवला लिया जाएगा तो क़ब्रों में है",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "¿Acaso no sabe que cuando se haga surgir a quienes están en las sepulturas",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Ne sait-il donc pas que lorsque ce qui est dans les tombes sera bouleversé",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "সে কি জানে না, যখন কবরে যা আছে, তা উত্থিত হবে",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Então, não sabe ele que será recompensado, quando for revolvido o que há nos sepulcros",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Неужели он не знает, что, когда будет опрокинуто то, что в могилах",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "کیا وہ اس وقت کو نہیں جانتا کہ جو (مردے) قبروں میں ہیں وہ باہر نکال لیے جائیں گے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_100_010",
+      "reference": {
+        "surah_number": 100,
+        "surah_name": "Al-Aadiyaat",
+        "surah_name_ar": "سُوْرَةُ العٰدِيٰتِ",
+        "surah_name_translation": "The Chargers",
+        "ayah_number": 10,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 4,
+      "translations": {
+        "ar": {
+          "text": "وَحُصِّلَ مَا فِي ٱلصُّدُورِ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "and the secrets of the hearts will be laid bare—",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "胸中的秘密被显示的时侯",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "और स्पष्ट अनावृत्त कर दिया जाएगा तो कुछ सीनों में है",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "y se evidencie lo que hay en los corazones",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "et que sera dévoilé ce qui est dans les poitrines",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "এবং অন্তরে যা আছে, তা অর্জন করা হবে?",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E for recolhido o que há nos peito",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "и когда обнаружится то, что в груди",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور جو (بھید) دلوں میں ہیں وہ ظاہر کر دیئے جائیں گے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_100_011",
+      "reference": {
+        "surah_number": 100,
+        "surah_name": "Al-Aadiyaat",
+        "surah_name_ar": "سُوْرَةُ العٰدِيٰتِ",
+        "surah_name_translation": "The Chargers",
+        "ayah_number": 11,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 5,
+      "translations": {
+        "ar": {
+          "text": "إِنَّ رَبَّهُم بِهِمۡ يَوۡمَئِذࣲ لَّخَبِيرُۢ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "surely their Lord is All-Aware of them on that Day",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "在那日, 他们的主, 确是彻知他们的。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "निस्संदेह उनका रब उस दिन उनकी पूरी ख़बर रखता होगा",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "ese día su Señor estará bien informado de lo que hicieron",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "ce jour-là, certes, leur Seigneur sera Parfaitement Connaisseur d'eux",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "সেদিন তাদের কি হবে, সে সম্পর্কে তাদের পালনকর্তা সবিশেষ জ্ঞাত।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Por certo, nesse dia, o seu Senhor deles será Conhecedor",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "в тот день Господь их будет осведомлен о них",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "بےشک ان کا پروردگار اس روز ان سے خوب واقف ہوگا",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    }
+  ]
+}

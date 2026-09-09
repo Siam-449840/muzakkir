@@ -1,0 +1,341 @@
+{
+  "surah": 109,
+  "verses": [
+    {
+      "content_id": "quran_109_001",
+      "reference": {
+        "surah_number": 109,
+        "surah_name": "Al-Kaafiroon",
+        "surah_name_ar": "سُوْرَةُ الْكَافِرُوْنَ",
+        "surah_name_translation": "The Disbelievers",
+        "ayah_number": 1,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 3,
+      "translations": {
+        "ar": {
+          "text": "قُلۡ يَٰٓأَيُّهَا ٱلۡكَٰفِرُونَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Say, ˹O Prophet,˺ “O you disbelievers",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "你说：不信道的人们啊！",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "कह दो, \"ऐ इनकार करनेवालो",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Di: \"¡Oh, incrédulos",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Dis: «O vous les infidèles",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "বলুন, হে কাফেরকূল,",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Dize: \"Ó renegadores da Fé",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Скажи: «О неверующие",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "(اے پیغمبر ان منکران اسلام سے) کہہ دو کہ اے کافرو",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_109_002",
+      "reference": {
+        "surah_number": 109,
+        "surah_name": "Al-Kaafiroon",
+        "surah_name_ar": "سُوْرَةُ الْكَافِرُوْنَ",
+        "surah_name_translation": "The Disbelievers",
+        "ayah_number": 2,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 4,
+      "translations": {
+        "ar": {
+          "text": "لَآ أَعۡبُدُ مَا تَعۡبُدُونَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "I do not worship what you worship",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "我不崇拜你们所崇拜的",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "मैं वैसी बन्दगी नहीं करूँगा जैसी बन्दगी तुम करते हो",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "No adoro lo que adoran",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Je n'adore pas ce que vous adorez",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "আমি এবাদত করিনা, তোমরা যার এবাদত কর।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Não adoro o que adorais",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Я не поклоняюсь тому, чему поклоняетесь вы",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "جن (بتوں) کو تم پوچتے ہو ان کو میں نہیں پوجتا",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_109_003",
+      "reference": {
+        "surah_number": 109,
+        "surah_name": "Al-Kaafiroon",
+        "surah_name_ar": "سُوْرَةُ الْكَافِرُوْنَ",
+        "surah_name_translation": "The Disbelievers",
+        "ayah_number": 3,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 5,
+      "translations": {
+        "ar": {
+          "text": "وَلَآ أَنتُمۡ عَٰبِدُونَ مَآ أَعۡبُدُ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "nor do you worship what I worship",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "你们也不崇拜我所崇拜的",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "और न तुम वैसी बन्दगी करनेवाले हो जैसी बन्दगी में करता हूँ",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Ni adoran ustedes a Quien yo adoro",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Et vous n'êtes pas adorateurs de ce que j'adore",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "এবং তোমরাও এবাদতকারী নও, যার এবাদত আমি করি",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Nem adorareis o que adoro",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "а вы не поклоняетесь Тому, Кому поклоняюсь я",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور جس (خدا) کی میں عبادت کرتا ہوں اس کی تم عبادت نہیں کرتے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_109_004",
+      "reference": {
+        "surah_number": 109,
+        "surah_name": "Al-Kaafiroon",
+        "surah_name_ar": "سُوْرَةُ الْكَافِرُوْنَ",
+        "surah_name_translation": "The Disbelievers",
+        "ayah_number": 4,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 5,
+      "translations": {
+        "ar": {
+          "text": "وَلَآ أَنَا۠ عَابِدࣱ مَّا عَبَدتُّمۡ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "I will never worship what you worship",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "我不会崇拜你们所崇拜的",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "और न मैं वैसी बन्दगी करनेवाला हूँ जैसी बन्दगी तुमने की है",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Y jamás adoraré lo que adoran",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Je ne suis pas adorateur de ce que vous adorez",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "এবং আমি এবাদতকারী নই, যার এবাদত তোমরা কর।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Nem adorarei o que adorastes",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Я не поклоняюсь так, как поклоняетесь вы (или тому, чему поклоняетесь вы)",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور (میں پھر کہتا ہوں کہ) جن کی تم پرستش کرتے ہوں ان کی میں پرستش کرنے والا نہیں ہوں",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_109_005",
+      "reference": {
+        "surah_number": 109,
+        "surah_name": "Al-Kaafiroon",
+        "surah_name_ar": "سُوْرَةُ الْكَافِرُوْنَ",
+        "surah_name_translation": "The Disbelievers",
+        "ayah_number": 5,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 5,
+      "translations": {
+        "ar": {
+          "text": "وَلَآ أَنتُمۡ عَٰبِدُونَ مَآ أَعۡبُدُ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "nor will you ever worship what I worship",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "你们也不会崇拜我所崇拜的",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "और न तुम वैसी बन्दगी करनेवाला हुए जैसी बन्दगी मैं करता हूँ",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Ni adorarán ustedes a Quien yo adoro",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Et vous n'êtes pas adorateurs de ce que j'adore",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "তোমরা এবাদতকারী নও, যার এবাদত আমি করি।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Nem adorareis o que adoro",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "а вы не поклоняетесь так, как поклоняюсь я (или Тому, Кому поклоняюсь я)",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور نہ تم اس کی بندگی کرنے والے (معلوم ہوتے) ہو جس کی میں بندگی کرتا ہوں",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_109_006",
+      "reference": {
+        "surah_number": 109,
+        "surah_name": "Al-Kaafiroon",
+        "surah_name_ar": "سُوْرَةُ الْكَافِرُوْنَ",
+        "surah_name_translation": "The Disbelievers",
+        "ayah_number": 6,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 4,
+      "translations": {
+        "ar": {
+          "text": "لَكُمۡ دِينُكُمۡ وَلِيَ دِينِ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "You have your way, and I have my Way.”",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "你们有你们的报应, 我也有我的报应。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "तुम्हारे लिए तूम्हारा धर्म है और मेरे लिए मेरा धर्म",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Ustedes tienen su religión y yo la mía",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "A vous votre religion, et à moi ma religion»",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "তোমাদের কর্ম ও কর্মফল তোমাদের জন্যে এবং আমার কর্ম ও কর্মফল আমার জন্যে।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "A vós vossa religião e, a mim, minha religião",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "У вас есть ваша религия, а у меня - моя!»",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "تم اپنے دین پر میں اپنے دین پر",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    }
+  ]
+}

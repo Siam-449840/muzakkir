@@ -1,0 +1,453 @@
+{
+  "surah": 94,
+  "verses": [
+    {
+      "content_id": "quran_094_001",
+      "reference": {
+        "surah_number": 94,
+        "surah_name": "Ash-Sharh",
+        "surah_name_ar": "سُوْرَةُ الشَّرْحِ",
+        "surah_name_translation": "The Consolation",
+        "ayah_number": 1,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 4,
+      "translations": {
+        "ar": {
+          "text": "أَلَمۡ نَشۡرَحۡ لَكَ صَدۡرَكَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Have We not uplifted your heart for you ˹O Prophet˺",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "难道我没有为你而开拓你的胸襟吗？",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "क्या ऐसा नहीं कि हमने तुम्हारा सीना तुम्हारे लिए खोल दिया",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "¿Acaso no he dado sosiego a tu corazón [¡oh, Mujámmad]",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "N'avons-Nous pas ouvert pour toi ta poitrine",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "আমি কি আপনার বক্ষ উম্মুক্ত করে দেইনি?",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Não te dilatamos o peito",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Разве Мы не раскрыли для тебя грудь твою",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "(اے محمدﷺ) کیا ہم نے تمہارا سینہ کھول نہیں دیا؟ (بےشک کھول دیا)",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_094_002",
+      "reference": {
+        "surah_number": 94,
+        "surah_name": "Ash-Sharh",
+        "surah_name_ar": "سُوْرَةُ الشَّرْحِ",
+        "surah_name_translation": "The Consolation",
+        "ayah_number": 2,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 3,
+      "translations": {
+        "ar": {
+          "text": "وَوَضَعۡنَا عَنكَ وِزۡرَكَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "relieved you of the burden",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "我卸下了你的重任",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "और तुमपर से तुम्हारा बोझ उतार दिया",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "te he liberado de la carga",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Et ne t'avons-Nous pas déchargé du fardeau",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "আমি লাঘব করেছি আপনার বোঝা,",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E não te depusemos o fardo",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "и не сняли с тебя ношу",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور تم پر سے بوجھ بھی اتار دیا",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_094_003",
+      "reference": {
+        "surah_number": 94,
+        "surah_name": "Ash-Sharh",
+        "surah_name_ar": "سُوْرَةُ الشَّرْحِ",
+        "surah_name_translation": "The Consolation",
+        "ayah_number": 3,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 3,
+      "translations": {
+        "ar": {
+          "text": "ٱلَّذِيٓ أَنقَضَ ظَهۡرَكَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "which weighed so heavily on your back",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "即使你的背担负过重的，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "जो तुम्हारी कमर तोड़े डाल रहा था",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "que agobiaba tu espalda",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "qui accablait ton dos",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "যা ছিল আপনার জন্যে অতিশয় দুঃসহ।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Que te vergava as costas",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "которая отягощала твою спину",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "جس نے تمہاری پیٹھ توڑ رکھی تھی",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_094_004",
+      "reference": {
+        "surah_number": 94,
+        "surah_name": "Ash-Sharh",
+        "surah_name_ar": "سُوْرَةُ الشَّرْحِ",
+        "surah_name_translation": "The Consolation",
+        "ayah_number": 4,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 3,
+      "translations": {
+        "ar": {
+          "text": "وَرَفَعۡنَا لَكَ ذِكۡرَكَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "and elevated your renown for you",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "而提高了你的声望，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "और तुम्हारे लिए तुम्हारे ज़िक्र को ऊँचा कर दिया",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "y he elevado tu renombre",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Et exalté pour toi ta renommée",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "আমি আপনার আলোচনাকে সমুচ্চ করেছি।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E não te elevamos a fama",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Разве Мы не возвеличили для тебя славу твою",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور تمہارا ذکر بلند کیا",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_094_005",
+      "reference": {
+        "surah_number": 94,
+        "surah_name": "Ash-Sharh",
+        "surah_name_ar": "سُوْرَةُ الشَّرْحِ",
+        "surah_name_translation": "The Consolation",
+        "ayah_number": 5,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 4,
+      "translations": {
+        "ar": {
+          "text": "فَإِنَّ مَعَ ٱلۡعُسۡرِ يُسۡرًا",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "So, surely with hardship comes ease",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "与艰难相伴的，确是容易，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "अतः निस्संदेह कठिनाई के साथ आसानी भी है",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Luego de toda dificultad viene la facilidad",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "A côté de la difficulté est, certes, une facilité",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "নিশ্চয় কষ্টের সাথে স্বস্তি রয়েছে।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Então, por certo, com a dificuldade, há facilidade",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Воистину, за каждой тягостью наступает облегчение",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "ہاں ہاں مشکل کے ساتھ آسانی بھی ہے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_094_006",
+      "reference": {
+        "surah_number": 94,
+        "surah_name": "Ash-Sharh",
+        "surah_name_ar": "سُوْرَةُ الشَّرْحِ",
+        "surah_name_translation": "The Consolation",
+        "ayah_number": 6,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 5,
+      "translations": {
+        "ar": {
+          "text": "إِنَّ مَعَ ٱلۡعُسۡرِ يُسۡرࣰ ا",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Surely with ˹that˺ hardship comes ˹more˺ ease",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "与艰难相伴的，确是容易，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "निस्संदेह कठिनाई के साथ आसानी भी है",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Realmente, luego de toda dificultad viene la facilidad",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "A côté de la difficulté est, certes, une facilité",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "নিশ্চয় কষ্টের সাথে স্বস্তি রয়েছে।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Por certo, com a dificuldade, há facilidade",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "За каждой тягостью наступает облегчение",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "(اور) بے شک مشکل کے ساتھ آسانی ہے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_094_007",
+      "reference": {
+        "surah_number": 94,
+        "surah_name": "Ash-Sharh",
+        "surah_name_ar": "سُوْرَةُ الشَّرْحِ",
+        "surah_name_translation": "The Consolation",
+        "ayah_number": 7,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 3,
+      "translations": {
+        "ar": {
+          "text": "فَإِذَا فَرَغۡتَ فَٱنصَبۡ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "So once you have fulfilled ˹your duty˺, strive ˹in devotion˺",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "当你的事务完毕时，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "अतः जब निवृत हो तो परिश्रम में लग जाओ",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Cuando cumplas con tus obligaciones dedícate a la adoración",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Quand tu te libères, donc, lève-toi",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "অতএব, যখন অবসর পান পরিশ্রম করুন।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Então, quando estiverdes livre, esforça-te em orar",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Посему, как только освободишься, будь деятелен (как только освободишься от мирских дел, усердно поклоняйся Аллаху, или как только завершишь намаз, усердно взывай к Аллаху с молитвами)",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "تو جب فارغ ہوا کرو تو (عبادت میں) محنت کیا کرو",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_094_008",
+      "reference": {
+        "surah_number": 94,
+        "surah_name": "Ash-Sharh",
+        "surah_name_ar": "سُوْرَةُ الشَّرْحِ",
+        "surah_name_translation": "The Consolation",
+        "ayah_number": 8,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 3,
+      "translations": {
+        "ar": {
+          "text": "وَإِلَىٰ رَبِّكَ فَٱرۡغَب",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "turning to your Lord ˹alone˺ with hope",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "你应当勤劳，你应当向你的主恳求。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "और अपने रब से लौ लगाओ",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "y a tu Señor anhela con devoción",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "et à ton Seigneur aspire",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "এবং আপনার পালনকর্তার প্রতি মনোনিবেশ করুন।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E dirige-te a teu Senhor em rogos",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "и устремись к своему Господу",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور اپنے پروردگار کی طرف متوجہ ہو جایا کرو",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    }
+  ]
+}

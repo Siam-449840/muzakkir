@@ -1,0 +1,509 @@
+{
+  "surah": 104,
+  "verses": [
+    {
+      "content_id": "quran_104_001",
+      "reference": {
+        "surah_number": 104,
+        "surah_name": "Al-Humaza",
+        "surah_name_ar": "سُوْرَةُ الْهُمَزَةِ",
+        "surah_name_translation": "The Traducer",
+        "ayah_number": 1,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 4,
+      "translations": {
+        "ar": {
+          "text": "وَيۡلࣱ لِّكُلِّ هُمَزَةࣲ لُّمَزَةٍ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Woe to every backbiter, slanderer",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "伤哉！每个诽谤者, 诋毁者",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "तबाही है हर कचो के लगानेवाले, ऐब निकालनेवाले के लिए",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "¡Ay del castigo que les aguarda al difamador y al calumniador",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Malheur à tout calomniateur diffamateur",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "প্রত্যেক পশ্চাতে ও সম্মুখে পরনিন্দাকারীর দুর্ভোগ,",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Ai de todo difamador, caluniador",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Горе всякому хулителю и обидчику",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "ہر طعن آمیز اشارتیں کرنے والے چغل خور کی خرابی ہے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_104_002",
+      "reference": {
+        "surah_number": 104,
+        "surah_name": "Al-Humaza",
+        "surah_name_ar": "سُوْرَةُ الْهُمَزَةِ",
+        "surah_name_translation": "The Traducer",
+        "ayah_number": 2,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 5,
+      "translations": {
+        "ar": {
+          "text": "ٱلَّذِي جَمَعَ مَالࣰ ا وَعَدَّدَهُۥ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "who amasses wealth ˹greedily˺ and counts it ˹repeatedly˺",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "他聚积财产, 而当作武器",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "जो माल इकट्ठा करता और उसे गिनता रहा",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "al que acumula bienes materiales y los cuenta una y otra vez",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "qui amasse une fortune et la compte",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "যে অর্থ সঞ্চিত করে ও গণনা করে",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Que junta riquezas e, com deleite, as conta",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "который копит состояние и пересчитывает его",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "جو مال جمع کرتا اور اس کو گن گن کر رکھتا ہے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_104_003",
+      "reference": {
+        "surah_number": 104,
+        "surah_name": "Al-Humaza",
+        "surah_name_ar": "سُوْرَةُ الْهُمَزَةِ",
+        "surah_name_translation": "The Traducer",
+        "ayah_number": 3,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 4,
+      "translations": {
+        "ar": {
+          "text": "يَحۡسَبُ أَنَّ مَالَهُۥٓ أَخۡلَدَهُۥ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "thinking that their wealth will make them immortal",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "他以为他的财产, 能使他不灭。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "समझता है कि उसके माल ने उसे अमर कर दिया",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "creyendo que su riqueza lo hará vivir eternamente",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "pensant que sa fortune l'immortalisera",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "সে মনে করে যে, তার অর্থ চিরকাল তার সাথে থাকবে!",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Supõe que suas riquezas o tornarão eterno",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "думая, что богатство увековечит его",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "(اور) خیال کرتا ہے کہ اس کا مال اس کی ہمیشہ کی زندگی کا موجب ہو گا",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_104_004",
+      "reference": {
+        "surah_number": 104,
+        "surah_name": "Al-Humaza",
+        "surah_name_ar": "سُوْرَةُ الْهُمَزَةِ",
+        "surah_name_translation": "The Traducer",
+        "ayah_number": 4,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 4,
+      "translations": {
+        "ar": {
+          "text": "كَلَّاۖ لَيُنۢبَذَنَّ فِي ٱلۡحُطَمَةِ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Not at all! Such a person will certainly be tossed into the Crusher",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "绝不然, 他必定要被投在毁灭坑中。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "कदापि नहीं, वह चूर-चूर कर देनेवाली में फेंक दिया जाएगा",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Por el contrario, serán arrojados en un fuego demoledor",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Mais non! Il sera certes, jeté dans la Hutamah",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "কখনও না, সে অবশ্যই নিক্ষিপ্ত হবে পিষ্টকারীর মধ্যে।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Em absoluto, não o tornarão! Em verdade, ele será deitado fora, em al-Hutama",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Но нет! Его непременно ввергнут в Огонь сокрушающий",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "ہر گز نہیں وہ ضرور حطمہ میں ڈالا جائے گا",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_104_005",
+      "reference": {
+        "surah_number": 104,
+        "surah_name": "Al-Humaza",
+        "surah_name_ar": "سُوْرَةُ الْهُمَزَةِ",
+        "surah_name_translation": "The Traducer",
+        "ayah_number": 5,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 4,
+      "translations": {
+        "ar": {
+          "text": "وَمَآ أَدۡرَىٰكَ مَا ٱلۡحُطَمَةُ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "And what will make you realize what the Crusher is",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "你怎能知道毁灭坑是什麽？",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "और तुम्हें क्या मालूम कि वह चूर-चूर कर देनेवाली क्या है",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "¿Y qué te hará comprender lo que es un fuego demoledor",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Et qui te dira ce qu'est la Hutamah",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "আপনি কি জানেন, পিষ্টকারী কি?",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E o que te faz inteirar-te do que é al-Hutamah",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Откуда ты мог знать, что такое Огонь сокрушающий",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور تم کیا سمجھے حطمہ کیا ہے؟",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_104_006",
+      "reference": {
+        "surah_number": 104,
+        "surah_name": "Al-Humaza",
+        "surah_name_ar": "سُوْرَةُ الْهُمَزَةِ",
+        "surah_name_translation": "The Traducer",
+        "ayah_number": 6,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 3,
+      "translations": {
+        "ar": {
+          "text": "نَارُ ٱللَّهِ ٱلۡمُوقَدَةُ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "˹It is˺ Allah’s kindled Fire",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "是真主的燃著的烈活。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "वह अल्लाह की दहकाई हुई आग है",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Es un fuego encendido por Dios",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Le Feu attisé d'Allah",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "এটা আল্লাহর প্রজ্জ্বলিত অগ্নি,",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "É o fogo aceso, de Allah",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Это - разожженный Огонь Аллаха",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "وہ خدا کی بھڑکائی ہوئی آگ ہے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_104_007",
+      "reference": {
+        "surah_number": 104,
+        "surah_name": "Al-Humaza",
+        "surah_name_ar": "سُوْرَةُ الْهُمَزَةِ",
+        "surah_name_translation": "The Traducer",
+        "ayah_number": 7,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 4,
+      "translations": {
+        "ar": {
+          "text": "ٱلَّتِي تَطَّلِعُ عَلَى ٱلۡأَفۡـِٔدَةِ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "which rages over the hearts",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "能升到人的心上。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "जो झाँक लेती है दिलों को",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "cuyo dolor alcanza los corazones",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "qui monte jusqu'aux cœurs",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "যা হৃদয় পর্যন্ত পৌছবে।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "O qual sobe até os corações",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "который вздымается над сердцами",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "جو دلوں پر جا لپٹے گی",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_104_008",
+      "reference": {
+        "surah_number": 104,
+        "surah_name": "Al-Humaza",
+        "surah_name_ar": "سُوْرَةُ الْهُمَزَةِ",
+        "surah_name_translation": "The Traducer",
+        "ayah_number": 8,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 3,
+      "translations": {
+        "ar": {
+          "text": "إِنَّهَا عَلَيۡهِم مُّؤۡصَدَةࣱ‏",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "It will be sealed over them",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "他们必定要被关在烈火中",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "वह उनपर ढाँककर बन्द कर दी गई होगी",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "El Infierno se cerrará en torno a ellos",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Il se refermera sur eux",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "এতে তাদেরকে বেঁধে দেয়া হবে,",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Por certo, será cerrado sobre eles",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Воистину, он сомкнется над ними",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "(اور) وہ اس میں بند کر دیئے جائیں گے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_104_009",
+      "reference": {
+        "surah_number": 104,
+        "surah_name": "Al-Humaza",
+        "surah_name_ar": "سُوْرَةُ الْهُمَزَةِ",
+        "surah_name_translation": "The Traducer",
+        "ayah_number": 9,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 3,
+      "translations": {
+        "ar": {
+          "text": "فِي عَمَدࣲ مُّمَدَّدَةِۭ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "˹tightly secured˺ with long braces",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "吊在许多很高的柱子上。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "लम्बे-लम्बे स्तम्भों में",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "con columnas inmensas",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "en colonnes (de flammes) étendues",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "লম্বা লম্বা খুঁটিতে।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Em colunas extensas",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "высокими столбами (мученики будут прикованы к этим столбам или врата Ада будут заперты и закреплены этими столбами)",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "(یعنی آگ کے) لمبے لمبے ستونوں میں",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    }
+  ]
+}

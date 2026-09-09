@@ -1,0 +1,1405 @@
+{
+  "surah": 84,
+  "verses": [
+    {
+      "content_id": "quran_084_001",
+      "reference": {
+        "surah_number": 84,
+        "surah_name": "Al-Inshiqaaq",
+        "surah_name_ar": "سُوْرَةُ الاِنْشِقَاقِ",
+        "surah_name_translation": "The Splitting Open",
+        "ayah_number": 1,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 3,
+      "translations": {
+        "ar": {
+          "text": "إِذَا ٱلسَّمَآءُ ٱنشَقَّتۡ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "When the sky bursts open",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "当天绽裂，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "जबकि आकाश फट जाएगा",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Cuando el cielo se resquebraje",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Quand le ciel se déchirera",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "যখন আকাশ বিদীর্ণ হবে,",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Quando o céu se fender",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Когда небо разверзнется",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "جب آسمان پھٹ جائے گا",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_084_002",
+      "reference": {
+        "surah_number": 84,
+        "surah_name": "Al-Inshiqaaq",
+        "surah_name_ar": "سُوْرَةُ الاِنْشِقَاقِ",
+        "surah_name_translation": "The Splitting Open",
+        "ayah_number": 2,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 3,
+      "translations": {
+        "ar": {
+          "text": "وَأَذِنَتۡ لِرَبِّهَا وَحُقَّتۡ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "obeying its Lord as it must",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "听从主命，而且宜於听从的时候；",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "और वह अपने रब की सुनेगा, और उसे यही चाहिए भी",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "en cumplimiento de la orden de su Señor, como es debido",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "et obéira à son Seigneur - et fera ce qu'il doit faire",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "ও তার পালনকর্তার আদেশ পালন করবে এবং আকাশ এরই উপযুক্ত",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E obedecer a seu Senhor, e o fizer devidamente",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "и внемлет своему Господу, как ему надлежит",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور اپنے پروردگار کا فرمان بجا لائے گا اور اسے واجب بھی یہ ہی ہے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_084_003",
+      "reference": {
+        "surah_number": 84,
+        "surah_name": "Al-Inshiqaaq",
+        "surah_name_ar": "سُوْرَةُ الاِنْشِقَاقِ",
+        "surah_name_translation": "The Splitting Open",
+        "ayah_number": 3,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 3,
+      "translations": {
+        "ar": {
+          "text": "وَإِذَا ٱلۡأَرۡضُ مُدَّتۡ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "and when the earth is flattened out",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "当地展开，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "जब धरती फैला दी जाएगी",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Cuando la tierra sea aplanada",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "et que la terre sera nivelée",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "এবং যখন পৃথিবীকে সম্প্রসারিত করা হবে।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E, quando a terra for estendida",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "когда земля будет распростерта",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور جب زمین ہموار کر دی جائے گی",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_084_004",
+      "reference": {
+        "surah_number": 84,
+        "surah_name": "Al-Inshiqaaq",
+        "surah_name_ar": "سُوْرَةُ الاِنْشِقَاقِ",
+        "surah_name_translation": "The Splitting Open",
+        "ayah_number": 4,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 4,
+      "translations": {
+        "ar": {
+          "text": "وَأَلۡقَتۡ مَا فِيهَا وَتَخَلَّتۡ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "and ejects ˹all˺ its contents and becomes empty",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "并抛其所怀，而且变为空虚，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "और जो कुछ उसके भीतर है उसे बाहर डालकर खाली हो जाएगी",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "y expulse lo que hay en su seno y quede vacía",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "et qu'elle rejettera ce qui est en son sein (les morts) et se videra",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "এবং পৃথিবী তার গর্ভস্থিত সবকিছু বাইরে নিক্ষেপ করবে ও শুন্যগর্ভ হয়ে যাবে।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E lançar o que há nela, e se esvaziar",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "извергнет то, что в ней, и опустеет",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "جو کچھ اس میں ہے اسے نکال کر باہر ڈال دے گی اور (بالکل) خالی ہو جائے گی",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_084_005",
+      "reference": {
+        "surah_number": 84,
+        "surah_name": "Al-Inshiqaaq",
+        "surah_name_ar": "سُوْرَةُ الاِنْشِقَاقِ",
+        "surah_name_translation": "The Splitting Open",
+        "ayah_number": 5,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 3,
+      "translations": {
+        "ar": {
+          "text": "وَأَذِنَتۡ لِرَبِّهَا وَحُقَّتۡ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "obeying its Lord as it must, ˹surely you will all be judged˺",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "听从主命，而且宜於听从的时候；",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "और वह अपने रब की सुनेगी, और उसे यही चाहिए भी",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "en cumplimiento de la orden de su Señor, como es debido",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "et qu'elle obéira à son Seigneur - et fera ce qu'elle doit faire",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "এবং তার পালনকর্তার আদেশ পালন করবে এবং পৃথিবী এরই উপযুক্ত।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E obedecer a seu Senhor, e o fizer devidamente",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "и внемлет своему Господу, как ей надлежит",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور اپنے پروردگار کے ارشاد کی تعمیل کرے گی اور اس کو لازم بھی یہی ہے (تو قیامت قائم ہو جائے گی)",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_084_006",
+      "reference": {
+        "surah_number": 84,
+        "surah_name": "Al-Inshiqaaq",
+        "surah_name_ar": "سُوْرَةُ الاِنْشِقَاقِ",
+        "surah_name_translation": "The Splitting Open",
+        "ayah_number": 6,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 9,
+      "translations": {
+        "ar": {
+          "text": "يَٰٓأَيُّهَا ٱلۡإِنسَٰنُ إِنَّكَ كَادِحٌ إِلَىٰ رَبِّكَ كَدۡحࣰ ا فَمُلَٰقِيهِ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "O humanity! Indeed, you are labouring restlessly towards your Lord, and will ˹eventually˺ meet the consequences",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "人啊！你必定勉力工作，直到会见你的主，你将看到自己的劳绩。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "ऐ मनुष्य! तू मशक़्क़त करता हुआ अपने रब ही की ओर खिंचा चला जा रहा है और अन्ततः उससे मिलने वाला है",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "¡Oh, seres humanos! Han de comparecer ante su Señor y ver el resultado de sus obras",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "O homme! Toi qui t'efforces vers ton Seigneur sans relâche, tu Le rencontreras alors",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "হে মানুষ, তোমাকে তোমরা পালনকর্তা পর্যন্ত পৌছতে কষ্ট স্বীকার করতে হবে, অতঃপর তার সাক্ষাৎ ঘটবে।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Ó ser humano! Por certo, tu te estás empenhando, em tuas ações, esforçadamente, para deparar teu Senhor: tu depará-LO-ás",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "О человек! Ты стремишься к своему Господу и встретишься с Ним",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اے انسان! تو اپنے پروردگار کی طرف (پہنچنے میں) خوب کوشِش کرتا ہے سو اس سے جا ملے گا",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_084_007",
+      "reference": {
+        "surah_number": 84,
+        "surah_name": "Al-Inshiqaaq",
+        "surah_name_ar": "سُوْرَةُ الاِنْشِقَاقِ",
+        "surah_name_translation": "The Splitting Open",
+        "ayah_number": 7,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 5,
+      "translations": {
+        "ar": {
+          "text": "فَأَمَّا مَنۡ أُوتِيَ كِتَٰبَهُۥ بِيَمِينِهِۦ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "As for those who are given their record in their right hand",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "至於用右手接过功过簿者，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "फिर जिस किसी को उसका कर्म-पत्र उसके दाहिने हाथ में दिया गया",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Quien reciba el registro de sus obras en su mano derecha",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Celui qui recevra son livre en sa main droite",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "যাকে তার আমলনামা ডান হাতে দেয়া হবে",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Então, quanto àquele a quem for concedido seu livro, em sua destra",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Тот, кому его книга будет вручена в правую руку",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "تو جس کا نامہٴ (اعمال) اس کے داہنے ہاتھ میں دیا جائے گا",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_084_008",
+      "reference": {
+        "surah_number": 84,
+        "surah_name": "Al-Inshiqaaq",
+        "surah_name_ar": "سُوْرَةُ الاِنْشِقَاقِ",
+        "surah_name_translation": "The Splitting Open",
+        "ayah_number": 8,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 6,
+      "translations": {
+        "ar": {
+          "text": "فَسَوۡفَ يُحَاسَبُ حِسَابࣰ ا يَسِيرࣰ ا",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "they will have an easy reckoning",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "将受简易的稽核，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "तो उससे आसान, सरसरी हिसाब लिया जाएगा",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "tendrá un juicio fácil",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "sera soumis à un jugement facile",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "তার হিসাব-নিকাশ সহজে হয়ে যাবে",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Fá-lo-á dar conta, facilmente",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "получит легкий расчет",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اس سے حساب آسان لیا جائے گا",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_084_009",
+      "reference": {
+        "surah_number": 84,
+        "surah_name": "Al-Inshiqaaq",
+        "surah_name_ar": "سُوْرَةُ الاِنْشِقَاقِ",
+        "surah_name_translation": "The Splitting Open",
+        "ayah_number": 9,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 5,
+      "translations": {
+        "ar": {
+          "text": "وَيَنقَلِبُ إِلَىٰٓ أَهۡلِهِۦ مَسۡرُورࣰ ا",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "and will return to their people joyfully",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "而兴高采烈地返於他的家属；",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "और वह अपने लोगों की ओर ख़ुश-ख़ुश पलटेगा",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "y [una vez terminado] se reunirá jubiloso con su gente [en el Paraíso]",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "et retournera réjoui auprès de sa famille",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "এবং সে তার পরিবার-পরিজনের কাছে হৃষ্টচিত্তে ফিরে যাবে",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E tornará alegre a sua família",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "и вернется к своей семье радостным",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور وہ اپنے گھر والوں میں خوش خوش آئے گا",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_084_010",
+      "reference": {
+        "surah_number": 84,
+        "surah_name": "Al-Inshiqaaq",
+        "surah_name_ar": "سُوْرَةُ الاِنْشِقَاقِ",
+        "surah_name_translation": "The Splitting Open",
+        "ayah_number": 10,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 6,
+      "translations": {
+        "ar": {
+          "text": "وَأَمَّا مَنۡ أُوتِيَ كِتَٰبَهُۥ وَرَآءَ ظَهۡرِهِۦ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "And as for those who are given their record ˹in their left hand˺ from behind their backs",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "至於从背後接受功过簿者，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "और रह वह व्यक्ति जिसका कर्म-पत्र (उसके बाएँ हाथ में) उसकी पीठ के पीछे से दिया गया",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Mientras que quien reciba el registro de sus obras por detrás de su espalda",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Quant à celui qui recevra son livre derrière son dos",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "এবং যাকে তার আমলনামা পিঠের পশ্চাদ্দিক থেকে দেয়া, হবে,",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E, quanto àquele a quem for concedido seu livro por trás de suas costas",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "А тот, кому его книга будет вручена из-за спины",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور جس کا نامہٴ (اعمال) اس کی پیٹھ کے پیچھے سے دیا جائے گا",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_084_011",
+      "reference": {
+        "surah_number": 84,
+        "surah_name": "Al-Inshiqaaq",
+        "surah_name_ar": "سُوْرَةُ الاِنْشِقَاقِ",
+        "surah_name_translation": "The Splitting Open",
+        "ayah_number": 11,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 4,
+      "translations": {
+        "ar": {
+          "text": "فَسَوۡفَ يَدۡعُواْ ثُبُورࣰ ا",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "they will cry for ˹instant˺ destruction",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "将叫苦连天，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "तो वह विनाश (मृत्यु) को पुकारेगा",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "suplicará ser destruido definitivamente",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "il invoquera la destruction sur lui-même",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "সে মৃত্যুকে আহবান করবে,",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Suplicará um extinguir",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "станет призывать погибель",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "وہ موت کو پکارے گا",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_084_012",
+      "reference": {
+        "surah_number": 84,
+        "surah_name": "Al-Inshiqaaq",
+        "surah_name_ar": "سُوْرَةُ الاِنْشِقَاقِ",
+        "surah_name_translation": "The Splitting Open",
+        "ayah_number": 12,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 2,
+      "translations": {
+        "ar": {
+          "text": "وَيَصۡلَىٰ سَعِيرًا",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "and will burn in the blazing Fire",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "入於烈火之中，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "और दहकती आग में जा पड़ेगा",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Pero será arrastrado al castigo del Infierno",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "et il brûlera dans un feu ardent",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "এবং জাহান্নামে প্রবেশ করবে।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E queimar-se-á em Fogo ardente",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "и войдет в Пламень",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور وہ دوزخ میں داخل ہو گا",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_084_013",
+      "reference": {
+        "surah_number": 84,
+        "surah_name": "Al-Inshiqaaq",
+        "surah_name_ar": "سُوْرَةُ الاِنْشِقَاقِ",
+        "surah_name_translation": "The Splitting Open",
+        "ayah_number": 13,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 5,
+      "translations": {
+        "ar": {
+          "text": "إِنَّهُۥ كَانَ فِيٓ أَهۡلِهِۦ مَسۡرُورًا",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "For they used to be prideful among their people",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "从前他在家属间原是快乐的，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "वह अपने लोगों में मग्न था",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Él vivía alegre con su familia [despreocupado del más allá]",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Car il était tout joyeux parmi les siens",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "সে তার পরিবার-পরিজনের মধ্যে আনন্দিত ছিল।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Por certo, fora alegre, em sua família",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Он радовался, находясь в кругу своей семьи",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "یہ اپنے اہل (و عیال) میں مست رہتا تھا",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_084_014",
+      "reference": {
+        "surah_number": 84,
+        "surah_name": "Al-Inshiqaaq",
+        "surah_name_ar": "سُوْرَةُ الاِنْشِقَاقِ",
+        "surah_name_translation": "The Splitting Open",
+        "ayah_number": 14,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 5,
+      "translations": {
+        "ar": {
+          "text": "إِنَّهُۥ ظَنَّ أَن لَّن يَحُورَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "thinking they would never return ˹to Allah˺",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "他已猜想他绝不会归於主。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "उसने यह समझ रखा था कि उसे कभी पलटना नहीं है",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "pensando que jamás comparecería [ante Dios]",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "et il pensait que jamais il ne ressusciterait",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "সে মনে করত যে, সে কখনও ফিরে যাবে না।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Por certo, ele pensava que não voltaria a seu Senhor",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "и полагал, что не вернется обратно",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور خیال کرتا تھا کہ (خدا کی طرف) پھر کر نہ جائے گا",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_084_015",
+      "reference": {
+        "surah_number": 84,
+        "surah_name": "Al-Inshiqaaq",
+        "surah_name_ar": "سُوْرَةُ الاِنْشِقَاقِ",
+        "surah_name_translation": "The Splitting Open",
+        "ayah_number": 15,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 7,
+      "translations": {
+        "ar": {
+          "text": "بَلَىٰٓۚ إِنَّ رَبَّهُۥ كَانَ بِهِۦ بَصِيرࣰ ا",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Yes ˹they would˺! Surely their Lord has always been All-Seeing of them",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "不然，他的主，原是鉴察他的。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "क्यों नहीं, निश्चय ही उसका रब तो उसे देख रहा था",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Pero sí, su Señor estaba bien informado de lo que hacía",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Mais si! Certes, son Seigneur l'observait parfaitement",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "কেন যাবে না, তার পালনকর্তা তো তাকে দেখতেন।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Sim. Por certo, seu Senhor era, dele, Onividente",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Но нет! Господь его видел его",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "ہاں ہاں۔ اس کا پروردگار اس کو دیکھ رہا تھا",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_084_016",
+      "reference": {
+        "surah_number": 84,
+        "surah_name": "Al-Inshiqaaq",
+        "surah_name_ar": "سُوْرَةُ الاِنْشِقَاقِ",
+        "surah_name_translation": "The Splitting Open",
+        "ayah_number": 16,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 3,
+      "translations": {
+        "ar": {
+          "text": "فَلَآ أُقۡسِمُ بِٱلشَّفَقِ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "So, I do swear by the twilight",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "我以晚霞盟誓，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "अतः कुछ नहीं, मैं क़सम खाता हूँ सांध्य-लालिमा की",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Juro por el crepúsculo",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Non!... Je jure par le crépuscule",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "আমি শপথ করি সন্ধ্যাকালীন লাল আভার",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Então, juro pelo crepúsculo",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Но нет! Клянусь вечерней зарею",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "ہمیں شام کی سرخی کی قسم",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_084_017",
+      "reference": {
+        "surah_number": 84,
+        "surah_name": "Al-Inshiqaaq",
+        "surah_name_ar": "سُوْرَةُ الاِنْشِقَاقِ",
+        "surah_name_translation": "The Splitting Open",
+        "ayah_number": 17,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 3,
+      "translations": {
+        "ar": {
+          "text": "وَٱلَّيۡلِ وَمَا وَسَقَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "And by the night and whatever it envelops",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "以黑夜及其包罗万象的盟誓，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "और रात की और उसके समेट लेने की",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "por la noche y por las criaturas que habitan en ella",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "et par la nuit et ce qu'elle enveloppe",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "এবং রাত্রির, এবং তাতে যার সমাবেশ ঘটে",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E pela noite e pelos que ela congrega",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Клянусь ночью и тем, что она собирает",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور رات کی اور جن چیزوں کو وہ اکٹھا کر لیتی ہے ان کی",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_084_018",
+      "reference": {
+        "surah_number": 84,
+        "surah_name": "Al-Inshiqaaq",
+        "surah_name_ar": "سُوْرَةُ الاِنْشِقَاقِ",
+        "surah_name_translation": "The Splitting Open",
+        "ayah_number": 18,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 3,
+      "translations": {
+        "ar": {
+          "text": "وَٱلۡقَمَرِ إِذَا ٱتَّسَقَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "And by the moon when it waxes full",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "以圆满时的月亮盟誓，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "और चन्द्रमा की जबकि वह पूर्ण हो जाता है",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "y por la Luna cuando alcanza el plenilunio",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "et par la lune quand elle devient pleine lune",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "এবং চন্দ্রের, যখন তা পূর্ণরূপ লাভ করে,",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E pela lua quando cheia",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Клянусь луной в полнолуние",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور چاند کی جب کامل ہو جائے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_084_019",
+      "reference": {
+        "surah_number": 84,
+        "surah_name": "Al-Inshiqaaq",
+        "surah_name_ar": "سُوْرَةُ الاِنْشِقَاقِ",
+        "surah_name_translation": "The Splitting Open",
+        "ayah_number": 19,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 4,
+      "translations": {
+        "ar": {
+          "text": "لَتَرۡكَبُنَّ طَبَقًا عَن طَبَقࣲ‏",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "You will certainly pass from one state to another",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "你们必定遭遇重重的灾难。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "निश्चय ही तुम्हें मंजिल पर मंजिल चढ़ना है",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "que [los seres humanos] pasan de un estado a otro",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Vous passerez, certes, par des états successifs",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "নিশ্চয় তোমরা এক সিঁড়ি থেকে আরেক সিঁড়িতে আরোহণ করবে।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Em verdade, passareis de estado após estado",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Вы переходите из одного состояния в другое",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "کہ تم درجہ بدرجہ (رتبہٴ اعلیٰ پر) چڑھو گے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_084_020",
+      "reference": {
+        "surah_number": 84,
+        "surah_name": "Al-Inshiqaaq",
+        "surah_name_ar": "سُوْرَةُ الاِنْشِقَاقِ",
+        "surah_name_translation": "The Splitting Open",
+        "ayah_number": 20,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 4,
+      "translations": {
+        "ar": {
+          "text": "فَمَا لَهُمۡ لَا يُؤۡمِنُونَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "So what is the matter with them that they do not believe",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "他们怎能不信道呢？",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "फिर उन्हें क्या हो गया है कि ईमान नहीं लाते",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "¿Qué es lo que les impide creer",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Qu'ont-ils à ne pas croire",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "অতএব, তাদের কি হল যে, তারা ঈমান আনে না?",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Então, por que razão eles não crêem",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Почему же они не веруют",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "تو ان لوگوں کو کیا ہوا ہے کہ ایمان نہیں لاتے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_084_021",
+      "reference": {
+        "surah_number": 84,
+        "surah_name": "Al-Inshiqaaq",
+        "surah_name_ar": "سُوْرَةُ الاِنْشِقَاقِ",
+        "surah_name_translation": "The Splitting Open",
+        "ayah_number": 21,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 6,
+      "translations": {
+        "ar": {
+          "text": "وَإِذَا قُرِئَ عَلَيۡهِمُ ٱلۡقُرۡءَانُ لَا يَسۡجُدُونَۤ۩",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "and when the Quran is recited to them, they do not bow down ˹in submission˺",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "当别人对他们宣读《古兰经》的时候，他们怎么不叩头呢？※（此处叩头！）",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "और जब उन्हें कुरआन पढ़कर सुनाया जाता है तो सजदे में नहीं गिर पड़ते",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "¿Qué les impide prosternarse cuando se les recita el Corán",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "et à ne pas se prosterner quand le Coran leur est lu",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "যখন তাদের কাছে কোরআন পাঠ করা হয়, তখন সেজদা করে না।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E, quando lhes é lido o Alcorão, não se prosternam",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "и не падают ниц, когда им читают Коран",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور جب ان کے سامنے قرآن پڑھا جاتا ہے تو سجدہ نہیں کرتے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_084_022",
+      "reference": {
+        "surah_number": 84,
+        "surah_name": "Al-Inshiqaaq",
+        "surah_name_ar": "سُوْرَةُ الاِنْشِقَاقِ",
+        "surah_name_translation": "The Splitting Open",
+        "ayah_number": 22,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 4,
+      "translations": {
+        "ar": {
+          "text": "بَلِ ٱلَّذِينَ كَفَرُواْ يُكَذِّبُونَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "In fact, the disbelievers persist in denial",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "不然，不信道的人们，是否认真理的，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "नहीं, बल्कि इनकार करनेवाले तो झुठलाते है",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Los que rechazan la verdad se empeñan en desmentir [el Mensaje]",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Mais ceux qui ne croient pas, le traitent plutôt de mensonge",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "বরং কাফেররা এর প্রতি মিথ্যারোপ করে।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Mas, os que renegam a Fé desmentem o Dia do Juízo",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Но неверующие считают это ложью",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "بلکہ کافر جھٹلاتے ہیں",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_084_023",
+      "reference": {
+        "surah_number": 84,
+        "surah_name": "Al-Inshiqaaq",
+        "surah_name_ar": "سُوْرَةُ الاِنْشِقَاقِ",
+        "surah_name_translation": "The Splitting Open",
+        "ayah_number": 23,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 4,
+      "translations": {
+        "ar": {
+          "text": "وَٱللَّهُ أَعۡلَمُ بِمَا يُوعُونَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "But Allah knows best whatever they hide",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "真主全知道他们心中隐藏的东西，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "हालाँकि जो कुछ वे अपने अन्दर एकत्र कर रहे है, अल्लाह उसे भली-भाँति जानता है",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Pero Dios conoce bien lo que ocultan [sus corazones]",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Or, Allah sait bien ce qu'ils dissimulent",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "তারা যা সংরক্ষণ করে, আল্লাহ তা জানেন।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E Allah é bem Sabedor do que trazem no íntimo",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Аллаху же лучше знать, что они хранят (какие добрые и злые деяния они совершают)",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور خدا ان باتوں کو جو یہ اپنے دلوں میں چھپاتے ہیں خوب جانتا ہے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_084_024",
+      "reference": {
+        "surah_number": 84,
+        "surah_name": "Al-Inshiqaaq",
+        "surah_name_ar": "سُوْرَةُ الاِنْشِقَاقِ",
+        "surah_name_translation": "The Splitting Open",
+        "ayah_number": 24,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 3,
+      "translations": {
+        "ar": {
+          "text": "فَبَشِّرۡهُم بِعَذَابٍ أَلِيمٍ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "So give them good news of a painful punishment",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "故你当以一种痛苦的刑罚向他们报喜，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "अतः उन्हें दुखद यातना की मंगल सूचना दे दो",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Anúnciales un castigo doloroso",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Annonce-leur donc un châtiment douloureux",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "অতএব, তাদেরকে যন্ত্রণাদায়ক শাস্তির সুসংবাদ দিন।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Então, alvissara-lhes doloroso castigo",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Обрадуй же их мучительными страданиями",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "تو ان کو دکھ دینے والے عذاب کی خبر سنا دو",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_084_025",
+      "reference": {
+        "surah_number": 84,
+        "surah_name": "Al-Inshiqaaq",
+        "surah_name_ar": "سُوْرَةُ الاِنْشِقَاقِ",
+        "surah_name_translation": "The Splitting Open",
+        "ayah_number": 25,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 9,
+      "translations": {
+        "ar": {
+          "text": "إِلَّا ٱلَّذِينَ ءَامَنُواْ وَعَمِلُواْ ٱلصَّٰلِحَٰتِ لَهُمۡ أَجۡرٌ غَيۡرُ مَمۡنُونِۭ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "But those who believe and do good will have a never-ending reward",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "惟信道而且行善的人们，将受不断的报酬。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "अलबत्ता जो लोग ईमान लाए और उन्होंने अच्छे कर्म किए उनके लिए कभी न समाप्त॥ होनेवाला प्रतिदान है",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "salvo a quienes crean y obren rectamente, porque ellos recibirán una recompensa inagotable",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Sauf ceux qui croient et accomplissent les bonnes œuvres: à eux une récompense jamais interrompue",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "কিন্তু যারা বিশ্বাস স্থাপন করে ও সৎকর্ম করে, তাদের জন্য রয়েছে অফুরন্ত পুরস্কার।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Exceto aos que crêem e fazem as boas obras: eles terão prêmio incessante",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "кроме тех, которые уверовали и совершали праведные деяния. Им уготована награда неиссякаемая",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "ہاں جو لوگ ایمان لائے اور نیک عمل کرتے رہے ان کے لیے بےانتہا اجر ہے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    }
+  ]
+}

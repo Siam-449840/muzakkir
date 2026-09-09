@@ -1,0 +1,229 @@
+{
+  "surah": 106,
+  "verses": [
+    {
+      "content_id": "quran_106_001",
+      "reference": {
+        "surah_number": 106,
+        "surah_name": "Quraish",
+        "surah_name_ar": "سُوْرَةُ قُرَيْشٍ",
+        "surah_name_translation": "Quraysh",
+        "ayah_number": 1,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 2,
+      "translations": {
+        "ar": {
+          "text": "لِإِيلَٰفِ قُرَيۡشٍ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "˹At least˺ for ˹the favour of˺ making Quraysh habitually secure—",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "因为保护古来氏",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "कितना है क़ुरैश को लगाए और परचाए रखना",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Le proporcioné seguridad a [la tribu de] Quraish",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "A cause du pacte des Coraïch",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "কোরাইশের আসক্তির কারণে,",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Por causa do pacto dos Quraich",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Ради единения курейшитов",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "قریش کے مانوس کرنے کے سبب",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_106_002",
+      "reference": {
+        "surah_number": 106,
+        "surah_name": "Quraish",
+        "surah_name_ar": "سُوْرَةُ قُرَيْشٍ",
+        "surah_name_translation": "Quraysh",
+        "ayah_number": 2,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 4,
+      "translations": {
+        "ar": {
+          "text": "إِۦلَٰفِهِمۡ رِحۡلَةَ ٱلشِّتَآءِ وَٱلصَّيۡفِ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "secure in their trading caravan ˹to Yemen˺ in the winter and ˹Syria˺ in the summer—",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "因为在冬季和夏季的旅行中保护他们",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "लगाए और परचाए रखना उन्हें जाड़े और गर्मी की यात्रा से",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "e hice que sus caravanas en invierno [al Yemen] y en verano [a Siria] fueran respetadas",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "De leur pacte [concernant] les voyages d'hiver et d'été",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "আসক্তির কারণে তাদের শীত ও গ্রীষ্মকালীন সফরের।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "De seu pacto da viagem de inverno e de verão",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "единения их во время зимних и летних поездок",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "(یعنی) ان کو جاڑے اور گرمی کے سفر سے مانوس کرنے کے سبب",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_106_003",
+      "reference": {
+        "surah_number": 106,
+        "surah_name": "Quraish",
+        "surah_name_ar": "سُوْرَةُ قُرَيْشٍ",
+        "surah_name_translation": "Quraysh",
+        "ayah_number": 3,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 4,
+      "translations": {
+        "ar": {
+          "text": "فَلۡيَعۡبُدُواْ رَبَّ هَٰذَا ٱلۡبَيۡتِ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "let them worship the Lord of this ˹Sacred˺ House",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "故教他们崇敬这天房的主",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "अतः उन्हें चाहिए कि इस घर (काबा) के रब की बन्दगी करे",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Que adoren y agradezcan, en consecuencia, al Señor de esta Casa [la Ka‘bah]",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Qu'ils adorent donc le Seigneur de cette Maison [la Ka'ba]",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "অতএব তারা যেন এবাদত করে এই ঘরের পালনকর্তার",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Que eles adorem, então, o Senhor desta Casa",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Пусть же они поклоняются Господу этого Дома (Каабы)",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "لوگوں کو چاہیئے کہ (اس نعمت کے شکر میں) اس گھر کے مالک کی عبادت کریں",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_106_004",
+      "reference": {
+        "surah_number": 106,
+        "surah_name": "Quraish",
+        "surah_name_ar": "سُوْرَةُ قُرَيْشٍ",
+        "surah_name_translation": "Quraysh",
+        "ayah_number": 4,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 7,
+      "translations": {
+        "ar": {
+          "text": "ٱلَّذِيٓ أَطۡعَمَهُم مِّن جُوعࣲ وَءَامَنَهُم مِّنۡ خَوۡفِۭ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Who has fed them against hunger and made them secure against fear",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "他曾为饥荒而赈济他们, 曾为恐怖而保佑他们。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "जिसने उन्हें खिलाकर भूख से बचाया और निश्चिन्तता प्रदान करके भय से बचाया",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Quien les concedió el sustento para que no sufrieran hambre y les dio seguridad para protegerlos del peligro",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "qui les a nourris contre la faim et rassurés de la crainte",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "যিনি তাদেরকে ক্ষুধায় আহার দিয়েছেন এবং যুদ্ধভীতি থেকে তাদেরকে নিরাপদ করেছেন।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Que os alimentou contra a fome e os pôs em segurança contra o medo",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Который накормил их после голода и избавил их от страха",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "جس نے ان کو بھوک میں کھانا کھلایا اور خوف سے امن بخشا",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    }
+  ]
+}

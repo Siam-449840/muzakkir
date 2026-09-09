@@ -1,0 +1,1573 @@
+{
+  "surah": 71,
+  "verses": [
+    {
+      "content_id": "quran_071_001",
+      "reference": {
+        "surah_number": 71,
+        "surah_name": "Nooh",
+        "surah_name_ar": "سُوْرَةُ نُوْحٍ",
+        "surah_name_translation": "Noah",
+        "ayah_number": 1,
+        "juz": 29,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 14,
+      "translations": {
+        "ar": {
+          "text": "إِنَّآ أَرۡسَلۡنَا نُوحًا إِلَىٰ قَوۡمِهِۦٓ أَنۡ أَنذِرۡ قَوۡمَكَ مِن قَبۡلِ أَن يَأۡتِيَهُمۡ عَذَابٌ أَلِيمࣱ‏",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Indeed, We sent Noah to his people ˹saying to him˺, “Warn your people before a painful punishment comes to them.”",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "我确已派谴努哈去教化他的宗族，我说：在痛苦的刑罚降临你的宗族之前，你当警告他们。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "हमने नूह को उसकी कौ़म की ओर भेजा कि \"अपनी क़ौम के लोगों को सावधान कर दो, इससे पहले कि उनपर कोई दुखद यातना आ जाए।",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Envié a Noé a su pueblo [diciéndole]: \"Advierte a tu pueblo antes de que le llegue un castigo doloroso",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Nous avons envoyé Noé vers son peuple: «Avertis ton peuple, avant que leur vienne un châtiment douloureux»",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "আমি নূহকে প্রেরণ করেছিলাম তাঁর সম্প্রদায়ের প্রতি একথা বলেঃ তুমি তোমার সম্প্রদায়কে সতর্ক কর, তাদের প্রতি মর্মন্তদ শাস্তি আসার আগে।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Por certo, enviamos Noé a seu povo: \"Admoesta teu povo, antes que lhe chegue doloroso castigo",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Мы отправили Нуха (Ноя) к его народу: «Предостереги свой народ прежде, чем их постигнут мучительные страдания»",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "ہم نے نوحؑ کو ان کی قوم کی طرف بھیجا کہ پیشتر اس کے کہ ان پر درد دینے والا عذاب واقع ہو اپنی قوم کو ہدایت کردو",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_071_002",
+      "reference": {
+        "surah_number": 71,
+        "surah_name": "Nooh",
+        "surah_name_ar": "سُوْرَةُ نُوْحٍ",
+        "surah_name_translation": "Noah",
+        "ayah_number": 2,
+        "juz": 29,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 6,
+      "translations": {
+        "ar": {
+          "text": "قَالَ يَٰقَوۡمِ إِنِّي لَكُمۡ نَذِيرࣱ مُّبِينٌ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Noah proclaimed, “O my people! I am truly sent to you with a clear warning",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "他说：我的宗族啊！我确是你们的坦率的警告者，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "उसने कहा, \"ऐ मेरी क़ौम के लोगो! मैं तुम्हारे लिए एक स्पष्ट सचेतकर्ता हूँ",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Dijo [Noé]: \"¡Pueblo mío! Soy un amonestador que Dios les ha enviado para que les hable con claridad",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Il [leur] dit: «O mon peuple, je suis vraiment pour vous, un avertisseur clair",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "সে বলল, হে আমার সম্প্রদায়! আমি তোমাদের জন্যে স্পষ্ট সতর্ককারী।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Ele disse: \"Ó meu povo! Por certo, sou-vos evidente admoestador",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Он сказал: «О мой народ! Воистину, я для вас - предостерегающий и разъясняющий увещеватель",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "انہوں نے کہا کہ اے قوم! میں تم کو کھلے طور پر نصیحت کرتا ہوں",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_071_003",
+      "reference": {
+        "surah_number": 71,
+        "surah_name": "Nooh",
+        "surah_name_ar": "سُوْرَةُ نُوْحٍ",
+        "surah_name_translation": "Noah",
+        "ayah_number": 3,
+        "juz": 29,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 5,
+      "translations": {
+        "ar": {
+          "text": "أَنِ ٱعۡبُدُواْ ٱللَّهَ وَٱتَّقُوهُ وَأَطِيعُونِ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "worship Allah ˹alone˺, fear Him, and obey me",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "你们应当崇拜真主，应当敬畏他，应当服从我，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "कि अल्लाह की बन्दगी करो और उसका डर रखो और मेरी आज्ञा मानो।",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "así que adoren y tengan temor de Dios, y obedezcan lo que les indique",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Adorez Allah, craignez-Le et obéissez-moi",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "এ বিষয়ে যে, তোমরা আল্লাহ তা’আলার এবাদত কর, তাঁকে ভয় কর এবং আমার আনুগত্য কর।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Adorai a Allah, e temei-O, e obedecei a mim",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Поклоняйтесь Аллаху, бойтесь Его и повинуйтесь мне",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "کہ خدا کی عبات کرو اور اس سے ڈرو اور میرا کہا مانو",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_071_004",
+      "reference": {
+        "surah_number": 71,
+        "surah_name": "Nooh",
+        "surah_name_ar": "سُوْرَةُ نُوْحٍ",
+        "surah_name_translation": "Noah",
+        "ayah_number": 4,
+        "juz": 29,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 18,
+      "translations": {
+        "ar": {
+          "text": "يَغۡفِرۡ لَكُم مِّن ذُنُوبِكُمۡ وَيُؤَخِّرۡكُمۡ إِلَىٰٓ أَجَلࣲ مُّسَمًّىۚ إِنَّ أَجَلَ ٱللَّهِ إِذَا جَآءَ لَا يُؤَخَّرُۚ لَوۡ كُنتُمۡ تَعۡلَمُونَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "He will forgive your sins, and delay your end until the appointed time. Indeed, when the time set by Allah comes, it cannot be delayed, if only you knew!”",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "他就赦宥你们的罪过，并且让你们延迟到一个定期。真主的定期一旦来临的时候，是绝不延迟的，假若你们知道。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "वह तुम्हें क्षमा करके तुम्हारे गुनाहों से तुम्हें पाक कर देगा और एक निश्चित समय तक तुम्हे मुहल्लत देगा। निश्चय ही जब अल्लाह का निश्चित समय आ जाता है तो वह टलता नहीं, काश कि तुम जानते",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "porque si lo hacen Dios perdonará sus pecados y les concederá vivir hasta el plazo prefijado. Pero sepan que cuando el plazo fijado por Dios los alcance, no podrá ser retrasado. ¡Si tan solo supieran",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "pour qu'Il vous pardonne vos péchés et qu'Il vous donne un délai jusqu'à un terme fixé. Mais quand vient le terme fixé par Allah, il ne saurait être différé si vous saviez!»",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "আল্লাহ তা’আলা তোমাদের পাপসমূহ ক্ষমা করবেন এবং নির্দিষ্ট সময় পর্যন্ত অবকাশ দিবেন। নিশ্চয় আল্লাহ তা’আলার নির্দিষ্টকাল যখন হবে, তখন অবকাশ দেয়া হবে না, যদি তোমরা তা জানতে!",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Ele vos perdoará parte de vossos delitos e vos concederá prazo, até um termo designado. Por certo, o termo de Allah, quando chegar, não será adiado. Se soubésseis",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Он простит вам ваши грехи и предоставит вам отсрочку до назначенного срока. Воистину, когда срок Аллаха наступает, он уже не откладывается. Если бы вы только знали!»",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "وہ تمہارے گناہ بخش دے گا اور (موت کے) وقت مقررہ تک تم کو مہلت عطا کرے گا۔ جب خدا کا مقرر کیا ہوگا وقت آجاتا ہے تو تاخیر نہیں ہوتی۔ کاش تم جانتے ہوتے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_071_005",
+      "reference": {
+        "surah_number": 71,
+        "surah_name": "Nooh",
+        "surah_name_ar": "سُوْرَةُ نُوْحٍ",
+        "surah_name_translation": "Noah",
+        "ayah_number": 5,
+        "juz": 29,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 9,
+      "translations": {
+        "ar": {
+          "text": "قَالَ رَبِّ إِنِّي دَعَوۡتُ قَوۡمِي لَيۡلࣰ ا وَنَهَارࣰ ا",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "He cried, “My Lord! I have surely called my people day and night",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "他说：我的主啊！我确已日夜召唤我的宗族，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "उसने कहा, \"ऐ मेरे रब! मैंने अपनी क़ौम के लोगों को रात और दिन बुलाया",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Dijo Noé: \"¡Señor mío! He exhortado a mi pueblo noche y día",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Il dit: «Seigneur! J'ai appelé mon peuple, nuit et jour",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "সে বললঃ হে আমার পালনকর্তা! আমি আমার সম্প্রদায়কে দিবারাত্রি দাওয়াত দিয়েছি;",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Ele disse: \"Senhor meu! Por certo, convoquei meu povo, durante a noite e durante o dia",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Он сказал: «Господи! Я призывал мой народ ночью и днем",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "جب لوگوں نے نہ مانا تو (نوحؑ نے) خدا سے عرض کی کہ پروردگار میں اپنی قوم کو رات دن بلاتا رہا",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_071_006",
+      "reference": {
+        "surah_number": 71,
+        "surah_name": "Nooh",
+        "surah_name_ar": "سُوْرَةُ نُوْحٍ",
+        "surah_name_translation": "Noah",
+        "ayah_number": 6,
+        "juz": 29,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 6,
+      "translations": {
+        "ar": {
+          "text": "فَلَمۡ يَزِدۡهُمۡ دُعَآءِيٓ إِلَّا فِرَارࣰ ا",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "but my calls only made them run farther away",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "但我的召唤使他们愈加逃避。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "किन्तु मेरी पुकार ने उनके पलायन को ही बढ़ाया",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "pero mi exhortación solo ha servido para que se aparten aún más [de Ti]",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Mais mon appel n'a fait qu'accroître leur fuite",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "কিন্তু আমার দাওয়াত তাদের পলায়নকেই বৃদ্ধি করেছে।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E minha convocação não lhes acrescentou senão fuga",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "но мои проповеди лишь ускорили их бегство",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "لیکن میرے بلانے سے وہ اور زیادہ گزیر کرتے رہے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_071_007",
+      "reference": {
+        "surah_number": 71,
+        "surah_name": "Nooh",
+        "surah_name_ar": "سُوْرَةُ نُوْحٍ",
+        "surah_name_translation": "Noah",
+        "ayah_number": 7,
+        "juz": 29,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 15,
+      "translations": {
+        "ar": {
+          "text": "وَإِنِّي كُلَّمَا دَعَوۡتُهُمۡ لِتَغۡفِرَ لَهُمۡ جَعَلُوٓاْ أَصَٰبِعَهُمۡ فِيٓ ءَاذَانِهِمۡ وَٱسۡتَغۡشَوۡاْ ثِيَابَهُمۡ وَأَصَرُّواْ وَٱسۡتَكۡبَرُواْ ٱسۡتِكۡبَارࣰ ا",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "And whenever I invite them to be forgiven by You, they press their fingers into their ears, cover themselves with their clothes, persist ˹in denial˺, and act very arrogantly",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "我每次召唤他们来受你的赦宥的时候，他们总是以指头塞住他们的耳朵，以衣服蒙住他们的头，他们固执而自大。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "और जब भी मैंने उन्हें बुलाया, ताकि तू उन्हें क्षमा कर दे, तो उन्होंने अपने कानों में अपनी उँगलियाँ दे लीं और अपने कपड़ो से स्वयं को ढाँक लिया और अपनी हठ पर अड़ गए और बड़ा ही घमंड किया",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Cada vez que les invité a la guía recta para que Tú los perdonaras, se pusieron los dedos en los oídos, se cubrieron [los ojos] con la ropa, se obstinaron y actuaron con soberbia",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Et chaque fois que je les ai appelés pour que Tu leur pardonnes, ils ont mis leurs doigts dans leurs oreilles. se sont enveloppés de leurs vêtements, se sont entêtés et se sont montrés extrêmement orgueilleux",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "আমি যতবারই তাদেরকে দাওয়াত দিয়েছি, যাতে আপনি তাদেরকে ক্ষমা করেন, ততবারই তারা কানে অঙ্গুলি দিয়েছে, মুখমন্ডল বস্ত্রাবৃত করেছে, জেদ করেছে এবং খুব ঔদ্ধত্য প্রদর্শন করেছে।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E, por certo, cada vez que os convocava, para que Tu os perdoasses, tapavam com os dedos os ouvidos, e encobriam-se em seus trajes e obstinavam-se no erro, e ensoberbeciam-se duma maneira exagerada",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Каждый раз, когда я призывал их, чтобы Ты простил их, они затыкали пальцами уши и укрывались одеждами. Они упорствовали и надменно превозносились",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "جب جب میں نے ان کو بلایا کہ (توبہ کریں اور) تو ان کو معاف فرمائے تو انہوں نے اپنے کانوں میں انگلیاں دے لیں اور کپڑے اوڑھ لئے اور اڑ گئے اور اکڑ بیٹھے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_071_008",
+      "reference": {
+        "surah_number": 71,
+        "surah_name": "Nooh",
+        "surah_name_ar": "سُوْرَةُ نُوْحٍ",
+        "surah_name_translation": "Noah",
+        "ayah_number": 8,
+        "juz": 29,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 5,
+      "translations": {
+        "ar": {
+          "text": "ثُمَّ إِنِّي دَعَوۡتُهُمۡ جِهَارࣰ ا",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Then I certainly called them openly",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "然后我大声召唤他们，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "फिर मैंने उन्हें खुल्लमखुल्ला बुलाया",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Además, los llamé abiertamente",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Ensuite, je les ai appelés ouvertement",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "অতঃপর আমি তাদেরকে প্রকাশ্যে দাওয়াত দিয়েছি,",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Em seguida, convoquei-os, declaradamente",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Затем я призывал их открыто",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "پھر میں ان کو کھلے طور پر بھی بلاتا رہا",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_071_009",
+      "reference": {
+        "surah_number": 71,
+        "surah_name": "Nooh",
+        "surah_name_ar": "سُوْرَةُ نُوْحٍ",
+        "surah_name_translation": "Noah",
+        "ayah_number": 9,
+        "juz": 29,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 8,
+      "translations": {
+        "ar": {
+          "text": "ثُمَّ إِنِّيٓ أَعۡلَنتُ لَهُمۡ وَأَسۡرَرۡتُ لَهُمۡ إِسۡرَارࣰ ا",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "then I surely preached to them publicly and privately",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "然后我公开地训导他们，秘密地劝谏他们，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "फिर मैंने उनसे खुले तौर पर भी बातें की और उनसे चुपके-चुपके भी बातें की",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "y les hablé en público y en privado",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Puis, je leur ai fait des proclamations publiques, et des confidences en secret",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "অতঃপর আমি ঘোষণা সহকারে প্রচার করেছি এবং গোপনে চুপিসারে বলেছি।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Em seguida, manifestei-lhes minha pregação e segredei-lhas discretamente",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Затем я обращался к ним всенародно и говорил с ними наедине",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور ظاہر اور پوشیدہ ہر طرح سمجھاتا رہا",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_071_010",
+      "reference": {
+        "surah_number": 71,
+        "surah_name": "Nooh",
+        "surah_name_ar": "سُوْرَةُ نُوْحٍ",
+        "surah_name_translation": "Noah",
+        "ayah_number": 10,
+        "juz": 29,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 7,
+      "translations": {
+        "ar": {
+          "text": "فَقُلۡتُ ٱسۡتَغۡفِرُواْ رَبَّكُمۡ إِنَّهُۥ كَانَ غَفَّارࣰ ا",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "saying, ‘Seek your Lord’s forgiveness, ˹for˺ He is truly Most Forgiving",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "我说，你们应当向你们的主求饶--他确是至赦的",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "और मैंने कहा, अपने रब से क्षमा की प्रार्थना करो। निश्चय ही वह बड़ा क्षमाशील है",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Y les dije: ‘Pidan perdón a su Señor, porque Él es Indulgente",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "J'ai donc dit: «Implorez le pardon de votre Seigneur, car Il est grand Pardonneur",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "অতঃপর বলেছিঃ তোমরা তোমাদের পালনকর্তার ক্ষমা প্রার্থনা কর। তিনি অত্যন্ত ক্ষমাশীল।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E disse: 'Implorai perdão a vosso Senhor - por certo, Ele é Perdoador",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Я говорил: «Просите у вашего Господа прощения, ведь Он - Всепрощающий",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور کہا کہ اپنے پروردگار سے معافی مانگو کہ وہ بڑا معاف کرنے والا ہے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_071_011",
+      "reference": {
+        "surah_number": 71,
+        "surah_name": "Nooh",
+        "surah_name_ar": "سُوْرَةُ نُوْحٍ",
+        "surah_name_translation": "Noah",
+        "ayah_number": 11,
+        "juz": 29,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 5,
+      "translations": {
+        "ar": {
+          "text": "يُرۡسِلِ ٱلسَّمَآءَ عَلَيۡكُم مِّدۡرَارࣰ ا",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "He will shower you with abundant rain",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "他就使丰足的雨水降临你们，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "वह बादल भेजेगा तुमपर ख़ूब बरसनेवाला",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "así les enviará del cielo bendiciones en abundancia",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "pour qu'Il vous envoie du ciel, des pluies abondantes",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "তিনি তোমাদের উপর অজস্র বৃষ্টিধারা ছেড়ে দিবেন,",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Ele enviará do céu, sobre vós, chuva em abundância",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Он ниспошлет вам с неба обильные дожди",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "وہ تم پر آسمان سے لگاتار مینہ برسائے گا",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_071_012",
+      "reference": {
+        "surah_number": 71,
+        "surah_name": "Nooh",
+        "surah_name_ar": "سُوْرَةُ نُوْحٍ",
+        "surah_name_translation": "Noah",
+        "ayah_number": 12,
+        "juz": 29,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 10,
+      "translations": {
+        "ar": {
+          "text": "وَيُمۡدِدۡكُم بِأَمۡوَٰلࣲ وَبَنِينَ وَيَجۡعَل لَّكُمۡ جَنَّٰتࣲ وَيَجۡعَل لَّكُمۡ أَنۡهَٰرࣰ ا",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "supply you with wealth and children, and give you gardens as well as rivers",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "并且以财产和子嗣援助你们，为你们创造园圃和河流。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "और वह माल और बेटों से तुम्हें बढ़ोतरी प्रदान करेगा, और तुम्हारे लिए बाग़ पैदा करेगा और तुम्हारे लिए नहरें प्रवाहित करेगा",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "y les concederá numerosas propiedades y muchos hijos, como también les concederá jardines y ríos",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "et qu'Il vous accorde beaucoup de biens et d'enfants, et vous donne des jardins et vous donne des rivières",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "তোমাদের ধন-সম্পদ ও সন্তান-সন্ততি বাড়িয়ে দিবেন, তোমাদের জন্যে উদ্যান স্থাপন করবেন এবং তোমাদের জন্যে নদীনালা প্রবাহিত করবেন।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E vos estenderá riquezas e filhos, e vos fará jardins, e vos fará rios",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "поддержит вас имуществом и детьми, взрастит для вас сады и создаст для вас реки",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور مال اور بیٹوں سے تمہاری مدد فرمائے گا اور تمہیں باغ عطا کرے گا اور ان میں تمہارے لئے نہریں بہا دے گا",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_071_013",
+      "reference": {
+        "surah_number": 71,
+        "surah_name": "Nooh",
+        "surah_name_ar": "سُوْرَةُ نُوْحٍ",
+        "surah_name_translation": "Noah",
+        "ayah_number": 13,
+        "juz": 29,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 7,
+      "translations": {
+        "ar": {
+          "text": "مَّا لَكُمۡ لَا تَرۡجُونَ لِلَّهِ وَقَارࣰ ا",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "What is the matter with you that you are not in awe of the Majesty of Allah",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "你们怎么不希望真主的尊重呢？",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "तुम्हें क्या हो गया है कि तुम (अपने दिलों में) अल्लाह के लिए किसी गौरव की आशा नहीं रखते",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "¿Qué les sucede que no temen la grandeza de Dios",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Qu'avez-vous à ne pas vénérer Allah comme il se doit",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "তোমাদের কি হল যে, তোমরা আল্লাহ তা’আলার শ্রেষ্টত্ব আশা করছ না।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Por que razão não dedicais magnanimidade a Allah",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Почему вы не чтите величия Аллаха",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "تم کو کیا ہوا ہے کہ تم خدا کی عظمت کا اعتقاد نہیں رکھتے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_071_014",
+      "reference": {
+        "surah_number": 71,
+        "surah_name": "Nooh",
+        "surah_name_ar": "سُوْرَةُ نُوْحٍ",
+        "surah_name_translation": "Noah",
+        "ayah_number": 14,
+        "juz": 29,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 3,
+      "translations": {
+        "ar": {
+          "text": "وَقَدۡ خَلَقَكُمۡ أَطۡوَارًا",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "when He truly created you in stages ˹of development˺",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "他确已经过几个阶段创造了你们。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "हालाँकि उसने तुम्हें विभिन्न अवस्थाओं से गुज़ारते हुए पैदा किया",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Siendo que Él los creó en etapas sucesivas",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "alors qu'Il vous a créés par phases successives",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "অথচ তিনি তোমাদেরকে বিভিন্ন রকমে সৃষ্টি করেছেন।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Enquanto, com efeito, Ele vos criou por estágios",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Он ведь создавал вас по этапам",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "حالانکہ اس نے تم کو طرح طرح (کی حالتوں) کا پیدا کیا ہے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_071_015",
+      "reference": {
+        "surah_number": 71,
+        "surah_name": "Nooh",
+        "surah_name_ar": "سُوْرَةُ نُوْحٍ",
+        "surah_name_translation": "Noah",
+        "ayah_number": 15,
+        "juz": 29,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 9,
+      "translations": {
+        "ar": {
+          "text": "أَلَمۡ تَرَوۡاْ كَيۡفَ خَلَقَ ٱللَّهُ سَبۡعَ سَمَٰوَٰتࣲ طِبَاقࣰ ا",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Do you not see how Allah created seven heavens, one above the other",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "难道你们没有看到真主怎样创造7层天，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "क्या तुमने देखा नहीं कि अल्लाह ने किस प्रकार ऊपर तले सात आकाश बनाए",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "¿Acaso no han visto cómo Dios ha creado siete cielos superpuestos",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "N'avez-vous pas vu comment Allah a créé sept cieux superposés",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "তোমরা কি লক্ষ্য কর না যে, আল্লাহ কিভাবে সপ্ত আকাশ স্তরে স্তরে সৃষ্টি করেছেন।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Não vistes como Allah criou sete céus superpostos",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Неужели вы не видели, как Аллах создал семь небес одно над другим",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "کیا تم نے نہیں دیکھا کہ خدا نے سات آسمان کیسے اوپر تلے بنائے ہیں",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_071_016",
+      "reference": {
+        "surah_number": 71,
+        "surah_name": "Nooh",
+        "surah_name_ar": "سُوْرَةُ نُوْحٍ",
+        "surah_name_translation": "Noah",
+        "ayah_number": 16,
+        "juz": 29,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 9,
+      "translations": {
+        "ar": {
+          "text": "وَجَعَلَ ٱلۡقَمَرَ فِيهِنَّ نُورࣰ ا وَجَعَلَ ٱلشَّمۡسَ سِرَاجࣰ ا",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "placing the moon within them as a ˹reflected˺ light, and the sun as a ˹radiant˺ lamp",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "并以月亮为光明，以太阳为明灯吗？",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "और उनमें चन्द्रमा को प्रकाश और सूर्य का प्रदीप बनाया",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Puso en ellos la Luna para que refleje la luz y el Sol [para que la irradie] como lámpara",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "et y a fait de la lune une lumière et du soleil une lampe",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "এবং সেখানে চন্দ্রকে রেখেছেন আলোরূপে এবং সূর্যকে রেখেছেন প্রদীপরূপে।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E, neles, fez a lua como luz e fez o sol como luzeiro",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "сделал луну светлой, а солнце сделал светильником",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور چاند کو ان میں (زمین کا) نور بنایا ہے اور سورج کو چراغ ٹھہرایا ہے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_071_017",
+      "reference": {
+        "surah_number": 71,
+        "surah_name": "Nooh",
+        "surah_name_ar": "سُوْرَةُ نُوْحٍ",
+        "surah_name_translation": "Noah",
+        "ayah_number": 17,
+        "juz": 29,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 6,
+      "translations": {
+        "ar": {
+          "text": "وَٱللَّهُ أَنۢبَتَكُم مِّنَ ٱلۡأَرۡضِ نَبَاتࣰ ا",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Allah ˹alone˺ caused you to grow from the earth like a plant",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "真主使你们从大地生长出来，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "और अल्लाह ने तुम्हें धरती से विशिष्ट प्रकार से विकसित किया",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Dios los ha creado de la misma tierra que a las plantas, y como a las plantas los ha hecho brotar de ella",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Et c'est Allah qui, de la terre, vous a fait croître comme des plantes",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "আল্লাহ তা’আলা তোমাদেরকে মৃত্তিকা থেকে উদগত করেছেন।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E Allah fez-vos germinar da terra, como as plantas",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Аллах вырастил вас из земли, словно растения",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور خدا ہی نے تم کو زمین سے پیدا کیا ہے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_071_018",
+      "reference": {
+        "surah_number": 71,
+        "surah_name": "Nooh",
+        "surah_name_ar": "سُوْرَةُ نُوْحٍ",
+        "surah_name_translation": "Noah",
+        "ayah_number": 18,
+        "juz": 29,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 6,
+      "translations": {
+        "ar": {
+          "text": "ثُمَّ يُعِيدُكُمۡ فِيهَا وَيُخۡرِجُكُمۡ إِخۡرَاجࣰ ا",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Then He will return you to it, and then simply bring you forth ˹again˺",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "然后使你们再返於大地，然后，又把你们从大地取出来。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "फिर वह तुम्हें उसमें लौटाता है और तुम्हें बाहर निकालेगा भी",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Después los hará volver a ella [al morir], y de ella nuevamente los hará resurgir [el Día del Juicio Final]",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "puis Il vous y fera retourner et vous en fera sortir véritablement",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "অতঃপর তাতে ফিরিয়ে নিবেন এবং আবার পুনরুত্থিত করবেন।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Em seguida, far-vos-á voltar a ela, e dela far-vos-á sair, de verdade",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Потом Он вернет вас туда и вновь выведет оттуда",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "پھر اسی میں تمہیں لوٹا دے گا اور (اسی سے) تم کو نکال کھڑا کرے گا",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_071_019",
+      "reference": {
+        "surah_number": 71,
+        "surah_name": "Nooh",
+        "surah_name_ar": "سُوْرَةُ نُوْحٍ",
+        "surah_name_translation": "Noah",
+        "ayah_number": 19,
+        "juz": 29,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 6,
+      "translations": {
+        "ar": {
+          "text": "وَٱللَّهُ جَعَلَ لَكُمُ ٱلۡأَرۡضَ بِسَاطࣰ ا",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "And Allah ˹alone˺ spread out the earth for you",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "真主为你们而平展大地，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "और अल्लाह ने तुम्हारे लिए धरती को बिछौना बनाया",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Dios les ha extendido la Tierra",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Et c'est Allah qui vous a fait de la terre un tapis",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "আল্লাহ তা’আলা তোমাদের জন্যে ভূমিকে করেছেন বিছানা।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E Allah fez-vos a terra estendida como tapete",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Аллах сделал для вас землю ковром",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور خدا ہی نے زمین کو تمہارے لئے فرش بنایا",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_071_020",
+      "reference": {
+        "surah_number": 71,
+        "surah_name": "Nooh",
+        "surah_name_ar": "سُوْرَةُ نُوْحٍ",
+        "surah_name_translation": "Noah",
+        "ayah_number": 20,
+        "juz": 29,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 6,
+      "translations": {
+        "ar": {
+          "text": "لِّتَسۡلُكُواْ مِنۡهَا سُبُلࣰ ا فِجَاجࣰ ا",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "to walk along its spacious pathways.’”",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "以便你们在大地上走著宽阔的道路。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "ताकि तुम उसके विस्तृत मार्गों पर चलो।",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "para que la recorran por sus extensos caminos’",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "pour que vous vous acheminiez par ses voies spacieuses»",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "যাতে তোমরা চলাফেরা কর প্রশস্ত পথে।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Para que por ela possais ir, por caminhos, em amplos desfiladeiros",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "чтобы вы ходили по ней широкими дорогами»»",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "تاکہ اس کے بڑے بڑے کشادہ رستوں میں چلو پھرو",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_071_021",
+      "reference": {
+        "surah_number": 71,
+        "surah_name": "Nooh",
+        "surah_name_ar": "سُوْرَةُ نُوْحٍ",
+        "surah_name_translation": "Noah",
+        "ayah_number": 21,
+        "juz": 29,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 14,
+      "translations": {
+        "ar": {
+          "text": "قَالَ نُوحࣱ رَّبِّ إِنَّهُمۡ عَصَوۡنِي وَٱتَّبَعُواْ مَن لَّمۡ يَزِدۡهُ مَالُهُۥ وَوَلَدُهُۥٓ إِلَّا خَسَارࣰ ا",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "˹Eventually,˺ Noah cried, “My Lord! They have certainly persisted in disobeying me, and followed ˹instead˺ those ˹elite˺ whose ˹abundant˺ wealth and children only increase them in loss",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "努哈说：我的主啊！他们确已违抗我，他们顺从那因财产和子嗣而更加亏折的人们，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "नूह ने कहा, \"ऐ मेरे रब! उन्होंने मेरी अवज्ञा की, और उसका अनुसरण किया जिसके धन और जिसकी सन्तान ने उसके घाटे ही मे अभिवृद्धि की",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Dijo Noé: \"¡Señor mío! Ellos me han desobedecido y han seguido a aquellos a los que tener bienes materiales e hijos [los ha vuelto soberbios y] se han desviado aún más",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Noé dit: «Seigneur, ils m'ont désobéi et ils ont suivi celui dont les biens et les enfants n'ont fait qu'accroître la perte",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "নূহ বললঃ হে আমার পালনকর্তা, আমার সম্প্রদায় আমাকে অমান্য করেছে আর অনুসরণ করছে এমন লোককে, যার ধন-সম্পদ ও সন্তান-সন্ততি কেবল তার ক্ষতিই বৃদ্ধি করছে।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Noé disse: \"Senhor meu! Por certo eles me desobedeceram e seguiram aquele, cujas riquezas e filhos não lhe acrescentaram senão perdição",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Нух (Ной) сказал: «Господи! Они ослушались меня и последовали за тем, чье богатство и чьи дети приносят им только убыток",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "(اس کے بعد) نوح نے عرض کی کہ میرے پروردگار! یہ لوگ میرے کہنے پر نہیں چلے اور ایسوں کے تابع ہوئے جن کو ان کے مال اور اولاد نے نقصان کے سوا کچھ فائدہ نہیں دیا",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_071_022",
+      "reference": {
+        "surah_number": 71,
+        "surah_name": "Nooh",
+        "surah_name_ar": "سُوْرَةُ نُوْحٍ",
+        "surah_name_translation": "Noah",
+        "ayah_number": 22,
+        "juz": 29,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 5,
+      "translations": {
+        "ar": {
+          "text": "وَمَكَرُواْ مَكۡرࣰ ا كُبَّارࣰ ا",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "and who have devised a tremendous plot",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "那等人曾定了一个重大的计谋，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "और वे बहुत बड़ी चाल चले",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "[sus líderes] conspiraron contra mí un terrible ardid",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Ils ont ourdi un immense stratagème",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "আর তারা ভয়ানক চক্রান্ত করছে।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E eles usaram de grandes estratagemas",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Они замыслили тяжкую хитрость",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور وہ بڑی بڑی چالیں چلے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_071_023",
+      "reference": {
+        "surah_number": 71,
+        "surah_name": "Nooh",
+        "surah_name_ar": "سُوْرَةُ نُوْحٍ",
+        "surah_name_translation": "Noah",
+        "ayah_number": 23,
+        "juz": 29,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 16,
+      "translations": {
+        "ar": {
+          "text": "وَقَالُواْ لَا تَذَرُنَّ ءَالِهَتَكُمۡ وَلَا تَذَرُنَّ وَدࣰّ ا وَلَا سُوَاعࣰ ا وَلَا يَغُوثَ وَيَعُوقَ وَنَسۡرࣰ ا",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "urging ˹their followers˺, ‘Do not abandon your idols—especially Wadd, Suwâ’, Yaghûth, Ya’ûq, and Nasr.’",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "他们说：'你们绝不要放弃你们的众神明，你们绝不要放弃旺德、素佤尔、叶巫斯、叶欧格、奈斯尔。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "और उन्होंने कहा, अपने इष्ट-पूज्यों के कदापि न छोड़ो और न वह वद्द को छोड़ो और न सुवा को और न यग़ूस और न यऊक़ और नस्र को",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Y les dijeron: ‘No abandonen a nuestros ídolos. No abandonen ni a Uadd, ni a Suá’, ni a Iagúz, ni a Ia‘úq ni a Nasr’",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "et ils ont dit: «N'abandonnez jamais vos divinités et n'abandonnez jamais Wadd, Suwâ, Yaghhû, Ya'ûq et Nasr",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "তারা বলছেঃ তোমরা তোমাদের উপাস্যদেরকে ত্যাগ করো না এবং ত্যাগ করো না ওয়াদ, সূয়া, ইয়াগুছ, ইয়াউক ও নসরকে।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E disseram: 'Não deixeis vossos deuses e não deixeis Wadd nem Swā nem Yaghūth nem Yacūq nem Nasr",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "и сказали: «Не отрекайтесь от ваших богов: Вадда, Сувы, Йагуса, Йаука и Насра»",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور کہنے لگے کہ اپنے معبودوں کو ہرگز نہ چھوڑنا اور ود اور سواع اور یغوث اور یعقوب اور نسر کو کبھی ترک نہ کرنا",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_071_024",
+      "reference": {
+        "surah_number": 71,
+        "surah_name": "Nooh",
+        "surah_name_ar": "سُوْرَةُ نُوْحٍ",
+        "surah_name_translation": "Noah",
+        "ayah_number": 24,
+        "juz": 29,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 10,
+      "translations": {
+        "ar": {
+          "text": "وَقَدۡ أَضَلُّواْ كَثِيرࣰ اۖ وَلَا تَزِدِ ٱلظَّٰلِمِينَ إِلَّا ضَلَٰلࣰ ا",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Those ˹elite˺ have already led many astray. So ˹O Lord˺, only allow the wrongdoers to stray farther away.”",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "他们确已使许多人迷误，求你使不义的人们更加迷误。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "और उन्होंने बहुत-से लोगों को पथभ्रष्ट॥ किया है (तो तू उन्हें मार्ग न दिया) अब, तू भी ज़ालिमों की पथभ्रष्टता ही में अभिवृद्धि कर।",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "¡Señor mío! Estos [líderes] han extraviado a muchos. ¡Haz que los opresores e injustos se extravíen cada vez más lejos!’",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Elles [les idoles] ont déjà égaré plusieurs. Ne fais (Seigneur) croître les injustes qu'en égarement",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "অথচ তারা অনেককে পথভ্রষ্ট করেছে। অতএব আপনি জালেমদের পথভ্রষ্টতাই বাড়িয়ে দিন।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E, com efeito, descaminharam a muitos. E não acrescentes aos injustos senão descaminho",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Они уже ввели в заблуждение многих. Не приумножай же беззаконникам ничего, кроме заблуждения!»",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "(پروردگار) انہوں نے بہت لوگوں کو گمراہ کردیا ہے۔ تو تُو ان کو اور گمراہ کردے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_071_025",
+      "reference": {
+        "surah_number": 71,
+        "surah_name": "Nooh",
+        "surah_name_ar": "سُوْرَةُ نُوْحٍ",
+        "surah_name_translation": "Noah",
+        "ayah_number": 25,
+        "juz": 29,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 14,
+      "translations": {
+        "ar": {
+          "text": "مِّمَّا خَطِيٓـَٰٔتِهِمۡ أُغۡرِقُواْ فَأُدۡخِلُواْ نَارࣰ ا فَلَمۡ يَجِدُواْ لَهُم مِّن دُونِ ٱللَّهِ أَنصَارࣰ ا",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "So because of their sins, they were drowned, then admitted into the Fire. And they found none to help them against Allah",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "他们因为自己的罪恶而被淹死，遂堕入火狱，故他们没有获得援助的人们来抵御真主。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "वे अपनी बड़ी ख़ताओं के कारण पानी में डूबो दिए गए, फिर आग में दाख़िल कर दिए गए, फिर वे अपने और अल्लाह के बीच आड़ बननेवाले सहायक न पा सके",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "A causa de sus pecados murieron ahogados [por el diluvio] y luego [el Día del Juicio] irán al Fuego, ya que encontrarán [que sus ídolos y poderosos] no podrán defenderlos de Dios",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "A cause de leurs fautes, ils ont été noyés, puis on les a fait entrer au Feu, et ils n'ont pas trouvé en dehors d'Allah, de secoureurs»",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "তাদের গোনাহসমূহের দরুন তাদেরকে নিমজ্জিত করা হয়েছে, অতঃপর দাখিল করা হয়েছে জাহান্নামে। অতঃপর তারা আল্লাহ তা’আলা ব্যতীত কাউকে সাহায্যকারী পায়নি।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Por causa de seus erros, foram afogados, então, fizeram-nos entrar no Fogo: e não encontraram, para eles, além de Allah, socorredores",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "За свои грехи они были потоплены и ввергнуты в Огонь. Они не нашли себе помощников вместо Аллаха",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "(آخر) وہ اپنے گناہوں کے سبب پہلے غرقاب کردیئے گئے پھر آگ میں ڈال دیئے گئے۔ تو انہوں نے خدا کے سوا کسی کو اپنا مددگار نہ پایا",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_071_026",
+      "reference": {
+        "surah_number": 71,
+        "surah_name": "Nooh",
+        "surah_name_ar": "سُوْرَةُ نُوْحٍ",
+        "surah_name_translation": "Noah",
+        "ayah_number": 26,
+        "juz": 29,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 10,
+      "translations": {
+        "ar": {
+          "text": "وَقَالَ نُوحࣱ رَّبِّ لَا تَذَرۡ عَلَى ٱلۡأَرۡضِ مِنَ ٱلۡكَٰفِرِينَ دَيَّارًا",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Noah had prayed, “My Lord! Do not leave a single disbeliever on earth",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "努哈说：我的主啊！求你不要留一个不信道大者在大地上，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "और नूह ने कहा, \"ऐ मेरे रब! धरती पर इनकार करनेवालों में से किसी बसनेवाले को न छोड",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Dijo Noé: \"¡Señor mío! No dejes subsistir sobre esta tierra a quienes niegan la verdad",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Et Noé dit: «Seigneur, ne laisse sur la terre aucun infidèle",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "নূহ আরও বললঃ হে আমার পালনকর্তা, আপনি পৃথিবীতে কোন কাফের গৃহবাসীকে রেহাই দিবেন না।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E Noé disse: \"Senhor meu! Não deixes, sobre a terra, nenhum dos renegadores da Fé",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Нух (Ной) сказал: «Господи! Не оставь на земле ни одного неверующего жителя",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور (پھر) نوحؑ نے (یہ) دعا کی کہ میرے پروردگار اگر کسی کافر کو روئے زمین پر بسا نہ رہنے دے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_071_027",
+      "reference": {
+        "surah_number": 71,
+        "surah_name": "Nooh",
+        "surah_name_ar": "سُوْرَةُ نُوْحٍ",
+        "surah_name_translation": "Noah",
+        "ayah_number": 27,
+        "juz": 29,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 12,
+      "translations": {
+        "ar": {
+          "text": "إِنَّكَ إِن تَذَرۡهُمۡ يُضِلُّواْ عِبَادَكَ وَلَا يَلِدُوٓاْ إِلَّا فَاجِرࣰ ا كَفَّارࣰ ا",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "For if You spare ˹any of˺ them, they will certainly mislead Your servants, and give birth only to ˹wicked˺ sinners, staunch disbelievers",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "如果你留他们，他们将使你的众仆迷误，他们只生育不道德的、不感恩的子女。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "यदि तू उन्हें छोड़ देगा तो वे तेरे बन्दों को पथभ्रष्ट कर देंगे और वे दुराचारियों और बड़े अधर्मियों को ही जन्म देंगे",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Porque si los dejas, intentarán por todos los medios extraviar a Tus siervos y no enseñarán a sus hijos sino el pecado y la negación de la verdad",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Si Tu les laisses [en vie], ils égareront Tes serviteurs et n'engendreront que des pécheurs infidèles",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "যদি আপনি তাদেরকে রেহাই দেন, তবে তারা আপনার বান্দাদেরকে পথভ্রষ্ট করবে এবং জন্ম দিতে থাকবে কেবল পাপাচারী, কাফের।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Por certo, se os deixas, descaminharão Teus servos e não procriarão senão ímpios, ingratos",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Если ты оставишь их, они введут в заблуждение Твоих рабов и породят только грешных неверующих",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اگر تم ان کو رہنے دے گا تو تیرے بندوں کو گمراہ کریں گے اور ان سے جو اولاد ہوگی وہ بھی بدکار اور ناشکر گزار ہوگی",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_071_028",
+      "reference": {
+        "surah_number": 71,
+        "surah_name": "Nooh",
+        "surah_name_ar": "سُوْرَةُ نُوْحٍ",
+        "surah_name_translation": "Noah",
+        "ayah_number": 28,
+        "juz": 29,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 16,
+      "translations": {
+        "ar": {
+          "text": "رَّبِّ ٱغۡفِرۡ لِي وَلِوَٰلِدَيَّ وَلِمَن دَخَلَ بَيۡتِيَ مُؤۡمِنࣰ ا وَلِلۡمُؤۡمِنِينَ وَٱلۡمُؤۡمِنَٰتِۖ وَلَا تَزِدِ ٱلظَّٰلِمِينَ إِلَّا تَبَارَۢا",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "My Lord! Forgive me, my parents, and whoever enters my house in faith, and ˹all˺ believing men and women. And increase the wrongdoers only in destruction.”",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "我的主啊！求你赦宥我和我的父母，赦宥信道而入我的房屋的人，以及信士们和信女们。求你使不义的人们更加毁灭。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "ऐ मेरे रब! मुझे क्षमा कर दे और मेरे माँ-बाप को भी और हर उस व्यक्ति को भी जो मेरे घर में ईमानवाला बन कर दाख़िल हुआ और (सामान्य) ईमानवाले पुरुषों और ईमानवाली स्त्रियों को भी (क्षमा कर दे), और ज़ालिमों के विनाश को ही बढ़ा।",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "¡Señor mío! Perdóname y perdona a mis padres, a todo aquel que ingrese a mi casa como creyente, y a todos los hombres y mujeres que crean en Ti. Pero a los injustos opresores, acreciéntales su perdición",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Seigneur! Pardonne-moi, et à mes père et mère et à celui qui entre dans ma demeure croyant, ainsi qu'aux croyants et croyantes; et ne fais croître les injustes qu'en perdition»",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "হে আমার পালনকর্তা! আপনি আমাকে, আমার পিতা-মাতাকে, যারা মুমিন হয়ে আমার গৃহে প্রবেশ করে-তাদেরকে এবং মুমিন পুরুষ ও মুমিন নারীদেরকে ক্ষমা করুন এবং যালেমদের কেবল ধ্বংসই বৃদ্ধি করুন।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Senhor meu! Perdoa-me e a meus pais e a quem entrar em minha casa, sendo crente, e aos crentes e às crentes. E não acrescentes aos injustos senão perdição",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Господи! Прости меня и моих родителей и тех, кто вошел в мой дом верующим, а также верующих мужчин и женщин. А беззаконникам не приумножай ничего, кроме погибели!»",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اے میرے پروردگار مجھ کو اور میرے ماں باپ کو اور جو ایمان لا کر میرے گھر میں آئے اس کو اور تمام ایمان والے مردوں اور ایمان والی عورتوں کو معاف فرما اور ظالم لوگوں کے لئے اور زیادہ تباہی بڑھا",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,677 @@
+{
+  "surah": 65,
+  "verses": [
+    {
+      "content_id": "quran_065_001",
+      "reference": {
+        "surah_number": 65,
+        "surah_name": "At-Talaaq",
+        "surah_name_ar": "سُوْرَةُ الطَّلَاقِ",
+        "surah_name_translation": "Divorce",
+        "ayah_number": 1,
+        "juz": 28,
+        "revelation_type": "Madina"
+      },
+      "arabic_word_count": 42,
+      "translations": {
+        "ar": {
+          "text": "يَٰٓأَيُّهَا ٱلنَّبِيُّ إِذَا طَلَّقۡتُمُ ٱلنِّسَآءَ فَطَلِّقُوهُنَّ لِعِدَّتِهِنَّ وَأَحۡصُواْ ٱلۡعِدَّةَۖ وَٱتَّقُواْ ٱللَّهَ رَبَّكُمۡۖ لَا تُخۡرِجُوهُنَّ مِنۢ بُيُوتِهِنَّ وَلَا يَخۡرُجۡنَ إِلَّآ أَن يَأۡتِينَ بِفَٰحِشَةࣲ مُّبَيِّنَةࣲۚ وَتِلۡكَ حُدُودُ ٱللَّهِۚ وَمَن يَتَعَدَّ حُدُودَ ٱللَّهِ فَقَدۡ ظَلَمَ نَفۡسَهُۥۚ لَا تَدۡرِي لَعَلَّ ٱللَّهَ يُحۡدِثُ بَعۡدَ ذَٰلِكَ أَمۡرࣰ ا",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "O Prophet! ˹Instruct the believers:˺ When you ˹intend to˺ divorce women, then divorce them with concern for their waiting period, and count it accurately. And fear Allah, your Lord. Do not force them out of their homes, nor should they leave—unless they commit a blatant misconduct. These are the limits set by Allah. And whoever transgresses Allah’s limits has truly wronged his own soul. You never know, perhaps Allah will bring about a change ˹of heart˺ later",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "先知啊！当你们休妻的时候，你们当在她们的待婚期之前休她们，你们当计待婚期，当敬畏真主－－－你们的主。你们不要把她们从她们的房里驱逐出门， 她们也不得自己出门，除非她们做了明显的丑事。这是真主的法度，谁超越真主的法度，谁确是不义者。你们不知道，此后，真主或许创造一件事情。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "ऐ नबी! जब तुम लोग स्त्रियों को तलाक़ दो तो उन्हें तलाक़ उनकी इद्दत के हिसाब से दो। और इद्दत की गणना करो और अल्लाह का डर रखो, जो तुम्हारा रब है। उन्हें उनके घरों से न निकालो और न वे स्वयं निकलें, सिवाय इसके कि वे कोई स्पष्ट। अशोभनीय कर्म कर बैठें। ये अल्लाह की नियत की हुई सीमाएँ है - और जो अल्लाह की सीमाओं का उल्लंघन करे तो उसने स्वयं अपने आप पर ज़ुल्म किया - तुम नहीं जानते, कदाचित इस (तलाक़) के पश्चात अल्लाह कोई सूरत पैदा कर दे",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "¡Oh, Profeta!, [haz saber a los musulmanes que] cuando divorcien a las mujeres, deben hacerlo durante el tiempo señalado. Calculen con atención los días de ese período, y tengan temor de Dios, su Señor. No las expulsen de sus hogares y que ellas tampoco lo abandonen, a menos que hayan cometido una indecencia evidente. Estas son las leyes de Dios. Quien quebrante las leyes de Dios habrá sido injusto consigo mismo. Tú no sabes si Dios, después de esa [primera ruptura], haga surgir una reconciliación",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "O Prophète! Quand vous répudiez les femmes, répudiez-les conformément à leur période d'attente prescrite; et comptez la période; et craignez Allah votre Seigneur. Ne les faites pas sortir de leurs maisons, et qu'elles n'en sortent pas, à moins qu'elles n'aient commis une turpitude prouvée. Telles sont les lois d'Allah. Quiconque cependant transgresse les lois d'Allah, se fait du tort à lui-même. Tu ne sais pas si d'ici là Allah ne suscitera pas quelque chose de nouveau",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "হে নবী, তোমরা যখন স্ত্রীদেরকে তালাক দিতে চাও, তখন তাদেরকে তালাক দিয়ো ইদ্দতের প্রতি লক্ষ্য রেখে এবং ইদ্দত গণনা করো। তোমরা তোমাদের পালনকর্তা আল্লাহকে ভয় করো। তাদেরকে তাদের গৃহ থেকে বহিস্কার করো না এবং তারাও যেন বের না হয় যদি না তারা কোন সুস্পষ্ট নির্লজ্জ কাজে লিপ্ত হয়। এগুলো আল্লাহর নির্ধারিত সীমা। যে ব্যক্তি আল্লাহর সীমালংঘন করে, সে নিজেরই অনিষ্ট করে। সে জানে না, হয়তো আল্লাহ এই তালাকের পর কোন নতুন উপায় করে দেবেন।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Ó Profeta! Quando vos divorciardes das mulheres, divorciai-vos delas no início de sua iddah, seu tempo de espera. E enumerai a iddah. E temei a Allah, vosso Senhor. Não façais sair de suas casas, e que elas não saiam, exceto se cometerem evidente obscenidade. E esses são os limites de Allah. E quem transgride os limites de Allah, com efeito, fará injustiça a si mesmo. - Tu não te inteiras: provavelmente, Allah faça surgir, depois disso, algo",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "О Пророк! Когда вы даете женам развод, то разводитесь в течение установленного срока, ведите счет этому сроку и бойтесь Аллаха, вашего Господа. Не выгоняйте их из их домов, и пусть они не выходят из них, если только они не совершат явную мерзость. Таковы ограничения Аллаха. Кто преступает ограничения Аллаха, тот поступает несправедливо по отношению к себе. Ты не знаешь, что Аллах, возможно, после этого решит иначе",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اے پیغمبر (مسلمانوں سے کہہ دو کہ) جب تم عورتوں کو طلاق دینے لگو تو عدت کے شروع میں طلاق دو اور عدت کا شمار رکھو۔ اور خدا سے جو تمہارا پروردگار ہے ڈرو۔ (نہ تو تم ہی) ان کو (ایام عدت میں) ان کے گھروں سے نکالو اور نہ وہ (خود ہی) نکلیں۔ ہاں اگر وہ صریح بےحیائی کریں (تو نکال دینا چاہیئے) اور یہ خدا کی حدیں ہیں۔ جو خدا کی حدوں سے تجاوز کرے گا وہ اپنے آپ پر ظلم کرے گا۔ (اے طلاق دینے والے) تجھے کیا معلوم شاید خدا اس کے بعد کوئی (رجعت کی) سبیل پیدا کردے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_065_002",
+      "reference": {
+        "surah_number": 65,
+        "surah_name": "At-Talaaq",
+        "surah_name_ar": "سُوْرَةُ الطَّلَاقِ",
+        "surah_name_translation": "Divorce",
+        "ayah_number": 2,
+        "juz": 28,
+        "revelation_type": "Madina"
+      },
+      "arabic_word_count": 31,
+      "translations": {
+        "ar": {
+          "text": "فَإِذَا بَلَغۡنَ أَجَلَهُنَّ فَأَمۡسِكُوهُنَّ بِمَعۡرُوفٍ أَوۡ فَارِقُوهُنَّ بِمَعۡرُوفࣲ وَأَشۡهِدُواْ ذَوَيۡ عَدۡلࣲ مِّنكُمۡ وَأَقِيمُواْ ٱلشَّهَٰدَةَ لِلَّهِۚ ذَٰلِكُمۡ يُوعَظُ بِهِۦ مَن كَانَ يُؤۡمِنُ بِٱللَّهِ وَٱلۡيَوۡمِ ٱلۡأٓخِرِۚ وَمَن يَتَّقِ ٱللَّهَ يَجۡعَل لَّهُۥ مَخۡرَجࣰ ا",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Then when they have ˹almost˺ reached the end of their waiting period, either retain them honourably or separate from them honourably. And call two of your reliable men to witness ˹either way˺—and ˹let the witnesses˺ bear true testimony for ˹the sake of˺ Allah. This is enjoined on whoever has faith in Allah and the Last Day. And whoever is mindful of Allah, He will make a way out for them",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "当她们满期的时候，你们当善意地挽留她们，或善意地离别她们。你们当以你们的两个公正人为见证，你们当为真主而作证。这是用来教训信仰真主和末日者的。谁敬畏真主，他将为谁辟一条出路。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "फिर जब वे अपनी नियत इद्दत को पहुँचे तो या तो उन्हें भली रीति से रोक लो या भली रीति से अलग कर दो। और अपने में से दो न्यायप्रिय आदमियों को गवाह बना दो और अल्लाह के लिए गवाही को दुरुस्त रखो। इसकी नसीहत उस व्यक्ति को की जाती है जो अल्लाह और अन्तिम दिन पर ईमान रखेगा उसके लिए वह (परेशानी से) निकलने का राह पैदा कर देगा",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Cuando estén por finalizar su período de espera, pueden reconciliarse de forma justa o divorciarse definitivamente en términos justos. Háganlo ante dos testigos neutrales de entre ustedes, y cumplan con su testimonio por Dios. Al cumplimiento de estas leyes es que se exhorta a quien cree en Dios y en el Día del Juicio. Sepan que a quien tenga temor de Dios, Él le dará una solución",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Puis quand elles atteignent le terme prescrit, retenez-les de façon convenable, ou séparez-vous d'elles de façon convenable; et prenez deux hommes intègres parmi vous comme témoins. Et acquittez-vous du témoignage envers Allah. Voilà ce à quoi est exhorté celui qui croit en Allah et au Jour dernier. Et quiconque craint Allah, Il Lui donnera une issue favorable",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "অতঃপর তারা যখন তাদের ইদ্দতকালে পৌঁছে, তখন তাদেরকে যথোপযুক্ত পন্থায় রেখে দেবে অথবা যথোপযুক্ত পন্থায় ছেড়ে দেবে এবং তোমাদের মধ্য থেকে দু’জন নির্ভরযোগ্য লোককে সাক্ষী রাখবে। তোমরা আল্লাহর উদ্দেশ্যে সাক্ষ্য দিবে। এতদ্দ্বারা যে ব্যক্তি আল্লাহ ও পরকালে বিশ্বাস করে, তাকে উপদেশ দেয়া হচ্ছে। আর যে আল্লাহকে ভয় করে, আল্লাহ তার জন্যে নিস্কৃতির পথ করে দেবেন।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Então, quando elas chegarem às proximidades de seu termo, retende-as convenientemente, ou separai-vos delas convenientemente; e fazei testemunhá-lo dois homens justos dos vossos, e cumpri com equanimidade, o testemunho por Allah. Isso é o com que é exortado quem crê em Allah e no Derradeiro Dia. E quem teme a Allah, Ele lhe fará saída digna",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Когда для них наступит установленный срок, оставьте их у себя по-хорошему или же отпустите по-хорошему. Призовите свидетелями двух справедливых мужей из вас и будьте свидетелями ради Аллаха. Таково увещевание для тех, кто верует в Аллаха и в Последний день. Тому, кто боится Аллаха, Он создает выход из положения",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "پھر جب وہ اپنی میعاد (یعنی انقضائے عدت) کے قریب پہنچ جائیں تو یا تو ان کو اچھی طرح (زوجیت میں) رہنے دو یا اچھی طرح سے علیحدہ کردو اور اپنے میں سے دو منصف مردوں کو گواہ کرلو اور (گواہ ہو!) خدا کے لئے درست گواہی دینا۔ ان باتوں سے اس شخص کو نصیحت کی جاتی ہے جو خدا پر اور روز آخرت پر ایمان رکھتا ہے۔ اور جو کوئی خدا سے ڈرے گا وہ اس کے لئے (رنج ومحن سے) مخلصی (کی صورت) پیدا کرے گا",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_065_003",
+      "reference": {
+        "surah_number": 65,
+        "surah_name": "At-Talaaq",
+        "surah_name_ar": "سُوْرَةُ الطَّلَاقِ",
+        "surah_name_translation": "Divorce",
+        "ayah_number": 3,
+        "juz": 28,
+        "revelation_type": "Madina"
+      },
+      "arabic_word_count": 22,
+      "translations": {
+        "ar": {
+          "text": "وَيَرۡزُقۡهُ مِنۡ حَيۡثُ لَا يَحۡتَسِبُۚ وَمَن يَتَوَكَّلۡ عَلَى ٱللَّهِ فَهُوَ حَسۡبُهُۥٓۚ إِنَّ ٱللَّهَ بَٰلِغُ أَمۡرِهِۦۚ قَدۡ جَعَلَ ٱللَّهُ لِكُلِّ شَيۡءࣲ قَدۡرࣰ ا",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "and provide for them from sources they could never imagine. And whoever puts their trust in Allah, then He ˹alone˺ is sufficient for them. Certainly Allah achieves His Will. Allah has already set a destiny for everything",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "而且从他料想不到的地方供给他。谁信托真主，他将使谁满足。真主确是能达到自己的目的的，真主确已使万物各有定数。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "और उसे वहाँ से रोज़ी देगा जिसका उसे गुमान भी न होगा। जो अल्लाह पर भरोसा करे तो वह उसके लिए काफ़ी है। निश्चय ही अल्लाह अपना काम पूरा करके रहता है। अल्लाह ने हर चीज़ का एक अन्दाजा नियत कर रखा है",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "y le dará sustento de donde no lo esperaba. Quien deposite su confianza en Dios, sepa que Él le será suficiente. Dios hará que el designio se cumpla, y ha establecido para cada cosa un término y una medida",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "et lui accordera Ses dons par [des moyens] sur lesquels il ne comptait pas. Et quiconque place sa confiance en Allah, Il [Allah] lui suffit. Allah atteint ce qu'Il Se propose, et Allah a assigné une mesure à chaque chose",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "এবং তাকে তার ধারণাতীত জায়গা থেকে রিযিক দেবেন। যে ব্যক্তি আল্লাহর উপর ভরসা করে তার জন্যে তিনিই যথেষ্ট। আল্লাহ তার কাজ পূর্ণ করবেন। আল্লাহ সবকিছুর জন্যে একটি পরিমাণ স্থির করে রেখেছেন।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E lhe dará sustento, por onde não suporá. E quem confia em Allah, Ele lhe bastará. Por certo, Allah atinge o que quer de Sua ordem, Allah fez para cada cousa uma medida",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "и наделяет его уделом оттуда, откуда он даже не предполагает. Тому, кто уповает на Аллаха, достаточно Его. Аллах доводит до конца Свое дело. Аллах установил меру для каждой вещи",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور اس کو ایسی جگہ سے رزق دے گا جہاں سے (وہم و) گمان بھی نہ ہو۔ اور جو خدا پر بھروسہ رکھے گا تو وہ اس کو کفایت کرے گا۔ خدا اپنے کام کو (جو وہ کرنا چاہتا ہے) پورا کردیتا ہے۔ خدا نے ہر چیز کا اندازہ مقرر کر رکھا ہے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_065_004",
+      "reference": {
+        "surah_number": 65,
+        "surah_name": "At-Talaaq",
+        "surah_name_ar": "سُوْرَةُ الطَّلَاقِ",
+        "surah_name_translation": "Divorce",
+        "ayah_number": 4,
+        "juz": 28,
+        "revelation_type": "Madina"
+      },
+      "arabic_word_count": 29,
+      "translations": {
+        "ar": {
+          "text": "وَٱلَّٰٓـِٔي يَئِسۡنَ مِنَ ٱلۡمَحِيضِ مِن نِّسَآئِكُمۡ إِنِ ٱرۡتَبۡتُمۡ فَعِدَّتُهُنَّ ثَلَٰثَةُ أَشۡهُرࣲ وَٱلَّٰٓـِٔي لَمۡ يَحِضۡنَۚ وَأُوْلَٰتُ ٱلۡأَحۡمَالِ أَجَلُهُنَّ أَن يَضَعۡنَ حَمۡلَهُنَّۚ وَمَن يَتَّقِ ٱللَّهَ يَجۡعَل لَّهُۥ مِنۡ أَمۡرِهِۦ يُسۡرࣰ ا",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "As for your women past the age of menstruation, in case you do not know, their waiting period is three months, and those who have not menstruated as well. As for those who are pregnant, their waiting period ends with delivery. And whoever is mindful of Allah, He will make their matters easy for them",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "你们的妇女中对月经已绝望的，如果你们怀疑，就以三个月为她们的待婚期，还没有月经的，也是这样的；怀孕的，以分娩为满期。谁敬畏真主，他将使谁顺利。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "और तुम्हारी स्त्रियों में से जो मासिक धर्म से निराश हो चुकी हों, यदि तुम्हें संदेह हो तो उनकी इद्दत तीन मास है और इसी प्रकार उनकी भी जो अभी रजस्वला नहीं हुई। और जो गर्भवती स्त्रियाँ हो उनकी इद्दत उनके शिशु-प्रसव तक है। जो कोई अल्लाह का डर रखेगा उसके मामले में वह आसानी पैदा कर देगा",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "El período de espera para aquellas mujeres que hayan llegado a la menopausia, si tienen dudas [sobre el término del periodo], o aquellas que no menstrúan, es de tres meses. En cambio, el de las embarazadas finalizará cuando den a luz. Sepan que a quien tenga temor de Dios, Él le facilitará sus asuntos",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Si vous avez des doutes à propos (de la période d'attente) de vos femmes qui n'espèrent plus avoir de règles, leur délai est de trois mois. De même pour celles qui n'ont pas encore de règles. Et quant à celles qui sont enceintes, leur période d'attente se terminera à leur accouchement. Quiconque craint Allah cependant, Il lui facilite les choses",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "তোমাদের স্ত্রীদের মধ্যে যাদের ঋতুবর্তী হওয়ার আশা নেই, তাদের ব্যাপারে সন্দেহ হলে তাদের ইদ্দত হবে তিন মাস। আর যারা এখনও ঋতুর বয়সে পৌঁছেনি, তাদেরও অনুরূপ ইদ্দতকাল হবে। গর্ভবর্তী নারীদের ইদ্দতকাল সন্তানপ্রসব পর্যন্ত। যে আল্লাহকে ভয় করে, আল্লাহ তার কাজ সহজ করে দেন।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E aquelas de vossas mulheres, que não mais esperam o mênstruo, sua iddah, se duvidais, será de três meses e, assim também a das que não menstruam. E as mulheres grávidas, seu termo será o deporem suas cargas. E quem teme a Allah, Ele lhe fará facilidade em sua condição",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Для тех из ваших женщин, у которых прекратились менструации, если вы сомневаетесь, установленный для развода срок равен трем месяцам, как и для тех, у которых не было менструаций. Для беременных срок установлен до тех пор, пока они не разрешатся от бремени. Тому, кто боится Аллаха, Он облегчает дела",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور تمہاری (مطلقہ) عورتیں جو حیض سے ناامید ہوچکی ہوں اگر تم کو (ان کی عدت کے بارے میں) شبہ ہو تو ان کی عدت تین مہینے ہے اور جن کو ابھی حیض نہیں آنے لگا (ان کی عدت بھی یہی ہے) اور حمل والی عورتوں کی عدت وضع حمل (یعنی بچّہ جننے) تک ہے۔ اور جو خدا سے ڈرے گا خدا اس کے کام میں سہولت پیدا کردے گا",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_065_005",
+      "reference": {
+        "surah_number": 65,
+        "surah_name": "At-Talaaq",
+        "surah_name_ar": "سُوْرَةُ الطَّلَاقِ",
+        "surah_name_translation": "Divorce",
+        "ayah_number": 5,
+        "juz": 28,
+        "revelation_type": "Madina"
+      },
+      "arabic_word_count": 14,
+      "translations": {
+        "ar": {
+          "text": "ذَٰلِكَ أَمۡرُ ٱللَّهِ أَنزَلَهُۥٓ إِلَيۡكُمۡۚ وَمَن يَتَّقِ ٱللَّهَ يُكَفِّرۡ عَنۡهُ سَيِّـَٔاتِهِۦ وَيُعۡظِمۡ لَهُۥٓ أَجۡرًا",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "This is the commandment of Allah, which He has revealed to you. And whoever is mindful of Allah, He will absolve them of their sins and reward them immensely",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "这是真主所降示你们的法令，谁敬畏真主，他将免除谁的罪恶，而且赏赐他重大的报酬。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "यह अल्लाह का आदेश है जो उसने तुम्हारी ओर उतारा है। और जो कोई अल्लाह का डर रखेगा उससे वह उसकी बुराईयाँ दूर कर देगा और उसके प्रतिदान को बड़ा कर देगा",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Estas son las leyes que Dios ha prescrito. A quien tenga temor de Dios, Él le perdonará sus malas obras y le aumentará su recompensa",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Tel est le commandement d'Allah qu'Il a fait descendre vers vous. Quiconque craint Allah cependant, Il lui efface ses fautes et lui accorde une grosse récompense",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "এটা আল্লাহর নির্দেশ, যা তিনি তোমাদের প্রতি নাযিল করেছেন। যে আল্লাহকে ভয় করে, আল্লাহ তার পাপ মোচন করেন এবং তাকে মহাপুরস্কার দেন।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Essa é a ordem de Allah, que Ele fez descer. E quem teme a Allah, Ele lhe remirá as más obras e lhe tornará magnífico o prêmio",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Таково повеление Аллаха, которое Он ниспослал вам. Тому, кто боится Аллаха, Он простит злодеяния и увеличит награду",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "یہ خدا کے حکم ہیں جو خدا نے تم پر نازل کئے ہیں۔ اور جو خدا سے ڈرے گا وہ اس سے اس کے گناہ دور کر دے گا اور اسے اجر عظیم بخشے گا",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_065_006",
+      "reference": {
+        "surah_number": 65,
+        "surah_name": "At-Talaaq",
+        "surah_name_ar": "سُوْرَةُ الطَّلَاقِ",
+        "surah_name_translation": "Divorce",
+        "ayah_number": 6,
+        "juz": 28,
+        "revelation_type": "Madina"
+      },
+      "arabic_word_count": 32,
+      "translations": {
+        "ar": {
+          "text": "أَسۡكِنُوهُنَّ مِنۡ حَيۡثُ سَكَنتُم مِّن وُجۡدِكُمۡ وَلَا تُضَآرُّوهُنَّ لِتُضَيِّقُواْ عَلَيۡهِنَّۚ وَإِن كُنَّ أُوْلَٰتِ حَمۡلࣲ فَأَنفِقُواْ عَلَيۡهِنَّ حَتَّىٰ يَضَعۡنَ حَمۡلَهُنَّۚ فَإِنۡ أَرۡضَعۡنَ لَكُمۡ فَـَٔاتُوهُنَّ أُجُورَهُنَّ وَأۡتَمِرُواْ بَيۡنَكُم بِمَعۡرُوفࣲۖ وَإِن تَعَاسَرۡتُمۡ فَسَتُرۡضِعُ لَهُۥٓ أُخۡرَىٰ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Let them live where you live ˹during their waiting period˺, according to your means. And do not harass them to make their stay unbearable. If they are pregnant, then maintain them until they deliver. And if they nurse your child, compensate them, and consult together courteously. But if you fail to reach an agreement, then another woman will nurse ˹the child˺ for the father",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "你们当依自己的能力而使她们住在你们所住的地方，你们不要妨害她们，而使她们烦闷。如果她们有孕，你们就应当供给她们，直到她们分娩。如果她们为你们哺乳，你们应当报酬她们，并且应当依正义而相商。如果你们的意见不合，就让别的妇人为他哺乳。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "अपनी हैसियत के अनुसार यहाँ तुम स्वयं रहते हो उन्हें भी उसी जगह रखो। और उन्हें तंग करने के लिए उन्हें हानि न पहुँचाओ। और यदि वे गर्भवती हो तो उनपर ख़र्च करते रहो जब तक कि उनका शिशु-प्रसव न हो जाए। फिर यदि वे तुम्हारे लिए (शिशु को) दूध पिलाएँ तो तुम उन्हें उनका पारिश्रामिक दो और आपस में भली रीति से परस्पर बातचीत के द्वार कोई बात तय कर लो। और यदि तुम दोनों में कोई कठिनाई हो तो फिर कोई दूसरी स्त्री उसके लिए दूध पिला देगी",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Denle a la mujer durante ese periodo el mismo nivel de vida que ustedes tienen conforme a sus posibilidades. No la perjudiquen con ánimo de molestarla. Si ella está embarazada, deben mantenerla hasta que dé a luz, y si ambos acuerdan que ella amamante a su hijo, deben mantenerla [hasta que termine la lactancia]. Tengan buen trato y lleguen a un acuerdo de buena manera. Pero si discrepan [sobre la lactancia del hijo], entonces que otra mujer lo amamante [por cuenta del padre]",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Et faites que ces femmes habitent où vous habitez, et suivant vos moyens. Et ne cherchez pas à leur nuire en les contraignant à vivre à l'étroit. Et si elles sont enceintes, pourvoyez à leurs besoins jusqu'à ce qu'elles aient accouché. Puis, si elles allaitent [l'enfant né] de vous, donnez-leur leurs salaires. Et concertez vous [à ce sujet] de façon convenable. Et si vous rencontrez des difficultés réciproques, alors, une autre allaitera pour lui",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "তোমরা তোমাদের সামর্থ?2437;নুযায়ী যেরূপ গৃহে বাস কর, তাদেরকেও বসবাসের জন্যে সেরূপ গৃহ দাও। তাদেরকে কষ্ট দিয়ে সংকটাপন্ন করো না। যদি তারা গর্ভবতী হয়, তবে সন্তানপ্রসব পর্যন্ত তাদের ব্যয়ভার বহন করবে। যদি তারা তোমাদের সন্তানদেরকে স্তন্যদান করে, তবে তাদেরকে প্রাপ্য পারিশ্রমিক দেবে এবং এ সম্পর্কে পরস্পর সংযতভাবে পরামর্শ করবে। তোমরা যদি পরস্পর জেদ কর, তবে অন্য নারী স্তন্যদান করবে।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Fazei-as habitar onde habitais, conforme vossos recursos, e não as prejudiqueis, para constrangê-las. E, se elas vos amamentam o filho, concedei-lhes seus prêmios. E que, entre vós, haja deliberações mútuas, de modo conveniente. E, se estais em dificuldade, outra lhe amamentará o filho",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Поселяйте их там, где вы живете сами - по вашему достатку. Не причиняйте им вреда, желая стеснить их. Если они беременны, то содержите их, пока они не разрешатся от бремени. Если они кормят грудью для вас, то платите им вознаграждение и советуйтесь между собой по-хорошему. Если же вы станете обременять друг друга, то кормить для него будет другая женщина",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "عورتوں کو (ایام عدت میں) اپنے مقدور کے مطابق وہیں رکھو جہاں خود رہتے ہو اور ان کو تنگ کرنے کے لئے تکلیف نہ دو اور اگر حمل سے ہوں تو بچّہ جننے تک ان کا خرچ دیتے رہو۔ پھر اگر وہ بچّے کو تمہارے کہنے سے دودھ پلائیں تو ان کو ان کی اجرت دو۔ اور (بچّے کے بارے میں) پسندیدہ طریق سے مواقفت رکھو۔ اور اگر باہم ضد (اور نااتفاقی) کرو گے تو (بچّے کو) اس کے (باپ کے) کہنے سے کوئی اور عورت دودھ پلائے گی",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_065_007",
+      "reference": {
+        "surah_number": 65,
+        "surah_name": "At-Talaaq",
+        "surah_name_ar": "سُوْرَةُ الطَّلَاقِ",
+        "surah_name_translation": "Divorce",
+        "ayah_number": 7,
+        "juz": 28,
+        "revelation_type": "Madina"
+      },
+      "arabic_word_count": 26,
+      "translations": {
+        "ar": {
+          "text": "لِيُنفِقۡ ذُو سَعَةࣲ مِّن سَعَتِهِۦۖ وَمَن قُدِرَ عَلَيۡهِ رِزۡقُهُۥ فَلۡيُنفِقۡ مِمَّآ ءَاتَىٰهُ ٱللَّهُۚ لَا يُكَلِّفُ ٱللَّهُ نَفۡسًا إِلَّا مَآ ءَاتَىٰهَاۚ سَيَجۡعَلُ ٱللَّهُ بَعۡدَ عُسۡرࣲ يُسۡرࣰ ا",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Let the man of wealth provide according to his means. As for the one with limited resources, let him provide according to whatever Allah has given him. Allah does not require of any soul beyond what He has given it. After hardship, Allah will bring about ease",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "教富裕的人用他的富裕的财产去供给， 教窘迫的人用真主所赏赐他的去供给。真主只依他所赋予人的能力而加以责成。在窘迫之后，真主将给宽裕。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "चाहिए कि समाई (सामर्थ्य) वाला अपनी समाई के अनुसार ख़र्च करे और जिसे उसकी रोज़ी नपी-तुली मिली हो तो उसे चाहिए कि अल्लाह ने उसे जो कुछ भी दिया है उसी में से वह ख़र्च करे। जितना कुछ दिया है उससे बढ़कर अल्लाह किसी व्यक्ति पर ज़िम्मेदारी का बोझ नहीं डालता। जल्द ही अल्लाह कठिनाई के बाद आसानी पैदा कर देगा",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Que el adinerado mantenga de acuerdo a su abundancia, pero aquel cuyo sustento es escaso que lo haga acorde a lo que Dios le ha provisto. Dios no exige a nadie por encima de sus posibilidades. Dios hará que luego de toda estrechez venga la prosperidad",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Que celui qui est aisé dépense de sa fortune; et que celui dont les biens sont restreints dépense selon ce qu'Allah lui a accordé. Allah n'impose à personne que selon ce qu'Il lui a donné, et Allah fera succéder l'aisance à la gêne",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "বিত্তশালী ব্যক্তি তার বিত্ত অনুযায়ী ব্যয় করবে। যে ব্যক্তি সীমিত পরিমাণে রিযিকপ্রাপ্ত, সে আল্লাহ যা দিয়েছেন, তা থেকে ব্যয় করবে। আল্লাহ যাকে যা দিয়েছেন, তদপেক্ষা বেশী ব্যয় করার আদেশ কাউকে করেন না। আল্লাহ কষ্টের পর সুখ দেবেন।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Que aquele, que tem prosperidade, despenda conforme sua prosperidade. E aquele, cujo sustento é restrito, que ele despenda do que Allah lhe concede. Allah não impõe a alma alguma senão o que Ele lhe concede. Allah fará, após dificuldade, facilidade",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Пусть обладающий достатком расходует согласно своему достатку. А тот, кто стеснен в средствах, пусть расходует из того, чем его одарил Аллах. Аллах не возлагает на человека сверх того, что Он даровал ему. После тяготы Аллах создает облегчение",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "صاحب وسعت کو اپنی وسعت کے مطابق خرچ کرنا چاہیئے۔ اور جس کے رزق میں تنگی ہو وہ جتنا خدا نے اس کو دیا ہے اس کے موافق خرچ کرے۔ خدا کسی کو تکلیف نہیں دیتا مگر اسی کے مطابق جو اس کو دیا ہے۔ اور خدا عنقریب تنگی کے بعد کشائش بخشے گا",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_065_008",
+      "reference": {
+        "surah_number": 65,
+        "surah_name": "At-Talaaq",
+        "surah_name_ar": "سُوْرَةُ الطَّلَاقِ",
+        "surah_name_translation": "Divorce",
+        "ayah_number": 8,
+        "juz": 28,
+        "revelation_type": "Madina"
+      },
+      "arabic_word_count": 18,
+      "translations": {
+        "ar": {
+          "text": "وَكَأَيِّن مِّن قَرۡيَةٍ عَتَتۡ عَنۡ أَمۡرِ رَبِّهَا وَرُسُلِهِۦ فَحَاسَبۡنَٰهَا حِسَابࣰ ا شَدِيدࣰ ا وَعَذَّبۡنَٰهَا عَذَابࣰ ا نُّكۡرࣰ ا",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "˹Imagine˺ how many societies rebelled against the commandments of their Lord and His messengers, so We called each ˹society˺ to a severe account and subjected them to a horrible punishment",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "有许多城市的居民，曾违抗他们的主和众使者的命令，我将严格地审训他们，严厉的惩罚他们。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "कितनी ही बस्तियाँ हैं जिन्होंने रब और उसके रसूलों के आदेश के मुक़ाबले में सरकशी की, तो हमने उनकी सख़्त पकड़ की और उन्हें बुरी यातना दी",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "¡A cuántos pueblos que desobedecieron a su Señor y a Sus Mensajeros los hice rendir cuentas en forma severa y los azoté con un castigo nunca visto",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Que de cités ont refusé avec insolence le commandement de leur Seigneur et de Ses messagers! Nous leur en demandâmes compte avec sévérité, et les châtiâmes d'un châtiment inouï",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "অনেক জনপদ তাদের পালনকর্তা ও তাঁর রসূলগণের আদেশ অমান্য করেছিল, অতঃপর আমি তাদেরকে কঠোর হিসাবে ধৃত করেছিলাম এবং তাদেরকে ভীষণ শাস্তি দিয়েছিলাম।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E que de cidades transgrediram, desmesuradamente, a ordem de seu Senhor e de Seus Mensageiros! Então, fizemo-las dar severa conta, e castigamo-las com terrível castigo",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Сколько городов ослушались повелений своего Господа и Его посланников! Мы представили им суровый счет и подвергли их ужасным мучениям",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور بہت سی بستیوں (کے رہنے والوں) نے اپنے پروردگار اور اس کے پیغمبروں کے احکام سے سرکشی کی تو ہم نے ان کو سخت حساب میں پکڑ لیا اور ان پر (ایسا) عذاب نازل کیا جو نہ دیکھا تھا نہ سنا",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_065_009",
+      "reference": {
+        "surah_number": 65,
+        "surah_name": "At-Talaaq",
+        "surah_name_ar": "سُوْرَةُ الطَّلَاقِ",
+        "surah_name_translation": "Divorce",
+        "ayah_number": 9,
+        "juz": 28,
+        "revelation_type": "Madina"
+      },
+      "arabic_word_count": 7,
+      "translations": {
+        "ar": {
+          "text": "فَذَاقَتۡ وَبَالَ أَمۡرِهَا وَكَانَ عَٰقِبَةُ أَمۡرِهَا خُسۡرًا",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "So they tasted the evil consequences of their doings, and the outcome of their doings was ˹total˺ loss",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "他们将尝试他们行为的恶果，他们的行为的结局是亏折的。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "अतः उन्होंने अपने किए के वबाल का मज़ा चख लिया और उनकी कार्य-नीति का परिणाम घाटा ही रहा",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Ellos sufrieron las consecuencias de sus obras. Su final fue la perdición",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Elles goûtèrent donc la conséquence de leur comportement. Et le résultat final de leurs actions fut [leur] perdition",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "অতঃপর তাদের কর্মের শাস্তি আস্বাদন করল এবং তাদের কর্মের পরিণাম ক্ষতিই ছিল।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Então, experimentaram a nefasta consequência de sua conduta; e o fim de sua conduta foi perdição",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Они вкусили пагубные последствия своих деяний, и исходом их деяний стал убыток",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "سو انہوں نے اپنے کاموں کی سزا کا مزہ چکھ لیا اور ان کا انجام نقصان ہی تو تھا",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_065_010",
+      "reference": {
+        "surah_number": 65,
+        "surah_name": "At-Talaaq",
+        "surah_name_ar": "سُوْرَةُ الطَّلَاقِ",
+        "surah_name_translation": "Divorce",
+        "ayah_number": 10,
+        "juz": 28,
+        "revelation_type": "Madina"
+      },
+      "arabic_word_count": 19,
+      "translations": {
+        "ar": {
+          "text": "أَعَدَّ ٱللَّهُ لَهُمۡ عَذَابࣰ ا شَدِيدࣰ اۖ فَٱتَّقُواْ ٱللَّهَ يَٰٓأُوْلِي ٱلۡأَلۡبَٰبِ ٱلَّذِينَ ءَامَنُواْۚ قَدۡ أَنزَلَ ٱللَّهُ إِلَيۡكُمۡ ذِكۡرࣰ ا",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Allah has ˹also˺ prepared for them a severe punishment. So fear Allah, O people of reason and faith. Allah has indeed revealed to you a Reminder",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "真主已为他们预备了严厉的刑罚。信道的有理智的人们啊！你们当敬畏真主。真主确已降示你们一种教训，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "अल्लाह ने उनके लिए कठोर यातना तैयार कर रखी है। अतः ऐ बुद्धि और समझवालो जो ईमान लाए हो! अल्लाह का डर रखो। अल्लाह ने तुम्हारी ओर एक याददिहानी उतार दी है",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "[A ellos] Dios les ha preparado un castigo severo. Tengan temor de Dios, ustedes que reflexionan y son creyentes, ya que Dios ha descendido para ustedes el Corán [para que lo tomen como código de vida]",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Allah a préparé pour eux un dur châtiment. Craignez Allah donc, ô vous qui êtes doués d'intelligence, vous qui avez la foi. Certes, Allah a fait descendre vers vous un rappel",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "আল্লাহ তাদের জন্যে যন্ত্রণাদায়ক শাস্তি প্রস্তত রেখেছেন অতএব, হে বুদ্ধিমানগণ, যারা ঈমান এনেছ, তোমরা আল্লাহকে ভয় কর। আল্লাহ তোমাদের প্রতি উপদেশ নাযিল করেছেন।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Allah preparou-lhes veemente castigo. Então, temei a Allah, ó vós dotados de discernimento, vós que credes! Com efeito, Allah fez descer, para vós, uma Mensagem",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Аллах приготовил для них тяжкие мучения. Бойтесь же Аллаха, о обладающие разумом, которые уверовали. Аллах уже ниспослал вам напоминание",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "خدا نے ان کے لئے سخت عذاب تیار کر رکھا ہے۔ تو اے ارباب دانش جو ایمان لائے ہو خدا سے ڈرو۔ خدا نے تمہارے پاس نصیحت (کی کتاب) بھیجی ہے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_065_011",
+      "reference": {
+        "surah_number": 65,
+        "surah_name": "At-Talaaq",
+        "surah_name_ar": "سُوْرَةُ الطَّلَاقِ",
+        "surah_name_translation": "Divorce",
+        "ayah_number": 11,
+        "juz": 28,
+        "revelation_type": "Madina"
+      },
+      "arabic_word_count": 37,
+      "translations": {
+        "ar": {
+          "text": "رَّسُولࣰ ا يَتۡلُواْ عَلَيۡكُمۡ ءَايَٰتِ ٱللَّهِ مُبَيِّنَٰتࣲ لِّيُخۡرِجَ ٱلَّذِينَ ءَامَنُواْ وَعَمِلُواْ ٱلصَّٰلِحَٰتِ مِنَ ٱلظُّلُمَٰتِ إِلَى ٱلنُّورِۚ وَمَن يُؤۡمِنۢ بِٱللَّهِ وَيَعۡمَلۡ صَٰلِحࣰ ا يُدۡخِلۡهُ جَنَّٰتࣲ تَجۡرِي مِن تَحۡتِهَا ٱلۡأَنۡهَٰرُ خَٰلِدِينَ فِيهَآ أَبَدࣰ اۖ قَدۡ أَحۡسَنَ ٱللَّهُ لَهُۥ رِزۡقًا",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "˹and sent˺ a messenger reciting to you Allah’s revelations, making things clear so that He may bring those who believe and do good out of darkness and into light. And whoever believes in Allah and does good will be admitted by Him into Gardens under which rivers flow, to stay there for ever and ever. Allah will have indeed granted them an excellent provision",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "并且派遣一位使者，对你们宣读真主的许多明显的迹象，以便他使信道而且行善的人们，脱离重重黑暗，走入光明。谁信道而且行善，真主将使谁入下临诸河的乐园，而永居其中。真主必定赏赐他们优美的给养。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "(अर्थात) एक रसूल जो तुम्हें अल्लाह की स्पष्ट आयतें पढ़कर सुनाता है, ताकि वह उन लोगों को, जो ईमान लाए और उन्होंने अच्छे कर्म किए, अँधेरों से निकालकर प्रकाश की ओर ले आए। जो कोई अल्लाह पर ईमान लाए और अच्छा कर्म करे, उसे वह ऐसे बाग़़ों में दाख़िल करेगा जिनके नीचे नहरें बह रही होगी - ऐसे लोग उनमें सदैव रहेंगे - अल्लाह ने उनके लिए उत्तम रोज़ी रखी है",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "y les ha enviado un Mensajero que les recita el claro Mensaje de Dios, para sacar de las tinieblas hacia la luz a quienes crean y obren correctamente. A quien crea en Dios y obre piadosamente, Él lo introducirá en jardines por donde corren ríos, en los que vivirán eternamente. ¡Qué hermoso sustento",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "un Messager qui vous récite les versets d'Allah comme preuves claires, afin de faire sortir ceux qui croient et accomplissent les bonnes œuvres des ténèbres à la lumière. Et quiconque croit en Allah et fait le bien, Il le fait entrer aux Jardins sous lesquels coulent les ruisseaux, pour y demeurer éternellement. Allah lui a fait une belle attribution",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "একজন রসূল, যিনি তোমাদের কাছে আল্লাহর সুস্পষ্ট আয়াতসমূহ পাঠ করেন, যাতে বিশ্বাসী ও সৎকর্মপরায়ণদের অন্ধকার থেকে আলোতে আনয়ন করেন। যে আল্লাহর প্রতি বিশ্বাস স্থাপন করে ও সৎকর্ম সম্পাদন করে, তিনি তাকে দাখিল করবেন জান্নাতে, যার তলদেশে নদী প্রবাহিত, তথায় তারা চিরকাল থাকবে। আল্লাহ তাকে উত্তম রিযিক দেবেন।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E enviou um Mensageiro, que recita, para vós, os versículos de Allah, evidentes para fazer sair das trevas para a luz, os que crêem e fazem as boas obras. E a quem crê em Allah e faz o bem, Ele o fará entrar em Jardins, abaixo dos quais correm os rios; nesses, serão eternos para todo o sempre. Com efeito, Allah lhe fará belo sustento",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Посланника, который читает вам ясные аяты Аллаха, чтобы вывести тех, которые уверовали и совершали праведные деяния, из мраков к свету. Тех, которые уверовали в Аллаха и поступали праведно, Аллах введет в Райские сады, в которых текут реки. Они пребудут там вечно. Аллах уже сделал их удел прекрасным",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "(اور اپنے) پیغمبر (بھی بھیجے ہیں) جو تمہارے سامنے خدا کی واضح المطالب آیتیں پڑھتے ہیں تاکہ جو لوگ ایمان لائے اور عمل نیک کرتے رہے ہیں ان کو اندھیرے سے نکال کر روشنی میں لے آئیں اور جو شخص ایمان لائے گا اور عمل نیک کرے گا ان کو باغہائے بہشت میں داخل کرے گا جن کے نیچے نہریں بہہ رہیں ہیں ابد الاآباد ان میں رہیں گے۔ خدا نے ان کو خوب رزق دیا ہے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_065_012",
+      "reference": {
+        "surah_number": 65,
+        "surah_name": "At-Talaaq",
+        "surah_name_ar": "سُوْرَةُ الطَّلَاقِ",
+        "surah_name_translation": "Divorce",
+        "ayah_number": 12,
+        "juz": 28,
+        "revelation_type": "Madina"
+      },
+      "arabic_word_count": 25,
+      "translations": {
+        "ar": {
+          "text": "ٱللَّهُ ٱلَّذِي خَلَقَ سَبۡعَ سَمَٰوَٰتࣲ وَمِنَ ٱلۡأَرۡضِ مِثۡلَهُنَّۖ يَتَنَزَّلُ ٱلۡأَمۡرُ بَيۡنَهُنَّ لِتَعۡلَمُوٓاْ أَنَّ ٱللَّهَ عَلَىٰ كُلِّ شَيۡءࣲ قَدِيرࣱ وَأَنَّ ٱللَّهَ قَدۡ أَحَاطَ بِكُلِّ شَيۡءٍ عِلۡمَۢا",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Allah is the One Who created seven heavens ˹in layers˺, and likewise for the earth. The ˹divine˺ command descends between them so you may know that Allah is Most Capable of everything and that Allah certainly encompasses all things in ˹His˺ knowledge",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "真主创造了七层天，和同样层数的大地，天命通过七层天而下降，以便你们知道，真主对于万事是全能的，真主是周知万物的。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "अल्लाह ही है जिसने सात आकाश बनाए और उन्ही के सदृश धरती से भी। उनके बीच (उसका) आदेश उतरता रहता है ताकि तुम जान लो कि अल्लाह को हर चीज़ का सामर्थ्य प्राप्त है और यह कि अल्लाह हर चीज़ को अपनी ज्ञान-परिधि में लिए हुए है",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Dios creó siete cielos y la Tierra de manera similar. A través de ellos desciende Su designio para que sepan que Dios tiene poder sobre todas las cosas y que todo lo abarca en Su conocimiento",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Allah qui a créé sept cieux et autant de terres. Entre eux [Son] commandement descend, afin que vous sachiez qu'Allah est en vérité Omnipotent et qu'Allah a embrassé toute chose de [Son] savoir",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "আল্লাহ সপ্তাকাশ সৃষ্টি করেছেন এবং পৃথিবীও সেই পরিমাণে, এসবের মধ্যে তাঁর আদেশ অবতীর্ণ হয়, যাতে তোমরা জানতে পার যে, আল্লাহ সর্বশক্তিমান এবং সবকিছু তাঁর গোচরীভূত।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Allah é Quem criou sete céus, e da terra, outras tantas, entre as quais a ordem desce, para que saibais que Allah, sobre todas as cousas, é Onipotente, e que Allah, com efeito, abarca todas as cousas, em ciência",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Аллах - Тот, Кто сотворил семь небес и столько же земель. Повеление нисходит между ними, чтобы вы знали, что Аллах способен на всякую вещь и что Аллах объемлет знанием всякую вещь",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "خدا ہی تو ہے جس نے سات آسمان پیدا کئے اور ایسی ہی زمینیں۔ ان میں (خدا کے) حکم اُترتے رہتے ہیں تاکہ تم لوگ جان لو کہ خدا چیز پر قادر ہے۔ اور یہ کہ خدا اپنے علم سے ہر چیز پر احاطہ کئے ہوئے ہے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    }
+  ]
+}

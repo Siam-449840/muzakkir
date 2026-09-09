@@ -1,0 +1,397 @@
+{
+  "surah": 107,
+  "verses": [
+    {
+      "content_id": "quran_107_001",
+      "reference": {
+        "surah_number": 107,
+        "surah_name": "Al-Maa'un",
+        "surah_name_ar": "سُوْرَةُ الْمَاعُوْنِ",
+        "surah_name_translation": "Almsgiving",
+        "ayah_number": 1,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 4,
+      "translations": {
+        "ar": {
+          "text": "أَرَءَيۡتَ ٱلَّذِي يُكَذِّبُ بِٱلدِّينِ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Have you seen the one who denies the ˹final˺ Judgment",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "你曾见否认报应日的人吗？",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "क्या तुमने उसे देखा जो दीन को झुठलाता है",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "¿Acaso has observado a quien desmiente el Día del Juicio",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Vois-tu celui qui traite de mensonge la Rétribution",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "আপনি কি দেখেছেন তাকে, যে বিচারদিবসকে মিথ্যা বলে?",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Viste quem desmente o Dia do Juízo",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Видел ли ты того, кто считает ложью воздаяние",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "بھلا تم نے اس شخص کو دیکھا جو (روزِ) جزا کو جھٹلاتا ہے؟",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_107_002",
+      "reference": {
+        "surah_number": 107,
+        "surah_name": "Al-Maa'un",
+        "surah_name_ar": "سُوْرَةُ الْمَاعُوْنِ",
+        "surah_name_translation": "Almsgiving",
+        "ayah_number": 2,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 4,
+      "translations": {
+        "ar": {
+          "text": "فَذَٰلِكَ ٱلَّذِي يَدُعُّ ٱلۡيَتِيمَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "That is the one who repulses the orphan",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "他就是那个呵斥孤儿",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "वही तो है जो अनाथ को धक्के देता है",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Es quien rechaza al huérfano",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "C'est bien lui qui repousse l'orphelin",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "সে সেই ব্যক্তি, যে এতীমকে গলা ধাক্কা দেয়",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Esse é o que repele o órfão",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Это - тот, кто гонит сироту",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "یہ وہی (بدبخت) ہے، جو یتیم کو دھکے دیتا ہے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_107_003",
+      "reference": {
+        "surah_number": 107,
+        "surah_name": "Al-Maa'un",
+        "surah_name_ar": "سُوْرَةُ الْمَاعُوْنِ",
+        "surah_name_translation": "Almsgiving",
+        "ayah_number": 3,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 5,
+      "translations": {
+        "ar": {
+          "text": "وَلَا يَحُضُّ عَلَىٰ طَعَامِ ٱلۡمِسۡكِينِ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "and does not encourage the feeding of the poor",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "且不勉励人赈济贫民的人。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "और मुहताज के खिलाने पर नहीं उकसाता",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "y no exhorta a alimentar al pobre",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "et qui n'encourage point à nourrir le pauvre",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "এবং মিসকীনকে অন্ন দিতে উৎসাহিত করে না।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E não incitava ninguém a alimentar o necessitado",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "и не побуждает накормить бедняка",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور فقیر کو کھانا کھلانے کے لیے (لوگوں کو) ترغیب نہیں دیتا",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_107_004",
+      "reference": {
+        "surah_number": 107,
+        "surah_name": "Al-Maa'un",
+        "surah_name_ar": "سُوْرَةُ الْمَاعُوْنِ",
+        "surah_name_translation": "Almsgiving",
+        "ayah_number": 4,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 2,
+      "translations": {
+        "ar": {
+          "text": "فَوَيۡلࣱ لِّلۡمُصَلِّينَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "So woe to those ˹hypocrites˺ who pray",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "伤哉！礼拜的人们",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "अतः तबाही है उन नमाज़ियों के लिए",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "¡Ay de los orantes",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Malheur donc, à ceux qui prient",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "অতএব দুর্ভোগ সেসব নামাযীর,",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Então, ai dos orantes",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Горе молящимся",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "تو ایسے نمازیوں کی خرابی ہے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_107_005",
+      "reference": {
+        "surah_number": 107,
+        "surah_name": "Al-Maa'un",
+        "surah_name_ar": "سُوْرَةُ الْمَاعُوْنِ",
+        "surah_name_translation": "Almsgiving",
+        "ayah_number": 5,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 5,
+      "translations": {
+        "ar": {
+          "text": "ٱلَّذِينَ هُمۡ عَن صَلَاتِهِمۡ سَاهُونَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "yet are unmindful of their prayers",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "他们是忽视拜功的",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "जो अपनी नमाज़ से ग़ाफिल (असावधान) हैं",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "que son negligentes en sus oraciones [realizándolas fuera de su horario]",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "tout en négligeant (et retardant) leur Salât",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "যারা তাদের নামায সম্বন্ধে বে-খবর;",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Que são distraídos de suas orações",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "которые небрежны к своим намазам",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "جو نماز کی طرف سے غافل رہتے ہیں",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_107_006",
+      "reference": {
+        "surah_number": 107,
+        "surah_name": "Al-Maa'un",
+        "surah_name_ar": "سُوْرَةُ الْمَاعُوْنِ",
+        "surah_name_translation": "Almsgiving",
+        "ayah_number": 6,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 3,
+      "translations": {
+        "ar": {
+          "text": "ٱلَّذِينَ هُمۡ يُرَآءُونَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "those who ˹only˺ show off",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "他们是沽名钓誉的",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "जो दिखावे के लिए कार्य करते हैं",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "y solo las realizan para hacerse ver",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "qui sont pleins d'ostentation",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "যারা তা লোক-দেখানোর জন্য করে",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Que, por ostentação, só querem ser vistos orando",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "которые лицемерят",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "جو ریا کاری کرتے ہیں",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_107_007",
+      "reference": {
+        "surah_number": 107,
+        "surah_name": "Al-Maa'un",
+        "surah_name_ar": "سُوْرَةُ الْمَاعُوْنِ",
+        "surah_name_translation": "Almsgiving",
+        "ayah_number": 7,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 2,
+      "translations": {
+        "ar": {
+          "text": "وَيَمۡنَعُونَ ٱلۡمَاعُونَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "and refuse to give ˹even the simplest˺ aid",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "他们是不肯借人什物的。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "और साधारण बरतने की चीज़ भी किसी को नहीं देते",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "y se niegan a prestar hasta la mínima ayuda",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "et refusent l'ustensile (à celui qui en a besoin)",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "এবং নিত্য ব্যবহার্য্য বস্তু অন্যকে দেয় না।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E impedem o adjutório",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "и отказывают даже в мелочи",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور برتنے کی چیزیں عاریتہً نہیں دیتے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    }
+  ]
+}

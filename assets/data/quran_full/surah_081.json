@@ -1,0 +1,1629 @@
+{
+  "surah": 81,
+  "verses": [
+    {
+      "content_id": "quran_081_001",
+      "reference": {
+        "surah_number": 81,
+        "surah_name": "At-Takwir",
+        "surah_name_ar": "سُوْرَةُ التَّكْوِيْرِ",
+        "surah_name_translation": "The Overthrowing",
+        "ayah_number": 1,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 3,
+      "translations": {
+        "ar": {
+          "text": "إِذَا ٱلشَّمۡسُ كُوِّرَتۡ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "When the sun is put out",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "当太阳黯黜的时候，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "जब सूर्य लपेट दिया जाएगा",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Cuando el Sol se contraiga [y oscurezca]",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Quand le soleil sera obscurci",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "যখন সূর্য আলোহীন হয়ে যাবে,",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Quando o sol for enrolado",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Когда солнце будет свернуто (или потеряет свое сияние, или будет выброшено)",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "جب سورج لپیٹ لیا جائے گا",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_081_002",
+      "reference": {
+        "surah_number": 81,
+        "surah_name": "At-Takwir",
+        "surah_name_ar": "سُوْرَةُ التَّكْوِيْرِ",
+        "surah_name_translation": "The Overthrowing",
+        "ayah_number": 2,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 3,
+      "translations": {
+        "ar": {
+          "text": "وَإِذَا ٱلنُّجُومُ ٱنكَدَرَتۡ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "and when the stars fall down",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "当星宿零落的时候，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "सारे तारे मैले हो जाएँगे",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "cuando las estrellas pierdan su luz",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "et que les étoiles deviendront ternes",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "যখন নক্ষত্র মলিন হয়ে যাবে,",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E quando as estrelas se tombarem",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "когда падут звезды",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "جب تارے بےنور ہو جائیں گے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_081_003",
+      "reference": {
+        "surah_number": 81,
+        "surah_name": "At-Takwir",
+        "surah_name_ar": "سُوْرَةُ التَّكْوِيْرِ",
+        "surah_name_translation": "The Overthrowing",
+        "ayah_number": 3,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 3,
+      "translations": {
+        "ar": {
+          "text": "وَإِذَا ٱلۡجِبَالُ سُيِّرَتۡ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "and when the mountains are blown away",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "当山峦崩溃的时候，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "जब पहाड़ चलाए जाएँगे",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "cuando las montañas sean pulverizadas",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "et les montagnes mises en marche",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "যখন পর্বতমালা অপসারিত হবে,",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E quando as montanhas forem movidas",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "когда горы будут сдвинуты с мест (или приведены в движение)",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور جب پہاڑ چلائے جائیں گے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_081_004",
+      "reference": {
+        "surah_number": 81,
+        "surah_name": "At-Takwir",
+        "surah_name_ar": "سُوْرَةُ التَّكْوِيْرِ",
+        "surah_name_translation": "The Overthrowing",
+        "ayah_number": 4,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 3,
+      "translations": {
+        "ar": {
+          "text": "وَإِذَا ٱلۡعِشَارُ عُطِّلَتۡ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "and when pregnant camels are left untended",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "当孕驼被抛弃的时候，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "जब दस मास की गाभिन ऊँटनियाँ आज़ाद छोड़ दी जाएँगी",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "cuando las camellas preñadas sean dejadas de lado",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "et les chamelles à terme, négligées",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "যখন দশ মাসের গর্ভবতী উষ্ট্রীসমূহ উপেক্ষিত হবে;",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E quando os camelos fêmeas, prestes a dar à luz, forem descurados",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "когда верблюдицы на десятом месяце беременности останутся без присмотра",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور جب بیانے والی اونٹنیاں بےکار ہو جائیں گی",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_081_005",
+      "reference": {
+        "surah_number": 81,
+        "surah_name": "At-Takwir",
+        "surah_name_ar": "سُوْرَةُ التَّكْوِيْرِ",
+        "surah_name_translation": "The Overthrowing",
+        "ayah_number": 5,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 3,
+      "translations": {
+        "ar": {
+          "text": "وَإِذَا ٱلۡوُحُوشُ حُشِرَتۡ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "and when wild beasts are gathered together",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "当野兽被集合的时候，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "जब जंगली जानवर एकत्र किए जाएँगे",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "cuando las bestias salvajes sean acorraladas",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "et les bêtes farouches, rassemblées",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "যখন বন্য পশুরা একত্রিত হয়ে যাবে,",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E quando as feras forem reunidas",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "когда дикие звери будут собраны",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور جب وحشی جانور جمع اکٹھے ہو جائیں گے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_081_006",
+      "reference": {
+        "surah_number": 81,
+        "surah_name": "At-Takwir",
+        "surah_name_ar": "سُوْرَةُ التَّكْوِيْرِ",
+        "surah_name_translation": "The Overthrowing",
+        "ayah_number": 6,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 3,
+      "translations": {
+        "ar": {
+          "text": "وَإِذَا ٱلۡبِحَارُ سُجِّرَتۡ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "and when the seas are set on fire",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "当海洋澎湃的时候，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "जब समुद्र भड़का दिया जाएँगे",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "cuando los mares hiervan y se desborden",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "et les mers allumées",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "যখন সমুদ্রকে উত্তাল করে তোলা হবে,",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E quando os mares forem abrasados",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "когда моря запылают (или переполнятся; или опустеют; или перемешаются; или станут красными)",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور جب دریا آگ ہو جائیں گے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_081_007",
+      "reference": {
+        "surah_number": 81,
+        "surah_name": "At-Takwir",
+        "surah_name_ar": "سُوْرَةُ التَّكْوِيْرِ",
+        "surah_name_translation": "The Overthrowing",
+        "ayah_number": 7,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 3,
+      "translations": {
+        "ar": {
+          "text": "وَإِذَا ٱلنُّفُوسُ زُوِّجَتۡ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "and when the souls ˹and their bodies˺ are paired ˹once more˺",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "当灵魂被配合的时候，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "जब लोग क़िस्म-क़िस्म कर दिए जाएँगे",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "cuando las almas vuelvan a emparejarse [con sus cuerpos]",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "et les âmes accouplées",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "যখন আত্মাসমূহকে যুগল করা হবে,",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E quando as almas forem parelhadas",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "когда души объединятся (праведники объединятся с праведниками, а грешники - с грешниками; или праведники соединятся с райскими гуриями, а неверующие - с дьяволами; или души соединятся с телами)",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور جب روحیں (بدنوں سے) ملا دی جائیں گی",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_081_008",
+      "reference": {
+        "surah_number": 81,
+        "surah_name": "At-Takwir",
+        "surah_name_ar": "سُوْرَةُ التَّكْوِيْرِ",
+        "surah_name_translation": "The Overthrowing",
+        "ayah_number": 8,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 3,
+      "translations": {
+        "ar": {
+          "text": "وَإِذَا ٱلۡمَوۡءُۥدَةُ سُئِلَتۡ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "and when baby girls, buried alive, are asked",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "当被活埋的女孩被询问的时候：",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "और जब जीवित गाड़ी गई लड़की से पूछा जाएगा",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "cuando se le pregunte a las niñas que fueron enterradas vivas",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "et qu'on demandera à la fillette enterrée vivante",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "যখন জীবন্ত প্রোথিত কন্যাকে জিজ্ঞেস করা হবে,",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E quando a filha, enterrada viva, for interrogada",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "когда зарытую живьем спросят",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور جب لڑکی سے جو زندہ دفنا دی گئی ہو پوچھا جائے گا",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_081_009",
+      "reference": {
+        "surah_number": 81,
+        "surah_name": "At-Takwir",
+        "surah_name_ar": "سُوْرَةُ التَّكْوِيْرِ",
+        "surah_name_translation": "The Overthrowing",
+        "ayah_number": 9,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 3,
+      "translations": {
+        "ar": {
+          "text": "بِأَيِّ ذَنۢبࣲ قُتِلَتۡ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "for what crime they were put to death",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "她为什么罪过而遭杀害呢？",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "कि उसकी हत्या किस गुनाह के कारण की गई",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "por qué pecado las mataron",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "pour quel péché elle a été tuée",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "কি অপরাধে তাকে হত্য করা হল?",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Por que delito fora morta",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "за какой грех ее убили",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "کہ وہ کس گناہ پرماری گئی",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_081_010",
+      "reference": {
+        "surah_number": 81,
+        "surah_name": "At-Takwir",
+        "surah_name_ar": "سُوْرَةُ التَّكْوِيْرِ",
+        "surah_name_translation": "The Overthrowing",
+        "ayah_number": 10,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 3,
+      "translations": {
+        "ar": {
+          "text": "وَإِذَا ٱلصُّحُفُ نُشِرَتۡ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "and when the records ˹of deeds˺ are laid open",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "当功过簿被展开的时候，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "और जब कर्म-पत्र फैला दिए जाएँगे",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "cuando los registros [de las obras] sean repartidos",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Et quand les feuilles seront déployées",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "যখন আমলনামা খোলা হবে,",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E quando as páginas forem desenroladas",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "когда свитки с деяниями рабов будут развернуты",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور جب (عملوں کے) دفتر کھولے جائیں گے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_081_011",
+      "reference": {
+        "surah_number": 81,
+        "surah_name": "At-Takwir",
+        "surah_name_ar": "سُوْرَةُ التَّكْوِيْرِ",
+        "surah_name_translation": "The Overthrowing",
+        "ayah_number": 11,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 3,
+      "translations": {
+        "ar": {
+          "text": "وَإِذَا ٱلسَّمَآءُ كُشِطَتۡ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "and when the sky is stripped away",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "当天皮被揭去的时候，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "और जब आकाश की खाल उतार दी जाएगी",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "cuando la bóveda celeste desaparezca",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "et le ciel écorché",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "যখন আকাশের আবরণ অপসারিত হবে,",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E quando o céu for esfolado",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "когда небо будет сдернуто",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور جب آسمانوں کی کھال کھینچ لی جائے گی",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_081_012",
+      "reference": {
+        "surah_number": 81,
+        "surah_name": "At-Takwir",
+        "surah_name_ar": "سُوْرَةُ التَّكْوِيْرِ",
+        "surah_name_translation": "The Overthrowing",
+        "ayah_number": 12,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 3,
+      "translations": {
+        "ar": {
+          "text": "وَإِذَا ٱلۡجَحِيمُ سُعِّرَتۡ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "and when the Hellfire is fiercely flared up",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "当火狱被燃著的时候，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "जब जहन्नम को दहकाया जाएगा",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "cuando el fuego del Infierno sea avivado",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "et la fournaise attisée",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "যখন জাহান্নামের অগ্নি প্রজ্বলিত করা হবে",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E quando o Inferno for atiçado",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "когда Ад будет разожжен с новой силой",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور جب دوزخ (کی آگ) بھڑکائی جائے گی",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_081_013",
+      "reference": {
+        "surah_number": 81,
+        "surah_name": "At-Takwir",
+        "surah_name_ar": "سُوْرَةُ التَّكْوِيْرِ",
+        "surah_name_translation": "The Overthrowing",
+        "ayah_number": 13,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 3,
+      "translations": {
+        "ar": {
+          "text": "وَإِذَا ٱلۡجَنَّةُ أُزۡلِفَتۡ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "and when Paradise is brought near—",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "当乐园被送近的时候，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "और जब जन्नत निकट कर दी जाएगी",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "y cuando el Paraíso sea acercado",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "et le Paradis rapproché",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "এবং যখন জান্নাত সন্নিকটবর্তী হবে,",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E quando o Paraíso for aproximado",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "когда Рай будет приближен к праведникам",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور بہشت جب قریب لائی جائے گی",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_081_014",
+      "reference": {
+        "surah_number": 81,
+        "surah_name": "At-Takwir",
+        "surah_name_ar": "سُوْرَةُ التَّكْوِيْرِ",
+        "surah_name_translation": "The Overthrowing",
+        "ayah_number": 14,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 4,
+      "translations": {
+        "ar": {
+          "text": "عَلِمَتۡ نَفۡسࣱ مَّآ أَحۡضَرَتۡ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "˹on that Day˺ each soul will know what ˹deeds˺ it has brought along",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "每个人都知道他所作过的善恶。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "तो कोई भी क्यक्ति जान लेगा कि उसने क्या उपस्थित किया है",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "En ese momento sabrá cada alma el resultado de sus obras",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "chaque âme saura ce qu'elle a présenté",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "তখন প্রত্যেকেই জেনে নিবে সে কি উপস্থিত করেছে।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Toda alma saberá o que realizou",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "тогда познает душа, что она принесла",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "تب ہر شخص معلوم کر لے گا کہ وہ کیا لے کر آیا ہے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_081_015",
+      "reference": {
+        "surah_number": 81,
+        "surah_name": "At-Takwir",
+        "surah_name_ar": "سُوْرَةُ التَّكْوِيْرِ",
+        "surah_name_translation": "The Overthrowing",
+        "ayah_number": 15,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 3,
+      "translations": {
+        "ar": {
+          "text": "فَلَآ أُقۡسِمُ بِٱلۡخُنَّسِ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "I do swear by the receding stars",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "我誓以运行的众星",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "अतः नहीं! मैं क़सम खाता हूँ पीछे हटनेवालों की",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Juro por los astros",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Non!... Je jure par les planètes qui gravitent",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "আমি শপথ করি যেসব নক্ষত্রগুলো পশ্চাতে সরে যায়।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Então, juro pelos planetas absconsos",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Но нет! Клянусь телами небесными - отступающими",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "ہم کو ان ستاروں کی قسم جو پیچھے ہٹ جاتے ہیں",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_081_016",
+      "reference": {
+        "surah_number": 81,
+        "surah_name": "At-Takwir",
+        "surah_name_ar": "سُوْرَةُ التَّكْوِيْرِ",
+        "surah_name_translation": "The Overthrowing",
+        "ayah_number": 16,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 2,
+      "translations": {
+        "ar": {
+          "text": "ٱلۡجَوَارِ ٱلۡكُنَّسِ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "which travel and hide",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "没落的行星，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "चलनेवालों, छिपने-दुबकने-वालों की",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "que recorren sus órbitas",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "qui courent et disparaissent",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "চলমান হয় ও অদৃশ্য হয়,",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Que correm e se escondem",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "передвигающимися и исчезающими",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "(اور) جو سیر کرتے اور غائب ہو جاتے ہیں",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_081_017",
+      "reference": {
+        "surah_number": 81,
+        "surah_name": "At-Takwir",
+        "surah_name_ar": "سُوْرَةُ التَّكْوِيْرِ",
+        "surah_name_translation": "The Overthrowing",
+        "ayah_number": 17,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 3,
+      "translations": {
+        "ar": {
+          "text": "وَٱلَّيۡلِ إِذَا عَسۡعَسَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "and the night as it falls",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "和逝去时的黑夜，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "साक्षी है रात्रि जब वह प्रस्थान करे",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "y [juro] por la noche cuando extiende su oscuridad",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "par la nuit quand elle survient",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "শপথ নিশাবসান ও",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E pela noite, quando se vai",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Клянусь ночью, когда она наступила (или отступила)",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور رات کی قسم جب ختم ہونے لگتی ہے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_081_018",
+      "reference": {
+        "surah_number": 81,
+        "surah_name": "At-Takwir",
+        "surah_name_ar": "سُوْرَةُ التَّكْوِيْرِ",
+        "surah_name_translation": "The Overthrowing",
+        "ayah_number": 18,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 3,
+      "translations": {
+        "ar": {
+          "text": "وَٱلصُّبۡحِ إِذَا تَنَفَّسَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "and the day as it breaks",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "照耀时的早晨，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "और साक्षी है प्रातः जब वह साँस ले",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "y [juro] por la mañana cuando extiende su luminosidad",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "et par l'aube quand elle exhale son souffle",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "প্রভাত আগমন কালের,",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E pela manhã, quando respira",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Клянусь рассветом, когда он забрезжил",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور صبح کی قسم جب نمودار ہوتی ہے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_081_019",
+      "reference": {
+        "surah_number": 81,
+        "surah_name": "At-Takwir",
+        "surah_name_ar": "سُوْرَةُ التَّكْوِيْرِ",
+        "surah_name_translation": "The Overthrowing",
+        "ayah_number": 19,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 4,
+      "translations": {
+        "ar": {
+          "text": "إِنَّهُۥ لَقَوۡلُ رَسُولࣲ كَرِيمࣲ‏",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Indeed, this ˹Quran˺ is the Word of ˹Allah delivered by Gabriel,˺ a noble messenger-angel",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "这确是一个尊贵的使者的言辞，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "निश्चय ही वह एक आदरणीय संदेशवाहक की लाई हुई वाणी है",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "que [el Corán] es la palabra [de Dios transmitida] por un emisario noble",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Ceci [le Coran] est la parole d'un noble Messager",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "নিশ্চয় কোরআন সম্মানিত রসূলের আনীত বাণী,",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Por certo, ele é o dito de um nobre Mensageiro",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Это - слова благородного посланца",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "کہ بےشک یہ (قرآن) فرشتہٴ عالی مقام کی زبان کا پیغام ہے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_081_020",
+      "reference": {
+        "surah_number": 81,
+        "surah_name": "At-Takwir",
+        "surah_name_ar": "سُوْرَةُ التَّكْوِيْرِ",
+        "surah_name_translation": "The Overthrowing",
+        "ayah_number": 20,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 6,
+      "translations": {
+        "ar": {
+          "text": "ذِي قُوَّةٍ عِندَ ذِي ٱلۡعَرۡشِ مَكِينࣲ‏",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "full of power, held in honour by the Lord of the Throne",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "他在宝座的主那里，是有权力的，是有地位的，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "जो शक्तिवाला है, सिंहासनवाले के यहाँ जिसकी पैठ है",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "dotado de poder y distinción ante el Señor del Trono",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "doué d'une grande force, et ayant un rang élevé auprès du Maître du Trône",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "যিনি শক্তিশালী, আরশের মালিকের নিকট মর্যাদাশালী,",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "De grande força, prestigiado junto do Possuidor do Trono",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "обладателя силы при Владыке Трона, почитаемого",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "جو صاحب قوت مالک عرش کے ہاں اونچے درجے والا ہے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_081_021",
+      "reference": {
+        "surah_number": 81,
+        "surah_name": "At-Takwir",
+        "surah_name_ar": "سُوْرَةُ التَّكْوِيْرِ",
+        "surah_name_translation": "The Overthrowing",
+        "ayah_number": 21,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 3,
+      "translations": {
+        "ar": {
+          "text": "مُّطَاعࣲ ثَمَّ أَمِينࣲ‏",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "obeyed there ˹in heaven˺, and trustworthy",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "是众望所归，而且忠於职守的。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "उसका आदेश माना जाता है, वहाँ वह विश्वासपात्र है",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "El obedecido [por otros ángeles] y el digno confidente [de la revelación]",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "obéi, là-haut, et digne de confiance",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "সবার মান্যবর, সেখানকার বিশ্বাসভাজন।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "A quem se obedece, lá; leal",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "которому там (на небесах) повинуются, доверенного",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "سردار (اور) امانت دار ہے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_081_022",
+      "reference": {
+        "surah_number": 81,
+        "surah_name": "At-Takwir",
+        "surah_name_ar": "سُوْرَةُ التَّكْوِيْرِ",
+        "surah_name_translation": "The Overthrowing",
+        "ayah_number": 22,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 3,
+      "translations": {
+        "ar": {
+          "text": "وَمَا صَاحِبُكُم بِمَجۡنُونࣲ‏",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "And your fellow man is not insane",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "你们的朋友，不是一个疯人，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "तुम्हारा साथी कोई दीवाना नहीं",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "[Sepan que] su compañero [el Profeta Mujámmad] no es un loco",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Votre compagnon (Muhammad) n'est nullement fou",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "এবং তোমাদের সাথী পাগল নন।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E vosso companheiro não é louco",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Ваш товарищ (Мухаммад) не является одержимым",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور (مکے والو) تمہارے رفیق (یعنی محمدﷺ) دیوانے نہیں ہیں",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_081_023",
+      "reference": {
+        "surah_number": 81,
+        "surah_name": "At-Takwir",
+        "surah_name_ar": "سُوْرَةُ التَّكْوِيْرِ",
+        "surah_name_translation": "The Overthrowing",
+        "ayah_number": 23,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 4,
+      "translations": {
+        "ar": {
+          "text": "وَلَقَدۡ رَءَاهُ بِٱلۡأُفُقِ ٱلۡمُبِينِ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "And he did see that ˹angel˺ on the clear horizon",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "他确已看见那个天使在明显的天边，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "उसने तो (पराकाष्ठान के) प्रत्यक्ष क्षितिज पर होकर उस (फ़रिश्ते) को देखा है",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "lo vio [al ángel Gabriel] en el horizonte claro",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "il l'a effectivement vu (Gabriel), au clair horizon",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "তিনি সেই ফেরেশতাকে প্রকাশ্য দিগন্তে দেখেছেন।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E, com efeito, ele o viu, no evidente horizonte",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Он видел его (Джибрила) на ясном горизонте",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "بےشک انہوں نے اس (فرشتے) کو (آسمان کے کھلے یعنی) مشرقی کنارے پر دیکھا ہے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_081_024",
+      "reference": {
+        "surah_number": 81,
+        "surah_name": "At-Takwir",
+        "surah_name_ar": "سُوْرَةُ التَّكْوِيْرِ",
+        "surah_name_translation": "The Overthrowing",
+        "ayah_number": 24,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 5,
+      "translations": {
+        "ar": {
+          "text": "وَمَا هُوَ عَلَى ٱلۡغَيۡبِ بِضَنِينࣲ‏",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "and he does not withhold ˹what is revealed to him of˺ the unseen",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "他对幽玄不是吝教的。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "और वह परोक्ष के मामले में कृपण नहीं है",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "no oculta nada de lo que le fue revelado",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "et il ne garde pas avarement pour lui-même ce qui lui a été révélé",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "তিনি অদৃশ্য বিষয় বলতে কৃপনতা করেন না।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E ele não é avaro quanto ao Invisível",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "и не скупится передать сокровенное",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور وہ پوشیدہ باتوں (کے ظاہر کرنے) میں بخیل نہیں",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_081_025",
+      "reference": {
+        "surah_number": 81,
+        "surah_name": "At-Takwir",
+        "surah_name_ar": "سُوْرَةُ التَّكْوِيْرِ",
+        "surah_name_translation": "The Overthrowing",
+        "ayah_number": 25,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 5,
+      "translations": {
+        "ar": {
+          "text": "وَمَا هُوَ بِقَوۡلِ شَيۡطَٰنࣲ رَّجِيمࣲ‏",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "And this ˹Quran˺ is not the word of an outcast devil",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "这不是被放逐的恶魔的言辞，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "और वह (क़ुरआन) किसी धुतकारे हुए शैतान की लाई हुई वाणी नहीं है",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "[El Corán] no es la palabra de un demonio maldito",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Et ceci [le Coran] n'est point la parole d'un diable banni",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "এটা বিতাড়িত শয়তানের উক্তি নয়।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E ele não é um dito de demônio maldito",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Это - не речи дьявола изгнанного, побиваемого",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور یہ شیطان مردود کا کلام نہیں",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_081_026",
+      "reference": {
+        "surah_number": 81,
+        "surah_name": "At-Takwir",
+        "surah_name_ar": "سُوْرَةُ التَّكْوِيْرِ",
+        "surah_name_translation": "The Overthrowing",
+        "ayah_number": 26,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 2,
+      "translations": {
+        "ar": {
+          "text": "فَأَيۡنَ تَذۡهَبُونَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "So what ˹other˺ path would you take",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "然则, 你们将往那里去呢？",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "फिर तुम किधर जा रहे हो",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "¿A dónde irán [con ese argumento]",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Où allez-vous donc",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "অতএব, তোমরা কোথায় যাচ্ছ?",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Então, aonde ides",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Куда же вы направляетесь",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "پھر تم کدھر جا رہے ہو",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_081_027",
+      "reference": {
+        "surah_number": 81,
+        "surah_name": "At-Takwir",
+        "surah_name_ar": "سُوْرَةُ التَّكْوِيْرِ",
+        "surah_name_translation": "The Overthrowing",
+        "ayah_number": 27,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 5,
+      "translations": {
+        "ar": {
+          "text": "إِنۡ هُوَ إِلَّا ذِكۡرࣱ لِّلۡعَٰلَمِينَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Surely this ˹Quran˺ is only a reminder to the whole world—",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "这只是对於全世界的教诲",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "वह तो सारे संसार के लिए बस एक अनुस्मृति है",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "[El Corán] es un Mensaje para toda la humanidad",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Ceci n'est qu'un rappel pour l'univers",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "এটা তো কেবল বিশ্বাবাসীদের জন্যে উপদেশ,",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Ele não é senão lembrança para os mundos",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Это - лишь Напоминание мирам",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "یہ تو جہان کے لوگوں کے لیے نصیحت ہے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_081_028",
+      "reference": {
+        "surah_number": 81,
+        "surah_name": "At-Takwir",
+        "surah_name_ar": "سُوْرَةُ التَّكْوِيْرِ",
+        "surah_name_translation": "The Overthrowing",
+        "ayah_number": 28,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 5,
+      "translations": {
+        "ar": {
+          "text": "لِمَن شَآءَ مِنكُمۡ أَن يَسۡتَقِيمَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "to whoever of you wills to take the Straight Way",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "对於你们中欲循规蹈矩者的教诲，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "उसके लिए तो तुममे से सीधे मार्ग पर चलना चाहे",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "para que se encamine quien quiera",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "pour celui d'entre vous qui veut suivre le chemin droit",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "তার জন্যে, যে তোমাদের মধ্যে সোজা চলতে চায়।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Para quem, dentre vós, queira ser reto",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "тем из вас, кто желает следовать прямым путем",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "(یعنی) اس کے لیے جو تم میں سے سیدھی چال چلنا چاہے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_081_029",
+      "reference": {
+        "surah_number": 81,
+        "surah_name": "At-Takwir",
+        "surah_name_ar": "سُوْرَةُ التَّكْوِيْرِ",
+        "surah_name_translation": "The Overthrowing",
+        "ayah_number": 29,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 8,
+      "translations": {
+        "ar": {
+          "text": "وَمَا تَشَآءُونَ إِلَّآ أَن يَشَآءَ ٱللَّهُ رَبُّ ٱلۡعَٰلَمِينَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "But you cannot will ˹to do so˺, except by the Will of Allah, the Lord of all worlds",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "你们不欲循规蹈矩，除非真主--全世界的主--意欲的时候。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "और तुम नहीं चाह सकते सिवाय इसके कि सारे जहान का रब अल्लाह चाहे",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Pero sepan que solo se encaminará quien quiera Dios, Señor del universo",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Mais vous ne pouvez vouloir, que si Allah veut, [Lui], le Seigneur de l'Univers",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "তোমরা আল্লাহ রাব্বুল আলামীনের অভিপ্রায়ের বাইরে অন্য কিছুই ইচ্ছা করতে পার না।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Mas não o querereis, a não ser que Allah, O Senhor dos mundos, o queira",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Но вы не пожелаете этого, если этого не пожелает Аллах, Господь миров",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور تم کچھ بھی نہیں چاہ سکتے مگر وہی جو خدائے رب العالمین چاہے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "book_key": "ramadaner-durbol-hadis",
+  "raw_key": "ramadaner-durbol-hadis",
+  "id": 25,
+  "title_bn": "রমজানের দুর্বল হাদিস",
+  "title_en": "Ramadaner Durbol Hadith",
+  "title_ar": "حديث ضعيف في رمضان",
+  "total_hadiths": 36,
+  "total_chapters": 1,
+  "total_sections": 1,
+  "chapters": [
+    {
+      "id": 1,
+      "display_label": "১",
+      "title": "রমযান বিষয়ে জাল ও দুর্বল হাদিসসমূহ",
+      "arabic_title": "",
+      "preface": "",
+      "range": "১ - ৩৬",
+      "order": 1,
+      "hadith_count": 36,
+      "sections_count": 1,
+      "sections": [
+        {
+          "id": 1,
+          "chapter_id": 1,
+          "display_label": "১/১. অধ্যায়ঃ",
+          "title": "রমযান বিষয়ে জাল ও দুর্বল হাদিসসমূহ",
+          "arabic_title": "",
+          "preface": "",
+          "order": 1,
+          "hadith_count": 36
+        }
+      ]
+    }
+  ]
+}

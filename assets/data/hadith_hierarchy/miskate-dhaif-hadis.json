@@ -1,0 +1,185 @@
+{
+  "book_key": "miskate-dhaif-hadis",
+  "raw_key": "miskate-dhaif-hadis",
+  "id": 20,
+  "title_bn": "মিশকাতে জয়িফ হাদিস",
+  "title_en": "Mishkat Dhaif Hadith",
+  "title_ar": "جويف الحديث في مشكا",
+  "total_hadiths": 106,
+  "total_chapters": 4,
+  "total_sections": 12,
+  "chapters": [
+    {
+      "id": 1,
+      "display_label": "১",
+      "title": "ঈমান",
+      "arabic_title": "",
+      "preface": "",
+      "range": "১ - ২০",
+      "order": 1,
+      "hadith_count": 20,
+      "sections_count": 4,
+      "sections": [
+        {
+          "id": 1,
+          "chapter_id": 1,
+          "display_label": "১/১. অধ্যায়ঃ",
+          "title": "ঈমান",
+          "arabic_title": "",
+          "preface": "",
+          "order": 1,
+          "hadith_count": 4
+        },
+        {
+          "id": 2,
+          "chapter_id": 1,
+          "display_label": "১/২. অধ্যায়ঃ",
+          "title": "কাবীরা গোনাহ ও মুনাফিকীর নিদর্শন",
+          "arabic_title": "",
+          "preface": "",
+          "order": 2,
+          "hadith_count": 2
+        },
+        {
+          "id": 3,
+          "chapter_id": 1,
+          "display_label": "১/৩. অধ্যায়ঃ",
+          "title": "কুমন্ত্রণা",
+          "arabic_title": "",
+          "preface": "",
+          "order": 3,
+          "hadith_count": 2
+        },
+        {
+          "id": 4,
+          "chapter_id": 1,
+          "display_label": "১/৪. অধ্যায়ঃ",
+          "title": "তাক্বদীরে বিশ্বাস",
+          "arabic_title": "",
+          "preface": "",
+          "order": 4,
+          "hadith_count": 12
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "display_label": "২",
+      "title": "কিতাব সুন্নাহকে দৃঢ়ভাবে আঁকড়ে ধরা",
+      "arabic_title": "",
+      "preface": "",
+      "range": "২১ - ৪০",
+      "order": 2,
+      "hadith_count": 20,
+      "sections_count": 1,
+      "sections": [
+        {
+          "id": 5,
+          "chapter_id": 2,
+          "display_label": "২/১. অধ্যায়ঃ",
+          "title": "কিতাব সুন্নাহকে দৃঢ়ভাবে আঁকড়ে ধরা",
+          "arabic_title": "",
+          "preface": "",
+          "order": 5,
+          "hadith_count": 20
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "display_label": "৩",
+      "title": "ইলম",
+      "arabic_title": "",
+      "preface": "",
+      "range": "৪১ - ৭২",
+      "order": 3,
+      "hadith_count": 32,
+      "sections_count": 1,
+      "sections": [
+        {
+          "id": 6,
+          "chapter_id": 3,
+          "display_label": "৩/১. অধ্যায়ঃ",
+          "title": "ইলম",
+          "arabic_title": "",
+          "preface": "",
+          "order": 6,
+          "hadith_count": 32
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "display_label": "৪",
+      "title": "পবিত্রতা",
+      "arabic_title": "",
+      "preface": "",
+      "range": "৭৩ - ১০৬",
+      "order": 4,
+      "hadith_count": 34,
+      "sections_count": 6,
+      "sections": [
+        {
+          "id": 7,
+          "chapter_id": 4,
+          "display_label": "৪/১. অধ্যায়ঃ",
+          "title": "ওযূর মাহাত্ম্য",
+          "arabic_title": "",
+          "preface": "",
+          "order": 7,
+          "hadith_count": 4
+        },
+        {
+          "id": 8,
+          "chapter_id": 4,
+          "display_label": "৪/২. অধ্যায়ঃ",
+          "title": "যে যে কারনে ওযু ওয়াজিব হয়",
+          "arabic_title": "",
+          "preface": "",
+          "order": 8,
+          "hadith_count": 5
+        },
+        {
+          "id": 9,
+          "chapter_id": 4,
+          "display_label": "৪/৩. অধ্যায়ঃ",
+          "title": "পায়খানা-পেশাবের শিষ্টাচার",
+          "arabic_title": "",
+          "preface": "",
+          "order": 9,
+          "hadith_count": 9
+        },
+        {
+          "id": 10,
+          "chapter_id": 4,
+          "display_label": "৪/৪. অধ্যায়ঃ",
+          "title": "মিসওয়াক করা",
+          "arabic_title": "",
+          "preface": "",
+          "order": 10,
+          "hadith_count": 3
+        },
+        {
+          "id": 11,
+          "chapter_id": 4,
+          "display_label": "৪/৫. অধ্যায়ঃ",
+          "title": "ওযূর সুন্নাতসমূহ",
+          "arabic_title": "",
+          "preface": "",
+          "order": 11,
+          "hadith_count": 8
+        },
+        {
+          "id": 12,
+          "chapter_id": 4,
+          "display_label": "৪/৬. অধ্যায়ঃ",
+          "title": "গোসল",
+          "arabic_title": "",
+          "preface": "",
+          "order": 12,
+          "hadith_count": 5
+        }
+      ]
+    }
+  ]
+}

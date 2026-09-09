@@ -1,0 +1,1741 @@
+{
+  "surah": 76,
+  "verses": [
+    {
+      "content_id": "quran_076_001",
+      "reference": {
+        "surah_number": 76,
+        "surah_name": "Al-Insaan",
+        "surah_name_ar": "سُوْرَةُ الدَّهْرِ",
+        "surah_name_translation": "Man",
+        "ayah_number": 1,
+        "juz": 29,
+        "revelation_type": "Madina"
+      },
+      "arabic_word_count": 12,
+      "translations": {
+        "ar": {
+          "text": "هَلۡ أَتَىٰ عَلَى ٱلۡإِنسَٰنِ حِينࣱ مِّنَ ٱلدَّهۡرِ لَمۡ يَكُن شَيۡـࣰٔ ا مَّذۡكُورًا",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Is there not a period of time when each human is nothing yet worth mentioning",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "人确实经历一个时期，不是一件可以记念的事物。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "क्या मनुष्य पर काल-खंड का ऐसा समय भी बीता है कि वह कोई ऐसी चीज़ न था जिसका उल्लेख किया जाता",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "¿Acaso no hubo un lapso enorme de tiempo en el cual el ser humano no existía y ni siquiera era mencionado",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "S'est-il écoulé pour l'homme un laps de temps durant lequel il n'était même pas une chose mentionnable",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "মানুষের উপর এমন কিছু সময় অতিবাহিত হয়েছে যখন সে উল্লেখযোগ্য কিছু ছিল না।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Com efeito, transcorreu, para o ser humano, um lapso de enorme tempo, em que não era cousa mencionada",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Неужели не прошло то время, когда человек был безвестен",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "بےشک انسان پر زمانے میں ایک ایسا وقت بھی آچکا ہے کہ وہ کوئی چیز قابل ذکر نہ تھی",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_076_002",
+      "reference": {
+        "surah_number": 76,
+        "surah_name": "Al-Insaan",
+        "surah_name_ar": "سُوْرَةُ الدَّهْرِ",
+        "surah_name_translation": "Man",
+        "ayah_number": 2,
+        "juz": 29,
+        "revelation_type": "Madina"
+      },
+      "arabic_word_count": 10,
+      "translations": {
+        "ar": {
+          "text": "إِنَّا خَلَقۡنَا ٱلۡإِنسَٰنَ مِن نُّطۡفَةٍ أَمۡشَاجࣲ نَّبۡتَلِيهِ فَجَعَلۡنَٰهُ سَمِيعَۢا بَصِيرًا",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "˹For˺ indeed, We ˹alone˺ created humans from a drop of mixed fluids, ˹in order˺ to test them, so We made them hear and see",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "我确已用混合的精液创造人，并加以试验，将他创造成聪明的。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "हमने मनुष्य को एक मिश्रित वीर्य से पैदा किया, उसे उलटते-पलटते रहे, फिर हमने उसे सुनने और देखनेवाला बना दिया",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Creé al ser humano de un óvulo fecundado para ponerlo a prueba. Lo agracié con el oído y la vista",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "En effet, Nous avons créé l'homme d'une goutte de sperme mélangé [aux composantes diverses] pour le mettre à l'épreuve. [C'est pourquoi] Nous l'avons fait entendant et voyant",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "আমি মানুষকে সৃষ্টি করেছি মিশ্র শুক্রবিন্দু থেকে, এভাবে যে, তাকে পরীক্ষা করব অতঃপর তাকে করে দিয়েছি শ্রবণ ও দৃষ্টিশক্তিসম্পন্ন।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Por certo, criamos o ser humano de gota seminal, mesclada para pô-lo à prova; então, fizemo-lo ouvinte, vidente",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Мы создали человека из смешанной капли, подвергая его испытанию, и сделали его слышащим и зрячим",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "ہم نے انسان کو نطفہٴ مخلوط سے پیدا کیا تاکہ اسے آزمائیں تو ہم نے اس کو سنتا دیکھتا بنایا",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_076_003",
+      "reference": {
+        "surah_number": 76,
+        "surah_name": "Al-Insaan",
+        "surah_name_ar": "سُوْرَةُ الدَّهْرِ",
+        "surah_name_translation": "Man",
+        "ayah_number": 3,
+        "juz": 29,
+        "revelation_type": "Madina"
+      },
+      "arabic_word_count": 8,
+      "translations": {
+        "ar": {
+          "text": "إِنَّا هَدَيۡنَٰهُ ٱلسَّبِيلَ إِمَّا شَاكِرࣰ ا وَإِمَّا كَفُورًا",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "We already showed them the Way, whether they ˹choose to˺ be grateful or ungrateful",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "我确已指引他正道，他或是感谢，或是辜负。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "हमने उसे मार्ग दिखाया, अब चाहे वह कृतज्ञ बने या अकृतज्ञ",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Y le mostré el camino [para que libremente elija] ser de los agradecidos o de los ingratos",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Nous l'avons guidé dans le chemin, - qu'il soit reconnaissant ou ingrat",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "আমি তাকে পথ দেখিয়ে দিয়েছি। এখন সে হয় কৃতজ্ঞ হয়, না হয় অকৃতজ্ঞ হয়।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Por certo, guiamo-lo ao caminho, fosse grato, fosse ingrato",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Мы повели его путем либо благодарным, либо неблагодарным",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "(اور) اسے رستہ بھی دکھا دیا۔ (اب) وہ خواہ شکرگزار ہو خواہ ناشکرا",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_076_004",
+      "reference": {
+        "surah_number": 76,
+        "surah_name": "Al-Insaan",
+        "surah_name_ar": "سُوْرَةُ الدَّهْرِ",
+        "surah_name_translation": "Man",
+        "ayah_number": 4,
+        "juz": 29,
+        "revelation_type": "Madina"
+      },
+      "arabic_word_count": 7,
+      "translations": {
+        "ar": {
+          "text": "إِنَّآ أَعۡتَدۡنَا لِلۡكَٰفِرِينَ سَلَٰسِلَاْ وَأَغۡلَٰلࣰ ا وَسَعِيرًا",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Indeed, We have prepared for the disbelievers chains, shackles, and a blazing Fire",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "我确已为不信者预备许多铁链、铁圈和火狱。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "हमने इनकार करनेवालों के लिए ज़जीरें और तौक़ और भड़कती हुई आग तैयार कर रखी है",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "A los que rechacen el Mensaje les he preparado cadenas, argollas y un fuego abrasador",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Nous avons préparé pour les infidèles des chaînes, des carcans et une fournaise ardente",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "আমি অবিশ্বাসীদের জন্যে প্রস্তুত রেখেছি শিকল, বেড়ি ও প্রজ্বলিত অগ্নি।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Por certo, preparamos, para os renegadores da Fé, correntes e gargalheiras e Fogo ardente",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Мы приготовили для неверующих цепи, оковы и пламя",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "ہم نے کافروں کے لئے زنجیر اور طوق اور دہکتی آگ تیار کر رکھی ہے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_076_005",
+      "reference": {
+        "surah_number": 76,
+        "surah_name": "Al-Insaan",
+        "surah_name_ar": "سُوْرَةُ الدَّهْرِ",
+        "surah_name_translation": "Man",
+        "ayah_number": 5,
+        "juz": 29,
+        "revelation_type": "Madina"
+      },
+      "arabic_word_count": 8,
+      "translations": {
+        "ar": {
+          "text": "إِنَّ ٱلۡأَبۡرَارَ يَشۡرَبُونَ مِن كَأۡسࣲ كَانَ مِزَاجُهَا كَافُورًا",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Indeed, the virtuous will have a drink ˹of pure wine˺—flavoured with camphor—",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "善人们必得饮含有樟脑的醴泉，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "निश्चय ही वफ़ादार लोग ऐसे जाम से पिएँगे जिसमें काफ़ूर का मिश्रण होगा",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Los creyentes sinceros tomarán bebidas dulces en copas aromatizadas",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Les vertueux boiront d'une coupe dont le mélange sera de camphre",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "নিশ্চয়ই সৎকর্মশীলরা পান করবে কাফুর মিশ্রিত পানপাত্র।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Por certo, os virtuosos beberão de uma taça cuja mistura é de kafur",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "А благочестивые будут пить из чаши вино, смешанное с камфарой",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "جو نیکو کار ہیں اور وہ ایسی شراب نوش جان کریں گے جس میں کافور کی آمیزش ہوگی",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_076_006",
+      "reference": {
+        "surah_number": 76,
+        "surah_name": "Al-Insaan",
+        "surah_name_ar": "سُوْرَةُ الدَّهْرِ",
+        "surah_name_translation": "Man",
+        "ayah_number": 6,
+        "juz": 29,
+        "revelation_type": "Madina"
+      },
+      "arabic_word_count": 9,
+      "translations": {
+        "ar": {
+          "text": "عَيۡنࣰ ا يَشۡرَبُ بِهَا عِبَادُ ٱللَّهِ يُفَجِّرُونَهَا تَفۡجِيرࣰ ا",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "˹from˺ a spring where Allah’s servants will drink, flowing at their will",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "即真主的众仆所饮的一道泉水，他们将使它大量涌出。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "उस स्रोत का क्या कहना! जिस पर बैठकर अल्लाह के बन्दे पिएँगे, इस तरह कि उसे बहा-बहाकर (जहाँ चाहेंगे) ले जाएँगे",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "que brotarán de un manantial siempre accesible del que solo beberán los servidores de Dios",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "d'une source de laquelle boiront les serviteurs d'Allah et ils la feront jaillir en abondance",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "এটা একটা ঝরণা, যা থেকে আল্লাহর বান্দাগণ পান করবে-তারা একে প্রবাহিত করবে।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Uma fonte, de que os servos de Allah beberão, fazendo-a emanar, abundantemente",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Рабы Аллаха будут пить из источника, давая ему течь полноводными ручьями",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "یہ ایک چشمہ ہے جس میں سے خدا کے بندے پئیں گے اور اس میں سے (چھوٹی چھوٹی) نہریں نکالیں گے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_076_007",
+      "reference": {
+        "surah_number": 76,
+        "surah_name": "Al-Insaan",
+        "surah_name_ar": "سُوْرَةُ الدَّهْرِ",
+        "surah_name_translation": "Man",
+        "ayah_number": 7,
+        "juz": 29,
+        "revelation_type": "Madina"
+      },
+      "arabic_word_count": 9,
+      "translations": {
+        "ar": {
+          "text": "يُوفُونَ بِٱلنَّذۡرِ وَيَخَافُونَ يَوۡمࣰ ا كَانَ شَرُّهُۥ مُسۡتَطِيرࣰ ا",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "They ˹are those who˺ fulfil ˹their˺ vows and fear a Day of sweeping horror",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "他们履行誓愿，并畏惧灾难普降日。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "वे नज़र (मन्नत) पूरी करते है और उस दिन से डरते है जिसकी आपदा व्यापक होगी",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "[Son realmente creyentes] los que cumplen sus promesas y temen el Día del Juicio, cuyo alcance será extensivo",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Ils accomplissent leurs vœux et ils redoutent un jour dont le mal s'étendra partout",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "তারা মান্নত পূর্ণ করে এবং সেদিনকে ভয় করে, যেদিনের অনিষ্ট হবে সুদূরপ্রসারী।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Porque são fiéis aos votos e temem um dia, cujo mal será alastrante",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Они исполняют обеты и боятся дня, зло которого разлетается",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "یہ لوگ نذریں پوری کرتے ہیں اور اس دن سے جس کی سختی پھیل رہی ہوگی خوف رکھتے ہیں",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_076_008",
+      "reference": {
+        "surah_number": 76,
+        "surah_name": "Al-Insaan",
+        "surah_name_ar": "سُوْرَةُ الدَّهْرِ",
+        "surah_name_translation": "Man",
+        "ayah_number": 8,
+        "juz": 29,
+        "revelation_type": "Madina"
+      },
+      "arabic_word_count": 9,
+      "translations": {
+        "ar": {
+          "text": "وَيُطۡعِمُونَ ٱلطَّعَامَ عَلَىٰ حُبِّهِۦ مِسۡكِينࣰ ا وَيَتِيمࣰ ا وَأَسِيرًا",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "and give food—despite their desire for it—to the poor, the orphan, and the captive",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "他们为喜爱真主而赈济贫民、孤儿、俘虏。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "और वे मुहताज, अनाथ और क़ैदी को खाना उसकी चाहत रखते हुए खिलाते है",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Y, a pesar del amor que tienen por sus bienes materiales, alimentan al pobre, al huérfano y al prisionero",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "et offrent la nourriture, malgré son amour, au pauvre, à l'orphelin et au prisonnier",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "তারা আল্লাহর প্রেমে অভাবগ্রস্ত, এতীম ও বন্দীকে আহার্য দান করে।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E cedem o alimento - embora a ele apegados - a um necessitado e a um órfão e a um cativo",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Они дают пищу беднякам, сиротам и пленникам, несмотря на то, что она желанна и для них самих",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور باوجود یہ کہ ان کو خود طعام کی خواہش (اور حاجت) ہے فقیروں اور یتیموں اور قیدیوں کو کھلاتے ہیں",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_076_009",
+      "reference": {
+        "surah_number": 76,
+        "surah_name": "Al-Insaan",
+        "surah_name_ar": "سُوْرَةُ الدَّهْرِ",
+        "surah_name_translation": "Man",
+        "ayah_number": 9,
+        "juz": 29,
+        "revelation_type": "Madina"
+      },
+      "arabic_word_count": 10,
+      "translations": {
+        "ar": {
+          "text": "إِنَّمَا نُطۡعِمُكُمۡ لِوَجۡهِ ٱللَّهِ لَا نُرِيدُ مِنكُمۡ جَزَآءࣰ وَلَا شُكُورًا",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "˹saying to themselves,˺ “We feed you only for the sake of Allah, seeking neither reward nor thanks from you",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "我们只为爱戴真主而赈济你们，我们不望你们的报酬和感谢。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "हम तो केवल अल्लाह की प्रसन्नता के लिए तुम्हें खिलाते है, तुमसे न कोई बदला चाहते है और न कृतज्ञता ज्ञापन",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Dicen: \"Les damos de comer simplemente porque anhelamos el rostro de Dios. En realidad no esperamos de ustedes retribución ni agradecimiento",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "(disant): «C'est pour le visage d'Allah que nous vous nourrissons: nous ne voulons de vous ni récompense ni gratitude",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "তারা বলেঃ কেবল আল্লাহর সন্তুষ্টির জন্যে আমরা তোমাদেরকে আহার্য দান করি এবং তোমাদের কাছে কোন প্রতিদান ও কৃতজ্ঞতা কামনা করি না।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Dizendo: \"Apenas, alimentamo-vos por amor de Allah. Não desejamos de vós nem recompensa nem agradecimento",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Они говорят: «Мы кормим вас лишь ради Лика Аллаха и не хотим от вас ни награды, ни благодарности",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "(اور کہتے ہیں کہ) ہم تم کو خالص خدا کے لئے کھلاتے ہیں۔ نہ تم سے عوض کے خواستگار ہیں نہ شکرگزاری کے (طلبگار)",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_076_010",
+      "reference": {
+        "surah_number": 76,
+        "surah_name": "Al-Insaan",
+        "surah_name_ar": "سُوْرَةُ الدَّهْرِ",
+        "surah_name_translation": "Man",
+        "ayah_number": 10,
+        "juz": 29,
+        "revelation_type": "Madina"
+      },
+      "arabic_word_count": 9,
+      "translations": {
+        "ar": {
+          "text": "إِنَّا نَخَافُ مِن رَّبِّنَا يَوۡمًا عَبُوسࣰ ا قَمۡطَرِيرࣰ ا",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "We fear from our Lord a horribly distressful Day.”",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "我们的确畏惧从我们的主发出的严酷的一日。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "हमें तो अपने रब की ओर से एक ऐसे दिन का भय है जो त्योरी पर बल डाले हुए अत्यन्त क्रूर होगा।",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Tenemos temor de que nuestro Señor nos castigue el día [del Juicio que será] terrible y penoso",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Nous redoutons, de notre Seigneur, un jour terrible et catastrophique»",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "আমরা আমাদের পালনকর্তার তরফ থেকে এক ভীতিপ্রদ ভয়ংকর দিনের ভয় রাখি।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Por certo, tememos, da parte de nosso Senhor, um dia austero, consternador",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Мы боимся от своего Господа того Мрачного и Томительного дня»",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "ہم کو اپنے پروردگار سے اس دن کا ڈر لگتا ہے (جو چہروں کو) کریہہ المنظر اور (دلوں کو) سخت (مضطر کر دینے والا) ہے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_076_011",
+      "reference": {
+        "surah_number": 76,
+        "surah_name": "Al-Insaan",
+        "surah_name_ar": "سُوْرَةُ الدَّهْرِ",
+        "surah_name_translation": "Man",
+        "ayah_number": 11,
+        "juz": 29,
+        "revelation_type": "Madina"
+      },
+      "arabic_word_count": 9,
+      "translations": {
+        "ar": {
+          "text": "فَوَقَىٰهُمُ ٱللَّهُ شَرَّ ذَٰلِكَ ٱلۡيَوۡمِ وَلَقَّىٰهُمۡ نَضۡرَةࣰ وَسُرُورࣰ ا",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "So Allah will deliver them from the horror of that Day, and grant them radiance and joy",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "故真主将为他们防御那日的灾难，并赏赐他们光华和快乐。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "अतः अल्लाह ने उस दिन की बुराई से बचा लिया और उन्हें ताज़गी और ख़ुशी प्रदान की",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Pero Dios los preservará del mal de ese día y los llenará de esplendor y alegría",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Allah les protègera donc du mal de ce jour-là, et leur fera rencontrer la splendeur et la joie",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "অতঃপর আল্লাহ তাদেরকে সেদিনের অনিষ্ট থেকে রক্ষা করবেন এবং তাদেরকে দিবেন সজীবতা ও আনন্দ।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Então, Allah guardá-los-á do mal desse dia e conferir-lhes-á rutilância e alegria",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Аллах защитит их от зла того дня и одарит их процветанием и радостью",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "تو خدا ان کو اس دن کی سختی سے بچالے گا اور تازگی اور خوش دلی عنایت فرمائے گا",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_076_012",
+      "reference": {
+        "surah_number": 76,
+        "surah_name": "Al-Insaan",
+        "surah_name_ar": "سُوْرَةُ الدَّهْرِ",
+        "surah_name_translation": "Man",
+        "ayah_number": 12,
+        "juz": 29,
+        "revelation_type": "Madina"
+      },
+      "arabic_word_count": 6,
+      "translations": {
+        "ar": {
+          "text": "وَجَزَىٰهُم بِمَا صَبَرُواْ جَنَّةࣰ وَحَرِيرࣰ ا",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "and reward them for their perseverance with a Garden ˹in Paradise˺ and ˹garments of˺ silk",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "他将因他们的坚忍而以乐园和丝绸报酬他们。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "और जो उन्होंने धैर्य से काम लिया, उसके बदले में उन्हें जन्नत और रेशमी वस्त्र प्रदान किया",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Los retribuirá por su paciencia con el Paraíso y vestimentas de seda",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "et les rétribuera pour ce qu'ils auront enduré, en leur donnant le Paradis et des [vêtements] de soie",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "এবং তাদের সবরের প্রতিদানে তাদেরকে দিবেন জান্নাত ও রেশমী পোশাক।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E recompensá-los-á, por sua paciência, com Paraíso e vestes de seda",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "А за то, что они проявили терпение, Он воздаст им Райскими садами и шелками",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور ان کے صبر کے بدلے ان کو بہشت (کے باغات) اور ریشم (کے ملبوسات) عطا کرے گا",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_076_013",
+      "reference": {
+        "surah_number": 76,
+        "surah_name": "Al-Insaan",
+        "surah_name_ar": "سُوْرَةُ الدَّهْرِ",
+        "surah_name_translation": "Man",
+        "ayah_number": 13,
+        "juz": 29,
+        "revelation_type": "Madina"
+      },
+      "arabic_word_count": 12,
+      "translations": {
+        "ar": {
+          "text": "مُّتَّكِـِٔينَ فِيهَا عَلَى ٱلۡأَرَآئِكِۖ لَا يَرَوۡنَ فِيهَا شَمۡسࣰ ا وَلَا زَمۡهَرِيرࣰ ا",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "There they will be reclining on ˹canopied˺ couches, never seeing scorching heat or bitter cold",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "他们在乐园中，靠在床上，不觉炎热，也不觉严寒。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "उसमें वे तख़्तों पर टेक लगाए होंगे, वे उसमें न तो सख़्त धूप देखेंगे औ न सख़्त ठंड़",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "[En el Paraíso] estarán reclinados sobre sofás, a salvo del calor ardiente del Sol y la severidad del frío",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "ils y seront accoudés sur des divans, n'y voyant ni soleil ni froid glacial",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "তারা সেখানে সিংহাসনে হেলান দিয়ে বসবে। সেখানে রৌদ্র ও শৈত্য অনুভব করবে না।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Nele, estarão reclinados sobre coxins. Lá, não verão nem sol nem frio glacial",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Они будут лежать на ложах, прислонившись, и не увидят там ни солнца, ни стужи",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "ان میں وہ تختوں پر تکیے لگائے بیٹھے ہوں گے۔ وہاں نہ دھوپ (کی حدت) دیکھیں گے نہ سردی کی شدت",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_076_014",
+      "reference": {
+        "surah_number": 76,
+        "surah_name": "Al-Insaan",
+        "surah_name_ar": "سُوْرَةُ الدَّهْرِ",
+        "surah_name_translation": "Man",
+        "ayah_number": 14,
+        "juz": 29,
+        "revelation_type": "Madina"
+      },
+      "arabic_word_count": 7,
+      "translations": {
+        "ar": {
+          "text": "وَدَانِيَةً عَلَيۡهِمۡ ظِلَٰلُهَا وَذُلِّلَتۡ قُطُوفُهَا تَذۡلِيلࣰ ا",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "The Garden’s shade will be right above them, and its fruit will be made very easy to reach",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "乐园的荫影覆庇著他们，乐园的果实，他们容易采摘。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "और उस (बाग़) के साए उनपर झुके होंगे और उसके फलों के गुच्छे बिलकुल उनके वश में होंगे",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Estarán cubiertos por una sombra cercana y fresca de árboles, cuyos frutos serán fáciles de alcanzar",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Ses ombrages les couvriront de près, et ses fruits inclinés bien bas [à portée de leurs mains]",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "তার বৃক্ষছায়া তাদের উপর ঝুঁকে থাকবে এবং তার ফলসমূহ তাদের আয়ত্তাধীন রাখা হবে।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E suas sombras estarão estendidas sobre eles, e seus frutos penderão docilmente",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Тени будут близки к ним, и плоды будут подчинены им полностью",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "ان سے (ثمردار شاخیں اور) ان کے سائے قریب ہوں گے اور میوؤں کے گچھے جھکے ہوئے لٹک رہے ہوں گے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_076_015",
+      "reference": {
+        "surah_number": 76,
+        "surah_name": "Al-Insaan",
+        "surah_name_ar": "سُوْرَةُ الدَّهْرِ",
+        "surah_name_translation": "Man",
+        "ayah_number": 15,
+        "juz": 29,
+        "revelation_type": "Madina"
+      },
+      "arabic_word_count": 8,
+      "translations": {
+        "ar": {
+          "text": "وَيُطَافُ عَلَيۡهِم بِـَٔانِيَةࣲ مِّن فِضَّةࣲ وَأَكۡوَابࣲ كَانَتۡ قَوَارِيرَا۠",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "They will be waited on with silver vessels and cups of crystal—",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "将有人在他们之间传递银盘和玻璃杯",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "और उनके पास चाँदी के बरतन ग़र्दिश में होंगे और प्याले",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Serán servidos con vasijas de plata y copas diáfanas",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Et l'on fera circuler parmi eux des récipients d'argent et des coupes cristallines",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "তাদেরকে পরিবেশন করা হবে রূপার পাত্রে এবং স্ফটিকের মত পানপাত্রে।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E far-se-á circular, entre eles, recipientes de prata e copos cristalinos",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Обходить их будут с сосудами из серебра и кубками из хрусталя",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "(خدام) چاندی کے باسن لئے ہوئے ان کے اردگرد پھریں گے اور شیشے کے (نہایت شفاف) گلاس",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_076_016",
+      "reference": {
+        "surah_number": 76,
+        "surah_name": "Al-Insaan",
+        "surah_name_ar": "سُوْرَةُ الدَّهْرِ",
+        "surah_name_translation": "Man",
+        "ayah_number": 16,
+        "juz": 29,
+        "revelation_type": "Madina"
+      },
+      "arabic_word_count": 6,
+      "translations": {
+        "ar": {
+          "text": "قَوَارِيرَاْ مِن فِضَّةࣲ قَدَّرُوهَا تَقۡدِيرࣰ ا",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "crystalline silver, filled precisely as desired",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "晶莹如玻璃的银杯，他们预定每杯的容量。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "जो बिल्कुल शीशे हो रहे होंगे, शीशे भी चाँदी के जो ठीक अन्दाज़े करके रखे गए होंगे",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "de cristal plateado hechas a su gusto",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "en cristal d'argent, dont le contenu a été savamment dosé",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "রূপালী স্ফটিক পাত্রে, পরিবেশনকারীরা তা পরিমাপ করে পূর্ণ করবে।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Cristalinos de prata: enchê-los-ão, na justa medida, conforme o desejo de cada um",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "хрусталя серебряного, соразмерных размеров",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور شیشے بھی چاندی کے جو ٹھیک اندازے کے مطابق بنائے گئے ہیں",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_076_017",
+      "reference": {
+        "surah_number": 76,
+        "surah_name": "Al-Insaan",
+        "surah_name_ar": "سُوْرَةُ الدَّهْرِ",
+        "surah_name_translation": "Man",
+        "ayah_number": 17,
+        "juz": 29,
+        "revelation_type": "Madina"
+      },
+      "arabic_word_count": 7,
+      "translations": {
+        "ar": {
+          "text": "وَيُسۡقَوۡنَ فِيهَا كَأۡسࣰ ا كَانَ مِزَاجُهَا زَنجَبِيلًا",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "And they will be given a drink ˹of pure wine˺ flavoured with ginger",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "他们得用那些杯饮含有姜汁的醴泉，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "और वहाँ वे एक और जाम़ पिएँगे जिसमें सोंठ का मिश्रण होगा",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Les servirán en copas aromatizadas una bebida con jengibre",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Et là, ils seront abreuvés d'une coupe dont le mélange sera de gingembre",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "তাদেরকে সেখানে পান করানো হবে ‘যানজাবীল’ মিশ্রিত পানপাত্র।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E, nele, dar-se-lhes-ão de beber taça cuja mistura é de gengibre",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Поить их там будут из чаш вином, смешанным с имбирем",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور وہاں ان کو ایسی شراب (بھی) پلائی جائے گی جس میں سونٹھ کی آمیزش ہوگی",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_076_018",
+      "reference": {
+        "surah_number": 76,
+        "surah_name": "Al-Insaan",
+        "surah_name_ar": "سُوْرَةُ الدَّهْرِ",
+        "surah_name_translation": "Man",
+        "ayah_number": 18,
+        "juz": 29,
+        "revelation_type": "Madina"
+      },
+      "arabic_word_count": 6,
+      "translations": {
+        "ar": {
+          "text": "عَيۡنࣰ ا فِيهَا تُسَمَّىٰ سَلۡسَبِيلࣰ ا",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "from a spring there, called Salsabîl",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "即乐园中有名的清快泉。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "क्या कहना उस स्रोत का जो उसमें होगा, जिसका नाम सल-सबील है",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "extraída de una fuente del Paraíso, dulce y siempre accesible",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "puisé là-dedans à une source qui s'appelle Salsabîl",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "এটা জান্নাতস্থিত ‘সালসাবীল’ নামক একটি ঝরণা।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "De uma fonte que, lá, se chama Salsabil",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "из источника, названного Салсабилем",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "یہ بہشت میں ایک چشمہ ہے جس کا نام سلسبیل ہے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_076_019",
+      "reference": {
+        "surah_number": 76,
+        "surah_name": "Al-Insaan",
+        "surah_name_ar": "سُوْرَةُ الدَّهْرِ",
+        "surah_name_translation": "Man",
+        "ayah_number": 19,
+        "juz": 29,
+        "revelation_type": "Madina"
+      },
+      "arabic_word_count": 11,
+      "translations": {
+        "ar": {
+          "text": "۞وَيَطُوفُ عَلَيۡهِمۡ وِلۡدَٰنࣱ مُّخَلَّدُونَ إِذَا رَأَيۡتَهُمۡ حَسِبۡتَهُمۡ لُؤۡلُؤࣰ ا مَّنثُورࣰ ا",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "They will be waited on by eternal youths. If you saw them, you would think they were scattered pearls",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "许多长生不老的少年，轮流著服侍他们。当你看见那些少年的时候，你以为他们是些散漫的珍珠。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "उनकी सेवा में ऐसे किशोर दौड़ते रहे होंगे जो सदैव किशोर ही रहेंगे। जब तुम उन्हें देखोगे तो समझोगे कि बिखरे हुए मोती है",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Rondarán entre los creyentes, sirvientes de juventud eterna. Si los vieras creerías que son perlas esparcidas",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Et parmi eux, circuleront des garçons éternellement jeunes. Quand tu les verras, tu les prendras pour des perles éparpillées",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "তাদের কাছে ঘোরাফেরা করবে চির কিশোরগণ। আপনি তাদেরকে দেখে মনে করবেন যেন বিক্ষিপ্ত মনি-মুক্তা।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E, circularão, entre eles, mancebos eternos; se os vires, suporás serem pérolas espalhadas",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Их будут обходить вечно юные отроки. Взглянув на них, ты примешь их за рассыпанный жемчуг",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور ان کے پاس لڑکے آتے جاتے ہوں گے جو ہمیشہ (ایک ہی حالت پر) رہیں گے۔ جب تم ان پر نگاہ ڈالو تو خیال کرو کہ بکھرے ہوئے موتی ہیں",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_076_020",
+      "reference": {
+        "surah_number": 76,
+        "surah_name": "Al-Insaan",
+        "surah_name_ar": "سُوْرَةُ الدَّهْرِ",
+        "surah_name_translation": "Man",
+        "ayah_number": 20,
+        "juz": 29,
+        "revelation_type": "Madina"
+      },
+      "arabic_word_count": 9,
+      "translations": {
+        "ar": {
+          "text": "وَإِذَا رَأَيۡتَ ثَمَّ رَأَيۡتَ نَعِيمࣰ ا وَمُلۡكࣰ ا كَبِيرًا",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "And if you looked around, you would see ˹indescribable˺ bliss and a vast kingdom",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "当你观看那里的时候，你会看见恩泽和大国。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "जब तुम वहाँ देखोगे तो तुम्हें बड़ी नेमत और विशाल राज्य दिखाई देगा",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Y al mirar solo encontrarás felicidad y un reino vasto",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Et quand tu regarderas là-bas, tu verras un délice et un vaste royaume",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "আপনি যখন সেখানে দেখবেন, তখন নেয়ামতরাজি ও বিশাল রাজ্য দেখতে পাবেন।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E, se vires o que há lá, verás delícia e grande soberania",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Взглянув же, ты увидишь там благодать и великую власть",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور بہشت میں (جہاں) آنکھ اٹھاؤ گے کثرت سے نعمت اور عظیم (الشان) سلطنت دیکھو گے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_076_021",
+      "reference": {
+        "surah_number": 76,
+        "surah_name": "Al-Insaan",
+        "surah_name_ar": "سُوْرَةُ الدَّهْرِ",
+        "surah_name_translation": "Man",
+        "ayah_number": 21,
+        "juz": 29,
+        "revelation_type": "Madina"
+      },
+      "arabic_word_count": 14,
+      "translations": {
+        "ar": {
+          "text": "عَٰلِيَهُمۡ ثِيَابُ سُندُسٍ خُضۡرࣱ وَإِسۡتَبۡرَقࣱۖ وَحُلُّوٓاْ أَسَاوِرَ مِن فِضَّةࣲ وَسَقَىٰهُمۡ رَبُّهُمۡ شَرَابࣰ ا طَهُورًا",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "The virtuous will be ˹dressed˺ in garments of fine green silk and rich brocade, and adorned with bracelets of silver, and their Lord will give them a purifying drink",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "他们将穿著绫罗锦缎的绿袍，他们将享受银镯的装饰，他们的主，将以纯洁的饮料赏赐他们。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "उनके ऊपर हरे बारीक हरे बारीक रेशमी वस्त्र और गाढ़े रेशमी कपड़े होंगे, और उन्हें चाँदी के कंगन पहनाए जाएँगे और उनका रब उन्हें पवित्र पेय पिलाएगा",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "[Quienes lo habiten] vestirán de verde satén y de brocado, y llevarán brazaletes de plata. Su Señor les dará de beber una bebida pura",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Ils porteront des vêtements verts de satin et de brocart. Et ils seront parés de bracelets d'argent. Et leur Seigneur les abreuvera d'une boisson très pure",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "তাদের আবরণ হবে চিকন সবুজ রেশম ও মোটা সবুজ রেশম এবং তাদেরকে পরিধান করোনো হবে রৌপ্য নির্মিত কংকণ এবং তাদের পালনকর্তা তাদেরকে পান করাবেন ‘শরাবান-তহুরা’।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Sobre eles, haverá trajes de fina seda, verdes, e de brocado. E estarão enfeitados com braceletes de prata. E seu Senhor dar-lhes-á de beber puríssima bebida",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "На них будут зеленые одеяния из атласа и парчи. Они будут украшены серебряными браслетами, а Господь их напоит их чистым напитком",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "ان (کے بدنوں) پر دیبا سبز اور اطلس کے کپڑے ہوں گے۔ اور انہیں چاندی کے کنگن پہنائے جائیں گے اور ان کا پروردگار ان کو نہایت پاکیزہ شراب پلائے گا",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_076_022",
+      "reference": {
+        "surah_number": 76,
+        "surah_name": "Al-Insaan",
+        "surah_name_ar": "سُوْرَةُ الدَّهْرِ",
+        "surah_name_translation": "Man",
+        "ayah_number": 22,
+        "juz": 29,
+        "revelation_type": "Madina"
+      },
+      "arabic_word_count": 8,
+      "translations": {
+        "ar": {
+          "text": "إِنَّ هَٰذَا كَانَ لَكُمۡ جَزَآءࣰ وَكَانَ سَعۡيُكُم مَّشۡكُورًا",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "˹And they will be told,˺ “All this is surely a reward for you. Your striving has been appreciated.”",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "（将对他们说：）这确是你们的报酬，你们的劳绩是有报酬的。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "यह है तुम्हारा बदला और तुम्हारा प्रयास क़द्र करने के योग्य है।",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "[Y se les dirá:] \"Esta es la recompensa. Su esfuerzo ha sido aceptado [por Dios]",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Cela sera pour vous une récompense, et votre effort sera reconnu",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "এটা তোমাদের প্রতিদান। তোমাদের প্রচেষ্টা স্বীকৃতি লাভ করেছে।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Dir-se-lhes-á: \"Por certo, isso é recompensa para vós, e vosso esforço foi reconhecido",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Таково ваше воздаяние, и ваше усердие отблагодарено",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "یہ تمہارا صلہ اور تمہاری کوشش (خدا کے ہاں) مقبول ہوئی",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_076_023",
+      "reference": {
+        "surah_number": 76,
+        "surah_name": "Al-Insaan",
+        "surah_name_ar": "سُوْرَةُ الدَّهْرِ",
+        "surah_name_translation": "Man",
+        "ayah_number": 23,
+        "juz": 29,
+        "revelation_type": "Madina"
+      },
+      "arabic_word_count": 7,
+      "translations": {
+        "ar": {
+          "text": "إِنَّا نَحۡنُ نَزَّلۡنَا عَلَيۡكَ ٱلۡقُرۡءَانَ تَنزِيلࣰ ا",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Indeed, it is We Who have revealed the Quran to you ˹O Prophet˺ in stages",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "我确已将《古兰经》零星地降示你，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "निश्चय ही हमने अत्यन्त व्यवस्थित ढंग से तुमपर क़ुरआन अवतरित किया है",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "[¡Oh, Mujámmad!] Te he revelado el Corán gradualmente [en respuesta a distintas situaciones]",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "En vérité c'est Nous qui avons fait descendre sur toi le Coran graduellement",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "আমি আপনার প্রতি পর্যায়ক্রমে কোরআন নাযিল করেছি।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Por certo, fizemos descer o Alcorão sobre ti, com gradual descida",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Воистину, Мы ниспослали тебе Коран частями",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اے محمد (ﷺ) ہم نے تم پر قرآن آہستہ آہستہ نازل کیا ہے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_076_024",
+      "reference": {
+        "surah_number": 76,
+        "surah_name": "Al-Insaan",
+        "surah_name_ar": "سُوْرَةُ الدَّهْرِ",
+        "surah_name_translation": "Man",
+        "ayah_number": 24,
+        "juz": 29,
+        "revelation_type": "Madina"
+      },
+      "arabic_word_count": 10,
+      "translations": {
+        "ar": {
+          "text": "فَٱصۡبِرۡ لِحُكۡمِ رَبِّكَ وَلَا تُطِعۡ مِنۡهُمۡ ءَاثِمًا أَوۡ كَفُورࣰ ا",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "So be patient with your Lord’s decree, and do not yield to any evildoer or ˹staunch˺ disbeliever from among them",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "故你应当忍受你的主的判决。你不要顺从他们中任何犯罪的人，或孤恩的人。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "अतः अपने रब के हुक्म और फ़ैसले के लिए धैर्य से काम लो और उनमें से किसी पापी या कृतघ्न का आज्ञापालन न करना",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Espera pacientemente el juicio de tu Señor y no obedezcas al pecador desagradecido",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Endure donc ce que ton Seigneur a décrété, et n'obéis ni au pécheur, parmi eux, ni au grand mécréant",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "অতএব, আপনি আপনার পালনকর্তার আদেশের জন্যে ধৈর্য্য সহকারে অপেক্ষা করুন এবং ওদের মধ্যকার কোন পাপিষ্ঠ কাফেরের আনুগত্য করবেন না।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Então, pacienta quanto ao julgamento de teu Senhor e não obedeças, dentre eles, a pecador nem a ingrato algum",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Потерпи же до решения твоего Господа и не повинуйся грешникам и неверующим среди них",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "تو اپنے پروردگار کے حکم کے مطابق صبر کئے رہو اور ان لوگوں میں سے کسی بد عمل اور ناشکرے کا کہا نہ مانو",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_076_025",
+      "reference": {
+        "surah_number": 76,
+        "surah_name": "Al-Insaan",
+        "surah_name_ar": "سُوْرَةُ الدَّهْرِ",
+        "surah_name_translation": "Man",
+        "ayah_number": 25,
+        "juz": 29,
+        "revelation_type": "Madina"
+      },
+      "arabic_word_count": 6,
+      "translations": {
+        "ar": {
+          "text": "وَٱذۡكُرِ ٱسۡمَ رَبِّكَ بُكۡرَةࣰ وَأَصِيلࣰ ا",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "˹Always˺ remember the Name of your Lord morning and evening",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "你应当朝夕记念你的主的尊名，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "और प्रातःकाल और संध्या समय अपने रब के नाम का स्मरण करो",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Y celebra el nombre de tu Señor por la mañana y por la tarde",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Et invoque le nom de ton Seigneur, matin et après-midi",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "এবং সকাল-সন্ধ্যায় আপন পালনকর্তার নাম স্মরণ করুন।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E lembra-te do nome de teu Senhor, ao alvorecer e ao entardecer",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Поминай имя твоего Господа утром и перед закатом",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور صبح وشام اپنے پروردگار کا نام لیتے رہو",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_076_026",
+      "reference": {
+        "surah_number": 76,
+        "surah_name": "Al-Insaan",
+        "surah_name_ar": "سُوْرَةُ الدَّهْرِ",
+        "surah_name_translation": "Man",
+        "ayah_number": 26,
+        "juz": 29,
+        "revelation_type": "Madina"
+      },
+      "arabic_word_count": 8,
+      "translations": {
+        "ar": {
+          "text": "وَمِنَ ٱلَّيۡلِ فَٱسۡجُدۡ لَهُۥ وَسَبِّحۡهُ لَيۡلࣰ ا طَوِيلًا",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "and prostrate before Him during part of the night, and glorify Him long at night",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "夜里，你应当以小部份时间向他叩头，以大部份时间赞颂他。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "और रात के कुछ हिस्से में भी उसे सजदा करो, लम्बी-लम्बी रात तक उसकी तसबीह करते रहो",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Y por la noche prostérnate ante Él. Usa gran parte de la noche para glorificarlo",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "et prosterne-toi devant Lui une partie de la nuit; et glorifie-Le de longues [heures] pendant la nuit",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "রাত্রির কিছু অংশে তাঁর উদ্দেশে সিজদা করুন এবং রাত্রির দীর্ঘ সময় তাঁর পবিত্রতা বর্ণনা করুন।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E, durante a noite, prosterna-te diante dEle; e glorifica-O, durante a longa noite",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "а также ночью. Падай ниц пред Ним и славь Его долгой ночью",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور رات کو بڑی رات تک سجدے کرو اور اس کی پاکی بیان کرتے رہو",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_076_027",
+      "reference": {
+        "surah_number": 76,
+        "surah_name": "Al-Insaan",
+        "surah_name_ar": "سُوْرَةُ الدَّهْرِ",
+        "surah_name_translation": "Man",
+        "ayah_number": 27,
+        "juz": 29,
+        "revelation_type": "Madina"
+      },
+      "arabic_word_count": 10,
+      "translations": {
+        "ar": {
+          "text": "إِنَّ هَٰٓؤُلَآءِ يُحِبُّونَ ٱلۡعَاجِلَةَ وَيَذَرُونَ وَرَآءَهُمۡ يَوۡمࣰ ا ثَقِيلࣰ ا",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Surely those ˹pagans˺ love this fleeting world, ˹totally˺ neglecting a weighty Day ahead of them",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "这等人的确爱好现世，而忽视未来的严重的一日。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "निस्संदेह ये लोग शीघ्र प्राप्त होनेवाली चीज़ (संसार) से प्रेम रखते है और एक भारी दिन को अपने परे छोड़ रह है",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Los que rechazan el Mensaje aman la vida efímera y dan la espalda a un día cargado de aflicción [en el que serán juzgados]",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Ces gens-là aiment [la vie] éphémère (la vie sur terre) et laissent derrière eux un jour bien lourd [le Jour du Jugement]",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "নিশ্চয় এরা পার্থিব জীবনকে ভালবাসে এবং এক কঠিন দিবসকে পশ্চাতে ফেলে রাখে।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Por certo, estes amam a vida transitória e deixam, diante deles, um pesado dia",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Воистину, эти любят жизнь ближнюю и оставляют позади себя Тяжкий день",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "یہ لوگ دنیا کو دوست رکھتے ہیں اور (قیامت کے) بھاری دن کو پس پشت چھوڑے دیتے ہیں",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_076_028",
+      "reference": {
+        "surah_number": 76,
+        "surah_name": "Al-Insaan",
+        "surah_name_ar": "سُوْرَةُ الدَّهْرِ",
+        "surah_name_translation": "Man",
+        "ayah_number": 28,
+        "juz": 29,
+        "revelation_type": "Madina"
+      },
+      "arabic_word_count": 9,
+      "translations": {
+        "ar": {
+          "text": "نَّحۡنُ خَلَقۡنَٰهُمۡ وَشَدَدۡنَآ أَسۡرَهُمۡۖ وَإِذَا شِئۡنَا بَدَّلۡنَآ أَمۡثَٰلَهُمۡ تَبۡدِيلًا",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "It is We Who created them and perfected their ˹physical˺ form. But if We will, We can easily replace them with others",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "我创造了他们，并使他们的体格坚实。如果我意欲，我将以像他们一样的人代替他们。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "हमने उन्हें पैदा किया और उनके जोड़-बन्द मज़बूत किेए और हम जब चाहे उन जैसों को पूर्णतः बदल दें",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "[No reconocen que] Yo los he creado y les he dado una constitución física fuerte, pero si quisiera podría sustituirlos por otros iguales",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "C'est Nous qui les avons créés et avons fortifié leur constitution. Quand Nous voulons, cependant, Nous les remplaçons [facilement] par leurs semblables",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "আমি তাদেরকে সৃষ্টি করেছি এবং মজবুত করেছি তাদের গঠন। আমি যখন ইচ্ছা করব, তখন তাদের পরিবর্তে তাদের অনুরূপ লোক আনব।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Nós os criamos e lhes fortificamos a compleição. E, se quiséssemos, trocá-los-íamos por seus semelhantes, facilmente",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Мы создали их и укрепили их суставы. Но если Мы пожелаем, то заменим их подобными им",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "ہم نے ان کو پیدا کیا اور ان کے مقابل کو مضبوط بنایا۔ اور اگر ہم چاہیں تو ان کے بدلے ان ہی کی طرح اور لوگ لے آئیں",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_076_029",
+      "reference": {
+        "surah_number": 76,
+        "surah_name": "Al-Insaan",
+        "surah_name_ar": "سُوْرَةُ الدَّهْرِ",
+        "surah_name_translation": "Man",
+        "ayah_number": 29,
+        "juz": 29,
+        "revelation_type": "Madina"
+      },
+      "arabic_word_count": 10,
+      "translations": {
+        "ar": {
+          "text": "إِنَّ هَٰذِهِۦ تَذۡكِرَةࣱۖ فَمَن شَآءَ ٱتَّخَذَ إِلَىٰ رَبِّهِۦ سَبِيلࣰ ا",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Surely this is a reminder. So let whoever wills take the ˹Right˺ Way to their Lord",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "这确是教诲，谁愿意觉悟，谁可以选择一条通达他的主的道路。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "निश्चय ही यह एक अनुस्मृति है, अब जो चाहे अपने रब की ओर मार्ग ग्रहण कर ले",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Esta revelación es para reflexionar. Quien quiera, que tome un camino hacia su Señor",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Ceci est un rappel. Que celui qui veut prenne donc le chemin vers son Seigneur",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "এটা উপদেশ, অতএব যার ইচ্ছা হয় সে তার পালনকর্তার পথ অবলম্বন করুক।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Por certo, estes são uma lembrança. Então, quem quiser, tomará um caminho para seu Senhor",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Воистину, это есть Назидание, и тот, кто желает, становится на путь к своему Господу",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "یہ تو نصیحت ہے۔ جو چاہے اپنے پروردگار کی طرف پہنچنے کا رستہ اختیار کرے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_076_030",
+      "reference": {
+        "surah_number": 76,
+        "surah_name": "Al-Insaan",
+        "surah_name_ar": "سُوْرَةُ الدَّهْرِ",
+        "surah_name_translation": "Man",
+        "ayah_number": 30,
+        "juz": 29,
+        "revelation_type": "Madina"
+      },
+      "arabic_word_count": 12,
+      "translations": {
+        "ar": {
+          "text": "وَمَا تَشَآءُونَ إِلَّآ أَن يَشَآءَ ٱللَّهُۚ إِنَّ ٱللَّهَ كَانَ عَلِيمًا حَكِيمࣰ ا",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "But you cannot will ˹to do so˺ unless Allah wills. Indeed, Allah is All-Knowing, All-Wise",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "除真主意欲外，你们决不意欲。真主是全知的，是至睿的。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "और तुम नहीं चाह सकते सिवाय इसके कि अल्लाह चाहे। निस्संदेह अल्लाह सर्वज्ञ, तत्वदर्शी है",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Pero no querrán a menos que quiera Dios, porque Dios todo lo sabe, es Sabio",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Cependant, vous ne saurez vouloir, à moins qu'Allah veuille. Et Allah est Omniscient et Sage",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "আল্লাহর অভিপ্রায় ব্যতিরেকে তোমরা অন্য কোন অভিপ্রায় পোষণ করবে না। আল্লাহ সর্বজ্ঞ প্রজ্ঞাময়।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E não o querereis, a não ser que Allah o queira. Por certo, Allah é Onisciente, Sábio",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Но вы не пожелаете этого, если не пожелает Аллах. Воистину, Аллах - Знающий, Мудрый",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور تم کچھ بھی نہیں چاہ سکتے مگر جو خدا کو منظور ہو۔ بےشک خدا جاننے والا حکمت والا ہے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_076_031",
+      "reference": {
+        "surah_number": 76,
+        "surah_name": "Al-Insaan",
+        "surah_name_ar": "سُوْرَةُ الدَّهْرِ",
+        "surah_name_translation": "Man",
+        "ayah_number": 31,
+        "juz": 29,
+        "revelation_type": "Madina"
+      },
+      "arabic_word_count": 10,
+      "translations": {
+        "ar": {
+          "text": "يُدۡخِلُ مَن يَشَآءُ فِي رَحۡمَتِهِۦۚ وَٱلظَّٰلِمِينَ أَعَدَّ لَهُمۡ عَذَابًا أَلِيمَۢا",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "He admits whoever He wills into His mercy. As for the wrongdoers, He has prepared for them a painful punishment",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "他使他所意欲的人，入在他的慈恩中。至於不义的人们，他已为他们预备了痛苦的刑罚。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "वह जिसे चाहता है अपनी दयालुता में दाख़िल करता है। रहे ज़ालिम, तो उनके लिए उसने दुखद यातना तैयार कर रखी है",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Él acoge en Su misericordia a quien quiere, pero a los opresores les ha preparado un castigo doloroso",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Il fait entrer qui Il veut dans Sa miséricorde. Et quant aux injustes, Il leur a préparé un châtiment douloureux",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "তিনি যাকে ইচ্ছা তাঁর রহমতে দাখিল করেন। আর যালেমদের জন্যে তো প্রস্তুত রেখেছেন মর্মন্তুদ শাস্তি।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Ele faz entrar em Sua misericórdia a quem quer. E para os injustos preparou doloroso castigo",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Он вводит в Свою милость, кого пожелает, а для беззаконников Он приготовил мучительные страдания",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "جس کو چاہتا ہے اپنی رحمت میں داخل کرلیتا ہے اور ظالموں کے لئے اس نے دکھ دینے والا عذاب تیار کر رکھا ہے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    }
+  ]
+}

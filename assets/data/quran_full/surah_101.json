@@ -1,0 +1,621 @@
+{
+  "surah": 101,
+  "verses": [
+    {
+      "content_id": "quran_101_001",
+      "reference": {
+        "surah_number": 101,
+        "surah_name": "Al-Qaari'a",
+        "surah_name_ar": "سُوْرَةُ الْقَارِعَةِ",
+        "surah_name_translation": "The Calamity",
+        "ayah_number": 1,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 1,
+      "translations": {
+        "ar": {
+          "text": "ٱلۡقَارِعَةُ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "The Striking Disaster",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "大难",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "वह खड़खड़ानेवाली",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "El evento repentino",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Le fracas",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "করাঘাতকারী,",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "O estrondo",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Великое бедствие (День воскресения)",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "کھڑ کھڑانے والی",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_101_002",
+      "reference": {
+        "surah_number": 101,
+        "surah_name": "Al-Qaari'a",
+        "surah_name_ar": "سُوْرَةُ الْقَارِعَةِ",
+        "surah_name_translation": "The Calamity",
+        "ayah_number": 2,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 2,
+      "translations": {
+        "ar": {
+          "text": "مَا ٱلۡقَارِعَةُ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "What is the Striking Disaster",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "大难是什么？",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "क्या है वह खड़खड़ानेवाली",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "¿Qué es el evento repentino",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Qu'est-ce que le fracas",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "করাঘাতকারী কি?",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Que é o estrondo",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Что такое Великое бедствие (День воскресения)",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "کھڑ کھڑانے والی کیا ہے؟",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_101_003",
+      "reference": {
+        "surah_number": 101,
+        "surah_name": "Al-Qaari'a",
+        "surah_name_ar": "سُوْرَةُ الْقَارِعَةِ",
+        "surah_name_translation": "The Calamity",
+        "ayah_number": 3,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 4,
+      "translations": {
+        "ar": {
+          "text": "وَمَآ أَدۡرَىٰكَ مَا ٱلۡقَارِعَةُ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "And what will make you realize what the Striking Disaster is",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "你怎能知道大难是什么？",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "और तुम्हें क्या मालूम कि क्या है वह खड़खड़ानेवाली",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "¿Y qué te hará comprender la magnitud del evento repentino",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Et qui te dira ce qu'est le fracas",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "করাঘাতকারী সম্পর্কে আপনি কি জানেন ?",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E o que te faz inteirar-te do que é o estrondo",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Откуда ты мог знать, что такое Великое бедствие (День воскресения)",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور تم کیا جانوں کھڑ کھڑانے والی کیا ہے؟",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_101_004",
+      "reference": {
+        "surah_number": 101,
+        "surah_name": "Al-Qaari'a",
+        "surah_name_ar": "سُوْرَةُ الْقَارِعَةِ",
+        "surah_name_translation": "The Calamity",
+        "ayah_number": 4,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 5,
+      "translations": {
+        "ar": {
+          "text": "يَوۡمَ يَكُونُ ٱلنَّاسُ كَٱلۡفَرَاشِ ٱلۡمَبۡثُوثِ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "˹It is˺ the Day people will be like scattered moths",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "在那日, 众人将似分散的飞蛾",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "जिस दिन लोग बिखरे हुए पतंगों के सदृश हो जाएँगें",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Ese día la gente parecerá mariposas dispersas",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "C'est le jour où les gens seront comme des papillons éparpillés",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "যেদিন মানুষ হবে বিক্ষিপ্ত পতংগের মত",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Ocorrerá, um dia, quando os humanos forem como as borboletas espalhadas",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "В тот день люди будут подобны рассеянным мотылькам",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "(وہ قیامت ہے) جس دن لوگ ایسے ہوں گے جیسے بکھرے ہوئے پتنگے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_101_005",
+      "reference": {
+        "surah_number": 101,
+        "surah_name": "Al-Qaari'a",
+        "surah_name_ar": "سُوْرَةُ الْقَارِعَةِ",
+        "surah_name_translation": "The Calamity",
+        "ayah_number": 5,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 4,
+      "translations": {
+        "ar": {
+          "text": "وَتَكُونُ ٱلۡجِبَالُ كَٱلۡعِهۡنِ ٱلۡمَنفُوشِ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "and the mountains will be like carded wool",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "山岳将似疏松的采绒。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "और पहाड़ के धुन के हुए रंग-बिरंग के ऊन जैसे हो जाएँगे",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "y las montañas copos de lana cardada",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "et les montagnes comme de la laine cardée",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "এবং পর্বতমালা হবে ধুনিত রঙ্গীন পশমের মত।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E as montanhas, como a lã corada, cardada",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "а горы будут подобны расчесанной шерсти",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور پہاڑ ایسے ہو جائیں گے جیسے دھنکی ہوئی رنگ برنگ کی اون",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_101_006",
+      "reference": {
+        "surah_number": 101,
+        "surah_name": "Al-Qaari'a",
+        "surah_name_ar": "سُوْرَةُ الْقَارِعَةِ",
+        "surah_name_translation": "The Calamity",
+        "ayah_number": 6,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 4,
+      "translations": {
+        "ar": {
+          "text": "فَأَمَّا مَن ثَقُلَتۡ مَوَٰزِينُهُۥ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "So as for those whose scale is heavy ˹with good deeds˺",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "至於善功的份量较重者",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "फिर जिस किसी के वज़न भारी होंगे",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Aquel cuyas obras buenas sean más pesadas en la balanza",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "quant à celui dont la balance sera lourde",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "অতএব যার পাল্লা ভারী হবে,",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Então, quanto àquele, cujos pesos em boas ações forem pesados",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Тогда тот, чья чаша Весов окажется тяжелой",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "تو جس کے (اعمال کے) وزن بھاری نکلیں گے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_101_007",
+      "reference": {
+        "surah_number": 101,
+        "surah_name": "Al-Qaari'a",
+        "surah_name_ar": "سُوْرَةُ الْقَارِعَةِ",
+        "surah_name_translation": "The Calamity",
+        "ayah_number": 7,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 4,
+      "translations": {
+        "ar": {
+          "text": "فَهُوَ فِي عِيشَةࣲ رَّاضِيَةࣲ‏",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "they will be in a life of bliss",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "将在满意的生活中",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "वह मनभाते जीवन में रहेगा",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "gozará de una vida placentera",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "il sera dans une vie agréable",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "সে সুখীজীবন যাপন করবে।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Estará em vida agradável",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "обретет приятную жизнь",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "وہ دل پسند عیش میں ہو گا",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_101_008",
+      "reference": {
+        "surah_number": 101,
+        "surah_name": "Al-Qaari'a",
+        "surah_name_ar": "سُوْرَةُ الْقَارِعَةِ",
+        "surah_name_translation": "The Calamity",
+        "ayah_number": 8,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 4,
+      "translations": {
+        "ar": {
+          "text": "وَأَمَّا مَنۡ خَفَّتۡ مَوَٰزِينُهُۥ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "And as for those whose scale is light",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "至於善功的份量较轻者",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "और रहा वह व्यक्ति जिसके वज़न हलके होंगे",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "En cambio, aquel cuyas obras buenas sean más livianas en la balanza",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "et quant à celui dont la balance sera légère",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "আর যার পাল্লা হালকা হবে,",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E quanto áquele, cujos pesos em boas ações forem leves",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Для того же, чья чаша Весов окажется легкой",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور جس کے وزن ہلکے نکلیں گے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_101_009",
+      "reference": {
+        "surah_number": 101,
+        "surah_name": "Al-Qaari'a",
+        "surah_name_ar": "سُوْرَةُ الْقَارِعَةِ",
+        "surah_name_translation": "The Calamity",
+        "ayah_number": 9,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 2,
+      "translations": {
+        "ar": {
+          "text": "فَأُمُّهُۥ هَاوِيَةࣱ‏",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "their home will be the abyss",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "他的归宿是深坑。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "उसकी माँ होगी गहरा खड्ड",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "su morada estará en el abismo",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "sa mère [destination] est un abîme très profond",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "তার ঠিকানা হবে হাবিয়া।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Sua morada será um Abismo",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "матерью станет Пропасть (грешники будут искать убежище в Аду, подобно тому, как ребенок ищет убежище у своей матери; или грешники будут падать в Адскую Пропасть вниз головой)",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اس کا مرجع ہاویہ ہے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_101_010",
+      "reference": {
+        "surah_number": 101,
+        "surah_name": "Al-Qaari'a",
+        "surah_name_ar": "سُوْرَةُ الْقَارِعَةِ",
+        "surah_name_translation": "The Calamity",
+        "ayah_number": 10,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 4,
+      "translations": {
+        "ar": {
+          "text": "وَمَآ أَدۡرَىٰكَ مَا هِيَهۡ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "And what will make you realize what that is",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "你怎能知道深坑里有什么？",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "और तुम्हें क्या मालूम कि वह क्या है",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "¿Y qué te hará comprender qué es el abismo",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Et qui te dira ce que c'est",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "আপনি জানেন তা কি?",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E o que te faz inteirar-te do que é este Abismo",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Откуда ты мог знать, что это такое",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور تم کیا سمجھے کہ ہاویہ کیا چیز ہے؟",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_101_011",
+      "reference": {
+        "surah_number": 101,
+        "surah_name": "Al-Qaari'a",
+        "surah_name_ar": "سُوْرَةُ الْقَارِعَةِ",
+        "surah_name_translation": "The Calamity",
+        "ayah_number": 11,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 2,
+      "translations": {
+        "ar": {
+          "text": "نَارٌ حَامِيَةُۢ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "˹It is˺ a scorching Fire",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "有烈火。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "आग है दहकती हुई",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Es un fuego abrasador",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "C'est un Feu ardent",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "প্রজ্জ্বলিত অগ্নি!",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "É Fogo incandescente",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Это - жаркий Огонь",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "دہکتی ہوئی آگ ہے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,6739 @@
+{
+  "book_key": "adabul-mufrad",
+  "raw_key": "adabul-mufrad",
+  "id": 16,
+  "title_bn": "আদাবুল মুফরাদ",
+  "title_en": "Al-Adab al-Mufrad",
+  "title_ar": "الأدب المفرد",
+  "total_hadiths": 1336,
+  "total_chapters": 22,
+  "total_sections": 644,
+  "chapters": [
+    {
+      "id": 1,
+      "display_label": "১",
+      "title": "পিতা-মাতার সাথে সদ্ধ্যবহার",
+      "arabic_title": "",
+      "preface": "",
+      "range": "১ - ৪৬",
+      "order": 1,
+      "hadith_count": 46,
+      "sections_count": 24,
+      "sections": [
+        {
+          "id": 1,
+          "chapter_id": 1,
+          "display_label": "১/১. অধ্যায়ঃ",
+          "title": "আল্লাহর বাণীঃ “আমি মানুষকে তার পিতা-মাতার সাথে সদ্ব্যবহারের নির্দেশ দিয়েছি” (২৯ : ৮)।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 1,
+          "hadith_count": 2
+        },
+        {
+          "id": 2,
+          "chapter_id": 1,
+          "display_label": "১/২. অধ্যায়ঃ",
+          "title": "মায়ের সাথে সদাচার।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 2,
+          "hadith_count": 2
+        },
+        {
+          "id": 3,
+          "chapter_id": 1,
+          "display_label": "১/৩. অধ্যায়ঃ",
+          "title": "পিতার সাথে সদাচার।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 3,
+          "hadith_count": 2
+        },
+        {
+          "id": 4,
+          "chapter_id": 1,
+          "display_label": "১/৪. অধ্যায়ঃ",
+          "title": "পিতা-মাতা যুলুম করলেও তাদের সাথে সদাচার করতে হবে।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 4,
+          "hadith_count": 1
+        },
+        {
+          "id": 5,
+          "chapter_id": 1,
+          "display_label": "১/৫. অধ্যায়ঃ",
+          "title": "পিতা- মাতার সাথে নম্র ভাষায় কথা বলা।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 5,
+          "hadith_count": 2
+        },
+        {
+          "id": 6,
+          "chapter_id": 1,
+          "display_label": "১/৬. অধ্যায়ঃ",
+          "title": "পিতা-মাতার প্রতিদান।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 6,
+          "hadith_count": 5
+        },
+        {
+          "id": 7,
+          "chapter_id": 1,
+          "display_label": "১/৭. অধ্যায়ঃ",
+          "title": "পিতা-মাতার অবাধ্য হওয়ার পরিণতি।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 7,
+          "hadith_count": 2
+        },
+        {
+          "id": 8,
+          "chapter_id": 1,
+          "display_label": "১/৮. অধ্যায়ঃ",
+          "title": "যে ব্যক্তি পিতা-মাতাকে অভিশাপ দেয় আল্লাহ তাকে অভিশাপ দেন।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 8,
+          "hadith_count": 1
+        },
+        {
+          "id": 9,
+          "chapter_id": 1,
+          "display_label": "১/৯. অধ্যায়ঃ",
+          "title": "পাপাচার ব্যতীত অন্য সকল ব্যাপারে পিতা-মাতার অনুগত থাকা।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 9,
+          "hadith_count": 3
+        },
+        {
+          "id": 10,
+          "chapter_id": 1,
+          "display_label": "১/১০. অধ্যায়ঃ",
+          "title": "পিতা-মাতাকে পেয়েও যে ব্যক্তি বেহেশত লাভ করতে পারেনি।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 10,
+          "hadith_count": 1
+        },
+        {
+          "id": 11,
+          "chapter_id": 1,
+          "display_label": "১/১১. অধ্যায়ঃ",
+          "title": "যে ব্যক্তি নিজ পিতা-মাতার সাথে সদাচার করে আল্লাহ তার আয়ু বৃদ্ধি করেন।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 11,
+          "hadith_count": 1
+        },
+        {
+          "id": 12,
+          "chapter_id": 1,
+          "display_label": "১/১২. অধ্যায়ঃ",
+          "title": "কেউ নিজ মুশরিক পিতার জন্য যেন ক্ষমা প্রার্থনা না করে।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 12,
+          "hadith_count": 1
+        },
+        {
+          "id": 13,
+          "chapter_id": 1,
+          "display_label": "১/১৩. অধ্যায়ঃ",
+          "title": "মুশরিক পিতার সাথেও সদাচার করতে হবে।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 13,
+          "hadith_count": 3
+        },
+        {
+          "id": 14,
+          "chapter_id": 1,
+          "display_label": "১/১৪. অধ্যায়ঃ",
+          "title": "কেউ যেন নিজ পিতা-মাতাকে গালি না দেয়।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 14,
+          "hadith_count": 2
+        },
+        {
+          "id": 15,
+          "chapter_id": 1,
+          "display_label": "১/১৫. অধ্যায়ঃ",
+          "title": "অনুচ্ছেদ পিতা-মাতার অবাধ হওয়ার শাস্তি।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 15,
+          "hadith_count": 2
+        },
+        {
+          "id": 16,
+          "chapter_id": 1,
+          "display_label": "১/১৬. অধ্যায়ঃ",
+          "title": "পিতা-মাতার কান্না।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 16,
+          "hadith_count": 1
+        },
+        {
+          "id": 17,
+          "chapter_id": 1,
+          "display_label": "১/১৭. অধ্যায়ঃ",
+          "title": "পিতা-মাতার দোয়া।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 17,
+          "hadith_count": 2
+        },
+        {
+          "id": 18,
+          "chapter_id": 1,
+          "display_label": "১/১৮. অধ্যায়ঃ",
+          "title": "খৃস্টান ধর্মাবলম্বী মাকে ইসলাম গ্রহণের দাওয়াত দেয়া।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 18,
+          "hadith_count": 1
+        },
+        {
+          "id": 19,
+          "chapter_id": 1,
+          "display_label": "১/১৯. অধ্যায়ঃ",
+          "title": "মৃত পিতা-মাতার সাথে সদ্ব্যবহার",
+          "arabic_title": "",
+          "preface": "",
+          "order": 19,
+          "hadith_count": 5
+        },
+        {
+          "id": 20,
+          "chapter_id": 1,
+          "display_label": "১/২০. অধ্যায়ঃ",
+          "title": "পিতা যাদের সাথে সদাচার করতেন তাদের সাথে সস্তানের সদাচার।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 20,
+          "hadith_count": 2
+        },
+        {
+          "id": 21,
+          "chapter_id": 1,
+          "display_label": "১/২১. অধ্যায়ঃ",
+          "title": "তোমার পিতা যাদের সাথে সম্পর্ক রাখতেন, তুমি তাদের সাথে সম্পর্কচ্ছেদ করো না। অন্যথায় তোমার ঈমানের আলো নিভে যাবে।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 21,
+          "hadith_count": 1
+        },
+        {
+          "id": 22,
+          "chapter_id": 1,
+          "display_label": "১/২২. অধ্যায়ঃ",
+          "title": "বন্ধুত্ব ও ভালোবাসা উত্তরাধিকার সূত্রে আসে।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 22,
+          "hadith_count": 1
+        },
+        {
+          "id": 23,
+          "chapter_id": 1,
+          "display_label": "১/২৩. অধ্যায়ঃ",
+          "title": "পিতার নাম নিও নাসাঈ, তার আগে বসো না এবং তার আগে আগে চলো না।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 23,
+          "hadith_count": 1
+        },
+        {
+          "id": 24,
+          "chapter_id": 1,
+          "display_label": "১/২৪. অধ্যায়ঃ",
+          "title": "পিতাকে কি উপনামে ডাকা যায়?",
+          "arabic_title": "",
+          "preface": "",
+          "order": 24,
+          "hadith_count": 2
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "display_label": "২",
+      "title": "আত্মীয়তার বন্ধন",
+      "arabic_title": "",
+      "preface": "",
+      "range": "৪৭ - ৭৫",
+      "order": 2,
+      "hadith_count": 29,
+      "sections_count": 16,
+      "sections": [
+        {
+          "id": 25,
+          "chapter_id": 2,
+          "display_label": "২/১. অধ্যায়ঃ",
+          "title": "আত্মীয়তার বন্ধন অটুট রাখা বাধ্যতামূলক।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 25,
+          "hadith_count": 2
+        },
+        {
+          "id": 26,
+          "chapter_id": 2,
+          "display_label": "২/২. অধ্যায়ঃ",
+          "title": "আত্মীয়তার বন্ধন।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 26,
+          "hadith_count": 3
+        },
+        {
+          "id": 27,
+          "chapter_id": 2,
+          "display_label": "২/৩. অধ্যায়ঃ",
+          "title": "আত্মীয় সম্পর্ক অটুট রাখার ফযীলাত।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 27,
+          "hadith_count": 4
+        },
+        {
+          "id": 28,
+          "chapter_id": 2,
+          "display_label": "২/৪. অধ্যায়ঃ",
+          "title": "আত্মীয়-সম্পর্ক বজায় রাখলে হায়াত বাড়ে।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 28,
+          "hadith_count": 2
+        },
+        {
+          "id": 29,
+          "chapter_id": 2,
+          "display_label": "২/৫. অধ্যায়ঃ",
+          "title": "যে ব্যক্তি আত্মীয় সম্পর্ক বজায় রাখে আল্লাহ তাকে ভালোবাসেন।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 29,
+          "hadith_count": 2
+        },
+        {
+          "id": 30,
+          "chapter_id": 2,
+          "display_label": "২/৬. অধ্যায়ঃ",
+          "title": "অনুচ্ছেদ ঘনিষ্ঠতার পর্যায়ক্রম অনুসারে ঘনিষ্ঠতর আচরণ।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 30,
+          "hadith_count": 3
+        },
+        {
+          "id": 31,
+          "chapter_id": 2,
+          "display_label": "২/৭. অধ্যায়ঃ",
+          "title": "যাদের মধ্যে আত্মীয় সম্পর্ক ছিন্নকারী থাকে তাদের উপর রহমাত নাযিল হয় না।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 31,
+          "hadith_count": 1
+        },
+        {
+          "id": 32,
+          "chapter_id": 2,
+          "display_label": "২/৮. অধ্যায়ঃ",
+          "title": "আত্মীয় সম্পর্ক ছিন্নকারীর পাপ।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 32,
+          "hadith_count": 3
+        },
+        {
+          "id": 33,
+          "chapter_id": 2,
+          "display_label": "২/৯. অধ্যায়ঃ",
+          "title": "আত্মীয়তার বন্ধন ছিন্নকারীর পার্থিব শাস্তি।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 33,
+          "hadith_count": 1
+        },
+        {
+          "id": 34,
+          "chapter_id": 2,
+          "display_label": "২/১০. অধ্যায়ঃ",
+          "title": "প্রতিদানের বিনিময়ে আত্মীয়তার বন্ধন রক্ষাকারী স্বার্থপর।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 34,
+          "hadith_count": 1
+        },
+        {
+          "id": 35,
+          "chapter_id": 2,
+          "display_label": "২/১১. অধ্যায়ঃ",
+          "title": "বিবেক বর্জিত আত্মীয়ের সাথে সম্পর্ক রক্ষাকারীর ফযীলাত।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 35,
+          "hadith_count": 1
+        },
+        {
+          "id": 36,
+          "chapter_id": 2,
+          "display_label": "২/১২. অধ্যায়ঃ",
+          "title": "যে ব্যক্তি ইসলাম-পূর্ব যুগে আত্মীয়-স্বজনের সাথে সম্পর্ক বজায় রেখেছে, অতঃপর ইসলাম গ্রহণ করেছে।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 36,
+          "hadith_count": 1
+        },
+        {
+          "id": 37,
+          "chapter_id": 2,
+          "display_label": "২/১৩. অধ্যায়ঃ",
+          "title": "মুশরিক আত্মীয়ের সাথে রক্তের বন্ধন ও পরস্পর উপহারাদি বিনিময়।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 37,
+          "hadith_count": 1
+        },
+        {
+          "id": 38,
+          "chapter_id": 2,
+          "display_label": "২/১৪. অধ্যায়ঃ",
+          "title": "আত্মীয়-স্বজনের সাথে সম্পর্ক রক্ষার্থে তোমাদের বংশ পরিচিতি জেনে রাখো।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 38,
+          "hadith_count": 2
+        },
+        {
+          "id": 39,
+          "chapter_id": 2,
+          "display_label": "২/১৫. অধ্যায়ঃ",
+          "title": "মুক্তদাস কি বলবে, আমি অমুকের সাথে সম্পৃক্ত?",
+          "arabic_title": "",
+          "preface": "",
+          "order": 39,
+          "hadith_count": 1
+        },
+        {
+          "id": 40,
+          "chapter_id": 2,
+          "display_label": "২/১৬. অধ্যায়ঃ",
+          "title": "কোন গোষ্ঠীর মুক্তদাস তাদের অন্তর্ভুক্ত।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 40,
+          "hadith_count": 1
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "display_label": "৩",
+      "title": "সন্তানের প্রতি মমতা",
+      "arabic_title": "",
+      "preface": "",
+      "range": "৭৬ - ৯৯",
+      "order": 3,
+      "hadith_count": 24,
+      "sections_count": 14,
+      "sections": [
+        {
+          "id": 41,
+          "chapter_id": 3,
+          "display_label": "৩/১. অধ্যায়ঃ",
+          "title": "যে ব্যক্তি দুইটি বা একটি কন্যা সন্তান পোষে।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 41,
+          "hadith_count": 3
+        },
+        {
+          "id": 42,
+          "chapter_id": 3,
+          "display_label": "৩/২. অধ্যায়ঃ",
+          "title": "যে ব্যক্তি তিন বোনকে লালন-পালন করলো।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 42,
+          "hadith_count": 1
+        },
+        {
+          "id": 43,
+          "chapter_id": 3,
+          "display_label": "৩/৩. অধ্যায়ঃ",
+          "title": "যে ব্যক্তি নিজের তালাকপ্রাপ্তা (বা বিধ বাযযার) কন্যার প্রতিপালন করে তার ফযীলাত।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 43,
+          "hadith_count": 2
+        },
+        {
+          "id": 44,
+          "chapter_id": 3,
+          "display_label": "৩/৪. অধ্যায়ঃ",
+          "title": "যে ব্যক্তি কন্যা সন্তানদের মৃত্যু কামনা অপছন্দ করে।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 44,
+          "hadith_count": 1
+        },
+        {
+          "id": 45,
+          "chapter_id": 3,
+          "display_label": "৩/৫. অধ্যায়ঃ",
+          "title": "মানুষ সন্তানের কারণে কৃপণ ও কাপুরুষ হয়।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 45,
+          "hadith_count": 2
+        },
+        {
+          "id": 46,
+          "chapter_id": 3,
+          "display_label": "৩/৬. অধ্যায়ঃ",
+          "title": "শিশুকে কাঁধে উঠানো।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 46,
+          "hadith_count": 1
+        },
+        {
+          "id": 47,
+          "chapter_id": 3,
+          "display_label": "৩/৭. অধ্যায়ঃ",
+          "title": "সন্তান হলো নয়ন প্রীতিকর।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 47,
+          "hadith_count": 1
+        },
+        {
+          "id": 48,
+          "chapter_id": 3,
+          "display_label": "৩/৮. অধ্যায়ঃ",
+          "title": "যে ব্যক্তি তার সঙ্গীর ধন ও সন্তান বৃদ্ধির দোয়া করে।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 48,
+          "hadith_count": 1
+        },
+        {
+          "id": 49,
+          "chapter_id": 3,
+          "display_label": "৩/৯. অধ্যায়ঃ",
+          "title": "মমতাময়ী মা।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 49,
+          "hadith_count": 1
+        },
+        {
+          "id": 50,
+          "chapter_id": 3,
+          "display_label": "৩/১০. অধ্যায়ঃ",
+          "title": "শিশুদের চুমা দেয়া",
+          "arabic_title": "",
+          "preface": "",
+          "order": 50,
+          "hadith_count": 2
+        },
+        {
+          "id": 51,
+          "chapter_id": 3,
+          "display_label": "৩/১১. অধ্যায়ঃ",
+          "title": "সন্তানের সাথে পিতার সদাচরণ এবং তাকে ভদ্র আচরণ শিখানো।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 51,
+          "hadith_count": 2
+        },
+        {
+          "id": 52,
+          "chapter_id": 3,
+          "display_label": "৩/১২. অধ্যায়ঃ",
+          "title": "নিজ সন্তানের সাথে পিতার সদাচার।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 52,
+          "hadith_count": 1
+        },
+        {
+          "id": 53,
+          "chapter_id": 3,
+          "display_label": "৩/১৩. অধ্যায়ঃ",
+          "title": "যে দয়া করে নাসাঈ, সে দয়া প্রাপ্ত হয় না।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 53,
+          "hadith_count": 5
+        },
+        {
+          "id": 54,
+          "chapter_id": 3,
+          "display_label": "৩/১৪. অধ্যায়ঃ",
+          "title": "আল্লাহর রহমাত শত ভাগে বিভক্ত।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 54,
+          "hadith_count": 1
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "display_label": "৪",
+      "title": "প্রতিবেশীর সাথে সাদাচার",
+      "arabic_title": "",
+      "preface": "",
+      "range": "১০০ - ১২৮",
+      "order": 4,
+      "hadith_count": 29,
+      "sections_count": 17,
+      "sections": [
+        {
+          "id": 55,
+          "chapter_id": 4,
+          "display_label": "৪/১. অধ্যায়ঃ",
+          "title": "প্রতিবেশী সম্পর্কে নসীহত।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 55,
+          "hadith_count": 2
+        },
+        {
+          "id": 56,
+          "chapter_id": 4,
+          "display_label": "৪/২. অধ্যায়ঃ",
+          "title": "প্রতিবেশীর অধিকার।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 56,
+          "hadith_count": 1
+        },
+        {
+          "id": 57,
+          "chapter_id": 4,
+          "display_label": "৪/৩. অধ্যায়ঃ",
+          "title": "প্রতিবেশী থেকে (সদাচার) শুরু করবে।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 57,
+          "hadith_count": 3
+        },
+        {
+          "id": 58,
+          "chapter_id": 4,
+          "display_label": "৪/৪. অধ্যায়ঃ",
+          "title": "নিকটতর প্রতিবেশী থেকে উপহারাদি দান শুরু করবে।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 58,
+          "hadith_count": 2
+        },
+        {
+          "id": 59,
+          "chapter_id": 4,
+          "display_label": "৪/৫. অধ্যায়ঃ",
+          "title": "নিকটতর অতঃপর পরবর্তী নিকটতর প্রতিবেশী।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 59,
+          "hadith_count": 2
+        },
+        {
+          "id": 60,
+          "chapter_id": 4,
+          "display_label": "৪/৬. অধ্যায়ঃ",
+          "title": "যে ব্যক্তি প্রতিবেশীর জন্য নিজের দ্বার রুদ্ধ করে দেয়।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 60,
+          "hadith_count": 1
+        },
+        {
+          "id": 61,
+          "chapter_id": 4,
+          "display_label": "৪/৭. অধ্যায়ঃ",
+          "title": "প্রতিবেশীকে বাদ রেখে তৃপ্তি সহকারে আহার করা নিষেধ।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 61,
+          "hadith_count": 1
+        },
+        {
+          "id": 62,
+          "chapter_id": 4,
+          "display_label": "৪/৮. অধ্যায়ঃ",
+          "title": "তরকারীতে বেশী ঝোল রাখবে এবং তা প্রতিবেশীদেরও দিবে।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 62,
+          "hadith_count": 2
+        },
+        {
+          "id": 63,
+          "chapter_id": 4,
+          "display_label": "৪/৯. অধ্যায়ঃ",
+          "title": "উত্তম প্রতিবেশী",
+          "arabic_title": "",
+          "preface": "",
+          "order": 63,
+          "hadith_count": 1
+        },
+        {
+          "id": 64,
+          "chapter_id": 4,
+          "display_label": "৪/১০. অধ্যায়ঃ",
+          "title": "সৎ প্রতিবেশী।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 64,
+          "hadith_count": 1
+        },
+        {
+          "id": 65,
+          "chapter_id": 4,
+          "display_label": "৪/১১. অধ্যায়ঃ",
+          "title": "নিকৃষ্ট প্রতিবেশী।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 65,
+          "hadith_count": 2
+        },
+        {
+          "id": 66,
+          "chapter_id": 4,
+          "display_label": "৪/১২. অধ্যায়ঃ",
+          "title": "কেউ যেন তার প্রতিবেশীকে কষ্ট না দেয়।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 66,
+          "hadith_count": 3
+        },
+        {
+          "id": 67,
+          "chapter_id": 4,
+          "display_label": "৪/১৩. অধ্যায়ঃ",
+          "title": "এক প্রতিবেশিনী অপর প্রতিবেশিনীকে এমনকি বকরীর ক্ষুর উপটৌকন দেওয়াকেও যেন তুচ্ছ মনে না করে।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 67,
+          "hadith_count": 2
+        },
+        {
+          "id": 68,
+          "chapter_id": 4,
+          "display_label": "৪/১৪. অধ্যায়ঃ",
+          "title": "প্রতিবেশীর অভিযোগ ।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 68,
+          "hadith_count": 3
+        },
+        {
+          "id": 69,
+          "chapter_id": 4,
+          "display_label": "৪/১৫. অধ্যায়ঃ",
+          "title": "যে ব্যক্তি তার প্রতিবেশীকে কষ্ট দিতে দিতে বাড়ি ছাড়তে বাধ্য করলো।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 69,
+          "hadith_count": 1
+        },
+        {
+          "id": 70,
+          "chapter_id": 4,
+          "display_label": "৪/১৬. অধ্যায়ঃ",
+          "title": "ইহুদী প্রতিবেশী।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 70,
+          "hadith_count": 1
+        },
+        {
+          "id": 71,
+          "chapter_id": 4,
+          "display_label": "৪/১৭. অধ্যায়ঃ",
+          "title": "মান-মৰ্যাদা।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 71,
+          "hadith_count": 1
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "display_label": "৫",
+      "title": "ভদ্র আচার ব্যাবহার",
+      "arabic_title": "",
+      "preface": "",
+      "range": "১২৯ - ২১৯",
+      "order": 5,
+      "hadith_count": 91,
+      "sections_count": 42,
+      "sections": [
+        {
+          "id": 72,
+          "chapter_id": 5,
+          "display_label": "৫/১. অধ্যায়ঃ",
+          "title": "সৎ-অসৎনির্বিশেষে সকলের সাথে সদাচার।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 72,
+          "hadith_count": 1
+        },
+        {
+          "id": 73,
+          "chapter_id": 5,
+          "display_label": "৫/২. অধ্যায়ঃ",
+          "title": "ইয়াতীমের লালন-পালনকারীর মর্যাদা।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 73,
+          "hadith_count": 1
+        },
+        {
+          "id": 74,
+          "chapter_id": 5,
+          "display_label": "৫/৩. অধ্যায়ঃ",
+          "title": "নিজের ইয়াতীম পোষ্যদের লালনকারীর মর্যাদা।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 74,
+          "hadith_count": 1
+        },
+        {
+          "id": 75,
+          "chapter_id": 5,
+          "display_label": "৫/৪. অধ্যায়ঃ",
+          "title": "যে ব্যক্তি দরিদ্র পিতা-মাতার সন্তান লালন-পালন করে তার মর্যাদা।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 75,
+          "hadith_count": 4
+        },
+        {
+          "id": 76,
+          "chapter_id": 5,
+          "display_label": "৫/৫. অধ্যায়ঃ",
+          "title": "যে ঘরে ইয়াতীম আছে এবং তার সাথে সদ্ব্যবহার করা হয় সেই ঘর সর্বোত্তম।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 76,
+          "hadith_count": 1
+        },
+        {
+          "id": 77,
+          "chapter_id": 5,
+          "display_label": "৫/৬. অধ্যায়ঃ",
+          "title": "ইয়াতীমের জন্য দয়ার্দ্র পিতৃতুল্য হও।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 77,
+          "hadith_count": 3
+        },
+        {
+          "id": 78,
+          "chapter_id": 5,
+          "display_label": "৫/৭. অধ্যায়ঃ",
+          "title": "সন্তানের কারণে যে নারী ধৈর্য ধারণ করেছে এবং পুনর্বিবাহ থেকে বিরত থেকেছে।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 78,
+          "hadith_count": 1
+        },
+        {
+          "id": 79,
+          "chapter_id": 5,
+          "display_label": "৫/৮. অধ্যায়ঃ",
+          "title": "ইয়াতীমদের আদব-কায়দা শিক্ষাদান।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 79,
+          "hadith_count": 1
+        },
+        {
+          "id": 80,
+          "chapter_id": 5,
+          "display_label": "৫/৯. অধ্যায়ঃ",
+          "title": "যার সন্তান মারা গেছে তার মর্যাদা",
+          "arabic_title": "",
+          "preface": "",
+          "order": 80,
+          "hadith_count": 9
+        },
+        {
+          "id": 81,
+          "chapter_id": 5,
+          "display_label": "৫/১০. অধ্যায়ঃ",
+          "title": "গর্ভপাতে যার সন্তান মারা যায়।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 81,
+          "hadith_count": 4
+        },
+        {
+          "id": 82,
+          "chapter_id": 5,
+          "display_label": "৫/১১. অধ্যায়ঃ",
+          "title": "(মহানবী (সাঃ)-এর অন্তিম উপদেশ) উত্তম ব্যবহার।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 82,
+          "hadith_count": 3
+        },
+        {
+          "id": 83,
+          "chapter_id": 5,
+          "display_label": "৫/১২. অধ্যায়ঃ",
+          "title": "নীচ ব্যবহার।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 83,
+          "hadith_count": 3
+        },
+        {
+          "id": 84,
+          "chapter_id": 5,
+          "display_label": "৫/১৩. অধ্যায়ঃ",
+          "title": "বেদুইনের নিকট দাস-দাসী বিক্রয়।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 84,
+          "hadith_count": 1
+        },
+        {
+          "id": 85,
+          "chapter_id": 5,
+          "display_label": "৫/১৪. অধ্যায়ঃ",
+          "title": "খাদেমের সাথে ক্ষমাসুন্দর ব্যবহার।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 85,
+          "hadith_count": 2
+        },
+        {
+          "id": 86,
+          "chapter_id": 5,
+          "display_label": "৫/১৫. অধ্যায়ঃ",
+          "title": "ক্রীতদাস চুরির অপরাধ করলে।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 86,
+          "hadith_count": 1
+        },
+        {
+          "id": 87,
+          "chapter_id": 5,
+          "display_label": "৫/১৬. অধ্যায়ঃ",
+          "title": "খাদেম অপরাধ করলে।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 87,
+          "hadith_count": 1
+        },
+        {
+          "id": 88,
+          "chapter_id": 5,
+          "display_label": "৫/১৭. অধ্যায়ঃ",
+          "title": "যে ব্যক্তি ক্ষতির আশংকায় খাদেমের নিকট সীলমোহর করে মাল সোপর্দ করে।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 88,
+          "hadith_count": 1
+        },
+        {
+          "id": 89,
+          "chapter_id": 5,
+          "display_label": "৫/১৮. অধ্যায়ঃ",
+          "title": "যে ব্যক্তি সন্দিহান হওয়া থেকে বাঁচার জন্য নিজ খাদেমের নিকট গণনা করে দেয়।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 89,
+          "hadith_count": 2
+        },
+        {
+          "id": 90,
+          "chapter_id": 5,
+          "display_label": "৫/১৯. অধ্যায়ঃ",
+          "title": "খাদেমকে শিষ্টাচার শিক্ষাদান।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 90,
+          "hadith_count": 2
+        },
+        {
+          "id": 91,
+          "chapter_id": 5,
+          "display_label": "৫/২০. অধ্যায়ঃ",
+          "title": "আল্লাহ তার মুখমণ্ডল বিকৃত করুন- একথা বলো না।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 91,
+          "hadith_count": 2
+        },
+        {
+          "id": 92,
+          "chapter_id": 5,
+          "display_label": "৫/২১. অধ্যায়ঃ",
+          "title": "মুখমণ্ডলে আঘাত দেয়া পরিহার করবে।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 92,
+          "hadith_count": 2
+        },
+        {
+          "id": 93,
+          "chapter_id": 5,
+          "display_label": "৫/২২. অধ্যায়ঃ",
+          "title": "কেউ তার গোলামকে চপেটাঘাত করলে সে যেন তাকে স্বেচ্ছায় আযাদ করে দেয়।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 93,
+          "hadith_count": 5
+        },
+        {
+          "id": 94,
+          "chapter_id": 5,
+          "display_label": "৫/২৩. অধ্যায়ঃ",
+          "title": "গোলামের উপর প্রতিশোধ গ্রহণ।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 94,
+          "hadith_count": 6
+        },
+        {
+          "id": 95,
+          "chapter_id": 5,
+          "display_label": "৫/২৪. অধ্যায়ঃ",
+          "title": "তোমরা যা পরিধান করো দাস-দাসীদেরও তাই পরিধান করাও।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 95,
+          "hadith_count": 2
+        },
+        {
+          "id": 96,
+          "chapter_id": 5,
+          "display_label": "৫/২৫. অধ্যায়ঃ",
+          "title": "দাস-দাসীদের গালি দেয়া নিষেধ।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 96,
+          "hadith_count": 1
+        },
+        {
+          "id": 97,
+          "chapter_id": 5,
+          "display_label": "৫/২৬. অধ্যায়ঃ",
+          "title": "লোকে নিজ দাসকে কি সাহায্য করবে ?",
+          "arabic_title": "",
+          "preface": "",
+          "order": 97,
+          "hadith_count": 2
+        },
+        {
+          "id": 98,
+          "chapter_id": 5,
+          "display_label": "৫/২৭. অধ্যায়ঃ",
+          "title": "দাসের উপর তার মাধ্যতীত কাজের বোঝা চাপানো নিষেধ।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 98,
+          "hadith_count": 3
+        },
+        {
+          "id": 99,
+          "chapter_id": 5,
+          "display_label": "৫/২৮. অধ্যায়ঃ",
+          "title": "নিজ গোলাম ও খাদেমের জন্য কোন ব্যক্তির খরচ দানরূপে গণ্য।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 99,
+          "hadith_count": 3
+        },
+        {
+          "id": 100,
+          "chapter_id": 5,
+          "display_label": "৫/২৯. অধ্যায়ঃ",
+          "title": "কেউ তার দাসের সাথে একত্রে আহার করা অপছন্দ করলে।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 100,
+          "hadith_count": 1
+        },
+        {
+          "id": 101,
+          "chapter_id": 5,
+          "display_label": "৫/৩০. অধ্যায়ঃ",
+          "title": "কোন ব্যক্তি নিজে যা খাবে তার দাসকেও তা খাওয়াবে।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 101,
+          "hadith_count": 1
+        },
+        {
+          "id": 102,
+          "chapter_id": 5,
+          "display_label": "৫/৩১. অধ্যায়ঃ",
+          "title": "কোন ব্যক্তি আহারের সময় তার খাদেমকেও কি তার সাথে বসাবে?",
+          "arabic_title": "",
+          "preface": "",
+          "order": 102,
+          "hadith_count": 2
+        },
+        {
+          "id": 103,
+          "chapter_id": 5,
+          "display_label": "৫/৩২. অধ্যায়ঃ",
+          "title": "গোলাম তার মালিকের কল্যাণ কামনা করলে।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 103,
+          "hadith_count": 4
+        },
+        {
+          "id": 104,
+          "chapter_id": 5,
+          "display_label": "৫/৩৩. অধ্যায়ঃ",
+          "title": "গোলামও একজন দায়িত্বশীল।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 104,
+          "hadith_count": 2
+        },
+        {
+          "id": 105,
+          "chapter_id": 5,
+          "display_label": "৫/৩৪. অধ্যায়ঃ",
+          "title": "যে ব্যক্তি গোলাম হওয়া পছন্দ করে।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 105,
+          "hadith_count": 1
+        },
+        {
+          "id": 106,
+          "chapter_id": 5,
+          "display_label": "৫/৩৫. অধ্যায়ঃ",
+          "title": "গোলামকে “আমার দাস” বলে সম্বোধন করবে না।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 106,
+          "hadith_count": 1
+        },
+        {
+          "id": 107,
+          "chapter_id": 5,
+          "display_label": "৫/৩৬. অধ্যায়ঃ",
+          "title": "গোলাম কি বলবে, ‘আমার মনিব’?",
+          "arabic_title": "",
+          "preface": "",
+          "order": 107,
+          "hadith_count": 2
+        },
+        {
+          "id": 108,
+          "chapter_id": 5,
+          "display_label": "৫/৩৭. অধ্যায়ঃ",
+          "title": "পুরুষলোক তার পরিবার বা সংসারের পৃষ্ঠপোষক।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 108,
+          "hadith_count": 2
+        },
+        {
+          "id": 109,
+          "chapter_id": 5,
+          "display_label": "৫/৩৮. অধ্যায়ঃ",
+          "title": "স্ত্রীলোক পৃষ্ঠপোষক ও পরিচালক।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 109,
+          "hadith_count": 1
+        },
+        {
+          "id": 110,
+          "chapter_id": 5,
+          "display_label": "৫/৩৯. অধ্যায়ঃ",
+          "title": "যার সাথে ভালো ব্যবহার করা হয় সে যেন তার উত্তম বিনিময় দেয়।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 110,
+          "hadith_count": 2
+        },
+        {
+          "id": 111,
+          "chapter_id": 5,
+          "display_label": "৫/৪০. অধ্যায়ঃ",
+          "title": "কারো ভালো ব্যবহারের প্রতিদান দেয়া সম্ভব না হলে তার জন্য দোয়া করবে।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 111,
+          "hadith_count": 1
+        },
+        {
+          "id": 112,
+          "chapter_id": 5,
+          "display_label": "৫/৪১. অধ্যায়ঃ",
+          "title": "যে ব্যক্তি মানুষের প্রতি কৃতজ্ঞ নয়",
+          "arabic_title": "",
+          "preface": "",
+          "order": 112,
+          "hadith_count": 2
+        },
+        {
+          "id": 113,
+          "chapter_id": 5,
+          "display_label": "৫/৪২. অধ্যায়ঃ",
+          "title": "কোন ব্যক্তির তার ভাইকে সাহায্য করা।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 113,
+          "hadith_count": 1
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "display_label": "৬",
+      "title": "বদান্যতা, কৃপণতা ও চারিত্রিক দোষ-ত্রুটি",
+      "arabic_title": "",
+      "preface": "",
+      "range": "২২০ - ৪৯২",
+      "order": 6,
+      "hadith_count": 273,
+      "sections_count": 113,
+      "sections": [
+        {
+          "id": 114,
+          "chapter_id": 6,
+          "display_label": "৬/১. অধ্যায়ঃ",
+          "title": "দুনিয়ার সৎকর্মশীলগণই আখেরাতে সৎকর্মশীল হিসেবে গণ্য হবে।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 114,
+          "hadith_count": 3
+        },
+        {
+          "id": 115,
+          "chapter_id": 6,
+          "display_label": "৬/২. অধ্যায়ঃ",
+          "title": "প্রতিটি সৎকাজ দান-খয়রাততুল্য।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 115,
+          "hadith_count": 4
+        },
+        {
+          "id": 116,
+          "chapter_id": 6,
+          "display_label": "৬/৩. অধ্যায়ঃ",
+          "title": "রাস্তা থেকে কষ্টদায়ক বস্তু অপসারণ।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 116,
+          "hadith_count": 3
+        },
+        {
+          "id": 117,
+          "chapter_id": 6,
+          "display_label": "৬/৪. অধ্যায়ঃ",
+          "title": "উত্তম কথা।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 117,
+          "hadith_count": 3
+        },
+        {
+          "id": 118,
+          "chapter_id": 6,
+          "display_label": "৬/৫. অধ্যায়ঃ",
+          "title": "সজি বাগানে গমন এবং থলে ভর্তি জিনিসপত্রসহ তা কাঁধে বহন করে বাড়ি ফেরা।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 118,
+          "hadith_count": 2
+        },
+        {
+          "id": 119,
+          "chapter_id": 6,
+          "display_label": "৬/৬. অধ্যায়ঃ",
+          "title": "ভূ-সম্পত্তি দেখতে যাওয়া।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 119,
+          "hadith_count": 2
+        },
+        {
+          "id": 120,
+          "chapter_id": 6,
+          "display_label": "৬/৭. অধ্যায়ঃ",
+          "title": "মুসলমান তার ভাইয়ের আয়নাস্বরূপ।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 120,
+          "hadith_count": 3
+        },
+        {
+          "id": 121,
+          "chapter_id": 6,
+          "display_label": "৬/৮. অধ্যায়ঃ",
+          "title": "যে ধরনের খেলাধুলা, হাসি-ঠাট্টা ও রসিকতা নিষিদ্ধ।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 121,
+          "hadith_count": 1
+        },
+        {
+          "id": 122,
+          "chapter_id": 6,
+          "display_label": "৬/৯. অধ্যায়ঃ",
+          "title": "কল্যাণের দিকে পথ প্রদর্শন।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 122,
+          "hadith_count": 1
+        },
+        {
+          "id": 123,
+          "chapter_id": 6,
+          "display_label": "৬/১০. অধ্যায়ঃ",
+          "title": "মানুষের প্রতি ক্ষমা ও উদারতা প্রদর্শন।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 123,
+          "hadith_count": 3
+        },
+        {
+          "id": 124,
+          "chapter_id": 6,
+          "display_label": "৬/১১. অধ্যায়ঃ",
+          "title": "মানুষের সাথে খোলা মনে মেলামেশা করা।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 124,
+          "hadith_count": 4
+        },
+        {
+          "id": 125,
+          "chapter_id": 6,
+          "display_label": "৬/১২. অধ্যায়ঃ",
+          "title": "মুচকি হাসি।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 125,
+          "hadith_count": 2
+        },
+        {
+          "id": 126,
+          "chapter_id": 6,
+          "display_label": "৬/১৩. অধ্যায়ঃ",
+          "title": "হাসি।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 126,
+          "hadith_count": 3
+        },
+        {
+          "id": 127,
+          "chapter_id": 6,
+          "display_label": "৬/১৪. অধ্যায়ঃ",
+          "title": "তুমি আবির্ভূত হলে সশরীরে আবির্ভূত হও এবং প্রস্থান করলেও সশরীরে প্রস্থান করো।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 127,
+          "hadith_count": 1
+        },
+        {
+          "id": 128,
+          "chapter_id": 6,
+          "display_label": "৬/১৫. অধ্যায়ঃ",
+          "title": "পরামর্শদাতা হলো আমানতদার।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 128,
+          "hadith_count": 1
+        },
+        {
+          "id": 129,
+          "chapter_id": 6,
+          "display_label": "৬/১৬. অধ্যায়ঃ",
+          "title": "পরামর্শ করা।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 129,
+          "hadith_count": 2
+        },
+        {
+          "id": 130,
+          "chapter_id": 6,
+          "display_label": "৬/১৭. অধ্যায়ঃ",
+          "title": "যে ব্যক্তি তার ভাইকে ভ্রান্ত পরামর্শ দেয় তার পাপ।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 130,
+          "hadith_count": 1
+        },
+        {
+          "id": 131,
+          "chapter_id": 6,
+          "display_label": "৬/১৮. অধ্যায়ঃ",
+          "title": "মানুষের পারস্পরিক মহব্বত।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 131,
+          "hadith_count": 1
+        },
+        {
+          "id": 132,
+          "chapter_id": 6,
+          "display_label": "৬/১৯. অধ্যায়ঃ",
+          "title": "স্নেহ-মমতা।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 132,
+          "hadith_count": 3
+        },
+        {
+          "id": 133,
+          "chapter_id": 6,
+          "display_label": "৬/২০. অধ্যায়ঃ",
+          "title": "রসিকতা।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 133,
+          "hadith_count": 5
+        },
+        {
+          "id": 134,
+          "chapter_id": 6,
+          "display_label": "৬/২১. অধ্যায়ঃ",
+          "title": "শিশুর সাথে রসিকতা।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 134,
+          "hadith_count": 2
+        },
+        {
+          "id": 135,
+          "chapter_id": 6,
+          "display_label": "৬/২২. অধ্যায়ঃ",
+          "title": "উত্তম স্বভাব-চরিত্র।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 135,
+          "hadith_count": 6
+        },
+        {
+          "id": 136,
+          "chapter_id": 6,
+          "display_label": "৬/২৩. অধ্যায়ঃ",
+          "title": "মনের ঐশ্বর্য।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 136,
+          "hadith_count": 5
+        },
+        {
+          "id": 137,
+          "chapter_id": 6,
+          "display_label": "৬/২৪. অধ্যায়ঃ",
+          "title": "মনের সংকীর্ণতা।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 137,
+          "hadith_count": 3
+        },
+        {
+          "id": 138,
+          "chapter_id": 6,
+          "display_label": "৬/২৫. অধ্যায়ঃ",
+          "title": "লোকজন প্রজ্ঞা অর্জন করতে পারলে উত্তম চরিত্রে ভূষিত হয়।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 138,
+          "hadith_count": 12
+        },
+        {
+          "id": 139,
+          "chapter_id": 6,
+          "display_label": "৬/২৬. অধ্যায়ঃ",
+          "title": "কৃপণতা।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 139,
+          "hadith_count": 3
+        },
+        {
+          "id": 140,
+          "chapter_id": 6,
+          "display_label": "৬/২৭. অধ্যায়ঃ",
+          "title": "উত্তম মাল উত্তম লোকের জন্য।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 140,
+          "hadith_count": 1
+        },
+        {
+          "id": 141,
+          "chapter_id": 6,
+          "display_label": "৬/২৮. অধ্যায়ঃ",
+          "title": "যে ব্যক্তি নিজ বাড়িতে নিরাপদে রাত কাটালো।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 141,
+          "hadith_count": 1
+        },
+        {
+          "id": 142,
+          "chapter_id": 6,
+          "display_label": "৬/২৯. অধ্যায়ঃ",
+          "title": "উৎফুল্ল মন।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 142,
+          "hadith_count": 4
+        },
+        {
+          "id": 143,
+          "chapter_id": 6,
+          "display_label": "৬/৩০. অধ্যায়ঃ",
+          "title": "দুস্থজনকে সাহায্য করা অপরিহার্য।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 143,
+          "hadith_count": 2
+        },
+        {
+          "id": 144,
+          "chapter_id": 6,
+          "display_label": "৬/৩১. অধ্যায়ঃ",
+          "title": "যে ব্যক্তি চরিত্রবান হওয়ার জন্য আল্লাহর কাছে দোয়া করে।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 144,
+          "hadith_count": 2
+        },
+        {
+          "id": 145,
+          "chapter_id": 6,
+          "display_label": "৬/৩২. অধ্যায়ঃ",
+          "title": "মুমিন ব্যক্তি তিরস্কারকারী হতে পারে না।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 145,
+          "hadith_count": 7
+        },
+        {
+          "id": 146,
+          "chapter_id": 6,
+          "display_label": "৬/৩৩. অধ্যায়ঃ",
+          "title": "অভিশাপকারী।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 146,
+          "hadith_count": 3
+        },
+        {
+          "id": 147,
+          "chapter_id": 6,
+          "display_label": "৬/৩৪. অধ্যায়ঃ",
+          "title": "কেউ নিজ গোলামকে অভিশাপ দিলে যেন তাকে আযাদ করে দেয়।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 147,
+          "hadith_count": 1
+        },
+        {
+          "id": 148,
+          "chapter_id": 6,
+          "display_label": "৬/৩৫. অধ্যায়ঃ",
+          "title": "আল্লাহর অভিশাপ, আল্লাহর ক্রোধ এবং আগুন দ্বারা অভিশাপ দেয়া।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 148,
+          "hadith_count": 1
+        },
+        {
+          "id": 149,
+          "chapter_id": 6,
+          "display_label": "৬/৩৬. অধ্যায়ঃ",
+          "title": "কাফেরদেরকে অভিসম্পাত করা।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 149,
+          "hadith_count": 1
+        },
+        {
+          "id": 150,
+          "chapter_id": 6,
+          "display_label": "৬/৩৭. অধ্যায়ঃ",
+          "title": "চোগলখোর।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 150,
+          "hadith_count": 2
+        },
+        {
+          "id": 151,
+          "chapter_id": 6,
+          "display_label": "৬/৩৮. অধ্যায়ঃ",
+          "title": "যে ব্যক্তি অশ্লীলতা শোনে এবং তা ছড়ায়।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 151,
+          "hadith_count": 3
+        },
+        {
+          "id": 152,
+          "chapter_id": 6,
+          "display_label": "৬/৩৯. অধ্যায়ঃ",
+          "title": "লোকের দোষ অনুসন্ধানকারী।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 152,
+          "hadith_count": 6
+        },
+        {
+          "id": 153,
+          "chapter_id": 6,
+          "display_label": "৬/৪০. অধ্যায়ঃ",
+          "title": "মুখের উপর প্রশংসা করা।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 153,
+          "hadith_count": 4
+        },
+        {
+          "id": 154,
+          "chapter_id": 6,
+          "display_label": "৬/৪১. অধ্যায়ঃ",
+          "title": "কোন ব্যক্তি তার সহযোগীর প্রশংসা করলে তাতে তার ক্ষতির আশংকা না থাকলে।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 154,
+          "hadith_count": 2
+        },
+        {
+          "id": 155,
+          "chapter_id": 6,
+          "display_label": "৬/৪২. অধ্যায়ঃ",
+          "title": "চাটুকারদের মুখে ধূলি নিক্ষেপ করা।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 155,
+          "hadith_count": 3
+        },
+        {
+          "id": 156,
+          "chapter_id": 6,
+          "display_label": "৬/৪৩. অধ্যায়ঃ",
+          "title": "যে ব্যক্তি কবিতার মাধ্যমে প্রশংসা করলো।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 156,
+          "hadith_count": 1
+        },
+        {
+          "id": 157,
+          "chapter_id": 6,
+          "display_label": "৬/৪৪. অধ্যায়ঃ",
+          "title": "কবির অনিষ্ট থেকে রক্ষা পাওয়ার জন্য তাকে বখশিশ দেয়া।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 157,
+          "hadith_count": 1
+        },
+        {
+          "id": 158,
+          "chapter_id": 6,
+          "display_label": "৬/৪৫. অধ্যায়ঃ",
+          "title": "বন্ধুকে এমনভাবে সম্মান দেখাবে না যাতে সে অস্বস্তি বোধ করে।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 158,
+          "hadith_count": 1
+        },
+        {
+          "id": 159,
+          "chapter_id": 6,
+          "display_label": "৬/৪৬. অধ্যায়ঃ",
+          "title": "দেখা-সাক্ষাত করতে যাওয়া।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 159,
+          "hadith_count": 2
+        },
+        {
+          "id": 160,
+          "chapter_id": 6,
+          "display_label": "৬/৪৭. অধ্যায়ঃ",
+          "title": "কেউ কোন সম্প্রদায়ের সাথে সাক্ষাত করতে গিয়ে তাদের সাথে তার আহার গ্রহণ।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 160,
+          "hadith_count": 4
+        },
+        {
+          "id": 161,
+          "chapter_id": 6,
+          "display_label": "৬/৪৮. অধ্যায়ঃ",
+          "title": "পারস্পরিক সাক্ষাতের ফযীলাত।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 161,
+          "hadith_count": 1
+        },
+        {
+          "id": 162,
+          "chapter_id": 6,
+          "display_label": "৬/৪৯. অধ্যায়ঃ",
+          "title": "যে ব্যক্তি কোন সম্প্রদায়কে ভালোবাসে কিন্তু তাদের সাথে মিলিত হতে পারছে না।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 162,
+          "hadith_count": 2
+        },
+        {
+          "id": 163,
+          "chapter_id": 6,
+          "display_label": "৬/৫০. অধ্যায়ঃ",
+          "title": "প্রবীণদের মর্যাদা।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 163,
+          "hadith_count": 4
+        },
+        {
+          "id": 164,
+          "chapter_id": 6,
+          "display_label": "৬/৫১. অধ্যায়ঃ",
+          "title": "বড়দের সম্মান করা।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 164,
+          "hadith_count": 2
+        },
+        {
+          "id": 165,
+          "chapter_id": 6,
+          "display_label": "৬/৫২. অধ্যায়ঃ",
+          "title": "বয়োজ্যেষ্ঠ ব্যক্তি বক্তব্য পেশ ও জিজ্ঞাসার সূচনা করবে।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 165,
+          "hadith_count": 1
+        },
+        {
+          "id": 166,
+          "chapter_id": 6,
+          "display_label": "৬/৫৩. অধ্যায়ঃ",
+          "title": "প্রবীণ ব্যক্তি কথা না বললে কনিষ্ঠজন কি কথা বলতে পারে?",
+          "arabic_title": "",
+          "preface": "",
+          "order": 166,
+          "hadith_count": 1
+        },
+        {
+          "id": 167,
+          "chapter_id": 6,
+          "display_label": "৬/৫৪. অধ্যায়ঃ",
+          "title": "প্রবীণদের নেতৃপদে সমাসীন করা।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 167,
+          "hadith_count": 1
+        },
+        {
+          "id": 168,
+          "chapter_id": 6,
+          "display_label": "৬/৫৫. অধ্যায়ঃ",
+          "title": "উপস্থিত শিশুদের মধ্যে সর্বকনিষ্ঠকে ফল খেতে দেয়া।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 168,
+          "hadith_count": 1
+        },
+        {
+          "id": 169,
+          "chapter_id": 6,
+          "display_label": "৬/৫৬. অধ্যায়ঃ",
+          "title": "ছোটদের প্রতি দয়া প্রদর্শন।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 169,
+          "hadith_count": 1
+        },
+        {
+          "id": 170,
+          "chapter_id": 6,
+          "display_label": "৬/৫৭. অধ্যায়ঃ",
+          "title": "শিশুদের সাথে কোলাকুলি করা।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 170,
+          "hadith_count": 1
+        },
+        {
+          "id": 171,
+          "chapter_id": 6,
+          "display_label": "৬/৫৮. অধ্যায়ঃ",
+          "title": "ছোট বালিকাকে কোন ব্যক্তির চুমা দেয়া।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 171,
+          "hadith_count": 2
+        },
+        {
+          "id": 172,
+          "chapter_id": 6,
+          "display_label": "৬/৫৯. অধ্যায়ঃ",
+          "title": "শিশুদের মাথায় হাত বুলানো।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 172,
+          "hadith_count": 2
+        },
+        {
+          "id": 173,
+          "chapter_id": 6,
+          "display_label": "৬/৬০. অধ্যায়ঃ",
+          "title": "ছোট শিশুকে কোন ব্যক্তির “হে আমার পুত্র” বলে সম্বোধন।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 173,
+          "hadith_count": 3
+        },
+        {
+          "id": 174,
+          "chapter_id": 6,
+          "display_label": "৬/৬১. অধ্যায়ঃ",
+          "title": "জগতবাসীর প্রতি দয়া করো।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 174,
+          "hadith_count": 4
+        },
+        {
+          "id": 175,
+          "chapter_id": 6,
+          "display_label": "৬/৬২. অধ্যায়ঃ",
+          "title": "পরিবার-পরিজনের প্রতি মমতা।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 175,
+          "hadith_count": 2
+        },
+        {
+          "id": 176,
+          "chapter_id": 6,
+          "display_label": "৬/৬৩. অধ্যায়ঃ",
+          "title": "নির্বাক প্রাণীর প্রতি দয়া প্রদর্শন।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 176,
+          "hadith_count": 4
+        },
+        {
+          "id": 177,
+          "chapter_id": 6,
+          "display_label": "৬/৬৪. অধ্যায়ঃ",
+          "title": "বাসা থেকে পাখির ডিম আনা।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 177,
+          "hadith_count": 1
+        },
+        {
+          "id": 178,
+          "chapter_id": 6,
+          "display_label": "৬/৬৫. অধ্যায়ঃ",
+          "title": "খাঁচার পাখি",
+          "arabic_title": "",
+          "preface": "",
+          "order": 178,
+          "hadith_count": 2
+        },
+        {
+          "id": 179,
+          "chapter_id": 6,
+          "display_label": "৬/৬৬. অধ্যায়ঃ",
+          "title": "লোকের মধ্যে সদ্ভাব সৃষ্টি করা।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 179,
+          "hadith_count": 1
+        },
+        {
+          "id": 180,
+          "chapter_id": 6,
+          "display_label": "৬/৬৭. অধ্যায়ঃ",
+          "title": "মিথ্যা কথন বর্জনীয়।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 180,
+          "hadith_count": 2
+        },
+        {
+          "id": 181,
+          "chapter_id": 6,
+          "display_label": "৬/৬৮. অধ্যায়ঃ",
+          "title": "যে ব্যক্তি জনগণের উৎপাতে ধৈর্য ধারণ করে।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 181,
+          "hadith_count": 1
+        },
+        {
+          "id": 182,
+          "chapter_id": 6,
+          "display_label": "৬/৬৯. অধ্যায়ঃ",
+          "title": "উৎপাত সহ্য করা।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 182,
+          "hadith_count": 2
+        },
+        {
+          "id": 183,
+          "chapter_id": 6,
+          "display_label": "৬/৭০. অধ্যায়ঃ",
+          "title": "মানুষের মধ্যে আপোষ-রফা করা।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 183,
+          "hadith_count": 2
+        },
+        {
+          "id": 184,
+          "chapter_id": 6,
+          "display_label": "৬/৭১. অধ্যায়ঃ",
+          "title": "তুমি কোন ব্যক্তিকে মিথ্যা কথা বললে, অথচ সে তাকে সত্য মনে করলো।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 184,
+          "hadith_count": 1
+        },
+        {
+          "id": 185,
+          "chapter_id": 6,
+          "display_label": "৬/৭২. অধ্যায়ঃ",
+          "title": "তুমি তোমার ভাইয়ের সাথে ওয়াদা করলে তার খেলাপ করো না।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 185,
+          "hadith_count": 1
+        },
+        {
+          "id": 186,
+          "chapter_id": 6,
+          "display_label": "৬/৭৩. অধ্যায়ঃ",
+          "title": "বংশের খোঁটা দেয়া।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 186,
+          "hadith_count": 1
+        },
+        {
+          "id": 187,
+          "chapter_id": 6,
+          "display_label": "৬/৭৪. অধ্যায়ঃ",
+          "title": "মানুষের নিজ সম্প্রদায়ের প্রতি ভালোবাসা।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 187,
+          "hadith_count": 1
+        },
+        {
+          "id": 188,
+          "chapter_id": 6,
+          "display_label": "৬/৭৫. অধ্যায়ঃ",
+          "title": "কারো সম্পর্কচ্ছেদ করা।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 188,
+          "hadith_count": 1
+        },
+        {
+          "id": 189,
+          "chapter_id": 6,
+          "display_label": "৬/৭৬. অধ্যায়ঃ",
+          "title": "মুসলমানের সাথে সম্পর্কচ্ছেদ নিষিদ্ধ।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 189,
+          "hadith_count": 6
+        },
+        {
+          "id": 190,
+          "chapter_id": 6,
+          "display_label": "৬/৭৭. অধ্যায়ঃ",
+          "title": "যে ব্যক্তি বছরব্যাপী তার ভাইয়ের সাথে সম্পর্কচ্ছেদ করে থাকে।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 190,
+          "hadith_count": 2
+        },
+        {
+          "id": 191,
+          "chapter_id": 6,
+          "display_label": "৬/৭৮. অধ্যায়ঃ",
+          "title": "দুই সম্পর্কচ্ছেদকারী।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 191,
+          "hadith_count": 2
+        },
+        {
+          "id": 192,
+          "chapter_id": 6,
+          "display_label": "৬/৭৯. অধ্যায়ঃ",
+          "title": "শত্রুতা।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 192,
+          "hadith_count": 6
+        },
+        {
+          "id": 193,
+          "chapter_id": 6,
+          "display_label": "৬/৮০. অধ্যায়ঃ",
+          "title": "সালাম সম্পর্কচ্ছেদের কাফফারাস্বরূপ।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 193,
+          "hadith_count": 1
+        },
+        {
+          "id": 194,
+          "chapter_id": 6,
+          "display_label": "৬/৮১. অধ্যায়ঃ",
+          "title": "উঠতি বয়সের যুবকদের পৃথক পৃথক রাখা।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 194,
+          "hadith_count": 1
+        },
+        {
+          "id": 195,
+          "chapter_id": 6,
+          "display_label": "৬/৮২. অধ্যায়ঃ",
+          "title": "পরামর্শ না চাইতেই কেউ তার ভাইকে পরামর্শ দিলে।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 195,
+          "hadith_count": 1
+        },
+        {
+          "id": 196,
+          "chapter_id": 6,
+          "display_label": "৬/৮৩. অধ্যায়ঃ",
+          "title": "যে ব্যক্তি অবাঞ্ছিত দৃষ্টান্ত অপছন্দ করে।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 196,
+          "hadith_count": 1
+        },
+        {
+          "id": 197,
+          "chapter_id": 6,
+          "display_label": "৬/৮৪. অধ্যায়ঃ",
+          "title": "ধোঁকাবাজ ও প্রতারক সম্পর্কে",
+          "arabic_title": "",
+          "preface": "",
+          "order": 197,
+          "hadith_count": 1
+        },
+        {
+          "id": 198,
+          "chapter_id": 6,
+          "display_label": "৬/৮৫. অধ্যায়ঃ",
+          "title": "গালমন্দ করা।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 198,
+          "hadith_count": 3
+        },
+        {
+          "id": 199,
+          "chapter_id": 6,
+          "display_label": "৬/৮৬. অধ্যায়ঃ",
+          "title": "পানি পান করানো।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 199,
+          "hadith_count": 1
+        },
+        {
+          "id": 200,
+          "chapter_id": 6,
+          "display_label": "৬/৮৭. অধ্যায়ঃ",
+          "title": "যে ব্যক্তি গালি-গালাজ শুরু করে উভয়ের পাপ তার উপর বর্তায়।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 200,
+          "hadith_count": 4
+        },
+        {
+          "id": 201,
+          "chapter_id": 6,
+          "display_label": "৬/৮৮. অধ্যায়ঃ",
+          "title": "গালিগালাজকারী পক্ষদ্বয় দুই শয়তান এবং তারা মিথ্যা দাবিদার ও মিথ্যাবাদী।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 201,
+          "hadith_count": 3
+        },
+        {
+          "id": 202,
+          "chapter_id": 6,
+          "display_label": "৬/৮৯. অধ্যায়ঃ",
+          "title": "মুসলমানকে গালি দেয়া জঘন্য পাপ।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 202,
+          "hadith_count": 7
+        },
+        {
+          "id": 203,
+          "chapter_id": 6,
+          "display_label": "৬/৯০. অধ্যায়ঃ",
+          "title": "যে ব্যক্তি কাউকে মুখের উপর কিছু বলে না।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 203,
+          "hadith_count": 2
+        },
+        {
+          "id": 204,
+          "chapter_id": 6,
+          "display_label": "৬/৯১. অধ্যায়ঃ",
+          "title": "যে ব্যক্তি ব্যাখ্যা সাপেক্ষে অপরকে বললো, হে মুনাফিক।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 204,
+          "hadith_count": 1
+        },
+        {
+          "id": 205,
+          "chapter_id": 6,
+          "display_label": "৬/৯২. অধ্যায়ঃ",
+          "title": "যে ব্যক্তি তার (মুসলমান) ভাইকে বলে, হে কাফের !",
+          "arabic_title": "",
+          "preface": "",
+          "order": 205,
+          "hadith_count": 2
+        },
+        {
+          "id": 206,
+          "chapter_id": 6,
+          "display_label": "৬/৯৩. অধ্যায়ঃ",
+          "title": "শত্রুর আনন্দ-উল্লাস।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 206,
+          "hadith_count": 1
+        },
+        {
+          "id": 207,
+          "chapter_id": 6,
+          "display_label": "৬/৯৪. অধ্যায়ঃ",
+          "title": "সম্পদের অপব্যবহার ও অপচয়।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 207,
+          "hadith_count": 2
+        },
+        {
+          "id": 208,
+          "chapter_id": 6,
+          "display_label": "৬/৯৫. অধ্যায়ঃ",
+          "title": "বাসস্থান সংস্কার করা।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 208,
+          "hadith_count": 1
+        },
+        {
+          "id": 209,
+          "chapter_id": 6,
+          "display_label": "৬/৯৬. অধ্যায়ঃ",
+          "title": "ঘর-বাড়ি নির্মাণের খরচ।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 209,
+          "hadith_count": 1
+        },
+        {
+          "id": 210,
+          "chapter_id": 6,
+          "display_label": "৬/৯৭. অধ্যায়ঃ",
+          "title": "কর্মচারীদের কাজে নিয়োগকর্তার সহযোগিতা।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 210,
+          "hadith_count": 1
+        },
+        {
+          "id": 211,
+          "chapter_id": 6,
+          "display_label": "৬/৯৮. অধ্যায়ঃ",
+          "title": "সুউচ্চ প্রাসাদ নির্মাণ ।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 211,
+          "hadith_count": 4
+        },
+        {
+          "id": 212,
+          "chapter_id": 6,
+          "display_label": "৬/৯৯. অধ্যায়ঃ",
+          "title": "যে ব্যক্তি বাড়িঘর নির্মাণ করে।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 212,
+          "hadith_count": 4
+        },
+        {
+          "id": 213,
+          "chapter_id": 6,
+          "display_label": "৬/১০০. অধ্যায়ঃ",
+          "title": "প্রশস্ত বসতবাড়ি।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 213,
+          "hadith_count": 1
+        },
+        {
+          "id": 214,
+          "chapter_id": 6,
+          "display_label": "৬/১০১. অধ্যায়ঃ",
+          "title": "স্বতন্ত্র কোঠায় অবস্থান।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 214,
+          "hadith_count": 1
+        },
+        {
+          "id": 215,
+          "chapter_id": 6,
+          "display_label": "৬/১০২. অধ্যায়ঃ",
+          "title": "দালান-কোঠা কারুকার্য করা।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 215,
+          "hadith_count": 3
+        },
+        {
+          "id": 216,
+          "chapter_id": 6,
+          "display_label": "৬/১০৩. অধ্যায়ঃ",
+          "title": "নম্রতা প্রদর্শন।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 216,
+          "hadith_count": 9
+        },
+        {
+          "id": 217,
+          "chapter_id": 6,
+          "display_label": "৬/১০৪. অধ্যায়ঃ",
+          "title": "সরল জীবনযাত্রা।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 217,
+          "hadith_count": 1
+        },
+        {
+          "id": 218,
+          "chapter_id": 6,
+          "display_label": "৬/১০৫. অধ্যায়ঃ",
+          "title": "নম্রতা অবলম্বন করলে বান্দাকে যা দেয়া হয়।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 218,
+          "hadith_count": 1
+        },
+        {
+          "id": 219,
+          "chapter_id": 6,
+          "display_label": "৬/১০৬. অধ্যায়ঃ",
+          "title": "সান্ত্বনা প্রদান।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 219,
+          "hadith_count": 2
+        },
+        {
+          "id": 220,
+          "chapter_id": 6,
+          "display_label": "৬/১০৭. অধ্যায়ঃ",
+          "title": "কঠোরতা প্রদর্শন।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 220,
+          "hadith_count": 1
+        },
+        {
+          "id": 221,
+          "chapter_id": 6,
+          "display_label": "৬/১০৮. অধ্যায়ঃ",
+          "title": "পরিচ্ছেদঃ দুনিয়া",
+          "arabic_title": "",
+          "preface": "",
+          "order": 221,
+          "hadith_count": 2
+        },
+        {
+          "id": 222,
+          "chapter_id": 6,
+          "display_label": "৬/১০৯. অধ্যায়ঃ",
+          "title": "উৎপাদনমুখী খাতে সম্পদ বিনিয়োগ।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 222,
+          "hadith_count": 3
+        },
+        {
+          "id": 223,
+          "chapter_id": 6,
+          "display_label": "৬/১১০. অধ্যায়ঃ",
+          "title": "নির্যাতীতের দোয়া।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 223,
+          "hadith_count": 1
+        },
+        {
+          "id": 224,
+          "chapter_id": 6,
+          "display_label": "৬/১১১. অধ্যায়ঃ",
+          "title": "আল্লাহর কাছে বান্দার রিযিক প্রার্থনা। কেননা মহামহিম আল্লাহর বাণীঃ “আপনি আমাদের রিফিক দান করুন এবং আপনিই সর্বশ্রেষ্ঠ রিযিকদাতা” (৫ : ১১৪)।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 224,
+          "hadith_count": 1
+        },
+        {
+          "id": 225,
+          "chapter_id": 6,
+          "display_label": "৬/১১২. অধ্যায়ঃ",
+          "title": "যুলুম হলো অন্ধকার।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 225,
+          "hadith_count": 8
+        },
+        {
+          "id": 226,
+          "chapter_id": 6,
+          "display_label": "৬/১১৩. অধ্যায়ঃ",
+          "title": "অপচয়কারীগণ।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 226,
+          "hadith_count": 2
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "display_label": "৭",
+      "title": "রোগীর সাথে দেখা-সাক্ষাৎ",
+      "arabic_title": "",
+      "preface": "",
+      "range": "৪৯৩ - ৫৩৯",
+      "order": 7,
+      "hadith_count": 47,
+      "sections_count": 21,
+      "sections": [
+        {
+          "id": 227,
+          "chapter_id": 7,
+          "display_label": "৭/১. অধ্যায়ঃ",
+          "title": "রুগ্নের রোগযাতনা (তার গুনাহর) কাফফারাস্বরূপ।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 227,
+          "hadith_count": 5
+        },
+        {
+          "id": 228,
+          "chapter_id": 7,
+          "display_label": "৭/২. অধ্যায়ঃ",
+          "title": "গভীর রাতে রোগীকে দেখতে যাওয়া।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 228,
+          "hadith_count": 4
+        },
+        {
+          "id": 229,
+          "chapter_id": 7,
+          "display_label": "৭/৩. অধ্যায়ঃ",
+          "title": "কোন ব্যক্তি সুস্থ অবস্থায় যেসব নেক আমল করতো, তার রুগ্ন অবস্থায়ও (তার আমলনামায়) তা লেখা হয়।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 229,
+          "hadith_count": 9
+        },
+        {
+          "id": 230,
+          "chapter_id": 7,
+          "display_label": "৭/৪. অধ্যায়ঃ",
+          "title": "রোগীর ‘আমি অসুস্থ’ বলা কি অভিযোগ?",
+          "arabic_title": "",
+          "preface": "",
+          "order": 230,
+          "hadith_count": 2
+        },
+        {
+          "id": 231,
+          "chapter_id": 7,
+          "display_label": "৭/৫. অধ্যায়ঃ",
+          "title": "সংজ্ঞাহীন রোগীকে দেখতে যাওয়া।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 231,
+          "hadith_count": 1
+        },
+        {
+          "id": 232,
+          "chapter_id": 7,
+          "display_label": "৭/৬. অধ্যায়ঃ",
+          "title": "রুগ্ন শিশুদের দেখতে যাওয়া।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 232,
+          "hadith_count": 1
+        },
+        {
+          "id": 233,
+          "chapter_id": 7,
+          "display_label": "৭/৭. অধ্যায়ঃ",
+          "title": "(উম্মু দারদা (রাঃ) রুগ্নার স্বামীকে আহার করাতেন)।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 233,
+          "hadith_count": 1
+        },
+        {
+          "id": 234,
+          "chapter_id": 7,
+          "display_label": "৭/৮. অধ্যায়ঃ",
+          "title": "রুগ্ন বেদুইনকে দেখতে যাওয়া।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 234,
+          "hadith_count": 1
+        },
+        {
+          "id": 235,
+          "chapter_id": 7,
+          "display_label": "৭/৯. অধ্যায়ঃ",
+          "title": "রুগ্নদের দেখতে যাওয়া।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 235,
+          "hadith_count": 5
+        },
+        {
+          "id": 236,
+          "chapter_id": 7,
+          "display_label": "৭/১০. অধ্যায়ঃ",
+          "title": "রুগ্ন ব্যক্তিকে দেখতে গিয়ে তার রোগমুক্তির জন্য দেয়া করবে।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 236,
+          "hadith_count": 1
+        },
+        {
+          "id": 237,
+          "chapter_id": 7,
+          "display_label": "৭/১১. অধ্যায়ঃ",
+          "title": "রোগীকে দেখতে যাওয়ার ফযীলাত।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 237,
+          "hadith_count": 1
+        },
+        {
+          "id": 238,
+          "chapter_id": 7,
+          "display_label": "৭/১২. অধ্যায়ঃ",
+          "title": "রোগীর সাথে সাক্ষাতকারীর কথাবার্তা।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 238,
+          "hadith_count": 1
+        },
+        {
+          "id": 239,
+          "chapter_id": 7,
+          "display_label": "৭/১৩. অধ্যায়ঃ",
+          "title": "যে ব্যক্তি রোগীর কাছে নামায পড়ে।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 239,
+          "hadith_count": 1
+        },
+        {
+          "id": 240,
+          "chapter_id": 7,
+          "display_label": "৭/১৪. অধ্যায়ঃ",
+          "title": "মুশরিক (পৌত্তলিক) রোগীকে দেখতে যাওয়া।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 240,
+          "hadith_count": 1
+        },
+        {
+          "id": 241,
+          "chapter_id": 7,
+          "display_label": "৭/১৫. অধ্যায়ঃ",
+          "title": "রোগীকে দেখতে গিয়ে কি বলবে?",
+          "arabic_title": "",
+          "preface": "",
+          "order": 241,
+          "hadith_count": 3
+        },
+        {
+          "id": 242,
+          "chapter_id": 7,
+          "display_label": "৭/১৬. অধ্যায়ঃ",
+          "title": "রোগী কি উত্তর দিবে?",
+          "arabic_title": "",
+          "preface": "",
+          "order": 242,
+          "hadith_count": 1
+        },
+        {
+          "id": 243,
+          "chapter_id": 7,
+          "display_label": "৭/১৭. অধ্যায়ঃ",
+          "title": "রুগ্ন পাপাচারীকে দেখতে যাওয়া।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 243,
+          "hadith_count": 1
+        },
+        {
+          "id": 244,
+          "chapter_id": 7,
+          "display_label": "৭/১৮. অধ্যায়ঃ",
+          "title": "মহিলাদের রুগ্ন পুরুষদের দেখতে যাওয়া।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 244,
+          "hadith_count": 1
+        },
+        {
+          "id": 245,
+          "chapter_id": 7,
+          "display_label": "৭/১৯. অধ্যায়ঃ",
+          "title": "রুগ্নকে দেখতে গিয়ে ঘরের অন্য কিছুর প্রতি তাকানো অবাঞ্ছনীয়।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 245,
+          "hadith_count": 1
+        },
+        {
+          "id": 246,
+          "chapter_id": 7,
+          "display_label": "৭/২০. অধ্যায়ঃ",
+          "title": "চক্ষুরোগে আক্রান্তকে দেখতে যাওয়া।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 246,
+          "hadith_count": 4
+        },
+        {
+          "id": 247,
+          "chapter_id": 7,
+          "display_label": "৭/২১. অধ্যায়ঃ",
+          "title": "রোগীর সাথে সাক্ষাতকারী কোথায় বসবে?",
+          "arabic_title": "",
+          "preface": "",
+          "order": 247,
+          "hadith_count": 2
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "display_label": "৮",
+      "title": "বিবিধ বিষয়",
+      "arabic_title": "",
+      "preface": "",
+      "range": "৫৪০ - ৬০৭",
+      "order": 8,
+      "hadith_count": 68,
+      "sections_count": 25,
+      "sections": [
+        {
+          "id": 248,
+          "chapter_id": 8,
+          "display_label": "৮/১. অধ্যায়ঃ",
+          "title": "যে ব্যক্তি নিজ ঘরের কাজকর্ম করে।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 248,
+          "hadith_count": 4
+        },
+        {
+          "id": 249,
+          "chapter_id": 8,
+          "display_label": "৮/২. অধ্যায়ঃ",
+          "title": "কেউ তার কোন ভাইকে মহব্বত করলে তাকে যেন তা অবগত করে।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 249,
+          "hadith_count": 3
+        },
+        {
+          "id": 250,
+          "chapter_id": 8,
+          "display_label": "৮/৩. অধ্যায়ঃ",
+          "title": "কেউ কাউকে মহব্বত করলে সে যেন তার সাথে বিতর্কে লিপ্ত না হয় এবং তার নিকট কিছু না চায়।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 250,
+          "hadith_count": 2
+        },
+        {
+          "id": 251,
+          "chapter_id": 8,
+          "display_label": "৮/৪. অধ্যায়ঃ",
+          "title": "অন্তর হলো বুদ্ধির উৎসস্থল।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 251,
+          "hadith_count": 1
+        },
+        {
+          "id": 252,
+          "chapter_id": 8,
+          "display_label": "৮/৫. অধ্যায়ঃ",
+          "title": "অহংকার-অহমিকা।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 252,
+          "hadith_count": 10
+        },
+        {
+          "id": 253,
+          "chapter_id": 8,
+          "display_label": "৮/৬. অধ্যায়ঃ",
+          "title": "যে ব্যক্তি যুলুমের প্রতিশোধ গ্রহণ করে।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 253,
+          "hadith_count": 2
+        },
+        {
+          "id": 254,
+          "chapter_id": 8,
+          "display_label": "৮/৭. অধ্যায়ঃ",
+          "title": "দুর্ভিক্ষ ও ক্ষুৎপপাসার সময় সমবেদনা জ্ঞাপন।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 254,
+          "hadith_count": 4
+        },
+        {
+          "id": 255,
+          "chapter_id": 8,
+          "display_label": "৮/৮. অধ্যায়ঃ",
+          "title": "অভিজ্ঞতা ও অনুশীলন।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 255,
+          "hadith_count": 2
+        },
+        {
+          "id": 256,
+          "chapter_id": 8,
+          "display_label": "৮/৯. অধ্যায়ঃ",
+          "title": "যে ব্যক্তি আল্লাহর ওয়াস্তে তার ভাইকে আহার করায়।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 256,
+          "hadith_count": 1
+        },
+        {
+          "id": 257,
+          "chapter_id": 8,
+          "display_label": "৮/১০. অধ্যায়ঃ",
+          "title": "জাহিলী যুগের পারস্পরিক চুক্তি।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 257,
+          "hadith_count": 1
+        },
+        {
+          "id": 258,
+          "chapter_id": 8,
+          "display_label": "৮/১১. অধ্যায়ঃ",
+          "title": "ভ্ৰাতৃ সম্পর্ক স্থাপন।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 258,
+          "hadith_count": 1
+        },
+        {
+          "id": 259,
+          "chapter_id": 8,
+          "display_label": "৮/১২. অধ্যায়ঃ",
+          "title": "ইসলামী যুগে সাবেক আমলের চুক্তি।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 259,
+          "hadith_count": 2
+        },
+        {
+          "id": 260,
+          "chapter_id": 8,
+          "display_label": "৮/১৩. অধ্যায়ঃ",
+          "title": "যে ব্যক্তি প্রথম বৃষ্টিতে ভিজলো।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 260,
+          "hadith_count": 1
+        },
+        {
+          "id": 261,
+          "chapter_id": 8,
+          "display_label": "৮/১৪. অধ্যায়ঃ",
+          "title": "ছাগল-ভেড়ার মধ্যে বরকত নিহিত।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 261,
+          "hadith_count": 2
+        },
+        {
+          "id": 262,
+          "chapter_id": 8,
+          "display_label": "৮/১৫. অধ্যায়ঃ",
+          "title": "উট তার মালিকের জন্য মর্যাদার উৎস।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 262,
+          "hadith_count": 4
+        },
+        {
+          "id": 263,
+          "chapter_id": 8,
+          "display_label": "৮/১৬. অধ্যায়ঃ",
+          "title": "যাযাবর জীবন।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 263,
+          "hadith_count": 1
+        },
+        {
+          "id": 264,
+          "chapter_id": 8,
+          "display_label": "৮/১৭. অধ্যায়ঃ",
+          "title": "বিরান জনপদে বসবাসকারী।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 264,
+          "hadith_count": 2
+        },
+        {
+          "id": 265,
+          "chapter_id": 8,
+          "display_label": "৮/১৮. অধ্যায়ঃ",
+          "title": "মরুময় ভূমিতে বা পানির উৎসে বসবাস।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 265,
+          "hadith_count": 2
+        },
+        {
+          "id": 266,
+          "chapter_id": 8,
+          "display_label": "৮/১৯. অধ্যায়ঃ",
+          "title": "যে ব্যক্তি গোপনীয়তা রক্ষা পছন্দ করে এবং যে কোন লোকের সাথে তাদের বৈশিষ্ট্যাবলী অবহিত হওয়ার জন্য মেলামেশা করে।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 266,
+          "hadith_count": 1
+        },
+        {
+          "id": 267,
+          "chapter_id": 8,
+          "display_label": "৮/২০. অধ্যায়ঃ",
+          "title": "কাজেকর্মে তাড়াহুড়া বৰ্জনীয়।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 267,
+          "hadith_count": 1
+        },
+        {
+          "id": 268,
+          "chapter_id": 8,
+          "display_label": "৮/২১. অধ্যায়ঃ",
+          "title": "কাজেকর্মে ধীরস্থিরতা।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 268,
+          "hadith_count": 4
+        },
+        {
+          "id": 269,
+          "chapter_id": 8,
+          "display_label": "৮/২২. অধ্যায়ঃ",
+          "title": "বিদ্রোহ।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 269,
+          "hadith_count": 6
+        },
+        {
+          "id": 270,
+          "chapter_id": 8,
+          "display_label": "৮/২৩. অধ্যায়ঃ",
+          "title": "উপহারাদি গ্রহণ।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 270,
+          "hadith_count": 2
+        },
+        {
+          "id": 271,
+          "chapter_id": 8,
+          "display_label": "৮/২৪. অধ্যায়ঃ",
+          "title": "মানুষের মধ্যে ঘৃণা-বিদ্বেষ সৃষ্টি হওয়ার কারণে যে ব্যক্তি উপহারাদি বর্জন করে।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 271,
+          "hadith_count": 1
+        },
+        {
+          "id": 272,
+          "chapter_id": 8,
+          "display_label": "৮/২৫. অধ্যায়ঃ",
+          "title": "লজ্জাশীলতা।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 272,
+          "hadith_count": 8
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "display_label": "৯",
+      "title": "দোয়া-দুরুদ",
+      "arabic_title": "",
+      "preface": "",
+      "range": "৬০৮ - ৭৪৪",
+      "order": 9,
+      "hadith_count": 137,
+      "sections_count": 38,
+      "sections": [
+        {
+          "id": 273,
+          "chapter_id": 9,
+          "display_label": "৯/১. অধ্যায়ঃ",
+          "title": "যে কোন ব্যক্তি ভোরে উপনীত হয়ে যা বলবে।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 273,
+          "hadith_count": 1
+        },
+        {
+          "id": 274,
+          "chapter_id": 9,
+          "display_label": "৯/২. অধ্যায়ঃ",
+          "title": "যে ব্যক্তি অপরের জন্য দোয়া করে।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 274,
+          "hadith_count": 1
+        },
+        {
+          "id": 275,
+          "chapter_id": 9,
+          "display_label": "৯/৩. অধ্যায়ঃ",
+          "title": "অন্তর নিংড়ানো দোয়া।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 275,
+          "hadith_count": 1
+        },
+        {
+          "id": 276,
+          "chapter_id": 9,
+          "display_label": "৯/৪. অধ্যায়ঃ",
+          "title": "প্রত্যয় সহকারে দোয়া করবে। কারণ আল্লাহর জন্য বাধ্যতামূলক করণীয় কিছু নাই।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 276,
+          "hadith_count": 2
+        },
+        {
+          "id": 277,
+          "chapter_id": 9,
+          "display_label": "৯/৫. অধ্যায়ঃ",
+          "title": "হাত তুলে দোয়া করা।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 277,
+          "hadith_count": 8
+        },
+        {
+          "id": 278,
+          "chapter_id": 9,
+          "display_label": "৯/৬. অধ্যায়ঃ",
+          "title": "সায়্যিদুল ইস্তিগফার (ক্ষমা প্রার্থনার সর্বশ্রেষ্ঠ দোয়া)",
+          "arabic_title": "",
+          "preface": "",
+          "order": 278,
+          "hadith_count": 6
+        },
+        {
+          "id": 279,
+          "chapter_id": 9,
+          "display_label": "৯/৭. অধ্যায়ঃ",
+          "title": "ভাইয়ের অনুপস্থিতিতে তার জন্য দোয়া করা।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 279,
+          "hadith_count": 5
+        },
+        {
+          "id": 280,
+          "chapter_id": 9,
+          "display_label": "৯/৮. অধ্যায়ঃ",
+          "title": "বিবিধ।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 280,
+          "hadith_count": 12
+        },
+        {
+          "id": 281,
+          "chapter_id": 9,
+          "display_label": "৯/৯. অধ্যায়ঃ",
+          "title": "মহানবী (সাঃ)-এর উপর দুরূদ পাঠ।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 281,
+          "hadith_count": 4
+        },
+        {
+          "id": 282,
+          "chapter_id": 9,
+          "display_label": "৯/১০. অধ্যায়ঃ",
+          "title": "কারো উপস্থিতিতে মহানবী (সাঃ)-এর নামোল্লেখ হওয়া সত্বেও সে তাঁর প্রতি দুরূদ না পড়লে।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 282,
+          "hadith_count": 5
+        },
+        {
+          "id": 283,
+          "chapter_id": 9,
+          "display_label": "৯/১১. অধ্যায়ঃ",
+          "title": "যালেমের বিরুদ্ধে মযলুমের বদদোয়া।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 283,
+          "hadith_count": 3
+        },
+        {
+          "id": 284,
+          "chapter_id": 9,
+          "display_label": "৯/১২. অধ্যায়ঃ",
+          "title": "যে ব্যক্তি দীর্ঘায়ু কামনা করে।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 284,
+          "hadith_count": 2
+        },
+        {
+          "id": 285,
+          "chapter_id": 9,
+          "display_label": "৯/১৩. অধ্যায়ঃ",
+          "title": "যে ব্যক্তি বলে, তাড়াহুড়া না করলে বান্দার দোয়া কবুল হয়।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 285,
+          "hadith_count": 2
+        },
+        {
+          "id": 286,
+          "chapter_id": 9,
+          "display_label": "৯/১৪. অধ্যায়ঃ",
+          "title": "যে ব্যক্তি অলসতা থেকে আল্লাহর কাছে আশ্রয় চায়।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 286,
+          "hadith_count": 2
+        },
+        {
+          "id": 287,
+          "chapter_id": 9,
+          "display_label": "৯/১৫. অধ্যায়ঃ",
+          "title": "যে লোক আল্লাহর নিকট চায় নাসাঈ, আল্লাহ তার উপর অসন্তুষ্ট হন।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 287,
+          "hadith_count": 4
+        },
+        {
+          "id": 288,
+          "chapter_id": 9,
+          "display_label": "৯/১৬. অধ্যায়ঃ",
+          "title": "আল্লাহর পথে জিহাদে কাতারবাদী হয়ে দেয়া করা।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 288,
+          "hadith_count": 1
+        },
+        {
+          "id": 289,
+          "chapter_id": 9,
+          "display_label": "৯/১৭. অধ্যায়ঃ",
+          "title": "মহানবী (সাঃ)-এর দোয়াসমূহ।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 289,
+          "hadith_count": 24
+        },
+        {
+          "id": 290,
+          "chapter_id": 9,
+          "display_label": "৯/১৮. অধ্যায়ঃ",
+          "title": "ঝড়-বৃষ্টির সময় দেয়া করা।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 290,
+          "hadith_count": 1
+        },
+        {
+          "id": 291,
+          "chapter_id": 9,
+          "display_label": "৯/১৯. অধ্যায়ঃ",
+          "title": "মৃত্যু কামনা করে দোয়া করা নিষেধ।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 291,
+          "hadith_count": 1
+        },
+        {
+          "id": 292,
+          "chapter_id": 9,
+          "display_label": "৯/২০. অধ্যায়ঃ",
+          "title": "মহানবী (সাঃ)-এর দোয়াসমূহ।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 292,
+          "hadith_count": 12
+        },
+        {
+          "id": 293,
+          "chapter_id": 9,
+          "display_label": "৯/২১. অধ্যায়ঃ",
+          "title": "বিপদাপদের সময় দেয়া করা।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 293,
+          "hadith_count": 3
+        },
+        {
+          "id": 294,
+          "chapter_id": 9,
+          "display_label": "৯/২২. অধ্যায়ঃ",
+          "title": "ইস্তিখারার দোয়া।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 294,
+          "hadith_count": 4
+        },
+        {
+          "id": 295,
+          "chapter_id": 9,
+          "display_label": "৯/২৩. অধ্যায়ঃ",
+          "title": "কারো শাসকের যুলুমের ভয় হলে।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 295,
+          "hadith_count": 3
+        },
+        {
+          "id": 296,
+          "chapter_id": 9,
+          "display_label": "৯/২৪. অধ্যায়ঃ",
+          "title": "দোয়াকারীর জন্য যে সওয়াব ও প্রতিদান সঞ্চিত করা হয়।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 296,
+          "hadith_count": 2
+        },
+        {
+          "id": 297,
+          "chapter_id": 9,
+          "display_label": "৯/২৫. অধ্যায়ঃ",
+          "title": "দোয়ার ফযীলাত।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 297,
+          "hadith_count": 5
+        },
+        {
+          "id": 298,
+          "chapter_id": 9,
+          "display_label": "৯/২৬. অধ্যায়ঃ",
+          "title": "প্রবল বায়ু প্রবাহের সময় দোয়া করা।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 298,
+          "hadith_count": 2
+        },
+        {
+          "id": 299,
+          "chapter_id": 9,
+          "display_label": "৯/২৭. অধ্যায়ঃ",
+          "title": "তোমরা বাতাসকে গালি দিও না।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 299,
+          "hadith_count": 2
+        },
+        {
+          "id": 300,
+          "chapter_id": 9,
+          "display_label": "৯/২৮. অধ্যায়ঃ",
+          "title": "বজ্রধ্বনির সময় দোয়া করা।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 300,
+          "hadith_count": 1
+        },
+        {
+          "id": 301,
+          "chapter_id": 9,
+          "display_label": "৯/২৯. অধ্যায়ঃ",
+          "title": "কেউ বজ্রধ্বনি শুনলে।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 301,
+          "hadith_count": 2
+        },
+        {
+          "id": 302,
+          "chapter_id": 9,
+          "display_label": "৯/৩০. অধ্যায়ঃ",
+          "title": "যে ব্যক্তি আল্লাহর কাছে শান্তি ও নিরাপত্তা প্রার্থনা করে।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 302,
+          "hadith_count": 3
+        },
+        {
+          "id": 303,
+          "chapter_id": 9,
+          "display_label": "৯/৩১. অধ্যায়ঃ",
+          "title": "যে ব্যক্তি বিপদ কামনা করে দোয়া করা অপছন্দ করে।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 303,
+          "hadith_count": 2
+        },
+        {
+          "id": 304,
+          "chapter_id": 9,
+          "display_label": "৯/৩২. অধ্যায়ঃ",
+          "title": "যে ব্যক্তি কঠিন বিপদ থেকে আশ্রয় প্রার্থনা করে।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 304,
+          "hadith_count": 2
+        },
+        {
+          "id": 305,
+          "chapter_id": 9,
+          "display_label": "৯/৩৩. অধ্যায়ঃ",
+          "title": "অসন্তোষের সময় যে ব্যক্তি কারো কথার পুনরাবৃত্তি করে।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 305,
+          "hadith_count": 1
+        },
+        {
+          "id": 306,
+          "chapter_id": 9,
+          "display_label": "৯/৩৪. অধ্যায়ঃ",
+          "title": "(গীবতের দুর্গন্ধময় বায়ু)।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 306,
+          "hadith_count": 3
+        },
+        {
+          "id": 307,
+          "chapter_id": 9,
+          "display_label": "৯/৩৫. অধ্যায়ঃ",
+          "title": "গীবত। আল্লাহ তায়ালার বাণীঃ “তোমাদের কেউ যেন অপরের গীবত না করে” (৪৯ : ১২)।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 307,
+          "hadith_count": 2
+        },
+        {
+          "id": 308,
+          "chapter_id": 9,
+          "display_label": "৯/৩৬. অধ্যায়ঃ",
+          "title": "মৃত ব্যক্তির গীবত।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 308,
+          "hadith_count": 1
+        },
+        {
+          "id": 309,
+          "chapter_id": 9,
+          "display_label": "৯/৩৭. অধ্যায়ঃ",
+          "title": "যে ব্যক্তি পিতার সাথে উপস্থিত পুত্রের মাথায় হাত বুলায় এবং তার জন্য বরকতের দোয়া করে।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 309,
+          "hadith_count": 1
+        },
+        {
+          "id": 310,
+          "chapter_id": 9,
+          "display_label": "৯/৩৮. অধ্যায়ঃ",
+          "title": "মুসলমানদের খাদ্য-পানীয় ও তৈজসপত্র বিনা অনুমতিতে পরস্পরের ব্যবহার।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 310,
+          "hadith_count": 1
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "display_label": "১০",
+      "title": "মেহমানদারি",
+      "arabic_title": "",
+      "preface": "",
+      "range": "৭৪৫ - ৭৮৭",
+      "order": 10,
+      "hadith_count": 43,
+      "sections_count": 29,
+      "sections": [
+        {
+          "id": 311,
+          "chapter_id": 10,
+          "display_label": "১০/১. অধ্যায়ঃ",
+          "title": "মেহমানের সমাদর এবং সশরীরে তাদের খেদমত করা।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 311,
+          "hadith_count": 1
+        },
+        {
+          "id": 312,
+          "chapter_id": 10,
+          "display_label": "১০/২. অধ্যায়ঃ",
+          "title": "মেহমানকে প্রদত্ত পাথেয়।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 312,
+          "hadith_count": 1
+        },
+        {
+          "id": 313,
+          "chapter_id": 10,
+          "display_label": "১০/৩. অধ্যায়ঃ",
+          "title": "মেহমানদারি তিন দিন।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 313,
+          "hadith_count": 1
+        },
+        {
+          "id": 314,
+          "chapter_id": 10,
+          "display_label": "১০/৪. অধ্যায়ঃ",
+          "title": "মেহমান আপ্যায়নকারীর অসুবিধা করে থাকবে না।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 314,
+          "hadith_count": 1
+        },
+        {
+          "id": 315,
+          "chapter_id": 10,
+          "display_label": "১০/৫. অধ্যায়ঃ",
+          "title": "মেহমান ভোরবেলা আপনার আপনার উপস্থিত হলে।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 315,
+          "hadith_count": 1
+        },
+        {
+          "id": 316,
+          "chapter_id": 10,
+          "display_label": "১০/৬. অধ্যায়ঃ",
+          "title": "বঞ্চিত অবস্থায় মেহমানের ভোর হলে।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 316,
+          "hadith_count": 1
+        },
+        {
+          "id": 317,
+          "chapter_id": 10,
+          "display_label": "১০/৭. অধ্যায়ঃ",
+          "title": "সশরীরে মেহমানের খেদমত করা।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 317,
+          "hadith_count": 1
+        },
+        {
+          "id": 318,
+          "chapter_id": 10,
+          "display_label": "১০/৮. অধ্যায়ঃ",
+          "title": "কোন ব্যক্তি মেহমানের সামনে আহার পরিবেশন করে নিজে নামাযে দাঁড়িয়ে গেলে।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 318,
+          "hadith_count": 1
+        },
+        {
+          "id": 319,
+          "chapter_id": 10,
+          "display_label": "১০/৯. অধ্যায়ঃ",
+          "title": "কারো নিজ পরিবার-পরিজনের জন্য ব্যয় করা।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 319,
+          "hadith_count": 4
+        },
+        {
+          "id": 320,
+          "chapter_id": 10,
+          "display_label": "১০/১০. অধ্যায়ঃ",
+          "title": "প্রত্যেক জিনিসের সওয়াব আছে, এমনকি কোন ব্যক্তির নিজ স্ত্রীর মুখে তুলে দেয়া গ্রাসেও।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 320,
+          "hadith_count": 1
+        },
+        {
+          "id": 321,
+          "chapter_id": 10,
+          "display_label": "১০/১১. অধ্যায়ঃ",
+          "title": "রাতের শেষ তৃতীয়াংশে দোয়া করা।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 321,
+          "hadith_count": 1
+        },
+        {
+          "id": 322,
+          "chapter_id": 10,
+          "display_label": "১০/১২. অধ্যায়ঃ",
+          "title": "গীবতের উদ্দেশ্যে নয়, বরং পরিচয় দানের উদ্দেশ্যে কোন ব্যক্তির এরূপ বলাঃ অমুক কৃষ্ণকায়, খর্বাকৃতি বা দীর্ঘদেহী।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 322,
+          "hadith_count": 3
+        },
+        {
+          "id": 323,
+          "chapter_id": 10,
+          "display_label": "১০/১৩. অধ্যায়ঃ",
+          "title": "যিনি মনে করেন, ঘটনা বা উপমা বর্ণনা দোষের নয়।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 323,
+          "hadith_count": 1
+        },
+        {
+          "id": 324,
+          "chapter_id": 10,
+          "display_label": "১০/১৪. অধ্যায়ঃ",
+          "title": "যে ব্যক্তি মুসলমানের দোষ গোপন রাখে।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 324,
+          "hadith_count": 1
+        },
+        {
+          "id": 325,
+          "chapter_id": 10,
+          "display_label": "১০/১৫. অধ্যায়ঃ",
+          "title": "কোন ব্যক্তির মন্তব্য লোক ধ্বংস হয়ে গেলো।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 325,
+          "hadith_count": 1
+        },
+        {
+          "id": 326,
+          "chapter_id": 10,
+          "display_label": "১০/১৬. অধ্যায়ঃ",
+          "title": "মুনাফিককে ‘সায়্যিদ’ (নেতাবারানী) বলে সম্বোধন করবে না।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 326,
+          "hadith_count": 1
+        },
+        {
+          "id": 327,
+          "chapter_id": 10,
+          "display_label": "১০/১৭. অধ্যায়ঃ",
+          "title": "কেউ অন্যের মুখে নিজের প্রশংসা শুনলে কি বলবে?",
+          "arabic_title": "",
+          "preface": "",
+          "order": 327,
+          "hadith_count": 3
+        },
+        {
+          "id": 328,
+          "chapter_id": 10,
+          "display_label": "১০/১৮. অধ্যায়ঃ",
+          "title": "কেউ কোন বিষয়ে অজ্ঞ থাকলে যেন না বলে যে, সে তা জানে নাসাঈ, তা আল্লাহ জানেন।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 328,
+          "hadith_count": 1
+        },
+        {
+          "id": 329,
+          "chapter_id": 10,
+          "display_label": "১০/১৯. অধ্যায়ঃ",
+          "title": "রংধনু।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 329,
+          "hadith_count": 1
+        },
+        {
+          "id": 330,
+          "chapter_id": 10,
+          "display_label": "১০/২০. অধ্যায়ঃ",
+          "title": "ছায়াপথ।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 330,
+          "hadith_count": 2
+        },
+        {
+          "id": 331,
+          "chapter_id": 10,
+          "display_label": "১০/২১. অধ্যায়ঃ",
+          "title": "যে ব্যক্তি এভাবে বলতে অপছন্দ করেঃ হে আল্লাহ আমাকে তোমার রহমতের অবস্থান স্থলে রাখো।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 331,
+          "hadith_count": 1
+        },
+        {
+          "id": 332,
+          "chapter_id": 10,
+          "display_label": "১০/২২. অধ্যায়ঃ",
+          "title": "তোমরা কাল-প্রবাহকে গালি দিও না।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 332,
+          "hadith_count": 2
+        },
+        {
+          "id": 333,
+          "chapter_id": 10,
+          "display_label": "১০/২৩. অধ্যায়ঃ",
+          "title": "কেউ যেন তার ভাইয়ের প্রস্থানকালে তার প্রতি তীক্ষ্ন দৃষ্টিতে না তাকায়",
+          "arabic_title": "",
+          "preface": "",
+          "order": 333,
+          "hadith_count": 1
+        },
+        {
+          "id": 334,
+          "chapter_id": 10,
+          "display_label": "১০/২৪. অধ্যায়ঃ",
+          "title": "এক ব্যক্তিকে অপর ব্যক্তির এরূপ বলা, তোমার সর্বনাশ হোক।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 334,
+          "hadith_count": 4
+        },
+        {
+          "id": 335,
+          "chapter_id": 10,
+          "display_label": "১০/২৫. অধ্যায়ঃ",
+          "title": "দালান-কোঠা নির্মাণ।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 335,
+          "hadith_count": 2
+        },
+        {
+          "id": 336,
+          "chapter_id": 10,
+          "display_label": "১০/২৬. অধ্যায়ঃ",
+          "title": "কোন ব্যক্তির কথা, “নাসাঈ, তোমার পিতার শপথ”।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 336,
+          "hadith_count": 1
+        },
+        {
+          "id": 337,
+          "chapter_id": 10,
+          "display_label": "১০/২৭. অধ্যায়ঃ",
+          "title": "কেউ কারে নিকট কিছু চাইলে সরাসরি চাইবে, তার চাটুকারিতা করবে না।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 337,
+          "hadith_count": 2
+        },
+        {
+          "id": 338,
+          "chapter_id": 10,
+          "display_label": "১০/২৮. অধ্যায়ঃ",
+          "title": "কারো মন্তব্য, তোমার শত্রু নিপাত যাক।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 338,
+          "hadith_count": 1
+        },
+        {
+          "id": 339,
+          "chapter_id": 10,
+          "display_label": "১০/২৯. অধ্যায়ঃ",
+          "title": "কেউ যেন এভাবে না বলে, আল্লাহ ও অমুক।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 339,
+          "hadith_count": 1
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "display_label": "১১",
+      "title": "গান-বাজনা ও অলসতা",
+      "arabic_title": "",
+      "preface": "",
+      "range": "৭৮৮ - ৮২০",
+      "order": 11,
+      "hadith_count": 33,
+      "sections_count": 17,
+      "sections": [
+        {
+          "id": 340,
+          "chapter_id": 11,
+          "display_label": "১১/১. অধ্যায়ঃ",
+          "title": "কারো বক্তব্য, আল্লাহর মর্জি ও আপনার মর্জি।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 340,
+          "hadith_count": 1
+        },
+        {
+          "id": 341,
+          "chapter_id": 11,
+          "display_label": "১১/২. অধ্যায়ঃ",
+          "title": "গান-বাজনা ও তামাশা।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 341,
+          "hadith_count": 5
+        },
+        {
+          "id": 342,
+          "chapter_id": 11,
+          "display_label": "১১/৩. অধ্যায়ঃ",
+          "title": "উত্তম চালচলন ও জীবনপ্রণালী।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 342,
+          "hadith_count": 5
+        },
+        {
+          "id": 343,
+          "chapter_id": 11,
+          "display_label": "১১/৪. অধ্যায়ঃ",
+          "title": "যাকে তুমি দাওনি পাথেয়, সে তোমার নিকট আনবে বয়ে বার্তা।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 343,
+          "hadith_count": 2
+        },
+        {
+          "id": 344,
+          "chapter_id": 11,
+          "display_label": "১১/৫. অধ্যায়ঃ",
+          "title": "অবাঞ্ছিত আকাঙ্ক্ষা।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 344,
+          "hadith_count": 1
+        },
+        {
+          "id": 345,
+          "chapter_id": 11,
+          "display_label": "১১/৬. অধ্যায়ঃ",
+          "title": "তোমরা আঙ্গুরকে কারম নামকরণ করো না।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 345,
+          "hadith_count": 1
+        },
+        {
+          "id": 346,
+          "chapter_id": 11,
+          "display_label": "১১/৭. অধ্যায়ঃ",
+          "title": "কারো এরূপ বলা, তোমার অকল্যাণ হোক।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 346,
+          "hadith_count": 1
+        },
+        {
+          "id": 347,
+          "chapter_id": 11,
+          "display_label": "১১/৮. অধ্যায়ঃ",
+          "title": "কারো কথা, হে শালিকা, হে পাগলী।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 347,
+          "hadith_count": 3
+        },
+        {
+          "id": 348,
+          "chapter_id": 11,
+          "display_label": "১১/৯. অধ্যায়ঃ",
+          "title": "কারো কথা, আমি ক্লান্ত-শ্রান্ত।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 348,
+          "hadith_count": 1
+        },
+        {
+          "id": 349,
+          "chapter_id": 11,
+          "display_label": "১১/১০. অধ্যায়ঃ",
+          "title": "ব্যক্তি অলসতা থেকে পানাহ চায়।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 349,
+          "hadith_count": 1
+        },
+        {
+          "id": 350,
+          "chapter_id": 11,
+          "display_label": "১১/১১. অধ্যায়ঃ",
+          "title": "কারো কথা, আমার জান আপনার জন্য উৎসর্গিত।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 350,
+          "hadith_count": 2
+        },
+        {
+          "id": 351,
+          "chapter_id": 11,
+          "display_label": "১১/১২. অধ্যায়ঃ",
+          "title": "কারো বলা, আপনার জন্য আমার পিতা-মাতা উৎসর্গিত হোক ।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 351,
+          "hadith_count": 2
+        },
+        {
+          "id": 352,
+          "chapter_id": 11,
+          "display_label": "১১/১৩. অধ্যায়ঃ",
+          "title": "কারো অমুসলিমদের শিশু সন্তানকে “হে বৎস” বলে সম্বোধন করা।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 352,
+          "hadith_count": 3
+        },
+        {
+          "id": 353,
+          "chapter_id": 11,
+          "display_label": "১১/১৪. অধ্যায়ঃ",
+          "title": "কেউ যেন না বলে, আমার আত্মা নাপাক হয়ে গেছে।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 353,
+          "hadith_count": 2
+        },
+        {
+          "id": 354,
+          "chapter_id": 11,
+          "display_label": "১১/১৫. অধ্যায়ঃ",
+          "title": "আবুল হাকাম উপনাম।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 354,
+          "hadith_count": 1
+        },
+        {
+          "id": 355,
+          "chapter_id": 11,
+          "display_label": "১১/১৬. অধ্যায়ঃ",
+          "title": "নবী (সাঃ)-এর পছন্দনীয় নাম “হাসান”।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 355,
+          "hadith_count": 1
+        },
+        {
+          "id": 356,
+          "chapter_id": 11,
+          "display_label": "১১/১৭. অধ্যায়ঃ",
+          "title": "তাড়াহুড়া করে হাঁটা।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 356,
+          "hadith_count": 1
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "display_label": "১২",
+      "title": "অর্থপূর্ণ নাম রাখা এবং কদর্য নাম পরিবর্তন",
+      "arabic_title": "",
+      "preface": "",
+      "range": "৮২১ - ৮৬৩",
+      "order": 12,
+      "hadith_count": 43,
+      "sections_count": 25,
+      "sections": [
+        {
+          "id": 357,
+          "chapter_id": 12,
+          "display_label": "১২/১. অধ্যায়ঃ",
+          "title": "মহামহিম আল্লাহর নিকট পছন্দনীয় নামসমূহ।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 357,
+          "hadith_count": 2
+        },
+        {
+          "id": 358,
+          "chapter_id": 12,
+          "display_label": "১২/২. অধ্যায়ঃ",
+          "title": "নাম পরিবর্তন করা।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 358,
+          "hadith_count": 1
+        },
+        {
+          "id": 359,
+          "chapter_id": 12,
+          "display_label": "১২/৩. অধ্যায়ঃ",
+          "title": "মহামহিম আল্লাহর নিকট অপছন্দনীয় নামসমূহ।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 359,
+          "hadith_count": 1
+        },
+        {
+          "id": 360,
+          "chapter_id": 12,
+          "display_label": "১২/৪. অধ্যায়ঃ",
+          "title": "যে ব্যক্তি অপরকে তার ক্ষুদ্রত্ববাচক নামে ডাকে।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 360,
+          "hadith_count": 1
+        },
+        {
+          "id": 361,
+          "chapter_id": 12,
+          "display_label": "১২/৫. অধ্যায়ঃ",
+          "title": "আছিয়া নাম পরিবর্তন করা।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 361,
+          "hadith_count": 2
+        },
+        {
+          "id": 362,
+          "chapter_id": 12,
+          "display_label": "১২/৬. অধ্যায়ঃ",
+          "title": "সারম নাম পরিবর্তন করা।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 362,
+          "hadith_count": 2
+        },
+        {
+          "id": 363,
+          "chapter_id": 12,
+          "display_label": "১২/৭. অধ্যায়ঃ",
+          "title": "গুরাব (কাক) নামের পরিবর্তন।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 363,
+          "hadith_count": 1
+        },
+        {
+          "id": 364,
+          "chapter_id": 12,
+          "display_label": "১২/৮. অধ্যায়ঃ",
+          "title": "শিহাব নামের পরিবর্তন।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 364,
+          "hadith_count": 1
+        },
+        {
+          "id": 365,
+          "chapter_id": 12,
+          "display_label": "১২/৯. অধ্যায়ঃ",
+          "title": "আস (অবাধ্য) নাম পরিবর্তন করা।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 365,
+          "hadith_count": 1
+        },
+        {
+          "id": 366,
+          "chapter_id": 12,
+          "display_label": "১২/১০. অধ্যায়ঃ",
+          "title": "কেউ নিজ সংগীকে তার নাম সংক্ষিপ্ত করে ডাকতে পারে।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 366,
+          "hadith_count": 2
+        },
+        {
+          "id": 367,
+          "chapter_id": 12,
+          "display_label": "১২/১১. অধ্যায়ঃ",
+          "title": "জাহম নাম রাখা।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 367,
+          "hadith_count": 2
+        },
+        {
+          "id": 368,
+          "chapter_id": 12,
+          "display_label": "১২/১২. অধ্যায়ঃ",
+          "title": "“বাররা” নাম।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 368,
+          "hadith_count": 2
+        },
+        {
+          "id": 369,
+          "chapter_id": 12,
+          "display_label": "১২/১৩. অধ্যায়ঃ",
+          "title": "আফলাহ নাম।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 369,
+          "hadith_count": 2
+        },
+        {
+          "id": 370,
+          "chapter_id": 12,
+          "display_label": "১২/১৪. অধ্যায়ঃ",
+          "title": "রাবাহ নাম।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 370,
+          "hadith_count": 1
+        },
+        {
+          "id": 371,
+          "chapter_id": 12,
+          "display_label": "১২/১৫. অধ্যায়ঃ",
+          "title": "নবীগণের নাম।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 371,
+          "hadith_count": 5
+        },
+        {
+          "id": 372,
+          "chapter_id": 12,
+          "display_label": "১২/১৬. অধ্যায়ঃ",
+          "title": "হুযন (দুঃখ) নাম।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 372,
+          "hadith_count": 2
+        },
+        {
+          "id": 373,
+          "chapter_id": 12,
+          "display_label": "১২/১৭. অধ্যায়ঃ",
+          "title": "নবী (সাঃ)-এর নাম ও উপনাম।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 373,
+          "hadith_count": 4
+        },
+        {
+          "id": 374,
+          "chapter_id": 12,
+          "display_label": "১২/১৮. অধ্যায়ঃ",
+          "title": "মুশরিক (পৌত্তলিক) কি উপনাম গ্রহণ করতে পারে।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 374,
+          "hadith_count": 1
+        },
+        {
+          "id": 375,
+          "chapter_id": 12,
+          "display_label": "১২/১৯. অধ্যায়ঃ",
+          "title": "বালকের উপনাম।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 375,
+          "hadith_count": 1
+        },
+        {
+          "id": 376,
+          "chapter_id": 12,
+          "display_label": "১২/২০. অধ্যায়ঃ",
+          "title": "শিশুর জন্মের পূর্বেই কারো উপনাম গ্রহণ।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 376,
+          "hadith_count": 2
+        },
+        {
+          "id": 377,
+          "chapter_id": 12,
+          "display_label": "১২/২১. অধ্যায়ঃ",
+          "title": "নারীদের উপনাম।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 377,
+          "hadith_count": 2
+        },
+        {
+          "id": 378,
+          "chapter_id": 12,
+          "display_label": "১২/২২. অধ্যায়ঃ",
+          "title": "কেউ কারো এমন কিছু দ্বারা উপনাম রাখলো যা তার বা তাদের কারো মধ্যে আছে।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 378,
+          "hadith_count": 1
+        },
+        {
+          "id": 379,
+          "chapter_id": 12,
+          "display_label": "১২/২৩. অধ্যায়ঃ",
+          "title": "প্রবীণ ও মর্যাদাশালী লোকদের সাথে কিভাবে হাঁটবে?",
+          "arabic_title": "",
+          "preface": "",
+          "order": 379,
+          "hadith_count": 1
+        },
+        {
+          "id": 380,
+          "chapter_id": 12,
+          "display_label": "১২/২৪. অধ্যায়ঃ",
+          "title": "(শিরোনাম বিহীন)।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 380,
+          "hadith_count": 2
+        },
+        {
+          "id": 381,
+          "chapter_id": 12,
+          "display_label": "১২/২৫. অধ্যায়ঃ",
+          "title": "কোন ব্যক্তিকে তার প্রিয় নামে ডাকা।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 381,
+          "hadith_count": 1
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "display_label": "১৩",
+      "title": "কবিতা চর্চা ও ব্যাঙ্গ-কৌতুক",
+      "arabic_title": "",
+      "preface": "",
+      "range": "৮৬৪ - ৯২৬",
+      "order": 13,
+      "hadith_count": 63,
+      "sections_count": 34,
+      "sections": [
+        {
+          "id": 382,
+          "chapter_id": 13,
+          "display_label": "১৩/১. অধ্যায়ঃ",
+          "title": "কোন কোন কবিতায় প্রজ্ঞা নিহিত আছে।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 382,
+          "hadith_count": 8
+        },
+        {
+          "id": 383,
+          "chapter_id": 13,
+          "display_label": "১৩/২. অধ্যায়ঃ",
+          "title": "উত্তম কথার ন্যায় উত্তম কবিতাও আছে, নিকৃষ্ট কবিতাও আছে।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 383,
+          "hadith_count": 5
+        },
+        {
+          "id": 384,
+          "chapter_id": 13,
+          "display_label": "১৩/৩. অধ্যায়ঃ",
+          "title": "যে ব্যক্তি কবিতা আবৃত্তির আবদার করে।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 384,
+          "hadith_count": 1
+        },
+        {
+          "id": 385,
+          "chapter_id": 13,
+          "display_label": "১৩/৪. অধ্যায়ঃ",
+          "title": "যে ব্যক্তি কবিতা নিয়ে ব্যস্ত থাকা নিন্দনীয় মনে করে।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 385,
+          "hadith_count": 1
+        },
+        {
+          "id": 386,
+          "chapter_id": 13,
+          "display_label": "১৩/৫. অধ্যায়ঃ",
+          "title": "আল্লাহর বাণীঃ “কবিগণ, কেবল পথভ্রষ্টরাই তাদের অনুগামী হয়” (২৬ : ২২৪)।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 386,
+          "hadith_count": 1
+        },
+        {
+          "id": 387,
+          "chapter_id": 13,
+          "display_label": "১৩/৬. অধ্যায়ঃ",
+          "title": "যে বলে, কথায়ও যাদুকরী প্রভাব থাকে।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 387,
+          "hadith_count": 2
+        },
+        {
+          "id": 388,
+          "chapter_id": 13,
+          "display_label": "১৩/৭. অধ্যায়ঃ",
+          "title": "নিন্দনীয় কবিতা।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 388,
+          "hadith_count": 1
+        },
+        {
+          "id": 389,
+          "chapter_id": 13,
+          "display_label": "১৩/৮. অধ্যায়ঃ",
+          "title": "বাচালতা।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 389,
+          "hadith_count": 3
+        },
+        {
+          "id": 390,
+          "chapter_id": 13,
+          "display_label": "১৩/৯. অধ্যায়ঃ",
+          "title": "আশা-আকাঙ্ক্ষা।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 390,
+          "hadith_count": 1
+        },
+        {
+          "id": 391,
+          "chapter_id": 13,
+          "display_label": "১৩/১০. অধ্যায়ঃ",
+          "title": "কোন ব্যক্তি, বস্তু বা ঘোড়াকে ‘সমুদ্র’ অভিহিত করা।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 391,
+          "hadith_count": 1
+        },
+        {
+          "id": 392,
+          "chapter_id": 13,
+          "display_label": "১৩/১১. অধ্যায়ঃ",
+          "title": "ভাষাগত ভুলের জন্য প্রহার করা।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 392,
+          "hadith_count": 2
+        },
+        {
+          "id": 393,
+          "chapter_id": 13,
+          "display_label": "১৩/১২. অধ্যায়ঃ",
+          "title": "কেউ বলে, এটা কিছুই না অর্থাৎ এটা সঠিক বা যথার্থ কিছু নয়।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 393,
+          "hadith_count": 1
+        },
+        {
+          "id": 394,
+          "chapter_id": 13,
+          "display_label": "১৩/১৩. অধ্যায়ঃ",
+          "title": "বিপরীতাৰ্থক উপমা।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 394,
+          "hadith_count": 3
+        },
+        {
+          "id": 395,
+          "chapter_id": 13,
+          "display_label": "১৩/১৪. অধ্যায়ঃ",
+          "title": "গোপনীয় বিষয় ফাঁস করে দেয়া।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 395,
+          "hadith_count": 1
+        },
+        {
+          "id": 396,
+          "chapter_id": 13,
+          "display_label": "১৩/১৫. অধ্যায়ঃ",
+          "title": "ঠাট্টা-বিদ্ধপ। মহামহিম আল্লাহর বাণীঃ “একদল অপর দলকে যেন ঠাট্টা-বিদ্রুপ না করে” (৪৯ : ১১)।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 396,
+          "hadith_count": 1
+        },
+        {
+          "id": 397,
+          "chapter_id": 13,
+          "display_label": "১৩/১৬. অধ্যায়ঃ",
+          "title": "কাজকর্মে ধীরস্থিরতা।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 397,
+          "hadith_count": 2
+        },
+        {
+          "id": 398,
+          "chapter_id": 13,
+          "display_label": "১৩/১৭. অধ্যায়ঃ",
+          "title": "যে ব্যক্তি পথভোলা লোককে রাস্তা বলে দেয়।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 398,
+          "hadith_count": 2
+        },
+        {
+          "id": 399,
+          "chapter_id": 13,
+          "display_label": "১৩/১৮. অধ্যায়ঃ",
+          "title": "যে ব্যক্তি অন্ধকে পথহারা করে।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 399,
+          "hadith_count": 1
+        },
+        {
+          "id": 400,
+          "chapter_id": 13,
+          "display_label": "১৩/১৯. অধ্যায়ঃ",
+          "title": "বিদ্রোহ।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 400,
+          "hadith_count": 1
+        },
+        {
+          "id": 401,
+          "chapter_id": 13,
+          "display_label": "১৩/২০. অধ্যায়ঃ",
+          "title": "বিদ্রোহের শাস্তি।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 401,
+          "hadith_count": 2
+        },
+        {
+          "id": 402,
+          "chapter_id": 13,
+          "display_label": "১৩/২১. অধ্যায়ঃ",
+          "title": "বংশমর্যাদা।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 402,
+          "hadith_count": 4
+        },
+        {
+          "id": 403,
+          "chapter_id": 13,
+          "display_label": "১৩/২২. অধ্যায়ঃ",
+          "title": "মানবাত্মাসমূহ সমবেত সৈন্যদল।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 403,
+          "hadith_count": 2
+        },
+        {
+          "id": 404,
+          "chapter_id": 13,
+          "display_label": "১৩/২৩. অধ্যায়ঃ",
+          "title": "বিস্মিত হয়ে কারো ‘সুবহানাল্লাহ’ বলা।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 404,
+          "hadith_count": 2
+        },
+        {
+          "id": 405,
+          "chapter_id": 13,
+          "display_label": "১৩/২৪. অধ্যায়ঃ",
+          "title": "হাতে মাটি স্পর্শ করা।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 405,
+          "hadith_count": 1
+        },
+        {
+          "id": 406,
+          "chapter_id": 13,
+          "display_label": "১৩/২৫. অধ্যায়ঃ",
+          "title": "নুড়ি পাথর।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 406,
+          "hadith_count": 1
+        },
+        {
+          "id": 407,
+          "chapter_id": 13,
+          "display_label": "১৩/২৬. অধ্যায়ঃ",
+          "title": "তোমরা বায়ুকে গালি দিও না।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 407,
+          "hadith_count": 1
+        },
+        {
+          "id": 408,
+          "chapter_id": 13,
+          "display_label": "১৩/২৭. অধ্যায়ঃ",
+          "title": "কারো বক্তব্য, অমুক অমুক গ্রহের প্রভাবে বৃষ্টি হয়েছে।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 408,
+          "hadith_count": 1
+        },
+        {
+          "id": 409,
+          "chapter_id": 13,
+          "display_label": "১৩/২৮. অধ্যায়ঃ",
+          "title": "লোকজন মেঘ দেখলে যা বলবে।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 409,
+          "hadith_count": 2
+        },
+        {
+          "id": 410,
+          "chapter_id": 13,
+          "display_label": "১৩/২৯. অধ্যায়ঃ",
+          "title": "অশুভ লক্ষণ।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 410,
+          "hadith_count": 1
+        },
+        {
+          "id": 411,
+          "chapter_id": 13,
+          "display_label": "১৩/৩০. অধ্যায়ঃ",
+          "title": "যে ব্যক্তি অশুভ লক্ষণ মানে না তার মর্যাদা।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 411,
+          "hadith_count": 1
+        },
+        {
+          "id": 412,
+          "chapter_id": 13,
+          "display_label": "১৩/৩১. অধ্যায়ঃ",
+          "title": "জিনের আছর থেকে বাঁচার নিষ্ফল তদবীর।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 412,
+          "hadith_count": 1
+        },
+        {
+          "id": 413,
+          "chapter_id": 13,
+          "display_label": "১৩/৩২. অধ্যায়ঃ",
+          "title": "শুভ লক্ষণ।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 413,
+          "hadith_count": 2
+        },
+        {
+          "id": 414,
+          "chapter_id": 13,
+          "display_label": "১৩/৩৩. অধ্যায়ঃ",
+          "title": "উত্তম নামকে বরকতময় মনে করা।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 414,
+          "hadith_count": 1
+        },
+        {
+          "id": 415,
+          "chapter_id": 13,
+          "display_label": "১৩/৩৪. অধ্যায়ঃ",
+          "title": "ঘোড়ায় কুলক্ষণ।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 415,
+          "hadith_count": 3
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "display_label": "১৪",
+      "title": "হাঁচি ও তার জবাবদান",
+      "arabic_title": "",
+      "preface": "",
+      "range": "৯২৭ - ৯৮৬",
+      "order": 14,
+      "hadith_count": 60,
+      "sections_count": 32,
+      "sections": [
+        {
+          "id": 416,
+          "chapter_id": 14,
+          "display_label": "১৪/১. অধ্যায়ঃ",
+          "title": "হাঁচি দেয়া।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 416,
+          "hadith_count": 1
+        },
+        {
+          "id": 417,
+          "chapter_id": 14,
+          "display_label": "১৪/২. অধ্যায়ঃ",
+          "title": "কেউ হাঁচি দিয়ে যা বলবে।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 417,
+          "hadith_count": 2
+        },
+        {
+          "id": 418,
+          "chapter_id": 14,
+          "display_label": "১৪/৩. অধ্যায়ঃ",
+          "title": "হাঁচিদাতার জবাব দেয়া।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 418,
+          "hadith_count": 4
+        },
+        {
+          "id": 419,
+          "chapter_id": 14,
+          "display_label": "১৪/৪. অধ্যায়ঃ",
+          "title": "যে হাঁচি দিতে শোনবে সে বলবে, আলহামদু লিল্লাহ।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 419,
+          "hadith_count": 1
+        },
+        {
+          "id": 420,
+          "chapter_id": 14,
+          "display_label": "১৪/৫. অধ্যায়ঃ",
+          "title": "কেউ হাঁচি দিতে শোনলে কিভাবে জবাব দিবে?",
+          "arabic_title": "",
+          "preface": "",
+          "order": 420,
+          "hadith_count": 4
+        },
+        {
+          "id": 421,
+          "chapter_id": 14,
+          "display_label": "১৪/৬. অধ্যায়ঃ",
+          "title": "হাঁচিদাতা আল্লাহর প্রশংসা না করলে হাঁচির জবাব দিবে না।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 421,
+          "hadith_count": 2
+        },
+        {
+          "id": 422,
+          "chapter_id": 14,
+          "display_label": "১৪/৭. অধ্যায়ঃ",
+          "title": "হাঁচিদাতা প্রথমে কি বলবে?",
+          "arabic_title": "",
+          "preface": "",
+          "order": 422,
+          "hadith_count": 3
+        },
+        {
+          "id": 423,
+          "chapter_id": 14,
+          "display_label": "১৪/৮. অধ্যায়ঃ",
+          "title": "যিনি বলেন, তুমি আল্লাহর প্রশংসা করে থাকলে তিনি তোমাকে দয়া করুন।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 423,
+          "hadith_count": 1
+        },
+        {
+          "id": 424,
+          "chapter_id": 14,
+          "display_label": "১৪/৯. অধ্যায়ঃ",
+          "title": "কেউ যেন হাঁচি দিয়ে ‘আ-ব’ না বলে।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 424,
+          "hadith_count": 1
+        },
+        {
+          "id": 425,
+          "chapter_id": 14,
+          "display_label": "১৪/১০. অধ্যায়ঃ",
+          "title": "কেউ বারবার হাঁচি দিলে।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 425,
+          "hadith_count": 2
+        },
+        {
+          "id": 426,
+          "chapter_id": 14,
+          "display_label": "১৪/১১. অধ্যায়ঃ",
+          "title": "কোন ইহুদী হাঁচি দিলে।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 426,
+          "hadith_count": 1
+        },
+        {
+          "id": 427,
+          "chapter_id": 14,
+          "display_label": "১৪/১২. অধ্যায়ঃ",
+          "title": "পুরুষ লোকের নারীর হাঁচির জবাব দেয়া।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 427,
+          "hadith_count": 1
+        },
+        {
+          "id": 428,
+          "chapter_id": 14,
+          "display_label": "১৪/১৩. অধ্যায়ঃ",
+          "title": "হাই তোলা।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 428,
+          "hadith_count": 1
+        },
+        {
+          "id": 429,
+          "chapter_id": 14,
+          "display_label": "১৪/১৪. অধ্যায়ঃ",
+          "title": "কাউকে ডাকলে জবাবে লাব্বায়েক বলা।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 429,
+          "hadith_count": 1
+        },
+        {
+          "id": 430,
+          "chapter_id": 14,
+          "display_label": "১৪/১৫. অধ্যায়ঃ",
+          "title": "ভাইয়ের সম্মানার্থে কোন ব্যক্তির দাঁড়ানো।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 430,
+          "hadith_count": 4
+        },
+        {
+          "id": 431,
+          "chapter_id": 14,
+          "display_label": "১৪/১৬. অধ্যায়ঃ",
+          "title": "উপবিষ্ট ব্যক্তির জন্য কারো দাঁড়ানো।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 431,
+          "hadith_count": 1
+        },
+        {
+          "id": 432,
+          "chapter_id": 14,
+          "display_label": "১৪/১৭. অধ্যায়ঃ",
+          "title": "কারো হাই উঠলে যেন নিজ মুখে হাত দেয়।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 432,
+          "hadith_count": 4
+        },
+        {
+          "id": 433,
+          "chapter_id": 14,
+          "display_label": "১৪/১৮. অধ্যায়ঃ",
+          "title": "একজন অপরজনের মাথার উকুন বেছে দিবে কি?",
+          "arabic_title": "",
+          "preface": "",
+          "order": 433,
+          "hadith_count": 2
+        },
+        {
+          "id": 434,
+          "chapter_id": 14,
+          "display_label": "১৪/১৯. অধ্যায়ঃ",
+          "title": "অবাক-বিস্ময়ে মাথা দোলানো এবং দাঁত দিয়ে ঠোঁট চেপে ধরা।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 434,
+          "hadith_count": 1
+        },
+        {
+          "id": 435,
+          "chapter_id": 14,
+          "display_label": "১৪/২০. অধ্যায়ঃ",
+          "title": "হতবাক হয়ে বা অন্য কারণে কারো নিজ উরুতে চপেটাঘাত করা।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 435,
+          "hadith_count": 5
+        },
+        {
+          "id": 436,
+          "chapter_id": 14,
+          "display_label": "১৪/২১. অধ্যায়ঃ",
+          "title": "যে উপবিষ্ট ব্যক্তি তার সম্মানে অপরের দণ্ডায়মান হওয়াকে অপছন্দ করে।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 436,
+          "hadith_count": 2
+        },
+        {
+          "id": 437,
+          "chapter_id": 14,
+          "display_label": "১৪/২২. অধ্যায়ঃ",
+          "title": "(দুনিয়া কতই না তুচ্ছ)।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 437,
+          "hadith_count": 2
+        },
+        {
+          "id": 438,
+          "chapter_id": 14,
+          "display_label": "১৪/২৩. অধ্যায়ঃ",
+          "title": "কারো পায়ে ঝিঝি ধরলে যা বলবে।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 438,
+          "hadith_count": 1
+        },
+        {
+          "id": 439,
+          "chapter_id": 14,
+          "display_label": "১৪/২৪. অধ্যায়ঃ",
+          "title": "(প্রথম তিন খলীফাকে জান্নাতের সুসংবাদ)।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 439,
+          "hadith_count": 1
+        },
+        {
+          "id": 440,
+          "chapter_id": 14,
+          "display_label": "১৪/২৫. অধ্যায়ঃ",
+          "title": "শিশুদের সাথে মোসাফাহা করা।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 440,
+          "hadith_count": 1
+        },
+        {
+          "id": 441,
+          "chapter_id": 14,
+          "display_label": "১৪/২৬. অধ্যায়ঃ",
+          "title": "মোসাফাহা (করমর্দন)।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 441,
+          "hadith_count": 2
+        },
+        {
+          "id": 442,
+          "chapter_id": 14,
+          "display_label": "১৪/২৭. অধ্যায়ঃ",
+          "title": "শিশুর মাথায় কোন মহিলার হাত বুলানো।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 442,
+          "hadith_count": 1
+        },
+        {
+          "id": 443,
+          "chapter_id": 14,
+          "display_label": "১৪/২৮. অধ্যায়ঃ",
+          "title": "মুয়ানাকা (আলিঙ্গন)।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 443,
+          "hadith_count": 1
+        },
+        {
+          "id": 444,
+          "chapter_id": 14,
+          "display_label": "১৪/২৯. অধ্যায়ঃ",
+          "title": "নিজ কন্যাকে চুমা দেয়া।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 444,
+          "hadith_count": 1
+        },
+        {
+          "id": 445,
+          "chapter_id": 14,
+          "display_label": "১৪/৩০. অধ্যায়ঃ",
+          "title": "হাতে চুমা দেয়া।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 445,
+          "hadith_count": 3
+        },
+        {
+          "id": 446,
+          "chapter_id": 14,
+          "display_label": "১৪/৩১. অধ্যায়ঃ",
+          "title": "পায়ে চুমা দেয়া (কদমবুচি)।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 446,
+          "hadith_count": 2
+        },
+        {
+          "id": 447,
+          "chapter_id": 14,
+          "display_label": "১৪/৩২. অধ্যায়ঃ",
+          "title": "একজনের সম্মানার্থে অপরজনের দাঁড়ানো।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 447,
+          "hadith_count": 1
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "display_label": "১৫",
+      "title": "পরস্পর সালাম বিনিময়",
+      "arabic_title": "",
+      "preface": "",
+      "range": "৯৮৭ - ১০৬০",
+      "order": 15,
+      "hadith_count": 74,
+      "sections_count": 34,
+      "sections": [
+        {
+          "id": 448,
+          "chapter_id": 15,
+          "display_label": "১৫/১. অধ্যায়ঃ",
+          "title": "সালামের সূচনা।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 448,
+          "hadith_count": 1
+        },
+        {
+          "id": 449,
+          "chapter_id": 15,
+          "display_label": "১৫/২. অধ্যায়ঃ",
+          "title": "সালামের প্রসার।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 449,
+          "hadith_count": 3
+        },
+        {
+          "id": 450,
+          "chapter_id": 15,
+          "display_label": "১৫/৩. অধ্যায়ঃ",
+          "title": "যে ব্যক্তি আগে সালাম দেয়।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 450,
+          "hadith_count": 4
+        },
+        {
+          "id": 451,
+          "chapter_id": 15,
+          "display_label": "১৫/৪. অধ্যায়ঃ",
+          "title": "সালাম বিনিময়ের ফযীলাত।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 451,
+          "hadith_count": 3
+        },
+        {
+          "id": 452,
+          "chapter_id": 15,
+          "display_label": "১৫/৫. অধ্যায়ঃ",
+          "title": "সালাম হলো মহামহিম আল্লাহর নামসমূহের অন্তর্ভুক্ত একটি নাম।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 452,
+          "hadith_count": 2
+        },
+        {
+          "id": 453,
+          "chapter_id": 15,
+          "display_label": "১৫/৬. অধ্যায়ঃ",
+          "title": "দুই মুসলমানের সাক্ষাতকালে সালাম প্রদানকারী মুসলমানের অধিকার।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 453,
+          "hadith_count": 1
+        },
+        {
+          "id": 454,
+          "chapter_id": 15,
+          "display_label": "১৫/৭. অধ্যায়ঃ",
+          "title": "পথচারী উপবিষ্ট ব্যক্তিকে সালাম দিবে।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 454,
+          "hadith_count": 3
+        },
+        {
+          "id": 455,
+          "chapter_id": 15,
+          "display_label": "১৫/৮. অধ্যায়ঃ",
+          "title": "আরোহী উপবিষ্ট ব্যক্তিকে সালাম দিবে।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 455,
+          "hadith_count": 2
+        },
+        {
+          "id": 456,
+          "chapter_id": 15,
+          "display_label": "১৫/৯. অধ্যায়ঃ",
+          "title": "পদচারী কি আরোহীকে সালাম দিবে?",
+          "arabic_title": "",
+          "preface": "",
+          "order": 456,
+          "hadith_count": 1
+        },
+        {
+          "id": 457,
+          "chapter_id": 15,
+          "display_label": "১৫/১০. অধ্যায়ঃ",
+          "title": "ক্ষুদ্র দল বড়ো দলকে সালাম দিবে।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 457,
+          "hadith_count": 2
+        },
+        {
+          "id": 458,
+          "chapter_id": 15,
+          "display_label": "১৫/১১. অধ্যায়ঃ",
+          "title": "ছোটরা বড়োদের সালাম দিবে।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 458,
+          "hadith_count": 2
+        },
+        {
+          "id": 459,
+          "chapter_id": 15,
+          "display_label": "১৫/১২. অধ্যায়ঃ",
+          "title": "সালামের সমাপ্তি।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 459,
+          "hadith_count": 1
+        },
+        {
+          "id": 460,
+          "chapter_id": 15,
+          "display_label": "১৫/১৩. অধ্যায়ঃ",
+          "title": "যে ব্যক্তি ইশারায় সালাম দিলো।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 460,
+          "hadith_count": 3
+        },
+        {
+          "id": 461,
+          "chapter_id": 15,
+          "display_label": "১৫/১৪. অধ্যায়ঃ",
+          "title": "প্রতিপক্ষকে শুনিয়ে সালাম দিবে।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 461,
+          "hadith_count": 1
+        },
+        {
+          "id": 462,
+          "chapter_id": 15,
+          "display_label": "১৫/১৫. অধ্যায়ঃ",
+          "title": "যে ব্যক্তি সালাম আদান-প্রদানের উদ্দেশ্যে বের হয়।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 462,
+          "hadith_count": 1
+        },
+        {
+          "id": 463,
+          "chapter_id": 15,
+          "display_label": "১৫/১৬. অধ্যায়ঃ",
+          "title": "মজলিসে পৌছে কারো সালাম দেয়া।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 463,
+          "hadith_count": 1
+        },
+        {
+          "id": 464,
+          "chapter_id": 15,
+          "display_label": "১৫/১৭. অধ্যায়ঃ",
+          "title": "মজলিস থেকে বিদায়কালে সালাম দেয়া।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 464,
+          "hadith_count": 1
+        },
+        {
+          "id": 465,
+          "chapter_id": 15,
+          "display_label": "১৫/১৮. অধ্যায়ঃ",
+          "title": "মজলিস থেকে বিদায়কালে সালাম প্রদানকারীর অধিকার।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 465,
+          "hadith_count": 3
+        },
+        {
+          "id": 466,
+          "chapter_id": 15,
+          "display_label": "১৫/১৯. অধ্যায়ঃ",
+          "title": "যে ব্যক্তি মুসাফাহা করার উদ্দেশে হাতে তৈল মালিশ করে।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 466,
+          "hadith_count": 1
+        },
+        {
+          "id": 467,
+          "chapter_id": 15,
+          "display_label": "১৫/২০. অধ্যায়ঃ",
+          "title": "পরিচিত-অপরিচিত সকলকে সালাম দেয়া।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 467,
+          "hadith_count": 1
+        },
+        {
+          "id": 468,
+          "chapter_id": 15,
+          "display_label": "১৫/২১. অধ্যায়ঃ",
+          "title": "(রাস্তার অধিকার)।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 468,
+          "hadith_count": 3
+        },
+        {
+          "id": 469,
+          "chapter_id": 15,
+          "display_label": "১৫/২২. অধ্যায়ঃ",
+          "title": "পাপাচারীকে সালাম দিবে না।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 469,
+          "hadith_count": 3
+        },
+        {
+          "id": 470,
+          "chapter_id": 15,
+          "display_label": "১৫/২৩. অধ্যায়ঃ",
+          "title": "যে ব্যক্তি খালূক (যাফরান মিশ্রিত খোশবু) ব্যবহারকারী ও পাপাচারীকে সালাম দেয় না।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 470,
+          "hadith_count": 3
+        },
+        {
+          "id": 471,
+          "chapter_id": 15,
+          "display_label": "১৫/২৪. অধ্যায়ঃ",
+          "title": "আমীরকে সালাম দেয়া।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 471,
+          "hadith_count": 5
+        },
+        {
+          "id": 472,
+          "chapter_id": 15,
+          "display_label": "১৫/২৫. অধ্যায়ঃ",
+          "title": "নিদ্রিত ব্যক্তিকে সালাম দেয়া।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 472,
+          "hadith_count": 1
+        },
+        {
+          "id": 473,
+          "chapter_id": 15,
+          "display_label": "১৫/২৬. অধ্যায়ঃ",
+          "title": "আল্লাহ তোমায় দীর্ঘজীবি করুন।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 473,
+          "hadith_count": 1
+        },
+        {
+          "id": 474,
+          "chapter_id": 15,
+          "display_label": "১৫/২৭. অধ্যায়ঃ",
+          "title": "মারহাবা (স্বাগতম)।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 474,
+          "hadith_count": 2
+        },
+        {
+          "id": 475,
+          "chapter_id": 15,
+          "display_label": "১৫/২৮. অধ্যায়ঃ",
+          "title": "কিভাবে সালামের উত্তর দিবে?",
+          "arabic_title": "",
+          "preface": "",
+          "order": 475,
+          "hadith_count": 6
+        },
+        {
+          "id": 476,
+          "chapter_id": 15,
+          "display_label": "১৫/২৯. অধ্যায়ঃ",
+          "title": "যে ব্যক্তি সালামের জবাব দেয়নি।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 476,
+          "hadith_count": 3
+        },
+        {
+          "id": 477,
+          "chapter_id": 15,
+          "display_label": "১৫/৩০. অধ্যায়ঃ",
+          "title": "যে ব্যক্তি সালাম দিতে কার্পণ্য করে।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 477,
+          "hadith_count": 2
+        },
+        {
+          "id": 478,
+          "chapter_id": 15,
+          "display_label": "১৫/৩১. অধ্যায়ঃ",
+          "title": "শিশুদের সালাম দেয়া।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 478,
+          "hadith_count": 2
+        },
+        {
+          "id": 479,
+          "chapter_id": 15,
+          "display_label": "১৫/৩২. অধ্যায়ঃ",
+          "title": "স্ত্রীলোকদের পুরুষ লোককে সালাম দেয়া।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 479,
+          "hadith_count": 2
+        },
+        {
+          "id": 480,
+          "chapter_id": 15,
+          "display_label": "১৫/৩৩. অধ্যায়ঃ",
+          "title": "মহিলাদের সালাম দেয়া।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 480,
+          "hadith_count": 2
+        },
+        {
+          "id": 481,
+          "chapter_id": 15,
+          "display_label": "১৫/৩৪. অধ্যায়ঃ",
+          "title": "যে ব্যক্তি (অনেকের মধ্যে) কাউকে নির্দিষ্ট করে সালাম দেয়া অপছন্দ করে।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 481,
+          "hadith_count": 2
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "display_label": "১৬",
+      "title": "দেখা-সাক্ষাতের জন্য অনুমতি প্রার্থনা",
+      "arabic_title": "",
+      "preface": "",
+      "range": "১০৬১ - ১১২৬",
+      "order": 16,
+      "hadith_count": 66,
+      "sections_count": 42,
+      "sections": [
+        {
+          "id": 482,
+          "chapter_id": 16,
+          "display_label": "১৬/১. অধ্যায়ঃ",
+          "title": "পর্দা সংক্রান্ত আয়াত কিভাবে নাযিল হয়েছে?",
+          "arabic_title": "",
+          "preface": "",
+          "order": 482,
+          "hadith_count": 1
+        },
+        {
+          "id": 483,
+          "chapter_id": 16,
+          "display_label": "১৬/২. অধ্যায়ঃ",
+          "title": "পর্দার তিন সময়।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 483,
+          "hadith_count": 1
+        },
+        {
+          "id": 484,
+          "chapter_id": 16,
+          "display_label": "১৬/৩. অধ্যায়ঃ",
+          "title": "স্ত্রীর সাথে স্বামীর আহার গ্রহণ।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 484,
+          "hadith_count": 2
+        },
+        {
+          "id": 485,
+          "chapter_id": 16,
+          "display_label": "১৬/৪. অধ্যায়ঃ",
+          "title": "কেউ বসতিহীন ধরে প্রবেশ করল।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 485,
+          "hadith_count": 2
+        },
+        {
+          "id": 486,
+          "chapter_id": 16,
+          "display_label": "১৬/৫. অধ্যায়ঃ",
+          "title": "“তোমাদের ক্রীতদাসেরা যেন তোমাদের নিকট অনুমতি প্রার্থনা করে” (২৪ : ৫৮)।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 486,
+          "hadith_count": 1
+        },
+        {
+          "id": 487,
+          "chapter_id": 16,
+          "display_label": "১৬/৬. অধ্যায়ঃ",
+          "title": "আল্লাহর বাণী, “যখন তোমাদের শিশুরা বালেগ হয়” (২৪ : ৫৯)।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 487,
+          "hadith_count": 1
+        },
+        {
+          "id": 488,
+          "chapter_id": 16,
+          "display_label": "১৬/৭. অধ্যায়ঃ",
+          "title": "মায়ের (ঘরে প্রবেশ করতেও) অনুমতি প্রার্থনা করবে।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 488,
+          "hadith_count": 2
+        },
+        {
+          "id": 489,
+          "chapter_id": 16,
+          "display_label": "১৬/৮. অধ্যায়ঃ",
+          "title": "পিতার নিকটও (প্রবেশের) অনুমতি চাইবে।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 489,
+          "hadith_count": 1
+        },
+        {
+          "id": 490,
+          "chapter_id": 16,
+          "display_label": "১৬/৯. অধ্যায়ঃ",
+          "title": "পিতা ও সন্তানের নিকটও (প্রবেশের) অনুমতি চাইবে।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 490,
+          "hadith_count": 1
+        },
+        {
+          "id": 491,
+          "chapter_id": 16,
+          "display_label": "১৬/১০. অধ্যায়ঃ",
+          "title": "নিজের বোনের নিকটও প্রবেশানুমতি চাইবে।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 491,
+          "hadith_count": 1
+        },
+        {
+          "id": 492,
+          "chapter_id": 16,
+          "display_label": "১৬/১১. অধ্যায়ঃ",
+          "title": "নিজের ভাইয়ের কাছেও অনুমতি প্রার্থনা করবে।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 492,
+          "hadith_count": 1
+        },
+        {
+          "id": 493,
+          "chapter_id": 16,
+          "display_label": "১৬/১২. অধ্যায়ঃ",
+          "title": "তিনবার অনুমতি প্রার্থনা করবে।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 493,
+          "hadith_count": 1
+        },
+        {
+          "id": 494,
+          "chapter_id": 16,
+          "display_label": "১৬/১৩. অধ্যায়ঃ",
+          "title": "সালাম না দিয়ে অনুমতি প্রার্থনা করলে।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 494,
+          "hadith_count": 2
+        },
+        {
+          "id": 495,
+          "chapter_id": 16,
+          "display_label": "১৬/১৪. অধ্যায়ঃ",
+          "title": "বিনা অনুমতিতে কেউ ভেতর বাড়িতে তাকালে তার চোখ ফুটো করে দেয়া হবে।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 495,
+          "hadith_count": 2
+        },
+        {
+          "id": 496,
+          "chapter_id": 16,
+          "display_label": "১৬/১৫. অধ্যায়ঃ",
+          "title": "চোখের কারণেই অনুমতি প্রার্থনা করতে হয়।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 496,
+          "hadith_count": 3
+        },
+        {
+          "id": 497,
+          "chapter_id": 16,
+          "display_label": "১৬/১৬. অধ্যায়ঃ",
+          "title": "কোন ব্যক্তি অপর ব্যক্তিকে তার ঘরে সালাম করলে।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 497,
+          "hadith_count": 1
+        },
+        {
+          "id": 498,
+          "chapter_id": 16,
+          "display_label": "১৬/১৭. অধ্যায়ঃ",
+          "title": "কোন ব্যক্তির ডাকাও অনুমতি হিসাবে গণ্য।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 498,
+          "hadith_count": 4
+        },
+        {
+          "id": 499,
+          "chapter_id": 16,
+          "display_label": "১৬/১৮. অধ্যায়ঃ",
+          "title": "দরজার সামনে কিভাবে দাঁড়াবে।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 499,
+          "hadith_count": 1
+        },
+        {
+          "id": 500,
+          "chapter_id": 16,
+          "display_label": "১৬/১৯. অধ্যায়ঃ",
+          "title": "কেউ অনুমতি চাইলে (ভেতর থেকে) বললো, আমি যতক্ষণ না বের হয়ে আসি৷ সাক্ষাতপ্রার্থী কোথায় বসবে?",
+          "arabic_title": "",
+          "preface": "",
+          "order": 500,
+          "hadith_count": 1
+        },
+        {
+          "id": 501,
+          "chapter_id": 16,
+          "display_label": "১৬/২০. অধ্যায়ঃ",
+          "title": "দরজা খটখট করা।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 501,
+          "hadith_count": 1
+        },
+        {
+          "id": 502,
+          "chapter_id": 16,
+          "display_label": "১৬/২১. অধ্যায়ঃ",
+          "title": "কেউ অনুমতি না নিয়েই প্রবেশ করলে।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 502,
+          "hadith_count": 2
+        },
+        {
+          "id": 503,
+          "chapter_id": 16,
+          "display_label": "১৬/২২. অধ্যায়ঃ",
+          "title": "কেউ সালাম না দিয়ে অনুমতি প্রার্থনা করলে।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 503,
+          "hadith_count": 2
+        },
+        {
+          "id": 504,
+          "chapter_id": 16,
+          "display_label": "১৬/২৩. অধ্যায়ঃ",
+          "title": "অনুমতি প্রার্থনার পদ্ধতি।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 504,
+          "hadith_count": 1
+        },
+        {
+          "id": 505,
+          "chapter_id": 16,
+          "display_label": "১৬/২৪. অধ্যায়ঃ",
+          "title": "একজন বললো, কে? অপরজন বললো, আমি।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 505,
+          "hadith_count": 2
+        },
+        {
+          "id": 506,
+          "chapter_id": 16,
+          "display_label": "১৬/২৫. অধ্যায়ঃ",
+          "title": "কেউ অনুমতি চাইলো এবং অপরজন বললো, নিরাপদে প্রবেশ করুন।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 506,
+          "hadith_count": 1
+        },
+        {
+          "id": 507,
+          "chapter_id": 16,
+          "display_label": "১৬/২৬. অধ্যায়ঃ",
+          "title": "ঘরের মধ্যে দৃষ্টিপাত করা।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 507,
+          "hadith_count": 5
+        },
+        {
+          "id": 508,
+          "chapter_id": 16,
+          "display_label": "১৬/২৭. অধ্যায়ঃ",
+          "title": "যে ব্যক্তি নিজ ঘরে সালাম দিয়ে প্রবেশ করে তার ফযীলাত।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 508,
+          "hadith_count": 2
+        },
+        {
+          "id": 509,
+          "chapter_id": 16,
+          "display_label": "১৬/২৮. অধ্যায়ঃ",
+          "title": "ঘরে প্রবেশকালে কেউ আল্লাহকে স্মরণ না করলে সেই ঘরে শয়তান রাত যাপন করে।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 509,
+          "hadith_count": 1
+        },
+        {
+          "id": 510,
+          "chapter_id": 16,
+          "display_label": "১৬/২৯. অধ্যায়ঃ",
+          "title": "যেখানে প্রবেশানুমতি চাওয়ার প্রয়োজন নাই।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 510,
+          "hadith_count": 1
+        },
+        {
+          "id": 511,
+          "chapter_id": 16,
+          "display_label": "১৬/৩০. অধ্যায়ঃ",
+          "title": "বাজারের বিপণী বিতানে প্রবেশের অনুমতি প্রার্থনা।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 511,
+          "hadith_count": 2
+        },
+        {
+          "id": 512,
+          "chapter_id": 16,
+          "display_label": "১৬/৩১. অধ্যায়ঃ",
+          "title": "পারস্যবাসীদের নিকট কিভাবে অনুমতি প্রার্থনা করবে?",
+          "arabic_title": "",
+          "preface": "",
+          "order": 512,
+          "hadith_count": 1
+        },
+        {
+          "id": 513,
+          "chapter_id": 16,
+          "display_label": "১৬/৩২. অধ্যায়ঃ",
+          "title": "যিম্মী পত্র মারফত সালাম দিলে তার উত্তর দিতে হবে।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 513,
+          "hadith_count": 1
+        },
+        {
+          "id": 514,
+          "chapter_id": 16,
+          "display_label": "১৬/৩৩. অধ্যায়ঃ",
+          "title": "যিম্মীকে প্রথমে সালাম দিবে না।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 514,
+          "hadith_count": 2
+        },
+        {
+          "id": 515,
+          "chapter_id": 16,
+          "display_label": "১৬/৩৪. অধ্যায়ঃ",
+          "title": "যে ব্যক্তি ইংগিতে যিম্মীকে সালাম দেয়।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 515,
+          "hadith_count": 2
+        },
+        {
+          "id": 516,
+          "chapter_id": 16,
+          "display_label": "১৬/৩৫. অধ্যায়ঃ",
+          "title": "যিম্মীদের সালামের উত্তর কিভাবে দিবে?",
+          "arabic_title": "",
+          "preface": "",
+          "order": 516,
+          "hadith_count": 2
+        },
+        {
+          "id": 517,
+          "chapter_id": 16,
+          "display_label": "১৬/৩৬. অধ্যায়ঃ",
+          "title": "মুসলমান ও মুশরিকদের সম্মিলিত সভায় সালাম দেয়া।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 517,
+          "hadith_count": 1
+        },
+        {
+          "id": 518,
+          "chapter_id": 16,
+          "display_label": "১৬/৩৭. অধ্যায়ঃ",
+          "title": "আহলে কিতাব সম্প্রদায়কে কিভাবে চিঠিপত্র লিখবে?",
+          "arabic_title": "",
+          "preface": "",
+          "order": 518,
+          "hadith_count": 1
+        },
+        {
+          "id": 519,
+          "chapter_id": 16,
+          "display_label": "১৬/৩৮. অধ্যায়ঃ",
+          "title": "আহলে কিতাব সম্প্রদায় “তোদের মরণ হোক” বললে।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 519,
+          "hadith_count": 1
+        },
+        {
+          "id": 520,
+          "chapter_id": 16,
+          "display_label": "১৬/৩৯. অধ্যায়ঃ",
+          "title": "আহলে কিতাবদের রাস্তার সংকীর্ণ পাশ দিয়ে হাটতে বাধ্য করা।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 520,
+          "hadith_count": 1
+        },
+        {
+          "id": 521,
+          "chapter_id": 16,
+          "display_label": "১৬/৪০. অধ্যায়ঃ",
+          "title": "যিম্মীর জন্য কিভাবে দোয়া করবে?",
+          "arabic_title": "",
+          "preface": "",
+          "order": 521,
+          "hadith_count": 3
+        },
+        {
+          "id": 522,
+          "chapter_id": 16,
+          "display_label": "১৬/৪১. অধ্যায়ঃ",
+          "title": "অজান্তে কোন খৃষ্টানকে সালাম দিলে।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 522,
+          "hadith_count": 1
+        },
+        {
+          "id": 523,
+          "chapter_id": 16,
+          "display_label": "১৬/৪২. অধ্যায়ঃ",
+          "title": "যখন কেউ বলে, অমুক আপনাকে সালাম দিয়েছে।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 523,
+          "hadith_count": 1
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "display_label": "১৭",
+      "title": "চিঠিপত্রের আদান-প্রদান",
+      "arabic_title": "",
+      "preface": "",
+      "range": "১১২৭ - ১১৪৫",
+      "order": 17,
+      "hadith_count": 19,
+      "sections_count": 10,
+      "sections": [
+        {
+          "id": 524,
+          "chapter_id": 17,
+          "display_label": "১৭/১. অধ্যায়ঃ",
+          "title": "চিঠিপত্রের উত্তর দেয়া।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 524,
+          "hadith_count": 1
+        },
+        {
+          "id": 525,
+          "chapter_id": 17,
+          "display_label": "১৭/২. অধ্যায়ঃ",
+          "title": "মহিলাদের নিকট চিঠিপত্র লেখা এবং তাদের জবাবী পত্র।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 525,
+          "hadith_count": 1
+        },
+        {
+          "id": 526,
+          "chapter_id": 17,
+          "display_label": "১৭/৩. অধ্যায়ঃ",
+          "title": "চিঠিপত্রের শিরোনাম কিভাবে লিখতে হবে।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 526,
+          "hadith_count": 1
+        },
+        {
+          "id": 527,
+          "chapter_id": 17,
+          "display_label": "১৭/৪. অধ্যায়ঃ",
+          "title": "অতঃপর।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 527,
+          "hadith_count": 2
+        },
+        {
+          "id": 528,
+          "chapter_id": 17,
+          "display_label": "১৭/৫. অধ্যায়ঃ",
+          "title": "চিঠিপত্রের শিরোনামে বিসমিল্লাহির রহমানির রাহীম।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 528,
+          "hadith_count": 2
+        },
+        {
+          "id": 529,
+          "chapter_id": 17,
+          "display_label": "১৭/৬. অধ্যায়ঃ",
+          "title": "চিঠির সূচনায় যা লিখবে।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 529,
+          "hadith_count": 5
+        },
+        {
+          "id": 530,
+          "chapter_id": 17,
+          "display_label": "১৭/৭. অধ্যায়ঃ",
+          "title": "আপনার রাত কেমন কাটলো?",
+          "arabic_title": "",
+          "preface": "",
+          "order": 530,
+          "hadith_count": 2
+        },
+        {
+          "id": 531,
+          "chapter_id": 17,
+          "display_label": "১৭/৮. অধ্যায়ঃ",
+          "title": "যে ব্যক্তি পত্রের সমাপ্তিতে আসসালামু আলাইকুম ওয়া রহমাতুল্লাহ লিখে এবং তার সাথে প্রেরকের নাম-ঠিকানা ও পত্র প্রেরণের তারিখও লিখে।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 531,
+          "hadith_count": 1
+        },
+        {
+          "id": 532,
+          "chapter_id": 17,
+          "display_label": "১৭/৯. অধ্যায়ঃ",
+          "title": "আপনি কেমন আছেন?",
+          "arabic_title": "",
+          "preface": "",
+          "order": 532,
+          "hadith_count": 1
+        },
+        {
+          "id": 533,
+          "chapter_id": 17,
+          "display_label": "১৭/১০. অধ্যায়ঃ",
+          "title": "কোন ব্যক্তিকে জিজ্ঞেস করা হলো, আপনার রাত কেমন গেলো? সে কিভাবে এর জবাব দিবে?",
+          "arabic_title": "",
+          "preface": "",
+          "order": 533,
+          "hadith_count": 3
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "display_label": "১৮",
+      "title": "সভা-সমাবেশ ও তার রীতিনীতি",
+      "arabic_title": "",
+      "preface": "",
+      "range": "১১৪৬ - ১১৯৬",
+      "order": 18,
+      "hadith_count": 51,
+      "sections_count": 31,
+      "sections": [
+        {
+          "id": 534,
+          "chapter_id": 18,
+          "display_label": "১৮/১. অধ্যায়ঃ",
+          "title": "প্রশস্ত স্থানে বৈঠক অনুষ্ঠান উত্তম।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 534,
+          "hadith_count": 1
+        },
+        {
+          "id": 535,
+          "chapter_id": 18,
+          "display_label": "১৮/২. অধ্যায়ঃ",
+          "title": "কিবলামুখী হয়ে বসা।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 535,
+          "hadith_count": 1
+        },
+        {
+          "id": 536,
+          "chapter_id": 18,
+          "display_label": "১৮/৩. অধ্যায়ঃ",
+          "title": "কেউ মজলিস থেকে উঠে গিয়ে পুনরায় ফিরে এলে।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 536,
+          "hadith_count": 1
+        },
+        {
+          "id": 537,
+          "chapter_id": 18,
+          "display_label": "১৮/৪. অধ্যায়ঃ",
+          "title": "রাস্তায় বসা।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 537,
+          "hadith_count": 1
+        },
+        {
+          "id": 538,
+          "chapter_id": 18,
+          "display_label": "১৮/৫. অধ্যায়ঃ",
+          "title": "সভা-সমিতিতে বসার জায়গা প্রশস্ত করা।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 538,
+          "hadith_count": 1
+        },
+        {
+          "id": 539,
+          "chapter_id": 18,
+          "display_label": "১৮/৬. অধ্যায়ঃ",
+          "title": "পরে আসা ব্যক্তি মজলিসের শেষ প্রান্তে বসবে।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 539,
+          "hadith_count": 1
+        },
+        {
+          "id": 540,
+          "chapter_id": 18,
+          "display_label": "১৮/৭. অধ্যায়ঃ",
+          "title": "কেউ যেন দুইজনের মাঝখানে ফাক করে না বসে।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 540,
+          "hadith_count": 1
+        },
+        {
+          "id": 541,
+          "chapter_id": 18,
+          "display_label": "১৮/৮. অধ্যায়ঃ",
+          "title": "মজলিসে লোকজনের ঘাড় টপকিয়ে সভাপতির নিকট গমন।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 541,
+          "hadith_count": 2
+        },
+        {
+          "id": 542,
+          "chapter_id": 18,
+          "display_label": "১৮/৯. অধ্যায়ঃ",
+          "title": "সহযোগী অধিক সম্মানের পাত্র।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 542,
+          "hadith_count": 2
+        },
+        {
+          "id": 543,
+          "chapter_id": 18,
+          "display_label": "১৮/১০. অধ্যায়ঃ",
+          "title": "কোন ব্যক্তি কি বৈঠকে উপস্থিত লোকদের দিকে তার পা ছড়িয়ে দিয়ে বসতে পারে?",
+          "arabic_title": "",
+          "preface": "",
+          "order": 543,
+          "hadith_count": 1
+        },
+        {
+          "id": 544,
+          "chapter_id": 18,
+          "display_label": "১৮/১১. অধ্যায়ঃ",
+          "title": "কোন ব্যক্তি জনসমাবেসের মধ্যে কিভাবে থুথু ফেলবে?",
+          "arabic_title": "",
+          "preface": "",
+          "order": 544,
+          "hadith_count": 1
+        },
+        {
+          "id": 545,
+          "chapter_id": 18,
+          "display_label": "১৮/১২. অধ্যায়ঃ",
+          "title": "বহিরাঙ্গিনার বৈঠক।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 545,
+          "hadith_count": 2
+        },
+        {
+          "id": 546,
+          "chapter_id": 18,
+          "display_label": "১৮/১৩. অধ্যায়ঃ",
+          "title": "যে ব্যক্তি নিজের পায়ের নলা উদলা করে কূপের পাশে বসে পদদ্বয় কূপের মধ্যে ঝুলিয়ে দেয়।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 546,
+          "hadith_count": 2
+        },
+        {
+          "id": 547,
+          "chapter_id": 18,
+          "display_label": "১৮/১৪. অধ্যায়ঃ",
+          "title": "কেউ কারো সম্মানে স্বস্থান থেকে উঠে দাঁড়ালে সে যেন সেখানে না বসে।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 547,
+          "hadith_count": 1
+        },
+        {
+          "id": 548,
+          "chapter_id": 18,
+          "display_label": "১৮/১৫. অধ্যায়ঃ",
+          "title": "আমানত (বিশ্বস্ততাবারানী)।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 548,
+          "hadith_count": 1
+        },
+        {
+          "id": 549,
+          "chapter_id": 18,
+          "display_label": "১৮/১৬. অধ্যায়ঃ",
+          "title": "নবী (সাঃ) কারো দিকে ফিরলে পূর্ণদেহে ফিরতেন।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 549,
+          "hadith_count": 1
+        },
+        {
+          "id": 550,
+          "chapter_id": 18,
+          "display_label": "১৮/১৭. অধ্যায়ঃ",
+          "title": "কেউ কোন প্রয়োজনে একজনকে অপরজনের নিকট পাঠালে সে যেন (কাউকে) তা অবহিত না করে।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 550,
+          "hadith_count": 1
+        },
+        {
+          "id": 551,
+          "chapter_id": 18,
+          "display_label": "১৮/১৮. অধ্যায়ঃ",
+          "title": "কেউ কি জিজ্ঞেস করতে পারে, তুমি কোথা থেকে এসেছো?",
+          "arabic_title": "",
+          "preface": "",
+          "order": 551,
+          "hadith_count": 2
+        },
+        {
+          "id": 552,
+          "chapter_id": 18,
+          "display_label": "১৮/১৯. অধ্যায়ঃ",
+          "title": "যে ব্যক্তি কোন সম্প্রদায়ের কথা কান লাগিয়ে শোনে, অথচ তারা তা অপছন্দ করে।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 552,
+          "hadith_count": 1
+        },
+        {
+          "id": 553,
+          "chapter_id": 18,
+          "display_label": "১৮/২০. অধ্যায়ঃ",
+          "title": "সোফা জাতীয় গদিতে বসা।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 553,
+          "hadith_count": 8
+        },
+        {
+          "id": 554,
+          "chapter_id": 18,
+          "display_label": "১৮/২১. অধ্যায়ঃ",
+          "title": "কতক লোককে গোপনে আলাপরত দেখলে সেখানে তাদের মধ্যে অনুপ্রবেশ করবে না।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 554,
+          "hadith_count": 2
+        },
+        {
+          "id": 555,
+          "chapter_id": 18,
+          "display_label": "১৮/২২. অধ্যায়ঃ",
+          "title": "তৃতীয়জনকে বাদ দিয়ে দুইজনে যেন গোপন পরামর্শ না করে।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 555,
+          "hadith_count": 1
+        },
+        {
+          "id": 556,
+          "chapter_id": 18,
+          "display_label": "১৮/২৩. অধ্যায়ঃ",
+          "title": "চারজন একত্র হলে।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 556,
+          "hadith_count": 4
+        },
+        {
+          "id": 557,
+          "chapter_id": 18,
+          "display_label": "১৮/২৪. অধ্যায়ঃ",
+          "title": "কেউ কারো পাশে বসলে সে উঠে যেতে তার অনুমতি চাইবে।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 557,
+          "hadith_count": 1
+        },
+        {
+          "id": 558,
+          "chapter_id": 18,
+          "display_label": "১৮/২৫. অধ্যায়ঃ",
+          "title": "রোদের দিকে মুখ করে বসবে না।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 558,
+          "hadith_count": 1
+        },
+        {
+          "id": 559,
+          "chapter_id": 18,
+          "display_label": "১৮/২৬. অধ্যায়ঃ",
+          "title": "পোশাক পরিধানের নিষিদ্ধ নিয়ম (ইহতিবা)।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 559,
+          "hadith_count": 1
+        },
+        {
+          "id": 560,
+          "chapter_id": 18,
+          "display_label": "১৮/২৭. অধ্যায়ঃ",
+          "title": "কাউকে হেলান দেয়ার বালিশ পেশ করা।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 560,
+          "hadith_count": 2
+        },
+        {
+          "id": 561,
+          "chapter_id": 18,
+          "display_label": "১৮/২৮. অধ্যায়ঃ",
+          "title": "দুই হাঁটু খাড়া করে তা দুই হাতে বেড় দিয়ে ধরে নিতম্বের উপর বসা।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 561,
+          "hadith_count": 1
+        },
+        {
+          "id": 562,
+          "chapter_id": 18,
+          "display_label": "১৮/২৯. অধ্যায়ঃ",
+          "title": "চার জানু হয়ে বসা।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 562,
+          "hadith_count": 3
+        },
+        {
+          "id": 563,
+          "chapter_id": 18,
+          "display_label": "১৮/৩০. অধ্যায়ঃ",
+          "title": "পোশাক পরিধানের নিষিদ্ধ নিয়ম (ইহুতি বাযযার)।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 563,
+          "hadith_count": 2
+        },
+        {
+          "id": 564,
+          "chapter_id": 18,
+          "display_label": "১৮/৩১. অধ্যায়ঃ",
+          "title": "যে ব্যক্তি হাঁটু গেড়ে বসে।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 564,
+          "hadith_count": 1
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "display_label": "১৯",
+      "title": "ঘুমানোর আদব-কায়দা",
+      "arabic_title": "",
+      "preface": "",
+      "range": "১১৯৭ - ১২৫৫",
+      "order": 19,
+      "hadith_count": 59,
+      "sections_count": 30,
+      "sections": [
+        {
+          "id": 565,
+          "chapter_id": 19,
+          "display_label": "১৯/১. অধ্যায়ঃ",
+          "title": "শরীর এলিয়ে দেয়া।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 565,
+          "hadith_count": 2
+        },
+        {
+          "id": 566,
+          "chapter_id": 19,
+          "display_label": "১৯/২. অধ্যায়ঃ",
+          "title": "উপুড় হয়ে শোয়া।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 566,
+          "hadith_count": 2
+        },
+        {
+          "id": 567,
+          "chapter_id": 19,
+          "display_label": "১৯/৩. অধ্যায়ঃ",
+          "title": "কেবল ডান হাতেই আদান-প্রদান করবে।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 567,
+          "hadith_count": 1
+        },
+        {
+          "id": 568,
+          "chapter_id": 19,
+          "display_label": "১৯/৪. অধ্যায়ঃ",
+          "title": "বসার সময় জুতাজোড়া কোথায় রাখবে?",
+          "arabic_title": "",
+          "preface": "",
+          "order": 568,
+          "hadith_count": 1
+        },
+        {
+          "id": 569,
+          "chapter_id": 19,
+          "display_label": "১৯/৫. অধ্যায়ঃ",
+          "title": "শয়তান খড়কুটা ও অন্যান্য জিনিস নিয়ে এসে তা বিছানার উপর ছড়িয়ে দেয় ।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 569,
+          "hadith_count": 1
+        },
+        {
+          "id": 570,
+          "chapter_id": 19,
+          "display_label": "১৯/৬. অধ্যায়ঃ",
+          "title": "কেউ বেষ্টনীবিহীন ছাদে ঘুমালে।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 570,
+          "hadith_count": 3
+        },
+        {
+          "id": 571,
+          "chapter_id": 19,
+          "display_label": "১৯/৭. অধ্যায়ঃ",
+          "title": "পা ঝুলিয়ে দিয়ে বসা যাবে কি?",
+          "arabic_title": "",
+          "preface": "",
+          "order": 571,
+          "hadith_count": 1
+        },
+        {
+          "id": 572,
+          "chapter_id": 19,
+          "display_label": "১৯/৮. অধ্যায়ঃ",
+          "title": "কোন প্রয়োজনে ঘর থেকে রওয়ানা হওয়ার সময় কি বলবে?",
+          "arabic_title": "",
+          "preface": "",
+          "order": 572,
+          "hadith_count": 2
+        },
+        {
+          "id": 573,
+          "chapter_id": 19,
+          "display_label": "১৯/৯. অধ্যায়ঃ",
+          "title": "কোন ব্যক্তি কি তার সংগীদের দিকে নিজের পদদ্বয় প্রসারিত করে দিতে পারে বা তাদের সামনে হেলান দিয়ে বসতে পারে?",
+          "arabic_title": "",
+          "preface": "",
+          "order": 573,
+          "hadith_count": 1
+        },
+        {
+          "id": 574,
+          "chapter_id": 19,
+          "display_label": "১৯/১০. অধ্যায়ঃ",
+          "title": "ভোরে উপনীত হয়ে যে দোয়া পড়বে।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 574,
+          "hadith_count": 3
+        },
+        {
+          "id": 575,
+          "chapter_id": 19,
+          "display_label": "১৯/১১. অধ্যায়ঃ",
+          "title": "সন্ধ্যায় উপনীত হয়ে যা বলবে।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 575,
+          "hadith_count": 3
+        },
+        {
+          "id": 576,
+          "chapter_id": 19,
+          "display_label": "১৯/১২. অধ্যায়ঃ",
+          "title": "কেউ তার বিছানায় ঘুমাতে গিয়ে যে দোয়া পড়বে।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 576,
+          "hadith_count": 8
+        },
+        {
+          "id": 577,
+          "chapter_id": 19,
+          "display_label": "১৯/১৩. অধ্যায়ঃ",
+          "title": "শোয়ার সময় পঠিত দোয়ার ফযীলাত।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 577,
+          "hadith_count": 2
+        },
+        {
+          "id": 578,
+          "chapter_id": 19,
+          "display_label": "১৯/১৪. অধ্যায়ঃ",
+          "title": "গালের নিচে হাত রাখা।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 578,
+          "hadith_count": 2
+        },
+        {
+          "id": 579,
+          "chapter_id": 19,
+          "display_label": "১৯/১৫. অধ্যায়ঃ",
+          "title": "কেউ বিছানা থেকে উঠে গিয়ে আবার ফিরে এলে তা যেন ঝেড়ে নেয়।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 579,
+          "hadith_count": 1
+        },
+        {
+          "id": 580,
+          "chapter_id": 19,
+          "display_label": "১৯/১৬. অধ্যায়ঃ",
+          "title": "রাতে ঘুম থেকে জাগ্রত হলে যে দোয়া পড়বে।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 580,
+          "hadith_count": 1
+        },
+        {
+          "id": 581,
+          "chapter_id": 19,
+          "display_label": "১৯/১৭. অধ্যায়ঃ",
+          "title": "কেউ হাতে খাদ্যের চর্বি নিয়ে ঘুমালে।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 581,
+          "hadith_count": 2
+        },
+        {
+          "id": 582,
+          "chapter_id": 19,
+          "display_label": "১৯/১৮. অধ্যায়ঃ",
+          "title": "বাতি নিভানো।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 582,
+          "hadith_count": 3
+        },
+        {
+          "id": 583,
+          "chapter_id": 19,
+          "display_label": "১৯/১৯. অধ্যায়ঃ",
+          "title": "লোকজন ঘুমানোর সময় যেন ঘরে আগুন জ্বালিয়ে না রাখা হয়।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 583,
+          "hadith_count": 4
+        },
+        {
+          "id": 584,
+          "chapter_id": 19,
+          "display_label": "১৯/২০. অধ্যায়ঃ",
+          "title": "বৃষ্টিতে আশাবাদী হওয়া ও বরকত লাভ করা।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 584,
+          "hadith_count": 1
+        },
+        {
+          "id": 585,
+          "chapter_id": 19,
+          "display_label": "১৯/২১. অধ্যায়ঃ",
+          "title": "ঘরে চাবুক ঝুলিয়ে রাখা",
+          "arabic_title": "",
+          "preface": "",
+          "order": 585,
+          "hadith_count": 1
+        },
+        {
+          "id": 586,
+          "chapter_id": 19,
+          "display_label": "১৯/২২. অধ্যায়ঃ",
+          "title": "রাতের বেলা ঘরের দরজা বন্ধ রাখা।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 586,
+          "hadith_count": 1
+        },
+        {
+          "id": 587,
+          "chapter_id": 19,
+          "display_label": "১৯/২৩. অধ্যায়ঃ",
+          "title": "রাতের সূচনায় শিশুদের (নিজেদের সাথে) একত্র রাখা।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 587,
+          "hadith_count": 1
+        },
+        {
+          "id": 588,
+          "chapter_id": 19,
+          "display_label": "১৯/২৪. অধ্যায়ঃ",
+          "title": "পশুর লড়াই অনুষ্ঠান।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 588,
+          "hadith_count": 1
+        },
+        {
+          "id": 589,
+          "chapter_id": 19,
+          "display_label": "১৯/২৫. অধ্যায়ঃ",
+          "title": "কুকুরের ঘেউ ঘেউ শব্দ ও গাধার ডাক।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 589,
+          "hadith_count": 3
+        },
+        {
+          "id": 590,
+          "chapter_id": 19,
+          "display_label": "১৯/২৬. অধ্যায়ঃ",
+          "title": "কেউ মোরগের ডাক শোনলে ।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 590,
+          "hadith_count": 1
+        },
+        {
+          "id": 591,
+          "chapter_id": 19,
+          "display_label": "১৯/২৭. অধ্যায়ঃ",
+          "title": "বুরগুছকে গালি দিও না।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 591,
+          "hadith_count": 1
+        },
+        {
+          "id": 592,
+          "chapter_id": 19,
+          "display_label": "১৯/২৮. অধ্যায়ঃ",
+          "title": "দুপুরের আহারশেষে বিশ্রাম।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 592,
+          "hadith_count": 4
+        },
+        {
+          "id": 593,
+          "chapter_id": 19,
+          "display_label": "১৯/২৯. অধ্যায়ঃ",
+          "title": "দিনের শেষ বেলার ঘুম।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 593,
+          "hadith_count": 1
+        },
+        {
+          "id": 594,
+          "chapter_id": 19,
+          "display_label": "১৯/৩০. অধ্যায়ঃ",
+          "title": "সাধারণ দাওয়াত।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 594,
+          "hadith_count": 1
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "display_label": "২০",
+      "title": "জন্মোৎসব ও খতনা অনুষ্ঠান",
+      "arabic_title": "",
+      "preface": "",
+      "range": "১২৫৬ - ১২৭০",
+      "order": 20,
+      "hadith_count": 15,
+      "sections_count": 13,
+      "sections": [
+        {
+          "id": 595,
+          "chapter_id": 20,
+          "display_label": "২০/১. অধ্যায়ঃ",
+          "title": "খতনা (লিংগাগ্রের ত্বকচ্ছেদন)।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 595,
+          "hadith_count": 1
+        },
+        {
+          "id": 596,
+          "chapter_id": 20,
+          "display_label": "২০/২. অধ্যায়ঃ",
+          "title": "নারীর খতনা করা।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 596,
+          "hadith_count": 1
+        },
+        {
+          "id": 597,
+          "chapter_id": 20,
+          "display_label": "২০/৩. অধ্যায়ঃ",
+          "title": "খতনা অনুষ্ঠানের দাওয়াত।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 597,
+          "hadith_count": 1
+        },
+        {
+          "id": 598,
+          "chapter_id": 20,
+          "display_label": "২০/৪. অধ্যায়ঃ",
+          "title": "খতনা উপলক্ষে আনন্দ অনুষ্ঠান।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 598,
+          "hadith_count": 1
+        },
+        {
+          "id": 599,
+          "chapter_id": 20,
+          "display_label": "২০/৫. অধ্যায়ঃ",
+          "title": "যিম্মী (অমুসলিম নাগরিক) প্রদত্ত দাওয়াত।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 599,
+          "hadith_count": 1
+        },
+        {
+          "id": 600,
+          "chapter_id": 20,
+          "display_label": "২০/৬. অধ্যায়ঃ",
+          "title": "বাঁদীর খতন করানো।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 600,
+          "hadith_count": 1
+        },
+        {
+          "id": 601,
+          "chapter_id": 20,
+          "display_label": "২০/৭. অধ্যায়ঃ",
+          "title": "বড়োদের খতনা করানো।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 601,
+          "hadith_count": 3
+        },
+        {
+          "id": 602,
+          "chapter_id": 20,
+          "display_label": "২০/৮. অধ্যায়ঃ",
+          "title": "শিশুর জন্মগ্রহণ উপলক্ষে দাওয়াত।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 602,
+          "hadith_count": 1
+        },
+        {
+          "id": 603,
+          "chapter_id": 20,
+          "display_label": "২০/৯. অধ্যায়ঃ",
+          "title": "শিশুকে মিষ্টিমুখ (তাহনীক) করানো।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 603,
+          "hadith_count": 1
+        },
+        {
+          "id": 604,
+          "chapter_id": 20,
+          "display_label": "২০/১০. অধ্যায়ঃ",
+          "title": "সদ্য ভূমিষ্ঠ শিশুর জন্য দোয়া করা।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 604,
+          "hadith_count": 1
+        },
+        {
+          "id": 605,
+          "chapter_id": 20,
+          "display_label": "২০/১১. অধ্যায়ঃ",
+          "title": "ভূমিষ্ঠ শিশু পুত্র বা কন্যা যাই হোক, সুস্থ জন্মগ্রহণ করায় যে ব্যক্তি আল্লাহর প্রশংসা করলো।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 605,
+          "hadith_count": 1
+        },
+        {
+          "id": 606,
+          "chapter_id": 20,
+          "display_label": "২০/১২. অধ্যায়ঃ",
+          "title": "নাভীর নিচের লোম মুণ্ডন করা।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 606,
+          "hadith_count": 1
+        },
+        {
+          "id": 607,
+          "chapter_id": 20,
+          "display_label": "২০/১৩. অধ্যায়ঃ",
+          "title": "(কোন কাজের জন্য) সময় নির্ধারণ।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 607,
+          "hadith_count": 1
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "display_label": "২১",
+      "title": "জুয়া ও দাবা/পাশা খেলা",
+      "arabic_title": "",
+      "preface": "",
+      "range": "১২৭১ - ১২৯৫",
+      "order": 21,
+      "hadith_count": 25,
+      "sections_count": 13,
+      "sections": [
+        {
+          "id": 608,
+          "chapter_id": 21,
+          "display_label": "২১/১. অধ্যায়ঃ",
+          "title": "জুয়া খেলা।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 608,
+          "hadith_count": 2
+        },
+        {
+          "id": 609,
+          "chapter_id": 21,
+          "display_label": "২১/২. অধ্যায়ঃ",
+          "title": "মোরগের বাজিও জুয়া।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 609,
+          "hadith_count": 1
+        },
+        {
+          "id": 610,
+          "chapter_id": 21,
+          "display_label": "২১/৩. অধ্যায়ঃ",
+          "title": "যে ব্যক্তি তার সঙ্গীকে বলে, এসো তোমার সাথে জুয়া খেলি।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 610,
+          "hadith_count": 1
+        },
+        {
+          "id": 611,
+          "chapter_id": 21,
+          "display_label": "২১/৪. অধ্যায়ঃ",
+          "title": "কবুতরের বাজি ধরা।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 611,
+          "hadith_count": 1
+        },
+        {
+          "id": 612,
+          "chapter_id": 21,
+          "display_label": "২১/৫. অধ্যায়ঃ",
+          "title": "নারীদের জন্তুযানে হুদী (উট চালনার) গান।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 612,
+          "hadith_count": 1
+        },
+        {
+          "id": 613,
+          "chapter_id": 21,
+          "display_label": "২১/৬. অধ্যায়ঃ",
+          "title": "সংগীত।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 613,
+          "hadith_count": 3
+        },
+        {
+          "id": 614,
+          "chapter_id": 21,
+          "display_label": "২১/৭. অধ্যায়ঃ",
+          "title": "যে ব্যক্তি দাবা খেলায় লিপ্তদের সালাম দেয়নি।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 614,
+          "hadith_count": 1
+        },
+        {
+          "id": 615,
+          "chapter_id": 21,
+          "display_label": "২১/৮. অধ্যায়ঃ",
+          "title": "দাবা খেলোয়াড়ের পাপ।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 615,
+          "hadith_count": 4
+        },
+        {
+          "id": 616,
+          "chapter_id": 21,
+          "display_label": "২১/৯. অধ্যায়ঃ",
+          "title": "দৃষ্টান্তমূলক শাস্তি এবং দাবা খেলোয়াড় ও বাতিলপন্থীদের উচ্ছেদ করা।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 616,
+          "hadith_count": 5
+        },
+        {
+          "id": 617,
+          "chapter_id": 21,
+          "display_label": "২১/১০. অধ্যায়ঃ",
+          "title": "মুমিন ব্যক্তি একই গর্ত থেকে দু’বার দংশিত হয় না।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 617,
+          "hadith_count": 1
+        },
+        {
+          "id": 618,
+          "chapter_id": 21,
+          "display_label": "২১/১১. অধ্যায়ঃ",
+          "title": "রাতের বেলা যে ব্যক্তি তীরন্দাজি করে।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 618,
+          "hadith_count": 3
+        },
+        {
+          "id": 619,
+          "chapter_id": 21,
+          "display_label": "২১/১২. অধ্যায়ঃ",
+          "title": "আল্লাহ কোন নির্দিষ্ট এলাকায় তাঁর কোন বান্দার মৃত্যুদান করতে চাইলে তথায় যাওয়ার জন্য তার একটি প্রয়োজন সৃষ্টি করেন।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 619,
+          "hadith_count": 1
+        },
+        {
+          "id": 620,
+          "chapter_id": 21,
+          "display_label": "২১/১৩. অধ্যায়ঃ",
+          "title": "যে ব্যক্তি নিজ পরিধেয় বস্ত্রে নাকের ময়লা মোছে।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 620,
+          "hadith_count": 1
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "display_label": "২২",
+      "title": "কুমন্ত্রনা, কুধারনা ও বাচালতা",
+      "arabic_title": "",
+      "preface": "",
+      "range": "১২৯৬ - ১৩৩৬",
+      "order": 22,
+      "hadith_count": 41,
+      "sections_count": 24,
+      "sections": [
+        {
+          "id": 621,
+          "chapter_id": 22,
+          "display_label": "২২/১. অধ্যায়ঃ",
+          "title": "মনের মধ্যে সৃষ্ট কুমন্ত্রণা।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 621,
+          "hadith_count": 3
+        },
+        {
+          "id": 622,
+          "chapter_id": 22,
+          "display_label": "২২/২. অধ্যায়ঃ",
+          "title": "অলীক ধারণা-অনুমান।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 622,
+          "hadith_count": 4
+        },
+        {
+          "id": 623,
+          "chapter_id": 22,
+          "display_label": "২২/৩. অধ্যায়ঃ",
+          "title": "ক্রীতদাসী বা স্ত্রী তার স্বামীর মাথার চুল কামাতে পারে।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 623,
+          "hadith_count": 1
+        },
+        {
+          "id": 624,
+          "chapter_id": 22,
+          "display_label": "২২/৪. অধ্যায়ঃ",
+          "title": "বগলের লোম উপড়ানো।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 624,
+          "hadith_count": 3
+        },
+        {
+          "id": 625,
+          "chapter_id": 22,
+          "display_label": "২২/৫. অধ্যায়ঃ",
+          "title": "উত্তম ব্যবহার।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 625,
+          "hadith_count": 1
+        },
+        {
+          "id": 626,
+          "chapter_id": 22,
+          "display_label": "২২/৬. অধ্যায়ঃ",
+          "title": "আলাপ-পরিচয়।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 626,
+          "hadith_count": 1
+        },
+        {
+          "id": 627,
+          "chapter_id": 22,
+          "display_label": "২২/৭. অধ্যায়ঃ",
+          "title": "শিশুদের আখরোট দিয়ে খেলা করা।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 627,
+          "hadith_count": 3
+        },
+        {
+          "id": 628,
+          "chapter_id": 22,
+          "display_label": "২২/৮. অধ্যায়ঃ",
+          "title": "কবুতর যবেহ করা।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 628,
+          "hadith_count": 3
+        },
+        {
+          "id": 629,
+          "chapter_id": 22,
+          "display_label": "২২/৯. অধ্যায়ঃ",
+          "title": "যার প্রয়োজন আছে সে-ই যাবে।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 629,
+          "hadith_count": 1
+        },
+        {
+          "id": 630,
+          "chapter_id": 22,
+          "display_label": "২২/১০. অধ্যায়ঃ",
+          "title": "জনসমাবেশের ভেতরে থুথু ফেলার নিয়ম।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 630,
+          "hadith_count": 1
+        },
+        {
+          "id": 631,
+          "chapter_id": 22,
+          "display_label": "২২/১১. অধ্যায়ঃ",
+          "title": "কোন ব্যক্তি একদল লোকের সাথে কথা বলার সময় একজনকে লক্ষ্য করে বলবে না।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 631,
+          "hadith_count": 1
+        },
+        {
+          "id": 632,
+          "chapter_id": 22,
+          "display_label": "২২/১২. অধ্যায়ঃ",
+          "title": "অবাঞ্ছিত দৃষ্টিপাত।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 632,
+          "hadith_count": 2
+        },
+        {
+          "id": 633,
+          "chapter_id": 22,
+          "display_label": "২২/১৩. অধ্যায়ঃ",
+          "title": "অনর্থক কথাবার্তা।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 633,
+          "hadith_count": 2
+        },
+        {
+          "id": 634,
+          "chapter_id": 22,
+          "display_label": "২২/১৪. অধ্যায়ঃ",
+          "title": "দ্বিমুখী চরিত্রের লোক।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 634,
+          "hadith_count": 1
+        },
+        {
+          "id": 635,
+          "chapter_id": 22,
+          "display_label": "২২/১৫. অধ্যায়ঃ",
+          "title": "দ্বিমুখী চরিত্রের লোকের পাপ।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 635,
+          "hadith_count": 1
+        },
+        {
+          "id": 636,
+          "chapter_id": 22,
+          "display_label": "২২/১৬. অধ্যায়ঃ",
+          "title": "অনিষ্টের ভয়ে যাকে পরিহার করা হয় সে নিকৃষ্ট।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 636,
+          "hadith_count": 1
+        },
+        {
+          "id": 637,
+          "chapter_id": 22,
+          "display_label": "২২/১৭. অধ্যায়ঃ",
+          "title": "লজ্জাশীলতা।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 637,
+          "hadith_count": 2
+        },
+        {
+          "id": 638,
+          "chapter_id": 22,
+          "display_label": "২২/১৮. অধ্যায়ঃ",
+          "title": "যুলুম-নির্যাতন।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 638,
+          "hadith_count": 2
+        },
+        {
+          "id": 639,
+          "chapter_id": 22,
+          "display_label": "২২/১৯. অধ্যায়ঃ",
+          "title": "তোমার লজ্জা-শরম না থাকলে যাচ্ছে তাই করতে পারো।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 639,
+          "hadith_count": 1
+        },
+        {
+          "id": 640,
+          "chapter_id": 22,
+          "display_label": "২২/২০. অধ্যায়ঃ",
+          "title": "ক্রোধ।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 640,
+          "hadith_count": 2
+        },
+        {
+          "id": 641,
+          "chapter_id": 22,
+          "display_label": "২২/২১. অধ্যায়ঃ",
+          "title": "ক্রোধের সময় কি বলবে?",
+          "arabic_title": "",
+          "preface": "",
+          "order": 641,
+          "hadith_count": 2
+        },
+        {
+          "id": 642,
+          "chapter_id": 22,
+          "display_label": "২২/২২. অধ্যায়ঃ",
+          "title": "কারো রাগ উঠলে চুপ হয়ে যাবে।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 642,
+          "hadith_count": 1
+        },
+        {
+          "id": 643,
+          "chapter_id": 22,
+          "display_label": "২২/২৩. অধ্যায়ঃ",
+          "title": "বন্ধুর সার্থে ভালোবাসার আতিশয্য দেখাবে না।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 643,
+          "hadith_count": 1
+        },
+        {
+          "id": 644,
+          "chapter_id": 22,
+          "display_label": "২২/২৪. অধ্যায়ঃ",
+          "title": "তোমার ঘৃণা যেন ধ্বংসের কারণ না হয়।",
+          "arabic_title": "",
+          "preface": "",
+          "order": 644,
+          "hadith_count": 1
+        }
+      ]
+    }
+  ]
+}

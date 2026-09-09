@@ -1,0 +1,391 @@
+{
+  "book_key": "upodesh",
+  "raw_key": "upodesh",
+  "id": 24,
+  "title_bn": "ঊপদেশ",
+  "title_en": "Upodesh",
+  "title_ar": "النصيحة",
+  "total_hadiths": 234,
+  "total_chapters": 16,
+  "total_sections": 17,
+  "chapters": [
+    {
+      "id": 1,
+      "display_label": "১",
+      "title": "উপদেশ",
+      "arabic_title": "",
+      "preface": "",
+      "range": "১ - ৬",
+      "order": 1,
+      "hadith_count": 6,
+      "sections_count": 2,
+      "sections": [
+        {
+          "id": 1,
+          "chapter_id": 1,
+          "display_label": "১/১. অধ্যায়ঃ",
+          "title": "উপদেশ গ্রহণের গুরুত্ব",
+          "arabic_title": "",
+          "preface": "",
+          "order": 1,
+          "hadith_count": 3
+        },
+        {
+          "id": 2,
+          "chapter_id": 1,
+          "display_label": "১/২. অধ্যায়ঃ",
+          "title": "মানার উদ্দেশ্যে উপদেশ শুনতে হবে",
+          "arabic_title": "",
+          "preface": "",
+          "order": 2,
+          "hadith_count": 3
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "display_label": "২",
+      "title": "অবিচ্ছেদ্য সাক্ষী হতে সাবধান",
+      "arabic_title": "",
+      "preface": "",
+      "range": "৭ - ১৪",
+      "order": 2,
+      "hadith_count": 8,
+      "sections_count": 1,
+      "sections": [
+        {
+          "id": 3,
+          "chapter_id": 2,
+          "display_label": "২/১. অধ্যায়ঃ",
+          "title": "অবিচ্ছেদ্য সাক্ষী হতে সাবধান",
+          "arabic_title": "",
+          "preface": "",
+          "order": 3,
+          "hadith_count": 8
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "display_label": "৩",
+      "title": "আত্মসাৎ",
+      "arabic_title": "",
+      "preface": "",
+      "range": "১৫ - ৩৪",
+      "order": 3,
+      "hadith_count": 20,
+      "sections_count": 1,
+      "sections": [
+        {
+          "id": 4,
+          "chapter_id": 3,
+          "display_label": "৩/১. অধ্যায়ঃ",
+          "title": "আত্মসাৎ",
+          "arabic_title": "",
+          "preface": "",
+          "order": 4,
+          "hadith_count": 20
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "display_label": "৪",
+      "title": "হালাল ও হারাম",
+      "arabic_title": "",
+      "preface": "",
+      "range": "৩৫ - ৪৭",
+      "order": 4,
+      "hadith_count": 13,
+      "sections_count": 1,
+      "sections": [
+        {
+          "id": 5,
+          "chapter_id": 4,
+          "display_label": "৪/১. অধ্যায়ঃ",
+          "title": "হালাল ও হারাম",
+          "arabic_title": "",
+          "preface": "",
+          "order": 5,
+          "hadith_count": 13
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "display_label": "৫",
+      "title": "সত্য-মিথ্যা",
+      "arabic_title": "",
+      "preface": "",
+      "range": "৪৮ - ৬৯",
+      "order": 5,
+      "hadith_count": 22,
+      "sections_count": 1,
+      "sections": [
+        {
+          "id": 6,
+          "chapter_id": 5,
+          "display_label": "৫/১. অধ্যায়ঃ",
+          "title": "সত্য-মিথ্যা",
+          "arabic_title": "",
+          "preface": "",
+          "order": 6,
+          "hadith_count": 22
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "display_label": "৬",
+      "title": "নেশাদার দ্রব্য",
+      "arabic_title": "",
+      "preface": "",
+      "range": "৭০ - ৯৪",
+      "order": 6,
+      "hadith_count": 25,
+      "sections_count": 1,
+      "sections": [
+        {
+          "id": 7,
+          "chapter_id": 6,
+          "display_label": "৬/১. অধ্যায়ঃ",
+          "title": "নেশাদার দ্রব্য",
+          "arabic_title": "",
+          "preface": "মদ এমন একটি বস্তু যা বিবেককে আচ্ছন্ন করে ফেলে। আর বিবেক আচ্ছন্ন হলে মানুষের হিতাহিত জ্ঞান থাকে না। এজন্য রাসূল (সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম) বলেছেন, মদ হচ্ছে সকল অশ্লীল কর্মের মূল। উল্লেখ্য যে, মদ কোন নির্ধারিত বস্তুর নাম নয়। যেসব বস্তু বেশী পরিমাণ খেলে বিবেকের ক্ষতি হয় তার অল্প বস্তুও মদ। আল্লাহ তা‘আলা বলেন,\n\nيَاأَيُّهَا الَّذِينَ آمَنُوا إِنَّمَا الْخَمْرُ وَالْمَيْسِرُ وَالْأَنصَابُ وَالْأَزْلاَمُ رِجْسٌ مِنْ عَمَلِ الشَّيْطَانِ فَاجْتَنِبُوهُ لَعَلَّكُمْ تُفْلِحُونَ- إِنَّمَا يُرِيدُ الشَّيْطَانُ أَنْ يُوقِعَ بَيْنَكُمْ الْعَدَاوَةَ وَالْبَغْضَاءَ فِي الْخَمْرِ وَالْمَيْسِرِ وَيَصُدَّكُمْ عَنْ ذِكْرِ اللهِ وَعَنْ الصَّلاَةِ فَهَلْ أَنْتُمْ مُنتَهُونَ-\n\nহে মুমিনগণ! নিশ্চয়ই মদ, জুয়া, প্রতিমা এবং ভাগ্য নির্ধারক শরসমূহ শয়তানের অপবিত্র কর্ম। অতএব তোমরা এগুলি থেকে বেঁচে থাক। যাতে তোমরা কল্যাণ প্রাপ্ত হও। শয়তান তোমাদের মাঝে মদ ও জুয়ার মাধ্যমে শত্র“তা ও বিদ্বেষ সঞ্চারিত করতে চায় এবং আল্লাহর যিক্‌র ও ছালাত থেকে তোমাদেরকে বিরত রাখতে চায়। তাহলে কি তোমরা বিরত থাকবে’? (মায়িদাহ ৯০-৯১)",
+          "order": 7,
+          "hadith_count": 25
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "display_label": "৭",
+      "title": "গান বাজনা",
+      "arabic_title": "",
+      "preface": "",
+      "range": "৯৫ - ১০২",
+      "order": 7,
+      "hadith_count": 8,
+      "sections_count": 1,
+      "sections": [
+        {
+          "id": 8,
+          "chapter_id": 7,
+          "display_label": "৭/১. অধ্যায়ঃ",
+          "title": "গান বাজনা",
+          "arabic_title": "",
+          "preface": "",
+          "order": 8,
+          "hadith_count": 8
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "display_label": "৮",
+      "title": "অবৈধ সম্পর্ক",
+      "arabic_title": "",
+      "preface": "",
+      "range": "১০৩ - ১১১",
+      "order": 8,
+      "hadith_count": 9,
+      "sections_count": 1,
+      "sections": [
+        {
+          "id": 9,
+          "chapter_id": 8,
+          "display_label": "৮/১. অধ্যায়ঃ",
+          "title": "অবৈধ সম্পর্ক",
+          "arabic_title": "",
+          "preface": "",
+          "order": 9,
+          "hadith_count": 9
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "display_label": "৯",
+      "title": "ছবি ও মূর্তি",
+      "arabic_title": "",
+      "preface": "",
+      "range": "১১২ - ১২৭",
+      "order": 9,
+      "hadith_count": 16,
+      "sections_count": 1,
+      "sections": [
+        {
+          "id": 10,
+          "chapter_id": 9,
+          "display_label": "৯/১. অধ্যায়ঃ",
+          "title": "ছবি ও মূর্তি",
+          "arabic_title": "",
+          "preface": "",
+          "order": 10,
+          "hadith_count": 16
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "display_label": "১০",
+      "title": "সুদ ও ঘুষ",
+      "arabic_title": "",
+      "preface": "",
+      "range": "১২৮ - ১৩৫",
+      "order": 10,
+      "hadith_count": 8,
+      "sections_count": 1,
+      "sections": [
+        {
+          "id": 11,
+          "chapter_id": 10,
+          "display_label": "১০/১. অধ্যায়ঃ",
+          "title": "সুদ ও ঘুষ",
+          "arabic_title": "",
+          "preface": "",
+          "order": 11,
+          "hadith_count": 8
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "display_label": "১১",
+      "title": "শিরক",
+      "arabic_title": "",
+      "preface": "",
+      "range": "১৩৬ - ১৬২",
+      "order": 11,
+      "hadith_count": 27,
+      "sections_count": 1,
+      "sections": [
+        {
+          "id": 12,
+          "chapter_id": 11,
+          "display_label": "১১/১. অধ্যায়ঃ",
+          "title": "শিরক",
+          "arabic_title": "",
+          "preface": "",
+          "order": 12,
+          "hadith_count": 27
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "display_label": "১২",
+      "title": "বিদ’আত",
+      "arabic_title": "",
+      "preface": "",
+      "range": "১৬৩ - ১৮২",
+      "order": 12,
+      "hadith_count": 20,
+      "sections_count": 1,
+      "sections": [
+        {
+          "id": 13,
+          "chapter_id": 12,
+          "display_label": "১২/১. অধ্যায়ঃ",
+          "title": "বিদ’আত",
+          "arabic_title": "",
+          "preface": "",
+          "order": 13,
+          "hadith_count": 20
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "display_label": "১৩",
+      "title": "পরনিন্দা",
+      "arabic_title": "",
+      "preface": "",
+      "range": "১৮৩ - ১৯৯",
+      "order": 13,
+      "hadith_count": 17,
+      "sections_count": 1,
+      "sections": [
+        {
+          "id": 14,
+          "chapter_id": 13,
+          "display_label": "১৩/১. অধ্যায়ঃ",
+          "title": "পরনিন্দা",
+          "arabic_title": "",
+          "preface": "",
+          "order": 14,
+          "hadith_count": 17
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "display_label": "১৪",
+      "title": "সদাচরণ",
+      "arabic_title": "",
+      "preface": "",
+      "range": "২০০ - ২১৬",
+      "order": 14,
+      "hadith_count": 17,
+      "sections_count": 1,
+      "sections": [
+        {
+          "id": 15,
+          "chapter_id": 14,
+          "display_label": "১৪/১. অধ্যায়ঃ",
+          "title": "সদাচরণ",
+          "arabic_title": "",
+          "preface": "",
+          "order": 15,
+          "hadith_count": 17
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "display_label": "১৫",
+      "title": "আল্লাহর জন্য ভালবাসা",
+      "arabic_title": "",
+      "preface": "",
+      "range": "২১৭ - ২২২",
+      "order": 15,
+      "hadith_count": 6,
+      "sections_count": 1,
+      "sections": [
+        {
+          "id": 16,
+          "chapter_id": 15,
+          "display_label": "১৫/১. অধ্যায়ঃ",
+          "title": "আল্লাহর জন্য ভালবাসা",
+          "arabic_title": "",
+          "preface": "",
+          "order": 16,
+          "hadith_count": 6
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "display_label": "১৬",
+      "title": "সৃষ্টির প্রতি দয়া",
+      "arabic_title": "",
+      "preface": "",
+      "range": "২২৩ - ২৩৪",
+      "order": 16,
+      "hadith_count": 12,
+      "sections_count": 1,
+      "sections": [
+        {
+          "id": 17,
+          "chapter_id": 16,
+          "display_label": "১৬/১. অধ্যায়ঃ",
+          "title": "সৃষ্টির প্রতি দয়া",
+          "arabic_title": "",
+          "preface": "",
+          "order": 17,
+          "hadith_count": 12
+        }
+      ]
+    }
+  ]
+}

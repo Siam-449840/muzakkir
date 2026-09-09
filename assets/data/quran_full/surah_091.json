@@ -1,0 +1,845 @@
+{
+  "surah": 91,
+  "verses": [
+    {
+      "content_id": "quran_091_001",
+      "reference": {
+        "surah_number": 91,
+        "surah_name": "Ash-Shams",
+        "surah_name_ar": "سُوْرَةُ الشَّمْسِ",
+        "surah_name_translation": "The Sun",
+        "ayah_number": 1,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 2,
+      "translations": {
+        "ar": {
+          "text": "وَٱلشَّمۡسِ وَضُحَىٰهَا",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "By the sun and its brightness",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "以太阳及其光辉发誓，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "साक्षी है सूर्य और उसकी प्रभा",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Juro por el Sol cuando resplandece",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Par le soleil et par sa clarté",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "শপথ সূর্যের ও তার কিরণের,",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Pelo sol e por sua plena luz matinal",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Клянусь солнцем и его утренним сиянием",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "سورج کی قسم اور اس کی روشنی کی",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_091_002",
+      "reference": {
+        "surah_number": 91,
+        "surah_name": "Ash-Shams",
+        "surah_name_ar": "سُوْرَةُ الشَّمْسِ",
+        "surah_name_translation": "The Sun",
+        "ayah_number": 2,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 3,
+      "translations": {
+        "ar": {
+          "text": "وَٱلۡقَمَرِ إِذَا تَلَىٰهَا",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "and the moon as it follows it",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "以追随太阳时的月亮发誓，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "और चन्द्रमा जबकि वह उनके पीछे आए",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "por la Luna cuando lo refleja",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Et par la lune quand elle le suit",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "শপথ চন্দ্রের যখন তা সূর্যের পশ্চাতে আসে,",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E pela lua, quando o sucede",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Клянусь луной, когда она следует за ним",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور چاند کی جب اس کے پیچھے نکلے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_091_003",
+      "reference": {
+        "surah_number": 91,
+        "surah_name": "Ash-Shams",
+        "surah_name_ar": "سُوْرَةُ الشَّمْسِ",
+        "surah_name_translation": "The Sun",
+        "ayah_number": 3,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 3,
+      "translations": {
+        "ar": {
+          "text": "وَٱلنَّهَارِ إِذَا جَلَّىٰهَا",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "and the day as it unveils it",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "以揭示太阳时的白昼发誓，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "और दिन, जबकि वह उसे प्रकट कर दे",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "por el día cuando fulgura",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Et par le jour quand il l'éclaire",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "শপথ দিবসের যখন সে সূর্যকে প্রখরভাবে প্রকাশ করে,",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E pelo dia, quando o mostra, em plenitude",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Клянусь днем, когда он делает его (солнце) ясным",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور دن کی جب اُسے چمکا دے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_091_004",
+      "reference": {
+        "surah_number": 91,
+        "surah_name": "Ash-Shams",
+        "surah_name_ar": "سُوْرَةُ الشَّمْسِ",
+        "surah_name_translation": "The Sun",
+        "ayah_number": 4,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 3,
+      "translations": {
+        "ar": {
+          "text": "وَٱلَّيۡلِ إِذَا يَغۡشَىٰهَا",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "and the night as it conceals it",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "以笼罩太阳时的黑夜发誓，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "और रात, जबकि वह उसको ढाँक ले",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "por la noche cuando cubre con su oscuridad",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Et par la nuit quand elle l'enveloppe",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "শপথ রাত্রির যখন সে সূর্যকে আচ্ছাদিত করে,",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E pela noite, quando o encobre",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Клянусь ночью, когда она скрывает его (солнце)",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور رات کی جب اُسے چھپا لے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_091_005",
+      "reference": {
+        "surah_number": 91,
+        "surah_name": "Ash-Shams",
+        "surah_name_ar": "سُوْرَةُ الشَّمْسِ",
+        "surah_name_translation": "The Sun",
+        "ayah_number": 5,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 3,
+      "translations": {
+        "ar": {
+          "text": "وَٱلسَّمَآءِ وَمَا بَنَىٰهَا",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "And by heaven and ˹the One˺ Who built it",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "以苍穹及其建筑者发誓，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "और आकाश और जैसा कुछ उसे उठाया",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "por el cosmos y la creación maravillosa que hay en él",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Et par le ciel et Celui qui l'a construit",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "শপথ আকাশের এবং যিনি তা নির্মাণ করেছেন, তাঁর।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E pelo céu e por Quem o edificou",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Клянусь небом и Тем, Кто его воздвиг (или тем, как Он воздвиг его)",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور آسمان کی اور اس ذات کی جس نے اسے بنایا",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_091_006",
+      "reference": {
+        "surah_number": 91,
+        "surah_name": "Ash-Shams",
+        "surah_name_ar": "سُوْرَةُ الشَّمْسِ",
+        "surah_name_translation": "The Sun",
+        "ayah_number": 6,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 3,
+      "translations": {
+        "ar": {
+          "text": "وَٱلۡأَرۡضِ وَمَا طَحَىٰهَا",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "and the earth and ˹the One˺ Who spread it",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "以大地及其铺展者发誓，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "और धरती और जैसा कुछ उसे बिछाया",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "por la Tierra y su vasta extensión",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Et par la terre et Celui qui l'a étendue",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "শপথ পৃথিবীর এবং যিনি তা বিস্তৃত করেছেন, তাঁর,",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E pela terra e por Quem a distendeu",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Клянусь землей и Тем, Кто ее распростер (или тем, как Он распростер ее)",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور زمین کی اور اس کی جس نے اسے پھیلایا",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_091_007",
+      "reference": {
+        "surah_number": 91,
+        "surah_name": "Ash-Shams",
+        "surah_name_ar": "سُوْرَةُ الشَّمْسِ",
+        "surah_name_translation": "The Sun",
+        "ayah_number": 7,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 3,
+      "translations": {
+        "ar": {
+          "text": "وَنَفۡسࣲ وَمَا سَوَّىٰهَا",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "And by the soul and ˹the One˺ Who fashioned it",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "以灵魂及使它均衡，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "और आत्मा और जैसा कुछ उसे सँवारा",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "por el alma y su armonía",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Et par l'âme et Celui qui l'a harmonieusement façonnée",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "শপথ প্রাণের এবং যিনি তা সুবিন্যস্ত করেছেন, তাঁর,",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E pela alma e por Quem a formou",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Клянусь душой и Тем, Кто придал ей совершенный облик (или тем, как Он сделал ее облик совершенным)",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور انسان کی اور اس کی جس نے اس (کے اعضا) کو برابر کیا",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_091_008",
+      "reference": {
+        "surah_number": 91,
+        "surah_name": "Ash-Shams",
+        "surah_name_ar": "سُوْرَةُ الشَّمْسِ",
+        "surah_name_translation": "The Sun",
+        "ayah_number": 8,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 3,
+      "translations": {
+        "ar": {
+          "text": "فَأَلۡهَمَهَا فُجُورَهَا وَتَقۡوَىٰهَا",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "then with ˹the knowledge of˺ right and wrong inspired it",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "并启示他善恶者发誓，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "फिर उसके दिल में डाली उसकी बुराई और उसकी परहेज़गारी",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "[Dios] le enseñó [al ser humano] a distinguir entre el pecado y la conciencia de Dios",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "et lui a alors inspiré son immoralité, de même que sa piété",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "অতঃপর তাকে তার অসৎকর্ম ও সৎকর্মের জ্ঞান দান করেছেন,",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Então, lhe inspirou sua impiedade e sua piedade",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "и внушил ей порочность ее и богобоязненность",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "پھر اس کو بدکاری (سے بچنے) اور پرہیزگاری کرنے کی سمجھ دی",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_091_009",
+      "reference": {
+        "surah_number": 91,
+        "surah_name": "Ash-Shams",
+        "surah_name_ar": "سُوْرَةُ الشَّمْسِ",
+        "surah_name_translation": "The Sun",
+        "ayah_number": 9,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 4,
+      "translations": {
+        "ar": {
+          "text": "قَدۡ أَفۡلَحَ مَن زَكَّىٰهَا",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Successful indeed is the one who purifies their soul",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "凡培养自己的性灵者，必定成功；",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "सफल हो गया जिसने उसे विकसित किया",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "¡Será bienaventurado quien purifique su alma [apartándola de los pecados]",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "A réussi, certes, celui qui la purifie",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "যে নিজেকে শুদ্ধ করে, সেই সফলকাম হয়।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Com efeito, bem aventurado é quem a dignifica",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Преуспел тот, кто очистил ее",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "کہ جس نے (اپنے) نفس (یعنی روح) کو پاک رکھا وہ مراد کو پہنچا",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_091_010",
+      "reference": {
+        "surah_number": 91,
+        "surah_name": "Ash-Shams",
+        "surah_name_ar": "سُوْرَةُ الشَّمْسِ",
+        "surah_name_translation": "The Sun",
+        "ayah_number": 10,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 4,
+      "translations": {
+        "ar": {
+          "text": "وَقَدۡ خَابَ مَن دَسَّىٰهَا",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "and doomed is the one who corrupts it",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "凡戕害自己的性灵者，必定失败。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "और असफल हुआ जिसने उसे दबा दिया",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "pero será un desventurado quien la abandone a sus pasiones",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Et est perdu, certes, celui qui la corrompt",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "এবং যে নিজেকে কলুষিত করে, সে ব্যর্থ মনোরথ হয়।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E, com efeito, mal aventurado é quem a degrada",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "и понес урон тот, кто скрыл ее (опорочил, облек в несправедливость)",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور جس نے اسے خاک میں ملایا وہ خسارے میں رہا",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_091_011",
+      "reference": {
+        "surah_number": 91,
+        "surah_name": "Ash-Shams",
+        "surah_name_ar": "سُوْرَةُ الشَّمْسِ",
+        "surah_name_translation": "The Sun",
+        "ayah_number": 11,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 3,
+      "translations": {
+        "ar": {
+          "text": "كَذَّبَتۡ ثَمُودُ بِطَغۡوَىٰهَآ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Thamûd rejected ˹the truth˺ out of arrogance",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "赛莫德人已因过分而否认真理。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "समूद ने अपनी सरकशी से झुठलाया",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "El pueblo de Zamud rechazó el Mensaje por soberbia",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Les Thamûd, par leur transgression, ont crié au mensonge",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "সামুদ সম্প্রদায় অবাধ্যতা বশতঃ মিথ্যারোপ করেছিল।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "O povo de Thamud, por sua transgressão, desmentiu ao Mensageiro",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Самудяне сочли лжецом пророка Салиха из-за своего беззакония",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "(قوم) ثمود نے اپنی سرکشی کے سبب (پیغمبر کو) جھٹلایا",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_091_012",
+      "reference": {
+        "surah_number": 91,
+        "surah_name": "Ash-Shams",
+        "surah_name_ar": "سُوْرَةُ الشَّمْسِ",
+        "surah_name_translation": "The Sun",
+        "ayah_number": 12,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 3,
+      "translations": {
+        "ar": {
+          "text": "إِذِ ٱنۢبَعَثَ أَشۡقَىٰهَا",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "when the most wicked of them was roused ˹to kill the she-camel˺",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "当时，他们中最薄命者忙上前来，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "जब उनमें का सबसे बड़ा दुर्भाग्यशाली उठ खड़ा हुआ",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Cuando el más opresor de ellos se prestó para matar a la camella",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "lorsque le plus misérable d'entre eux se leva (pour tuer la chamelle)",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "যখন তাদের সর্বাধিক হতভাগ্য ব্যক্তি তৎপর হয়ে উঠেছিল।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Quando o mais infeliz deles partiu, empenhado em matar o camelo fêmea",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "и тогда самый несчастный из них вызвался убить верблюдицу",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "جب ان میں سے ایک نہایت بدبخت اٹھا",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_091_013",
+      "reference": {
+        "surah_number": 91,
+        "surah_name": "Ash-Shams",
+        "surah_name_ar": "سُوْرَةُ الشَّمْسِ",
+        "surah_name_translation": "The Sun",
+        "ayah_number": 13,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 7,
+      "translations": {
+        "ar": {
+          "text": "فَقَالَ لَهُمۡ رَسُولُ ٱللَّهِ نَاقَةَ ٱللَّهِ وَسُقۡيَٰهَا",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "But the messenger of Allah warned them, “˹Do not disturb˺ Allah’s camel and her ˹turn to˺ drink!”",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "使者就对他们说：你们让真主的母驼自由饮水吧。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "तो अल्लाह के रसूल ने उनसे कहा, \"सावधान, अल्लाह की ऊँटनी और उसके पिलाने (की बारी) से।",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "El Mensajero de Dios [Sálih] los previno: \"No maten a la camella de Dios [enviada como milagro] y déjenla abrevar libremente",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Le Messager d'Allah leur avait dit: «La chamelle d'Allah! Laissez-la boire",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "অতঃপর আল্লাহর রসূল তাদেরকে বলেছিলেনঃ আল্লাহর উষ্ট্রী ও তাকে পানি পান করানোর ব্যাপারে সতর্ক থাক।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Então, o Mensageiro de Allah disse-lhes: \"Deixai o camelo fêmea - vindo de Allah - e sua porção de bebida",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Посланник Аллаха (Салих) сказал им: «Берегите верблюдицу и питье ее!»",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "تو خدا کے پیغمبر (صالح) نے ان سے کہا کہ خدا کی اونٹنی اور اس کے پانی پینے کی باری سے عذر کرو",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_091_014",
+      "reference": {
+        "surah_number": 91,
+        "surah_name": "Ash-Shams",
+        "surah_name_ar": "سُوْرَةُ الشَّمْسِ",
+        "surah_name_translation": "The Sun",
+        "ayah_number": 14,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 7,
+      "translations": {
+        "ar": {
+          "text": "فَكَذَّبُوهُ فَعَقَرُوهَا فَدَمۡدَمَ عَلَيۡهِمۡ رَبُّهُم بِذَنۢبِهِمۡ فَسَوَّىٰهَا",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Still they defied him and slaughtered her. So their Lord crushed them for their crime, levelling all to the ground",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "但他们否认使者而宰杀母驼，故他们的主因他们的罪过而毁灭他们，使他们普遍受难。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "किन्तु उन्होंने उसे झुठलाया और उस ऊँटनी की कूचें काट डाली। अन्ततः उनके रब ने उनके गुनाह के कारण उनपर तबाही डाल दी और उन्हें बराबर कर दिया",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Pero desmintieron al Mensajero y mataron a la camella. Entonces, su Señor los destruyó a todos, por lo que cometieron, con un castigo arrasador",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Mais, ils le traitèrent de menteur, et la tuèrent. Leur Seigneur les détruisit donc, pour leur péché et étendit Son châtiment sur tous",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "অতঃপর ওরা তার প্রতি মিথ্যারোপ করেছিল এবং উষ্ট্রীর পা কর্তন করেছিল। তাদের পাপের কারণে তাদের পালনকর্তা তাদের উপর ধ্বংস নাযিল করে একাকার করে দিলেন।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E desmentiram-no e abateram-no. Então, por seu delito, seu Senhor esmigalhou-lhes as casas sobre eles, e nivelou-as",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Они сочли его лжецом и подрезали ей поджилки, и за этот грех Господь их подверг их наказанию, которое было одинаковым для всех (или сровнял над ними землю)",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "مگر انہوں نے پیغمبر کو جھٹلایا اور اونٹنی کی کونچیں کاٹ دیں تو خدا نے ان کےگناہ کے سبب ان پر عذاب نازل کیا اور سب کو (ہلاک کر کے) برابر کر دیا",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_091_015",
+      "reference": {
+        "surah_number": 91,
+        "surah_name": "Ash-Shams",
+        "surah_name_ar": "سُوْرَةُ الشَّمْسِ",
+        "surah_name_translation": "The Sun",
+        "ayah_number": 15,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 3,
+      "translations": {
+        "ar": {
+          "text": "وَلَا يَخَافُ عُقۡبَٰهَا",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "He has no fear of consequences",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "他是不顾虑那灾难的後果的。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "और उसे उसके परिणाम का कोई भय नहीं",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "sin temor por la magnitud de Su castigo",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Et Allah n'a aucune crainte des conséquences",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "আল্লাহ তা’আলা এই ধ্বংসের কোন বিরূপ পরিণতির আশংকা করেন না।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E Ele não teme as conseqüências disso",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "И не опасался Он последствий этого",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور اس کو ان کے بدلہ لینے کا کچھ بھی ڈر نہیں",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    }
+  ]
+}

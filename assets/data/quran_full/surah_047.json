@@ -1,0 +1,2133 @@
+{
+  "surah": 47,
+  "verses": [
+    {
+      "content_id": "quran_047_001",
+      "reference": {
+        "surah_number": 47,
+        "surah_name": "Muhammad",
+        "surah_name_ar": "سُوْرَةُ مُحَمَّدٍ",
+        "surah_name_translation": "Muhammad",
+        "ayah_number": 1,
+        "juz": 26,
+        "revelation_type": "Madina"
+      },
+      "arabic_word_count": 8,
+      "translations": {
+        "ar": {
+          "text": "ٱلَّذِينَ كَفَرُواْ وَصَدُّواْ عَن سَبِيلِ ٱللَّهِ أَضَلَّ أَعۡمَٰلَهُمۡ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Those who disbelieve and hinder ˹others˺ from the Way of Allah, He will render their deeds void",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "不信道而且妨碍主道的人们，真主将使他们的善功无效。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "जिन लोगों ने इनकार किया और अल्लाह के मार्ग से रोका उनके कर्म उसने अकारथ कर दिए",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Dios invalidará las obras de quienes no crean y alejen a la gente del sendero de Dios",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Ceux qui ont mécru et obstrué le chemin d'Allah, Il a rendu leurs œuvres vaines",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "যারা কুফরী করে এবং আল্লাহর পথে বাধা সৃষ্টি করে, আল্লাহ তাদের সকল কর্ম ব্যর্থ করে দেন।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Aos que renegam a Fé e afastam os homens do caminho de Allah, Ele lhes fará sumir as boas obras",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Он сделал тщетными деяния тех, которые не уверовали и сбивали других с пути Аллаха",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "جن لوگوں نے کفر کیا اور (اَوروں کو) خدا کے رستے سے روکا۔ خدا نے ان کے اعمال برباد کر دیئے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_047_002",
+      "reference": {
+        "surah_number": 47,
+        "surah_name": "Muhammad",
+        "surah_name_ar": "سُوْرَةُ مُحَمَّدٍ",
+        "surah_name_translation": "Muhammad",
+        "ayah_number": 2,
+        "juz": 26,
+        "revelation_type": "Madina"
+      },
+      "arabic_word_count": 18,
+      "translations": {
+        "ar": {
+          "text": "وَٱلَّذِينَ ءَامَنُواْ وَعَمِلُواْ ٱلصَّٰلِحَٰتِ وَءَامَنُواْ بِمَا نُزِّلَ عَلَىٰ مُحَمَّدࣲ وَهُوَ ٱلۡحَقُّ مِن رَّبِّهِمۡ كَفَّرَ عَنۡهُمۡ سَيِّـَٔاتِهِمۡ وَأَصۡلَحَ بَالَهُمۡ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "As for those who believe, do good, and have faith in what has been revealed to Muḥammad—which is the truth from their Lord—He will absolve them of their sins and improve their condition",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "信道而行善，且信仰降示穆罕默德的天经者--那部天经是从他们的主降示的真理--真主将赦宥他们的罪恶，改善他们的状况。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "रहे वे लोग जो ईमान लाए और उन्होंने अच्छे कर्म किए और उस चीज़ पर ईमान लाए जो मुहम्मद पर अवतरित किया गया - और वही सत्य है उनके रब की ओर से - उसने उसकी बुराइयाँ उनसे दूर कर दीं और उनका हाल ठीक कर दिया",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "En cambio, a quienes tengan fe, obren rectamente y crean en lo que fue revelado a Mujámmad, que es la Verdad proveniente de su Señor, Él les perdonará sus pecados e infundirá paz en sus corazones",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Et ceux qui ont cru et accompli de bonnes œuvres et ont cru en ce qui a été descendu sur Muhammad - et c'est la vérité venant de leur Seigneur - Il leur efface leurs méfaits et améliore leur condition",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "আর যারা বিশ্বাস স্থাপন করে, সৎকর্ম সম্পাদন করে এবং তাদের পালনকর্তার পক্ষ থেকে মুহাম্মদের প্রতি অবতীর্ণ সত্যে বিশ্বাস করে, আল্লাহ তাদের মন্দ কর্মসমূহ মার্জনা করেন এবং তাদের অবস্থা ভাল করে দেন।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E aos que crêem e fazem as boas obras e crêem no que foi descido a Muhammad - e isto é a Verdade de seu Senhor - Ele lhes remirá as más obras e lhes emendará a condição",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Он простил грехи и исправил положение тех, которые уверовали, совершали праведные деяния и уверовали в истину, ниспосланную Мухаммаду от их Господа",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور جو ایمان لائے اور نیک عمل کرتے رہے اور جو (کتاب) محمدﷺ پر نازل ہوئی اسے مانتے رہے اور وہ ان کے پروردگار کی طرف سے برحق ہے ان سے ان کے گناہ دور کردیئے اور ان کی حالت سنوار دی",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_047_003",
+      "reference": {
+        "surah_number": 47,
+        "surah_name": "Muhammad",
+        "surah_name_ar": "سُوْرَةُ مُحَمَّدٍ",
+        "surah_name_translation": "Muhammad",
+        "ayah_number": 3,
+        "juz": 26,
+        "revelation_type": "Madina"
+      },
+      "arabic_word_count": 18,
+      "translations": {
+        "ar": {
+          "text": "ذَٰلِكَ بِأَنَّ ٱلَّذِينَ كَفَرُواْ ٱتَّبَعُواْ ٱلۡبَٰطِلَ وَأَنَّ ٱلَّذِينَ ءَامَنُواْ ٱتَّبَعُواْ ٱلۡحَقَّ مِن رَّبِّهِمۡۚ كَذَٰلِكَ يَضۡرِبُ ٱللَّهُ لِلنَّاسِ أَمۡثَٰلَهُمۡ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "This is because the disbelievers follow falsehood, while the believers follow the truth from their Lord. This is how Allah shows people their true state ˹of faith˺",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "那是由于不信道的人们遵守虚伪，而信道的人们遵守从他们的主降示的真理。真主如此为众人设许多譬喻。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "यह इसलिए कि जिन लोगों ने इनकार किया उन्होंने असत्य का अनुसरण किया और यह कि जो लोग ईमान लाए उन्होंने सत्य का अनुसरण किया, जो उनके रब की ओर से है। इस प्रकार अल्लाह लोगों के लिए उनकी मिसालें बयान करता है",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Esto es así porque quienes se negaron a creer siguen lo falso, mientras que los creyentes siguen la Verdad de su Señor. Así es como Dios expone ejemplos a la gente",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Il en est ainsi parce que ceux qui ont mécru ont suivi le Faux et que ceux qui ont cru ont suivi la Vérité émanant de leur Seigneur. C'est ainsi qu'Allah propose leurs exemples aux gens",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "এটা এ কারণে যে, যারা কাফের, তারা বাতিলের অনুসরণ করে এবং যারা বিশ্বাসী, তারা তাদের পালনকর্তার নিকট থেকে আগত সত্যের অনুসরণ করে। এমনিভাবে আল্লাহ মানুষের জন্যে তাদের দৃষ্টান্তসমূহ বর্ণনা করেন।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Isso, porque os que renegam a Fé seguem a falsidade, e porque os que crêem seguem a Verdade de seu Senhor. Assim, Allah propõe, para os homens, seus exemplos",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Это - за то, что неверующие последовали за ложью, а верующие последовали за истиной от их Господа. Так Аллах приводит людям их притчи",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "یہ (حبط اعمال اور اصلاح حال) اس لئے ہے کہ جن لوگوں نے کفر کیا انہوں نے جھوٹی بات کی پیروی کی اور جو ایمان لائے وہ اپنے پروردگار کی طرف سے (دین) حق کے پیچھے چلے۔ اسی طرح خدا لوگوں سے ان کے حالات بیان فرماتا ہے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_047_004",
+      "reference": {
+        "surah_number": 47,
+        "surah_name": "Muhammad",
+        "surah_name_ar": "سُوْرَةُ مُحَمَّدٍ",
+        "surah_name_translation": "Muhammad",
+        "ayah_number": 4,
+        "juz": 26,
+        "revelation_type": "Madina"
+      },
+      "arabic_word_count": 38,
+      "translations": {
+        "ar": {
+          "text": "فَإِذَا لَقِيتُمُ ٱلَّذِينَ كَفَرُواْ فَضَرۡبَ ٱلرِّقَابِ حَتَّىٰٓ إِذَآ أَثۡخَنتُمُوهُمۡ فَشُدُّواْ ٱلۡوَثَاقَ فَإِمَّا مَنَّۢا بَعۡدُ وَإِمَّا فِدَآءً حَتَّىٰ تَضَعَ ٱلۡحَرۡبُ أَوۡزَارَهَاۚ ذَٰلِكَۖ وَلَوۡ يَشَآءُ ٱللَّهُ لَٱنتَصَرَ مِنۡهُمۡ وَلَٰكِن لِّيَبۡلُوَاْ بَعۡضَكُم بِبَعۡضࣲۗ وَٱلَّذِينَ قُتِلُواْ فِي سَبِيلِ ٱللَّهِ فَلَن يُضِلَّ أَعۡمَٰلَهُمۡ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "So when you meet the disbelievers ˹in battle˺, strike ˹their˺ necks until you have thoroughly subdued them, then bind them firmly. Later ˹free them either as˺ an act of grace or by ransom until the war comes to an end. So will it be. Had Allah willed, He ˹Himself˺ could have inflicted punishment on them. But He does ˹this only to˺ test some of you by means of others. And those who are martyred in the cause of Allah, He will never render their deeds void",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "你们在战场上遇到不信道者的时候，应当斩杀他们，你们既战胜他们，就应当俘虏他们；以后或释放他们，或准许他们赎身，直到战争放下他的重担。事情就是这样的，假若真主意欲，他必惩治他们；但他命你们抗战，以便他以你们互相考验。为主道而阵亡者，真主绝不枉费他们的善功，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "अतः जब इनकार करनेवालो से तुम्हारी मुठभेड़ हो तो (उनकी) गरदनें मारना है, यहाँ तक कि जब उन्हें अच्छी तरह कुचल दो तो बन्धनों में जकड़ो, फिर बाद में या तो एहसान करो या फ़िदया (अर्थ-दंड) का मामला करो, यहाँ तक कि युद्ध अपने बोझ उतारकर रख दे। यह भली-भाँति समझ लो, यदि अल्लाह चाहे तो स्वयं उनसे निपट ले। किन्तु (उसने या आदेश इसलिए दिया) ताकि तुम्हारी एक-दूसरे की परीक्षा ले। और जो लोग अल्लाह के मार्ग में मारे जाते है उनके कर्म वह कदापि अकारथ न करेगा",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Cuando tengan que enfrentarse en combate a los que se negaron a creer, golpéenlos en el cuello; y cuando estén fuera de combate aprésenlos. Luego, libérenlos con benevolencia o pidan un rescate, [esa debe ser la actitud] hasta que cese la guerra. [Sepan que] si Dios hubiera querido, Él mismo los hubiera derrotado, pero quiso ponerlos a prueba [y que se enfrentaran] unos contra otros. Quien caiga en combate por la causa de Dios, sus obras no habrán sido en vano",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Lorsque vous rencontrez (au combat) ceux qui ont mécru frappez-en les cous. Puis, quand vous les avez dominés, enchaînez-les solidement. Ensuite, c'est soit la libération gratuite, soit la rançon, jusqu'à ce que la guerre dépose ses fardeaux. Il en est ainsi, car si Allah voulait, Il se vengerait Lui-même contre eux, mais c'est pour vous éprouver les uns par les autres. Et ceux qui seront tués dans le chemin d'Allah, Il ne rendra jamais vaines leurs actions",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "অতঃপর যখন তোমরা কাফেরদের সাথে যুদ্ধে অবতীর্ণ হও, তখন তাদের গর্দার মার, অবশেষে যখন তা˦#2503;দরকে পূর্ণরূপে পরাভূত কর তখন তাদেরকে শক্ত করে বেধে ফেল। অতঃপর হয় তাদের প্রতি অনুগ্রহ কর, না হয় তাদের নিকট হতে মুক্তিপণ লও। তোমরা যুদ্ধ চালিয়ে যাবে যে পর্যন্ত না শত্রুপক্ষ অস্ত্র সমর্পণ করবে! একথা শুনলে। আল্লাহ ইচ্ছা করলে তাদের কাছ থেকে প্রতিশোধ নিতে পারতেন। কিন্তু তিনি তোমাদের কতককে কতকের দ্বারা পরীক্ষা করতে চান। যারা আল্লাহর পথে শহীদ হয়, আল্লাহ কখনই তাদের কর্ম বিনষ্ট করবেন না।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Então, quando deparardes, em combate, os que renegam a Fé, golpeai-lhes os pescoços, até quando os dizimardes, então, acorrentai-os firmemente. Depois, ou fazer-Ihes mercê ou aceitar-lhes resgate, até que a guerra deponha seus fardos. Essa é a determinação. E, se Allah quisesse, defender-Se-ia deles, mas Ele vos ordenou a guerra, para pôr-vos à prova, uns com outros. E aos que são mortos, no caminho de Allah, Ele não lhes fará sumir as boas obras",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Когда вы встречаетесь с неверующими на поле боя, то рубите головы. Когда же вы ослабите их, то крепите оковы. А потом или милуйте, или же берите выкуп до тех пор, пока война не сложит свое бремя. Вот так! Если бы Аллах пожелал, то отомстил бы им сам, но Он пожелал испытать одних из вас посредством других. Он никогда не сделает тщетными деяния тех, кто был убит на пути Аллаха",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "جب تم کافروں سے بھڑ جاؤ تو ان کی گردنیں اُڑا دو۔ یہاں تک کہ جب ان کو خوب قتل کرچکو تو (جو زندہ پکڑے جائیں ان کو) مضبوطی سے قید کرلو۔ پھر اس کے بعد یا تو احسان رکھ کر چھوڑ دینا چاہیئے یا کچھ مال لے کر یہاں تک کہ (فریق مقابل) لڑائی (کے) ہتھیار (ہاتھ سے) رکھ دے۔ (یہ حکم یاد رکھو) اور اگر خدا چاہتا تو (اور طرح) ان سے انتقام لے لیتا۔ لیکن اس نے چاہا کہ تمہاری آزمائش ایک (کو) دوسرے سے (لڑوا کر) کرے۔ اور جو لوگ خدا کی راہ میں مارے گئے ان کے عملوں کو ہرگز ضائع نہ کرے گا",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_047_005",
+      "reference": {
+        "surah_number": 47,
+        "surah_name": "Muhammad",
+        "surah_name_ar": "سُوْرَةُ مُحَمَّدٍ",
+        "surah_name_translation": "Muhammad",
+        "ayah_number": 5,
+        "juz": 26,
+        "revelation_type": "Madina"
+      },
+      "arabic_word_count": 3,
+      "translations": {
+        "ar": {
+          "text": "سَيَهۡدِيهِمۡ وَيُصۡلِحُ بَالَهُمۡ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "He will guide them ˹to their reward˺, improve their condition",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "他要引导他们，并改善他们的状况，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "वह उनका मार्गदर्शन करेगा और उनका हाल ठीक कर देगा",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "[Dios] los guiará, infundirá paz en sus corazones",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Il les guidera et améliorera leur condition",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "তিনি তাদেরকে পথ প্রদর্শন করবেন এবং তাদের অবস্থা ভাল করবেন।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Guiá-los-á e emendar-lhes-á a condição",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Он поведет их прямым путем, исправит их положение",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "ان کو سیدھے رستے پر چلائے گا اور ان کی حالت درست کر دے گا",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_047_006",
+      "reference": {
+        "surah_number": 47,
+        "surah_name": "Muhammad",
+        "surah_name_ar": "سُوْرَةُ مُحَمَّدٍ",
+        "surah_name_translation": "Muhammad",
+        "ayah_number": 6,
+        "juz": 26,
+        "revelation_type": "Madina"
+      },
+      "arabic_word_count": 4,
+      "translations": {
+        "ar": {
+          "text": "وَيُدۡخِلُهُمُ ٱلۡجَنَّةَ عَرَّفَهَا لَهُمۡ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "and admit them into Paradise, having made it known to them",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "且使他们入乐园--他已为他们说明那乐园了。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "और उन्हें जन्नत में दाख़िल करेगा, जिससे वह उन्हें परिचित करा चुका है",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "y los introducirá en el Paraíso que ya les había dado a conocer",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "et les fera entrer au Paradis qu'Il leur aura fait connaître",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "অতঃপর তিনি তাদেরকে জান্নাতে দাখিল করবেন, যা তাদেরকে জানিয়ে দিয়েছেন।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E, fá-los-á entrar no Paraíso, que Ele os fizera conhecer",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "и введет их в Рай, с которым Он их ознакомил (или который Он умастил для них благовониями)",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور ان کو بہشت میں جس سے انہیں شناسا کر رکھا ہے داخل کرے گا",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_047_007",
+      "reference": {
+        "surah_number": 47,
+        "surah_name": "Muhammad",
+        "surah_name_ar": "سُوْرَةُ مُحَمَّدٍ",
+        "surah_name_translation": "Muhammad",
+        "ayah_number": 7,
+        "juz": 26,
+        "revelation_type": "Madina"
+      },
+      "arabic_word_count": 9,
+      "translations": {
+        "ar": {
+          "text": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓاْ إِن تَنصُرُواْ ٱللَّهَ يَنصُرۡكُمۡ وَيُثَبِّتۡ أَقۡدَامَكُمۡ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "O believers! If you stand up for Allah, He will help you and make your steps firm",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "信道的人们啊！如果你们相助真主，他就相助你们，并使你们的脚步稳固。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "ऐ लोगों, जो ईमान लाए हो, यदि तुम अल्लाह की सहायता करोगे तो वह तुम्हारी सहायता करेगा और तुम्हारे क़दम जमा देगा",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "¡Oh, creyentes! Si auxilian a Dios, Él los auxiliará y afirmará sus pasos",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "O vous qui croyez! si vous faites triompher (la cause d') Allah, Il vous fera triompher et raffermira vos pas",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "হে বিশ্বাসীগণ! যদি তোমরা আল্লাহকে সাহায্য কর, আল্লাহ তোমাদেরকে সাহায্য করবেন এবং তোমাদের পা দৃঢ়প্রতিষ্ঠ করবেন।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Ó vós que credes! Se socorreis a Allah, Ele vos socorrerá e vos tornará firmes os passos",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "О те, которые уверовали! Если вы поможете Аллаху, то и Он поможет вам и утвердит ваши стопы",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اے اہل ایمان! اگر تم خدا کی مدد کرو گے تو وہ بھی تمہاری مدد کرے گا اور تم کو ثابت قدم رکھے گا",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_047_008",
+      "reference": {
+        "surah_number": 47,
+        "surah_name": "Muhammad",
+        "surah_name_ar": "سُوْرَةُ مُحَمَّدٍ",
+        "surah_name_translation": "Muhammad",
+        "ayah_number": 8,
+        "juz": 26,
+        "revelation_type": "Madina"
+      },
+      "arabic_word_count": 7,
+      "translations": {
+        "ar": {
+          "text": "وَٱلَّذِينَ كَفَرُواْ فَتَعۡسࣰ ا لَّهُمۡ وَأَضَلَّ أَعۡمَٰلَهُمۡ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "As for the disbelievers, may they be doomed and may He render their deeds void",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "不信道的人们，将一蹶不振，真主将使他们的善功无效。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "रहे वे लोग जिन्होंने इनकार किया, तो उनके लिए तबाही है। और उनके कर्मों को अल्लाह ने अकारथ कर दिया",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "En cambio, a los que se niegan a creer les aguarda la desgracia y sus obras habrán sido en vano",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Et quant à ceux qui ont mécru, il y aura un malheur pour eux, et Il rendra leurs œuvres vaines",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "আর যারা কাফের, তাদের জন্যে আছে দুর্গতি এবং তিনি তাদের কর্ম বিনষ্ট করে দিবেন।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E aos que renegam a Fé, a eles, a desgraça! E Ele lhes fará sumir as obras",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Гибель тем, которые не уверовали! Он сделает тщетными их деяния",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور جو کافر ہیں ان کے لئے ہلاکت ہے۔ اور وہ ان کے اعمال کو برباد کر دے گا",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_047_009",
+      "reference": {
+        "surah_number": 47,
+        "surah_name": "Muhammad",
+        "surah_name_ar": "سُوْرَةُ مُحَمَّدٍ",
+        "surah_name_translation": "Muhammad",
+        "ayah_number": 9,
+        "juz": 26,
+        "revelation_type": "Madina"
+      },
+      "arabic_word_count": 8,
+      "translations": {
+        "ar": {
+          "text": "ذَٰلِكَ بِأَنَّهُمۡ كَرِهُواْ مَآ أَنزَلَ ٱللَّهُ فَأَحۡبَطَ أَعۡمَٰلَهُمۡ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "That is because they detest what Allah has revealed, so He has rendered their deeds void",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "那是因为他们厌恶真主所降示的经典，故他将使他们的善功无效。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "यह इसलिए कि उन्होंने उस चीज़ को नापसन्द किया जिसे अल्लाह ने अवतरित किया, तो उसने उनके कर्म अकारथ कर दिए",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "porque repudiaron lo que Dios descendió en la revelación, y como consecuencia sus obras se perderán",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "C'est parce qu'ils ont de la répulsion pour ce qu'Allah a fait descendre. Il a rendu donc vaines leurs œuvres",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "এটা এজন্যে যে, আল্লাহ যা নাযিল করেছেন, তারা তা পছন্দ করে না। অতএব, আল্লাহ তাদের কর্ম ব্যর্থ করে দিবেন।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Isso, porque odeiam o que Allah fez descer. Então, Ele lhes anulará as obras",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Это потому, что они возненавидели ниспосланное Аллахом, и Он сделал тщетными их деяния",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "یہ اس لئے کہ خدا نے جو چیز نازل فرمائی انہوں نے اس کو ناپسند کیا تو خدا نے بھی ان کے اعمال اکارت کردیئے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_047_010",
+      "reference": {
+        "surah_number": 47,
+        "surah_name": "Muhammad",
+        "surah_name_ar": "سُوْرَةُ مُحَمَّدٍ",
+        "surah_name_translation": "Muhammad",
+        "ayah_number": 10,
+        "juz": 26,
+        "revelation_type": "Madina"
+      },
+      "arabic_word_count": 16,
+      "translations": {
+        "ar": {
+          "text": "۞أَفَلَمۡ يَسِيرُواْ فِي ٱلۡأَرۡضِ فَيَنظُرُواْ كَيۡفَ كَانَ عَٰقِبَةُ ٱلَّذِينَ مِن قَبۡلِهِمۡۖ دَمَّرَ ٱللَّهُ عَلَيۡهِمۡۖ وَلِلۡكَٰفِرِينَ أَمۡثَٰلُهَا",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Have they not travelled throughout the land to see what was the end of those before them? Allah annihilated them, and a similar fate awaits the disbelievers",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "难道他们没有在大地上旅行，以观察前人的结局是怎样的吗？真主又毁灭了他们。不信道的人们，将有同样的结局。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "क्या वे धरती में चले-फिरे नहीं कि देखते कि उन लोगों का कैसा परिणाम हुआ जो उनसे पहले गुज़र चुके है? अल्लाह ने उन्हें तहस-नहस कर दिया और इनकार करनेवालों के लिए ऐसे ही मामले होने है",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "¿Por qué no viajan por el mundo y observan cómo terminaron sus antecesores? Dios los destruyó; y sepan que todos los que se niegan a creer tienen un destino similar",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "N'ont-il pas parcouru la terre pour voir ce qu'il est advenu de leurs prédécesseurs? Allah les a détruits. Pareilles fins sont réservées aux mécréants",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "তারা কি পৃথিবীতে ভ্রমণ করেনি অতঃপর দেখেনি যে, তাদের পূর্ববর্তীদের পরিণাম কি হয়েছে? আল্লাহ তাদেরকে ধ্বংস করে দিয়েছেন এবং কাফেরদের অবস্থা এরূপই হবে।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Então, não caminharam eles na terra, para olhar como foi o fim dos que foram antes deles? Allah profligou-os. E, para os renegadores da Fé, haverá fim igual a este",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Неужели они не странствовали по земле и не видели, каким был конец их предшественников? Аллах уничтожил их, и неверующих ожидает подобное этому",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "کیا انہوں نے ملک میں سیر نہیں کی تاکہ دیکھتے کہ جو لوگ ان سے پہلے تھے ان کا انجام کیسا ہوا؟ خدا نے ان پر تباہی ڈال دی۔ اور اسی طرح کا (عذاب) ان کافروں کو ہوگا",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_047_011",
+      "reference": {
+        "surah_number": 47,
+        "surah_name": "Muhammad",
+        "surah_name_ar": "سُوْرَةُ مُحَمَّدٍ",
+        "surah_name_translation": "Muhammad",
+        "ayah_number": 11,
+        "juz": 26,
+        "revelation_type": "Madina"
+      },
+      "arabic_word_count": 11,
+      "translations": {
+        "ar": {
+          "text": "ذَٰلِكَ بِأَنَّ ٱللَّهَ مَوۡلَى ٱلَّذِينَ ءَامَنُواْ وَأَنَّ ٱلۡكَٰفِرِينَ لَا مَوۡلَىٰ لَهُمۡ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "This is because Allah is the Patron of the believers while the disbelievers have no patron",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "那是因为真主是信道的人们的保护者；不信道的人们，绝无保护者。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "यह इसलिए कि जो लोग ईमान लाए उनका संरक्षक अल्लाह है और यह कि इनकार करनेवालों को कोई संरक्षक नहीं",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Eso es porque Dios solo es protector de los creyentes, mientras que los que se niegan a creer no tienen protector alguno",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "C'est qu'Allah est vraiment le Protecteur de ceux qui ont cru; tandis que les mécréants n'ont pas de protecteur",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "এটা এজন্যে যে, আল্লাহ মুমিনদের হিতৈষী বন্ধু এবং কাফেরদের কোন হিতৈষী বন্ধু নাই।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Isso, porque Allah é Protetor dos que crêem, e porque os renegadores da Fé não têm protetor algum",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Это потому, что Аллах является Покровителем верующих, а у неверующих нет покровителя",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "یہ اس لئے کہ جو مومن ہیں ان کا خدا کارساز ہے اور کافروں کا کوئی کارساز نہیں",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_047_012",
+      "reference": {
+        "surah_number": 47,
+        "surah_name": "Muhammad",
+        "surah_name_ar": "سُوْرَةُ مُحَمَّدٍ",
+        "surah_name_translation": "Muhammad",
+        "ayah_number": 12,
+        "juz": 26,
+        "revelation_type": "Madina"
+      },
+      "arabic_word_count": 23,
+      "translations": {
+        "ar": {
+          "text": "إِنَّ ٱللَّهَ يُدۡخِلُ ٱلَّذِينَ ءَامَنُواْ وَعَمِلُواْ ٱلصَّٰلِحَٰتِ جَنَّٰتࣲ تَجۡرِي مِن تَحۡتِهَا ٱلۡأَنۡهَٰرُۖ وَٱلَّذِينَ كَفَرُواْ يَتَمَتَّعُونَ وَيَأۡكُلُونَ كَمَا تَأۡكُلُ ٱلۡأَنۡعَٰمُ وَٱلنَّارُ مَثۡوࣰ ى لَّهُمۡ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Surely Allah will admit those who believe and do good into Gardens under which rivers flow. As for the disbelievers, they enjoy themselves and feed like cattle. But the Fire will be their home",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "真主必定要使信道而且行善的人们入下临诸河的乐园。不信道的人们，在今世的享受，是象畜牲样饮食，火狱是他们的归宿。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "निश्चय ही अल्लाह उन लोगों को जो ईमान लाए और उन्होंने अच्छे कर्म किए ऐसे बागों में दाख़िल करेगा जिनके नीचे नहरें बह रही होंगी। रहे वे लोग जिन्होंने इनकार किया, वे कुछ दिनों का सुख भोग रहे है और खा रहे है, जिसे चौपाए खाते है। और आग उनका ठिकाना है",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Dios introducirá a los creyentes que obran rectamente en jardines por donde corren ríos. En cambio, los que se niegan a creer gozarán transitoriamente y comerán como lo hacen los rebaños, pero tendrán el Infierno por morada",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Ceux qui croient et accomplissent de bonnes œuvres Allah les fera entrer dans des Jardins sous lesquels coulent les ruisseaux. Et ceux qui mécroient jouissent et mangent comme mangent les bestiaux; et le Feu sera leur lieu de séjour",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "যারা বিশ্বাস করে ও সৎকর্ম করে, আল্লাহ তাদেরকে জান্নাতে দাখিল করবেন, যার নিম্নদেশে নির্ঝরিণীসমূহ প্রবাহিত হয়। আর যারা কাফের, তারা ভোগ-বিলাসে মত্ত থাকে এবং চতুস্পদ জন্তুর মত আহার করে। তাদের বাসস্থান জাহান্নাম।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Por certo, Allah, aos que crêem e fazem boas obras, fará entrar em Jardins, abaixo dos quais correm os rios; E os que renegam a Fé gozam, nesta vida, e comem como comem os rebanhos; e o Fogo lhes será moradia",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Воистину, Аллах введет тех, которые уверовали и совершали праведные деяния, в Райские сады, в которых текут реки. А неверующие пользуются благами и едят, подобно скоту. Их обителью будет Огонь",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "جو لوگ ایمان لائے اور عمل نیک کرتے رہے ان کو خدا بہشتوں میں جن کے نیچے نہریں بہہ رہی ہیں داخل فرمائے گا۔ اور جو کافر ہیں وہ فائدے اٹھاتے ہیں اور (اس طرح) کھاتے ہیں جیسے حیوان کھاتے ہیں۔ اور ان کا ٹھکانہ دوزخ ہے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_047_013",
+      "reference": {
+        "surah_number": 47,
+        "surah_name": "Muhammad",
+        "surah_name_ar": "سُوْرَةُ مُحَمَّدٍ",
+        "surah_name_translation": "Muhammad",
+        "ayah_number": 13,
+        "juz": 26,
+        "revelation_type": "Madina"
+      },
+      "arabic_word_count": 14,
+      "translations": {
+        "ar": {
+          "text": "وَكَأَيِّن مِّن قَرۡيَةٍ هِيَ أَشَدُّ قُوَّةࣰ مِّن قَرۡيَتِكَ ٱلَّتِيٓ أَخۡرَجَتۡكَ أَهۡلَكۡنَٰهُمۡ فَلَا نَاصِرَ لَهُمۡ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "˹Imagine, O Prophet,˺ how many societies We destroyed that were far superior in might than your society—which drove you out—and there was none to help them",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "有许多城市，其居民的势力，胜过那驱逐你的城市的居民；我曾毁灭了他们，他们没有任何援助者。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "कितनी ही बस्तियाँ थी जो शक्ति में तुम्हारी उस बस्ती से, जिसने तुम्हें निकाल दिया, बढ़-चढ़कर थीं। हमने उन्हे विनष्टम कर दिया! फिर कोई उनका सहायक न हुआ",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Muchas ciudades fueron más poderosas que la que te expulsó [¡oh, Mujámmad!], e igualmente las destruí y no tuvieron quién los auxiliara",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Et que de cités, bien plus fortes que ta cité qui t'a expulsé, avons-Nous fait périr, et ils n'eurent point de secoureur",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "যে জনপদ আপনাকে বহিস্কার করেছে, তদপেক্ষা কত শক্তিশালী জনপদকে আমি ধ্বংস করেছি, অতঃপর তাদেরকে সাহায্য করার কেউ ছিল না।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E quantas cidades, mais fortes que tua cidade que te fez sair, aniquilamos! E não houve, para eles, socorredor algum",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Сколько же селений, которые превосходили силой твое селение, изгнавшее тебя, Мы погубили! У них не было помощников",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور بہت سی بستیاں تمہاری بستی سے جس (کے باشندوں نے تمہیں وہاں) سے نکال دیا زور وقوت میں کہیں بڑھ کر تھیں ہم نے ان کا ستیاناس کردیا اور ان کا کوئی مددگار نہ ہوا",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_047_014",
+      "reference": {
+        "surah_number": 47,
+        "surah_name": "Muhammad",
+        "surah_name_ar": "سُوْرَةُ مُحَمَّدٍ",
+        "surah_name_translation": "Muhammad",
+        "ayah_number": 14,
+        "juz": 26,
+        "revelation_type": "Madina"
+      },
+      "arabic_word_count": 13,
+      "translations": {
+        "ar": {
+          "text": "أَفَمَن كَانَ عَلَىٰ بَيِّنَةࣲ مِّن رَّبِّهِۦ كَمَن زُيِّنَ لَهُۥ سُوٓءُ عَمَلِهِۦ وَٱتَّبَعُوٓاْ أَهۡوَآءَهُم",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Can those ˹believers˺ who stand on clear proof from their Lord be like those whose evil deeds are made appealing to them and ˹only˺ follow their desires",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "依据从主降示的明证者，与那为自己的恶行所迷惑，而且顺从私欲者是一样的吗？",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "तो क्या जो व्यक्ति अपने रब की ओर से एक स्पष्ट प्रमाण पर हो वह उन लोगों जैसा हो सकता है, जिन्हें उनका बुरा कर्म ही सुहाना लगता हो और वे अपनी इच्छाओं के पीछे ही चलने लग गए हो",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "¿Acaso quien se aferra a una evidencia clara de su Señor puede compararse con quien [seducido por el demonio] ve sus obras malas como buenas y sigue sus pasiones",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Est-ce que celui qui se base sur une preuve claire venant de son Seigneur est comparable à ceux dont on a embelli les mauvaises actions et qui ont suivi leurs propres passions",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "যে ব্যক্তি তার পালনকর্তার পক্ষ থেকে আগত নিদর্শন অনুসরণ করে, সে কি তার সমান, যার কাছে তার মন্দ কর্ম শোভনীয় করা হয়েছে এবং যে তার খেয়াল-খুশীর অনুসরণ করে।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Então, será que quem está fundado sobre evidência de seu Senhor é como aqueles, para os quais é ornamentada sua má obra, e seguem suas paixões",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Разве тот, кто следует ясному доказательству от своего Господа, подобен тем, которым представилось прекрасным зло их деяний и которые потакали своим желаниям",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "بھلا جو شخص اپنے پروردگار (کی مہربانی) سے کھلے رستے پر (چل رہا) ہو وہ ان کی طرح (ہوسکتا) ہے جن کے اعمال بد انہیں اچھے کرکے دکھائی جائیں اور جو اپنی خواہشوں کی پیروی کریں",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_047_015",
+      "reference": {
+        "surah_number": 47,
+        "surah_name": "Muhammad",
+        "surah_name_ar": "سُوْرَةُ مُحَمَّدٍ",
+        "surah_name_translation": "Muhammad",
+        "ayah_number": 15,
+        "juz": 26,
+        "revelation_type": "Madina"
+      },
+      "arabic_word_count": 46,
+      "translations": {
+        "ar": {
+          "text": "مَّثَلُ ٱلۡجَنَّةِ ٱلَّتِي وُعِدَ ٱلۡمُتَّقُونَۖ فِيهَآ أَنۡهَٰرࣱ مِّن مَّآءٍ غَيۡرِ ءَاسِنࣲ وَأَنۡهَٰرࣱ مِّن لَّبَنࣲ لَّمۡ يَتَغَيَّرۡ طَعۡمُهُۥ وَأَنۡهَٰرࣱ مِّنۡ خَمۡرࣲ لَّذَّةࣲ لِّلشَّٰرِبِينَ وَأَنۡهَٰرࣱ مِّنۡ عَسَلࣲ مُّصَفࣰّ ىۖ وَلَهُمۡ فِيهَا مِن كُلِّ ٱلثَّمَرَٰتِ وَمَغۡفِرَةࣱ مِّن رَّبِّهِمۡۖ كَمَنۡ هُوَ خَٰلِدࣱ فِي ٱلنَّارِ وَسُقُواْ مَآءً حَمِيمࣰ ا فَقَطَّعَ أَمۡعَآءَهُمۡ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "The description of the Paradise promised to the righteous is that in it are rivers of fresh water, rivers of milk that never changes in taste, rivers of wine delicious to drink, and rivers of pure honey. There they will ˹also˺ have all kinds of fruit, and forgiveness from their Lord. ˹Can they be˺ like those who will stay in the Fire forever, left to drink boiling water that will tear apart their insides",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "敬畏的人们所蒙应许的乐园，其情状是这样的：其中有水河，水质不腐；有乳河，乳味不变；有酒河，饮者称快；有蜜河，蜜质纯洁；他们在乐园中，有各种水果，可以享受；还有从他们的主发出的赦宥。永居乐园者，难道与那永居火狱，常饮沸水，肠寸寸断的人是一样的吗？",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "उस जन्नत की शान, जिसका वादा डर रखनेवालों से किया गया है, यह है कि ऐसे पानी की नहरें होगी जो प्रदूषित नहीं होता। और ऐसे दूध की नहरें होंगी जिसके स्वाद में तनिक भी अन्तर न आया होगा, और ऐसे पेय की नहरें होंगी जो पीनेवालों के लिए मज़ा ही मज़ा होंगी, और साफ़-सुधरे शहद की नहरें भी होंगी। और उनके लिए वहाँ हर प्रकार के फल होंगे और क्षमा उनके अपने रब की ओर से - क्या वे उन जैसे हो सकते है, जो सदैव आग में रहनेवाले है और जिन्हें खौलता हुआ पानी पिलाया जाएगा, जो उनकी आँतों को टुकड़े-टुकड़े करके रख देगा",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Así es la descripción del Paraíso que le fue prometido a los piadosos: hay ríos de agua que no se contaminan, ríos de leche que siempre tendrá buen sabor, ríos de vino que será un deleite para quienes lo beban, y ríos de miel pura. Tendrán en él todas las frutas que deseen. Su Señor los perdonará. ¿Acaso quien disfrutará de estas gracias puede compararse con quien morará eternamente en el Infierno y beberá agua hirviendo que carcomerá sus intestinos",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Voici la description du Paradis qui a été promis aux pieux: il y aura là des ruisseaux d'une eau jamais malodorante, et des ruisseaux d'un lait au goût inaltérable, et des ruisseaux d'un vin délicieux à boire, ainsi que des ruisseaux d'un miel purifié. Et il y a là, pour eux, des fruits de toutes sortes, ainsi qu'un pardon de la part de leur Seigneur. [Ceux-là] seront-ils pareils à ceux qui s'éternisent dans le Feu et qui sont abreuvés d'une eau bouillante qui leur déchire les entrailles",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "পরহেযগারদেরকে যে জান্নাতের ওয়াদা দেয়া হয়েছে, তার অবস্থা নিম্নরূপঃ তাতে আছে পানির নহর, নির্মল দুধের নহর যারা স্বাদ অপরিবর্তনীয়, পানকারীদের জন্যে সুস্বাদু শরাবের নহর এবং পরিশোধিত মধুর নহর। তথায় তাদের জন্যে আছে রকমারি ফল-মূল ও তাদের পালনকর্তার ক্ষমা। পরহেযগাররা কি তাদের সমান, যারা জাহান্নামে অনন্তকাল থাকবে এবং যাদেরকে পান করতে দেয়া হবে ফুটন্ত পানি অতঃপর তা তাদের নাড়িভূঁড়ি ছিন্ন বিচ্ছিন্ন করে দেবে?",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Eis o exemplo do Paraíso, prometido aos piedosos: nele, há rios de água nunca malcheirosa, e rios de leite, cujo sabor não se altera, e rios de vinho, deleitoso para quem o bebe, e rios de mel purificado. E, nele, terão todo tipo de frutos, e perdão de seu Senhor. São esses como os que, no Fogo, serão eternos, e aos quais se dará de beber água ebuliente, que lhes despedaçará os intestinos",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Вот описание Рая, обещанного богобоязненным! В нем текут реки из воды, которая не застаивается, реки из молока, вкус которого не изменяется, реки из вина, дарующего наслаждение пьющим, и реки из очищенного меда. В нем для них уготованы любые фрукты и прощение от их Господа. Неужели они подобны тем, которые вечно пребывают в Огне и которых поят кипящей водой, разрывающей их кишки",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "جنت جس کا پرہیزگاروں سے وعدہ کیا جاتا ہے۔ اس کی صفت یہ ہے کہ اس میں پانی کی نہریں ہیں جو بو نہیں کرے گا۔ اور دودھ کی نہریں ہیں جس کا مزہ نہیں بدلے گا۔ اور شراب کی نہریں ہیں جو پینے والوں کے لئے (سراسر) لذت ہے۔ اور شہد مصفا کی نہریں ہیں (جو حلاوت ہی حلاوت ہے) اور (وہاں) ان کے لئے ہر قسم کے میوے ہیں اور ان کے پروردگار کی طرف سے مغفرت ہے۔ (کیا یہ پرہیزگار) ان کی طرح (ہوسکتے) ہیں جو ہمیشہ دوزخ میں رہیں گے اور جن کو کھولتا ہوا پانی پلایا جائے گا تو ان کی انتڑیوں کو کاٹ ڈالے گا",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_047_016",
+      "reference": {
+        "surah_number": 47,
+        "surah_name": "Muhammad",
+        "surah_name_ar": "سُوْرَةُ مُحَمَّدٍ",
+        "surah_name_translation": "Muhammad",
+        "ayah_number": 16,
+        "juz": 26,
+        "revelation_type": "Madina"
+      },
+      "arabic_word_count": 24,
+      "translations": {
+        "ar": {
+          "text": "وَمِنۡهُم مَّن يَسۡتَمِعُ إِلَيۡكَ حَتَّىٰٓ إِذَا خَرَجُواْ مِنۡ عِندِكَ قَالُواْ لِلَّذِينَ أُوتُواْ ٱلۡعِلۡمَ مَاذَا قَالَ ءَانِفًاۚ أُوْلَٰٓئِكَ ٱلَّذِينَ طَبَعَ ٱللَّهُ عَلَىٰ قُلُوبِهِمۡ وَٱتَّبَعُوٓاْ أَهۡوَآءَهُمۡ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "There are some of them who listen to you ˹O Prophet˺, but when they depart from you, they say ˹mockingly˺ to those ˹believers˺ gifted with knowledge, “What did he just say?” These are the ones whose hearts Allah has sealed and who ˹only˺ follow their desires",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "他们中有些人静听你的演说，等到他们从你的面前出去的时候，他们对有学识者说：刚才他说些什么？这等人，真主已封闭他们的心，他们顺从私欲。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "और उनमें कुछ लोग ऐसे है जो तुम्हारी ओर कान लगाते है, यहाँ तक कि जब वे तुम्हारे पास से निकलते है तो उन लोगों से, जिन्हें ज्ञान प्रदान हुआ है कहते है, \"उन्होंने अभी-अभी क्या कहा?\" वही वे लोग है जिनके दिलों पर अल्लाह ने ठप्पा लगा दिया है और वे अपनी इच्छाओं के पीछे चले है",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Algunos te escuchan [¡oh, Mujámmad!], pero cuando se retiran les dicen [burlándose] a los que fueron agraciados con el conocimiento: \"¿Qué es lo que acaba de decir?\" Estos son a quienes Dios ha sellado sus corazones [con la incredulidad], y solo siguen sus pasiones",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Et il en est parmi eux qui t'écoutent. Une fois sortis de chez toi ils disent à ceux qui ont reçu la science: «Qu'a-t-il dit tout à l'heure?» Ce sont ceux-là dont Allah a scellé les cœurs et qui suivent leurs propres passions",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "তাদের মধ্যে কতক আপনার দিকে কান পাতে, অতঃপর যখন আপনার কাছ থেকে বাইরে যায়, তখন যারা শিক্ষিত, তাদেরকে বলেঃ এইমাত্র তিনি কি বললেন ? এদের অন্তরে আল্লাহ মোহর মেরে দিয়েছেন এবং তারা নিজেদের খেয়াল-খুশীর অনুসরণ করে।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E, entre eles, há os que te ouvem, até que, quando saem de perto de ti, dizem àqueles aos quais foi concedida a ciência: \"O que ele disse há pouco?\" Esses são aqueles cujos corações Allah selou, e seguem suas paixões",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Среди них есть такие, которые слушают тебя. Когда они вышли от тебя, то сказали тем, которым было даровано знание: «Что он сказал только что?». Это - те, сердца которых Аллах запечатал и которые потакают своим желаниям",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور ان میں بعض ایسے بھی ہیں جو تمہاری طرف کان لگائے یہاں تک کہ (سب کچھ سنتے ہیں لیکن) جب تمہارے پاس سے نکل کر چلے جاتے ہیں تو جن لوگوں کو علم (دین) دیا گیا ہے ان سے کہتے ہیں کہ (بھلا) انہوں نے ابھی کیا کہا تھا؟ یہی لوگ ہیں جن کے دلوں پر خدا نے مہر لگا رکھی ہے اور وہ اپنی خواہشوں کے پیچھے چل رہے ہیں",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_047_017",
+      "reference": {
+        "surah_number": 47,
+        "surah_name": "Muhammad",
+        "surah_name_ar": "سُوْرَةُ مُحَمَّدٍ",
+        "surah_name_translation": "Muhammad",
+        "ayah_number": 17,
+        "juz": 26,
+        "revelation_type": "Madina"
+      },
+      "arabic_word_count": 7,
+      "translations": {
+        "ar": {
+          "text": "وَٱلَّذِينَ ٱهۡتَدَوۡاْ زَادَهُمۡ هُدࣰ ى وَءَاتَىٰهُمۡ تَقۡوَىٰهُمۡ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "As for those who are ˹rightly˺ guided, He increases them in guidance and blesses them with righteousness",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "遵循正道者，真主要更加引导他们，并将敬畏的报酬赏赐他们。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "रहे वे लोग जिन्होंने सीधा रास्ता अपनाया, (अल्लाह ने) उनके मार्गदर्शन में अभिवृद्धि कर दी और उन्हें उनकी परहेज़गारी प्रदान की",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Pero a quienes siguen la guía, Él les incrementará su fe y su piedad",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Quant à ceux qui se mirent sur la bonne voie, Il les guida encore plus et leur inspira leur piété",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "যারা সৎপথপ্রাপ্ত হয়েছে, তাদের সৎপথপ্রাপ্তি আরও বেড়ে যায় এবং আল্লাহ তাদেরকে তাকওয়া দান করেন।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E aos que se guiam, Ele lhes acresce orientação e lhes concede piedade",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Тем, кто следует прямым путем, Он увеличивает их приверженность прямому пути и дарует их богобоязненность",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور جو لوگ ہدایت یافتہ ہیں ان کو وہ ہدایت مزید بخشتا اور پرہیزگاری عنایت کرتا ہے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_047_018",
+      "reference": {
+        "surah_number": 47,
+        "surah_name": "Muhammad",
+        "surah_name_ar": "سُوْرَةُ مُحَمَّدٍ",
+        "surah_name_translation": "Muhammad",
+        "ayah_number": 18,
+        "juz": 26,
+        "revelation_type": "Madina"
+      },
+      "arabic_word_count": 15,
+      "translations": {
+        "ar": {
+          "text": "فَهَلۡ يَنظُرُونَ إِلَّا ٱلسَّاعَةَ أَن تَأۡتِيَهُم بَغۡتَةࣰۖ فَقَدۡ جَآءَ أَشۡرَاطُهَاۚ فَأَنَّىٰ لَهُمۡ إِذَا جَآءَتۡهُمۡ ذِكۡرَىٰهُمۡ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Are they only waiting for the Hour to take them by surprise? Yet ˹some of˺ its signs have already come. Once it actually befalls them, will it not be too late to be mindful",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "他们只等待复活时忽然来临他们，复活时的征候确已来临了。当复活时来临的时候，他们的觉悟，对于他们那里还会有效呢！",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "अब क्या वे लोग बस उस घड़ी की प्रतीक्षा कर रहे है कि वह उनपर अचानक आ जाए? उसके लक्षण तो सामने आ चुके है, जब वह स्वयं भी उनपर आ जाएगी तो फिर उनके लिए होश में आने का अवसर कहाँ शेष रहेगा",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "¿Acaso los que se niegan a creer esperan que los sorprenda la Hora? Ya se evidenciaron algunas señales que indican su proximidad, y de nada les servirá creer cuando esta llegue",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Qu'est-ce qu'ils attendent sinon que l'Heure leur vienne à l'improviste? Or ses signes avant-coureurs sont certes déjà venus. Et comment pourront-ils se rappeler quand elle leur viendra (à l'improviste)",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "তারা শুধু এই অপেক্ষাই করছে যে, কেয়ামত অকস্মাৎ তাদের কাছে এসে পড়ুক। বস্তুতঃ কেয়ামতের লক্ষণসমূহ তো এসেই পড়েছে। সুতরাং কেয়ামত এসে পড়লে তারা উপদেশ গ্রহণ করবে কেমন করে ?",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Então, não esperam eles senão que a Hora lhes chegue, inopinadamente? E, com efeito, chegaram seus prenúncios. E, quando ela lhes chegar, como lhes servirá sua lembrança",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Неужели они ожидают чего-либо, кроме Часа, который явится к ним внезапно? Ведь уже явились его приметы. Разве они смогут помянуть назидание, когда он явится к ним",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اب تو یہ لوگ قیامت ہی کو دیکھ رہے ہیں کہ ناگہاں ان پر آ واقع ہو۔ سو اس کی نشانیاں (وقوع میں) آچکی ہیں۔ پھر جب وہ ان پر آ نازل ہوگی اس وقت انہیں نصیحت کہاں (مفید ہوسکے گی؟)",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_047_019",
+      "reference": {
+        "surah_number": 47,
+        "surah_name": "Muhammad",
+        "surah_name_ar": "سُوْرَةُ مُحَمَّدٍ",
+        "surah_name_translation": "Muhammad",
+        "ayah_number": 19,
+        "juz": 26,
+        "revelation_type": "Madina"
+      },
+      "arabic_word_count": 14,
+      "translations": {
+        "ar": {
+          "text": "فَٱعۡلَمۡ أَنَّهُۥ لَآ إِلَٰهَ إِلَّا ٱللَّهُ وَٱسۡتَغۡفِرۡ لِذَنۢبِكَ وَلِلۡمُؤۡمِنِينَ وَٱلۡمُؤۡمِنَٰتِۗ وَٱللَّهُ يَعۡلَمُ مُتَقَلَّبَكُمۡ وَمَثۡوَىٰكُمۡ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "So, know ˹well, O Prophet,˺ that there is no god ˹worthy of worship˺ except Allah. And seek forgiveness for your shortcomings and for ˹the sins of˺ the believing men and women. For Allah ˹fully˺ knows your movements and places of rest ˹O people˺",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "你应当知道，除真主外，绝无应受崇拜的，你应当为你的过失而求饶，并应当为众信士和众信女而求饶。真主是全知你们的活动和归宿的。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "अतः जान रखों कि अल्लाह के अतिरिक्त कोई पूज्य-प्रभु नहीं। और अपने गुनाहों के लिए क्षमा-याचना करो और मोमिन पुरुषों और मोमिन स्त्रियों के लिए भी। अल्लाह तुम्हारी चलत-फिरत को भी जानता है और तुम्हारे ठिकाने को भी",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Debes saber que no hay nada ni nadie con derecho a ser adorado salvo Dios, e implórale el perdón de tus faltas y las de los creyentes y las creyentes. Dios conoce bien lo que hacen dentro y fuera de sus hogares",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Sache donc qu'en vérité il n'y a point de divinité à part Allah et implore le pardon pour ton péché, ainsi que pour les croyants et les croyantes. Allah connaît vos activités (sur terre) et votre lieu de repos (dans l'au-delà)",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "জেনে রাখুন, আল্লাহ ব্যতীত কোন উপাস্য নেই। ক্ষমাপ্রার্থনা করুন, আপনার ক্রটির জন্যে এবং মুমিন পুরুষ ও নারীদের জন্যে। আল্লাহ, তোমাদের গতিবিধি ও অবস্থান সম্পর্কে জ্ঞাত।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Então, sabe que não há deus senão Allah. E implora perdão para teu delito e para os crentes e para as crentes. E Allah sabe de vossas atividades e de vossas últimas moradias",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Знай же, что нет божества, кроме Аллаха, и проси прощения за свой грех и за верующих мужчин и верующих женщин. Аллах знает о ваших передвижениях и вашей обители",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "پس جان رکھو کہ خدا کے سوا کوئی معبود نہیں اور اپنے گناہوں کی معافی مانگو اور (اور) مومن مردوں اور مومن عورتوں کے لئے بھی۔ اور خدا تم لوگوں کے چلنے پھرنے اور ٹھیرنے سے واقف ہے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_047_020",
+      "reference": {
+        "surah_number": 47,
+        "surah_name": "Muhammad",
+        "surah_name_ar": "سُوْرَةُ مُحَمَّدٍ",
+        "surah_name_translation": "Muhammad",
+        "ayah_number": 20,
+        "juz": 26,
+        "revelation_type": "Madina"
+      },
+      "arabic_word_count": 27,
+      "translations": {
+        "ar": {
+          "text": "وَيَقُولُ ٱلَّذِينَ ءَامَنُواْ لَوۡلَا نُزِّلَتۡ سُورَةࣱۖ فَإِذَآ أُنزِلَتۡ سُورَةࣱ مُّحۡكَمَةࣱ وَذُكِرَ فِيهَا ٱلۡقِتَالُ رَأَيۡتَ ٱلَّذِينَ فِي قُلُوبِهِم مَّرَضࣱ يَنظُرُونَ إِلَيۡكَ نَظَرَ ٱلۡمَغۡشِيِّ عَلَيۡهِ مِنَ ٱلۡمَوۡتِۖ فَأَوۡلَىٰ لَهُمۡ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "And the believers say, “If only a sûrah was revealed ˹allowing self-defence˺!” Yet when a precise sûrah is revealed, in which fighting is ˹explicitly˺ mentioned, you see those with sickness in their hearts staring at you like someone in the throes of death. It would have been better for them",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "信道的人们说：怎么不降示一章经呢？当一章明确的经文降下，而其中提及战争的时候，你会看到心中有病的人们将象临死时昏晕的人那样瞪着眼看你。伤哉他们！",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "जो लोग ईमान लाए वे कहते है, \"कोई सूरा क्यों नहीं उतरी?\" किन्तु जब एक पक्की सूरा अवतरित की जाती है, जिसमें युद्ध का उल्लेख होता है, तो तुम उन लोगों को देखते हो जिनके दिलों में रोग है कि वे तुम्हारी ओर इस प्रकार देखते है जैसे किसी पर मृत्यु की बेहोशी छा गई हो। तो अफ़सोस है उनके हाल पर",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Algunos creyentes dicen: \"¿Por qué no desciende un capítulo [del Corán donde se prescriba combatir]?\" Pero cuando es revelado un capítulo [del Corán] con preceptos obligatorios, y se menciona en él la guerra, ves a aquellos cuyos corazones están enfermos mirarte como si estuvieran en la agonía de la muerte. Sería mejor para ellos",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Ceux qui ont cru disent: «Ah! Si une Sourate descendait!» Puis, quand on fait descendre une Sourate explicite et qu'on y mentionne le combat, tu vois ceux qui ont une maladie au cœur te regarder du regard de celui qui s'évanouit devant la mort. Seraient bien préférables pour eux",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "যারা মুমিন, তারা বলেঃ একটি সূরা নাযিল হয় না কেন? অতঃপর যখন কোন দ্ব্যর্থহীন সূরা নাযিল হয় এবং তাতে জেহাদের উল্লেখ করা হয়, তখন যাদের অন্তরে রোগ আছে, আপনি তাদেরকে মৃত্যুভয়ে মূর্ছাপ্রাপ্ত মানুষের মত আপনার দিকে তাকিয়ে থাকতে দেখবেন। সুতরাং ধ্বংস তাদের জন্যে।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E os que crêem dizem: \"Que seja descida uma sura!\" E, quando é descida uma sura precisa e em que o combate é mencionado, tu vês aqueles, em cujos corações há enfermidade, olhar-te com o olhar do desfalecido pela morte. Então, valer-lhes-ia mais",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Верующие говорят: «Почему не ниспослана сура о джихаде?». Когда же ясная сура, в которой упоминалось сражение, была ниспослана, ты увидел, что те, чьи сердца поражены недугом, смотрят на тебя взглядом потерявших сознание перед смертью. Для них предпочтительнее было бы",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور مومن لوگ کہتے ہیں کہ (جہاد کی) کوئی سورت کیوں نازل نہیں ہوتی؟ لیکن جب کوئی صاف معنوں کی سورت نازل ہو اور اس میں جہاد کا بیان ہو تو جن لوگوں کے دلوں میں (نفاق کا) مرض ہے تم ان کو دیکھو کہ تمہاری طرف اس طرح دیکھنے لگیں جس طرح کسی پر موت کی بےہوشی (طاری) ہو رہی ہو۔ سو ان کے لئے خرابی ہے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_047_021",
+      "reference": {
+        "surah_number": 47,
+        "surah_name": "Muhammad",
+        "surah_name_ar": "سُوْرَةُ مُحَمَّدٍ",
+        "surah_name_translation": "Muhammad",
+        "ayah_number": 21,
+        "juz": 26,
+        "revelation_type": "Madina"
+      },
+      "arabic_word_count": 13,
+      "translations": {
+        "ar": {
+          "text": "طَاعَةࣱ وَقَوۡلࣱ مَّعۡرُوفࣱۚ فَإِذَا عَزَمَ ٱلۡأَمۡرُ فَلَوۡ صَدَقُواْ ٱللَّهَ لَكَانَ خَيۡرࣰ ا لَّهُمۡ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "to obey and speak rightly. Then when fighting was ordained, it surely would have been better for them if they were true to Allah",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "服从和婉辞，于他们是更相宜的。当战争被决定的时候，假若他们忠于真主，那对于他们是更好的。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "उनके लिए उचित है आज्ञापालन और अच्छी-भली बात। फिर जब (युद्ध की) बात पक्की हो जाए (तो युद्ध करना चाहिए) तो यदि वे अल्लाह के लिए सच्चे साबित होते तो उनके लिए ही अच्छा होता",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "cumplir con los preceptos y no pedir que se prescribiera la guerra. Porque cuando llegue el momento de combatir, lo mejor será que obedezcan a Dios con sinceridad",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "une obéissance et une parole convenable. Puis, quand l'affaire est décidée, il serait mieux pour eux certes, de se montrer sincères vis-à-vis d'Allah",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "তাদের আনুগত্য ও মিষ্ট বাক্য জানা আছে। অতএব, জেহাদের সিন্ধান্ত হলে যদি তারা আল্লাহর প্রতি পদত্ত অংগীকার পূর্ণ করে, তবে তাদের জন্যে তা মঙ্গলজনক হবে।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Obediência e dito conveniente. E, quando a ordem se confirmou, se houvessem sido verídicos com Allah, haver-lhes-ia sido melhor",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "повиноваться и говорить слово доброе. Если же дело решено, то для них лучше быть верными Аллаху",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "(خوب کام تو) فرمانبرداری اور پسندیدہ بات کہنا (ہے) پھر جب (جہاد کی) بات پختہ ہوگئی تو اگر یہ لوگ خدا سے سچے رہنا چاہتے تو ان کے لئے بہت اچھا ہوتا",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_047_022",
+      "reference": {
+        "surah_number": 47,
+        "surah_name": "Muhammad",
+        "surah_name_ar": "سُوْرَةُ مُحَمَّدٍ",
+        "surah_name_translation": "Muhammad",
+        "ayah_number": 22,
+        "juz": 26,
+        "revelation_type": "Madina"
+      },
+      "arabic_word_count": 10,
+      "translations": {
+        "ar": {
+          "text": "فَهَلۡ عَسَيۡتُمۡ إِن تَوَلَّيۡتُمۡ أَن تُفۡسِدُواْ فِي ٱلۡأَرۡضِ وَتُقَطِّعُوٓاْ أَرۡحَامَكُمۡ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Now if you ˹hypocrites˺ turn away, perhaps you would then spread corruption throughout the land and sever your ˹ties of˺ kinship",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "假若你们执政，你们会不会在地方上作恶，并断绝亲戚的关系呢？",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "यदि तुम उल्टे फिर गए तो क्या तुम इससे निकट हो कि धरती में बिगाड़ पैदा करो और अपने नातों-रिश्तों को काट डालो",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "¿Si les fuera dada autoridad, acaso no sembrarían la corrupción en la Tierra y cortarían los lazos familiares",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Si vous vous détournez, ne risquez-vous pas de semer la corruption sur terre et de rompre vos liens de parenté",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "ক্ষমতা লাভ করলে, সম্ভবতঃ তোমরা পৃথিবীতে অনর্থ সৃষ্টি করবে এবং আত্নীয়তা বন্ধন ছিন্ন করবে।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Então, se voltásseis as costas, quiçá, semeásseis a corrupção na terra e cortásseis vossos laços consanguíneos",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Может быть, если вы станете руководить (или отвернетесь от веры; или откажетесь повиноваться), то распространите нечестие на земле и разорвете родственные связи",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "(اے منافقو!) تم سے عجب نہیں کہ اگر تم حاکم ہو جاؤ تو ملک میں خرابی کرنے لگو اور اپنے رشتوں کو توڑ ڈالو",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_047_023",
+      "reference": {
+        "surah_number": 47,
+        "surah_name": "Muhammad",
+        "surah_name_ar": "سُوْرَةُ مُحَمَّدٍ",
+        "surah_name_translation": "Muhammad",
+        "ayah_number": 23,
+        "juz": 26,
+        "revelation_type": "Madina"
+      },
+      "arabic_word_count": 7,
+      "translations": {
+        "ar": {
+          "text": "أُوْلَٰٓئِكَ ٱلَّذِينَ لَعَنَهُمُ ٱللَّهُ فَأَصَمَّهُمۡ وَأَعۡمَىٰٓ أَبۡصَٰرَهُمۡ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "These are the ones who Allah has condemned, deafening them and blinding their eyes",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "这等人，是真主所弃绝的，故他使他们变聋，使他们变瞎。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "ये वे लोग है जिनपर अल्लाह ने लानत की और उन्हें बहरा और उनकी आँखों को अन्धा कर दिया",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "A ellos Dios los ha maldecido haciendo que se comporten como sordos y ciegos",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Ce sont ceux-là qu'Allah a maudits, a rendus sourds et a rendu leurs yeux aveugles",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "এদের প্রতিই আল্লাহ অভিসম্পাত করেন, অতঃপর তাদেরকে বধির ও দৃষ্টিশক্তিহীন করেন।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Esses são os que Allah amaldiçoou: então, Ele os ensurdeceu e lhes encegueceu as vistas",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Таких Аллах проклял и лишил слуха и ослепил их взоры",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "یہی لوگ ہیں جن پر خدا نے لعنت کی ہے اور ان (کے کانوں) کو بہرا اور (ان کی) آنکھوں کو اندھا کردیا ہے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_047_024",
+      "reference": {
+        "surah_number": 47,
+        "surah_name": "Muhammad",
+        "surah_name_ar": "سُوْرَةُ مُحَمَّدٍ",
+        "surah_name_translation": "Muhammad",
+        "ayah_number": 24,
+        "juz": 26,
+        "revelation_type": "Madina"
+      },
+      "arabic_word_count": 7,
+      "translations": {
+        "ar": {
+          "text": "أَفَلَا يَتَدَبَّرُونَ ٱلۡقُرۡءَانَ أَمۡ عَلَىٰ قُلُوبٍ أَقۡفَالُهَآ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Do they not then reflect on the Quran? Or are there locks upon their hearts",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "他们怎么不沉思《古兰经》呢？难道他们的心上有锁？",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "तो क्या वे क़ुरआन में सोच-विचार नहीं करते या उनके दिलों पर ताले लगे हैं",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "¿Acaso no meditan en el Corán, o es que sus corazones están cerrados con cerrojos",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Ne méditent-ils pas sur le Coran? Ou y a-t-il des cadenas sur leurs cœurs",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "তারা কি কোরআন সম্পর্কে গভীর চিন্তা করে না? না তাদের অন্তর তালাবদ্ধ?",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E não ponderam eles o Alcorão, ou há cadeados em seus corações",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Неужели они не размышляют над Кораном? Или же на их сердцах замки",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "بھلا یہ لوگ قرآن میں غور نہیں کرتے یا (ان کے) دلوں پر قفل لگ رہے ہیں",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_047_025",
+      "reference": {
+        "surah_number": 47,
+        "surah_name": "Muhammad",
+        "surah_name_ar": "سُوْرَةُ مُحَمَّدٍ",
+        "surah_name_translation": "Muhammad",
+        "ayah_number": 25,
+        "juz": 26,
+        "revelation_type": "Madina"
+      },
+      "arabic_word_count": 16,
+      "translations": {
+        "ar": {
+          "text": "إِنَّ ٱلَّذِينَ ٱرۡتَدُّواْ عَلَىٰٓ أَدۡبَٰرِهِم مِّنۢ بَعۡدِ مَا تَبَيَّنَ لَهُمُ ٱلۡهُدَى ٱلشَّيۡطَٰنُ سَوَّلَ لَهُمۡ وَأَمۡلَىٰ لَهُمۡ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Indeed, those who relapse ˹into disbelief˺ after ˹true˺ guidance has become clear to them, ˹it is˺ Satan ˹that˺ has tempted them, luring them with false hopes",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "认清正道，然后叛道者，恶魔怂恿他们，并宽慰他们。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "वे लोग जो पीठ-फेरकर पलट गए, इसके पश्चात कि उनपर मार्ग स्पष्ट॥ हो चुका था, उन्हें शैतान ने बहका दिया और उसने उन्हें ढील दे दी",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Aquellos que reniegan de su fe después de habérseles evidenciado la guía, es porque el demonio los seduce y les da falsas esperanzas",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Ceux qui sont revenus sur leurs pas après que le droit chemin leur a été clairement exposé, le Diable les a séduits et trompés",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "নিশ্চয় যারা সোজা পথ ব্যক্ত হওয়ার পর তৎপ্রতি পৃষ্ঠপ্রদর্শন করে, শয়তান তাদের জন্যে তাদের কাজকে সুন্দর করে দেখায় এবং তাদেরকে মিথ্যা আশা দেয়।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Por certo, aos que voltaram atrás, após haver-se tornado evidente, para eles, a orientação, Satã os alicia a isso, e lhes dá vãs esperanças",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Воистину, тех, которые обратились вспять после того, как им стал ясен прямой путь, дьявол обольстил и обещал им долгую жизнь",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "جو لوگ راہ ہدایت ظاہر ہونے کے بعد پیٹھ دے کر پھر گئے۔ شیطان نے (یہ کام) ان کو مزین کر دکھایا اور انہیں طول (عمر کا وعدہ) دیا",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_047_026",
+      "reference": {
+        "surah_number": 47,
+        "surah_name": "Muhammad",
+        "surah_name_ar": "سُوْرَةُ مُحَمَّدٍ",
+        "surah_name_translation": "Muhammad",
+        "ayah_number": 26,
+        "juz": 26,
+        "revelation_type": "Madina"
+      },
+      "arabic_word_count": 15,
+      "translations": {
+        "ar": {
+          "text": "ذَٰلِكَ بِأَنَّهُمۡ قَالُواْ لِلَّذِينَ كَرِهُواْ مَا نَزَّلَ ٱللَّهُ سَنُطِيعُكُمۡ فِي بَعۡضِ ٱلۡأَمۡرِۖ وَٱللَّهُ يَعۡلَمُ إِسۡرَارَهُمۡ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "That is because they said ˹privately˺ to those who ˹also˺ detest what Allah has revealed, “We will obey you in some matters.” But Allah ˹fully˺ knows what they are hiding",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "那是因为他们曾对那些厌恶真主所降示的迹象者说：对于一部分的事情，我们将顺从你们。真主知道他们的隐情。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "यह इसलिए कि उन्होंने उन लोगों से, जिन्होंने उस चीज़ को नापसन्द किया जो कुछ अल्लाह ने उतारा है, कहा कि \"हम कुछ मामलों में तुम्हारी बात मान लेंगे।\" अल्लाह उनकी गुप्त बातों को भली-भाँति जानता है",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Este descarrío es porque [los hipócritas] dijeron a quienes odian lo que Dios reveló [a Mujámmad]: \"Les obedeceremos en algunos asuntos\". Pero Dios conoce sus secretos",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "C'est parce qu'ils ont dit à ceux qui ont de la répulsion pour la révélation d'Allah: «Nous allons vous obéir dans certaines choses». Allah cependant connaît ce qu'ils cachent",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "এটা এজন্য যে, তারা তাদেরকে বলে, যারা আল্লাহর অবতীর্ণ কিতাব অপছন্দ করেঃ আমরা কোন কোন ব্যাপারে তোমাদের কথা মান্য করব। আল্লাহ তাদের গোপন পরামর্শ অবগত আছেন।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Isso, porque eles disseram aos que odeiam o que Allah fez descer: \"Obedecer-vos-emos, em parte da ordem\". E Allah sabe seus segredos",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Это потому, что они сказали тем, которые возненавидели ниспосланное Аллахом: «Мы будем повиноваться вам в некоторых делах». Аллах знает то, что они скрывают",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "یہ اس لئے کہ جو لوگ خدا کی اُتاری ہوئی (کتاب) سے بیزار ہیں یہ ان سے کہتے ہیں کہ بعض کاموں میں ہم تمہاری بات بھی مانیں گے۔ اور خدا ان کے پوشیدہ مشوروں سے واقف ہے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_047_027",
+      "reference": {
+        "surah_number": 47,
+        "surah_name": "Muhammad",
+        "surah_name_ar": "سُوْرَةُ مُحَمَّدٍ",
+        "surah_name_translation": "Muhammad",
+        "ayah_number": 27,
+        "juz": 26,
+        "revelation_type": "Madina"
+      },
+      "arabic_word_count": 7,
+      "translations": {
+        "ar": {
+          "text": "فَكَيۡفَ إِذَا تَوَفَّتۡهُمُ ٱلۡمَلَٰٓئِكَةُ يَضۡرِبُونَ وُجُوهَهُمۡ وَأَدۡبَٰرَهُمۡ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Then how ˹horrible˺ will it be when the angels take their souls, beating their faces and backs",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "当众天神打着他们的脸和背，而使他们死亡的时候，他们将怎么办呢？",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "फिर उस समय क्या हाल होगा जब फ़रिश्तें उनके चहरों और उनकी पीठों पर मारते हुए उनकी रूह क़ब्ज़ करेंगे",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "¡Qué terrible será cuando los ángeles tomen sus almas y los golpeen en el rostro y la espalda",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Qu'adviendra-t-il d'eux quand les Anges les achèveront, frappant leurs faces et leurs dos",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "ফেরেশতা যখন তাদের মুখমন্ডল ও পৃষ্ঠদেশে আঘাত করতে করতে প্রাণ হরণ করবে, তখন তাদের অবস্থা কেমন হবে?",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Então, como estarão, quando os anjos lhes levarem as almas, golpeando-lhes as faces e as nádegas",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Но что же будет, когда ангелы станут умерщвлять их, ударяя по их лицам и спинам",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "تو اُس وقت (ان کا) کیسا (حال) ہوگا جب فرشتے ان کی جان نکالیں گے اور ان کے مونہوں اور پیٹھوں پر مارتے جائیں گے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_047_028",
+      "reference": {
+        "surah_number": 47,
+        "surah_name": "Muhammad",
+        "surah_name_ar": "سُوْرَةُ مُحَمَّدٍ",
+        "surah_name_translation": "Muhammad",
+        "ayah_number": 28,
+        "juz": 26,
+        "revelation_type": "Madina"
+      },
+      "arabic_word_count": 10,
+      "translations": {
+        "ar": {
+          "text": "ذَٰلِكَ بِأَنَّهُمُ ٱتَّبَعُواْ مَآ أَسۡخَطَ ٱللَّهَ وَكَرِهُواْ رِضۡوَٰنَهُۥ فَأَحۡبَطَ أَعۡمَٰلَهُمۡ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "This is because they follow whatever displeases Allah and hate whatever pleases Him, so He has rendered their deeds void",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "那是因为他们顺从那触犯真主的事物，并厌恶他所喜悦的事物，故他使他们的善功无效。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "यह इसलिए कि उन्होंने उस चीज़ का अनुसरण किया जो अल्लाह को अप्रसन्न करनेवाली थी और उन्होंने उसकी ख़ुशी को नापसन्द किया तो उसने उनके कर्मों को अकारथ कर दिया",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Eso será su merecido por haber seguido lo que Dios detesta y haberse apartado de lo que Le complace. Sus obras habrán sido en vano",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Cela parce qu'ils ont suivi ce qui courrouce Allah, et qu'ils ont de la répulsion pour [ce qui attire] Son agrément. Il a donc rendu vaines leurs œuvres",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "এটা এজন্যে যে, তারা সেই বিষয়ের অনুসরণ করে, যা আল্লাহর অসন্তোষ সৃষ্টি করে এবং আল্লাহর সন্তুষ্টিকে অপছন্দ করে। ফলে তিনি তাদের কর্মসমূহ ব্যর্থ করে দেন।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Isso, porque eles seguiram o que encoleriza a Allah, e odiaram Seu agrado; então, Ele anulou suas obras",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Это - за то, что они последовали за тем, что вызвало ярость Аллаха, и возненавидели то, чем Он доволен, и поэтому Он сделал тщетными их деяния",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "یہ اس لئے کہ جس چیز سے خدا ناخوش ہے یہ اس کے پیچھے چلے اور اس کی خوشنودی کو اچھا نہ سمجھے تو اُس نے بھی ان کے عملوں کو برباد کر دیا",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_047_029",
+      "reference": {
+        "surah_number": 47,
+        "surah_name": "Muhammad",
+        "surah_name_ar": "سُوْرَةُ مُحَمَّدٍ",
+        "surah_name_translation": "Muhammad",
+        "ayah_number": 29,
+        "juz": 26,
+        "revelation_type": "Madina"
+      },
+      "arabic_word_count": 11,
+      "translations": {
+        "ar": {
+          "text": "أَمۡ حَسِبَ ٱلَّذِينَ فِي قُلُوبِهِم مَّرَضٌ أَن لَّن يُخۡرِجَ ٱللَّهُ أَضۡغَٰنَهُمۡ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Or do those with sickness in their hearts think that Allah will not ˹be able to˺ expose their malice",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "难道心中有病的人们以为真主不揭穿他们的怨恨么？",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "(क्या अल्लाह से कोई चीज़ छिपी है) या जिन लोगों के दिलों में रोग है वे समझ बैठे है कि अल्लाह उनके द्वेषों को कदापि प्रकट न करेगा",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "¿Acaso piensan aquellos cuyos corazones están enfermos que Dios no sacará a la luz su resentimiento",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Ou bien est-ce que ceux qui ont une maladie au cœur escomptent qu'Allah ne saura jamais faire apparaître leur haine",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "যাদের অন্তরে রোগ আছে, তারা কি মনে করে যে, আল্লাহ তাদের অন্তরের বিদ্বেষ প্রকাশ করে দেবেন না?",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Será que aqueles, em cujos corações há enfermidade, supõem que Allah não fará sair à luz seus rancores",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Неужели те, чьи сердца поражены недугом, полагали, что Аллах не выведет наружу их злобу (или зависть)",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "کیا وہ لوگ جن کے دلوں میں بیماری ہے یہ خیال کئے ہوئے ہیں کہ خدا ان کے کینوں کو ظاہر نہیں کرے گا؟",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_047_030",
+      "reference": {
+        "surah_number": 47,
+        "surah_name": "Muhammad",
+        "surah_name_ar": "سُوْرَةُ مُحَمَّدٍ",
+        "surah_name_translation": "Muhammad",
+        "ayah_number": 30,
+        "juz": 26,
+        "revelation_type": "Madina"
+      },
+      "arabic_word_count": 12,
+      "translations": {
+        "ar": {
+          "text": "وَلَوۡ نَشَآءُ لَأَرَيۡنَٰكَهُمۡ فَلَعَرَفۡتَهُم بِسِيمَٰهُمۡۚ وَلَتَعۡرِفَنَّهُمۡ فِي لَحۡنِ ٱلۡقَوۡلِۚ وَٱللَّهُ يَعۡلَمُ أَعۡمَٰلَكُمۡ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Had We willed, We could have truly shown them to you ˹O Prophet˺, and you would have certainly recognized them by their appearance. But you will surely recognize them by their tone of speech. And Allah ˹fully˺ knows your doings ˹O people˺",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "假若我意欲，我必定使你知道他们，你必定借他们的仪表而认识他们，你必定从他们口气而认识他们。真主知道你们的善功。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "यदि हम चाहें तो उन्हें तुम्हें दिखा दें, फिर तुम उन्हें उनके लक्षणों से पहचान लो; किन्तु तुम उन्हें उनकी बातचीत के ढब से अवश्य पहचान लोगे। अल्लाह तो तुम्हारे कर्मों को जानता ही है",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Si hubiera querido te los habría identificado y los hubieras reconocido por sus signos, pero aun así los reconocerás por el tono de sus palabras. Dios conoce sus obras [y los juzgará acorde a ellas]",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Or, si Nous voulions Nous te les montrerions. Tu les reconnaîtrais certes à leurs traits; et tu les reconnaîtrais très certainement au ton de leur parler. Et Allah connaît bien vos actions",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "আমি ইচ্ছা করলে আপনাকে তাদের সাথে পরিচিত করে দিতাম। তখন আপনি তাদের চেহারা দেখে তাদেরকে চিনতে পারতেন এবং আপনি অবশ্যই কথার ভঙ্গিতে তাদেরকে চিনতে পারবেন। আল্লাহ তোমাদের কর্মসমূহের খবর রাখেন।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E, se quiséssemos, far-te-íamos vê-los, e, em verdade, reconhecê-los-ias por seu semblante. E, em verdade, tu os reconhecerias por seu modo de falar. E Allah sabe de vossas obras",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Если бы Мы пожелали, то показали бы их тебе, и тогда ты узнавал бы их по их приметам. Но ты непременно узнаешь их по оговоркам. Аллах знает о ваших деяниях",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور اگر ہم چاہتے تو وہ لوگ تم کو دکھا بھی دیتے اور تم ان کو ان کے چہروں ہی سے پہچان لیتے۔ اور تم انہیں (ان کے) انداز گفتگو ہی سے پہچان لو گے! اور خدا تمہارے اعمال سے واقف ہے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_047_031",
+      "reference": {
+        "surah_number": 47,
+        "surah_name": "Muhammad",
+        "surah_name_ar": "سُوْرَةُ مُحَمَّدٍ",
+        "surah_name_translation": "Muhammad",
+        "ayah_number": 31,
+        "juz": 26,
+        "revelation_type": "Madina"
+      },
+      "arabic_word_count": 8,
+      "translations": {
+        "ar": {
+          "text": "وَلَنَبۡلُوَنَّكُمۡ حَتَّىٰ نَعۡلَمَ ٱلۡمُجَٰهِدِينَ مِنكُمۡ وَٱلصَّٰبِرِينَ وَنَبۡلُوَاْ أَخۡبَارَكُمۡ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "We will certainly test you ˹believers˺ until We prove those of you who ˹truly˺ struggle ˹in Allah’s cause˺ and remain steadfast, and reveal how you conduct yourselves",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "我必定要试验你们，直到我认识你们中的奋斗者和坚忍者，我将考核关于你们的工作的报告。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "हम अवश्य तुम्हारी परीक्षा करेंगे, यहाँ तक कि हम तुममें से जो जिहाद करनेवाले है और जो दृढ़तापूर्वक जमे रहनेवाले है उनको जान ले और तुम्हारी हालतों को जाँच लें",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Los probaremos para distinguir quiénes de ustedes son los que verdaderamente luchan por la causa de Dios y se mantienen pacientes [en la fe]. Sepan que sacaremos a la luz lo que esconden en sus corazones",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Nous vous éprouverons certes afin de distinguer ceux d'entre vous qui luttent [pour la cause d'Allah] et qui endurent, et afin d'éprouver [faire apparaître] vos nouvelles",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "আমি অবশ্যই তোমাদেরকে পরীক্ষা করব যে পর্যন্ত না ফুটিয়ে তুলি তোমাদের জেহাদকারীদেরকে এবং সবরকারীদেরকে এবং যতক্ষণ না আমি তোমাদের অবস্থান সমূহ যাচাই করি।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E, certamente, por-vos-emos à prova, até saber dos lutadores, dentre vós, e dos perseverantes e até provar vossas notícias",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Мы непременно подвергнем вас испытанию до тех пор, пока не узнаем тех из вас, кто сражается и проявляет терпение, и пока не проверим ваши вести",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور ہم تو لوگوں کو آزمائیں گے تاکہ جو تم میں لڑائی کرنے والے اور ثابت قدم رہنے والے ہیں ان کو معلوم کریں۔ اور تمہارے حالات جانچ لیں",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_047_032",
+      "reference": {
+        "surah_number": 47,
+        "surah_name": "Muhammad",
+        "surah_name_ar": "سُوْرَةُ مُحَمَّدٍ",
+        "surah_name_translation": "Muhammad",
+        "ayah_number": 32,
+        "juz": 26,
+        "revelation_type": "Madina"
+      },
+      "arabic_word_count": 22,
+      "translations": {
+        "ar": {
+          "text": "إِنَّ ٱلَّذِينَ كَفَرُواْ وَصَدُّواْ عَن سَبِيلِ ٱللَّهِ وَشَآقُّواْ ٱلرَّسُولَ مِنۢ بَعۡدِ مَا تَبَيَّنَ لَهُمُ ٱلۡهُدَىٰ لَن يَضُرُّواْ ٱللَّهَ شَيۡـࣰٔ ا وَسَيُحۡبِطُ أَعۡمَٰلَهُمۡ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Indeed, those who disbelieve, hinder ˹others˺ from the Way of Allah, and defy the Messenger after ˹true˺ guidance has become clear to them; they will not harm Allah in the least, but He will render their deeds void",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "不信道，并妨碍主道，且在认识正道后反对使者的人们，绝不能损伤真主一丝毫，他要使他们的善功无效。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "जिन लोगों ने इसके पश्चात कि मार्ग उनपर स्पष्ट हो चुका था, इनकार किया और अल्लाह के मार्ग से रोका और रसूल का विरोध किया, वे अल्लाह को कदापि कोई हानि नहीं पहुँचा सकेंगे, बल्कि वही उनका सब किया-कराया उनकी जान को लागू कर देगा",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Los que se niegan a creer, extravían [a la gente] del sendero de Dios y se oponen al Mensajero después de habérseles evidenciado la guía, no podrán perjudicar a Dios en nada y sus obras serán en vano",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Ceux qui ont mécru et obstrué le chemin d'Allah et se sont mis dans le clan opposé au Messager après que le droit chemin leur fut clairement exposé, ne sauront nuire à Allah en quoi que ce soit. Il rendra vaines leurs œuvres",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "নিশ্চয় যারা কাফের এবং আল্লাহর পথ থেকে মানুষকে ফিরিয়ে রাখে এবং নিজেদের জন্যে সৎপথ ব্যক্ত হওয়ার পর রসূলের (সঃ) বিরোধিতা করে, তারা আল্লাহর কোনই ক্ষতি করতে পারবে না এবং তিনি ব্যর্থ করে দিবেন তাদের কর্মসমূহকে।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Por certo, os que renegam a Fé e afastam os homens do caminho de Allah e discordam do Mensageiro, após haver-se tornado evidente, para eles, a orientação, em nada prejudicam a Allah, e Ele anulará suas obras",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Воистину, те, которые не уверовали, сбивали других с пути Аллаха и откололись от Посланника после того, как им стал ясен прямой путь, нисколько не навредят Аллаху, а Он сделает тщетными их деяния",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "جن لوگوں کو سیدھا رستہ معلوم ہوگیا (اور) پھر بھی انہوں نے کفر کیا اور (لوگوں کو) خدا کی راہ سے روکا اور پیغمبر کی مخالفت کی وہ خدا کا کچھ بھی بگاڑ نہیں سکیں گے۔ اور خدا ان کا سب کیا کرایا اکارت کردے گا",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_047_033",
+      "reference": {
+        "surah_number": 47,
+        "surah_name": "Muhammad",
+        "surah_name_ar": "سُوْرَةُ مُحَمَّدٍ",
+        "surah_name_translation": "Muhammad",
+        "ayah_number": 33,
+        "juz": 26,
+        "revelation_type": "Madina"
+      },
+      "arabic_word_count": 10,
+      "translations": {
+        "ar": {
+          "text": "۞يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓاْ أَطِيعُواْ ٱللَّهَ وَأَطِيعُواْ ٱلرَّسُولَ وَلَا تُبۡطِلُوٓاْ أَعۡمَٰلَكُمۡ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "O believers! Obey Allah and obey the Messenger, and do not let your deeds be in vain",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "信道的人们啊！你们应当服从真主，应当服从使者，你们不要使你们的善功无效。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "ऐ ईमान लानेवालों! अल्लाह का आज्ञापालन करो और रसूल का आज्ञापालन करो और अपने कर्मों को विनष्ट न करो",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "¡Oh, creyentes! Obedezcan a Dios y obedezcan al Mensajero. No hagan vanas sus obras",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "O vous qui avez cru ! Obéissez à Allah, obéissez au Messager, et ne rendez pas vaines vos œuvres",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "হে মুমিনগণ! তোমরা আল্লাহর আনুগত্য কর, রসূলের (সাঃ) আনুগত্য কর এবং নিজেদের কর্ম বিনষ্ট করো না।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Ó vós que credes! Obedecei a Allah e obedecei ao Mensageiro, e não derrogueis vossas obras",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "О те, которые уверовали! Повинуйтесь Аллаху, повинуйтесь Посланнику и не делайте тщетными ваши деяния",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "مومنو! خدا کا ارشاد مانو اور پیغمبر کی فرمانبرداری کرو اور اپنے عملوں کو ضائع نہ ہونے دو",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_047_034",
+      "reference": {
+        "surah_number": 47,
+        "surah_name": "Muhammad",
+        "surah_name_ar": "سُوْرَةُ مُحَمَّدٍ",
+        "surah_name_translation": "Muhammad",
+        "ayah_number": 34,
+        "juz": 26,
+        "revelation_type": "Madina"
+      },
+      "arabic_word_count": 15,
+      "translations": {
+        "ar": {
+          "text": "إِنَّ ٱلَّذِينَ كَفَرُواْ وَصَدُّواْ عَن سَبِيلِ ٱللَّهِ ثُمَّ مَاتُواْ وَهُمۡ كُفَّارࣱ فَلَن يَغۡفِرَ ٱللَّهُ لَهُمۡ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Surely those who disbelieve, hinder ˹others˺ from the Way of Allah, and then die as disbelievers; Allah will never forgive them",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "不信道、并妨碍主道、死时还不信道的人们，真主绝不赦宥他们。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "निश्चय ही जिन लोगों ने इनकार किया और अल्लाह के मार्ग से रोका और इनकार करनेवाले ही रहकर मर गए, अल्लाह उन्हें कदापि क्षमा न करेगा",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "A los que se nieguen a creer, se opongan al camino de Dios y mueran en la incredulidad, Dios no ha de perdonarlos",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Ceux qui ont mécru et obstrué le chemin d'Allah puis sont morts tout en étant mécréants, Allah ne leur pardonnera jamais",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "নিশ্চয় যারা কাফের এবং আল্লাহর পথ থেকে মানুষকে ফিরিয়ে রাখে, অতঃপর কাফের অবস্থায় মারা যায়, আল্লাহ কখনই তাদেরকে ক্ষমা করবেন না।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Por certo, os que renegam a Fé e afastam os homens do caminho de Allah; em seguida, morrem, enquanto renegadores da Fé, Allah não os perdoará",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Воистину, Аллах не простит тех, которые не уверовали и сбивали других с пути Аллаха, а потом умерли неверующими",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "جو لوگ کافر ہوئے اور خدا کے رستے سے روکتے رہے پھر کافر ہی مرگئے خدا ان کو ہرگز نہیں بخشے گا",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_047_035",
+      "reference": {
+        "surah_number": 47,
+        "surah_name": "Muhammad",
+        "surah_name_ar": "سُوْرَةُ مُحَمَّدٍ",
+        "surah_name_translation": "Muhammad",
+        "ayah_number": 35,
+        "juz": 26,
+        "revelation_type": "Madina"
+      },
+      "arabic_word_count": 12,
+      "translations": {
+        "ar": {
+          "text": "فَلَا تَهِنُواْ وَتَدۡعُوٓاْ إِلَى ٱلسَّلۡمِ وَأَنتُمُ ٱلۡأَعۡلَوۡنَ وَٱللَّهُ مَعَكُمۡ وَلَن يَتِرَكُمۡ أَعۡمَٰلَكُمۡ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "So do not falter or cry for peace, for you will have the upper hand and Allah is with you. And He will never let your deeds go to waste",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "你们不要气馁，不要求和，你们是占优势的，真主是与你们同在的，他绝不使你们的善功无效。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "अतः ऐसा न हो कि तुम हिम्मत हार जाओ और सुलह का निमंत्रण देने लगो, जबकि तुम ही प्रभावी हो। अल्लाह तुम्हारे साथ है और वह तुम्हारे कर्मों (के फल) में तुम्हें कदापि हानि न पहुँचाएगा",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "No cedan [ante el enemigo] invitándolo a un acuerdo [por cobardía]. Ustedes [cuando tienen fe y defienden una causa justa] obtendrán la victoria. Dios está con ustedes. Él no dejará de premiar sus obras",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Ne faiblissez donc pas et n'appelez pas à la paix alors que vous êtes les plus hauts, qu'Allah est avec vous, et qu'Il ne vous frustrera jamais [du mérite] de vos œuvres",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "অতএব, তোমরা হীনবল হয়ো না এবং সন্ধির আহবান জানিও না, তোমরাই হবে প্রবল। আল্লাহই তোমাদের সাথে আছেন। তিনি কখনও তোমাদের কর্ম হ্রাস করবেন না।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Então, não vos desanimeis e não convoqueis os inimigos à paz, enquanto sois superiores, e Allah está convosco e não vos subtrai as obras",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Не проявляйте слабости и не призывайте к миру, поскольку вы - выше остальных. Аллах - с вами и не умалит ваших деяний",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "تو تم ہمت نہ ہارو اور (دشمنوں کو) صلح کی طرف نہ بلاؤ۔ اور تم تو غالب ہو۔ اور خدا تمہارے ساتھ ہے وہ ہرگز تمہارے اعمال کو کم (اور گم) نہیں کرے گا",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_047_036",
+      "reference": {
+        "surah_number": 47,
+        "surah_name": "Muhammad",
+        "surah_name_ar": "سُوْرَةُ مُحَمَّدٍ",
+        "surah_name_translation": "Muhammad",
+        "ayah_number": 36,
+        "juz": 26,
+        "revelation_type": "Madina"
+      },
+      "arabic_word_count": 13,
+      "translations": {
+        "ar": {
+          "text": "إِنَّمَا ٱلۡحَيَوٰةُ ٱلدُّنۡيَا لَعِبࣱ وَلَهۡوࣱۚ وَإِن تُؤۡمِنُواْ وَتَتَّقُواْ يُؤۡتِكُمۡ أُجُورَكُمۡ وَلَا يَسۡـَٔلۡكُمۡ أَمۡوَٰلَكُمۡ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "This worldly life is no more than play and amusement. But if you are faithful and mindful ˹of Allah˺, He will grant you your ˹full˺ reward, and will not ask you ˹to donate all˺ your wealth",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "今世的生活，只是游戏和娱乐。如果你们信道，并且敬畏他，他要将你们的报酬赏赐你们。他不索取你们的财产。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "सांसारिक जीवन तो बस एक खेल और तमाशा है। और यदि तुम ईमान लाओ और डर रखो तो वह तुम्हारे कर्मफल तुम्हें प्रदान करेगा और तुमसे धन नही माँगेगा।",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "La vida mundanal es juego y diversión. Pero si creen y son piadosos obtendrán su recompensa. Dios no les exige todos sus bienes",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "La vie présente n'est que jeu et amusement; alors que si vous croyez et craignez, [Allah], Il vous accordera vos récompenses et ne vous demandera pas vos biens",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "পার্থিব জীবন তো কেবল খেলাধুলা, যদি তোমরা বিশ্বাসী হও এবং সংযম অবলম্বন কর, আল্লাহ তোমাদেরকে তোমাদের প্রতিদান দেবেন এবং তিনি তোমাদের ধন-সম্পদ চাইবেন না।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "A vida terrena é, apenas, diversão e entretenimento. E, se credes e sois piedosos, Ele vos concederá vossos prêmios, e não vos pedirá vossas riquezas",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Мирская жизнь - всего лишь игра и потеха. Если вы уверуете и будете богобоязненны, Он дарует вам вашу награду и не попросит у вас вашего имущества",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "دنیا کی زندگی تو محض کھیل اور تماشا ہے۔ اور اگر تم ایمان لاؤ گے اور پرہیزگاری کرو گے تو وہ تم کو تمہارا اجر دے گا۔ اور تم سے تمہارا مال طلب نہیں کرے گا",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_047_037",
+      "reference": {
+        "surah_number": 47,
+        "surah_name": "Muhammad",
+        "surah_name_ar": "سُوْرَةُ مُحَمَّدٍ",
+        "surah_name_translation": "Muhammad",
+        "ayah_number": 37,
+        "juz": 26,
+        "revelation_type": "Madina"
+      },
+      "arabic_word_count": 6,
+      "translations": {
+        "ar": {
+          "text": "إِن يَسۡـَٔلۡكُمُوهَا فَيُحۡفِكُمۡ تَبۡخَلُواْ وَيُخۡرِجۡ أَضۡغَٰنَكُمۡ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "If He were to do so and pressure you, you would withhold and He would bring out your resentment",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "如果他勒索你们的财产，你们就要吝啬，那吝啬要揭穿你们的怨恨。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "और यदि वह उनको तुमसे माँगे और समेटकर तुमसे माँगे तो तुम कंजूसी करोगे। और वह तुम्हारे द्वेष को निकाल बाहर कर देगा",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Si se los exigiera, se mostrarían avaros y se manifestaría su rechazo",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "S'Il vous les demandait importunément, vous deviendriez avares et Il ferait apparaître vos haines",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "তিনি তোমাদের কাছে ধন-সম্পদ চাইলে অতঃপর তোমাদেরকে অতিষ্ঠ করলে তোমরা কার্পণ্য করবে এবং তিনি তোমাদের মনের সংকীর্ণতা প্রকাশ করে দেবেন।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Se Ele vo-las pedisse e, sobre isso, insistisse convosco, haver-vos-íeis mostrado avaros, e Ele haveria feito sair à luz vossos rancores",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Если же Он попросит у вас его и проявит настойчивость, то вы поскупитесь, и Он выведет наружу вашу злобу (или зависть)",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اگر وہ تم سے مال طلب کرے اور تمہیں تنگ کرے تو تم بخل کرنے لگو اور وہ (بخل) تمہاری بدنیتی ظاہر کرکے رہے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_047_038",
+      "reference": {
+        "surah_number": 47,
+        "surah_name": "Muhammad",
+        "surah_name_ar": "سُوْرَةُ مُحَمَّدٍ",
+        "surah_name_translation": "Muhammad",
+        "ayah_number": 38,
+        "juz": 26,
+        "revelation_type": "Madina"
+      },
+      "arabic_word_count": 29,
+      "translations": {
+        "ar": {
+          "text": "هَٰٓأَنتُمۡ هَٰٓؤُلَآءِ تُدۡعَوۡنَ لِتُنفِقُواْ فِي سَبِيلِ ٱللَّهِ فَمِنكُم مَّن يَبۡخَلُۖ وَمَن يَبۡخَلۡ فَإِنَّمَا يَبۡخَلُ عَن نَّفۡسِهِۦۚ وَٱللَّهُ ٱلۡغَنِيُّ وَأَنتُمُ ٱلۡفُقَرَآءُۚ وَإِن تَتَوَلَّوۡاْ يَسۡتَبۡدِلۡ قَوۡمًا غَيۡرَكُمۡ ثُمَّ لَا يَكُونُوٓاْ أَمۡثَٰلَكُم",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Here you are, being invited to donate ˹a little˺ in the cause of Allah. Still some of you withhold. And whoever does so, it is only to their own loss. For Allah is the Self-Sufficient, whereas you stand in need ˹of Him˺. If you ˹still˺ turn away, He will replace you with another people. And they will not be like you",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "你们这等人啊！有人劝你们为主道而费用，你们中却有吝啬的。吝啬的人自受吝啬之害。真主确是无求的，你们确是有求的。如果你们违背命令，他就要以别的民众代替他们，然后，他们不象你们样。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "सुनो! यह तुम्ही लोग हो कि तुम्हें आमंत्रण दिया जा रहा है कि \"अल्लाह के मार्ग में ख़र्च करो।\" फिर तुमसे कुछ लोग है जो कंजूसी करते है। हालाँकि जो कंजूसी करता है वह वास्तव में अपने आप ही से कंजूसी करता है। अल्लाह तो निस्पृह है, तुम्हीं मुहताज हो। और यदि तुम फिर जाओ तो वह तुम्हारी जगह अन्य लोगों को ले आएगा; फिर वे तुम जैसे न होंगे",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Se los invita a contribuir por la causa de Dios, pero entre ustedes hay quienes se muestran avaros. El avaro solo se perjudica a sí mismo. Porque Dios es el Rico y ustedes son los pobres. Si no creen, Dios los cambiará por otro pueblo que no será como ustedes",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Vous voilà appelés à faire des dépenses dans le chemin d'Allah. Certains parmi vous se montrent avares. Quiconque cependant est avare, l'est à son détriment. Allah est le Suffisant à Soi-même alors que vous êtes les besogneux. Et si vous vous détournez, Il vous remplacera par un peuple autre que vous, et ils ne seront pas comme vous",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "শুন, তোমরাই তো তারা, যাদেরকে আল্লাহর পথে ব্যয় করার আহবান জানানো হচ্ছে, অতঃপর তোমাদের কেউ কেউ কৃপণতা করছে। যারা কৃপণতা করছে, তারা নিজেদের প্রতিই কৃপণতা করছে। আল্লাহ অভাবমুক্ত এবং তোমরা অভাবগ্রস্থ। যদি তোমরা মুখ ফিরিয়ে নাও, তবে তিনি তোমাদের পরিবর্তে অন্য জাতিকে প্রতিষ্ঠিত করবেন, এরপর তারা তোমাদের মত হবে না।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Ei-vos convocados a despender no caminho de Allah; então, há dentre vós, quem se mostre avaro. E quem se mostra avaro se mostra avaro, apenas, em prejuízo de si mesmo. E Allah é O Bastante a Si Mesmo, e vós sois os pobres. E, se voltais as costas, Ele vos substituirá por outro povo; em seguida, eles não serão iguais a vós",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Вот вас призывают делать пожертвования на пути Аллаха, и среди вас находятся такие, которые скупятся. Кто скупится, тот скупится только во вред себе. Аллах - богат, а вы - бедны. И если вы отвернетесь, Он заменит вас другими людьми, и они не будут подобны вам",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "دیکھو تم وہ لوگ ہو کہ خدا کی راہ میں خرچ کرنے کے لئے بلائے جاتے ہو۔ تو تم میں ایسے شخص بھی ہیں جو بخل کرنے لگتے ہیں۔ اور جو بخل کرتا ہے اپنے آپ سے بخل کرتا ہے۔ اور خدا بےنیاز ہے اور تم محتاج۔ اور اگر تم منہ پھیرو گے تو وہ تمہاری جگہ اور لوگوں کو لے آئے گا اور وہ تمہاری طرح کے نہیں ہوں گے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    }
+  ]
+}

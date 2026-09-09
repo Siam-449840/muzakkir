@@ -1,0 +1,453 @@
+{
+  "surah": 98,
+  "verses": [
+    {
+      "content_id": "quran_098_001",
+      "reference": {
+        "surah_number": 98,
+        "surah_name": "Al-Bayyina",
+        "surah_name_ar": "سُوْرَةُ الْبَيِّنَةِ",
+        "surah_name_translation": "The Evidence",
+        "ayah_number": 1,
+        "juz": 30,
+        "revelation_type": "Madina"
+      },
+      "arabic_word_count": 12,
+      "translations": {
+        "ar": {
+          "text": "لَمۡ يَكُنِ ٱلَّذِينَ كَفَرُواْ مِنۡ أَهۡلِ ٱلۡكِتَٰبِ وَٱلۡمُشۡرِكِينَ مُنفَكِّينَ حَتَّىٰ تَأۡتِيَهُمُ ٱلۡبَيِّنَةُ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "The disbelievers from the People of the Book and the polytheists were not going to desist ˹from disbelief˺ until the clear proof came to them",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "信奉天经者和以物配主者，他们中不信道的人没有离开自己原有的信仰，直到明证来临他们。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "किताबवालों और मुशरिकों (बहुदेववादियों) में से जिन लोगों ने इनकार किया वे कुफ़्र (इनकार) से अलग होनेवाले नहीं जब तक कि उनके पास स्पष्ट प्रमाण न आ जाए",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "No es concebible que los incrédulos, de la Gente del Libro o los idólatras, sean condenados hasta que les haya llegado una evidencia clara",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Les infidèles parmi les gens du Livre, ainsi que les Associateurs, ne cesseront pas de mécroire jusqu'à ce que leur vienne la Preuve évidente",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "আহলে-কিতাব ও মুশরেকদের মধ্যে যারা কাফের ছিল, তারা প্রত্যাবর্তন করত না যতক্ষণ না তাদের কাছে সুস্পষ্ট প্রমাণ আসত।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Os que renegam a Fé, dentre os seguidores do Livro, e os idólatras não estavam propensos a renunciar a seus cultos, até que lhes chegasse a evidente prova",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Неверующие из людей Писания и многобожников не расстались с неверием, пока к ним не явилось ясное знамение",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "جو لوگ کافر ہیں (یعنی) اہل کتاب اور مشرک وہ (کفر سے) باز رہنے والے نہ تھے جب تک ان کے پاس کھلی دلیل (نہ) آتی",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_098_002",
+      "reference": {
+        "surah_number": 98,
+        "surah_name": "Al-Bayyina",
+        "surah_name_ar": "سُوْرَةُ الْبَيِّنَةِ",
+        "surah_name_translation": "The Evidence",
+        "ayah_number": 2,
+        "juz": 30,
+        "revelation_type": "Madina"
+      },
+      "arabic_word_count": 7,
+      "translations": {
+        "ar": {
+          "text": "رَسُولࣱ مِّنَ ٱللَّهِ يَتۡلُواْ صُحُفࣰ ا مُّطَهَّرَةࣰ‏",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "a messenger from Allah, reciting scrolls of ˹utmost˺ purity",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "那个明证是真主所派遣的一个使者，他诵读纯洁的册页，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "अल्लाह की ओर से एक रसूल पवित्र पृष्ठों को पढ़ता हुआ",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "que sea un Mensajero de Dios, que les recite una revelación purificada [de toda falsedad y contradicción]",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "un Messager, de la part d'Allah, qui leur récite des feuilles purifiées",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "অর্থাৎ আল্লাহর একজন রসূল, যিনি আবৃত্তি করতেন পবিত্র সহীফা,",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Um mensageiro de Allah, que recitasse páginas purificadas",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Посланник от Аллаха, который читает очищенные свитки",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "(یعنی) خدا کے پیغمبر جو پاک اوراق پڑھتے ہیں",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_098_003",
+      "reference": {
+        "surah_number": 98,
+        "surah_name": "Al-Bayyina",
+        "surah_name_ar": "سُوْرَةُ الْبَيِّنَةِ",
+        "surah_name_translation": "The Evidence",
+        "ayah_number": 3,
+        "juz": 30,
+        "revelation_type": "Madina"
+      },
+      "arabic_word_count": 3,
+      "translations": {
+        "ar": {
+          "text": "فِيهَا كُتُبࣱ قَيِّمَةࣱ‏",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "containing upright commandments",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "中有许多正确的经文。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "जिनमें ठोस और ठीक आदेश अंकित हों",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "que contiene preceptos de rectitud y justicia",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "dans lesquelles se trouvent des prescriptions d'une rectitude parfaite",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "যাতে আছে, সঠিক বিষয়বস্তু।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Em que houvesse escritos retos",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "В них содержатся правдивые Писания",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "جن میں (مستحکم) آیتیں لکھی ہوئی ہیں",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_098_004",
+      "reference": {
+        "surah_number": 98,
+        "surah_name": "Al-Bayyina",
+        "surah_name_ar": "سُوْرَةُ الْبَيِّنَةِ",
+        "surah_name_translation": "The Evidence",
+        "ayah_number": 4,
+        "juz": 30,
+        "revelation_type": "Madina"
+      },
+      "arabic_word_count": 11,
+      "translations": {
+        "ar": {
+          "text": "وَمَا تَفَرَّقَ ٱلَّذِينَ أُوتُواْ ٱلۡكِتَٰبَ إِلَّا مِنۢ بَعۡدِ مَا جَآءَتۡهُمُ ٱلۡبَيِّنَةُ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "It was not until this clear proof came to the People of the Book that they became divided ˹about his prophethood˺—",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "信奉天经者，没有分离，直到明证来临他们。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "हालाँकि जिन्हें किताब दी गई थी। वे इसके पश्चात फूट में पड़े कि उनके पास स्पष्ट प्रमाण आ चुका था",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Pero quienes recibieron el Libro con anterioridad [judíos, cristianos y otros] rompieron su unidad [en la fe] cuando les llegó la evidencia clara [a pesar de provenir de la misma fuente divina]",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Et ceux à qui le Livre a été donné ne se sont divisés qu'après que la preuve leur fut venue",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "অপর কিতাব প্রাপ্তরা যে বিভ্রান্ত হয়েছে, তা হয়েছে তাদের কাছে সুস্পষ্ট প্রমাণ আসার পরেই।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E aqueles, os quais fora concedido o Livro, não se separaram senão após haver-lhes chegado a evidente prova",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Те, кому было даровано Писание, распались только после того, как к ним явилось ясное знамение",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور اہل کتاب جو متفرق (و مختلف) ہوئے ہیں تو دلیل واضح آنے کے بعد (ہوئے ہیں)",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_098_005",
+      "reference": {
+        "surah_number": 98,
+        "surah_name": "Al-Bayyina",
+        "surah_name_ar": "سُوْرَةُ الْبَيِّنَةِ",
+        "surah_name_translation": "The Evidence",
+        "ayah_number": 5,
+        "juz": 30,
+        "revelation_type": "Madina"
+      },
+      "arabic_word_count": 16,
+      "translations": {
+        "ar": {
+          "text": "وَمَآ أُمِرُوٓاْ إِلَّا لِيَعۡبُدُواْ ٱللَّهَ مُخۡلِصِينَ لَهُ ٱلدِّينَ حُنَفَآءَ وَيُقِيمُواْ ٱلصَّلَوٰةَ وَيُؤۡتُواْ ٱلزَّكَوٰةَۚ وَذَٰلِكَ دِينُ ٱلۡقَيِّمَةِ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "even though they were only commanded to worship Allah ˹alone˺ with sincere devotion to Him in all uprightness, establish prayer, and pay alms-tax. That is the upright Way",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "他们只奉命崇拜真主，虔诚敬意，恪遵正教，谨守拜功，完纳天课，这是正教。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "और उन्हें आदेश भी बस यही दिया गया था कि वे अल्लाह की बन्दगी करे निष्ठा एवं विनयशीलता को उसके लिए विशिष्ट करके, बिलकुल एकाग्र होकर, और नमाज़ की पाबन्दी करें और ज़कात दे। और यही है सत्यवादी समुदाय का धर्म",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "en la que únicamente se les ordenaba que fueran monoteístas adorando solo a Dios con sinceridad, que realizaran la oración y pagaran el zakat, pues esa es la verdadera religión",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Il ne leur a été commandé, cependant, que d'adorer Allah, Lui vouant un culte exclusif, d'accomplir la Salât et d'acquitter la Zakât. Et voilà la religion de droiture",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "তাদেরকে এছাড়া কোন নির্দেশ করা হয়নি যে, তারা খাঁটি মনে একনিষ্ঠভাবে আল্লাহর এবাদত করবে, নামায কায়েম করবে এবং যাকাত দেবে। এটাই সঠিক ধর্ম।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E não lhes fora ordenado senão adorar a Allah, sendo sinceros com Ele na devoção, sendo monoteístas, e cumprir a oração e conceder az-zakah (a ajuda caridosa). E essa é a religião reta",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "А ведь им было велено лишь поклоняться Аллаху, служа ему искренне, как ханифы, совершать намаз и выплачивать закят. Это - правая вера",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور ان کو حکم تو یہی ہوا تھا کہ اخلاص عمل کے ساتھ خدا کی عبادت کریں (اور) یکسو ہو کراورنماز پڑھیں اور زکوٰة دیں اور یہی سچا دین ہے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_098_006",
+      "reference": {
+        "surah_number": 98,
+        "surah_name": "Al-Bayyina",
+        "surah_name_ar": "سُوْرَةُ الْبَيِّنَةِ",
+        "surah_name_translation": "The Evidence",
+        "ayah_number": 6,
+        "juz": 30,
+        "revelation_type": "Madina"
+      },
+      "arabic_word_count": 16,
+      "translations": {
+        "ar": {
+          "text": "إِنَّ ٱلَّذِينَ كَفَرُواْ مِنۡ أَهۡلِ ٱلۡكِتَٰبِ وَٱلۡمُشۡرِكِينَ فِي نَارِ جَهَنَّمَ خَٰلِدِينَ فِيهَآۚ أُوْلَٰٓئِكَ هُمۡ شَرُّ ٱلۡبَرِيَّةِ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Indeed, those who disbelieve from the People of the Book and the polytheists will be in the Fire of Hell, to stay there forever. They are the worst of ˹all˺ beings",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "信奉天经者和以物配主者，他们中不信道的人，必入火狱，而永居其中；这等人是最恶的人。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "निस्संदेह किताबवालों और मुशरिकों (बहुदेववादियों) में से जिन लोगों ने इनकार किया है, वे जहन्नम की आग में पड़ेगे; उसमें सदैव रहने के लिए। वही पैदा किए गए प्राणियों में सबसे बुरे है",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Quienes se negaron a seguir la verdad, sean Gente del Libro o idólatras, serán castigados eternamente en el fuego del Infierno. Ellos son lo peor entre todos los seres creados",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Les infidèles parmi les gens du Livre, ainsi que les Associateurs iront au feu de l'Enfer, pour y demeurer éternellement. De toute la création, ce sont eux les pires",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "আহলে-কিতাব ও মুশরেকদের মধ্যে যারা কাফের, তারা জাহান্নামের আগুনে স্থায়ীভাবে থাকবে। তারাই সৃষ্টির অধম।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Por certo, os que renegam a Fé, dentre os seguidores do Livro, e os idólatras estarão no Fogo da Geena: nela serão eternos. Esses são os piores de toda a criação",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Воистину, неверующие из людей Писания и многобожников окажутся в огне Геенны и пребудут там вечно. Они являются наихудшими из тварей",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "جو لوگ کافر ہیں (یعنی) اہل کتاب اور مشرک وہ دوزخ کی آگ میں پڑیں گے (اور) ہمیشہ اس میں رہیں گے۔ یہ لوگ سب مخلوق سے بدتر ہیں",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_098_007",
+      "reference": {
+        "surah_number": 98,
+        "surah_name": "Al-Bayyina",
+        "surah_name_ar": "سُوْرَةُ الْبَيِّنَةِ",
+        "surah_name_translation": "The Evidence",
+        "ayah_number": 7,
+        "juz": 30,
+        "revelation_type": "Madina"
+      },
+      "arabic_word_count": 9,
+      "translations": {
+        "ar": {
+          "text": "إِنَّ ٱلَّذِينَ ءَامَنُواْ وَعَمِلُواْ ٱلصَّٰلِحَٰتِ أُوْلَٰٓئِكَ هُمۡ خَيۡرُ ٱلۡبَرِيَّةِ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Indeed, those who believe and do good—they are the best of ˹all˺ beings",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "信道而行善的人，是最善的人，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "किन्तु निश्चय ही वे लोग, जो ईमान लाए और उन्होंने अच्छे कर्म किए पैदा किए गए प्राणियों में सबसे अच्छे है",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "En cambio, los que creen y obran rectamente son lo mejor entre todos los seres creados",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Quant à ceux qui croient et accomplissent les bonnes œuvres, ce sont les meilleurs de toute la création",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "যারা ঈমান আনে ও সৎকর্ম করে, তারাই সৃষ্টির সেরা।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Por certo, os que crêem e fazem as boas obras, esses são os melhores de toda criação",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Воистину, те, которые уверовали и совершали праведные деяния, являются наилучшими из тварей",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "(اور) جو لوگ ایمان لائے اور نیک عمل کرتے رہے وہ تمام خلقت سے بہتر ہیں",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_098_008",
+      "reference": {
+        "surah_number": 98,
+        "surah_name": "Al-Bayyina",
+        "surah_name_ar": "سُوْرَةُ الْبَيِّنَةِ",
+        "surah_name_translation": "The Evidence",
+        "ayah_number": 8,
+        "juz": 30,
+        "revelation_type": "Madina"
+      },
+      "arabic_word_count": 22,
+      "translations": {
+        "ar": {
+          "text": "جَزَآؤُهُمۡ عِندَ رَبِّهِمۡ جَنَّٰتُ عَدۡنࣲ تَجۡرِي مِن تَحۡتِهَا ٱلۡأَنۡهَٰرُ خَٰلِدِينَ فِيهَآ أَبَدࣰ اۖ رَّضِيَ ٱللَّهُ عَنۡهُمۡ وَرَضُواْ عَنۡهُۚ ذَٰلِكَ لِمَنۡ خَشِيَ رَبَّهُۥ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Their reward with their Lord will be Gardens of Eternity, under which rivers flow, to stay there for ever and ever. Allah is pleased with them and they are pleased with Him. This is ˹only˺ for those in awe of their Lord",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "他们在他们的主那里的报酬是下临诸河的常住的乐园，他们将永居其中，真主喜悦他们，他们也喜悦他；这是畏惧真主者所有的。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "उनका बदला उनके अपने रब के पास सदाबहार बाग़ है, जिनके नीचे नहरें बह रही होंगी। उनमें वे सदैव रहेंगे। अल्लाह उनसे राज़ी हुआ और वे उससे राज़ी हुए। यह कुछ उसके लिए है, जो अपने रब से डरा",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Ellos recibirán como recompensa de su Señor Jardines del Edén por donde corren ríos, en los que estarán eternamente. Dios estará complacido con ellos y ellos lo estarán con Él. Esto es lo que aguarda a quienes hayan tenido temor de Dios",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Leur récompense auprès d'Allah sera les Jardins de séjour, sous lesquels coulent les ruisseaux, pour y demeurer éternellement. Allah les agrée et ils L'agréent. Telle sera [la récompense] de celui qui craint son Seigneur",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "তাদের পালনকর্তার কাছে রয়েছে তাদের প্রতিদান চিরকাল বসবাসের জান্নাত, যার তলদেশে নির্ঝরিণী প্রবাহিত। তারা সেখানে থাকবে অনন্তকাল। আল্লাহ তাদের প্রতি সন্তুষ্ট এবং তারা আল্লাহর প্রতি সন্তুষ্ট। এটা তার জন্যে, যে তার পালনকর্তাকে ভয় কর।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Sua recompensa, junto de seu Senhor, são os Jardins do Éden, abaixo dos quais correm os rios; nesses, serão eternos para todo o sempre. Allah se agradará deles, e eles se agradarão dEle. Isso para quem receia a seu Senhor",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Их воздаянием у их Господа будут сады Эдема, в которых текут реки. Они пребудут в них вечно. Аллах доволен ими, и они довольны Им. Это уготовано для тех, кто боится своего Господа",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "ان کا صلہ ان کے پروردگار کے ہاں ہمیشہ رہنے کے باغ ہیں جن کے نیچے نہریں بہہ رہی ہیں ابدالاباد ان میں رہیں گے۔ خدا ان سے خوش اور وہ اس سے خوش۔ یہ (صلہ) اس کے لیے ہے جو اپنے پروردگار سے ڈرتا رہا",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    }
+  ]
+}

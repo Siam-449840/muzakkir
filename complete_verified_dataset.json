@@ -1,0 +1,44 @@
+{
+  "schema_version": "1.0",
+  "package_purpose": "Machine-readable index tying together the master corpora, curated daily pool, and all registries WITHOUT duplicating large canonical text bodies.",
+  "generated_on": "2026-08-28",
+  "components": {
+    "master_quran": {
+      "file": "master_quran_verified.json",
+      "record_count": 6236
+    },
+    "master_hadith": {
+      "file": "assets/hadith_dataset/ihadis_full_dataset.db",
+      "record_count": 52856,
+      "canonical_books": 25,
+      "sahih_count": 42921
+    },
+    "curated_quran_daily": {
+      "file": "curated_quran_daily.json",
+      "record_count": 3243
+    },
+    "curated_hadith_daily": {
+      "file": "assets/data/hadith_daily_pool.json",
+      "record_count": 2402
+    },
+    "daily_content_layer": {
+      "file": "daily_content.json"
+    },
+    "sources_registry": {
+      "file": "sources.json"
+    },
+    "translation_registry": {
+      "file": "translation_sources.json"
+    },
+    "tafsir_registry": {
+      "file": "tafsir_sources.json"
+    },
+    "rejected_items_and_audit_notes": {
+      "file": "rejected_items.json"
+    },
+    "sample_audit_results": {
+      "file": "sample_audit_results.json"
+    }
+  },
+  "top_level_honesty_statement": "Every 'verified' claim in this package means: this pipeline's data was programmatically compared, full-corpus or by reproducible random sample, against a named open-source upstream dataset, and matched. It is NOT a claim of independent Islamic scholarly authentication. Hadith grading reflects named scholars cited in the source datasets, never an isnad/matn judgment made by this pipeline. Editorial/curation labels (excellent/good/conditional/not_suitable) are AI-assisted heuristic judgments for notification-suitability only, not religious rulings."
+}

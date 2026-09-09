@@ -1,0 +1,36 @@
+{
+  "book_key": "jujul-rafayel-yadain",
+  "raw_key": "jujul-rafayel-yadain",
+  "id": 17,
+  "title_bn": "জুজ'উল রাফায়েল ইয়াদাইন",
+  "title_en": "Juz'ul Raf'il Yadain",
+  "title_ar": "جزء رفائيل يدين",
+  "total_hadiths": 48,
+  "total_chapters": 1,
+  "total_sections": 1,
+  "chapters": [
+    {
+      "id": 1,
+      "display_label": "১",
+      "title": "জুজউল রাফউল ইয়াদাইন",
+      "arabic_title": "",
+      "preface": "",
+      "range": "১ - ৪৮",
+      "order": 1,
+      "hadith_count": 48,
+      "sections_count": 1,
+      "sections": [
+        {
+          "id": 1,
+          "chapter_id": 1,
+          "display_label": "১/১. অধ্যায়ঃ",
+          "title": "হাদিস নং ১-১০০",
+          "arabic_title": "",
+          "preface": "",
+          "order": 1,
+          "hadith_count": 48
+        }
+      ]
+    }
+  ]
+}

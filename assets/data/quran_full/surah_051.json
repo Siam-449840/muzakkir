@@ -1,0 +1,3365 @@
+{
+  "surah": 51,
+  "verses": [
+    {
+      "content_id": "quran_051_001",
+      "reference": {
+        "surah_number": 51,
+        "surah_name": "Adh-Dhaariyat",
+        "surah_name_ar": "سُوْرَةُ الذَّارِياتِ",
+        "surah_name_translation": "The Winnowing Winds",
+        "ayah_number": 1,
+        "juz": 26,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 3,
+      "translations": {
+        "ar": {
+          "text": "وَٱلذَّٰرِيَٰتِ ذَرۡوࣰ ا",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "By the winds scattering ˹dust˺",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "誓以播种者，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "गवाह है (हवाएँ) जो गर्द-ग़ुबार उड़ाती फिरती है",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "[Juro] por los vientos que soplan",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Par les vents qui éparpillent",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "কসম ঝঞ্ঝাবায়ুর।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Pelos ventos que dispersam intensamente",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Клянусь рассеивающими прах",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "بکھیرنے والیوں کی قسم جو اُڑا کر بکھیر دیتی ہیں",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_051_002",
+      "reference": {
+        "surah_number": 51,
+        "surah_name": "Adh-Dhaariyat",
+        "surah_name_ar": "سُوْرَةُ الذَّارِياتِ",
+        "surah_name_translation": "The Winnowing Winds",
+        "ayah_number": 2,
+        "juz": 26,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 3,
+      "translations": {
+        "ar": {
+          "text": "فَٱلۡحَٰمِلَٰتِ وِقۡرࣰ ا",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "and ˹the clouds˺ loaded with rain",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "载重者，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "फिर बोझ उठाती है",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "por las nubes cargadas de lluvias",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Par les porteurs de fardeaux",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "অতঃপর বোঝা বহনকারী মেঘের।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Pelas carregadoras de carga",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Клянусь несущими бремя",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "پھر (پانی کا) بوجھ اٹھاتی ہیں",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_051_003",
+      "reference": {
+        "surah_number": 51,
+        "surah_name": "Adh-Dhaariyat",
+        "surah_name_ar": "سُوْرَةُ الذَّارِياتِ",
+        "surah_name_translation": "The Winnowing Winds",
+        "ayah_number": 3,
+        "juz": 26,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 3,
+      "translations": {
+        "ar": {
+          "text": "فَٱلۡجَٰرِيَٰتِ يُسۡرࣰ ا",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "and ˹the ships˺ gliding with ease",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "飘流者，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "फिर नरमी से चलती है",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "por los barcos que navegan con facilidad",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Par les glisseurs agiles",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "অতঃপর মৃদু চলমান জলযানের,",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Pelas corredoras, facilmente",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Клянусь плывущими легко",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "پھر آہستہ آہستہ چلتی ہیں",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_051_004",
+      "reference": {
+        "surah_number": 51,
+        "surah_name": "Adh-Dhaariyat",
+        "surah_name_ar": "سُوْرَةُ الذَّارِياتِ",
+        "surah_name_translation": "The Winnowing Winds",
+        "ayah_number": 4,
+        "juz": 26,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 2,
+      "translations": {
+        "ar": {
+          "text": "فَٱلۡمُقَسِّمَٰتِ أَمۡرًا",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "and ˹the angels˺ administering affairs by ˹Allah’s˺ command",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "分配者，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "फिर मामले को अलग-अलग करती है",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "por los ángeles que trasmiten las órdenes [de Dios]",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Par les distributeurs selon un commandement",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "অতঃপর কর্ম বন্টনকারী ফেরেশতাগণের,",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Pelos distribuidores de ordem",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Клянусь распределяющими дела",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "پھر چیزیں تقسیم کرتی ہیں",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_051_005",
+      "reference": {
+        "surah_number": 51,
+        "surah_name": "Adh-Dhaariyat",
+        "surah_name_ar": "سُوْرَةُ الذَّارِياتِ",
+        "surah_name_translation": "The Winnowing Winds",
+        "ayah_number": 5,
+        "juz": 26,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 3,
+      "translations": {
+        "ar": {
+          "text": "إِنَّمَا تُوعَدُونَ لَصَادِقࣱ‏",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Indeed, what you are promised is true",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "警告你们的事确是真实的，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "निश्चय ही तुमसे जिस चीज़ का वादा किया जाता है, वह सत्य है",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "que lo que se les ha anunciado [el Día de la Resurrección] es una verdad",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Ce qui vous est promis est certainement vrai",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "তোমাদের প্রদত্ত ওয়াদা অবশ্যই সত্য।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Por certo, o que vos é prometido é verídico",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Обещанное вам есть истина",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "کہ جس چیز کا تم سے وعدہ کیا جاتا ہے وہ سچا ہے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_051_006",
+      "reference": {
+        "surah_number": 51,
+        "surah_name": "Adh-Dhaariyat",
+        "surah_name_ar": "سُوْرَةُ الذَّارِياتِ",
+        "surah_name_translation": "The Winnowing Winds",
+        "ayah_number": 6,
+        "juz": 26,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 3,
+      "translations": {
+        "ar": {
+          "text": "وَإِنَّ ٱلدِّينَ لَوَٰقِعࣱ‏",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "And the Judgment will certainly come to pass",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "报应确是要发生的。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "और (कर्मों का) बदला अवश्य सामने आकर रहेगा",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "y que el juicio es inevitable",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Et la Rétribution arrivera inévitablement",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "ইনসাফ অবশ্যম্ভাবী।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E, por certo, o Juízo sobrevirá",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "и суд непременно наступит",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور انصاف (کا دن) ضرور واقع ہوگا",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_051_007",
+      "reference": {
+        "surah_number": 51,
+        "surah_name": "Adh-Dhaariyat",
+        "surah_name_ar": "سُوْرَةُ الذَّارِياتِ",
+        "surah_name_translation": "The Winnowing Winds",
+        "ayah_number": 7,
+        "juz": 26,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 3,
+      "translations": {
+        "ar": {
+          "text": "وَٱلسَّمَآءِ ذَاتِ ٱلۡحُبُكِ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "˹And˺ by the heavens in their marvellous design",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "以有轨道的诸天盟誓，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "गवाह है धारियोंवाला आकाश।",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Y [juro] por el cosmos surcado de [planetas en] órbitas",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Par le ciel aux voies parfaitement tracées",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "পথবিশিষ্ট আকাশের কসম,",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Pelo céu de vias perfeitas",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Клянусь небом, обладающим прекрасным обликом (или небом, обладающим мощью; или небом со звездами)",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور آسمان کی قسم جس میں رسے ہیں",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_051_008",
+      "reference": {
+        "surah_number": 51,
+        "surah_name": "Adh-Dhaariyat",
+        "surah_name_ar": "سُوْرَةُ الذَّارِياتِ",
+        "surah_name_translation": "The Winnowing Winds",
+        "ayah_number": 8,
+        "juz": 26,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 4,
+      "translations": {
+        "ar": {
+          "text": "إِنَّكُمۡ لَفِي قَوۡلࣲ مُّخۡتَلِفࣲ‏",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Surely you are ˹lost˺ in conflicting views ˹regarding the truth˺",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "你们确是各执一说的，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "निश्चय ही तुम उस बात में पड़े हुए हो जिनमें कथन भिन्न-भिन्न है",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "que ustedes [¡oh, idólatras!] tienen creencias contradictorias [con la verdad]",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "vous divergez sur ce que vous dites",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "তোমরা তো বিরোধপূর্ণ কথা বলছ।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Por certo, vós estais divididos em ditos divergentes",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Ваши (неверующих) слова противоречивы",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "کہ (اے اہل مکہ) تم ایک متناقض بات میں (پڑے ہوئے) ہو",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_051_009",
+      "reference": {
+        "surah_number": 51,
+        "surah_name": "Adh-Dhaariyat",
+        "surah_name_ar": "سُوْرَةُ الذَّارِياتِ",
+        "surah_name_translation": "The Winnowing Winds",
+        "ayah_number": 9,
+        "juz": 26,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 4,
+      "translations": {
+        "ar": {
+          "text": "يُؤۡفَكُ عَنۡهُ مَنۡ أُفِكَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Only those ˹destined to be˺ deluded are turned away from it",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "原被阻遏者，将被阻遏，而不得到达他。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "इसमें कोई सरफिरा ही विमुख होता है",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "de la que solo se distancian quienes están desviados en su pensamiento",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Est détourné de lui quiconque a été détourné de la foi",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "যে ভ্রষ্ট, সেই এ থেকে মুখ ফিরায়,",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Distancia-se dele quem se distancia da Fé",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Отвращен от него (Мухаммада или Корана) тот, кто был отвращен",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اس سے وہی پھرتا ہے جو (خدا کی طرف سے) پھیرا جائے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_051_010",
+      "reference": {
+        "surah_number": 51,
+        "surah_name": "Adh-Dhaariyat",
+        "surah_name_ar": "سُوْرَةُ الذَّارِياتِ",
+        "surah_name_translation": "The Winnowing Winds",
+        "ayah_number": 10,
+        "juz": 26,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 2,
+      "translations": {
+        "ar": {
+          "text": "قُتِلَ ٱلۡخَرَّٰصُونَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Condemned are the liars—",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "愿常常说谎者被弃绝！",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "मारे जाएँ अटकल दौड़ानेवाले",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "¡Pobres aquellos que solo conjeturan sobre lo que no pueden comprobar",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Maudits soient les menteurs",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "অনুমানকারীরা ধ্বংস হোক,",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Malditos sejam os impostores",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Да будут убиты лжецы",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اٹکل دوڑانے والے ہلاک ہوں",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_051_011",
+      "reference": {
+        "surah_number": 51,
+        "surah_name": "Adh-Dhaariyat",
+        "surah_name_ar": "سُوْرَةُ الذَّارِياتِ",
+        "surah_name_translation": "The Winnowing Winds",
+        "ayah_number": 11,
+        "juz": 26,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 5,
+      "translations": {
+        "ar": {
+          "text": "ٱلَّذِينَ هُمۡ فِي غَمۡرَةࣲ سَاهُونَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "those who are ˹steeped˺ in ignorance, totally heedless",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "他们浸沉在愚昧之中，他们是昏愦的。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "जो ग़फ़लत में पड़े हुए हैं भूले हुए",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Los que están sumidos en la ignorancia",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "qui sont plongés dans l'insouciance",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "যারা উদাসীন, ভ্রান্ত।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Os que estão em confusão, alheados",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "которые окутаны невежеством и беспечны",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "جو بےخبری میں بھولے ہوئے ہیں",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_051_012",
+      "reference": {
+        "surah_number": 51,
+        "surah_name": "Adh-Dhaariyat",
+        "surah_name_ar": "سُوْرَةُ الذَّارِياتِ",
+        "surah_name_translation": "The Winnowing Winds",
+        "ayah_number": 12,
+        "juz": 26,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 4,
+      "translations": {
+        "ar": {
+          "text": "يَسۡـَٔلُونَ أَيَّانَ يَوۡمُ ٱلدِّينِ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "They ask ˹mockingly˺, “When is this Day of Judgment?”",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "他们问报应日在什么时候，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "पूछते है, \"बदले का दिन कब आएगा",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "y preguntan: \"¿Cuándo será el Día del Juicio",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Ils demandent: «A quand le jour de la Rétribution?»",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "তারা জিজ্ঞাসা করে, কেয়ামত কবে হবে?",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Perguntam: \"Quando será o Dia do Juízo",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Они спрашивают, когда же настанет День воздаяния",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "پوچھتے ہیں کہ جزا کا دن کب ہوگا؟",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_051_013",
+      "reference": {
+        "surah_number": 51,
+        "surah_name": "Adh-Dhaariyat",
+        "surah_name_ar": "سُوْرَةُ الذَّارِياتِ",
+        "surah_name_translation": "The Winnowing Winds",
+        "ayah_number": 13,
+        "juz": 26,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 5,
+      "translations": {
+        "ar": {
+          "text": "يَوۡمَ هُمۡ عَلَى ٱلنَّارِ يُفۡتَنُونَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "˹It is˺ the Day they will be tormented over the Fire",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "那是他们在火刑上受刑之日。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "जिस दिन वे आग पर तपाए जाएँगे",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Ese día serán atormentados con el Fuego",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Le jour où ils seront éprouvés au Feu",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "যেদিন তারা অগ্নিতে পতিত হবে,",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Um dia, quando forem provados sobre o Fogo",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "В тот день они будут гореть в Огне",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اُس دن (ہوگا) جب ان کو آگ میں عذاب دیا جائے گا",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_051_014",
+      "reference": {
+        "surah_number": 51,
+        "surah_name": "Adh-Dhaariyat",
+        "surah_name_ar": "سُوْرَةُ الذَّارِياتِ",
+        "surah_name_translation": "The Winnowing Winds",
+        "ayah_number": 14,
+        "juz": 26,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 7,
+      "translations": {
+        "ar": {
+          "text": "ذُوقُواْ فِتۡنَتَكُمۡ هَٰذَا ٱلَّذِي كُنتُم بِهِۦ تَسۡتَعۡجِلُونَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "˹They will be told,˺ “Taste your torment! This is what you sought to hasten.”",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "你们尝试你们的刑罚吧！这就是你们要求早日实现的。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "चखों मज़ा. अपने फ़ितने (उपद्रव) का! यहीं है जिसके लिए तुम जल्दी मचा रहे थे।",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "[Les será dicho:] \"Sufran su tormento, esto es lo que pedían que les llegara con rapidez",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "«Goûtez à votre épreuve [punition]; voici ce que vous cherchiez à hâter»",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "তোমরা তোমাদের শাস্তি আস্বাদন কর। তোমরা একেই ত্বরান্বিত করতে চেয়েছিল।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Dir-se-á: \"Experimentai vossa provação. Isto é o que apressáveis",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Вкусите ваше наказание, которое вы торопили",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اب اپنی شرارت کا مزہ چکھو۔ یہ وہی ہے جس کے لئے تم جلدی مچایا کرتے تھے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_051_015",
+      "reference": {
+        "surah_number": 51,
+        "surah_name": "Adh-Dhaariyat",
+        "surah_name_ar": "سُوْرَةُ الذَّارِياتِ",
+        "surah_name_translation": "The Winnowing Winds",
+        "ayah_number": 15,
+        "juz": 26,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 5,
+      "translations": {
+        "ar": {
+          "text": "إِنَّ ٱلۡمُتَّقِينَ فِي جَنَّٰتࣲ وَعُيُونٍ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Indeed, the righteous will be amid Gardens and springs",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "敬畏的人们必定在许多乐园中，在许多泉源畔，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "निश्चय ही डर रखनेवाले बाग़ों और स्रोतों में होंगे",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Los piadosos, en cambio, morarán en jardines con manantiales",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Les pieux seront dans des Jardins et [parmi] des sources",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "খোদাভীরুরা জান্নাতে ও প্রস্রবণে থাকবে।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Por certo, os piedosos estarão entre jardins e fontes",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Воистину, богобоязненные пребудут в Райских садах и среди источников",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "بےشک پرہیزگار بہشتوں اور چشموں میں (عیش کر رہے) ہوں گے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_051_016",
+      "reference": {
+        "surah_number": 51,
+        "surah_name": "Adh-Dhaariyat",
+        "surah_name_ar": "سُوْرَةُ الذَّارِياتِ",
+        "surah_name_translation": "The Winnowing Winds",
+        "ayah_number": 16,
+        "juz": 26,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 9,
+      "translations": {
+        "ar": {
+          "text": "ءَاخِذِينَ مَآ ءَاتَىٰهُمۡ رَبُّهُمۡۚ إِنَّهُمۡ كَانُواْ قَبۡلَ ذَٰلِكَ مُحۡسِنِينَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "˹joyfully˺ receiving what their Lord will grant them. Before this ˹reward˺ they were truly good-doers ˹in the world˺",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "接受他们的主所赏赐的。他们在生前确是行善的，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "जो कुछ उनके रब ने उन्हें दिया, वे उसे ले रहे होंगे। निस्संदेह वे इससे पहले उत्तमकारों में से थे",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Disfrutarán lo que Su Señor les conceda, porque en la vida mundanal hacían el bien",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "recevant ce que leur Seigneur leur aura donné. Car ils ont été auparavant des bienfaisants",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "এমতাবস্থায় যে, তারা গ্রহণ করবে যা তাদের পালনকর্তা তাদেরকে দেবেন। নিশ্চয় ইতিপূর্বে তারা ছিল সৎকর্মপরায়ণ,",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Tomando o que seu Senhor lhes conceder. Por certo, antes disso, eram benfeitores",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "получая то, что даровал им их Господь. До этого они были творящими добро",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "(اور) جو جو (نعمتیں) ان کا پروردگار انہیں دیتا ہوگا ان کو لے رہے ہوں گے۔ بےشک وہ اس سے پہلے نیکیاں کرتے تھے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_051_017",
+      "reference": {
+        "surah_number": 51,
+        "surah_name": "Adh-Dhaariyat",
+        "surah_name_ar": "سُوْرَةُ الذَّارِياتِ",
+        "surah_name_translation": "The Winnowing Winds",
+        "ayah_number": 17,
+        "juz": 26,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 7,
+      "translations": {
+        "ar": {
+          "text": "كَانُواْ قَلِيلࣰ ا مِّنَ ٱلَّيۡلِ مَا يَهۡجَعُونَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "they used to sleep only little in the night",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "他们在夜间只稍稍睡一下，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "रातों को थोड़ा ही सोते थे",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "dormían poco por las noches",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "ils dormaient peu, la nuit",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "তারা রাত্রির সামান্য অংশেই নিদ্রা যেত,",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "De noite, dormiam pouco",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Они спали лишь малую часть ночи",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "رات کے تھوڑے سے حصے میں سوتے تھے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_051_018",
+      "reference": {
+        "surah_number": 51,
+        "surah_name": "Adh-Dhaariyat",
+        "surah_name_ar": "سُوْرَةُ الذَّارِياتِ",
+        "surah_name_translation": "The Winnowing Winds",
+        "ayah_number": 18,
+        "juz": 26,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 3,
+      "translations": {
+        "ar": {
+          "text": "وَبِٱلۡأَسۡحَارِ هُمۡ يَسۡتَغۡفِرُونَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "and pray for forgiveness before dawn",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "他们在黎明时向主求饶，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "और वही प्रातः की घड़ियों में क्षमा की प्रार्थना करते थे",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "pedían perdón a Dios antes del despuntar del alba",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "et aux dernières heures de la nuit ils imploraient le pardon [d'Allah]",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "রাতের শেষ প্রহরে তারা ক্ষমাপ্রার্থনা করত,",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E, nas madrugadas, imploravam perdão de Allah",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "а перед рассветом они молили о прощении",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور اوقات سحر میں بخشش مانگا کرتے تھے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_051_019",
+      "reference": {
+        "surah_number": 51,
+        "surah_name": "Adh-Dhaariyat",
+        "surah_name_ar": "سُوْرَةُ الذَّارِياتِ",
+        "surah_name_translation": "The Winnowing Winds",
+        "ayah_number": 19,
+        "juz": 26,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 5,
+      "translations": {
+        "ar": {
+          "text": "وَفِيٓ أَمۡوَٰلِهِمۡ حَقࣱّ لِّلسَّآئِلِ وَٱلۡمَحۡرُومِ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "And in their wealth there was a rightful share ˹fulfilled˺ for the beggar and the poor",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "他们的财产中，有乞丐和贫民的权利。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "और उनके मालों में माँगनेवाले और धनहीन का हक़ था",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "y daban de su dinero lo que era derecho para el mendigo y el indigente",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "et dans leurs biens, il y avait un droit au mendiant et au déshérité",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "এবং তাদের ধন-সম্পদে প্রার্থী ও বঞ্চিতের হক ছিল।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E, em suas riquezas, havia, de direito, parte para o mendigo e para o desprovido",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Они выделяли известную долю своего имущества для просящих и обездоленных",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور ان کے مال میں مانگنے والے اور نہ مانگنے والے (دونوں) کا حق ہوتا تھا",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_051_020",
+      "reference": {
+        "surah_number": 51,
+        "surah_name": "Adh-Dhaariyat",
+        "surah_name_ar": "سُوْرَةُ الذَّارِياتِ",
+        "surah_name_translation": "The Winnowing Winds",
+        "ayah_number": 20,
+        "juz": 26,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 4,
+      "translations": {
+        "ar": {
+          "text": "وَفِي ٱلۡأَرۡضِ ءَايَٰتࣱ لِّلۡمُوقِنِينَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "There are ˹countless˺ signs on earth for those with sure faith",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "在大地上对于笃信的人们，有许多迹象；",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "और धरती में विश्वास करनेवालों के लिए बहुत-सी निशानियाँ है",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "En la Tierra hay signos para quienes tienen certeza interior",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Il y a sur terre des preuves pour ceux qui croient avec certitude",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "বিশ্বাসকারীদের জন্যে পৃথিবীতে নিদর্শনাবলী রয়েছে,",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E, na terra, há sinais para os que estão convictos da Fé",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "На земле есть знамения для людей убежденных",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور یقین کرنے والوں کے لئے زمین میں (بہت سی) نشانیاں ہیں",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_051_021",
+      "reference": {
+        "surah_number": 51,
+        "surah_name": "Adh-Dhaariyat",
+        "surah_name_ar": "سُوْرَةُ الذَّارِياتِ",
+        "surah_name_translation": "The Winnowing Winds",
+        "ayah_number": 21,
+        "juz": 26,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 4,
+      "translations": {
+        "ar": {
+          "text": "وَفِيٓ أَنفُسِكُمۡۚ أَفَلَا تُبۡصِرُونَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "as there are within yourselves. Can you not see",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "在你们自身中也有许多迹象，难道你们看不见吗？",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "और ,स्वयं तुम्हारे अपने आप में भी। तो क्या तुम देखते नहीं",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "También en ustedes mismos. ¿Es que no ven",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "ainsi qu'en vous-mêmes. N'observez-vous donc pas",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "এবং তোমাদের নিজেদের মধ্যেও, তোমরা কি অনুধাবন করবে না?",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E há-os em vós mesmos. Então, não os enxergais",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "а также в вас самих. Неужели вы не видите",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور خود تمہارے نفوس میں تو کیا تم دیکھتے نہیں؟",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_051_022",
+      "reference": {
+        "surah_number": 51,
+        "surah_name": "Adh-Dhaariyat",
+        "surah_name_ar": "سُوْرَةُ الذَّارِياتِ",
+        "surah_name_translation": "The Winnowing Winds",
+        "ayah_number": 22,
+        "juz": 26,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 5,
+      "translations": {
+        "ar": {
+          "text": "وَفِي ٱلسَّمَآءِ رِزۡقُكُمۡ وَمَا تُوعَدُونَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "In heaven is your sustenance and whatever you are promised",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "在天上，有你们的给养，也有应许你们的赏罚。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "और आकाश मे ही तुम्हारी रोज़ी है और वह चीज़ भी जिसका तुमसे वादा किया जा रहा है",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "En el cielo se encuentra [la fuente de] su sustento y lo que les fue prometido",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Et il y a dans le ciel votre subsistance et ce qui vous a été promis",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "আকাশে রয়েছে তোমাদের রিযিক ও প্রতিশ্রুত সবকিছু।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E, no céu, há vosso sustento e o que vos é prometido",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "На небе находится ваш удел и то, что вам обещано",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور تمہارا رزق اور جس چیز کا تم سے وعدہ کیا جاتا ہے آسمان میں ہے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_051_023",
+      "reference": {
+        "surah_number": 51,
+        "surah_name": "Adh-Dhaariyat",
+        "surah_name_ar": "سُوْرَةُ الذَّارِياتِ",
+        "surah_name_translation": "The Winnowing Winds",
+        "ayah_number": 23,
+        "juz": 26,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 9,
+      "translations": {
+        "ar": {
+          "text": "فَوَرَبِّ ٱلسَّمَآءِ وَٱلۡأَرۡضِ إِنَّهُۥ لَحَقࣱّ مِّثۡلَ مَآ أَنَّكُمۡ تَنطِقُونَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Then by the Lord of heaven and earth! ˹All˺ this is certainly as true as ˹the fact that˺ you can speak",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "以天地的主盟誓，这确是真实的，犹如你们能说话一样。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "अतः सौगन्ध है आकाश और धरती के रब की। निश्चय ही वह सत्य बात है ऐसे ही जैसे तुम बोलते हो",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "[Juro] por el Señor del cielo y de la Tierra que [lo que se les ha prometido] es tan cierto como que pueden hablar",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Par le Seigneur du ciel et de la terre! Ceci est tout aussi vrai que le fait que vous parliez",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "নভোমন্ডল ও ভূমন্ডলের পালনকর্তার কসম, তোমাদের কথাবার্তার মতই এটা সত্য।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Então, pelo Senhor do céu e da terra, por certo, isto é uma verdade tanto quanto o fato que vos falais",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Клянусь Господом неба и земли, что это является истиной, подобно тому, что вы обладаете даром речи",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "تو آسمانوں اور زمین کے مالک کی قسم! یہ (اسی طرح) قابل یقین ہے جس طرح تم بات کرتے ہو",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_051_024",
+      "reference": {
+        "surah_number": 51,
+        "surah_name": "Adh-Dhaariyat",
+        "surah_name_ar": "سُوْرَةُ الذَّارِياتِ",
+        "surah_name_translation": "The Winnowing Winds",
+        "ayah_number": 24,
+        "juz": 26,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 6,
+      "translations": {
+        "ar": {
+          "text": "هَلۡ أَتَىٰكَ حَدِيثُ ضَيۡفِ إِبۡرَٰهِيمَ ٱلۡمُكۡرَمِينَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Has the story of Abraham’s honoured guests reached you ˹O Prophet˺",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "关于易卜拉欣的受优待的宾客的故事，已来临你了吗？",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "क्या इबराईम के प्रतिष्ठित अतिथियों का वृतान्त तुम तक पहँचा",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Te relataremos la historia de los huéspedes honorables de Abraham",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "T'est-il parvenu le récit des visiteurs honorables d'Abraham",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "আপনার কাছে ইব্রাহীমের সম্মানিত মেহমানদের বৃত্তান্ত এসেছে কি?",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Chegou-te o relato dos honrados hóspedes de Abraão",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Дошел ли до тебя рассказ о почтенных гостях Ибрахима (Авраама)",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "بھلا تمہارے پاس ابراہیمؑ کے معزز مہمانوں کی خبر پہنچی ہے؟",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_051_025",
+      "reference": {
+        "surah_number": 51,
+        "surah_name": "Adh-Dhaariyat",
+        "surah_name_ar": "سُوْرَةُ الذَّارِياتِ",
+        "surah_name_translation": "The Winnowing Winds",
+        "ayah_number": 25,
+        "juz": 26,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 10,
+      "translations": {
+        "ar": {
+          "text": "إِذۡ دَخَلُواْ عَلَيۡهِ فَقَالُواْ سَلَٰمࣰ اۖ قَالَ سَلَٰمࣱ قَوۡمࣱ مُّنكَرُونَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "˹Remember˺ when they entered his presence and greeted ˹him with˺, “Peace!” He replied, “Peace ˹be upon you˺!” ˹Then he said to himself,˺ “˹These are˺ an unfamiliar people.”",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "当时，他们进去见他，他们说：祝你平安！他说：祝你们平安！他想这些是生客。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "जब वे उसके पास आए तो कहा, \"सलाम है तुमपर!\" उसने भी कहा, \"सलाम है आप लोगों पर भी!\" (और जी में कहा) \"ये तो अपरिचित लोग हैं।",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Cuando se presentaron ante él dijeron: \"¡Paz!\" Y [Abraham] respondió: \"¡Paz!, gente desconocida",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Quand ils entrèrent chez lui et dirent: «Paix!», il [leur] dit: «Paix, visiteurs inconnus»",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "যখন তারা তাঁর কাছে উপস্থিত হয়ে বললঃ সালাম, তখন সে বললঃ সালাম। এরা তো অপরিচিত লোক।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Quando entraram junto dele e disseram: \"Salam!\", Paz! Disse ele: \"Salam, povo desconhecido",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Вот они вошли к нему и сказали: «Мир тебе!». Он сказал: «И вам мир, люди незнакомые!»",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "جب وہ ان کے پاس آئے تو سلام کہا۔ انہوں نے بھی (جواب میں) سلام کہا (دیکھا تو) ایسے لوگ کہ نہ جان نہ پہچان",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_051_026",
+      "reference": {
+        "surah_number": 51,
+        "surah_name": "Adh-Dhaariyat",
+        "surah_name_ar": "سُوْرَةُ الذَّارِياتِ",
+        "surah_name_translation": "The Winnowing Winds",
+        "ayah_number": 26,
+        "juz": 26,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 6,
+      "translations": {
+        "ar": {
+          "text": "فَرَاغَ إِلَىٰٓ أَهۡلِهِۦ فَجَآءَ بِعِجۡلࣲ سَمِينࣲ‏",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Then he slipped off to his family and brought a fat ˹roasted˺ calf",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "于是他悄悄地走到他的家属那里，拿来一头肥嫩的牛犊，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "फिर वह चुपके से अपने घरवालों के पास गया और एक मोटा-ताज़ा बछड़ा (का भूना हुआ मांस) ले आया",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Y rápidamente se fue a preparar con su familia el mejor de sus terneros",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Puis il alla discrètement à sa famille et apporta un veau gras",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "অতঃপর সে গ্রহে গেল এবং একটি ঘৃতেপক্ক মোটা গোবৎস নিয়ে হাযির হল।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Então, foi ele ter, sorrateiramente, com sua família, e chegou com um bezerro gordo",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Он направился к своей семье с опаской и принес жирного теленка",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "تو اپنے گھر جا کر ایک (بھنا ہوا) موٹا بچھڑا لائے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_051_027",
+      "reference": {
+        "surah_number": 51,
+        "surah_name": "Adh-Dhaariyat",
+        "surah_name_ar": "سُوْرَةُ الذَّارِياتِ",
+        "surah_name_translation": "The Winnowing Winds",
+        "ayah_number": 27,
+        "juz": 26,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 5,
+      "translations": {
+        "ar": {
+          "text": "فَقَرَّبَهُۥٓ إِلَيۡهِمۡ قَالَ أَلَا تَأۡكُلُونَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "and placed it before them, asking, “Will you not eat?”",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "他把那牛犊送到客人面前，说：你们怎么不吃呢！",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "और उसे उनके सामने पेश किया। कहा, \"क्या आप खाते नहीं",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "y se los ofreció [asado]. Pero [al ver que no comían] les dijo: \"¿Acaso no van a comer",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Ensuite il l'approcha d'eux... «Ne mangez-vous pas?» dit-il",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "সে গোবৎসটি তাদের সামনে রেখে বললঃ তোমরা আহার করছ না কেন?",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E aproximou-o deles. Disse: \"Não comeis",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Он придвинул его к ним и сказал: «Не отведаете ли?»",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "(اور کھانے کے لئے) ان کے آگے رکھ دیا۔ کہنے لگے کہ آپ تناول کیوں نہیں کرتے؟",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_051_028",
+      "reference": {
+        "surah_number": 51,
+        "surah_name": "Adh-Dhaariyat",
+        "surah_name_ar": "سُوْرَةُ الذَّارِياتِ",
+        "surah_name_translation": "The Winnowing Winds",
+        "ayah_number": 28,
+        "juz": 26,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 9,
+      "translations": {
+        "ar": {
+          "text": "فَأَوۡجَسَ مِنۡهُمۡ خِيفَةࣰۖ قَالُواْ لَا تَخَفۡۖ وَبَشَّرُوهُ بِغُلَٰمٍ عَلِيمࣲ‏",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "˹They did not eat,˺ so he grew fearful of them. They reassured ˹him˺, “Do not be afraid,” and gave him good news of a knowledgeable son",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "他为他们而心怀恐惧。他们说：你不要恐惧。他们以一个有学识的儿童向他报喜。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "फिर उसने दिल में उनसे डर महसूस किया। उन्होंने कहा, \"डरिए नहीं।\" और उन्होंने उसे एक ज्ञानवान लड़के की मंगल-सूचना दी",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "y sintió temor de ellos. Pero le dijeron: \"No temas\", y le albriciaron que tendría un hijo dotado de sabiduría",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Il ressentit alors de la peur vis-à-vis d'eux. Ils dirent: «N'aie pas peur». Et ils lui annoncèrent [la naissance] d'un garçon plein de savoir",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "অতঃপর তাদের সম্পর্কে সে মনে মনে ভীত হলঃ তারা বললঃ ভীত হবেন না। তারা তাঁকে একট জ্ঞানীগুণী পুত্র সন্তানের সুসংবাদ দিল।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Então, teve medo deles. Disseram: \"Não te atemorizes!\" E alvissararam-lhe um filho sapiente",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Он испугался их в душе, и тогда они сказали: «Не бойся». Они обрадовали его вестью о знающем мальчике",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور دل میں ان سے خوف معلوم کیا۔ (انہوں نے) کہا کہ خوف نہ کیجیئے۔ اور ان کو ایک دانشمند لڑکے کی بشارت بھی سنائی",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_051_029",
+      "reference": {
+        "surah_number": 51,
+        "surah_name": "Adh-Dhaariyat",
+        "surah_name_ar": "سُوْرَةُ الذَّارِياتِ",
+        "surah_name_translation": "The Winnowing Winds",
+        "ayah_number": 29,
+        "juz": 26,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 9,
+      "translations": {
+        "ar": {
+          "text": "فَأَقۡبَلَتِ ٱمۡرَأَتُهُۥ فِي صَرَّةࣲ فَصَكَّتۡ وَجۡهَهَا وَقَالَتۡ عَجُوزٌ عَقِيمࣱ‏",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Then his wife came forward with a cry, clasping her forehead ˹in astonishment˺, exclaiming, “˹A baby from˺ a barren, old woman!”",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "他的女人便喊叫著走来，她打自己的脸，说：我是一个不能生育的老妇人。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "इसपर उसकी स्त्री (चकित होकर) आगे बढ़ी और उसने अपना मुँह पीट लिया और कहने लगी, \"एक बूढ़ी बाँझ (के यहाँ बच्चा पैदा होगा)",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Entonces, su mujer dio un grito de sorpresa y, abofeteándose el rostro, dijo: \"¡Pero si ya soy una anciana estéril",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Alors sa femme s'avança en criant, se frappa le visage et dit: «Une vieille femme stérile...»",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "অতঃপর তাঁর স্ত্রী চীৎকার করতে করতে সামনে এল এবং মুখ চাপড়িয়ে বললঃ আমি তো বৃদ্ধা, বন্ধ্যা।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E sua mulher dirigiu-se, aos gritos, e bateu na sua face e disse: \"Eu? Uma anciã estéril",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Его жена стала кричать и бить себя по лицу. Она сказала: «Старая бесплодная женщина!»",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "تو ابراہیمؑ کی بیوی چلاّتی آئی اور اپنا منہ پیٹ کر کہنے لگی کہ (اے ہے ایک تو) بڑھیا اور (دوسرے) بانجھ",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_051_030",
+      "reference": {
+        "surah_number": 51,
+        "surah_name": "Adh-Dhaariyat",
+        "surah_name_ar": "سُوْرَةُ الذَّارِياتِ",
+        "surah_name_translation": "The Winnowing Winds",
+        "ayah_number": 30,
+        "juz": 26,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 8,
+      "translations": {
+        "ar": {
+          "text": "قَالُواْ كَذَٰلِكِ قَالَ رَبُّكِۖ إِنَّهُۥ هُوَ ٱلۡحَكِيمُ ٱلۡعَلِيمُ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "They replied, “Such has your Lord decreed. He is truly the All-Wise, All-Knowing.”",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "他们说：你的主是这样说的，他确是至睿的，确是全知的。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "उन्होंने कहा, \"ऐसी ही तेरे रब ने कहा है। निश्चय ही वह बड़ा तत्वदर्शी, ज्ञानवान है।",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Le dijeron: \"Así lo ha decretado tu Señor, y Él es el Sabio, el que lo sabe todo",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Ils dirent: «Ainsi a dit ton Seigneur. C'est Lui vraiment le Sage, l'Omniscient»",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "তারা বললঃ তোমার পালনকর্তা এরূপই বলেছেন। নিশ্চয় তিনি প্রজ্ঞাময়, সর্বজ্ঞ।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Disseram: \"Assim, teu Senhor disse. Por certo, Ele é O Sábio, O Onisciente",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Они сказали: «Так сказал твой Господь. Он - Мудрый, Знающий»",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "(انہوں نے) کہا (ہاں) تمہارے پروردگار نے یوں ہی فرمایا ہے۔ وہ بےشک صاحبِ حکمت (اور) خبردار ہے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_051_031",
+      "reference": {
+        "surah_number": 51,
+        "surah_name": "Adh-Dhaariyat",
+        "surah_name_ar": "سُوْرَةُ الذَّارِياتِ",
+        "surah_name_translation": "The Winnowing Winds",
+        "ayah_number": 31,
+        "juz": 27,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 5,
+      "translations": {
+        "ar": {
+          "text": "۞قَالَ فَمَا خَطۡبُكُمۡ أَيُّهَا ٱلۡمُرۡسَلُونَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "˹Later,˺ Abraham asked, “What is your mission, O messengers?”",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "他说：诸位使者啊！你们有什么差事呢？",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "उसने कहा, \"ऐ (अल्लाह के भेजे हुए) दूतों, तुम्हारे सामने क्या मुहिम है",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Dijo [Abraham]: \"¡Oh, emisarios! ¿Cuál es su misión",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Alors [Abraham] dit: «Quelle est donc votre mission, ô envoyés?»",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "ইব্রাহীম বললঃ হে প্রেরিত ফেরেশতাগণ, তোমাদের উদ্দেশ্য কি?",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Disse ainda: \"Qual é vosso intuito, ó Mensageiros",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Он сказал: «Какова же ваша миссия, о посланцы?»",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "ابراہیمؑ نے کہا کہ فرشتو! تمہارا مدعا کیا ہے؟",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_051_032",
+      "reference": {
+        "surah_number": 51,
+        "surah_name": "Adh-Dhaariyat",
+        "surah_name_ar": "سُوْرَةُ الذَّارِياتِ",
+        "surah_name_translation": "The Winnowing Winds",
+        "ayah_number": 32,
+        "juz": 27,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 6,
+      "translations": {
+        "ar": {
+          "text": "قَالُوٓاْ إِنَّآ أُرۡسِلۡنَآ إِلَىٰ قَوۡمࣲ مُّجۡرِمِينَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "They replied, “We have actually been sent to a wicked people",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "他们说：我们确已奉派去惩治一群犯罪的民众，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "उन्होंने कहा, \"हम एक अपराधी क़ौम की ओर भेजे गए है",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Dijeron: \"Fuimos enviados a un pueblo de criminales",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Ils dirent: «Nous avons été envoyés vers des gens criminels",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "তারা বললঃ আমরা এক অপরাধী সম্প্রদায়ের প্রতি প্রেরিত হয়েছি,",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Disseram: \"Por certo, estamos sendo enviados a um povo criminoso",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Они сказали: «Мы посланы к грешным людям",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "انہوں نے کہا کہ ہم گنہگار لوگوں کی طرف بھیجے گئے ہیں",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_051_033",
+      "reference": {
+        "surah_number": 51,
+        "surah_name": "Adh-Dhaariyat",
+        "surah_name_ar": "سُوْرَةُ الذَّارِياتِ",
+        "surah_name_translation": "The Winnowing Winds",
+        "ayah_number": 33,
+        "juz": 27,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 5,
+      "translations": {
+        "ar": {
+          "text": "لِنُرۡسِلَ عَلَيۡهِمۡ حِجَارَةࣰ مِّن طِينࣲ‏",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "to send upon them stones of ˹baked˺ clay",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "我们将因毁灭他们而降下黏土变成的石头，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "ताकि उनके ऊपर मिट्टी के पत्थर (कंकड़) बरसाएँ",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "para castigarlos con piedras de arcilla cocida",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "pour lancer sur eux des pierres de glaise",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "যাতে তাদের উপর মাটির ঢিলা নিক্ষেপ করি।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Para lançar, sobre eles, pedras de barro",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "чтобы наслать на них каменья из глины",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "تاکہ ان پر کھنگر برسائیں",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_051_034",
+      "reference": {
+        "surah_number": 51,
+        "surah_name": "Adh-Dhaariyat",
+        "surah_name_ar": "سُوْرَةُ الذَّارِياتِ",
+        "surah_name_translation": "The Winnowing Winds",
+        "ayah_number": 34,
+        "juz": 27,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 4,
+      "translations": {
+        "ar": {
+          "text": "مُّسَوَّمَةً عِندَ رَبِّكَ لِلۡمُسۡرِفِينَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "marked by your Lord for the transgressors.”",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "那是从你的主那里为过分者而发出的。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "जो आपके रब के यहाँ सीमा का अतिक्रमण करनेवालों के लिए चिन्हित है।",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "marcadas por orden de tu Señor para los trasgresores",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "marquées auprès de ton Seigneur à l'intention des outranciers»",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "যা সীমাতিক্রমকারীদের জন্যে আপনার পালনকর্তার কাছে চিহিߦ#2468; আছে।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Marcadas junto de teu Senhor, para os entregues a excessos",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "помеченные у твоего Господа для тех, кто излишествовал»",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "جن پر حد سے بڑھ جانے والوں کے لئے تمہارے پروردگار کے ہاں سے نشان کردیئے گئے ہیں",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_051_035",
+      "reference": {
+        "surah_number": 51,
+        "surah_name": "Adh-Dhaariyat",
+        "surah_name_ar": "سُوْرَةُ الذَّارِياتِ",
+        "surah_name_translation": "The Winnowing Winds",
+        "ayah_number": 35,
+        "juz": 27,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 6,
+      "translations": {
+        "ar": {
+          "text": "فَأَخۡرَجۡنَا مَن كَانَ فِيهَا مِنَ ٱلۡمُؤۡمِنِينَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Then ˹before the torment˺ We evacuated the believers from the city",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "我把城里所有的信士都救了出来，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "फिर वहाँ जो ईमानवाले थे, उन्हें हमने निकाल लिया",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Pero debemos sacar de allí a los creyentes",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Nous en fîmes sortir alors ce qu'il y avait comme croyants",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "অতঃপর সেখানে যারা ঈমানদার ছিল, আমি তাদেরকে উদ্ধার করলাম।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Então, fizemos sair dela quem nela estava dos crentes",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Мы вывели оттуда всех уверовавших",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "تو وہاں جتنے مومن تھے ان کو ہم نے نکال لیا",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_051_036",
+      "reference": {
+        "surah_number": 51,
+        "surah_name": "Adh-Dhaariyat",
+        "surah_name_ar": "سُوْرَةُ الذَّارِياتِ",
+        "surah_name_translation": "The Winnowing Winds",
+        "ayah_number": 36,
+        "juz": 27,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 7,
+      "translations": {
+        "ar": {
+          "text": "فَمَا وَجَدۡنَا فِيهَا غَيۡرَ بَيۡتࣲ مِّنَ ٱلۡمُسۡلِمِينَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "But We only found one family that had submitted ˹to Allah˺",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "我在城里只发现一家归顺者。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "किन्तु हमने वहाँ एक घर के अतिरिक्त मुसलमानों (आज्ञाकारियों) का और कोई घर न पाया",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Solo había un hogar de creyentes",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "mais Nous n'y trouvâmes qu'une seule maison de gens soumis",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "এবং সেখানে একটি গৃহ ব্যতীত কোন মুসলমান আমি পাইনি।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E, nela, não encontramos senão uma casa de muçulmanos",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "но нашли там только один дом с мусульманами",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور اس میں ایک گھر کے سوا مسلمانوں کا کوئی گھر نہ پایا",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_051_037",
+      "reference": {
+        "surah_number": 51,
+        "surah_name": "Adh-Dhaariyat",
+        "surah_name_ar": "سُوْرَةُ الذَّارِياتِ",
+        "surah_name_translation": "The Winnowing Winds",
+        "ayah_number": 37,
+        "juz": 27,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 7,
+      "translations": {
+        "ar": {
+          "text": "وَتَرَكۡنَا فِيهَآ ءَايَةࣰ لِّلَّذِينَ يَخَافُونَ ٱلۡعَذَابَ ٱلۡأَلِيمَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "And We have left a sign there ˹as a lesson˺ for those who fear the painful punishment",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "我曾在城里留下一种迹象，以便畏惧痛苦的刑罚的人们用作鉴戒。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "इसके पश्चात हमने वहाँ उन लोगों के लिए एक निशानी छोड़ दी, जो दुखद यातना से डरते है",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Allí dejé un signo para que reflexionen quienes tienen temor del castigo doloroso",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Et Nous y laissâmes un signe pour ceux qui redoutent le douloureux châtiment",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "যারা যন্ত্রণাদায়ক শাস্তিকে ভয় করে, আমি তাদের জন্যে সেখানে একটি নিদর্শন রেখেছি।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E, nela, deixamos um sinal, para os que temem o doloroso castigo",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Мы оставили там знамение для тех, которые боятся мучительных страданий",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور جو لوگ عذاب الیم سے ڈرتے ہیں ان کے لئے وہاں نشانی چھوڑ دی",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_051_038",
+      "reference": {
+        "surah_number": 51,
+        "surah_name": "Adh-Dhaariyat",
+        "surah_name_ar": "سُوْرَةُ الذَّارِياتِ",
+        "surah_name_translation": "The Winnowing Winds",
+        "ayah_number": 38,
+        "juz": 27,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 8,
+      "translations": {
+        "ar": {
+          "text": "وَفِي مُوسَىٰٓ إِذۡ أَرۡسَلۡنَٰهُ إِلَىٰ فِرۡعَوۡنَ بِسُلۡطَٰنࣲ مُّبِينࣲ‏",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "And in ˹the story of˺ Moses ˹was another lesson,˺ when We sent him to Pharaoh with compelling proof",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "在穆萨的故事里也有一种迹象。当时，我曾派遣他带著一件明证去见法老。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "और मूसा के वृतान्त में भी (निशानी है) जब हमने फ़िरऔन के पास के स्पष्ट प्रमाण के साथ भेजा",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "También en la historia de Moisés. Porque lo envié ante el Faraón con una autoridad clara",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "[Il y a même un signe] en Moïse quand Nous l'envoyâmes, avec une preuve évidente, vers Pharaon",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "এবং নিদর্শন রয়েছে মূসার বৃত্তান্তে; যখন আমি তাকে সুস্পষ্ট প্রমাণসহ ফেরাউনের কাছে প্রেরণ করেছিলাম।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E, em Moisés, deixamos um sinal, quando o enviamos, com evidente comprovação, a Faraó",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Знамение было и в рассказе о Мусе (Моисее). Вот Мы отправили его к Фараону с явным доводом",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور موسیٰ (کے حال) میں (بھی نشانی ہے) جب ہم نے ان کو فرعون کی طرف کھلا ہوا معجزہ دے کر بھیجا",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_051_039",
+      "reference": {
+        "surah_number": 51,
+        "surah_name": "Adh-Dhaariyat",
+        "surah_name_ar": "سُوْرَةُ الذَّارِياتِ",
+        "surah_name_translation": "The Winnowing Winds",
+        "ayah_number": 39,
+        "juz": 27,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 6,
+      "translations": {
+        "ar": {
+          "text": "فَتَوَلَّىٰ بِرُكۡنِهِۦ وَقَالَ سَٰحِرٌ أَوۡ مَجۡنُونࣱ‏",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "but Pharaoh was carried away by his power, saying ˹of Moses˺, “A magician or a madman!”",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "但法老因有势力故背弃穆萨，他说：这是一个术士，或是一个疯人。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "किन्तु उसने अपनी शक्ति के कारण मुँह फेर लिया और कहा, \"जादूगर है या दीवाना।",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Pero él y sus partidarios lo rechazaron y le dijeron: \"Eres un hechicero o un loco",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Mais [celui-ci] se détourna confiant en sa puissance, et dit: «C'est un magicien ou un possédé!»",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "অতঃপর সে শক্তিবলে মুখ ফিরিয়ে নিল এবং বললঃ সে হয় যাদুকর, না হয় পাগল।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E, ele, com seu esteio, lhe voltou as costas e disse: \"É mágico ou louco",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Он отвернулся в сторону (или вместе со своим окружением) и сказал: «Колдун или одержимый!»",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "تو اس نے اپنی جماعت (کے گھمنڈ) پر منہ موڑ لیا اور کہنے لگا یہ تو جادوگر ہے یا دیوانہ",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_051_040",
+      "reference": {
+        "surah_number": 51,
+        "surah_name": "Adh-Dhaariyat",
+        "surah_name_ar": "سُوْرَةُ الذَّارِياتِ",
+        "surah_name_translation": "The Winnowing Winds",
+        "ayah_number": 40,
+        "juz": 27,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 7,
+      "translations": {
+        "ar": {
+          "text": "فَأَخَذۡنَٰهُ وَجُنُودَهُۥ فَنَبَذۡنَٰهُمۡ فِي ٱلۡيَمِّ وَهُوَ مُلِيمࣱ‏",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "So We seized him and his soldiers, casting them into the sea while he was blameworthy",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "所以我惩治他和他的军队，而将他们投入海中，他是受责备的。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "अन्ततः हमने उसे और उसकी सेनाओं को पकड़ लिया और उन्हें गहरे पानी में फेंक दिया, इस दशा में कि वह निन्दनीय था",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Entonces, lo castigué a él y a sus partidarios ahogándolos en el mar; él fue el culpable",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Nous le saisîmes ainsi que ses troupes, puis les jetâmes dans les flots, pour son comportement blâmable",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "অতঃপর আমি তাকে ও তার সেনাবাহিনীকে পাকড়াও করলাম এবং তাদেরকে সমুদ্রে নিক্ষেপ করলাম। সে ছিল অভিযুক্ত।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Então, apanhamo-lo, a ele e a seu exército, e deitamo-los fora, na onda, enquanto censurado",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Мы схватили его вместе с войском и бросили их в море, и он был достоин порицания",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "تو ہم نے اس کو اور اس کے لشکروں کو پکڑ لیا اور ان کو دریا میں پھینک دیا اور وہ کام ہی قابل ملامت کرتا تھا",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_051_041",
+      "reference": {
+        "surah_number": 51,
+        "surah_name": "Adh-Dhaariyat",
+        "surah_name_ar": "سُوْرَةُ الذَّارِياتِ",
+        "surah_name_translation": "The Winnowing Winds",
+        "ayah_number": 41,
+        "juz": 27,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 7,
+      "translations": {
+        "ar": {
+          "text": "وَفِي عَادٍ إِذۡ أَرۡسَلۡنَا عَلَيۡهِمُ ٱلرِّيحَ ٱلۡعَقِيمَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "And in ˹the story of˺ ’Âd ˹was another lesson,˺ when We sent against them the devastating wind",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "在阿德人的故事里，也有一种迹象。当时，我曾使无益的暴风去毁灭他们，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "और आद में भी (तुम्हारे लिए निशानी है) जबकि हमने उनपर अशुभ वायु चला दी",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Y también en el pueblo de ‘Ad. Envié contra ellos un viento devastador",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "De même pour les 'Aad, quand Nous envoyâmes contre eux le vent dévastateur",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "এবং নিদর্শন রয়েছে তাদের কাহিনীতে; যখন আমি তাদের উপর প্রেরণ করেছিলাম অশুভ বায়ু।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E, no povo de Ãd, deixamos um sinal, quando enviamos contra eles o vento estéril",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Знамение было и в рассказе об адитах. Вот Мы наслали на них недобрый ветер",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور عاد (کی قوم کے حال) میں بھی (نشانی ہے) جب ہم نے ان پر نامبارک ہوا چلائی",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_051_042",
+      "reference": {
+        "surah_number": 51,
+        "surah_name": "Adh-Dhaariyat",
+        "surah_name_ar": "سُوْرَةُ الذَّارِياتِ",
+        "surah_name_translation": "The Winnowing Winds",
+        "ayah_number": 42,
+        "juz": 27,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 9,
+      "translations": {
+        "ar": {
+          "text": "مَا تَذَرُ مِن شَيۡءٍ أَتَتۡ عَلَيۡهِ إِلَّا جَعَلَتۡهُ كَٱلرَّمِيمِ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "There was nothing it came upon that it did not reduce to ashes",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "凡经那暴风吹过的东西，无一不变成破碎的。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "वह जिस चीज़ पर से गुज़री उसे उसने जीर्ण-शीर्ण करके रख दिया",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "que todo lo que alcanzaba lo transformaba en polvo",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "n'épargnant rien sur son passage sans le réduire en poussière",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "এই বায়ু যার উপর দিয়ে প্রবাহিত হয়েছিলঃ তাকেই চুর্ণ-বিচুর্ণ করে দিয়েছিল।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Que não deixa cousa alguma, pela qual passe, sem fazer dela resquício",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Он обращал в подобие праха все, на что налетал",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "وہ جس چیز پر چلتی اس کو ریزہ ریزہ کئے بغیر نہ چھوڑتی",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_051_043",
+      "reference": {
+        "surah_number": 51,
+        "surah_name": "Adh-Dhaariyat",
+        "surah_name_ar": "سُوْرَةُ الذَّارِياتِ",
+        "surah_name_translation": "The Winnowing Winds",
+        "ayah_number": 43,
+        "juz": 27,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 8,
+      "translations": {
+        "ar": {
+          "text": "وَفِي ثَمُودَ إِذۡ قِيلَ لَهُمۡ تَمَتَّعُواْ حَتَّىٰ حِينࣲ‏",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "And in ˹the story of˺ Thamûd ˹was another lesson,˺ when they were told, “Enjoy yourselves ˹only˺ for a ˹short˺ while.”",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "在赛莫德人的故事里，也有一种迹象。当时，有人对他们说：你们暂时享受吧！",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "और समुद्र में भी (तुम्हारे लिए निशानी है) जबकि उनसे कहा गया, \"एक समय तक मज़े कर लो",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "También en el pueblo de Zamud. Se les dijo: \"Disfruten transitoriamente",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "De même pour les Thamûd, quand il leur fut dit: «Jouissez jusqu'à un certain temps!»",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "আরও নিদর্শন রয়েছে সামূদের ঘটনায়; যখন তাদেরকে বলা হয়েছিল, কিছুকাল মজা লুটে নাও।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E, no povo de Thamud, deixamos um sinal, quando lhes foi dito: \"Gozai, até certo tempo",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Знамение было и в рассказе о самудянах. Им было сказано: «Пользуйтесь благами до определенного времени»",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور (قوم) ثمود (کے حال) میں (نشانی ہے) جب ان سے کہا گیا کہ ایک وقت تک فائدہ اٹھالو",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_051_044",
+      "reference": {
+        "surah_number": 51,
+        "surah_name": "Adh-Dhaariyat",
+        "surah_name_ar": "سُوْرَةُ الذَّارِياتِ",
+        "surah_name_translation": "The Winnowing Winds",
+        "ayah_number": 44,
+        "juz": 27,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 8,
+      "translations": {
+        "ar": {
+          "text": "فَعَتَوۡاْ عَنۡ أَمۡرِ رَبِّهِمۡ فَأَخَذَتۡهُمُ ٱلصَّٰعِقَةُ وَهُمۡ يَنظُرُونَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Still they persisted in defying the commands of their Lord, so they were overtaken by a ˹mighty˺ blast while they were looking on",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "他们曾违抗他们主的命令，故疾雷毁灭了他们，同时，他们眼见刑罚降临，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "किन्तु उन्होंने अपने रब के आदेश की अवहेलना की; फिर कड़क ने उन्हें आ लिया और वे देखते रहे",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Pero cuando desobedecieron las órdenes de su Señor fueron fulminados por un rayo mientras lo veían venir",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Ils défièrent le commandement de leur Seigneur. La foudre les saisit alors qu'ils regardaient",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "অতঃপর তারা তাদের পালনকর্তার আদেশ অমান্য করল এবং তাদের প্রতি বজ্রঘাত হল এমতাবস্থায় যে, তারা তা দেখেছিল।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E transgrediram desmesuradamente, a ordem de seu Senhor; então, o raio apanhou-os, enquanto olhavam",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Они ослушались веления своего Господа, и их поразило губительное наказание, пока они наблюдали за этим",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "تو انہوں نے اپنے پروردگار کے حکم سے سرکشی کی۔ سو ان کو کڑک نے آ پکڑا اور وہ دیکھ رہے تھے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_051_045",
+      "reference": {
+        "surah_number": 51,
+        "surah_name": "Adh-Dhaariyat",
+        "surah_name_ar": "سُوْرَةُ الذَّارِياتِ",
+        "surah_name_translation": "The Winnowing Winds",
+        "ayah_number": 45,
+        "juz": 27,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 7,
+      "translations": {
+        "ar": {
+          "text": "فَمَا ٱسۡتَطَٰعُواْ مِن قِيَامࣲ وَمَا كَانُواْ مُنتَصِرِينَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Then they were not able to rise up, nor were they helped",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "他们未能站起，他们也未能自卫。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "फिर वे न खड़े ही हो सके और न अपना बचाव ही कर सके",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "y ni siquiera pudieron ponerse de pie ni defenderse",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Ils ne purent ni se mettre debout ni être secourus",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "অতঃপর তারা দাঁড়াতে সক্ষম হল না এবং কোন প্রতিকারও করতে পারল না।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E não puderam levantar-se, e não foram socorridos",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Они не смогли даже подняться, и никто не помог им",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "پھر وہ نہ تو اُٹھنے کی طاقت رکھتے تھے اور نہ مقابلہ ہی کرسکتے تھے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_051_046",
+      "reference": {
+        "surah_number": 51,
+        "surah_name": "Adh-Dhaariyat",
+        "surah_name_ar": "سُوْرَةُ الذَّارِياتِ",
+        "surah_name_translation": "The Winnowing Winds",
+        "ayah_number": 46,
+        "juz": 27,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 9,
+      "translations": {
+        "ar": {
+          "text": "وَقَوۡمَ نُوحࣲ مِّن قَبۡلُۖ إِنَّهُمۡ كَانُواْ قَوۡمࣰ ا فَٰسِقِينَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "And the people of Noah ˹had also been destroyed˺ earlier. They were truly a rebellious people",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "以前，我毁灭了努哈的宗族，他们确是悖逆的民众。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "और इससे पहले नूह की क़ौम को भी पकड़ा। निश्चय ही वे अवज्ञाकारी लोग थे",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "El pueblo de Noé [también fue castigado] porque era gente perversa",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "De même, pour le peuple de Noé auparavant. Ils étaient des gens pervers",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "আমি ইতিপূর্বে নূহের সম্প্রদায়কে ধ্বংস করেছি। নিশ্চিতই তারা ছিল পাপাচারী সম্প্রদায়।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E, antes, aniquiláramos o povo de Noé. Por certo, era um povo perverso",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Мы уничтожили народ Нуха (Ноя) еще раньше, ибо они были людьми нечестивыми",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور اس سے پہلے (ہم) نوح کی قوم کو (ہلاک کرچکے تھے) بےشک وہ نافرمان لوگ تھے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_051_047",
+      "reference": {
+        "surah_number": 51,
+        "surah_name": "Adh-Dhaariyat",
+        "surah_name_ar": "سُوْرَةُ الذَّارِياتِ",
+        "surah_name_translation": "The Winnowing Winds",
+        "ayah_number": 47,
+        "juz": 27,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 5,
+      "translations": {
+        "ar": {
+          "text": "وَٱلسَّمَآءَ بَنَيۡنَٰهَا بِأَيۡيْدࣲ وَإِنَّا لَمُوسِعُونَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "We built the universe with ˹great˺ might, and We are certainly expanding ˹it˺",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "天，我曾以权力建造它，我确是大能的；",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "आकाश को हमने अपने हाथ के बल से बनाया और हम बड़ी समाई रखनेवाले है",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Yo soy Quien construí el universo con [Mi] poder [creador]; y soy Yo quien lo expande continuamente",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Le ciel, Nous l'avons construit par Notre puissance: et Nous l'étendons [constamment] dans l'immensité",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "আমি স্বীয় ক্ষমতাবলে আকাশ নির্মাণ করেছি এবং আমি অবশ্যই ব্যাপক ক্ষমতাশালী।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E o céu, edificamo-lo com vigor e, por certo, somos Nós Que o estamos ampliando",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Мы воздвигли небо благодаря могуществу, и Мы его расширяем (или даруем пропитание; или обладаем мощью)",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور آسمانوں کو ہم ہی نے ہاتھوں سے بنایا اور ہم کو سب مقدور ہے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_051_048",
+      "reference": {
+        "surah_number": 51,
+        "surah_name": "Adh-Dhaariyat",
+        "surah_name_ar": "سُوْرَةُ الذَّارِياتِ",
+        "surah_name_translation": "The Winnowing Winds",
+        "ayah_number": 48,
+        "juz": 27,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 4,
+      "translations": {
+        "ar": {
+          "text": "وَٱلۡأَرۡضَ فَرَشۡنَٰهَا فَنِعۡمَ ٱلۡمَٰهِدُونَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "As for the earth, We spread it out. How superbly did We smooth it out",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "地，我曾铺张它。美哉铺张者！",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "और धरती को हमने बिछाया, तो हम क्या ही ख़ूब बिछानेवाले है",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Extendí la Tierra [haciéndola propicia para habitar], y con qué excelencia lo he hecho",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Et la terre, Nous l'avons étendue. Et de quelle excellente façon Nous l'avons nivelée",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "আমি ভূমিকে বিছিয়েছি। আমি কত সুন্দরভাবেই না বিছাতে সক্ষম।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E a terra, estendemo-la; então, que Excelente Aplainador somos Nós",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Мы разостлали землю, и как же прекрасно Мы расстилаем",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور زمین کو ہم ہی نے بچھایا تو (دیکھو) ہم کیا خوب بچھانے والے ہیں",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_051_049",
+      "reference": {
+        "surah_number": 51,
+        "surah_name": "Adh-Dhaariyat",
+        "surah_name_ar": "سُوْرَةُ الذَّارِياتِ",
+        "surah_name_translation": "The Winnowing Winds",
+        "ayah_number": 49,
+        "juz": 27,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 7,
+      "translations": {
+        "ar": {
+          "text": "وَمِن كُلِّ شَيۡءٍ خَلَقۡنَا زَوۡجَيۡنِ لَعَلَّكُمۡ تَذَكَّرُونَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "And We created pairs of all things so perhaps you would be mindful",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "我将每种物造成配偶，以便你们觉悟。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "और हमने हर चीज़ के जोड़े बनाए, ताकि तुम ध्यान दो",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Y todo lo he creado en parejas, para que reflexionen",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Et de toute chose Nous avons créé [deux éléments] de couple. Peut-être vous rappellerez-vous",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "আমি প্রত্যেক বস্তু জোড়ায় জোড়ায় সৃষ্টি করেছি, যাতে তোমরা হৃদয়ঙ্গম কর।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E, de cada cousa, criamos um casal, para meditardes",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Мы сотворили все сущее парами, - быть может, вы помяните назидание",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور ہر چیز کی ہم نے دو قسمیں بنائیں تاکہ تم نصیحت پکڑو",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_051_050",
+      "reference": {
+        "surah_number": 51,
+        "surah_name": "Adh-Dhaariyat",
+        "surah_name_ar": "سُوْرَةُ الذَّارِياتِ",
+        "surah_name_translation": "The Winnowing Winds",
+        "ayah_number": 50,
+        "juz": 27,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 8,
+      "translations": {
+        "ar": {
+          "text": "فَفِرُّوٓاْ إِلَى ٱللَّهِۖ إِنِّي لَكُم مِّنۡهُ نَذِيرࣱ مُّبِينࣱ‏",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "So ˹proclaim, O Prophet˺: “Flee to Allah! I am truly sent by Him with a clear warning to you",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "你说：你们应当逃归真主，我对于你们确是一个坦率的警告者。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "अतः अल्लाह की ओर दौड़ो। मैं उसकी ओर से तुम्हारे लिए एक प्रत्यक्ष सावधान करनेवाला हूँ",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "[Diles ¡oh, Mujámmad!:] \"Corran hacia Dios, [y sepan que] yo soy un amonestador que habla claro",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "«Fuyez donc vers Allah. Moi, je suis pour vous de Sa part, un avertisseur explicite",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "অতএব, আল্লাহর দিকে ধাবিত হও। আমি তাঁর তরফ থেকে তোমাদের জন্যে সুস্পষ্ট সতর্ককারী।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Dize-lhes, Muhammad: \"Então, refugiai-vos em Allah. Por certo, dEle, sou-vos evidente admoestador",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Скажи: «Бегите же к Аллаху. Воистину, я являюсь для вас предостерегающим и разъясняющим увещевателем от Него",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "تو تم لوگ خدا کی طرف بھاگ چلو میں اس کی طرف سے تم کو صریح رستہ بتانے والا ہوں",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_051_051",
+      "reference": {
+        "surah_number": 51,
+        "surah_name": "Adh-Dhaariyat",
+        "surah_name_ar": "سُوْرَةُ الذَّارِياتِ",
+        "surah_name_translation": "The Winnowing Winds",
+        "ayah_number": 51,
+        "juz": 27,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 11,
+      "translations": {
+        "ar": {
+          "text": "وَلَا تَجۡعَلُواْ مَعَ ٱللَّهِ إِلَٰهًا ءَاخَرَۖ إِنِّي لَكُم مِّنۡهُ نَذِيرࣱ مُّبِينࣱ‏",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "And do not set up another god with Allah. I am truly sent by Him with a clear warning to you.”",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "你们不要以别的神灵与真主同受崇拜，我对于你们确是一个坦率的警告者。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "और अल्लाह के साथ कोई दूसरा पूज्य-प्रभु न ठहराओ। मैं उसकी ओर से तुम्हारे लिए एक प्रत्यक्ष सावधान करनेवाला हूँ",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "No dediquen actos de adoración a otros que Dios, Yo soy para ustedes un amonestador que habla claro",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Ne placez pas avec Allah une autre divinité. Je suis pour vous de Sa part, un avertisseur explicite»",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "তোমরা আল্লাহর সাথে কোন উপাস্য সাব্যস্ত করো না। আমি তাঁর পক্ষ থেকে তোমাদের জন্য সুস্পষ্ট সতর্ককারী।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E não façais, junto de Allah, outro deus. Por certo, dEle, sou-vos evidente admoestador",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Не поклоняйтесь наряду с Аллахом другому божеству. Воистину, я являюсь для вас предостерегающим и разъясняющим увещевателем от Него»",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور خدا کے ساتھ کسی اَور کو معبود نہ بناؤ۔ میں اس کی طرف سے تم کو صریح رستہ بتانے والا ہوں",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_051_052",
+      "reference": {
+        "surah_number": 51,
+        "surah_name": "Adh-Dhaariyat",
+        "surah_name_ar": "سُوْرَةُ الذَّارِياتِ",
+        "surah_name_translation": "The Winnowing Winds",
+        "ayah_number": 52,
+        "juz": 27,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 13,
+      "translations": {
+        "ar": {
+          "text": "كَذَٰلِكَ مَآ أَتَى ٱلَّذِينَ مِن قَبۡلِهِم مِّن رَّسُولٍ إِلَّا قَالُواْ سَاحِرٌ أَوۡ مَجۡنُونٌ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Similarly, no messenger came to those before them without being told: “A magician or a madman!”",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "他们以前的各民族也象这样，每有一个使者来临他们，他们就说：他是一个术士，或是一个疯人。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "इसी तरह उन लोगों के पास भी, जो उनसे पहले गुज़र चुके है, जो भी रसूल आया तो उन्होंने बस यही कहा, \"जादूगर है या दीवाना",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "En la antigüedad, cada vez que llegaba un Mensajero lo acusaban de hechicero o loco",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Ainsi, aucun Messager n'est venu à leurs prédécesseurs sans qu'ils n'aient dit: «C'est un magicien ou un possédé!»",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "এমনিভাবে, তাদের পূর্ববর্তীদের কাছে যখনই কোন রসূল আগমন করেছে, তারা বলছেঃ যাদুকর, না হয় উম্মাদ।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Assim, não chegou aos que foram antes deles Mensageiro algum sem que dissessem: \"É mágico ou louco",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Таким же образом, какой бы посланник ни приходил к их предшественникам, они обязательно говорили: «Он - колдун или одержимый!»",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اسی طرح ان سے پہلے لوگوں کے پاس جو پیغمبر آتا وہ اس کو جادوگر یا دیوانہ کہتے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_051_053",
+      "reference": {
+        "surah_number": 51,
+        "surah_name": "Adh-Dhaariyat",
+        "surah_name_ar": "سُوْرَةُ الذَّارِياتِ",
+        "surah_name_translation": "The Winnowing Winds",
+        "ayah_number": 53,
+        "juz": 27,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 6,
+      "translations": {
+        "ar": {
+          "text": "أَتَوَاصَوۡاْ بِهِۦۚ بَلۡ هُمۡ قَوۡمࣱ طَاغُونَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Have they passed this ˹cliché˺ down to one another? In fact, they have ˹all˺ been a transgressing people",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "难道他们曾以此话互相嘱咐吗？不然，他们都是悖逆的民众。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "क्या उन्होंने एक-दूसरे को इसकी वसीयत कर रखी है? नहीं, बल्कि वे है ही सरकश लोग",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Pareciera que se hubieran transmitido esas palabras unos a otros. Pero en realidad son gente transgresora",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Est-ce qu'ils se sont transmis cette injonction? Ils sont plutôt des gens transgresseurs",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "তারা কি একে অপরকে এই উপদেশই দিয়ে গেছে? বস্তুতঃ ওরা দুষ্ট সম্প্রদায়।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Recomendaram-no um ao outro? Não. Mas eles são um povo rebelde",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Неужели они заповедали это друг другу? О нет! Они являются людьми, преступающими границы дозволенного",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "کیا یہ کہ ایک دوسرے کو اسی بات کی وصیت کرتے آئے ہیں بلکہ یہ شریر لوگ ہیں",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_051_054",
+      "reference": {
+        "surah_number": 51,
+        "surah_name": "Adh-Dhaariyat",
+        "surah_name_ar": "سُوْرَةُ الذَّارِياتِ",
+        "surah_name_translation": "The Winnowing Winds",
+        "ayah_number": 54,
+        "juz": 27,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 5,
+      "translations": {
+        "ar": {
+          "text": "فَتَوَلَّ عَنۡهُمۡ فَمَآ أَنتَ بِمَلُومࣲ‏",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "So ˹now˺ turn away from them ˹O Prophet˺, for you will not be blamed",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "你应当退避他们，你绝不是受责备的。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "अतः उनसे मुँह फेर लो अब तुमपर कोई मलामत नहीं",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Aléjate de ellos [¡oh, Mujámmad!], y sabe que no serás reprochado",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Détourne-toi d'eux, tu ne seras pas blâmé [à leur sujet]",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "অতএব, আপনি ওদের থেকে মুখ ফিরিয়ে নিন। এতে আপনি অপরাধী হবেন না।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Então, volta-lhes as costas e não serás censurado",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Отвратись же от них, и тебя не будут порицать",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "تو ان سے اعراض کرو۔ تم کو (ہماری) طرف سے ملامت نہ ہوگی",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_051_055",
+      "reference": {
+        "surah_number": 51,
+        "surah_name": "Adh-Dhaariyat",
+        "surah_name_ar": "سُوْرَةُ الذَّارِياتِ",
+        "surah_name_translation": "The Winnowing Winds",
+        "ayah_number": 55,
+        "juz": 27,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 5,
+      "translations": {
+        "ar": {
+          "text": "وَذَكِّرۡ فَإِنَّ ٱلذِّكۡرَىٰ تَنفَعُ ٱلۡمُؤۡمِنِينَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "But ˹continue to˺ remind. For certainly reminders benefit the believers",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "你应当教诲众人，因为教诲对于信士们确是有益的。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "और याद दिलाते रहो, क्योंकि याद दिलाना ईमानवालों को लाभ पहुँचाता है",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Y hazles recordar, porque el recuerdo beneficia a los creyentes",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Et rappelle; car le rappel profite aux croyants",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "এবং বোঝাতে থাকুন; কেননা, বোঝানো মুমিনদের উপকারে আসবে।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E adverte, pois a advertência beneficia os crentes",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "И напоминай, ибо напоминание приносит пользу верующим",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور نصیحت کرتے رہو کہ نصیحت مومنوں کو نفع دیتی ہے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_051_056",
+      "reference": {
+        "surah_number": 51,
+        "surah_name": "Adh-Dhaariyat",
+        "surah_name_ar": "سُوْرَةُ الذَّارِياتِ",
+        "surah_name_translation": "The Winnowing Winds",
+        "ayah_number": 56,
+        "juz": 27,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 6,
+      "translations": {
+        "ar": {
+          "text": "وَمَا خَلَقۡتُ ٱلۡجِنَّ وَٱلۡإِنسَ إِلَّا لِيَعۡبُدُونِ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "I did not create jinn and humans except to worship Me",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "我创造精灵和人类，只为要他们崇拜我。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "मैंने तो जिन्नों और मनुष्यों को केवल इसलिए पैदा किया है कि वे मेरी बन्दगी करे",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "No he creado a los yinnes y a los seres humanos sino para que Me adoren",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Je n'ai créé les djinns et les hommes que pour qu'ils M'adorent",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "আমার এবাদত করার জন্যই আমি মানব ও জিন জাতি সৃষ্টি করেছি।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E não criei os jinns e os humanos senão para Me adorarem",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Я сотворил джиннов и людей только для того, чтобы они поклонялись Мне",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور میں نے جنوں اور انسانوں کو اس لئے پیدا کیا ہے کہ میری عبادت کریں",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_051_057",
+      "reference": {
+        "surah_number": 51,
+        "surah_name": "Adh-Dhaariyat",
+        "surah_name_ar": "سُوْرَةُ الذَّارِياتِ",
+        "surah_name_translation": "The Winnowing Winds",
+        "ayah_number": 57,
+        "juz": 27,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 9,
+      "translations": {
+        "ar": {
+          "text": "مَآ أُرِيدُ مِنۡهُم مِّن رِّزۡقࣲ وَمَآ أُرِيدُ أَن يُطۡعِمُونِ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "I seek no provision from them, nor do I need them to feed Me",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "我不望他们的供给，我也不望他们的奉养。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "मैं उनसे कोई रोज़ी नहीं चाहता और न यह चाहता हूँ कि वे मुझे खिलाएँ",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "No pretendo de ellos ningún sustento ni quiero que Me alimenten",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Je ne cherche pas d'eux une subsistance; et Je ne veux pas qu'ils me nourrissent",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "আমি তাদের কাছে জীবিকা চাই না এবং এটাও চাই না যে, তারা আমাকে আহার্য যোগাবে।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Não desejo deles sustento algum, e não desejo que Me alimentem",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Я не хочу от них никакого удела и не хочу, чтобы они кормили Меня",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "میں ان سے طالب رزق نہیں اور نہ یہ چاہتا ہوں کہ مجھے (کھانا) کھلائیں",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_051_058",
+      "reference": {
+        "surah_number": 51,
+        "surah_name": "Adh-Dhaariyat",
+        "surah_name_ar": "سُوْرَةُ الذَّارِياتِ",
+        "surah_name_translation": "The Winnowing Winds",
+        "ayah_number": 58,
+        "juz": 27,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 7,
+      "translations": {
+        "ar": {
+          "text": "إِنَّ ٱللَّهَ هُوَ ٱلرَّزَّاقُ ذُو ٱلۡقُوَّةِ ٱلۡمَتِينُ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Indeed, Allah ˹alone˺ is the Supreme Provider—Lord of all Power, Ever Mighty",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "真主确是供给万物的，确是有权力的，确是坚定的。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "निश्चय ही अल्लाह ही है रोज़ी देनेवाला, शक्तिशाली, दृढ़",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "ya que Dios es el Sustentador, el Fuerte, el Firme",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "En vérité, c'est Allah qui est le Grand Pourvoyeur, Le Détenteur de la force, l'Inébranlable",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "আল্লাহ তা’আলাই তো জীবিকাদাতা শক্তির আধার, পরাক্রান্ত।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Por certo, Allah é O Sustentador, O Possuidor da força, O Fortíssimo",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Воистину, Аллах является Наделяющим уделом, Обладающим могуществом, Крепким",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "خدا ہی تو رزق دینے والا زور آور اور مضبوط ہے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_051_059",
+      "reference": {
+        "surah_number": 51,
+        "surah_name": "Adh-Dhaariyat",
+        "surah_name_ar": "سُوْرَةُ الذَّارِياتِ",
+        "surah_name_translation": "The Winnowing Winds",
+        "ayah_number": 59,
+        "juz": 27,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 10,
+      "translations": {
+        "ar": {
+          "text": "فَإِنَّ لِلَّذِينَ ظَلَمُواْ ذَنُوبࣰ ا مِّثۡلَ ذَنُوبِ أَصۡحَٰبِهِمۡ فَلَا يَسۡتَعۡجِلُونِ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "The wrongdoers will certainly have a share ˹of the torment˺ like that of their predecessors. So do not let them ask Me to hasten ˹it˺",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "不义的人们，和他们的朋友一样，必得一份刑罚，所以叫他们不要催促我。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "अतः जिन लोगों ने ज़ुल्म किया है उनके लिए एक नियत पैमाना है; जैसा उनके साथियों का नियत पैमाना था। अतः वे मुझसे जल्दी न मचाएँ",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Los injustos recibirán su castigo al igual que sus antepasados, así que no Me apresuren",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Ceux qui ont été injustes auront une part [de tourments] pareille à celle de leurs compagnons. Qu'ils ne soient pas trop pressés",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "অতএব, এই যালেমদের প্রাপ্য তাই, যা ওদের অতীত সহচরদের প্রাপ্য ছিল। কাজেই ওরা যেন আমার কাছে তা তাড়াতাড়ি না চায়।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E, por certo, há, para os que são injustos, porção de castigo igual à porção de seus companheiros das outras nações; então, que não Me apressem quanto ao castigo",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Воистину, тем, которые поступали несправедливо, уготована доля наказания, подобная доле их товарищей. Пусть же они не торопят Меня",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "کچھ شک نہیں کہ ان ظالموں کے لئے بھی (عذاب کی) نوبت مقرر ہے جس طرح ان کے ساتھیوں کی نوبت تھی تو ان کو مجھ سے (عذاب) جلدی نہیں طلب کرنا چاہیئے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_051_060",
+      "reference": {
+        "surah_number": 51,
+        "surah_name": "Adh-Dhaariyat",
+        "surah_name_ar": "سُوْرَةُ الذَّارِياتِ",
+        "surah_name_translation": "The Winnowing Winds",
+        "ayah_number": 60,
+        "juz": 27,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 7,
+      "translations": {
+        "ar": {
+          "text": "فَوَيۡلࣱ لِّلَّذِينَ كَفَرُواْ مِن يَوۡمِهِمُ ٱلَّذِي يُوعَدُونَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Woe then to the disbelievers when they face their Day which they are warned of",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "伤哉不信道的人们！当他们被警告的日子来临的时候。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "अतः इनकार करनेवालों के लिए बड़ी खराबी है, उनके उस दिन के कारण जिसकी उन्हें धमकी दी जा रही है",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "¡Cuán desdichados serán los que negaron la verdad el día que se les ha prometido",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Malheur donc à ceux qui ont mécru à cause du jour dont ils sont menacés",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "অতএব, কাফেরদের জন্যে দুর্ভোগ সেই দিনের, যেদিনের প্রতিশ্রুতি ওদেরকে দেয়া হয়েছে।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E ai dos que renegam a Fé, por seu dia, que lhes é prometido",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Горе неверующим от того дня их, который им обещан",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "جس دن کا ان کافروں سے وعدہ کیا جاتا ہے اس سے ان کے لئے خرابی ہے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    }
+  ]
+}

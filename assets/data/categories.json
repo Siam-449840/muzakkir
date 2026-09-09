@@ -1,0 +1,193 @@
+[
+  {
+    "id": "patience",
+    "name_en": "Patience & Perseverance",
+    "name_ar": "الصبر والاستقامة",
+    "icon": "hourglass-outline",
+    "description": "Remaining steadfast through trials, hardships, and worship.",
+    "keywords": [
+      "patience",
+      "patient",
+      "persevere",
+      "endurance",
+      "sabr",
+      "steadfast",
+      "trial",
+      "hardship",
+      "bear"
+    ]
+  },
+  {
+    "id": "gratitude",
+    "name_en": "Gratitude & Contentment",
+    "name_ar": "الشكر والرضا",
+    "icon": "heart-outline",
+    "description": "Recognizing Allah's countless blessings and giving heartfelt thanks.",
+    "keywords": [
+      "gratitude",
+      "thank",
+      "grateful",
+      "blessing",
+      "praise",
+      "alhamdulillah",
+      "contentment",
+      "shukr",
+      "bounties",
+      "favours"
+    ]
+  },
+  {
+    "id": "tawbah",
+    "name_en": "Repentance & Forgiveness",
+    "name_ar": "التوبة والمغفرة",
+    "icon": "refresh-outline",
+    "description": "Turning back to Allah with humility and seeking His boundless forgiveness.",
+    "keywords": [
+      "forgive",
+      "forgiveness",
+      "repent",
+      "repentance",
+      "tawbah",
+      "sin",
+      "merciful",
+      "pardon",
+      "astaghfirullah",
+      "turn unto"
+    ]
+  },
+  {
+    "id": "prayer",
+    "name_en": "Prayer & Remembrance",
+    "name_ar": "الصلاة والذكر",
+    "icon": "sparkles-outline",
+    "description": "Connecting with the Creator through daily Salah and constant Dhikr.",
+    "keywords": [
+      "prayer",
+      "salah",
+      "remembrance",
+      "dhikr",
+      "prostration",
+      "sujood",
+      "mosque",
+      "worship",
+      "glorify",
+      "supplicate",
+      "dua"
+    ]
+  },
+  {
+    "id": "mercy",
+    "name_en": "Mercy & Compassion",
+    "name_ar": "الرحمة والشفقة",
+    "icon": "water-outline",
+    "description": "Reflecting divine mercy and showing kindness toward all creation.",
+    "keywords": [
+      "mercy",
+      "compassion",
+      "kindness",
+      "gentle",
+      "rahmah",
+      "care",
+      "affection",
+      "softness",
+      "compassionate"
+    ]
+  },
+  {
+    "id": "hope",
+    "name_en": "Hope & Trust in Allah",
+    "name_ar": "الرجاء والتوكل",
+    "icon": "sunny-outline",
+    "description": "Placing complete trust (Tawakkul) in Allah's wisdom and eternal promises.",
+    "keywords": [
+      "hope",
+      "trust",
+      "tawakkul",
+      "faith",
+      "rely",
+      "promise",
+      "ease",
+      "relief",
+      "light",
+      "despair not"
+    ]
+  },
+  {
+    "id": "character",
+    "name_en": "Character & Good Conduct",
+    "name_ar": "الأخلاق والبر",
+    "icon": "ribbon-outline",
+    "description": "Embodying honesty, humility, generosity, and prophetic manners.",
+    "keywords": [
+      "character",
+      "manners",
+      "conduct",
+      "akhlaq",
+      "honest",
+      "truth",
+      "humility",
+      "generosity",
+      "smile",
+      "righteous",
+      "good"
+    ]
+  },
+  {
+    "id": "family",
+    "name_en": "Family & Kinship",
+    "name_ar": "الأسرة وصلة الرحم",
+    "icon": "people-outline",
+    "description": "Honoring parents, nurturing children, and upholding ties of kinship.",
+    "keywords": [
+      "family",
+      "parents",
+      "mother",
+      "father",
+      "children",
+      "kinship",
+      "relatives",
+      "spouse",
+      "brother",
+      "sister",
+      "kindred"
+    ]
+  },
+  {
+    "id": "knowledge",
+    "name_en": "Knowledge & Reflection",
+    "name_ar": "العلم والتدبر",
+    "icon": "book-outline",
+    "description": "Seeking beneficial knowledge and contemplating the signs of the Divine.",
+    "keywords": [
+      "knowledge",
+      "ilm",
+      "wisdom",
+      "hikmah",
+      "reflect",
+      "contemplate",
+      "ponder",
+      "understand",
+      "learn",
+      "signs"
+    ]
+  },
+  {
+    "id": "hereafter",
+    "name_en": "The Hereafter & Ultimate Purpose",
+    "name_ar": "الآخرة والمصير",
+    "icon": "infinite-outline",
+    "description": "Remembering the reality of the Akhirah and preparing for the eternal meeting.",
+    "keywords": [
+      "hereafter",
+      "akhirah",
+      "paradise",
+      "jannah",
+      "eternal",
+      "resurrection",
+      "meeting",
+      "soul",
+      "day of judgement",
+      "gardens"
+    ]
+  }
+]

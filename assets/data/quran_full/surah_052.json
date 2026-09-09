@@ -1,0 +1,2749 @@
+{
+  "surah": 52,
+  "verses": [
+    {
+      "content_id": "quran_052_001",
+      "reference": {
+        "surah_number": 52,
+        "surah_name": "At-Tur",
+        "surah_name_ar": "سُوْرَةُ الطُّوْرِ",
+        "surah_name_translation": "The Mount",
+        "ayah_number": 1,
+        "juz": 27,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 1,
+      "translations": {
+        "ar": {
+          "text": "وَٱلطُّورِ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "By Mount Ṭûr",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "以山岳盟誓，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "गवाह है तूर पर्वत",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "[Juro] por el monte",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Par At-Tûr",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "কসম তূরপর্বতের,",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Pelo Monte de At-Tur",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Клянусь горой",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "(کوہ) طور کی قسم",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_052_002",
+      "reference": {
+        "surah_number": 52,
+        "surah_name": "At-Tur",
+        "surah_name_ar": "سُوْرَةُ الطُّوْرِ",
+        "surah_name_translation": "The Mount",
+        "ayah_number": 2,
+        "juz": 27,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 2,
+      "translations": {
+        "ar": {
+          "text": "وَكِتَٰبࣲ مَّسۡطُورࣲ‏",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "And by the Book written",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "以天经之书",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "और लिखी हुई किताब",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "por el Libro escrito",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Et par un Livre écrit",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "এবং লিখিত কিতাবের,",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E por um Livro escrito",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Клянусь Писанием, начертанным",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور کتاب کی جو لکھی ہوئی ہے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_052_003",
+      "reference": {
+        "surah_number": 52,
+        "surah_name": "At-Tur",
+        "surah_name_ar": "سُوْرَةُ الطُّوْرِ",
+        "surah_name_translation": "The Mount",
+        "ayah_number": 3,
+        "juz": 27,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 3,
+      "translations": {
+        "ar": {
+          "text": "فِي رَقࣲّ مَّنشُورࣲ‏",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "on open pages ˹for all to read˺",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "写于展开的皮纸者盟誓，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "फैले हुए झिल्ली के पन्ने में",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "en un pergamino desplegado",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "sur un parchemin déployé",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "প্রশস্ত পত্রে,",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Em pergaminho desenrolado",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "на развернутой нежной коже",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "کشادہ اوراق میں",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_052_004",
+      "reference": {
+        "surah_number": 52,
+        "surah_name": "At-Tur",
+        "surah_name_ar": "سُوْرَةُ الطُّوْرِ",
+        "surah_name_translation": "The Mount",
+        "ayah_number": 4,
+        "juz": 27,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 2,
+      "translations": {
+        "ar": {
+          "text": "وَٱلۡبَيۡتِ ٱلۡمَعۡمُورِ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "And by the ˹Sacred˺ House frequently visited",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "以众人朝觐的天房盟誓，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "और बसा हुआ घर",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "por la casa frecuentada",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Et par la Maison peuplée",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "কসম বায়তুল-মামুর তথা আবাদ গৃহের,",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E pela casa povoada",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Клянусь домом наполненным (храмом на седьмом небе)",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور آباد گھر کی",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_052_005",
+      "reference": {
+        "surah_number": 52,
+        "surah_name": "At-Tur",
+        "surah_name_ar": "سُوْرَةُ الطُّوْرِ",
+        "surah_name_translation": "The Mount",
+        "ayah_number": 5,
+        "juz": 27,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 2,
+      "translations": {
+        "ar": {
+          "text": "وَٱلسَّقۡفِ ٱلۡمَرۡفُوعِ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "And by the canopy raised ˹high˺",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "以被升起的苍穹盟誓，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "और ऊँची छत",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "por la bóveda elevada",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Et par la Voûte élevée",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "এবং সমুন্নত ছাদের,",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E pelo teto elevado",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Клянусь кровлей возведенной",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور اونچی چھت کی",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_052_006",
+      "reference": {
+        "surah_number": 52,
+        "surah_name": "At-Tur",
+        "surah_name_ar": "سُوْرَةُ الطُّوْرِ",
+        "surah_name_translation": "The Mount",
+        "ayah_number": 6,
+        "juz": 27,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 2,
+      "translations": {
+        "ar": {
+          "text": "وَٱلۡبَحۡرِ ٱلۡمَسۡجُورِ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "And by the seas set on fire",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "以汪洋的大海盟誓，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "और उफनता समुद्र",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "por el mar que se desborda",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Et par la Mer portée à ébullition! (au Jour dernier)",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "এবং উত্তাল সমুদ্রের,",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E pelo mar abrasado",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Клянусь морем разожженным (или переполненным; или опустевшим; или перемешанным; или удерживаемым)",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور ابلتے ہوئے دریا کی",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_052_007",
+      "reference": {
+        "surah_number": 52,
+        "surah_name": "At-Tur",
+        "surah_name_ar": "سُوْرَةُ الطُّوْرِ",
+        "surah_name_translation": "The Mount",
+        "ayah_number": 7,
+        "juz": 27,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 4,
+      "translations": {
+        "ar": {
+          "text": "إِنَّ عَذَابَ رَبِّكَ لَوَٰقِعࣱ‏",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Indeed, the punishment of your Lord will come to pass—",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "你的主的刑罚，确是要实现的，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "कि तेरे रब की यातना अवश्य घटित होकर रहेगी",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "que el castigo de tu Señor es inevitable",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Le châtiment de ton Seigneur aura lieu inévitablement",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "আপনার পালনকর্তার শাস্তি অবশ্যম্ভাবী,",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Por certo, o castigo de teu Senhor sobrevirá",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Наказание твоего Господа непременно наступит",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "کہ تمہارے پروردگار کا عذاب واقع ہو کر رہے گا",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_052_008",
+      "reference": {
+        "surah_number": 52,
+        "surah_name": "At-Tur",
+        "surah_name_ar": "سُوْرَةُ الطُّوْرِ",
+        "surah_name_translation": "The Mount",
+        "ayah_number": 8,
+        "juz": 27,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 4,
+      "translations": {
+        "ar": {
+          "text": "مَّا لَهُۥ مِن دَافِعࣲ‏",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "none will avert it—",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "是任何人不能抵抗的。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "जिसे टालनेवाला कोई नहीं",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "y no hay quién lo pueda impedir",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Nul ne pourra le repousser",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "তা কেউ প্রতিরোধ করতে পারবে না।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Ninguém poderá detê-lo",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "и ничто не отвратит его",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "(اور) اس کو کوئی روک نہیں سکے گا",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_052_009",
+      "reference": {
+        "surah_number": 52,
+        "surah_name": "At-Tur",
+        "surah_name_ar": "سُوْرَةُ الطُّوْرِ",
+        "surah_name_translation": "The Mount",
+        "ayah_number": 9,
+        "juz": 27,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 5,
+      "translations": {
+        "ar": {
+          "text": "يَوۡمَ تَمُورُ ٱلسَّمَآءُ مَوۡرࣰ ا",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "on the Day the heavens will be shaken violently",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "在天体震动，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "जिस दिल आकाश बुरी तरह डगमगाएगा",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "El día que el cielo se agite intensamente",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Le jour où le ciel sera agité d'un tourbillonnement",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "সেদিন আকাশ প্রকম্পিত হবে প্রবলভাবে।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Um dia, quando o céu se agitar energicamente",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "В тот день небо содрогнется от колебаний",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "جس دن آسمان لرزنے لگا کپکپا کر",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_052_010",
+      "reference": {
+        "surah_number": 52,
+        "surah_name": "At-Tur",
+        "surah_name_ar": "سُوْرَةُ الطُّوْرِ",
+        "surah_name_translation": "The Mount",
+        "ayah_number": 10,
+        "juz": 27,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 4,
+      "translations": {
+        "ar": {
+          "text": "وَتَسِيرُ ٱلۡجِبَالُ سَيۡرࣰ ا",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "and the mountains will be blown away entirely",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "山岳逝去之日，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "और पहाड़ चलते-फिरते होंगे",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "y las montañas se muevan",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "et les montagnes se mettront en marche",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "এবং পর্বতমালা হবে চলমান,",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E as montanhas caminharem realmente",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "а горы придут в движение",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور پہاڑ اُڑنے لگے اون ہو کر",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_052_011",
+      "reference": {
+        "surah_number": 52,
+        "surah_name": "At-Tur",
+        "surah_name_ar": "سُوْرَةُ الطُّوْرِ",
+        "surah_name_translation": "The Mount",
+        "ayah_number": 11,
+        "juz": 27,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 3,
+      "translations": {
+        "ar": {
+          "text": "فَوَيۡلࣱ يَوۡمَئِذࣲ لِّلۡمُكَذِّبِينَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Then woe on that Day to the deniers—",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "在那日，伤哉否认真理的人们，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "तो तबाही है उस दिन, झुठलानेवालों के लिए",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "¡Cuán desdichados serán ese día los que rechazaron la verdad",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Ce jour-là, malheur à ceux qui traitent (les signes d'Allah) de mensonges",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "সেদিন মিথ্যারোপকারীদের দুর্ভোগ হবে,",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Então, nesse dia, ai dos desmentidores",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Горе в тот день тем, кто считает истину ложью",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اس دن جھٹلانے والوں کے لئے خرابی ہے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_052_012",
+      "reference": {
+        "surah_number": 52,
+        "surah_name": "At-Tur",
+        "surah_name_ar": "سُوْرَةُ الطُّوْرِ",
+        "surah_name_translation": "The Mount",
+        "ayah_number": 12,
+        "juz": 27,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 5,
+      "translations": {
+        "ar": {
+          "text": "ٱلَّذِينَ هُمۡ فِي خَوۡضࣲ يَلۡعَبُونَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "those who amuse themselves with falsehood",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "即以妄言消遣的人们！",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "जो बात बनाने में लगे हुए खेल रहे है",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "aquellos que en su ignorancia se burlaban",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "ceux qui s'ébattent dans des discours frivoles",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "যারা ক্রীড়াচ্ছলে মিছেমিছি কথা বানায়।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Que estão em confabulações, divertindo-se",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "кто забавляется, предаваясь празднословию",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "جو خوض (باطل) میں پڑے کھیل رہے ہیں",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_052_013",
+      "reference": {
+        "surah_number": 52,
+        "surah_name": "At-Tur",
+        "surah_name_ar": "سُوْرَةُ الطُّوْرِ",
+        "surah_name_translation": "The Mount",
+        "ayah_number": 13,
+        "juz": 27,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 6,
+      "translations": {
+        "ar": {
+          "text": "يَوۡمَ يُدَعُّونَ إِلَىٰ نَارِ جَهَنَّمَ دَعًّا",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "˹It is˺ the Day they will be fiercely shoved into the Fire of Hell",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "他们将被投入火狱。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "जिस दिन वे धक्के दे-देकर जहन्नम की ओर ढकेले जाएँगे",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "El día que sean empujados al fuego del Infierno",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "le jour où ils seront brutalement poussés au feu de l'Enfer",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "সেদিন তোমাদেরকে জাহান্নামের অগ্নির দিকে ধাক্কা মেরে মেরে নিয়ে যাওয়া হবে।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Um dia, serão arremessados no Fogo da Geena, vigorosamente",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "В тот день они будут нещадно ввергнуты в огонь Геенны",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "جس دن ان کو آتش جہنم کی طرف دھکیل دھکیل کر لے جائیں گے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_052_014",
+      "reference": {
+        "surah_number": 52,
+        "surah_name": "At-Tur",
+        "surah_name_ar": "سُوْرَةُ الطُّوْرِ",
+        "surah_name_translation": "The Mount",
+        "ayah_number": 14,
+        "juz": 27,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 6,
+      "translations": {
+        "ar": {
+          "text": "هَٰذِهِ ٱلنَّارُ ٱلَّتِي كُنتُم بِهَا تُكَذِّبُونَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "˹They will be told,˺ “This is the Fire which you used to deny",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "这就是你们生前所否认的火刑。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "(कहा जाएगा), \"यही है वह आग जिसे तुम झुठलाते थे",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "[se les dirá:] \"Este es el Fuego que desmentían",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Voilà le feu que vous traitiez de mensonge",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "এবং বলা হবেঃ এই সেই অগ্নি, যাকে তোমরা মিথ্যা বলতে,",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Este é o Fogo que desmentíeis",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Это - тот самый Огонь, который вы считали ложью",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "یہی وہ جہنم ہے جس کو تم جھوٹ سمجھتے تھے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_052_015",
+      "reference": {
+        "surah_number": 52,
+        "surah_name": "At-Tur",
+        "surah_name_ar": "سُوْرَةُ الطُّوْرِ",
+        "surah_name_translation": "The Mount",
+        "ayah_number": 15,
+        "juz": 27,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 6,
+      "translations": {
+        "ar": {
+          "text": "أَفَسِحۡرٌ هَٰذَآ أَمۡ أَنتُمۡ لَا تُبۡصِرُونَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Is this magic, or do you not see",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "这是魔术呢？还是你们看不见呢？",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "अब भला (बताओ) यह कोई जादू है या तुम्हे सुझाई नहीं देता",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "¿Acaso les parece esto una hechicería, o es que no ven",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Est-ce que cela est de la magie? Ou bien ne voyez-vous pas clair",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "এটা কি জাদু, না তোমরা চোখে দেখছ না?",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Então, isto é magia, ou vós nada enxergais",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Неужели это колдовство? Или же вы не видите",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "تو کیا یہ جادو ہے یا تم کو نظر ہی نہیں آتا",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_052_016",
+      "reference": {
+        "surah_number": 52,
+        "surah_name": "At-Tur",
+        "surah_name_ar": "سُوْرَةُ الطُّوْرِ",
+        "surah_name_translation": "The Mount",
+        "ayah_number": 16,
+        "juz": 27,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 12,
+      "translations": {
+        "ar": {
+          "text": "ٱصۡلَوۡهَا فَٱصۡبِرُوٓاْ أَوۡ لَا تَصۡبِرُواْ سَوَآءٌ عَلَيۡكُمۡۖ إِنَّمَا تُجۡزَوۡنَ مَا كُنتُمۡ تَعۡمَلُونَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Burn in it! It is the same whether you endure ˹it˺ patiently or not. You are only rewarded for what you used to do.”",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "你们进火狱去吧！你们忍受其中的刑罚与否，随你们的方便，那对于你们是一样的。你们只受自己行为的报酬。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "जाओ, झुलसो उसमें! अब धैर्य से काम लो या धैर्य से काम न लो; तुम्हारे लिए बराबर है। तुम वही बदला पा रहे हो, जो तुम करते रहे थे।",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Entren en él, lo soporten o no, será igual. Solo se los castiga por lo que obraron",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Brûlez dedans! Supportez ou ne supportez pas, ce sera égal pour vous: vous n'êtes rétribués que selon ce que vous faisiez",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "এতে প্রবেশ কর অতঃপর তোমরা সবর কর অথবা না কর, উভয়ই তোমাদের জন্য সমান। তোমরা যা করতে তোমাদেরকে কেবল তারই প্রতিফল দেয়া হবে।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Sofrei sua queima! Pacientai ou não pacienteis, ser-vos-á igual. Apenas, sois recompensados pelo que fazíeis",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Горите в нем! Вам все равно, будете вы терпеть или не станете проявлять терпения. Вам воздается только за то, что вы совершали",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اس میں داخل ہوجاؤ اور صبر کرو یا نہ کرو تمہارے لئے یکساں ہے۔ جو کام تم کیا کرتے تھے (یہ) انہی کا تم کو بدلہ مل رہا ہے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_052_017",
+      "reference": {
+        "surah_number": 52,
+        "surah_name": "At-Tur",
+        "surah_name_ar": "سُوْرَةُ الطُّوْرِ",
+        "surah_name_translation": "The Mount",
+        "ayah_number": 17,
+        "juz": 27,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 5,
+      "translations": {
+        "ar": {
+          "text": "إِنَّ ٱلۡمُتَّقِينَ فِي جَنَّٰتࣲ وَنَعِيمࣲ‏",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Indeed, the righteous will be in Gardens and bliss",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "敬畏的人们，必定在乐园和恩泽中，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "निश्चय ही डर रखनेवाले बाग़ों और नेमतों में होंगे",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "En cambio, los piadosos morarán en jardines y deleite",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Les pieux seront dans des Jardins et dans des délices",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "নিশ্চয় খোদাভীরুরা থাকবে জান্নাতে ও নেয়ামতে।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Por certo, os piedosos estarão em jardins e delícia",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Воистину, богобоязненные пребудут в Райских садах и блаженстве",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "جو پرہیزگار ہیں وہ باغوں اور نعتموں میں ہوں گے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_052_018",
+      "reference": {
+        "surah_number": 52,
+        "surah_name": "At-Tur",
+        "surah_name_ar": "سُوْرَةُ الطُّوْرِ",
+        "surah_name_translation": "The Mount",
+        "ayah_number": 18,
+        "juz": 27,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 8,
+      "translations": {
+        "ar": {
+          "text": "فَٰكِهِينَ بِمَآ ءَاتَىٰهُمۡ رَبُّهُمۡ وَوَقَىٰهُمۡ رَبُّهُمۡ عَذَابَ ٱلۡجَحِيمِ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "enjoying whatever their Lord will have granted them. And their Lord will have protected them from the torment of the Hellfire",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "他们因主的赏赐而快乐，他们的主使他们得免于烈火的刑罚。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "जो कुछ उनके रब ने उन्हें दिया होगा, उसका आनन्द ले रहे होंगे और इस बात से कि उनके रब ने उन्हें भड़कती हुई आग से बचा लिया",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Disfrutando lo que su Señor les conceda. Su Señor los salvó del castigo del Infierno",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "se réjouissant de ce que leur Seigneur leur aura donné, et leur Seigneur les aura protégés du châtiment de la Fournaise",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "তারা উপভোগ করবে যা তাদের পালনকর্তা তাদের দেবেন এবং তিনি জাহান্নামের আযাব থেকে তাদেরকে রক্ষা করবেন।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Hílares, pelo que seu Senhor lhes conceder - e seu Senhor guardá-los-á do castigo do Inferno",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Они будут радоваться тому, чем их одарит их Господь. Господь их уберег их от мучений в Аду",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "جو کچھ ان کے پروردگار نے ان کو بخشا اس (کی وجہ) سے خوشحال۔ اور ان کے پروردگار نے ان کو دوزخ کے عذاب سے بچا لیا",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_052_019",
+      "reference": {
+        "surah_number": 52,
+        "surah_name": "At-Tur",
+        "surah_name_ar": "سُوْرَةُ الطُّوْرِ",
+        "surah_name_translation": "The Mount",
+        "ayah_number": 19,
+        "juz": 27,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 6,
+      "translations": {
+        "ar": {
+          "text": "كُلُواْ وَٱشۡرَبُواْ هَنِيٓـَٔۢا بِمَا كُنتُمۡ تَعۡمَلُونَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "˹They will be told,˺ “Eat and drink happily for what you used to do.”",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "你们因自己的行为而愉快地吃喝吧！",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "मज़े से खाओ और पियो उन कर्मों के बदले में जो तुम करते रहे हो।",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Coman y beban para satisfacerse, como recompensa por sus obras",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "«En récompense de ce que vous faisiez, mangez et buvez en toute sérénité",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "তাদেরকে বলা হবেঃ তোমরা যা করতে তার প্রতিফলস্বরূপ তোমরা তৃপ্ত হয়ে পানাহার কর।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Dir-se-lhes-á: \"Comei e bebei com deleite, pelo que fazíeis",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Ешьте и пейте во здравие за то, что вы совершали",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اپنے اعمال کے صلے میں مزے سے کھاؤ اور پیو",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_052_020",
+      "reference": {
+        "surah_number": 52,
+        "surah_name": "At-Tur",
+        "surah_name_ar": "سُوْرَةُ الطُّوْرِ",
+        "surah_name_translation": "The Mount",
+        "ayah_number": 20,
+        "juz": 27,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 7,
+      "translations": {
+        "ar": {
+          "text": "مُتَّكِـِٔينَ عَلَىٰ سُرُرࣲ مَّصۡفُوفَةࣲۖ وَزَوَّجۡنَٰهُم بِحُورٍ عِينࣲ‏",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "They will be reclining on thrones, ˹neatly˺ lined up ˹facing each other˺. And We will pair them to maidens with gorgeous eyes",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "他们靠在分列成行的床上，我将以白皙的、美目的女子做他们的伴侣。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "पंक्तिबद्ध तख़्तो पर तकिया लगाए हुए होंगे और हम बड़ी आँखोंवाली हूरों (परम रूपवती स्त्रियों) से उनका विवाह कर देंगे",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Estarán recostados sobre sofás distribuidos en líneas, y los desposaremos con huríes de grandes ojos",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "accoudés sur des lits bien rangés», et Nous leur ferons épouser des houris aux grands yeux noirs",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "তারা শ্রেণীবদ্ধ সিংহাসনে হেলান দিয়ে বসবে। আমি তাদেরকে আয়তলোচনা হুরদের সাথে বিবাহবন্ধনে আবদ্ধ করে দেব।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Reclinados sobre leitos alinhados. E fá-los-emos casados com húris de belos grandes olhos",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Они будут, прислонившись, возлежать на ложах, выстроенных в ряд, и Мы сочетаем их с черноокими, большеглазыми гуриями",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "تختوں پر جو برابر برابر بچھے ہوئے ہیں تکیہ لگائے ہوئے اور بڑی بڑی آنکھوں والی حوروں سے ہم ان کا عقد کر دیں گے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_052_021",
+      "reference": {
+        "surah_number": 52,
+        "surah_name": "At-Tur",
+        "surah_name_ar": "سُوْرَةُ الطُّوْرِ",
+        "surah_name_translation": "The Mount",
+        "ayah_number": 21,
+        "juz": 27,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 19,
+      "translations": {
+        "ar": {
+          "text": "وَٱلَّذِينَ ءَامَنُواْ وَٱتَّبَعَتۡهُمۡ ذُرِّيَّتُهُم بِإِيمَٰنٍ أَلۡحَقۡنَا بِهِمۡ ذُرِّيَّتَهُمۡ وَمَآ أَلَتۡنَٰهُم مِّنۡ عَمَلِهِم مِّن شَيۡءࣲۚ كُلُّ ٱمۡرِيِٕۭ بِمَا كَسَبَ رَهِينࣱ‏",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "As for those who believe and whose descendants follow them in faith, We will elevate their descendants to their rank, never discounting anything ˹of the reward˺ of their deeds. Every person will reap only what they sowed",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "自己信道，子孙也跟著信道者，我将使他们的子孙与他们同级，我不减少他们的善功一丝毫。每人应对自己的行为负责。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "जो लोग ईमान लाए और उनकी सन्तान ने भी ईमान के साथ उसका अनुसरण किया, उनकी सन्तान को भी हम उनसे मिला देंगे, और उनके कर्म में से कुछ भी कम करके उन्हें नहीं देंगे। हर व्यक्ति अपनी कमाई के बदले में बन्धक है",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Los creyentes y sus descendientes que los hayan seguido en la fe serán reunidos, sin que se pierda ninguna de sus obras. Toda persona es responsable de sus propias acciones",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Ceux qui auront cru et que leurs descendants auront suivis dans la foi, Nous ferons que leurs descendants les rejoignent. Et Nous ne diminuerons en rien le mérite de leurs œuvres, chacun étant tenu responsable de ce qu'il aura acquis",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "যারা ঈমানদার এবং যাদের সন্তানরা ঈমানে তাদের অনুগামী, আমি তাদেরকে তাদের পিতৃপুরুষদের সাথে মিলিত করে দেব এবং তাদের আমল বিন্দুমাত্রও হ্রাস করব না। প্রত্যেক ব্যক্তি নিজ কৃত কর্মের জন্য দায়ী।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E aos que crêem - e que sua descendência os segue, com Fé - ajuntar-lhes-emos sua descendência, e nada lhes diminuiremos de suas obras. Cada qual será penhor do que houver logrado",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Мы воссоединим верующих с их потомками, которые последовали за ними в вере, и нисколько не умалим их деяний. Каждый человек является заложником того, что он приобрел",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور جو لوگ ایمان لائے اور ان کی اولاد بھی (راہ) ایمان میں ان کے پیچھے چلی۔ ہم ان کی اولاد کو بھی ان (کے درجے) تک پہنچا دیں گے اور ان کے اعمال میں سے کچھ کم نہ کریں گے۔ ہر شخص اپنے اعمال میں پھنسا ہوا ہے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_052_022",
+      "reference": {
+        "surah_number": 52,
+        "surah_name": "At-Tur",
+        "surah_name_ar": "سُوْرَةُ الطُّوْرِ",
+        "surah_name_translation": "The Mount",
+        "ayah_number": 22,
+        "juz": 27,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 5,
+      "translations": {
+        "ar": {
+          "text": "وَأَمۡدَدۡنَٰهُم بِفَٰكِهَةࣲ وَلَحۡمࣲ مِّمَّا يَشۡتَهُونَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "And We will ˹continually˺ provide them with whatever fruit or meat they desire",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "我将以他们所嗜好的水果和肉食供给他们，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "और हम उन्हें मेवे और मांस, जिसकी वे इच्छा करेंगे दिए चले जाएँगे",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Los agraciaremos con tanta fruta y carne como la que deseen",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Nous les pourvoirons abondamment des fruits et des viandes qu'ils désireront",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "আমি তাদেরকে দেব ফল-মূল এবং মাংস যা তারা চাইবে।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E prover-lhes-emos frutas e carnes, do que apetecerem",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Мы наделим их фруктами и мясом таким, какое они пожелают",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور جس طرح کے میوے اور گوشت کو ان کا جی چاہے گا ہم ان کو عطا کریں گے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_052_023",
+      "reference": {
+        "surah_number": 52,
+        "surah_name": "At-Tur",
+        "surah_name_ar": "سُوْرَةُ الطُّوْرِ",
+        "surah_name_translation": "The Mount",
+        "ayah_number": 23,
+        "juz": 27,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 9,
+      "translations": {
+        "ar": {
+          "text": "يَتَنَٰزَعُونَ فِيهَا كَأۡسࣰ ا لَّا لَغۡوࣱ فِيهَا وَلَا تَأۡثِيمࣱ‏",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "They will pass around to each other a drink ˹of pure wine,˺ which leads to no idle talk or sinfulness",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "他们在乐园中互递（酒）杯，他们不因而出恶言，也不因而犯罪恶。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "वे वहाँ आपस में प्याले हाथोंहाथ ले रहे होंगे, जिसमें न कोई बेहूदगी होगी और न गुनाह पर उभारनेवाली कोई बात",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Se pasarán unos a otros una copa que no incitará a frivolidades ni pecados",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Là, ils se passeront les uns les autres une coupe qui ne provoquera ni vanité ni incrimination",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "সেখানে তারা একে অপরকে পানপাত্র দেবে; যাতে অসার বকাবকি নেই এবং পাপকর্মও নেই।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Neles, mutuarão taças, em que não há frivolidade nem ato pecaminoso",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Они будут передавать друг другу чашу с вином, которое не принесет ни празднословия, ни греха",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "وہاں وہ ایک دوسرے سے جام شراب جھپٹ لیا کریں گے جس (کے پینے) سے نہ ہذیان سرائی ہوگی نہ کوئی گناہ کی بات",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_052_024",
+      "reference": {
+        "surah_number": 52,
+        "surah_name": "At-Tur",
+        "surah_name_ar": "سُوْرَةُ الطُّوْرِ",
+        "surah_name_translation": "The Mount",
+        "ayah_number": 24,
+        "juz": 27,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 7,
+      "translations": {
+        "ar": {
+          "text": "۞وَيَطُوفُ عَلَيۡهِمۡ غِلۡمَانࣱ لَّهُمۡ كَأَنَّهُمۡ لُؤۡلُؤࣱ مَّكۡنُونࣱ‏",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "And they will be waited on by their youthful servants like spotless pearls",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "他们的僮仆轮流著服侍他们，那些僮仆，好象藏在蚌壳里的珍珠一样。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "और उनकी सेवा में सुरक्षित मोतियों के सदृश किशोर दौड़ते फिरते होंगे, जो ख़ास उन्हीं (की सेवा) के लिए होंगे",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Serán rodeados por sirvientes, bellos como perlas guardadas",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Et parmi eux circuleront des garçons à leur service, pareils à des perles bien conservées",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "সুরক্ষিত মোতিসদৃশ কিশোররা তাদের সেবায় ঘুরাফেরা করবে।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E circularão, entre eles, para servi-los, mancebos belos como pérolas resguardadas",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Их будут обходить их юные слуги, подобные сокрытому жемчугу",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور نوجوان خدمت گار (جو ایسے ہوں گے) جیسے چھپائے ہوئے موتی ان کے آس پاس پھریں گے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_052_025",
+      "reference": {
+        "surah_number": 52,
+        "surah_name": "At-Tur",
+        "surah_name_ar": "سُوْرَةُ الطُّوْرِ",
+        "surah_name_translation": "The Mount",
+        "ayah_number": 25,
+        "juz": 27,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 5,
+      "translations": {
+        "ar": {
+          "text": "وَأَقۡبَلَ بَعۡضُهُمۡ عَلَىٰ بَعۡضࣲ يَتَسَآءَلُونَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "They will turn to one another inquisitively",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "于是他们大家走向前来互相谈论。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "उनमें से कुछ व्यक्ति कुछ व्यक्तियों की ओर हाल पूछते हुए रुख़ करेंगे",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Y [los bienaventurados] se preguntarán unos a otros",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Et ils se tourneront les uns vers les autres s'interrogeant",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "তারা একে অপরের দিকে মুখ করে জিজ্ঞাসাবাদ করবে।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E dirigir-se-ão, uns aos outros interrogando-se",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Они будут расспрашивать друг друга",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور ایک دوسرے کی طرف رخ کرکے آپس میں گفتگو کریں گے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_052_026",
+      "reference": {
+        "surah_number": 52,
+        "surah_name": "At-Tur",
+        "surah_name_ar": "سُوْرَةُ الطُّوْرِ",
+        "surah_name_translation": "The Mount",
+        "ayah_number": 26,
+        "juz": 27,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 7,
+      "translations": {
+        "ar": {
+          "text": "قَالُوٓاْ إِنَّا كُنَّا قَبۡلُ فِيٓ أَهۡلِنَا مُشۡفِقِينَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "They will say, “Before ˹this reward˺ we used to be in awe ˹of Allah˺ in the midst of our people",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "他们将说：以前我们为自己的家属确是战战兢兢的，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "कहेंगे, \"निश्चय ही हम पहले अपने घरवालों में डरते रहे है",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Dirán: \"Cuando estábamos viviendo junto a nuestra familia, teníamos temor",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Ils diront: «Nous vivions au milieu des nôtres dans la crainte [d'Allah]",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "তারা বলবেঃ আমরা ইতিপূর্বে নিজেদের বাসগৃহে ভীত-কম্পিত ছিলাম।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Dirão: \"Por certo, antes, em nossas famílias, estávamos atemorizados do Castigo",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Они скажут: «Прежде, находясь в кругу своих семей, мы трепетали от страха",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "کہیں گے کہ اس سے پہلے ہم اپنے گھر میں (خدا سے) ڈرتے رہتے تھے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_052_027",
+      "reference": {
+        "surah_number": 52,
+        "surah_name": "At-Tur",
+        "surah_name_ar": "سُوْرَةُ الطُّوْرِ",
+        "surah_name_translation": "The Mount",
+        "ayah_number": 27,
+        "juz": 27,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 6,
+      "translations": {
+        "ar": {
+          "text": "فَمَنَّ ٱللَّهُ عَلَيۡنَا وَوَقَىٰنَا عَذَابَ ٱلسَّمُومِ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "So Allah has graced us and protected us from the torment of ˹Hell’s˺ scorching heat",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "但真主已施恩于我们，并使我们得免于毒风的刑罚。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "अन्ततः अल्लाह ने हमपर एहसास किया और हमें गर्म विषैली वायु की यातना से बचा लिया",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "pero Dios nos agració y nos preservó del tormento del Fuego",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Puis Allah nous a favorisés et protégés du châtiment du Samûm",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "অতঃপর আল্লাহ আমাদের প্রতি অনুগ্রহ করেছেন এবং আমাদেরকে আগুনের শাস্তি থেকে রক্ষা করেছেন।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Depois, Allah fez-nos mercê e guardou-nos do castigo do Samum",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Аллах же оказал нам милость и уберег нас от мучений знойного ветра (или мучений в Аду)",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "تو خدا نے ہم پر احسان فرمایا اور ہمیں لو کے عذاب سے بچا لیا",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_052_028",
+      "reference": {
+        "surah_number": 52,
+        "surah_name": "At-Tur",
+        "surah_name_ar": "سُوْرَةُ الطُّوْرِ",
+        "surah_name_translation": "The Mount",
+        "ayah_number": 28,
+        "juz": 27,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 9,
+      "translations": {
+        "ar": {
+          "text": "إِنَّا كُنَّا مِن قَبۡلُ نَدۡعُوهُۖ إِنَّهُۥ هُوَ ٱلۡبَرُّ ٱلرَّحِيمُ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Indeed, we used to call upon Him ˹alone˺ before. He is truly the Most Kind, Most Merciful.”",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "以前我们的确常常祈祷他，他确是仁爱的，确是至慈的。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "इससे पहले हम उसे पुकारते रहे है। निश्चय ही वह सदव्यवहार करनेवाला, अत्यन्त दयावान है।",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "A Él le suplicábamos, pues Él es el Bondadoso, el Misericordioso",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Antérieurement, nous L'invoquions. C'est Lui certes, le Charitable, le Très Miséricordieux»",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "আমরা পূর্বেও আল্লাহকে ডাকতাম। তিনি সৌজন্যশীল, পরম দয়ালু।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Por certo, antes, nós O invocávamos. Por certo, Ele é O Blandicioso, O Misericordiador",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Мы взывали к Нему прежде. Воистину, Он - Добродетельный, Милосердный»",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اس سے پہلے ہم اس سے دعائیں کیا کرتے تھے۔ بےشک وہ احسان کرنے والا مہربان ہے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_052_029",
+      "reference": {
+        "surah_number": 52,
+        "surah_name": "At-Tur",
+        "surah_name_ar": "سُوْرَةُ الطُّوْرِ",
+        "surah_name_translation": "The Mount",
+        "ayah_number": 29,
+        "juz": 27,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 8,
+      "translations": {
+        "ar": {
+          "text": "فَذَكِّرۡ فَمَآ أَنتَ بِنِعۡمَتِ رَبِّكَ بِكَاهِنࣲ وَلَا مَجۡنُونٍ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "So ˹continue to˺ remind ˹all, O Prophet˺. For you, by the grace of your Lord, are not a fortune-teller or a madman",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "你应当教诲众人，因为借你的主的恩典，你不是一个占卜者，也不是一个疯人。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "अतः तुम याद दिलाते रहो। अपने रब की अनुकम्पा से न तुम काहिन (ढोंगी भविष्यवक्ता) हो और न दीवाना",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Llama al Mensaje [¡oh, Mujámmad!], tú no eres, por la gracia de tu Señor, un adivino ni un loco",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Rappelle donc et par la grâce de ton Seigneur tu n'es ni un devin ni un possédé",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "অতএব, আপনি উপদেশ দান করুন। আপনার পালনকর্তার কৃপায় আপনি অতীন্দ্রিয়বাদী নন এবং উম্মাদও নন।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Então, Muhammad, adverte e, pela graça de teu Senhor, tu não és adivinho nem louco",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Напоминай же! По милости своего Господа ты не являешься ни прорицателем, ни одержимым",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "تو (اے پیغمبر) تم نصیحت کرتے رہو تم اپنے پروردگار کے فضل سے نہ تو کاہن ہو اور نہ دیوانے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_052_030",
+      "reference": {
+        "surah_number": 52,
+        "surah_name": "At-Tur",
+        "surah_name_ar": "سُوْرَةُ الطُّوْرِ",
+        "surah_name_translation": "The Mount",
+        "ayah_number": 30,
+        "juz": 27,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 7,
+      "translations": {
+        "ar": {
+          "text": "أَمۡ يَقُولُونَ شَاعِرࣱ نَّتَرَبَّصُ بِهِۦ رَيۡبَ ٱلۡمَنُونِ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Or do they say, “˹He is˺ a poet, for whom we ˹eagerly˺ await an ill-fate!”",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "不然，他们说：他是一个诗人，我们等待他遭逢厄运。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "या वे कहते है, \"वह कवि है जिसके लिए हम काल-चक्र की प्रतीक्षा कर रहे है",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "O te acusan diciendo: \"Es un poeta, esperemos a que le llegue la muerte",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Ou bien ils disent: «C'est un poète! Attendons pour lui le coup de la mort»",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "তারা কি বলতে চায়ঃ সে একজন কবি আমরা তার মৃত্যু-দুর্ঘটনার প্রতীক্ষা করছি।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Ou dizem eles: \"É um poeta, de quem aguardamos a surpresa da morte",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Или же они говорят: «Он - поэт! Давайте же подождем, пока время не разберется с ним»",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "کیا کافر کہتے ہیں کہ یہ شاعر ہے (اور) ہم اس کے حق میں زمانے کے حوادث کا انتظار کر رہے ہیں",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_052_031",
+      "reference": {
+        "surah_number": 52,
+        "surah_name": "At-Tur",
+        "surah_name_ar": "سُوْرَةُ الطُّوْرِ",
+        "surah_name_translation": "The Mount",
+        "ayah_number": 31,
+        "juz": 27,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 6,
+      "translations": {
+        "ar": {
+          "text": "قُلۡ تَرَبَّصُواْ فَإِنِّي مَعَكُم مِّنَ ٱلۡمُتَرَبِّصِينَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Say, “Keep waiting! I too am waiting with you.”",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "你说：你们等待吧！我确是与你们一同等待的。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "कह दो, \"प्रतीक्षा करो! मैं भी तुम्हारे साथ प्रतीक्षा करता हूँ।",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Diles: \"Sigan esperando, que yo esperaré junto a ustedes",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Dis: «Attendez! Je suis avec vous parmi ceux qui attendent»",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "বলুনঃ তোমরা প্রতীক্ষা কর, আমিও তোমাদের সাথে প্রতীক্ষারত আছি।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Dize: \"Aguardai-a! Por certo, sou dos aguardadores, convosco",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Скажи: «Ждите, и я подожду вместе с вами»",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "کہہ دو کہ انتظار کئے جاؤ میں بھی تمہارے ساتھ انتظار کرتا ہوں",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_052_032",
+      "reference": {
+        "surah_number": 52,
+        "surah_name": "At-Tur",
+        "surah_name_ar": "سُوْرَةُ الطُّوْرِ",
+        "surah_name_translation": "The Mount",
+        "ayah_number": 32,
+        "juz": 27,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 8,
+      "translations": {
+        "ar": {
+          "text": "أَمۡ تَأۡمُرُهُمۡ أَحۡلَٰمُهُم بِهَٰذَآۚ أَمۡ هُمۡ قَوۡمࣱ طَاغُونَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Or do their ˹intelligent˺ minds prompt them to this ˹paradox˺? Or are they ˹just˺ a transgressing people",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "难道他们的理智命令他们说这句话吗？不然，他们是放荡的民众。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "या उनकी बुद्धियाँ यही आदेश दे रही है, या वे ही है सरकश लोग",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "¿Son sus mentes las que los llevan a decir esto o son gente que transgrede los límites",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Est-ce leur raison qui leur commande cela? Ou sont-ils des gens outranciers",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "তাদের বুদ্ধি কি এ বিষয়ে তাদেরকে আদেশ করে, না তারা সীমালংঘনকারী সম্প্রদায়?",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Será que suas mentes lhes ordenam isso? Ou são um povo transgressor",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Неужели умы повелевают им такое? Или же они являются людьми преступными",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "کیا ان کی عقلیں ان کو یہی سکھاتی ہیں۔ بلکہ یہ لوگ ہیں ہی شریر",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_052_033",
+      "reference": {
+        "surah_number": 52,
+        "surah_name": "At-Tur",
+        "surah_name_ar": "سُوْرَةُ الطُّوْرِ",
+        "surah_name_translation": "The Mount",
+        "ayah_number": 33,
+        "juz": 27,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 6,
+      "translations": {
+        "ar": {
+          "text": "أَمۡ يَقُولُونَ تَقَوَّلَهُۥۚ بَل لَّا يُؤۡمِنُونَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Or do they say, “He made this ˹Quran˺ up!”? In fact, they have no faith",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "难道他们说他曾捏造他吗？不然，其实是他们不归信。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "या वे कहते है, \"उसने उस (क़ुरआन) को स्वयं ही कह लिया है?\" नहीं, बल्कि वे ईमान नहीं लाते",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "También dicen: \"Él lo ha inventado\". Pero la verdad es que no creen",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Ou bien ils disent: «Il l'a inventé lui-même?» Non... mais ils ne croient pas",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "না তারা বলেঃ এই কোরআন সে নিজে রচনা করেছে? বরং তারা অবিশ্বাসী।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Ou dizem: \"Ele o inventou?\" Não. Mas eles não crêem",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Или же они говорят: «Он выдумал его!». О нет! Просто они не веруют",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "کیا (کفار) کہتے ہیں کہ ان پیغمبر نے قرآن از خود بنا لیا ہے بات یہ ہے کہ یہ (خدا پر) ایمان نہیں رکھتے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_052_034",
+      "reference": {
+        "surah_number": 52,
+        "surah_name": "At-Tur",
+        "surah_name_ar": "سُوْرَةُ الطُّوْرِ",
+        "surah_name_translation": "The Mount",
+        "ayah_number": 34,
+        "juz": 27,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 6,
+      "translations": {
+        "ar": {
+          "text": "فَلۡيَأۡتُواْ بِحَدِيثࣲ مِّثۡلِهِۦٓ إِن كَانُواْ صَٰدِقِينَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Let them then produce something like it, if what they say is true",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "叫他们作出象这样的文辞来，如果他们是说实话的！",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "अच्छा यदि वे सच्चे है तो उन्हें उस जैसी वाणी ले आनी चाहिए",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "¡Que presenten ellos un libro semejante, si es verdad lo que dicen",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Eh bien, qu'ils produisent un récit pareil à lui (le Coran), s'ils sont véridiques",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "যদি তারা সত্যবাদী হয়ে থাকে, তবেএর অনুরূপ কোন রচনা উপস্থিত করুক।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Então, que façam vir uma mensagem igual a ele se são verídicos",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Пусть приведут подобное ему (Корану) повествование, если они говорят правду",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اگر یہ سچے ہیں تو ایسا کلام بنا تو لائیں",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_052_035",
+      "reference": {
+        "surah_number": 52,
+        "surah_name": "At-Tur",
+        "surah_name_ar": "سُوْرَةُ الطُّوْرِ",
+        "surah_name_translation": "The Mount",
+        "ayah_number": 35,
+        "juz": 27,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 8,
+      "translations": {
+        "ar": {
+          "text": "أَمۡ خُلِقُواْ مِنۡ غَيۡرِ شَيۡءٍ أَمۡ هُمُ ٱلۡخَٰلِقُونَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Or were they created by nothing, or are they ˹their own˺ creators",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "是他们从无到有被创造出来呢？还是他们自己就是创造者呢？",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "या वे बिना किसी चीज़ के पैदा हो गए? या वे स्वयं ही अपने स्रष्टाँ है",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "¿Acaso surgieron de la nada o son ellos sus propios creadores",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Ont-ils été créé à partir de rien ou sont-ils eux les créateurs",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "তারা কি আপনা-আপনিই সৃজিত হয়ে গেছে, না তারা নিজেরাই স্রষ্টা?",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Ou foram eles criados do nada, ou são eles os criadores",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Неужели они были сотворены сами по себе (или просто так)? Или же они сами являются творцами",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "کیا یہ کسی کے پیدا کئے بغیر ہی پیدا ہوگئے ہیں۔ یا یہ خود (اپنے تئیں) پیدا کرنے والے ہیں",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_052_036",
+      "reference": {
+        "surah_number": 52,
+        "surah_name": "At-Tur",
+        "surah_name_ar": "سُوْرَةُ الطُّوْرِ",
+        "surah_name_translation": "The Mount",
+        "ayah_number": 36,
+        "juz": 27,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 7,
+      "translations": {
+        "ar": {
+          "text": "أَمۡ خَلَقُواْ ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضَۚ بَل لَّا يُوقِنُونَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Or did they create the heavens and the earth? In fact, they have no firm belief ˹in Allah˺",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "难道他们曾创造天地吗？不然，是他们不确信真主。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "या उन्होंने आकाशों और धरती को पैदा किया",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "¿O crearon los cielos y la Tierra? No tienen certeza de nada",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Ou ont-ils créé les cieux et la terre? Mais ils n'ont plutôt aucune conviction",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "না তারা নভোমন্ডল ও ভূমন্ডল সৃষ্টি করেছে? বরং তারা বিশ্বাস করে না।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Ou criaram os céus e a terra? Não. Mas não se convencem disso",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Или же это они сотворили небеса и землю? О нет! Просто они лишены убежденности",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "یا انہوں نے آسمانوں اور زمین کو پیدا کیا ہے؟ (نہیں) بلکہ یہ یقین ہی نہیں رکھتے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_052_037",
+      "reference": {
+        "surah_number": 52,
+        "surah_name": "At-Tur",
+        "surah_name_ar": "سُوْرَةُ الطُّوْرِ",
+        "surah_name_translation": "The Mount",
+        "ayah_number": 37,
+        "juz": 27,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 7,
+      "translations": {
+        "ar": {
+          "text": "أَمۡ عِندَهُمۡ خَزَآئِنُ رَبِّكَ أَمۡ هُمُ ٱلۡمُصَۜيۡطِرُونَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Or do they possess the treasuries of your Lord, or are they in control ˹of everything˺",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "是你的主的库藏归他们掌管呢？还是他们是那些库藏的监督呢？",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "या उनके पास तुम्हारे रब के खज़ाने है? या वही उनके परिरक्षक है",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "¿Acaso poseen los tesoros de tu Señor o tienen autoridad absoluta",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Possèdent-ils les trésors de ton Seigneur? Ou sont-ils eux les maîtres souverains",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "তাদের কাছে কি আপনার পালনকর্তার ভান্ডার রয়েছে, না তারাই সবকিছুর তত্ত্বাবধায়ক?",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Ou têm os cofres de teu Senhor? Ou são eles os donos absolutos",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Неужели у них находятся сокровищницы твоего Господа? Или же они сами являются владыками",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "کیا ان کے پاس تمہارے پروردگار کے خزانے ہیں۔ یا یہ (کہیں کے) داروغہ ہیں؟",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_052_038",
+      "reference": {
+        "surah_number": 52,
+        "surah_name": "At-Tur",
+        "surah_name_ar": "سُوْرَةُ الطُّوْرِ",
+        "surah_name_translation": "The Mount",
+        "ayah_number": 38,
+        "juz": 27,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 9,
+      "translations": {
+        "ar": {
+          "text": "أَمۡ لَهُمۡ سُلَّمࣱ يَسۡتَمِعُونَ فِيهِۖ فَلۡيَأۡتِ مُسۡتَمِعُهُم بِسُلۡطَٰنࣲ مُّبِينٍ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Or do they have a stairway, by which they eavesdrop ˹on the heavens˺? Then let those who do so bring a compelling proof",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "难道他们有一架天梯，可以登上去倾听吗？叫他们中的倾听者拿一个明证来吧！",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "या उनके पास कोई सीढ़ी है जिसपर चढ़कर वे (कान लगाकर) सुन लेते है? फिर उनमें से जिसने सुन लिया हो तो वह ले आए स्पष्ट प्रमाण",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "¿O tienen una escalera para escuchar los designios de Dios? Quien de ellos logre escuchar, que traiga una prueba clara",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Ont-ils une échelle d'où ils écoutent? Que celui des leurs qui reste à l'écoute apporte une preuve évidente",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "না তাদের কোন সিঁড়ি আছে, যাতে আরোহণ করে তারা শ্রবণ করে? থাকলে তাদের শ্রোতা সুস্পষ্ট প্রমাণ উপস্থিত করুক।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Ou têm uma escada, por meio da qual escutam os segredos do céu? Então que aquele que escuta para eles faça chegar evidente comprovação",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Или же у них есть лестница, на которой они подслушивают разговоры ангелов? Пусть тот из них, кто подслушивал, приведет ясное доказательство",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "یا ان کے پاس کوئی سیڑھی ہے جس پر (چڑھ کر آسمان سے باتیں) سن آتے ہیں۔ تو جو سن آتا ہے وہ صریح سند دکھائے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_052_039",
+      "reference": {
+        "surah_number": 52,
+        "surah_name": "At-Tur",
+        "surah_name_ar": "سُوْرَةُ الطُّوْرِ",
+        "surah_name_translation": "The Mount",
+        "ayah_number": 39,
+        "juz": 27,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 5,
+      "translations": {
+        "ar": {
+          "text": "أَمۡ لَهُ ٱلۡبَنَٰتُ وَلَكُمُ ٱلۡبَنُونَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Or does He have daughters ˹as you claim˺, while you ˹prefer to˺ have sons",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "难道真主有女儿，你们有儿子吗？",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "या उस (अल्लाह) के लिए बेटियाँ है और तुम्हारे अपने लिए बेटे",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "¿Acaso a Dios Le pertenecen las hijas mujeres y a ellos los hijos varones",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "[Allah] aurait-Il les filles, tandis que vous, les fils",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "না তার কন্যা-সন্তান আছে আর তোমাদের আছে পুত্রসন্তান?",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Ou são d'Ele as filhas e, de vós, os filhos",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Неужели у Него - дочери, а у вас - сыновья",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "کیا خدا کی تو بیٹیاں اور تمہارے بیٹے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_052_040",
+      "reference": {
+        "surah_number": 52,
+        "surah_name": "At-Tur",
+        "surah_name_ar": "سُوْرَةُ الطُّوْرِ",
+        "surah_name_translation": "The Mount",
+        "ayah_number": 40,
+        "juz": 27,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 8,
+      "translations": {
+        "ar": {
+          "text": "أَمۡ تَسۡـَٔلُهُمۡ أَجۡرࣰ ا فَهُم مِّن مَّغۡرَمࣲ مُّثۡقَلُونَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Or are you ˹O Prophet˺ asking them for a reward ˹for the message˺ so that they are overburdened by debt",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "难道你向他们索取报酬，故他们为纳税而担负太重？",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "या तुम उनसे कोई पारिश्रामिक माँगते हो कि वे तावान के बोझ से दबे जा रहे है",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "¿O acaso tú [¡oh, Mujámmad!] les pides una retribución que hace que se vean abrumados por las deudas",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Ou leur demandes-tu un salaire, de sorte qu'ils soient grevés d'une lourde dette",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "না আপনি তাদের কাছে পারিশ্রমিক চান যে, তাদের উপর জরিমানার বোঝা চেপে বসে?",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Ou lhes pedes um prêmio, então, estão sobrecarregados de ônus",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Или же ты просишь у них вознаграждения, и они обременены обязательствами",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "(اے پیغمبر) کیا تم ان سے صلہ مانگتے ہو کہ ان پر تاوان کا بوجھ پڑ رہا ہے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_052_041",
+      "reference": {
+        "surah_number": 52,
+        "surah_name": "At-Tur",
+        "surah_name_ar": "سُوْرَةُ الطُّوْرِ",
+        "surah_name_translation": "The Mount",
+        "ayah_number": 41,
+        "juz": 27,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 5,
+      "translations": {
+        "ar": {
+          "text": "أَمۡ عِندَهُمُ ٱلۡغَيۡبُ فَهُمۡ يَكۡتُبُونَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Or do they have access to ˹the Record in˺ the unseen, so they copy it ˹for all to see˺",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "难道他们能知幽玄，故能将它记录下来？",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "या उनके पास परोक्ष (स्पष्ट) है जिसके आधार पर वे लिए रहे हो",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "¿O tienen el conocimiento de lo oculto y lo han registrado",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Ou bien détiennent-ils l'Inconnaissable pour le mentionner par écrit",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "না তাদের কাছে অদৃশ্য বিষয়ের জ্ঞান আছে যে, তারাই তা লিপিবদ্ধ করে?",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Ou têm eles a ciência do Invisível, então, escrevem o que querem",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Или же они владеют сокровенным и записывают его",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "یا ان کے پاس غیب (کا علم) ہے کہ وہ اسے لکھ لیتے ہیں",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_052_042",
+      "reference": {
+        "surah_number": 52,
+        "surah_name": "At-Tur",
+        "surah_name_ar": "سُوْرَةُ الطُّوْرِ",
+        "surah_name_translation": "The Mount",
+        "ayah_number": 42,
+        "juz": 27,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 8,
+      "translations": {
+        "ar": {
+          "text": "أَمۡ يُرِيدُونَ كَيۡدࣰ اۖ فَٱلَّذِينَ كَفَرُواْ هُمُ ٱلۡمَكِيدُونَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Or do they intend to scheme ˹against the Prophet˺? Then it is the disbelievers who will fall victim to ˹their˺ schemes",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "难道他们欲用计谋吗？不信道者，将自中其计。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "या वे कोई चाल चलना चाहते है? तो जिन लोगों ने इनकार किया वही चाल की लपेट में आनेवाले है",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "¿O es que quieren tenderte una trampa? Los que se niegan a creer son quienes han caído en una trampa",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Ou cherchent-ils un stratagème? Mais ce sont ceux qui ont mécru qui sont victimes de leur propre stratagème",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "না তারা চক্রান্ত করতে চায়? অতএব যারা কাফের, তারই চক্রান্তের শিকার হবে।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Ou desejam armar insídias? Então, os que renegam a Fé, serão eles os insidiados",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Или же они желают замыслить козни? Но ведь неверующие сами станут жертвой козней",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "کیا یہ کوئی داؤں کرنا چاہتے ہیں تو کافر تو خود داؤں میں آنے والے ہیں",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_052_043",
+      "reference": {
+        "surah_number": 52,
+        "surah_name": "At-Tur",
+        "surah_name_ar": "سُوْرَةُ الطُّوْرِ",
+        "surah_name_translation": "The Mount",
+        "ayah_number": 43,
+        "juz": 27,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 9,
+      "translations": {
+        "ar": {
+          "text": "أَمۡ لَهُمۡ إِلَٰهٌ غَيۡرُ ٱللَّهِۚ سُبۡحَٰنَ ٱللَّهِ عَمَّا يُشۡرِكُونَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Or do they have a god other than Allah? Glorified is Allah far above what they associate ˹with Him˺",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "难道除真主外，他们还有别的神灵吗？真主是超乎他们所用以配他的。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "या अल्लाह के अतिरिक्त उनका कोई और पूज्य-प्रभु है? अल्लाह महान और उच्च है उससे जो वे साझी ठहराते है",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "¿O acaso tienen otra divinidad además de Dios? ¡Glorificado sea Dios de cuanto Le asocian",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Ou ont-ils une autre divinité à part Allah? Qu'Allah soit glorifié et purifié de tout ce qu'ils associent",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "না তাদের আল্লাহ তা’আলা ব্যতীত কোন উপাস্য আছে? তারা যাকে শরীক করে, আল্লাহ তা’আলা তা থেকে পবিত্র।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Ou têm deus outro que Allah? Glorificado seja Allah, acima do que idolatram",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Или же у них есть другой бог наряду с Аллахом? Аллах пречист и далек от тех, кого они приобщают в сотоварищи",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "کیا خدا کے سوا ان کا کوئی اور معبود ہے؟ خدا ان کے شریک بنانے سے پاک ہے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_052_044",
+      "reference": {
+        "surah_number": 52,
+        "surah_name": "At-Tur",
+        "surah_name_ar": "سُوْرَةُ الطُّوْرِ",
+        "surah_name_translation": "The Mount",
+        "ayah_number": 44,
+        "juz": 27,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 11,
+      "translations": {
+        "ar": {
+          "text": "وَإِن يَرَوۡاْ كِسۡفࣰ ا مِّنَ ٱلسَّمَآءِ سَاقِطࣰ ا يَقُولُواْ سَحَابࣱ مَّرۡكُومࣱ‏",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "If they were to see a ˹deadly˺ piece of the sky fall down ˹upon them˺, still they would say, “˹This is just˺ a pile of clouds.”",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "如果他们看见天掉下来一块，他们将说：这是成堆的云彩。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "यदि वे आकाश का कोई टुकटा गिरता हुआ देखें तो कहेंगे, \"यह तो परत पर परत बादल है",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Si vieran caer parte del cielo dirían: \"Son solo nubes acumuladas",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Et s'ils voient tomber des fragments du ciel, ils disent: «Ce sont des nuages superposés»",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "তারা যদি আকাশের কোন খন্ডকে পতিত হতে দেখে, তবে বলে এটা তো পুঞ্জীভুত মেঘ।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E se vissem cair um pedaço do céu, diriam: \"São nuvens aglomeradas",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Даже если они увидят куски неба падающими, они скажут: «Это скопились облака!»",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور اگر یہ آسمان سے (عذاب) کا کوئی ٹکڑا گرتا ہوا دیکھیں تو کہیں کہ یہ گاڑھا بادل ہے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_052_045",
+      "reference": {
+        "surah_number": 52,
+        "surah_name": "At-Tur",
+        "surah_name_ar": "سُوْرَةُ الطُّوْرِ",
+        "surah_name_translation": "The Mount",
+        "ayah_number": 45,
+        "juz": 27,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 7,
+      "translations": {
+        "ar": {
+          "text": "فَذَرۡهُمۡ حَتَّىٰ يُلَٰقُواْ يَوۡمَهُمُ ٱلَّذِي فِيهِ يُصۡعَقُونَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "So leave them until they face their Day in which they will be struck dead—",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "你任随他们吧！直到他们遭遇自己被震死的日子。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "अतः छोडो उन्हें, यहाँ तक कि वे अपने उस दिन का सामना करें जिसमें उनपर वज्रपात होगा",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Déjalos, que ya les llegará el día en que quedarán paralizados de terror",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Laisse-les donc, jusqu'à ce qu'ils rencontrent leur jour où ils seront foudroyés",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "তাদেরকে ছেড়ে দিন সেদিন পর্যন্ত, যেদিন তাদের উপর বজ্রাঘাত পতিত হবে।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Então, deixa-os, até depararem seu dia, em que cairão fulminados",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Оставь же их, пока они не встретят тот день их, когда их постигнет погибель",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "پس ان کو چھوڑ دو یہاں تک کہ وہ روز جس میں وہ بےہوش کردیئے جائیں گے، سامنے آجائے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_052_046",
+      "reference": {
+        "surah_number": 52,
+        "surah_name": "At-Tur",
+        "surah_name_ar": "سُوْرَةُ الطُّوْرِ",
+        "surah_name_translation": "The Mount",
+        "ayah_number": 46,
+        "juz": 27,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 10,
+      "translations": {
+        "ar": {
+          "text": "يَوۡمَ لَا يُغۡنِي عَنۡهُمۡ كَيۡدُهُمۡ شَيۡـࣰٔ ا وَلَا هُمۡ يُنصَرُونَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "the Day their scheming will be of no benefit to them whatsoever, nor will they be helped",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "在那日，他们的计谋，对于他们毫无裨益，他们也不受援助。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "जिस दिन उनकी चाल उनके कुछ भी काम न आएगी और न उन्हें कोई सहायता ही मिलेगी",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Ese día no los beneficiarán en nada sus argucias y nadie los auxiliará",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "le jour où leur ruse ne leur servira à rien, où ils ne seront pas secourus",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "সেদিন তাদের চক্রান্ত তাদের কোন উপকারে আসবে না এবং তারা সাহায্যপ্রাপ্তও হবে না।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Um dia em que nada lhes valerá sua insídia; e não serão socorridos",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "В тот день их козни не принесут им никакой пользы, и никто не поможет им",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "جس دن ان کا کوئی داؤں کچھ بھی کام نہ آئے اور نہ ان کو (کہیں سے) مدد ہی ملے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_052_047",
+      "reference": {
+        "surah_number": 52,
+        "surah_name": "At-Tur",
+        "surah_name_ar": "سُوْرَةُ الطُّوْرِ",
+        "surah_name_translation": "The Mount",
+        "ayah_number": 47,
+        "juz": 27,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 11,
+      "translations": {
+        "ar": {
+          "text": "وَإِنَّ لِلَّذِينَ ظَلَمُواْ عَذَابࣰ ا دُونَ ذَٰلِكَ وَلَٰكِنَّ أَكۡثَرَهُمۡ لَا يَعۡلَمُونَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Also, the wrongdoers will certainly have another torment before that ˹Day˺, but most of them do not know",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "不义的人们，在那日之前，必定要受一种刑罚，但他们大半不知道。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "और निश्चय ही जिन लोगों ने ज़ुल्म किया उनके लिए एक यातना है उससे हटकर भी, परन्तु उनमें से अधिकतर जानते नहीं",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Los injustos sufrirán, además de este, otros castigos, pero la mayoría no lo sabe",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Les injustes auront un châtiment préalable. Mais la plupart d'entre eux ne savent pas",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "গোনাহগারদের জন্যে এছাড়া আরও শাস্তি রয়েছে, কিন্তু তাদের অধিকাংশই তা জানে না।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E, por certo, além disso, há castigo para os que são injustos; mas a maioria deles não sabe",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Воистину, беззаконникам уготованы мучения и перед этим, но большинство их не знает этого",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور ظالموں کے لئے اس کے سوا اور عذاب بھی ہے لیکن ان میں کے اکثر نہیں جانتے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_052_048",
+      "reference": {
+        "surah_number": 52,
+        "surah_name": "At-Tur",
+        "surah_name_ar": "سُوْرَةُ الطُّوْرِ",
+        "surah_name_translation": "The Mount",
+        "ayah_number": 48,
+        "juz": 27,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 10,
+      "translations": {
+        "ar": {
+          "text": "وَٱصۡبِرۡ لِحُكۡمِ رَبِّكَ فَإِنَّكَ بِأَعۡيُنِنَاۖ وَسَبِّحۡ بِحَمۡدِ رَبِّكَ حِينَ تَقُومُ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "So be patient with your Lord’s decree, for you are truly under Our ˹watchful˺ Eyes. And glorify the praises of your Lord when you rise",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "你应当忍受你的主的判决，因为你确是在我的眷顾之下的。你起来的时候，应当赞颂你的主；",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "अपने रब का फ़ैसला आने तक धैर्य से काम लो, तुम तो हमारी आँखों में हो, और जब उठो तो अपने रब का गुणगान करो",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Ten paciencia con los designios de tu Señor, y sabe que te encuentras bajo Mis ojos. Glorifica con alabanzas a tu Señor cuando te levantes [a orar]",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Et supporte patiemment la décision de ton Seigneur. Car en vérité, tu es sous Nos yeux. Et célèbre la gloire de ton Seigneur quand tu te lèves",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "আপনি আপনার পালনকর্তার নির্দেশের অপেক্ষায় সবর করুন। আপনি আমার দৃষ্টির সামনে আছেন এবং আপনি আপনার পালনকর্তꦣ2494;র সপ্রশংস পবিত্রতা ঘোষণা করুন যখন আপনি গাত্রোত্থান করেন।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E pacienta quanto ao julgamento de teu Senhor, pois estás diante de Nossos olhos. E glorifica com louvor, a teu Senhor, quando te levantares",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Потерпи же до решения твоего Господа, ведь ты - у Нас на Глазах. Прославляй хвалой своего Господа, когда поднимаешься ото сна",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور تم اپنے پروردگار کے حکم کے انتظار میں صبر کئے رہو۔ تم تو ہماری آنکھوں کے سامنے ہو اور جب اُٹھا کرو تو اپنے پروردگار کی تعریف کے ساتھ تسبیح کیا کرو",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_052_049",
+      "reference": {
+        "surah_number": 52,
+        "surah_name": "At-Tur",
+        "surah_name_ar": "سُوْرَةُ الطُّوْرِ",
+        "surah_name_translation": "The Mount",
+        "ayah_number": 49,
+        "juz": 27,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 5,
+      "translations": {
+        "ar": {
+          "text": "وَمِنَ ٱلَّيۡلِ فَسَبِّحۡهُ وَإِدۡبَٰرَ ٱلنُّجُومِ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "And glorify Him during part of the night and at the fading of the stars",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "在夜间和在星宿没落之么，你应当赞颂他。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "रात की कुछ घड़ियों में भी उसकी तसबीह करो, और सितारों के पीठ फेरने के समय (प्रातःकाल) भी",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "por la noche y al ocultarse las estrellas",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Glorifie-Le une partie de la nuit et au déclin des étoiles",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "এবং রাত্রির কিছু অংশে এবং তারকা অস্তমিত হওয়ার সময় তাঁর পবিত্রতা ঘোষণা করুন।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E, durante parte da noite, glorifica-O, então, e após se desvanecerem as estrelas",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Среди ночи восхваляй Его и при исчезновении звезд",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور رات کے بعض اوقات میں بھی اور ستاروں کے غروب ہونے کے بعد بھی اس کی تنزیہ کیا کرو",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    }
+  ]
+}

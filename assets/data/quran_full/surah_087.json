@@ -1,0 +1,1069 @@
+{
+  "surah": 87,
+  "verses": [
+    {
+      "content_id": "quran_087_001",
+      "reference": {
+        "surah_number": 87,
+        "surah_name": "Al-A'laa",
+        "surah_name_ar": "سُوْرَةُ الْاَعْلٰي",
+        "surah_name_translation": "The Most High",
+        "ayah_number": 1,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 4,
+      "translations": {
+        "ar": {
+          "text": "سَبِّحِ ٱسۡمَ رَبِّكَ ٱلۡأَعۡلَى",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Glorify the Name of your Lord, the Most High",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "你当赞颂你至尊主的大名超绝万物，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "तसबीह करो, अपने सर्वाच्च रब के नाम की",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Glorifica el nombre de tu Señor, el Altísimo",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Glorifie le nom de ton Seigneur, le Très Haut",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "আপনি আপনার মহান পালনকর্তার নামের পবিত্রতা বর্ণনা করুন",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Glorifica o nome de teu Senhor, O Altíssimo",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Славь имя Господа твоего Всевышнего",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "(اے پیغمبر) اپنے پروردگار جلیل الشان کے نام کی تسبیح کرو",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_087_002",
+      "reference": {
+        "surah_number": 87,
+        "surah_name": "Al-A'laa",
+        "surah_name_ar": "سُوْرَةُ الْاَعْلٰي",
+        "surah_name_translation": "The Most High",
+        "ayah_number": 2,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 3,
+      "translations": {
+        "ar": {
+          "text": "ٱلَّذِي خَلَقَ فَسَوَّىٰ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Who created and ˹perfectly˺ fashioned ˹all˺",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "他创造万物，并使各物匀称。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "जिसने पैदा किया, फिर ठीक-ठाक किया",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Quien creó todas las cosas a la perfección",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Celui Qui a créé et agencé harmonieusement",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "যিনি সৃষ্টি করেছেন ও সুবিন্যস্ত করেছেন।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Que tudo criou e formou",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Который сотворил все сущее и всему придал соразмерность",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "جس نے (انسان کو) بنایا پھر (اس کے اعضاء کو) درست کیا",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_087_003",
+      "reference": {
+        "surah_number": 87,
+        "surah_name": "Al-A'laa",
+        "surah_name_ar": "سُوْرَةُ الْاَعْلٰي",
+        "surah_name_translation": "The Most High",
+        "ayah_number": 3,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 3,
+      "translations": {
+        "ar": {
+          "text": "وَٱلَّذِي قَدَّرَ فَهَدَىٰ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "and Who ordained precisely and inspired accordingly",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "他预定万物，而加以引导。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "जिसने निर्धारित किया, फिर मार्ग दिखाया",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "y decretó para cada ser su función",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "qui a décrété et guidé",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "এবং যিনি সুপরিমিত করেছেন ও পথ প্রদর্শন করেছেন",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E Que tudo determinou e guiou",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Который предопределил судьбу творений и указал путь",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور جس نے (اس کا) اندازہ ٹہرایا (پھر اس کو) رستہ بتایا",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_087_004",
+      "reference": {
+        "surah_number": 87,
+        "surah_name": "Al-A'laa",
+        "surah_name_ar": "سُوْرَةُ الْاَعْلٰي",
+        "surah_name_translation": "The Most High",
+        "ayah_number": 4,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 3,
+      "translations": {
+        "ar": {
+          "text": "وَٱلَّذِيٓ أَخۡرَجَ ٱلۡمَرۡعَىٰ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "and Who brings forth ˹green˺ pasture",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "他生出牧草，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "जिसने वनस्पति उगाई",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Quien hace brotar la hierba",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "et qui a fait pousser le pâturage",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "এবং যিনি তৃণাদি উৎপন্ন করেছেন,",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E Que fez sair a pastagem",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Который взрастил пастбища",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور جس نے چارہ اگایا",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_087_005",
+      "reference": {
+        "surah_number": 87,
+        "surah_name": "Al-A'laa",
+        "surah_name_ar": "سُوْرَةُ الْاَعْلٰي",
+        "surah_name_translation": "The Most High",
+        "ayah_number": 5,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 3,
+      "translations": {
+        "ar": {
+          "text": "فَجَعَلَهُۥ غُثَآءً أَحۡوَىٰ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "then reduces it to withered chaff",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "然後使它变成黑色的枯草。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "फिर उसे ख़ूब घना और हरा-भरा कर दिया",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "y luego la convierte en heno seco",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "et en a fait ensuite un foin sombre",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "অতঃপর করেছেন তাকে কাল আবর্জনা।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E fê-la feno enegrecido",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "а потом превратил их в темный сор",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "پھر اس کو سیاہ رنگ کا کوڑا کر دیا",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_087_006",
+      "reference": {
+        "surah_number": 87,
+        "surah_name": "Al-A'laa",
+        "surah_name_ar": "سُوْرَةُ الْاَعْلٰي",
+        "surah_name_translation": "The Most High",
+        "ayah_number": 6,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 3,
+      "translations": {
+        "ar": {
+          "text": "سَنُقۡرِئُكَ فَلَا تَنسَىٰٓ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "We will have you recite ˹the Quran, O Prophet,˺ so you will not forget ˹any of it˺",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "我将使你诵读，故你不会忘记，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "हम तुम्हें पढ़ा देंगे, फिर तुम भूलोगे नहीं",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "[¡Oh, Mujámmad!] Haré que recites [el Corán] y no lo olvides",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Nous te ferons réciter (le Coran), de sorte que tu n'oublieras",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "আমি আপনাকে পাঠ করাতে থাকব, ফলে আপনি বিস্মৃত হবেন না",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Nós far-te-emos ler, e de nada te esquecerás",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Мы позволим тебе прочесть Коран, и ты не забудешь ничего",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "ہم تمہیں پڑھا دیں گے کہ تم فراموش نہ کرو گے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_087_007",
+      "reference": {
+        "surah_number": 87,
+        "surah_name": "Al-A'laa",
+        "surah_name_ar": "سُوْرَةُ الْاَعْلٰي",
+        "surah_name_translation": "The Most High",
+        "ayah_number": 7,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 9,
+      "translations": {
+        "ar": {
+          "text": "إِلَّا مَا شَآءَ ٱللَّهُۚ إِنَّهُۥ يَعۡلَمُ ٱلۡجَهۡرَ وَمَا يَخۡفَىٰ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "unless Allah wills otherwise. He surely knows what is open and what is hidden",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "除非真主所欲你忘记的。他的确知道显著的和隐微的言行。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "बात यह है कि अल्लाह की इच्छा ही क्रियान्वित है। निश्चय ही वह जानता है खुले को भी और उसे भी जो छिपा रहे",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Salvo que Dios quiera, pues Él conoce lo manifiesto y lo oculto",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "que ce qu'Allah veut. Car, Il connaît ce qui paraît au grand jour ainsi que ce qui est caché",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "আল্লাহ যা ইচ্ছা করেন তা ব্যতীত। নিশ্চয় তিনি জানেন প্রকাশ্য ও গোপন বিষয়।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Exceto do que Allah quiser. - Por certo, Ele sabe o declarado e o que se oculta",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "кроме того, что пожелает Аллах. Он знает явное и то, что сокрыто",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "مگر جو خدا چاہے۔ وہ کھلی بات کو بھی جانتا ہے اور چھپی کو بھی",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_087_008",
+      "reference": {
+        "surah_number": 87,
+        "surah_name": "Al-A'laa",
+        "surah_name_ar": "سُوْرَةُ الْاَعْلٰي",
+        "surah_name_translation": "The Most High",
+        "ayah_number": 8,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 2,
+      "translations": {
+        "ar": {
+          "text": "وَنُيَسِّرُكَ لِلۡيُسۡرَىٰ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "We will facilitate for you the Way of Ease",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "我将使你遵循平易的道路，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "हम तुम्हें सहज ढंग से उस चीज़ की पात्र बना देंगे जो सहज एवं मृदुल (आरामदायक) है",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Te dirigiré por el camino de la facilidad",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Nous te mettrons sur la voie la plus facile",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "আমি আপনার জন্যে সহজ শরীয়ত সহজতর করে দেবো।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E facilitar-te-emos o acesso ao caminho fácil",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Мы облегчим тебе путь к легчайшему",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "ہم تم کو آسان طریقے کی توفیق دیں گے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_087_009",
+      "reference": {
+        "surah_number": 87,
+        "surah_name": "Al-A'laa",
+        "surah_name_ar": "سُوْرَةُ الْاَعْلٰي",
+        "surah_name_translation": "The Most High",
+        "ayah_number": 9,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 4,
+      "translations": {
+        "ar": {
+          "text": "فَذَكِّرۡ إِن نَّفَعَتِ ٱلذِّكۡرَىٰ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "So ˹always˺ remind ˹with the Quran˺—˹even˺ if the reminder is beneficial ˹only to some˺",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "故你当教诲众人，如果教诲有裨於他们的话。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "अतः नसीहत करो, यदि नसीहत लाभप्रद हो",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Exhorta [con el Corán], porque el recuerdo es beneficioso",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Rappelle, donc, où le Rappel doit être utile",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "উপদেশ ফলপ্রসূ হলে উপদেশ দান করুন,",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Então, lembra-lhes, se a lembrança os beneficiar",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Наставляй же людей, если напоминание принесет пользу",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "سو جہاں تک نصیحت (کے) نافع (ہونے کی امید) ہو نصیحت کرتے رہو",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_087_010",
+      "reference": {
+        "surah_number": 87,
+        "surah_name": "Al-A'laa",
+        "surah_name_ar": "سُوْرَةُ الْاَعْلٰي",
+        "surah_name_translation": "The Most High",
+        "ayah_number": 10,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 3,
+      "translations": {
+        "ar": {
+          "text": "سَيَذَّكَّرُ مَن يَخۡشَىٰ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Those in awe ˹of Allah˺ will be mindful ˹of it˺",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "畏主的人，将觉悟；",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "नसीहत हासिल कर लेगा जिसको डर होगा",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Quien tenga temor de Dios recapacitará [con tu exhortación]",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Quiconque craint (Allah) s'[en] rappellera",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "যে ভয় করে, সে উপদেশ গ্রহণ করবে,",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Lembrar-se-á quem receia a Allah",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Воспримет его тот, кто страшится",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "جو خوف رکھتا ہے وہ تو نصیحت پکڑے گا",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_087_011",
+      "reference": {
+        "surah_number": 87,
+        "surah_name": "Al-A'laa",
+        "surah_name_ar": "سُوْرَةُ الْاَعْلٰي",
+        "surah_name_translation": "The Most High",
+        "ayah_number": 11,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 2,
+      "translations": {
+        "ar": {
+          "text": "وَيَتَجَنَّبُهَا ٱلۡأَشۡقَى",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "But it will be shunned by the most wretched",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "薄命的人，将退避，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "किन्तु उससे कतराएगा वह अत्यन्त दुर्भाग्यवाला",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "pero el negador de la verdad la rechazará",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "et s'en écartera le grand malheureux",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "আর যে, হতভাগা, সে তা উপেক্ষা করবে,",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E evitá-lo-á o mais infeliz",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "и уклонится от него самый несчастный",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور (بےخوف) بدبخت پہلو تہی کرے گا",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_087_012",
+      "reference": {
+        "surah_number": 87,
+        "surah_name": "Al-A'laa",
+        "surah_name_ar": "سُوْرَةُ الْاَعْلٰي",
+        "surah_name_translation": "The Most High",
+        "ayah_number": 12,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 4,
+      "translations": {
+        "ar": {
+          "text": "ٱلَّذِي يَصۡلَى ٱلنَّارَ ٱلۡكُبۡرَىٰ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "who will burn in the greatest Fire",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "他将入於大火，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "जो बड़ी आग में पड़ेगा",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "y por eso será abrazado por un gran fuego",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "qui brûlera dans le plus grand Feu",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "সে মহা-অগ্নিতে প্রবেশ করবে।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Que se queimará no Fogo maior",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "который войдет в Огонь величайший",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "جو (قیامت کو) بڑی (تیز) آگ میں داخل ہو گا",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_087_013",
+      "reference": {
+        "surah_number": 87,
+        "surah_name": "Al-A'laa",
+        "surah_name_ar": "سُوْرَةُ الْاَعْلٰي",
+        "surah_name_translation": "The Most High",
+        "ayah_number": 13,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 6,
+      "translations": {
+        "ar": {
+          "text": "ثُمَّ لَا يَمُوتُ فِيهَا وَلَا يَحۡيَىٰ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "where they will not ˹be able to˺ live or die",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "然後，在火里不死也不活。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "फिर वह उसमें न मरेगा न जिएगा",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "donde no podrá morir [para descansar del sufrimiento] ni vivir [sin dolor]",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "où il ne mourra ni ne vivra",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "অতঃপর সেখানে সে মরবেও না, জীবিতও থাকবে না।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Em seguida, nele, não morrerá nem viverá",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Не умрет он там и не будет жить",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "پھر وہاں نہ مرے گا اور نہ جئے گا",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_087_014",
+      "reference": {
+        "surah_number": 87,
+        "surah_name": "Al-A'laa",
+        "surah_name_ar": "سُوْرَةُ الْاَعْلٰي",
+        "surah_name_translation": "The Most High",
+        "ayah_number": 14,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 4,
+      "translations": {
+        "ar": {
+          "text": "قَدۡ أَفۡلَحَ مَن تَزَكَّىٰ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Successful indeed are those who purify themselves",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "有教养的人确已成功，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "सफल हो गया वह जिसने अपने आपको निखार लिया",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "¡Será de los bienaventurados quien se purifique [de la idolatría y los pecados]",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Réussit, certes, celui qui se purifie",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "নিশ্চয় সাফল্য লাভ করবে সে, যে শুদ্ধ হয়",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Com efeito, bem aventurado é quem se dignifica",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Преуспел тот, кто очистился",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "بے شک وہ مراد کو پہنچ گیا جو پاک ہوا",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_087_015",
+      "reference": {
+        "surah_number": 87,
+        "surah_name": "Al-A'laa",
+        "surah_name_ar": "سُوْرَةُ الْاَعْلٰي",
+        "surah_name_translation": "The Most High",
+        "ayah_number": 15,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 4,
+      "translations": {
+        "ar": {
+          "text": "وَذَكَرَ ٱسۡمَ رَبِّهِۦ فَصَلَّىٰ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "remember the Name of their Lord, and pray",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "他记念他的主的尊名，而谨守拜功。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "और अपने रब के नाम का स्मरण किया, अतः नमाज़ अदा की",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "recuerde el nombre de su Señor y cumpla con sus oraciones",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "et se rappelle le nom de son Seigneur, puis célèbre la Salât",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "এবং তার পালনকর্তার নাম স্মরণ করে, অতঃপর নামায আদায় করে।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E se lembra do nome de seu Senhor e ora",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "поминал имя своего Господа и совершал намаз",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور اپنے پروردگار کے نام کا ذکر کرتا رہا اور نماز پڑھتا رہا",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_087_016",
+      "reference": {
+        "surah_number": 87,
+        "surah_name": "Al-A'laa",
+        "surah_name_ar": "سُوْرَةُ الْاَعْلٰي",
+        "surah_name_translation": "The Most High",
+        "ayah_number": 16,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 4,
+      "translations": {
+        "ar": {
+          "text": "بَلۡ تُؤۡثِرُونَ ٱلۡحَيَوٰةَ ٱلدُّنۡيَا",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "But you ˹deniers only˺ prefer the life of this world",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "不然，你们却选择今世的生活；",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "नहीं, बल्कि तुम तो सांसारिक जीवन को प्राथमिकता देते हो",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Pero [muchos] prefieren la vida mundanal",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Mais, vous préférez plutôt la vie présente",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "বস্তুতঃ তোমরা পার্থিব জীবনকে অগ্রাধিকার দাও,",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Mas vós dais preferência à vida terrena",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Но нет! Вы отдаете предпочтение мирской жизни",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "مگر تم لوگ تو دنیا کی زندگی کو اختیار کرتے ہو",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_087_017",
+      "reference": {
+        "surah_number": 87,
+        "surah_name": "Al-A'laa",
+        "surah_name_ar": "سُوْرَةُ الْاَعْلٰي",
+        "surah_name_translation": "The Most High",
+        "ayah_number": 17,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 3,
+      "translations": {
+        "ar": {
+          "text": "وَٱلۡأٓخِرَةُ خَيۡرࣱ وَأَبۡقَىٰٓ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "even though the Hereafter is far better and more lasting",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "其实，後世是更好的，是更久长的。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "हालाँकि आख़िरत अधिक उत्तम और शेष रहनेवाली है",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "aunque deben saber que la vida del más allá es superior y eterna",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "alors que l'au-delà est meilleur et plus durable",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "অথচ পরকালের জীবন উৎকৃষ্ট ও স্থায়ী।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Enquanto a Derradeira Vida é melhor e mais permanente",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "хотя Последняя жизнь - лучше и дольше",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "حالانکہ آخرت بہت بہتر اور پائندہ تر ہے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_087_018",
+      "reference": {
+        "surah_number": 87,
+        "surah_name": "Al-A'laa",
+        "surah_name_ar": "سُوْرَةُ الْاَعْلٰي",
+        "surah_name_translation": "The Most High",
+        "ayah_number": 18,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 5,
+      "translations": {
+        "ar": {
+          "text": "إِنَّ هَٰذَا لَفِي ٱلصُّحُفِ ٱلۡأُولَىٰ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "This is certainly ˹mentioned˺ in the earlier Scriptures—",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "这确是载在古经典中的，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "निस्संदेह यही बात पहले की किताबों में भी है",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Este Mensaje se encuentra mencionado en las primeras revelaciones",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Ceci se trouve, certes, dans les Feuilles anciennes",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "এটা লিখিত রয়েছে পূর্ববতী কিতাবসমূহে;",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Por certo, isto está nas primeiras Páginas",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Воистину, это записано в первых свитках",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "یہ بات پہلے صحیفوں میں (مرقوم) ہے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_087_019",
+      "reference": {
+        "surah_number": 87,
+        "surah_name": "Al-A'laa",
+        "surah_name_ar": "سُوْرَةُ الْاَعْلٰي",
+        "surah_name_translation": "The Most High",
+        "ayah_number": 19,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 3,
+      "translations": {
+        "ar": {
+          "text": "صُحُفِ إِبۡرَٰهِيمَ وَمُوسَىٰ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "the Scriptures of Abraham and Moses",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "载在易卜拉欣和穆萨的经典中的。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "इबराईम और मूसा की किताबों में",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "en las revelaciones recibidas por Abraham y Moisés",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "les Feuilles d'Abraham et de Moïse",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "ইব্রাহীম ও মূসার কিতাবসমূহে।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Nas Páginas de Abraão e de Moisés",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "свитках Ибрахима (Авраама) и Мусы (Моисея)",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "(یعنی) ابراہیم اور موسیٰ کے صحیفوں میں",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    }
+  ]
+}

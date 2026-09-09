@@ -1,0 +1,3477 @@
+{
+  "surah": 53,
+  "verses": [
+    {
+      "content_id": "quran_053_001",
+      "reference": {
+        "surah_number": 53,
+        "surah_name": "An-Najm",
+        "surah_name_ar": "سُوْرَةُ النَّجْمِ",
+        "surah_name_translation": "The Star",
+        "ayah_number": 1,
+        "juz": 27,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 3,
+      "translations": {
+        "ar": {
+          "text": "وَٱلنَّجۡمِ إِذَا هَوَىٰ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "By the stars when they fade away",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "以没落时的星宿盟誓，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "गवाह है तारा, जब वह नीचे को आए",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "[Juro] por la estrella cuando desaparece",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Par l'étoile à son déclin",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "নক্ষত্রের কসম, যখন অস্তমিত হয়।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Pela estrela, quando declina",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Клянусь звездой, когда она падает (или частью Корана, когда она нисходит)",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "تارے کی قسم جب غائب ہونے لگے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_053_002",
+      "reference": {
+        "surah_number": 53,
+        "surah_name": "An-Najm",
+        "surah_name_ar": "سُوْرَةُ النَّجْمِ",
+        "surah_name_translation": "The Star",
+        "ayah_number": 2,
+        "juz": 27,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 5,
+      "translations": {
+        "ar": {
+          "text": "مَا ضَلَّ صَاحِبُكُمۡ وَمَا غَوَىٰ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Your fellow man is neither misguided nor astray",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "你们的朋友，既不迷误，又未迷信，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "तुम्हारी साथी (मुहम्मह सल्ल॰) न गुमराह हुआ और न बहका",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "que su compañero no se ha extraviado ni está en un error",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Votre compagnon ne s'est pas égaré et n'a pas été induit en erreur",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "তোমাদের সংগী পথভ্রষ্ট হননি এবং বিপথগামীও হননি।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Vosso companheiro não se descaminhou nem se transviou",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Не заблудился ваш товарищ и не сошел с пути",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "کہ تمہارے رفیق (محمدﷺ) نہ رستہ بھولے ہیں نہ بھٹکے ہیں",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_053_003",
+      "reference": {
+        "surah_number": 53,
+        "surah_name": "An-Najm",
+        "surah_name_ar": "سُوْرَةُ النَّجْمِ",
+        "surah_name_translation": "The Star",
+        "ayah_number": 3,
+        "juz": 27,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 4,
+      "translations": {
+        "ar": {
+          "text": "وَمَا يَنطِقُ عَنِ ٱلۡهَوَىٰٓ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Nor does he speak of his own whims",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "也未随私欲而言。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "और न वह अपनी इच्छा से बोलता है",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "ni habla de acuerdo a sus pasiones",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "et il ne prononce rien sous l'effet de la passion",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "এবং প্রবৃত্তির তাড়নায় কথা বলেন না।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E não fala, por paixão",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Он не говорит по прихоти",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور نہ خواہش نفس سے منہ سے بات نکالتے ہیں",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_053_004",
+      "reference": {
+        "surah_number": 53,
+        "surah_name": "An-Najm",
+        "surah_name_ar": "سُوْرَةُ النَّجْمِ",
+        "surah_name_translation": "The Star",
+        "ayah_number": 4,
+        "juz": 27,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 5,
+      "translations": {
+        "ar": {
+          "text": "إِنۡ هُوَ إِلَّا وَحۡيࣱ يُوحَىٰ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "It is only a revelation sent down ˹to him˺",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "这只是他所受的启示，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "वह तो बस एक प्रकाशना है, जो की जा रही है",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Él solo trasmite lo que le ha sido revelado",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "ce n'est rien d'autre qu'une révélation inspirée",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "কোরআন ওহী, যা প্রত্যাদেশ হয়।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Sua fala não é senão revelação a ele revelada",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Это - всего лишь внушаемое ему откровение",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "یہ (قرآن) تو حکم خدا ہے جو (ان کی طرف) بھیجا جاتا ہے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_053_005",
+      "reference": {
+        "surah_number": 53,
+        "surah_name": "An-Najm",
+        "surah_name_ar": "سُوْرَةُ النَّجْمِ",
+        "surah_name_translation": "The Star",
+        "ayah_number": 5,
+        "juz": 27,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 3,
+      "translations": {
+        "ar": {
+          "text": "عَلَّمَهُۥ شَدِيدُ ٱلۡقُوَىٰ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "He has been taught by one ˹angel˺ of mighty power",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "教授他的，是那强健的、",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "उसे बड़ी शक्तियोंवाले ने सिखाया",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Aquello que le enseñó el dotado de poder",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Que lui a enseigné [l'Ange Gabriel] à la force prodigieuse",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "তাঁকে শিক্ষা দান করে এক শক্তিশালী ফেরেশতা,",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Ensina-lhe, o Anjo Gabriel, o veemente em força",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Научил его обладающий могучей силой",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "ان کو نہایت قوت والے نے سکھایا",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_053_006",
+      "reference": {
+        "surah_number": 53,
+        "surah_name": "An-Najm",
+        "surah_name_ar": "سُوْرَةُ النَّجْمِ",
+        "surah_name_translation": "The Star",
+        "ayah_number": 6,
+        "juz": 27,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 3,
+      "translations": {
+        "ar": {
+          "text": "ذُو مِرَّةࣲ فَٱسۡتَوَىٰ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "and great perfection, who once rose to ˹his˺ true form",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "有力的，故他达到全美。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "स्थिर रीतिवाले ने।",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "y fortaleza, cuando se le presentó en su forma verdadera",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "doué de sagacité; c'est alors qu'il se montra sous sa forme réelle [angélique]",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "সহজাত শক্তিসম্পন্ন, সে নিজ আকৃতিতে প্রকাশ পেল।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Possuidor de sensatez; então, apareceu-lhe estático, em sua imagem original",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "и прекрасным сложением (или благоразумием). Он вознесся (или выпрямился)",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "(یعنی جبرائیل) طاقتور نے پھر وہ پورے نظر آئے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_053_007",
+      "reference": {
+        "surah_number": 53,
+        "surah_name": "An-Najm",
+        "surah_name_ar": "سُوْرَةُ النَّجْمِ",
+        "surah_name_translation": "The Star",
+        "ayah_number": 7,
+        "juz": 27,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 3,
+      "translations": {
+        "ar": {
+          "text": "وَهُوَ بِٱلۡأُفُقِ ٱلۡأَعۡلَىٰ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "while on the highest point above the horizon",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "他在东方的最高处，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "अतः वह भरपूर हुआ, इस हाल में कि वह क्षितिज के उच्चतम छोर पर है",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "en lo más elevado del horizonte",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "alors qu'il se trouvait à l'horizon supérieur",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "উর্ধ্ব দিগন্তে,",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Enquanto estava no horizonte mais alto",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "на наивысшем горизонте",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور وہ (آسمان کے) اونچے کنارے میں تھے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_053_008",
+      "reference": {
+        "surah_number": 53,
+        "surah_name": "An-Najm",
+        "surah_name_ar": "سُوْرَةُ النَّجْمِ",
+        "surah_name_translation": "The Star",
+        "ayah_number": 8,
+        "juz": 27,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 3,
+      "translations": {
+        "ar": {
+          "text": "ثُمَّ دَنَا فَتَدَلَّىٰ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "then he approached ˹the Prophet˺, coming so close",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "然么他渐渐接近而降低，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "फिर वह निकट हुआ और उतर गया",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "y luego descendió y se acercó a él",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Puis il se rapprocha et descendit encore plus bas",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "অতঃপর নিকটবর্তী হল ও ঝুলে গেল।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Em seguida, aproximou-se e achegou-se a ele",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Потом он приблизился и спустился",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "پھر قریب ہوئے اوراَور آگے بڑھے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_053_009",
+      "reference": {
+        "surah_number": 53,
+        "surah_name": "An-Najm",
+        "surah_name_ar": "سُوْرَةُ النَّجْمِ",
+        "surah_name_translation": "The Star",
+        "ayah_number": 9,
+        "juz": 27,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 5,
+      "translations": {
+        "ar": {
+          "text": "فَكَانَ قَابَ قَوۡسَيۡنِ أَوۡ أَدۡنَىٰ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "that he was only two arms-lengths away or even less",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "他相距两张弓的长度，或更近一些。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "अब दो कमानों के बराबर या उससे भी अधिक निकट हो गया",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "hasta una distancia de dos arcos o menos aún",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "et fut à deux portées d'arc, ou plus près encore",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "তখন দুই ধনুকের ব্যবধান ছিল অথবা আরও কম।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E ficou à distância de dois arcos, ou mais próximo, ainda",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Он находился от него (Джибрил от Мухаммада или Мухаммад от Аллаха) на расстоянии двух луков или даже ближе",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "تو دو کمان کے فاصلے پر یا اس سے بھی کم",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_053_010",
+      "reference": {
+        "surah_number": 53,
+        "surah_name": "An-Najm",
+        "surah_name_ar": "سُوْرَةُ النَّجْمِ",
+        "surah_name_translation": "The Star",
+        "ayah_number": 10,
+        "juz": 27,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 5,
+      "translations": {
+        "ar": {
+          "text": "فَأَوۡحَىٰٓ إِلَىٰ عَبۡدِهِۦ مَآ أَوۡحَىٰ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Then Allah revealed to His servant what He revealed ˹through Gabriel˺",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "他把他所应启示的启示他的仆人，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "तब उसने अपने बन्दे की ओर प्रकाशना की, जो कुछ प्रकाशना की।",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Entonces [Dios] le inspiró a Su siervo la revelación",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Il révéla à Son serviteur ce qu'Il révéla",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "তখন আল্লাহ তাঁর দাসের প্রতি যা প্রত্যাদেশ করবার, তা প্রত্যাদেশ করলেন।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Então, Ele revelou a Seu servo o que lhe revelou",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Он внушил Его рабу откровение",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "پھر خدا نے اپنے بندے کی طرف جو بھیجا سو بھیجا",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_053_011",
+      "reference": {
+        "surah_number": 53,
+        "surah_name": "An-Najm",
+        "surah_name_ar": "سُوْرَةُ النَّجْمِ",
+        "surah_name_translation": "The Star",
+        "ayah_number": 11,
+        "juz": 27,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 5,
+      "translations": {
+        "ar": {
+          "text": "مَا كَذَبَ ٱلۡفُؤَادُ مَا رَأَىٰٓ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "The ˹Prophet’s˺ heart did not doubt what he saw",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "他的心没有否认他所见的。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "दिल ने कोई धोखा नहीं दिया, जो कुछ उसने देखा",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "El corazón no desmintió lo que había visto",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Le cœur n'a pas menti en ce qu'il a vu",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "রসূলের অন্তর মিথ্যা বলেনি যা সে দেখেছে।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "O coração de Muhammad não desmentiu o que viu",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "и сердце не солгало о том, что он увидел",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "جو کچھ انہوں نے دیکھا ان کے دل نے اس کو جھوٹ نہ مانا",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_053_012",
+      "reference": {
+        "surah_number": 53,
+        "surah_name": "An-Najm",
+        "surah_name_ar": "سُوْرَةُ النَّجْمِ",
+        "surah_name_translation": "The Star",
+        "ayah_number": 12,
+        "juz": 27,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 4,
+      "translations": {
+        "ar": {
+          "text": "أَفَتُمَٰرُونَهُۥ عَلَىٰ مَا يَرَىٰ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "How can you ˹O pagans˺ then dispute with him regarding what he saw",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "难道你们要为他所见的而与他争论吗？",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "अब क्या तुम उस चीज़ पर झगड़ते हो, जिसे वह देख रहा है",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "¿Le van a discutir sobre lo que vio",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Lui contestez-vous donc ce qu'il voit",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "তোমরা কি বিষয়ে বিতর্ক করবে যা সে দেখেছে?",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Então, altercais, com ele, sobre o que vê",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Неужели вы будете препираться с ним о том, что он увидел",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "کیا جو کچھ وہ دیکھتے ہیں تم اس میں ان سے جھگڑتے ہو؟",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_053_013",
+      "reference": {
+        "surah_number": 53,
+        "surah_name": "An-Najm",
+        "surah_name_ar": "سُوْرَةُ النَّجْمِ",
+        "surah_name_translation": "The Star",
+        "ayah_number": 13,
+        "juz": 27,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 4,
+      "translations": {
+        "ar": {
+          "text": "وَلَقَدۡ رَءَاهُ نَزۡلَةً أُخۡرَىٰ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "And he certainly saw that ˹angel descend˺ a second time",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "他确已见他二次下降，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "और निश्चय ही वह उसे एक बार और",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Sepan que ya lo había visto en otro descenso",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Il l'a pourtant vu, lors d'une autre descente",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "নিশ্চয় সে তাকে আরেকবার দেখেছিল,",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E, com efeito, viu-o, outra vez",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Он уже видел его другое нисхождение",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور انہوں نے اس کو ایک بار بھی دیکھا ہے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_053_014",
+      "reference": {
+        "surah_number": 53,
+        "surah_name": "An-Najm",
+        "surah_name_ar": "سُوْرَةُ النَّجْمِ",
+        "surah_name_translation": "The Star",
+        "ayah_number": 14,
+        "juz": 27,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 3,
+      "translations": {
+        "ar": {
+          "text": "عِندَ سِدۡرَةِ ٱلۡمُنتَهَىٰ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "at the Lote Tree of the most extreme limit ˹in the seventh heaven˺—",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "在极境的酸枣树旁，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "सिदरतुल मुन्तहा' (परली सीमा के बेर) के पास उतरते देख चुका है",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "junto al azufaifo que demarca el límite",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "près de la Sidrat-ul-Muntahâ",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "সিদরাতুলমুন্তাহার নিকটে,",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Junto da Sidrat Al Muntaha;(árvore existente embaixo do Trono)",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "у Лотоса крайнего предела",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "پرلی حد کی بیری کے پاس",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_053_015",
+      "reference": {
+        "surah_number": 53,
+        "surah_name": "An-Najm",
+        "surah_name_ar": "سُوْرَةُ النَّجْمِ",
+        "surah_name_translation": "The Star",
+        "ayah_number": 15,
+        "juz": 27,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 3,
+      "translations": {
+        "ar": {
+          "text": "عِندَهَا جَنَّةُ ٱلۡمَأۡوَىٰٓ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "near which is the Garden of ˹Eternal˺ Residence—",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "那里有归宿的乐园。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "उसी के निकट 'जन्नतुल मावा' (ठिकानेवाली जन्नत) है।",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "donde se encuentra el jardín de la residencia eterna",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "près d'elle se trouve le jardin de Ma'w",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "যার কাছে অবস্থিত বসবাসের জান্নাত।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Junto dela, está o Jardim de Al Mawa",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "возле которого находится Сад пристанища",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اسی کے پاس رہنے کی جنت ہے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_053_016",
+      "reference": {
+        "surah_number": 53,
+        "surah_name": "An-Najm",
+        "surah_name_ar": "سُوْرَةُ النَّجْمِ",
+        "surah_name_translation": "The Star",
+        "ayah_number": 16,
+        "juz": 27,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 5,
+      "translations": {
+        "ar": {
+          "text": "إِذۡ يَغۡشَى ٱلسِّدۡرَةَ مَا يَغۡشَىٰ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "while the Lote Tree was overwhelmed with ˹heavenly˺ splendours",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "当酸枣树蒙上一层东西的时候，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "जबकि छा रहा था उस बेर पर, जो कुछ छा रहा था",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Cuando al azufaifo lo cubrió lo que lo cubrió",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "au moment où le lotus était couvert de ce qui le couvrait",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "যখন বৃক্ষটি দ্বারা আচ্ছন্ন হওয়ার, তদ্দ্বারা আচ্ছন্ন ছিল।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Quando encobriu as-Sidrata o que a encobriu",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Тогда Лотос покрыло то, что покрыло (золотая саранча, или группы ангелов, или повеление Аллаха)",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "جب کہ اس بیری پر چھا رہا تھا جو چھا رہا تھا",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_053_017",
+      "reference": {
+        "surah_number": 53,
+        "surah_name": "An-Najm",
+        "surah_name_ar": "سُوْرَةُ النَّجْمِ",
+        "surah_name_translation": "The Star",
+        "ayah_number": 17,
+        "juz": 27,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 5,
+      "translations": {
+        "ar": {
+          "text": "مَا زَاغَ ٱلۡبَصَرُ وَمَا طَغَىٰ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "The ˹Prophet’s˺ sight never wandered, nor did it overreach",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "眼未邪视，也未过分；",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "निगाह न तो टेढ़ी हुइ और न हद से आगे बढ़ी",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "y su mirada no se desvió ni se propasó",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "la vue n'a nullement dévié ni outrepassé la mesure",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "তাঁর দৃষ্টিবিভ্রম হয় নি এবং সীমালংঘনও করেনি।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "A vista não se lhe desviou nem foi além",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Его же взор не уклонился в сторону и не излишествовал",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "ان کی آنکھ نہ تو اور طرف مائل ہوئی اور نہ (حد سے) آگے بڑھی",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_053_018",
+      "reference": {
+        "surah_number": 53,
+        "surah_name": "An-Najm",
+        "surah_name_ar": "سُوْرَةُ النَّجْمِ",
+        "surah_name_translation": "The Star",
+        "ayah_number": 18,
+        "juz": 27,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 6,
+      "translations": {
+        "ar": {
+          "text": "لَقَدۡ رَأَىٰ مِنۡ ءَايَٰتِ رَبِّهِ ٱلۡكُبۡرَىٰٓ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "He certainly saw some of his Lord’s greatest signs",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "他确已看见他的主的一部分最大的迹象。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "निश्चय ही उसने अपने रब की बड़ी-बड़ी निशानियाँ देखीं",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Porque contempló algunos de los signos más sublimes de su Señor",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Il a bien vu certaines des grandes merveilles de son Seigneur",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "নিশ্চয় সে তার পালনকর্তার মহান নিদর্শনাবলী অবলোকন করেছে।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Com efeito, ele viu algo dos grandiosos sinais de seu Senhor",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "и он увидел величайшие из знамений своего Господа",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "انہوں نے اپنے پروردگار (کی قدرت) کی کتنی ہی بڑی بڑی نشانیاں دیکھیں",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_053_019",
+      "reference": {
+        "surah_number": 53,
+        "surah_name": "An-Najm",
+        "surah_name_ar": "سُوْرَةُ النَّجْمِ",
+        "surah_name_translation": "The Star",
+        "ayah_number": 19,
+        "juz": 27,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 3,
+      "translations": {
+        "ar": {
+          "text": "أَفَرَءَيۡتُمُ ٱللَّٰتَ وَٱلۡعُزَّىٰ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Now, have you considered ˹the idols of˺ Lât and ’Uzza",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "他们告诉我吧！拉特和欧萨，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "तो क्या तुमने लात और उज़्ज़ा",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "¿Cómo es que adoran a [los ídolos] Lat, a ‘Uzza",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Que vous en semble [des divinités], Lât et Uuzzâ",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "তোমরা কি ভেবে দেখেছ লাত ও ওযযা সম্পর্কে।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Vistes, então, al-Lat e al-Uzza",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Не видели ли вы аль-Лат и аль-Уззу",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "بھلا تم لوگوں نے لات اور عزیٰ کو دیکھا",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_053_020",
+      "reference": {
+        "surah_number": 53,
+        "surah_name": "An-Najm",
+        "surah_name_ar": "سُوْرَةُ النَّجْمِ",
+        "surah_name_translation": "The Star",
+        "ayah_number": 20,
+        "juz": 27,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 3,
+      "translations": {
+        "ar": {
+          "text": "وَمَنَوٰةَ ٱلثَّالِثَةَ ٱلۡأُخۡرَىٰٓ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "and the third one, Manât, as well",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "以及排行第3，也是最次的默那，怎么是真主的女儿呢？",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "और तीसरी एक और (देवी) मनात पर विचार किया",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "y a Manat, la tercera",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "ainsi que Manât, cette troisième autre",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "এবং তৃতীয় আরেকটি মানাত সম্পর্কে?",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E a outra Manat, a terceira, que nada podem",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "и еще третью - Манат",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور تیسرے منات کو (کہ یہ بت کہیں خدا ہوسکتے ہیں)",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_053_021",
+      "reference": {
+        "surah_number": 53,
+        "surah_name": "An-Najm",
+        "surah_name_ar": "سُوْرَةُ النَّجْمِ",
+        "surah_name_translation": "The Star",
+        "ayah_number": 21,
+        "juz": 27,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 4,
+      "translations": {
+        "ar": {
+          "text": "أَلَكُمُ ٱلذَّكَرُ وَلَهُ ٱلۡأُنثَىٰ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Do you ˹prefer to˺ have sons while ˹you attribute˺ to Him daughters",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "难道男孩归你们，女孩却归真主吗？",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "क्या तुम्हारे लिए तो बेटे है उनके लिए बेटियाँ",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Para ustedes los hijos varones y para Dios las hijas mujeres",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Sera-ce à vous le garçon et à Lui la fille",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "পুত্র-সন্তান কি তোমাদের জন্যে এবং কন্যা-সন্তান আল্লাহর জন্য?",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "É de vós o varão e dEle, a varoa",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Неужели у вас - потомки мужского пола, а у Него - женского",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "(مشرکو!) کیا تمہارے لئے تو بیٹے اور خدا کے لئے بیٹیاں",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_053_022",
+      "reference": {
+        "surah_number": 53,
+        "surah_name": "An-Najm",
+        "surah_name_ar": "سُوْرَةُ النَّجْمِ",
+        "surah_name_translation": "The Star",
+        "ayah_number": 22,
+        "juz": 27,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 5,
+      "translations": {
+        "ar": {
+          "text": "تِلۡكَ إِذࣰ ا قِسۡمَةࣱ ضِيزَىٰٓ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Then this is ˹truly˺ a biased distribution",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "然而，这是不公平的分配。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "तब तो यह बहुत बेढ़ंगा और अन्यायपूर्ण बँटवारा हुआ",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Esa es una división injusta",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Que voilà donc un partage injuste",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "এমতাবস্থায় এটা তো হবে খুবই অসংগত বন্টন।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Esta é, nesse caso, uma partilha iníqua",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Это было бы несправедливым распределением",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "یہ تقسیم تو بہت بےانصافی کی ہے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_053_023",
+      "reference": {
+        "surah_number": 53,
+        "surah_name": "An-Najm",
+        "surah_name_ar": "سُوْرَةُ النَّجْمِ",
+        "surah_name_translation": "The Star",
+        "ayah_number": 23,
+        "juz": 27,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 25,
+      "translations": {
+        "ar": {
+          "text": "إِنۡ هِيَ إِلَّآ أَسۡمَآءࣱ سَمَّيۡتُمُوهَآ أَنتُمۡ وَءَابَآؤُكُم مَّآ أَنزَلَ ٱللَّهُ بِهَا مِن سُلۡطَٰنٍۚ إِن يَتَّبِعُونَ إِلَّا ٱلظَّنَّ وَمَا تَهۡوَى ٱلۡأَنفُسُۖ وَلَقَدۡ جَآءَهُم مِّن رَّبِّهِمُ ٱلۡهُدَىٰٓ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "These ˹idols˺ are mere names that you and your forefathers have made up—a practice Allah has never authorized. They follow nothing but ˹inherited˺ assumptions and whatever ˹their˺ souls desire, although ˹true˺ guidance has already come to them from their Lord",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "这些偶像只是你们和你们的祖先所定的名称，真主并未加以证实，他们只是凭猜想和私欲。正道确已从他们的主降临他们。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "वे तो बस कुछ नाम है जो तुमने और तुम्हारे बाप-दादा ने रख लिए है। अल्लाह ने उनके लिए कोई सनद नहीं उतारी। वे तो केवल अटकल के पीछे चले रहे है और उनके पीछे जो उनके मन की इच्छा होती है। हालाँकि उनके पास उनके रब की ओर से मार्गदर्शन आ चुका है",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "[Esos tres ídolos] son solo nombres que ustedes y sus padres han inventado, porque Dios no les dio autoridad alguna para ello. [Los idólatras] solo siguen suposiciones impulsados por sus propias pasiones, a pesar de haberles llegado la guía de su Señor",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Ce ne sont que des noms que vous avez inventés, vous et vos ancêtres. Allah n'a fait descendre aucune preuve à leur sujet. Ils ne suivent que la conjecture et les passions de [leurs] âmes, alors que la guidée leur est venue de leur Seigneur",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "এগুলো কতগুলো নাম বৈ নয়, যা তোমরা এবং তোমাদের পূর্ব-পুরুষদের রেখেছ। এর সমর্থনে আল্লাহ কোন দলীল নাযিল করেননি। তারা অনুমান এবং প্রবৃত্তিরই অনুসরণ করে। অথচ তাদের কাছে তাদের পালনকর্তার পক্ষ থেকে পথ নির্দেশ এসেছে।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Os ídolos não são senão nomes que nomeastes - vós e vossos pais - dos quais Allah não fez descer comprovação alguma. Eles não seguem senão as conjeturas e aquilo pelo qual as almas se apaixonam. E, com efeito, chegou-lhes a Orientação de seu Senhor",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Они - всего лишь имена, которыми нарекли их вы и ваши отцы, относительно которых Аллах не ниспослал никакого доказательства. Они следуют лишь предположениям и тому, чего желают души, хотя верное руководство от их Господа уже явилось к ним",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "وہ تو صرف نام ہی نام ہیں جو تم نے اور تمہارے باپ دادا نے گھڑ لئے ہیں۔ خدا نے تو ان کی کوئی سند نازل نہیں کی۔ یہ لوگ محض ظن (فاسد) اور خواہشات نفس کے پیچھے چل رہے ہیں۔ حالانکہ ان کے پروردگار کی طرف سے ان کے پاس ہدایت آچکی ہے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_053_024",
+      "reference": {
+        "surah_number": 53,
+        "surah_name": "An-Najm",
+        "surah_name_ar": "سُوْرَةُ النَّجْمِ",
+        "surah_name_translation": "The Star",
+        "ayah_number": 24,
+        "juz": 27,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 4,
+      "translations": {
+        "ar": {
+          "text": "أَمۡ لِلۡإِنسَٰنِ مَا تَمَنَّىٰ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Or should every person ˹simply˺ have whatever ˹intercessors˺ they desire",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "难道人希望什么就有什么？",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "(क्या उनकी देवियाँ उन्हें लाभ पहुँचा सकती है) या मनुष्य वह कुछ पा लेगा, जिसकी वह कामना करता है",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "¿Acaso cree el ser humano que obtendrá todo cuanto ambiciona",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Ou bien l'homme aura-t-il tout ce qu'il désire",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "মানুষ যা চায়, তাই কি পায়?",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Será que o ser humano tem o que ambiciona",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Или же для человека уготовано то, чего он желает",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "کیا جس چیز کی انسان آرزو کرتا ہے وہ اسے ضرور ملتی ہے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_053_025",
+      "reference": {
+        "surah_number": 53,
+        "surah_name": "An-Najm",
+        "surah_name_ar": "سُوْرَةُ النَّجْمِ",
+        "surah_name_translation": "The Star",
+        "ayah_number": 25,
+        "juz": 27,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 3,
+      "translations": {
+        "ar": {
+          "text": "فَلِلَّهِ ٱلۡأٓخِرَةُ وَٱلۡأُولَىٰ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "In fact, to Allah ˹alone˺ belongs this world and the next",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "么世和今世，都是真主的。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "आख़िरत और दुनिया का मालिक तो अल्लाह ही है",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "A Dios le pertenecen esta vida y la otra",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "A Allah appartiennent la vie future et la vie d'ici-bas",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "অতএব, পরবর্তী ও পূর্ববর্তী সব মঙ্গলই আল্লাহর হাতে।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Então, de Allah é a Derradeira Vida e a primeira",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Аллаху принадлежит Последняя жизнь и жизнь первая",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "آخرت اور دنیا تو الله ہی کے ہاتھ میں ہے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_053_026",
+      "reference": {
+        "surah_number": 53,
+        "surah_name": "An-Najm",
+        "surah_name_ar": "سُوْرَةُ النَّجْمِ",
+        "surah_name_translation": "The Star",
+        "ayah_number": 26,
+        "juz": 27,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 18,
+      "translations": {
+        "ar": {
+          "text": "۞وَكَم مِّن مَّلَكࣲ فِي ٱلسَّمَٰوَٰتِ لَا تُغۡنِي شَفَٰعَتُهُمۡ شَيۡـًٔا إِلَّا مِنۢ بَعۡدِ أَن يَأۡذَنَ ٱللَّهُ لِمَن يَشَآءُ وَيَرۡضَىٰٓ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "˹Imagine˺ how many ˹noble˺ angels are in the heavens! ˹Even˺ their intercession would be of no benefit whatsoever, until Allah gives permission to whoever He wills and ˹only for the people He˺ approves",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "天上的许多天神，他们的说情，毫无裨益，除非在真主许可他们为他所意欲和所喜悦者说情之么，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "आकाशों में कितने ही फ़रिश्ते है, उनकी सिफ़ारिश कुछ काम नहीं आएगी; यदि काम आ सकती है तो इसके पश्चात ही कि अल्लाह अनुमति दे, जिसे चाहे और पसन्द करे।",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "¿Cuántos ángeles hay en los cielos cuya intercesión no servirá de nada, salvo que Dios lo permita en favor de quien Él quiera y de quien esté complacido",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Et que d'Anges dans les cieux dont l'intercession ne sert à rien, sinon qu'après qu'Allah l'aura permis, en faveur de qui Il veut et qu'Il agrée",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "আকাশে অনেক ফেরেশতা রয়েছে। তাদের কোন সুপারিশ ফলপ্রসূ হয় না যতক্ষণ আল্লাহ যার জন্যে ইচ্ছা ও যাকে পছন্দ করেন, অনুমতি না দেন।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E quantos anjos há, nos céus, cuja intercessão de nada valerá, senão após Allah permiti-la a quem quiser e a quem Lhe agradar",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Сколько же на небесах ангелов, заступничество которых не принесет никакой пользы, пока Аллах не позволит заступиться за тех, за кого Он пожелает и кем Он доволен",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور آسمانوں میں بہت سے فرشتے ہیں جن کی سفارش کچھ بھی فائدہ نہیں دیتی مگر اس وقت کہ خدا جس کے لئے چاہے اجازت بخشے اور (سفارش) پسند کرے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_053_027",
+      "reference": {
+        "surah_number": 53,
+        "surah_name": "An-Najm",
+        "surah_name_ar": "سُوْرَةُ النَّجْمِ",
+        "surah_name_translation": "The Star",
+        "ayah_number": 27,
+        "juz": 27,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 9,
+      "translations": {
+        "ar": {
+          "text": "إِنَّ ٱلَّذِينَ لَا يُؤۡمِنُونَ بِٱلۡأٓخِرَةِ لَيُسَمُّونَ ٱلۡمَلَٰٓئِكَةَ تَسۡمِيَةَ ٱلۡأُنثَىٰ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Indeed, those who do not believe in the Hereafter label angels as female",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "不信么世的人们，的确以女性的名称称呼天神们。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "जो लोग आख़िरत को नहीं मानते, वे फ़रिश्तों के देवियों के नाम से अभिहित करते है",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Quienes no creen en la otra vida, le dan a los ángeles nombres femeninos",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Ceux qui ne croient pas en l'au-delà donnent aux Anges des noms de femmes",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "যারা পরকালে বিশ্বাস করে না, তারাই ফেরেশতাকে নারীবাচক নাম দিয়ে থাকে।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Por certo, os que não crêem na Derradeira Vida nomeiam os anjos com nomes de varoa",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Воистину, те, которые не веруют в Последнюю жизнь, называют ангелов женщинами",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "جو لوگ آخرت پر ایمان نہیں لاتے وہ فرشتوں کو (خدا کی) لڑکیوں کے نام سے موسوم کرتے ہیں",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_053_028",
+      "reference": {
+        "surah_number": 53,
+        "surah_name": "An-Najm",
+        "surah_name_ar": "سُوْرَةُ النَّجْمِ",
+        "surah_name_translation": "The Star",
+        "ayah_number": 28,
+        "juz": 27,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 17,
+      "translations": {
+        "ar": {
+          "text": "وَمَا لَهُم بِهِۦ مِنۡ عِلۡمٍۖ إِن يَتَّبِعُونَ إِلَّا ٱلظَّنَّۖ وَإِنَّ ٱلظَّنَّ لَا يُغۡنِي مِنَ ٱلۡحَقِّ شَيۡـࣰٔ ا",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "although they have no knowledge ˹in support˺ of this. They follow nothing but ˹inherited˺ assumptions. And surely assumptions can in no way replace the truth",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "他们对于那种称呼，绝无任何知识，他们只凭猜想；而猜想对于真理，确是毫无裨益的。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "हालाँकि इस विषय में उन्हें कोई ज्ञान नहीं। वे केवल अटकल के पीछे चलते है, हालाँकि सत्य से जो लाभ पहुँचता है वह अटकल से कदापि नहीं पहुँच सकता।",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "sin tener ningún conocimiento sobre ello. Solo siguen conjeturas, pero las conjeturas carecen de valor frente a la Verdad",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "alors qu'ils n'en ont aucune science: ils ne suivent que la conjecture, alors que la conjecture ne sert à rien contre la vérité",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "অথচ এ বিষয়ে তাদের কোন জ্ঞান নেই। তারা কেবল অনুমানের উপর চলে। অথচ সত্যের ব্যাপারে অনুমান মোটেই ফলপ্রসূ নয়।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E disso eles não têm ciência alguma. Não seguem senão as conjeturas. E, por certo, as conjecturas de nada valem diante da verdade",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "У них нет об этом никакого знания. Они следуют лишь предположениям, хотя предположения не могут заменить истину",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "حالانکہ ان کو اس کی کچھ خبر نہیں۔ وہ صرف ظن پر چلتے ہیں۔ اور ظن یقین کے مقابلے میں کچھ کام نہیں آتا",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_053_029",
+      "reference": {
+        "surah_number": 53,
+        "surah_name": "An-Najm",
+        "surah_name_ar": "سُوْرَةُ النَّجْمِ",
+        "surah_name_translation": "The Star",
+        "ayah_number": 29,
+        "juz": 27,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 11,
+      "translations": {
+        "ar": {
+          "text": "فَأَعۡرِضۡ عَن مَّن تَوَلَّىٰ عَن ذِكۡرِنَا وَلَمۡ يُرِدۡ إِلَّا ٱلۡحَيَوٰةَ ٱلدُّنۡيَا",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "So turn away ˹O Prophet˺ from whoever has shunned Our Reminder, only seeking the ˹fleeting˺ life of this world",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "你应当避开那违背我的教诲，且只欲享今世生活者；",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "अतः तुम उसको ध्यान में न लाओ जो हमारे ज़िक्र से मुँह मोड़ता है और सांसारिक जीवन के सिवा उसने कुछ नहीं चाहा",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Apártate de quienes rechazan Mi Mensaje y no desean sino [el materialismo de] la vida mundanal",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Ecarte-toi donc, de celui qui tourne le dos à Notre rappel et qui ne désire que la vie présente",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "অতএব যে আমার স্মরণে বিমুখ এবং কেবল পার্থিব জীবনই কামনা করে তার তরফ থেকে আপনি মুখ ফিরিয়ে নিন।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Então, Muhammad, dá de ombros a quem volta as costas a Nossa Mensagem e não deseja senão a vida terrena",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Отвернись же от того, кто отвернулся от Нашего Напоминания и не пожелал ничего, кроме мирской жизни",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "تو جو ہماری یاد سے روگردانی اور صرف دنیا ہی کی زندگی کا خواہاں ہو اس سے تم بھی منہ پھیر لو",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_053_030",
+      "reference": {
+        "surah_number": 53,
+        "surah_name": "An-Najm",
+        "surah_name_ar": "سُوْرَةُ النَّجْمِ",
+        "surah_name_translation": "The Star",
+        "ayah_number": 30,
+        "juz": 27,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 16,
+      "translations": {
+        "ar": {
+          "text": "ذَٰلِكَ مَبۡلَغُهُم مِّنَ ٱلۡعِلۡمِۚ إِنَّ رَبَّكَ هُوَ أَعۡلَمُ بِمَن ضَلَّ عَن سَبِيلِهِۦ وَهُوَ أَعۡلَمُ بِمَنِ ٱهۡتَدَىٰ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "This is the extent of their knowledge. Surely your Lord knows best who has strayed from His Way and who is ˹rightly˺ guided",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "那是他们的知识程度。你的主，确是全知背离正道者的，也是全知遵循正道者的。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "ऐसे लोगों के ज्ञान की पहुँच बस यहीं तक है। निश्चय ही तुम्हारा रब ही उसे भली-भाँति जानता है जो उसके मार्ग से भटक गया और वही उसे भी भली-भाँति जानता है जिसने सीधा मार्ग अपनाया",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Ese es el único conocimiento que les interesa alcanzar. Tu Señor bien sabe quién se extravía de Su camino y quién se encamina",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Voilà toute la portée de leur savoir. Certes ton Seigneur connaît parfaitement celui qui s'égare de Son chemin et Il connaît parfaitement qui est bien guidé",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "তাদের জ্ঞানের পরিধি এ পর্যন্তই। নিশ্চয় আপনার পালনকর্তা ভাল জানেন, কে তাঁর পথ থেকে বিচ্যুত হয়েছে এবং তিনিই ভাল জানেন কে সুপথপ্রাপ্ত হয়েছে।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Esse é seu alcance da ciência. Por certo, teu Senhor é bem Sabedor de quem se descaminha de Seu caminho. E Ele é bem Sabedor de quem se guia",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Таков предел их познаний. Воистину, твоему Господу лучше знать тех, кто сбился с Его пути, и лучше знать тех, кто последовал прямым путем",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "ان کے علم کی انتہا یہی ہے۔ تمہارا پروردگار اس کو بھی خوب جانتا ہے جو اس کے رستے سے بھٹک گیا اور اس سے بھی خوب واقف ہے جو رستے پر چلا",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_053_031",
+      "reference": {
+        "surah_number": 53,
+        "surah_name": "An-Najm",
+        "surah_name_ar": "سُوْرَةُ النَّجْمِ",
+        "surah_name_translation": "The Star",
+        "ayah_number": 31,
+        "juz": 27,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 16,
+      "translations": {
+        "ar": {
+          "text": "وَلِلَّهِ مَا فِي ٱلسَّمَٰوَٰتِ وَمَا فِي ٱلۡأَرۡضِ لِيَجۡزِيَ ٱلَّذِينَ أَسَٰٓـُٔواْ بِمَا عَمِلُواْ وَيَجۡزِيَ ٱلَّذِينَ أَحۡسَنُواْ بِٱلۡحُسۡنَى",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "To Allah ˹alone˺ belongs whatever is in the heavens and whatever is on the earth so that He may reward the evildoers according to what they did, and reward the good-doers with the finest reward—",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "天地万物，都是真主的。他创造万物，以便他依作恶者的行为而报酬他们，并以至善的品级报酬行善者。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "अल्लाह ही का है जो कुछ आकाशों में है और जो कुछ धरती में है, ताकि जिन लोगों ने बुराई की वह उन्हें उनके किए का बदला दे। और जिन लोगों ने भलाई की उन्हें अच्छा बदला दे",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "A Dios pertenece cuanto hay en los cielos y en la Tierra, y Él castigará a quienes obren el mal y retribuirá con una hermosa recompensa a los que hagan el bien",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "A Allah appartient ce qui est dans les cieux et sur la terre afin qu'Il rétribue ceux qui font le mal selon ce qu'ils œuvrent, et récompense ceux qui font le bien par la meilleure [récompense]",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "নভোমন্ডল ও ভূমন্ডলে যা কিছু আছে, সবই আল্লাহর, যাতে তিনি মন্দকর্মীদেরকে তাদের কর্মের প্রতিফল দেন এবং সৎকর্মীদেরকে দেন ভাল ফল।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E é de Allah o que há nos céus e o que há na terra, para recompensar os que mal-fazem, pelo que fazem, e recompensar os que bem-fazem, com a mais bela recompensa",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Аллаху принадлежит то, что на небесах, и то, что на земле, дабы Он воздал злодеям за то, что они совершили, и воздал творившим добро Наилучшим (Раем)",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور جو کچھ آسمانوں میں ہے اور جو کچھ زمین میں ہے سب خدا ہی کا ہے (اور اس نے خلقت کو) اس لئے (پیدا کیا ہے) کہ جن لوگوں نے برے کام کئے ان کو ان کے اعمال کا (برا) بدلا دے اور جنہوں نے نیکیاں کیں ان کو نیک بدلہ دے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_053_032",
+      "reference": {
+        "surah_number": 53,
+        "surah_name": "An-Najm",
+        "surah_name_ar": "سُوْرَةُ النَّجْمِ",
+        "surah_name_translation": "The Star",
+        "ayah_number": 32,
+        "juz": 27,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 31,
+      "translations": {
+        "ar": {
+          "text": "ٱلَّذِينَ يَجۡتَنِبُونَ كَبَٰٓئِرَ ٱلۡإِثۡمِ وَٱلۡفَوَٰحِشَ إِلَّا ٱللَّمَمَۚ إِنَّ رَبَّكَ وَٰسِعُ ٱلۡمَغۡفِرَةِۚ هُوَ أَعۡلَمُ بِكُمۡ إِذۡ أَنشَأَكُم مِّنَ ٱلۡأَرۡضِ وَإِذۡ أَنتُمۡ أَجِنَّةࣱ فِي بُطُونِ أُمَّهَٰتِكُمۡۖ فَلَا تُزَكُّوٓاْ أَنفُسَكُمۡۖ هُوَ أَعۡلَمُ بِمَنِ ٱتَّقَىٰٓ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "those who avoid major sins and shameful deeds, despite ˹stumbling on˺ minor sins. Surely your Lord is infinite in forgiveness. He knew well what would become of you as He created you from the earth and while you were ˹still˺ fetuses in the wombs of your mothers. So do not ˹falsely˺ elevate yourselves. He knows best who is ˹truly˺ righteous",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "远离大罪和丑事，但犯小罪者，你的主确是宽宥的。当他从大地创造你们的时候，当你们是在母腹中的胎儿的时候，他是全知你们的；所以你们不要自称清白，他是全知敬畏者的。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "वे लोग जो बड़े गुनाहों और अश्लील कर्मों से बचते है, यह और बात है कि संयोगबश कोई छोटी बुराई उनसे हो जाए। निश्चय ही तुम्हारा रब क्षमाशीलता मे बड़ा व्यापक है। वह तुम्हें उस समय से भली-भाँति जानता है, जबकि उसने तुम्हें धरती से पैदा किया और जबकि तुम अपनी माँओ के पेटों में भ्रुण अवस्था में थे। अतः अपने मन की पवित्रता और निखार का दावा न करो। वह उस व्यक्ति को भली-भाँति जानता है, जिसने डर रखा",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "aquellos que evitan los pecados graves y las obscenidades, y no cometen más que faltas leves. Tu Señor es inmensamente indulgente. Él los conoce bien, ya que los creó de la tierra y luego hizo que fueran embriones en el vientre de sus madres. No se elogien a sí mismos, Él bien sabe quién es realmente piadoso",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "ceux qui évitent les plus grands péchés ainsi que les turpitudes et [qui ne commettent] que des fautes légères. Certes, le pardon de Ton Seigneur est immense. C'est Lui qui vous connaît le mieux quand Il vous a produits de terre, et aussi quand vous étiez des embryons dans les ventres de vos mères. Ne vantez pas vous-mêmes votre pureté; c'est Lui qui connaît mieux ceux qui [Le] craignent",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "যারা বড় বড় গোনাহ ও অশ্লীলকার্য থেকে বেঁচে থাকে ছোটখাট অপরাধ করলেও নিশ্চয় আপনার পালনকর্তার ক্ষমা সুদূর বিস্তৃত। তিনি তোমাদের সম্পর্কে ভাল জানেন, যখন তিনি তোমাদেরকে সৃষ্টি করেছেন মৃত্তিকা থেকে এবং যখন তোমরা মাতৃগর্ভে কচি শিশু ছিলে। অতএব তোমরা আত্নপ্রশংসা করো না। তিনি ভাল জানেন কে সংযমী।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Estes são os que evitam os maiores pecados e as obscenidades, exceto as faltas menores. Por certo, teu Senhor é de munificente perdão. Ele é bem Sabedor de vós, quando vos fez surgir da terra e quando éreis embriões nos ventres de vossas mães. Então, não vos pretendais dignos: Ele é bem Sabedor de quem é piedoso",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Они избегают великих грехов и мерзостей, кроме мелких и немногочисленных проступков. Воистину, твой Господь обладает необъятным прощением. Ему было лучше знать о вас, когда Он сотворил вас из земли и когда вы были зародышами в утробах ваших матерей. Не восхваляйте самих себя, ибо Ему лучше знать тех, кто богобоязнен",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "جو صغیرہ گناہوں کے سوا بڑے بڑے گناہوں اور بےحیائی کی باتوں سے اجتناب کرتے ہیں۔ بےشک تمہارا پروردگار بڑی بخشش والا ہے۔ وہ تم کو خوب جانتا ہے۔ جب اس نے تم کو مٹی سے پیدا کیا اور جب تم اپنی ماؤں کے پیٹ میں بچّے تھے۔ تو اپنے آپ کو پاک صاف نہ جتاؤ۔ جو پرہیزگار ہے وہ اس سے خوب واقف ہے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_053_033",
+      "reference": {
+        "surah_number": 53,
+        "surah_name": "An-Najm",
+        "surah_name_ar": "سُوْرَةُ النَّجْمِ",
+        "surah_name_translation": "The Star",
+        "ayah_number": 33,
+        "juz": 27,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 3,
+      "translations": {
+        "ar": {
+          "text": "أَفَرَءَيۡتَ ٱلَّذِي تَوَلَّىٰ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Have you seen the one who turned away ˹from Islam,˺",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "你告诉我吧！违背正道，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "क्या तुमने उस व्यक्ति को देखा जिसने मुँह फेरा",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "¿Has visto que quien rechaza [el Islam]",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Vois-tu celui qui s'est détourné",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "আপনি কি তাকে দেখেছেন, যে মুখ ফিরিয়ে নেয়।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Então, viste aquele que voltou as costas",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Видел ли ты того, кто отвернулся",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "بھلا تم نے اس شخص کو دیکھا جس نے منہ پھیر لیا",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_053_034",
+      "reference": {
+        "surah_number": 53,
+        "surah_name": "An-Najm",
+        "surah_name_ar": "سُوْرَةُ النَّجْمِ",
+        "surah_name_translation": "The Star",
+        "ayah_number": 34,
+        "juz": 27,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 4,
+      "translations": {
+        "ar": {
+          "text": "وَأَعۡطَىٰ قَلِيلࣰ ا وَأَكۡدَىٰٓ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "and ˹initially˺ paid a little ˹for his salvation˺, and then stopped",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "稍稍施舍就悭吝的人，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "और थोड़ा-सा देकर रुक गया",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "da poco en caridad y es tacaño",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "donné peu et a [finalement] cessé de donner",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "এবং দেয় সামান্যই ও পাষাণ হয়ে যায়।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E deu um pouco e parou por avareza",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "дал мало и прекратил давать вовсе",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور تھوڑا سا دیا (پھر) ہاتھ روک لیا",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_053_035",
+      "reference": {
+        "surah_number": 53,
+        "surah_name": "An-Najm",
+        "surah_name_ar": "سُوْرَةُ النَّجْمِ",
+        "surah_name_translation": "The Star",
+        "ayah_number": 35,
+        "juz": 27,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 5,
+      "translations": {
+        "ar": {
+          "text": "أَعِندَهُۥ عِلۡمُ ٱلۡغَيۡبِ فَهُوَ يَرَىٰٓ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Does he have the knowledge of the unseen so that he sees ˹the Hereafter˺",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "难道他知道幽玄，故认自己的行为为真理吗？",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "क्या उसके पास परोक्ष का ज्ञान है कि वह देख रहा है",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "¿Acaso tiene conocimiento de lo oculto y puede ver [lo que sucederá en el Más Allá]",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Détient-il la science de l'Inconnaissable en sorte qu'il voit",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "তার কাছে কি অদৃশ্যের জ্ঞান আছে যে, সে দেখে?",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Tem ele a ciência do Invisível, então o vê",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Разве он обладает таким знанием о сокровенном, что он видит его",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "کیا اس کے پاس غیب کا علم ہے کہ وہ اس کو دیکھ رہا ہے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_053_036",
+      "reference": {
+        "surah_number": 53,
+        "surah_name": "An-Najm",
+        "surah_name_ar": "سُوْرَةُ النَّجْمِ",
+        "surah_name_translation": "The Star",
+        "ayah_number": 36,
+        "juz": 27,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 7,
+      "translations": {
+        "ar": {
+          "text": "أَمۡ لَمۡ يُنَبَّأۡ بِمَا فِي صُحُفِ مُوسَىٰ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Or has he not been informed of what is in the Scripture of Moses",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "难道没有人告诉过他穆萨的经典，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "या उसको उन बातों की ख़बर नहीं पहुँची, जो मूसा की किताबों में है",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "¿No le han informado de lo que contienen las páginas reveladas a Moisés",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Ne lui a-t-on pas annoncé ce qu'il y avait dans les feuilles de Moïse",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "তাকে কি জানানো হয়নি যা আছে মূসার কিতাবে,",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Não foi ele informado do que há nas páginas de Moisés",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Разве ему не поведали о том, что было в свитках Мусы (Моисея)",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "کیا جو باتیں موسیٰ کے صحیفوں میں ہیں ان کی اس کو خبر نہیں پہنچی",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_053_037",
+      "reference": {
+        "surah_number": 53,
+        "surah_name": "An-Najm",
+        "surah_name_ar": "سُوْرَةُ النَّجْمِ",
+        "surah_name_translation": "The Star",
+        "ayah_number": 37,
+        "juz": 27,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 3,
+      "translations": {
+        "ar": {
+          "text": "وَإِبۡرَٰهِيمَ ٱلَّذِي وَفَّىٰٓ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "and ˹that of˺ Abraham, who ˹perfectly˺ fulfilled ˹his covenant˺",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "和履行诫命的易卜拉欣的经典中所记载的事情吗？",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "और इबराहीम की (किताबों में है), जिसने अल्लाह की बन्दगी का) पूरा-पूरा हक़ अदा कर दिया",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "y a Abraham, el fiel cumplidor",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "et celles d'Abraham qui a tenu parfaitement [sa promesse de transmettre]",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "এবং ইব্রাহীমের কিতাবে, যে তার দায়িত্ব পালন করেছিল?",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E nas de Abraão, que cumpriu seu dever",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "и Ибрахима (Авраама), который выполнил повеления Аллаха полностью",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور ابراہیمؑ کی جنہوں نے (حق طاعت ورسالت) پورا کیا",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_053_038",
+      "reference": {
+        "surah_number": 53,
+        "surah_name": "An-Najm",
+        "surah_name_ar": "سُوْرَةُ النَّجْمِ",
+        "surah_name_translation": "The Star",
+        "ayah_number": 38,
+        "juz": 27,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 5,
+      "translations": {
+        "ar": {
+          "text": "أَلَّا تَزِرُ وَازِرَةࣱ وِزۡرَ أُخۡرَىٰ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "˹They state˺ that no soul burdened with sin will bear the burden of another",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "一个负罪者，不负别人的罪。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "यह कि कोई बोझ उठानेवाला किसी दूसरे का बोझ न उठाएगा",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Que nadie cargará con pecados ajenos",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "qu'aucune [âme] ne portera le fardeau (le péché) d'autrui",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "কিতাবে এই আছে যে, কোন ব্যক্তি কারও গোনাহ নিজে বহন করবে না।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Que nenhuma alma pecadora arca com o pecado de outra",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Ни одна душа не понесет чужого бремени",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "یہ کہ کوئی شخص دوسرے (کے گناہ) کا بوجھ نہیں اٹھائے گا",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_053_039",
+      "reference": {
+        "surah_number": 53,
+        "surah_name": "An-Najm",
+        "surah_name_ar": "سُوْرَةُ النَّجْمِ",
+        "surah_name_translation": "The Star",
+        "ayah_number": 39,
+        "juz": 27,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 6,
+      "translations": {
+        "ar": {
+          "text": "وَأَن لَّيۡسَ لِلۡإِنسَٰنِ إِلَّا مَا سَعَىٰ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "and that each person will only have what they endeavoured towards",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "各人只得享受自己的劳绩；",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "और यह कि मनुष्य के लिए बस वही है जिसके लिए उसने प्रयास किया",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "que el ser humano no obtendrá sino el fruto de sus esfuerzos",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "et qu'en vérité, l'homme n'obtient que [le fruit] de ses efforts",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "এবং মানুষ তাই পায়, যা সে করে,",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E que não há, para o ser humano, senão o que adquire com seu esforço",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Человек получит только то, к чему он стремился",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور یہ کہ انسان کو وہی ملتا ہے جس کی وہ کوشش کرتا ہے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_053_040",
+      "reference": {
+        "surah_number": 53,
+        "surah_name": "An-Najm",
+        "surah_name_ar": "سُوْرَةُ النَّجْمِ",
+        "surah_name_translation": "The Star",
+        "ayah_number": 40,
+        "juz": 27,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 4,
+      "translations": {
+        "ar": {
+          "text": "وَأَنَّ سَعۡيَهُۥ سَوۡفَ يُرَىٰ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "and that ˹the outcome of˺ their endeavours will be seen ˹in their record˺",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "他的劳绩，将被看见，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "और यह कि उसका प्रयास शीघ्र ही देखा जाएगा।",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "que sus esfuerzos se verán",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "et que son effort, en vérité, lui sera présenté (le jour du Jugement)",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "তার কর্ম শীঘ্রই দেখা হবে।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E que seu esforço será visto",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Его устремления будут увидены",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور یہ کہ اس کی کوشش دیکھی جائے گی",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_053_041",
+      "reference": {
+        "surah_number": 53,
+        "surah_name": "An-Najm",
+        "surah_name_ar": "سُوْرَةُ النَّجْمِ",
+        "surah_name_translation": "The Star",
+        "ayah_number": 41,
+        "juz": 27,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 4,
+      "translations": {
+        "ar": {
+          "text": "ثُمَّ يُجۡزَىٰهُ ٱلۡجَزَآءَ ٱلۡأَوۡفَىٰ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "then they will be fully rewarded",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "然么他将受最完全的报酬。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "फिर उसे पूरा बदला दिया जाएगा",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "que será retribuido con una recompensa total",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Ensuite il en sera récompensé pleinement",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "অতঃপর তাকে পূর্ণ প্রতিদান দেয়া হবে।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Em seguida, será recompensado com a mais completa recompensa",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "а затем он получит воздаяние сполна",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "پھر اس کو اس کا پورا پورا بدلا دیا جائے گا",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_053_042",
+      "reference": {
+        "surah_number": 53,
+        "surah_name": "An-Najm",
+        "surah_name_ar": "سُوْرَةُ النَّجْمِ",
+        "surah_name_translation": "The Star",
+        "ayah_number": 42,
+        "juz": 27,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 4,
+      "translations": {
+        "ar": {
+          "text": "وَأَنَّ إِلَىٰ رَبِّكَ ٱلۡمُنتَهَىٰ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "and that to your Lord ˹alone˺ is the ultimate return ˹of all things˺",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "你的主，是众生的归宿。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "और यह कि अन्त में पहुँचना तुम्हारे रब ही की ओर है",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "y que ante tu Señor se ha de comparecer finalmente",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "et que tout aboutit, en vérité, vers ton Seigneur",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "তোমার পালনকর্তার কাছে সবকিছুর সমাপ্তি,",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E que a teu Senhor será o término de tudo",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "К твоему Господу предстоит конечный исход (или твоему Господу принадлежит конечный предел)",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور یہ کہ تمہارے پروردگار ہی کے پاس پہنچنا ہے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_053_043",
+      "reference": {
+        "surah_number": 53,
+        "surah_name": "An-Najm",
+        "surah_name_ar": "سُوْرَةُ النَّجْمِ",
+        "surah_name_translation": "The Star",
+        "ayah_number": 43,
+        "juz": 27,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 4,
+      "translations": {
+        "ar": {
+          "text": "وَأَنَّهُۥ هُوَ أَضۡحَكَ وَأَبۡكَىٰ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Moreover, He is the One Who brings about joy and sadness",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "他能使人笑，能使人哭；",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "और यह कि वही है जो हँसाता और रुलाता है",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Él es Quien hace reír y hace llorar",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "et que c'est Lui qui a fait rire et qui a fait pleurer",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "এবং তিনিই হাসান ও কাঁদান",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E que Ele é Quem faz rir e faz chorar",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Он заставляет смеяться и плакать",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور یہ کہ وہ ہنساتا اور رلاتا ہے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_053_044",
+      "reference": {
+        "surah_number": 53,
+        "surah_name": "An-Najm",
+        "surah_name_ar": "سُوْرَةُ النَّجْمِ",
+        "surah_name_translation": "The Star",
+        "ayah_number": 44,
+        "juz": 27,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 4,
+      "translations": {
+        "ar": {
+          "text": "وَأَنَّهُۥ هُوَ أَمَاتَ وَأَحۡيَا",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "And He is the One Who gives life and causes death",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "他能使人死，能使人生；",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "और यह कि वही जो मारता और जिलाता है",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Él es Quien causa la muerte y la vida",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "et que c'est Lui qui a fait mourir et qui a ramené à la vie",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "এবং তিনিই মারেন ও বাঁচান,",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E que Ele é Quem dá a morte e dá a vida",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Он умерщвляет и оживляет",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور یہ کہ وہی مارتا اور جلاتا ہے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_053_045",
+      "reference": {
+        "surah_number": 53,
+        "surah_name": "An-Najm",
+        "surah_name_ar": "سُوْرَةُ النَّجْمِ",
+        "surah_name_translation": "The Star",
+        "ayah_number": 45,
+        "juz": 27,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 5,
+      "translations": {
+        "ar": {
+          "text": "وَأَنَّهُۥ خَلَقَ ٱلزَّوۡجَيۡنِ ٱلذَّكَرَ وَٱلۡأُنثَىٰ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "And He created the pairs—males and females—",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "他曾创造配偶──男性的与女性的──",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "और यह कि वही है जिसने नर और मादा के जोड़े पैदा किए",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Él ha creado la pareja: el macho y la hembra",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "et que c'est Lui qui a crée les deux éléments de couple, le mâle et la femelle",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "এবং তিনিই সৃষ্টি করেন যুগল-পুরুষ ও নারী।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E que Ele é Quem criou o casal: o varão e a varoa",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Он сотворил пару - мужчину и женщину (или самца и самку)",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور یہ کہ وہی نر اور مادہ دو قسم (کے حیوان) پیدا کرتا ہے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_053_046",
+      "reference": {
+        "surah_number": 53,
+        "surah_name": "An-Najm",
+        "surah_name_ar": "سُوْرَةُ النَّجْمِ",
+        "surah_name_translation": "The Star",
+        "ayah_number": 46,
+        "juz": 27,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 4,
+      "translations": {
+        "ar": {
+          "text": "مِن نُّطۡفَةٍ إِذَا تُمۡنَىٰ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "from a sperm-drop when it is emitted",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "是以射出的精液；",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "एक बूँद से, जब वह टपकाई जाती है",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "de una gota de esperma eyaculada",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "d'une goutte de sperme quand elle est éjaculée",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "একবিন্দু বীর্য থেকে যখন স্খলিত করা হয়।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "De gota seminal, quando ejaculada",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "из капли, которая извергается",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "(یعنی) نطفے سے جو (رحم میں) ڈالا جاتا ہے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_053_047",
+      "reference": {
+        "surah_number": 53,
+        "surah_name": "An-Najm",
+        "surah_name_ar": "سُوْرَةُ النَّجْمِ",
+        "surah_name_translation": "The Star",
+        "ayah_number": 47,
+        "juz": 27,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 4,
+      "translations": {
+        "ar": {
+          "text": "وَأَنَّ عَلَيۡهِ ٱلنَّشۡأَةَ ٱلۡأُخۡرَىٰ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "And it is upon Him to bring about re-creation",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "他以再造为自己的责任；",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "और यह कि उसी के ज़िम्मे दोबारा उठाना भी है",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Él es Quien los creará por segunda vez",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "et que la seconde création Lui incombe",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "পুনরুত্থানের দায়িত্ব তাঁরই,",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E que impende a Ele o derradeiro surgimento",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "На Нем лежит сотворение в другой раз",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور یہ کہ (قیامت کو) اسی پر دوبارہ اٹھانا لازم ہے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_053_048",
+      "reference": {
+        "surah_number": 53,
+        "surah_name": "An-Najm",
+        "surah_name_ar": "سُوْرَةُ النَّجْمِ",
+        "surah_name_translation": "The Star",
+        "ayah_number": 48,
+        "juz": 27,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 4,
+      "translations": {
+        "ar": {
+          "text": "وَأَنَّهُۥ هُوَ أَغۡنَىٰ وَأَقۡنَىٰ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "And He is the One Who enriches and impoverishes",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "他能使人富足，能使人满意；",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "और यह कि वही है जिसने धनी और पूँजीपति बनाया",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Él es Quien concede la riqueza y la pobreza",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "et c'est Lui qui a enrichi et qui a fait acquérir",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "এবং তিনিই ধনবান করেন ও সম্পদ দান করেন।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E que Ele é Quem enriquece e empobrece",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Он избавляет от нужды (или дарует богатство) и наделяет собственностью (или удовлетворяет)",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور یہ کہ وہی دولت مند بناتا اور مفلس کرتا ہے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_053_049",
+      "reference": {
+        "surah_number": 53,
+        "surah_name": "An-Najm",
+        "surah_name_ar": "سُوْرَةُ النَّجْمِ",
+        "surah_name_translation": "The Star",
+        "ayah_number": 49,
+        "juz": 27,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 4,
+      "translations": {
+        "ar": {
+          "text": "وَأَنَّهُۥ هُوَ رَبُّ ٱلشِّعۡرَىٰ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "And He alone is the Lord of Sirius",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "他是天狼星的主。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "और यह कि वही है जो शेअरा (नामक तारे) का रब है",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Él es el Señor de Sirio",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Et c'est Lui qui est le Seigneur de Sirius",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "তিনি শিরা নক্ষত্রের মালিক।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E que Ele é Quem é O Senhor da Sirius",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Он - Господь Сириуса",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور یہ کہ وہی شعریٰ کا مالک ہے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_053_050",
+      "reference": {
+        "surah_number": 53,
+        "surah_name": "An-Najm",
+        "surah_name_ar": "سُوْرَةُ النَّجْمِ",
+        "surah_name_translation": "The Star",
+        "ayah_number": 50,
+        "juz": 27,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 4,
+      "translations": {
+        "ar": {
+          "text": "وَأَنَّهُۥٓ أَهۡلَكَ عَادًا ٱلۡأُولَىٰ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "And He destroyed the first ˹people of˺ ’Ȃd",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "他毁灭了古时的阿德人，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "और यह कि वही है उसी ने प्राचीन आद को विनष्ट किया",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Él destruyó al antiguo pueblo de ‘Ad",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "et c'est Lui qui a fait périr les anciens 'Aad",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "তিনিই প্রথম আদ সম্প্রদায়কে ধ্বংস করেছেন,",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E que Ele é Quem aniquilou os primeiros povos de Ãd",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Он погубил первых адитов",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور یہ کہ اسی نے عاد اول کو ہلاک کر ڈالا",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_053_051",
+      "reference": {
+        "surah_number": 53,
+        "surah_name": "An-Najm",
+        "surah_name_ar": "سُوْرَةُ النَّجْمِ",
+        "surah_name_translation": "The Star",
+        "ayah_number": 51,
+        "juz": 27,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 3,
+      "translations": {
+        "ar": {
+          "text": "وَثَمُودَاْ فَمَآ أَبۡقَىٰ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "and ˹then˺ Thamûd, sparing no one",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "和赛莫德人，而未曾有所遗留；",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "और समूद को भी। फिर किसी को बाक़ी न छोड़ा।",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "y al pueblo de Zamud, de los que no quedó nadie",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "ainsi que les Thamûd, et Il fit que rien n'en subsistât",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "এবং সামুদকেও; অতঃপর কাউকে অব্যহতি দেননি।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E de Thamud - então, a ninguém deixou ficar",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "ничего не оставил от самудян",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور ثمود کو بھی۔ غرض کسی کو باقی نہ چھوڑا",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_053_052",
+      "reference": {
+        "surah_number": 53,
+        "surah_name": "An-Najm",
+        "surah_name_ar": "سُوْرَةُ النَّجْمِ",
+        "surah_name_translation": "The Star",
+        "ayah_number": 52,
+        "juz": 27,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 9,
+      "translations": {
+        "ar": {
+          "text": "وَقَوۡمَ نُوحࣲ مِّن قَبۡلُۖ إِنَّهُمۡ كَانُواْ هُمۡ أَظۡلَمَ وَأَطۡغَىٰ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "And before ˹that He destroyed˺ the people of Noah, who were truly far worse in wrongdoing and transgression",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "以前，他毁灭了努哈的宗族。他们确是更不义的，确是更放荡的。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "और उससे पहले नूह की क़ौम को भी। बेशक वे ज़ालिम और सरकश थे",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "También lo hizo antes con el pueblo de Noé, pues ellos eran más injustos y transgresores",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "ainsi que le peuple de Noé antérieurement, car ils étaient encore plus injustes et plus violents",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "এবং তাদের পূর্বে নূহের সম্প্রদায়কে, তারা ছিল আরও জালেম ও অবাধ্য।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E o povo de Noé, antes - por certo, eram mais injustos e mais transgressores",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "а еще раньше погубил народ Нуха (Ноя). Воистину, они были еще более несправедливы и непокорны",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور ان سے پہلے قوم نوحؑ کو بھی۔ کچھ شک نہیں کہ وہ لوگ بڑے ہی ظالم اور بڑے ہی سرکش تھے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_053_053",
+      "reference": {
+        "surah_number": 53,
+        "surah_name": "An-Najm",
+        "surah_name_ar": "سُوْرَةُ النَّجْمِ",
+        "surah_name_translation": "The Star",
+        "ayah_number": 53,
+        "juz": 27,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 2,
+      "translations": {
+        "ar": {
+          "text": "وَٱلۡمُؤۡتَفِكَةَ أَهۡوَىٰ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "And ˹it was˺ He ˹Who˺ turned the cities ˹of Sodom and Gomorrah˺ upside down",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "他使那被颠覆的城市覆亡，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "उलट जानेवाली बस्ती को भी फेंक दिया।",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Y a la ciudad que cayó al revés",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "de même qu'Il anéantit les villes renversées",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "তিনিই জনপদকে শুন্যে উত্তোলন করে নিক্ষেপ করেছেন।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E as cidades tombadas fê-las cair",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Он низверг опрокинутые селения (селения народа Лута)",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور اسی نے الٹی ہوئی بستیوں کو دے پٹکا",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_053_054",
+      "reference": {
+        "surah_number": 53,
+        "surah_name": "An-Najm",
+        "surah_name_ar": "سُوْرَةُ النَّجْمِ",
+        "surah_name_translation": "The Star",
+        "ayah_number": 54,
+        "juz": 27,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 3,
+      "translations": {
+        "ar": {
+          "text": "فَغَشَّىٰهَا مَا غَشَّىٰ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "How overwhelming was what covered ˹them˺",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "故覆盖的东西曾覆盖了那城市。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "तो ढँक लिया उसे जिस चीज़ ने ढँक लिया",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "y la cubrió lo que la cubrió",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Et les recouvrit de ce dont Il les recouvrit",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "অতঃপর তাকে আচ্ছন্ন করে নেয় যা আচ্ছন্ন করার।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E encobriu-as o que as encobriu",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "которые покрыло то, что покрыло",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "پھر ان پر چھایا جو چھایا",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_053_055",
+      "reference": {
+        "surah_number": 53,
+        "surah_name": "An-Najm",
+        "surah_name_ar": "سُوْرَةُ النَّجْمِ",
+        "surah_name_translation": "The Star",
+        "ayah_number": 55,
+        "juz": 27,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 4,
+      "translations": {
+        "ar": {
+          "text": "فَبِأَيِّ ءَالَآءِ رَبِّكَ تَتَمَارَىٰ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Now, which of your Lord’s favours will you dispute",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "你怀疑你的主的哪一件恩典呢？",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "फिर तू अपने रब के चमत्कारों में से किस-किस के विषय में संदेह करेगा",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "¿Cuál de las bendiciones de tu Señor pondrás en duda [oh, ser humano]",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Lequel donc des bienfaits de ton Seigneur mets-tu en doute",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "অতঃপর তুমি তোমার পালনকর্তার কোন অনুগ্রহকে মিথ্যা বলবে?",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Então, qual das mercês de teu Senhor tu, homem, altercas",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "В каких же милостях твоего Господа ты сомневаешься",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "تو (اے انسان) تو اپنے پروردگار کی کون سی نعمت پر جھگڑے گا",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_053_056",
+      "reference": {
+        "surah_number": 53,
+        "surah_name": "An-Najm",
+        "surah_name_ar": "سُوْرَةُ النَّجْمِ",
+        "surah_name_translation": "The Star",
+        "ayah_number": 56,
+        "juz": 27,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 5,
+      "translations": {
+        "ar": {
+          "text": "هَٰذَا نَذِيرࣱ مِّنَ ٱلنُّذُرِ ٱلۡأُولَىٰٓ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "This ˹Prophet˺ is a warner like earlier ones",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "这是古时的那些警告者之中的一个警告者。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "यह पहले के सावधान-कर्ताओं के सदृश एक सावधान करनेवाला है",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Él es un Profeta como los que lo precedieron",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Voici un avertisseur analogue aux avertisseurs anciens",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "অতীতের সতর্ককারীদের মধ্যে সে-ও একজন সতর্ককারী।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Este é um admoestador dentre os primeiros admoestadores",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Этот предостерегающий увещеватель такой же, как и первые предостерегающие увещеватели",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "یہ (محمدﷺ) بھی اگلے ڈر سنانے والوں میں سے ایک ڈر سنانے والے ہیں",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_053_057",
+      "reference": {
+        "surah_number": 53,
+        "surah_name": "An-Najm",
+        "surah_name_ar": "سُوْرَةُ النَّجْمِ",
+        "surah_name_translation": "The Star",
+        "ayah_number": 57,
+        "juz": 27,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 2,
+      "translations": {
+        "ar": {
+          "text": "أَزِفَتِ ٱلۡأٓزِفَةُ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "The approaching ˹Hour˺ has drawn near",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "临近的事件，已经临近了；",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "निकट आनेवाली (क़ियामत की घड़ी) निकट आ गई",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "La llegada es inminente",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "l'Imminente (L'heure du Jugement) s'approche",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "কেয়ামত নিকটে এসে গেছে।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Aproxima-se a Hora iminente",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Приближающееся (День воскресения) приблизилось",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "آنے والی (یعنی قیامت) قریب آ پہنچی",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_053_058",
+      "reference": {
+        "surah_number": 53,
+        "surah_name": "An-Najm",
+        "surah_name_ar": "سُوْرَةُ النَّجْمِ",
+        "surah_name_translation": "The Star",
+        "ayah_number": 58,
+        "juz": 27,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 6,
+      "translations": {
+        "ar": {
+          "text": "لَيۡسَ لَهَا مِن دُونِ ٱللَّهِ كَاشِفَةٌ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "None but Allah can disclose it",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "除真主外，没有能揭示它的。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "अल्लाह के सिवा कोई नहीं जो उसे प्रकट कर दे",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "pero nadie, salvo Dios, tiene conocimiento de cuándo ocurrirá",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Rien d'autre en dehors d'Allah ne peut la dévoiler",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "আল্লাহ ব্যতীত কেউ একে প্রকাশ করতে সক্ষম নয়।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Ninguém, além de Allah, poderá descobri-la",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "и никто, кроме Аллаха, не способен отвратить его",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اس (دن کی تکلیفوں) کو خدا کے سوا کوئی دور نہیں کرسکے گا",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_053_059",
+      "reference": {
+        "surah_number": 53,
+        "surah_name": "An-Najm",
+        "surah_name_ar": "سُوْرَةُ النَّجْمِ",
+        "surah_name_translation": "The Star",
+        "ayah_number": 59,
+        "juz": 27,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 4,
+      "translations": {
+        "ar": {
+          "text": "أَفَمِنۡ هَٰذَا ٱلۡحَدِيثِ تَعۡجَبُونَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Do you find this revelation astonishing",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "难道你们为这训辞而诧异吗？",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "अब क्या तुम इस वाणी पर आश्चर्य करते हो",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "¿De este mensaje se sorprenden",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Quoi! vous étonnez-vous de ce discours (le Coran)",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "তোমরা কি এই বিষয়ে আশ্চর্যবোধ করছ?",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Então, admirai-vos desta Mensagem",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Неужели вы удивляетесь этому повествованию",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "(اے منکرین خدا) کیا تم اس کلام سے تعجب کرتے ہو؟",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_053_060",
+      "reference": {
+        "surah_number": 53,
+        "surah_name": "An-Najm",
+        "surah_name_ar": "سُوْرَةُ النَّجْمِ",
+        "surah_name_translation": "The Star",
+        "ayah_number": 60,
+        "juz": 27,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 3,
+      "translations": {
+        "ar": {
+          "text": "وَتَضۡحَكُونَ وَلَا تَبۡكُونَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "laughing ˹at it˺ and not weeping ˹in awe˺",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "你们怎么嘲笑而不痛哭呢？",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "और हँसते हो और रोते नहीं",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "¿Ríen en vez de llorar",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Et vous [en] riez et n'[en] pleurez point",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "এবং হাসছ-ক্রন্দন করছ না?",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E rides, e não chorais",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "смеетесь, а не плачете",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور ہنستے ہو اور روتے نہیں؟",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_053_061",
+      "reference": {
+        "surah_number": 53,
+        "surah_name": "An-Najm",
+        "surah_name_ar": "سُوْرَةُ النَّجْمِ",
+        "surah_name_translation": "The Star",
+        "ayah_number": 61,
+        "juz": 27,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 2,
+      "translations": {
+        "ar": {
+          "text": "وَأَنتُمۡ سَٰمِدُونَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "while persisting in heedlessness",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "你们是疏忽的。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "जबकि तुम घमंडी और ग़ाफिल हो",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "¿Permanecen distraídos",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "absorbés [que vous êtes] par votre distraction",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "তোমরা ক্রীড়া-কৌতুক করছ,",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Enquanto estais brincando",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "и забавляетесь (или поете; или надменно задираете головы)",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور تم غفلت میں پڑ رہے ہو",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_053_062",
+      "reference": {
+        "surah_number": 53,
+        "surah_name": "An-Najm",
+        "surah_name_ar": "سُوْرَةُ النَّجْمِ",
+        "surah_name_translation": "The Star",
+        "ayah_number": 62,
+        "juz": 27,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 3,
+      "translations": {
+        "ar": {
+          "text": "فَٱسۡجُدُواْۤ لِلَّهِۤ وَٱعۡبُدُواْ۩",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Instead, prostrate to Allah and worship ˹Him alone˺",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "你们应当为真主而叩头，应当崇拜他。※（此处叩头！）",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "अतः अल्लाह को सजदा करो और बन्दगी करो",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "¡Prostérnense ante Dios y adórenlo solo a Él",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Prosternez-vous donc à Allah et adorez-Le",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "অতএব আল্লাহকে সেজদা কর এবং তাঁর এবাদত কর।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Então, prosternai-vos diante de Allah, e adorai-O",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Падите же ниц перед Аллахом и поклоняйтесь",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "تو خدا کے آگے سجدہ کرو اور (اسی کی) عبادت کرو",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    }
+  ]
+}

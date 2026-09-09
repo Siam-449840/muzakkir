@@ -1,0 +1,397 @@
+{
+  "surah": 1,
+  "verses": [
+    {
+      "content_id": "quran_001_001",
+      "reference": {
+        "surah_number": 1,
+        "surah_name": "Al-Faatiha",
+        "surah_name_ar": "سُوْرَةُ الْفَاتِحَةِ",
+        "surah_name_translation": "The Opening",
+        "ayah_number": 1,
+        "juz": 1,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 4,
+      "translations": {
+        "ar": {
+          "text": "بِسۡمِ ٱللَّهِ ٱلرَّحۡمَٰنِ ٱلرَّحِيمِ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "In the Name of Allah—the Most Compassionate, Most Merciful",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "奉至仁至慈的真主之名",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "अल्लाह के नाम से जो बड़ा कृपालु और अत्यन्त दयावान हैं।",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "En el nombre de Dios, el Compasivo con toda la creación, el Misericordioso con los creyentes",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Au nom d'Allah, le Tout Miséricordieux, le Très Miséricordieux",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "শুরু করছি আল্লাহর নামে যিনি পরম করুণাময়, অতি দয়ালু।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Em nome de Allah, O Misericordioso, O Misericordiador",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Во имя Аллаха, Милостивого, Милосердного",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "شروع الله کا نام لے کر جو بڑا مہربان نہایت رحم والا ہے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_001_002",
+      "reference": {
+        "surah_number": 1,
+        "surah_name": "Al-Faatiha",
+        "surah_name_ar": "سُوْرَةُ الْفَاتِحَةِ",
+        "surah_name_translation": "The Opening",
+        "ayah_number": 2,
+        "juz": 1,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 4,
+      "translations": {
+        "ar": {
+          "text": "ٱلۡحَمۡدُ لِلَّهِ رَبِّ ٱلۡعَٰلَمِينَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "All praise is for Allah—Lord of all worlds",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "一切赞颂全归真主，众世界 的主，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "प्रशंसा अल्लाह ही के लिए हैं जो सारे संसार का रब हैं",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Todas las alabanzas son para Dios, Señor de todo cuanto existe",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Louange à Allah, Seigneur de l'univers",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "যাবতীয় প্রশংসা আল্লাহ তাআলার যিনি সকল সৃষ্টি জগতের পালনকর্তা।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Louvor a Allah, O Senhor dos mundos",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Хвала Аллаху, Господу миров",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "سب طرح کی تعریف خدا ہی کو (سزاوار) ہے جو تمام مخلوقات کا پروردگار ہے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_001_003",
+      "reference": {
+        "surah_number": 1,
+        "surah_name": "Al-Faatiha",
+        "surah_name_ar": "سُوْرَةُ الْفَاتِحَةِ",
+        "surah_name_translation": "The Opening",
+        "ayah_number": 3,
+        "juz": 1,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 2,
+      "translations": {
+        "ar": {
+          "text": "ٱلرَّحۡمَٰنِ ٱلرَّحِيمِ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "the Most Compassionate, Most Merciful",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "至仁至慈的主，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "बड़ा कृपालु, अत्यन्त दयावान हैं",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "el Compasivo, el Misericordioso",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Le Tout Miséricordieux, le Très Miséricordieux",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "যিনি নিতান্ত মেহেরবান ও দয়ালু।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "O Misericordioso, O Misericordiador",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Милостивому, Милосердному",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "بڑا مہربان نہایت رحم والا",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_001_004",
+      "reference": {
+        "surah_number": 1,
+        "surah_name": "Al-Faatiha",
+        "surah_name_ar": "سُوْرَةُ الْفَاتِحَةِ",
+        "surah_name_translation": "The Opening",
+        "ayah_number": 4,
+        "juz": 1,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 3,
+      "translations": {
+        "ar": {
+          "text": "مَٰلِكِ يَوۡمِ ٱلدِّينِ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Master of the Day of Judgment",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "报应日的主，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "बदला दिए जाने के दिन का मालिक हैं",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Soberano absoluto del Día del Juicio Final",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Maître du Jour de la rétribution",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "যিনি বিচার দিনের মালিক।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "O Soberano do Dia do Juízo",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Властелину Дня воздаяния",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "انصاف کے دن کا حاکم",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_001_005",
+      "reference": {
+        "surah_number": 1,
+        "surah_name": "Al-Faatiha",
+        "surah_name_ar": "سُوْرَةُ الْفَاتِحَةِ",
+        "surah_name_translation": "The Opening",
+        "ayah_number": 5,
+        "juz": 1,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 4,
+      "translations": {
+        "ar": {
+          "text": "إِيَّاكَ نَعۡبُدُ وَإِيَّاكَ نَسۡتَعِينُ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "You ˹alone˺ we worship and You ˹alone˺ we ask for help",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "我们只崇拜你，只求你祐助",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "हम तेरी बन्दगी करते हैं और तुझी से मदद माँगते हैं",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "solo a Ti te adoramos y solo de Ti imploramos ayuda",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "C'est Toi [Seul] que nous adorons, et c'est Toi [Seul] dont nous implorons secours",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "আমরা একমাত্র তোমারই ইবাদত করি এবং শুধুমাত্র তোমারই সাহায্য প্রার্থনা করি।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Só a Ti adoramos e só de Ti imploramos ajuda",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Тебе одному мы поклоняемся и Тебя одного молим о помощи",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "(اے پروردگار) ہم تیری ہی عبادت کرتے ہیں اور تجھ ہی سے مدد مانگتے ہیں",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_001_006",
+      "reference": {
+        "surah_number": 1,
+        "surah_name": "Al-Faatiha",
+        "surah_name_ar": "سُوْرَةُ الْفَاتِحَةِ",
+        "surah_name_translation": "The Opening",
+        "ayah_number": 6,
+        "juz": 1,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 3,
+      "translations": {
+        "ar": {
+          "text": "ٱهۡدِنَا ٱلصِّرَٰطَ ٱلۡمُسۡتَقِيمَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Guide us along the Straight Path",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "求你引领我们正路，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "हमें सीधे मार्ग पर चला",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "¡Guíanos por el camino recto",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Guide-nous dans le droit chemin",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "আমাদেরকে সরল পথ দেখাও,",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Guia-nos à senda reta",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Веди нас прямым путем",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "ہم کو سیدھے رستے چلا",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_001_007",
+      "reference": {
+        "surah_number": 1,
+        "surah_name": "Al-Faatiha",
+        "surah_name_ar": "سُوْرَةُ الْفَاتِحَةِ",
+        "surah_name_translation": "The Opening",
+        "ayah_number": 7,
+        "juz": 1,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 9,
+      "translations": {
+        "ar": {
+          "text": "صِرَٰطَ ٱلَّذِينَ أَنۡعَمۡتَ عَلَيۡهِمۡ غَيۡرِ ٱلۡمَغۡضُوبِ عَلَيۡهِمۡ وَلَا ٱلضَّآلِّينَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "the Path of those You have blessed—not those You are displeased with, or those who are astray",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "你所祐助者的路，不是受谴怒者的路，也不是迷误者的路。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "उन लोगों के मार्ग पर जो तेरे कृपापात्र हुए, जो न प्रकोप के भागी हुए और न पथभ्रष्ट",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "El camino de los que has colmado con Tus favores, no el de los que cayeron en Tu ira, ni el de los que se extraviaron",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "le chemin de ceux que Tu as comblés de faveurs, non pas de ceux qui ont encouru Ta colère, ni des égarés",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "সে সমস্ত লোকের পথ, যাদেরকে তুমি নেয়ামত দান করেছ। তাদের পথ নয়, যাদের প্রতি তোমার গজব নাযিল হয়েছে এবং যারা পথভ্রষ্ট হয়েছে।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "À senda dos que agraciaste; não à dos incursos em Tua ira nem à dos descaminhados",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "путем тех, кого Ты облагодетельствовал, не тех, на кого пал гнев, и не заблудших",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "ان لوگوں کے رستے جن پر تو اپنا فضل وکرم کرتا رہا نہ ان کے جن پر غصے ہوتا رہا اور نہ گمراہوں کے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    }
+  ]
+}

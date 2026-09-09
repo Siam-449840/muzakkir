@@ -1,0 +1,2805 @@
+{
+  "surah": 77,
+  "verses": [
+    {
+      "content_id": "quran_077_001",
+      "reference": {
+        "surah_number": 77,
+        "surah_name": "Al-Mursalaat",
+        "surah_name_ar": "سُوْرَةُ الْمُرْسَلَاتِ",
+        "surah_name_translation": "The Emissaries",
+        "ayah_number": 1,
+        "juz": 29,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 3,
+      "translations": {
+        "ar": {
+          "text": "وَٱلۡمُرۡسَلَٰتِ عُرۡفࣰ ا",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "By those ˹winds˺ sent forth successively",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "誓以奉派传达佳音，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "साक्षी है वे (हवाएँ) जिनकी चोटी छोड़ दी जाती है",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Juro por los [ángeles] enviados uno tras de otro",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Par ceux qu'on envoie en rafales",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "কল্যাণের জন্যে প্রেরিত বায়ুর শপথ,",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Pelos enviados, sucessivamente",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Клянусь посылаемыми с добром",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "ہواؤں کی قسم جو نرم نرم چلتی ہیں",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_077_002",
+      "reference": {
+        "surah_number": 77,
+        "surah_name": "Al-Mursalaat",
+        "surah_name_ar": "سُوْرَةُ الْمُرْسَلَاتِ",
+        "surah_name_translation": "The Emissaries",
+        "ayah_number": 2,
+        "juz": 29,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 3,
+      "translations": {
+        "ar": {
+          "text": "فَٱلۡعَٰصِفَٰتِ عَصۡفࣰ ا",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "and those blowing violently",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "遂猛烈吹动者，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "फिर ख़ूब तेज़ हो जाती है",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "por los [ángeles] encargados de los vientos que soplan violentamente",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "et qui soufflent en tempête",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "সজোরে প্রবাহিত ঝটিকার শপথ,",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E tempestuosos, vigorosamente",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "несущимися быстро",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "پھر زور پکڑ کر جھکڑ ہو جاتی ہیں",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_077_003",
+      "reference": {
+        "surah_number": 77,
+        "surah_name": "Al-Mursalaat",
+        "surah_name_ar": "سُوْرَةُ الْمُرْسَلَاتِ",
+        "surah_name_translation": "The Emissaries",
+        "ayah_number": 3,
+        "juz": 29,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 3,
+      "translations": {
+        "ar": {
+          "text": "وَٱلنَّٰشِرَٰتِ نَشۡرࣰ ا",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "and those scattering ˹rainclouds˺ widely",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "誓以传播各物，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "और (बादलों को) उठाकर फैलाती है",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "por los [ángeles] que conducen y extienden las nubes",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Et qui dispersent largement [dans toutes les directions]",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "মেঘবিস্তৃতকারী বায়ুর শপথ",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Pelos desenroladores, perfeitamente",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "распространяющими бурно",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور (بادلوں کو) پھاڑ کر پھیلا دیتی ہیں",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_077_004",
+      "reference": {
+        "surah_number": 77,
+        "surah_name": "Al-Mursalaat",
+        "surah_name_ar": "سُوْرَةُ الْمُرْسَلَاتِ",
+        "surah_name_translation": "The Emissaries",
+        "ayah_number": 4,
+        "juz": 29,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 3,
+      "translations": {
+        "ar": {
+          "text": "فَٱلۡفَٰرِقَٰتِ فَرۡقࣰ ا",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "And ˹by˺ those ˹angels˺ fully distinguishing ˹truth from falsehood˺",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "而使之分散，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "फिर मामला करती है अलग-अलग",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "por los [ángeles] que distinguen claramente",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Par ceux qui séparent nettement (le bien et le mal)",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "মেঘপুঞ্জ বিতরণকারী বায়ুর শপথ এবং",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E separadores, totalmente",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "различающими твердо",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "پھر ان کو پھاڑ کر جدا جدا کر دیتی ہیں",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_077_005",
+      "reference": {
+        "surah_number": 77,
+        "surah_name": "Al-Mursalaat",
+        "surah_name_ar": "سُوْرَةُ الْمُرْسَلَاتِ",
+        "surah_name_translation": "The Emissaries",
+        "ayah_number": 5,
+        "juz": 29,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 2,
+      "translations": {
+        "ar": {
+          "text": "فَٱلۡمُلۡقِيَٰتِ ذِكۡرًا",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "and those delivering revelation",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "乃传授教训者，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "फिर पेश करती है याददिहानी",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "por los [Profetas] que transmiten Mensajes",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "et lancent un rappel",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "ওহী নিয়ে অবতরণকারী ফেরেশতাগণের শপথ-",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E lançadores de lembrança",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "и передающими Напоминание",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "پھر فرشتوں کی قسم جو وحی لاتے ہیں",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_077_006",
+      "reference": {
+        "surah_number": 77,
+        "surah_name": "Al-Mursalaat",
+        "surah_name_ar": "سُوْرَةُ الْمُرْسَلَاتِ",
+        "surah_name_translation": "The Emissaries",
+        "ayah_number": 6,
+        "juz": 29,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 3,
+      "translations": {
+        "ar": {
+          "text": "عُذۡرًا أَوۡ نُذۡرًا",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "ending excuses and giving warnings",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "誓以示原谅或警告者，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "इल्ज़ाम उतारने या चेतावनी देने के लिए",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "como aclaración o advertencia [para el Día del Juicio]",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "en guise d'excuse ou d'avertissement",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "ওযর-আপত্তির অবকাশ না রাখার জন্যে অথবা সতর্ক করার জন্যে।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Para escusar ou admoestar",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "для оправдания или предостережения",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "تاکہ عذر (رفع) کردیا جائے یا ڈر سنا دیا جائے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_077_007",
+      "reference": {
+        "surah_number": 77,
+        "surah_name": "Al-Mursalaat",
+        "surah_name_ar": "سُوْرَةُ الْمُرْسَلَاتِ",
+        "surah_name_translation": "The Emissaries",
+        "ayah_number": 7,
+        "juz": 29,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 3,
+      "translations": {
+        "ar": {
+          "text": "إِنَّمَا تُوعَدُونَ لَوَٰقِعࣱ‏",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Surely, what you are promised will come to pass",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "警告你们的事，是必定发生的。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "निस्संदेह जिसका वादा तुमसे किया जा रहा है वह निश्चित ही घटित होकर रहेगा",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Tengan certeza de que aquello con que se les advierte se cumplirá",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Ce qui vous est promis est inéluctable",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "নিশ্চয়ই তোমাদেরকে প্রদত্ত ওয়াদা বাস্তবায়িত হবে।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Por certo, o que vos é prometido sobrevirá",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Обещанное вам непременно сбудется",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "کہ جس بات کا تم سے وعدہ کیا جاتا ہے وہ ہو کر رہے گی",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_077_008",
+      "reference": {
+        "surah_number": 77,
+        "surah_name": "Al-Mursalaat",
+        "surah_name_ar": "سُوْرَةُ الْمُرْسَلَاتِ",
+        "surah_name_translation": "The Emissaries",
+        "ayah_number": 8,
+        "juz": 29,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 3,
+      "translations": {
+        "ar": {
+          "text": "فَإِذَا ٱلنُّجُومُ طُمِسَتۡ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "So when the stars are put out",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "当星宿黯淡的时候，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "अतः जब तारे विलुप्त (प्रकाशहीन) हो जाएँगे",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "cuando las estrellas pierdan su luz",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Quand donc les étoiles seront effacées",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "অতঃপর যখন নক্ষত্রসমুহ নির্বাপিত হবে,",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Então, quando as estrelas se apagarem",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Когда погаснут звезды",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "جب تاروں کی چمک جاتی رہے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_077_009",
+      "reference": {
+        "surah_number": 77,
+        "surah_name": "Al-Mursalaat",
+        "surah_name_ar": "سُوْرَةُ الْمُرْسَلَاتِ",
+        "surah_name_translation": "The Emissaries",
+        "ayah_number": 9,
+        "juz": 29,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 3,
+      "translations": {
+        "ar": {
+          "text": "وَإِذَا ٱلسَّمَآءُ فُرِجَتۡ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "and the sky is torn apart",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "当天体破裂的时候，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "और जब आकाश फट जाएगा",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "cuando el cielo se resquebraje",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "et que le ciel sera fendu",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "যখন আকাশ ছিদ্রযুক্ত হবে,",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E quando o céu tiver frestas",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "когда расколется небо",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور جب آسمان پھٹ جائے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_077_010",
+      "reference": {
+        "surah_number": 77,
+        "surah_name": "Al-Mursalaat",
+        "surah_name_ar": "سُوْرَةُ الْمُرْسَلَاتِ",
+        "surah_name_translation": "The Emissaries",
+        "ayah_number": 10,
+        "juz": 29,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 3,
+      "translations": {
+        "ar": {
+          "text": "وَإِذَا ٱلۡجِبَالُ نُسِفَتۡ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "and the mountains are blown away",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "当山峦飞扬的时候，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "और पहाड़ चूर्ण-विचूर्ण होकर बिखर जाएँगे",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "cuando las montañas sean convertidas en polvo",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "et que les montagnes seront pulvérisées",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "যখন পর্বতমালাকে উড়িয়ে দেয়া হবে এবং",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E quando as montanhas se desintegrarem",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "когда развеются горы",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور جب پہاڑ اُڑے اُڑے پھریں",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_077_011",
+      "reference": {
+        "surah_number": 77,
+        "surah_name": "Al-Mursalaat",
+        "surah_name_ar": "سُوْرَةُ الْمُرْسَلَاتِ",
+        "surah_name_translation": "The Emissaries",
+        "ayah_number": 11,
+        "juz": 29,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 3,
+      "translations": {
+        "ar": {
+          "text": "وَإِذَا ٱلرُّسُلُ أُقِّتَتۡ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "and the messengers’ time ˹to testify˺ comes up—",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "当众使者被定期召集的时候，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "और जब रसूलों का हाल यह होगा कि उन का समय नियत कर दिया गया होगा",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "y los Mensajeros sean convocados",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "et que le moment (pour la réunion) des Messagers a été fixé",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "যখন রসূলগণের একত্রিত হওয়ার সময় নিরূপিত হবে,",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E quando os Mensageiros se reunirem, em tempo marcado",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "когда посланникам будет установлен срок",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور جب پیغمبر فراہم کئے جائیں",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_077_012",
+      "reference": {
+        "surah_number": 77,
+        "surah_name": "Al-Mursalaat",
+        "surah_name_ar": "سُوْرَةُ الْمُرْسَلَاتِ",
+        "surah_name_translation": "The Emissaries",
+        "ayah_number": 12,
+        "juz": 29,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 3,
+      "translations": {
+        "ar": {
+          "text": "لِأَيِّ يَوۡمٍ أُجِّلَتۡ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "for which Day has all this been set",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "期限在哪日呢？",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "किस दिन के लिए वे टाले गए है",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "¿Para qué día se los convocará",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "A quel jour tout cela a-t-il été renvoyé",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "এসব বিষয় কোন দিবসের জন্যে স্থগিত রাখা হয়েছে?",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Para que dia foram estes postergados",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "До какого дня отсрочено",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "بھلا (ان امور میں) تاخیر کس دن کے لئے کی گئی؟",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_077_013",
+      "reference": {
+        "surah_number": 77,
+        "surah_name": "Al-Mursalaat",
+        "surah_name_ar": "سُوْرَةُ الْمُرْسَلَاتِ",
+        "surah_name_translation": "The Emissaries",
+        "ayah_number": 13,
+        "juz": 29,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 2,
+      "translations": {
+        "ar": {
+          "text": "لِيَوۡمِ ٱلۡفَصۡلِ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "For the Day of ˹Final˺ Decision",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "在判决之日。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "फ़ैसले के दिन के लिए",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Para el Día del Juicio",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Au Jour de la Décision. [le Jugement]",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "বিচার দিবসের জন্য।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Para o Dia da Decisão",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "До Дня различения",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "فیصلے کے دن کے لئے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_077_014",
+      "reference": {
+        "surah_number": 77,
+        "surah_name": "Al-Mursalaat",
+        "surah_name_ar": "سُوْرَةُ الْمُرْسَلَاتِ",
+        "surah_name_translation": "The Emissaries",
+        "ayah_number": 14,
+        "juz": 29,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 5,
+      "translations": {
+        "ar": {
+          "text": "وَمَآ أَدۡرَىٰكَ مَا يَوۡمُ ٱلۡفَصۡلِ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "And what will make you realize what the Day of Decision is",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "你怎能知道判决之日，是什么？",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "और तुम्हें क्या मालूम कि वह फ़ैसले का दिन क्या है",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "¿Y qué te hará comprender qué es el Día del Juicio",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Et qui te dira ce qu'est le Jour de la Décision",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "আপনি জানেন বিচার দিবস কি?",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E o que te faz inteirar-te do que é o Dia da Decisão",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Откуда ты мог знать, что такое День различения",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور تمہیں کیا خبر کہ فیصلے کا دن کیا ہے؟",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_077_015",
+      "reference": {
+        "surah_number": 77,
+        "surah_name": "Al-Mursalaat",
+        "surah_name_ar": "سُوْرَةُ الْمُرْسَلَاتِ",
+        "surah_name_translation": "The Emissaries",
+        "ayah_number": 15,
+        "juz": 29,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 3,
+      "translations": {
+        "ar": {
+          "text": "وَيۡلࣱ يَوۡمَئِذࣲ لِّلۡمُكَذِّبِينَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Woe on that Day to the deniers",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "在那日，伤哉否认真理的人们。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "तबाही है उस दिन झूठलाने-वालों की",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "¡Cuán desdichados serán ese día los que negaron la verdad",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Malheur, ce jour-là, à ceux qui criaient au mensonge",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "সেদিন মিথ্যারোপকারীদের দুর্ভোগ হবে।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Nesse dia, ai dos desmentidores",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Горе в тот день тем, кто считает истину ложью",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اس دن جھٹلانے والوں کے لئے خرابی ہے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_077_016",
+      "reference": {
+        "surah_number": 77,
+        "surah_name": "Al-Mursalaat",
+        "surah_name_ar": "سُوْرَةُ الْمُرْسَلَاتِ",
+        "surah_name_translation": "The Emissaries",
+        "ayah_number": 16,
+        "juz": 29,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 3,
+      "translations": {
+        "ar": {
+          "text": "أَلَمۡ نُهۡلِكِ ٱلۡأَوَّلِينَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Did We not destroy earlier disbelievers",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "难道我没有毁灭先民吗？",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "क्या ऐसा नहीं हुआ कि हमने पहलों को विनष्ट किया",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "¿Acaso no destruí otros pueblos antiguos [que rechazaron el Mensaje]",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "N'avons-nous pas fait périr les premières [générations]",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "আমি কি পূর্ববর্তীদেরকে ধ্বংস করিনি?",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Não aniquilamos os antepassados",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Разве мы не погубили первые поколения",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "کیا ہم نے پہلے لوگوں کو ہلاک نہیں کر ڈالا",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_077_017",
+      "reference": {
+        "surah_number": 77,
+        "surah_name": "Al-Mursalaat",
+        "surah_name_ar": "سُوْرَةُ الْمُرْسَلَاتِ",
+        "surah_name_translation": "The Emissaries",
+        "ayah_number": 17,
+        "juz": 29,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 3,
+      "translations": {
+        "ar": {
+          "text": "ثُمَّ نُتۡبِعُهُمُ ٱلۡأٓخِرِينَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "And We will make the later disbelievers follow them",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "然后，我使后民随他们而消灭。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "फिर उन्हीं के पीछे बादवालों को भी लगाते रहे",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Luego les siguieron otros pueblos [de desmentidores]",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Puis ne les avons-Nous pas fait suivre par les derniers",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "অতঃপর তাদের পশ্চাতে প্রেরণ করব পরবর্তীদেরকে।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Em seguida, fizemo-los seguidos pelos derradeiros",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Вслед за ними Мы отправили последующие поколения",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "پھر ان پچھلوں کو بھی ان کے پیچھے بھیج دیتے ہیں",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_077_018",
+      "reference": {
+        "surah_number": 77,
+        "surah_name": "Al-Mursalaat",
+        "surah_name_ar": "سُوْرَةُ الْمُرْسَلَاتِ",
+        "surah_name_translation": "The Emissaries",
+        "ayah_number": 18,
+        "juz": 29,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 3,
+      "translations": {
+        "ar": {
+          "text": "كَذَٰلِكَ نَفۡعَلُ بِٱلۡمُجۡرِمِينَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "This is how We deal with the wicked",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "我将这样处治犯罪的人。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "अपराधियों के साथ हम ऐसा ही करते है",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Eso es lo que sucede a los pecadores",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "C'est ainsi que Nous agissons avec les criminels",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "অপরাধীদের সাথে আমি এরূপই করে থাকি।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Assim agimos com os criminosos",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Так поступаем Мы с грешниками",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "ہم گنہگاروں کے ساتھ ایسا ہی کیا کرتے ہیں",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_077_019",
+      "reference": {
+        "surah_number": 77,
+        "surah_name": "Al-Mursalaat",
+        "surah_name_ar": "سُوْرَةُ الْمُرْسَلَاتِ",
+        "surah_name_translation": "The Emissaries",
+        "ayah_number": 19,
+        "juz": 29,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 3,
+      "translations": {
+        "ar": {
+          "text": "وَيۡلࣱ يَوۡمَئِذࣲ لِّلۡمُكَذِّبِينَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Woe on that Day to the deniers",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "在那日，伤哉否认真理的人们。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "तबाही है उस दिन झुठलानेवालो की",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "¡Cuán desdichados serán ese día los que negaron la verdad",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Malheur, ce jour-là, à ceux qui criaient au mensonge",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "সেদিন মিথ্যারোপকারীদের দুর্ভোগ হবে।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Nesse dia, ai dos desmentidores",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Горе в тот день тем, кто считает истину ложью",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اس دن جھٹلانے والوں کی خرابی ہے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_077_020",
+      "reference": {
+        "surah_number": 77,
+        "surah_name": "Al-Mursalaat",
+        "surah_name_ar": "سُوْرَةُ الْمُرْسَلَاتِ",
+        "surah_name_translation": "The Emissaries",
+        "ayah_number": 20,
+        "juz": 29,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 5,
+      "translations": {
+        "ar": {
+          "text": "أَلَمۡ نَخۡلُقكُّم مِّن مَّآءࣲ مَّهِينࣲ‏",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Did We not create you from a humble fluid",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "难道我没有用薄弱的精液创造你们吗？",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "क्या ऐस नहीं है कि हमने तुम्हे तुच्छ जल से पैदा किया",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "¿No los he creado de un líquido insignificante",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Ne vous avons-Nous pas créés d'une eau vile",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "আমি কি তোমাদেরকে তুচ্ছ পানি থেকে সৃষ্টি করিনি?",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Não vos criamos de uma água desprezível",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Разве Мы не сотворили вас из презренной жидкости",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "کیا ہم نے تم کو حقیر پانی سے نہیں پیدا کیا؟",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_077_021",
+      "reference": {
+        "surah_number": 77,
+        "surah_name": "Al-Mursalaat",
+        "surah_name_ar": "سُوْرَةُ الْمُرْسَلَاتِ",
+        "surah_name_translation": "The Emissaries",
+        "ayah_number": 21,
+        "juz": 29,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 4,
+      "translations": {
+        "ar": {
+          "text": "فَجَعَلۡنَٰهُ فِي قَرَارࣲ مَّكِينٍ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "placing it in a secure place",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "我把它放在一个坚固的安息之所，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "फिर हमने उसे एक सुरक्षित टिकने की जगह रखा",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "que deposité en un lugar seguro [el útero]",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "que Nous avons placée dans un reposoir sûr",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "অতঃপর আমি তা রেখেছি এক সংরক্ষিত আধারে,",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E fizemo-la estar em lugar estável, seguro",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "и не поместили ее в надежном месте",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اس کو ایک محفوظ جگہ میں رکھا",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_077_022",
+      "reference": {
+        "surah_number": 77,
+        "surah_name": "Al-Mursalaat",
+        "surah_name_ar": "سُوْرَةُ الْمُرْسَلَاتِ",
+        "surah_name_translation": "The Emissaries",
+        "ayah_number": 22,
+        "juz": 29,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 3,
+      "translations": {
+        "ar": {
+          "text": "إِلَىٰ قَدَرࣲ مَّعۡلُومࣲ‏",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "until an appointed time",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "到一个定期。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "एक ज्ञात और निश्चित अवधि तक",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "por un tiempo determinado",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "pour une durée connue",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "এক নির্দিষ্টকাল পর্যন্ত,",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Até um tempo determinado",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "до известного срока",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "ایک وقت معین تک",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_077_023",
+      "reference": {
+        "surah_number": 77,
+        "surah_name": "Al-Mursalaat",
+        "surah_name_ar": "سُوْرَةُ الْمُرْسَلَاتِ",
+        "surah_name_translation": "The Emissaries",
+        "ayah_number": 23,
+        "juz": 29,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 3,
+      "translations": {
+        "ar": {
+          "text": "فَقَدَرۡنَا فَنِعۡمَ ٱلۡقَٰدِرُونَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "We ˹perfectly˺ ordained ˹its development˺. How excellent are We in doing so",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "我曾判定，我是善於判定的。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "फिर हमने अन्दाजा ठहराया, तो हम क्या ही अच्छा अन्दाज़ा ठहरानेवाले है",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Así lo he decretado, y Mi decreto es perfecto",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Nous l'avons décrété ainsi et Nous décrétons [tout] de façon parfaite",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "অতঃপর আমি পরিমিত আকারে সৃষ্টি করেছি, আমি কত সক্ষম স্রষ্টা?",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Então, determinamos a criação. Quão Excelente Poderoso somos Nós",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Мы предопределили меру, и как прекрасно Мы предопределяем",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "پھر اندازہ مقرر کیا اور ہم کیا ہی خوب اندازہ مقرر کرنے والے ہیں",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_077_024",
+      "reference": {
+        "surah_number": 77,
+        "surah_name": "Al-Mursalaat",
+        "surah_name_ar": "سُوْرَةُ الْمُرْسَلَاتِ",
+        "surah_name_translation": "The Emissaries",
+        "ayah_number": 24,
+        "juz": 29,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 3,
+      "translations": {
+        "ar": {
+          "text": "وَيۡلࣱ يَوۡمَئِذࣲ لِّلۡمُكَذِّبِينَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Woe on that Day to the deniers",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "在那日，伤哉否认真理的人们。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "तबाही है उस दिन झूठलानेवालों की",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "¡Cuán desdichados serán ese día los que negaron la verdad",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Malheur, ce jour-là, à ceux qui criaient au mensonge",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "সেদিন মিথ্যারোপকারীদের দুর্ভোগ হবে।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Nesse dia, ai dos desmentidores",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Горе в тот день тем, кто считает истину ложью",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اس دن جھٹلانے والوں کی خرابی ہے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_077_025",
+      "reference": {
+        "surah_number": 77,
+        "surah_name": "Al-Mursalaat",
+        "surah_name_ar": "سُوْرَةُ الْمُرْسَلَاتِ",
+        "surah_name_translation": "The Emissaries",
+        "ayah_number": 25,
+        "juz": 29,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 4,
+      "translations": {
+        "ar": {
+          "text": "أَلَمۡ نَجۡعَلِ ٱلۡأَرۡضَ كِفَاتًا",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Have We not made the earth a lodging",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "难道我没有使大地成为包罗",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "क्या ऐसा नहीं है कि हमने धरती को समेट रखनेवाली बनाया",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "¿Acaso no he hecho de la tierra una morada",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "N'avons-Nous pas fait de la terre un endroit les contenant tous",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "আমি কি পৃথিবীকে সৃষ্টি করিনি ধারণকারিণীরূপে,",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Não fizemos a terra contenedora de todos",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Разве Мы не сделали землю вместилищем",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "کیا ہم نے زمین کو سمیٹنے والی نہیں بنایا",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_077_026",
+      "reference": {
+        "surah_number": 77,
+        "surah_name": "Al-Mursalaat",
+        "surah_name_ar": "سُوْرَةُ الْمُرْسَلَاتِ",
+        "surah_name_translation": "The Emissaries",
+        "ayah_number": 26,
+        "juz": 29,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 3,
+      "translations": {
+        "ar": {
+          "text": "أَحۡيَآءࣰ وَأَمۡوَٰتࣰ ا",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "for the living and the dead",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "活物和死物的吗？",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "ज़िन्दों को भी और मुर्दों को भी",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "para los vivos y los muertos",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "les vivants ainsi que les morts",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "জীবিত ও মৃতদেরকে?",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Vivos e mortos",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "для живых и мертвых",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "(یعنی) زندوں اور مردوں کو",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_077_027",
+      "reference": {
+        "surah_number": 77,
+        "surah_name": "Al-Mursalaat",
+        "surah_name_ar": "سُوْرَةُ الْمُرْسَلَاتِ",
+        "surah_name_translation": "The Emissaries",
+        "ayah_number": 27,
+        "juz": 29,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 8,
+      "translations": {
+        "ar": {
+          "text": "وَجَعَلۡنَا فِيهَا رَوَٰسِيَ شَٰمِخَٰتࣲ وَأَسۡقَيۡنَٰكُم مَّآءࣰ فُرَاتࣰ ا",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "and placed upon it towering, firm mountains, and given you fresh water to drink",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "我曾在大地上，安置许多崇高的山峦。我曾赏赐你们甘美的饮料。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "और उसमें ऊँचे-ऊँचे पहाड़ जमाए और तुम्हें मीठा पानी पिलाया",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "y he puesto en ella montañas elevadas y firmes? ¿Acaso no les he dado de beber agua dulce",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Et n'y avons-Nous pas placé fermement de hautes montagnes? Et ne vous avons-Nous pas abreuvés d'eau douce",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "আমি তাতে স্থাপন করেছি মজবুত সুউচ্চ পর্বতমালা এবং পান করিয়েছি তোমাদেরকে তৃষ্ণা নিবারণকারী সুপেয় পানি।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E, nela, fizemos assentes montanhas altíssimas, e demo-vos de beber água sápida",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Разве Мы не воздвигли на ней незыблемые и высокие горы и не напоили вас пресной водой",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "(بنایا) اور اس پر اونچے اونچے پہاڑ رکھ دیئے اور تم لوگوں کو میٹھا پانی پلایا",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_077_028",
+      "reference": {
+        "surah_number": 77,
+        "surah_name": "Al-Mursalaat",
+        "surah_name_ar": "سُوْرَةُ الْمُرْسَلَاتِ",
+        "surah_name_translation": "The Emissaries",
+        "ayah_number": 28,
+        "juz": 29,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 3,
+      "translations": {
+        "ar": {
+          "text": "وَيۡلࣱ يَوۡمَئِذࣲ لِّلۡمُكَذِّبِينَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Woe on that Day to the deniers",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "在那日，伤哉否认真理的人们！",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "तबाही है उस दिन झुठलानेवालों की",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "¡Cuán desdichados serán ese día los que negaron la verdad",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Malheur, ce jour-là, à ceux qui criaient au mensonge",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "সেদিন মিথ্যারোপকারীদের দুর্ভোগ হবে।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Nesse dia, ai dos desmentidores",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Горе в тот день тем, кто считает истину ложью",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اس دن جھٹلانے والوں کی خرابی ہے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_077_029",
+      "reference": {
+        "surah_number": 77,
+        "surah_name": "Al-Mursalaat",
+        "surah_name_ar": "سُوْرَةُ الْمُرْسَلَاتِ",
+        "surah_name_translation": "The Emissaries",
+        "ayah_number": 29,
+        "juz": 29,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 6,
+      "translations": {
+        "ar": {
+          "text": "ٱنطَلِقُوٓاْ إِلَىٰ مَا كُنتُم بِهِۦ تُكَذِّبُونَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "˹The disbelievers will be told,˺ “Proceed into that ˹Fire˺ which you used to deny",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "你们去享受你们所否认的刑罚吧！",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "चलो उस चीज़ की ओर जिसे तुम झुठलाते रहे हो",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "[Se les dirá:] Diríjanse a lo que desmentían [el Infierno]",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Allez vers ce que vous traitiez alors de mensonge",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "চল তোমরা তারই দিকে, যাকে তোমরা মিথ্যা বলতে।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Dir-se-Ihes-á: \"Ide ao que desmentíeis",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Ступайте к тому, что вы считали ложью",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "جس چیز کو تم جھٹلایا کرتے تھے۔ (اب) اس کی طرف چلو",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_077_030",
+      "reference": {
+        "surah_number": 77,
+        "surah_name": "Al-Mursalaat",
+        "surah_name_ar": "سُوْرَةُ الْمُرْسَلَاتِ",
+        "surah_name_translation": "The Emissaries",
+        "ayah_number": 30,
+        "juz": 29,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 6,
+      "translations": {
+        "ar": {
+          "text": "ٱنطَلِقُوٓاْ إِلَىٰ ظِلࣲّ ذِي ثَلَٰثِ شُعَبࣲ‏",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Proceed into the shade ˹of smoke˺ which rises in three columns",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "你们去享受有三个权的荫影吧！",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "चलो तीन शाखाओंवाली छाया की ओर",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Diríjanse a la sombra [infernal] ramificada en tres",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Allez vers une ombre [fumée de l'Enfer] à trois branches",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "চল তোমরা তিন কুন্ডলীবিশিষ্ট ছায়ার দিকে,",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Ide a uma sombra de três ramificações",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Ступайте к тени с тремя разветвлениями",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "(یعنی) اس سائے کی طرف چلو جس کی تین شاخیں ہیں",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_077_031",
+      "reference": {
+        "surah_number": 77,
+        "surah_name": "Al-Mursalaat",
+        "surah_name_ar": "سُوْرَةُ الْمُرْسَلَاتِ",
+        "surah_name_translation": "The Emissaries",
+        "ayah_number": 31,
+        "juz": 29,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 6,
+      "translations": {
+        "ar": {
+          "text": "لَّا ظَلِيلࣲ وَلَا يُغۡنِي مِنَ ٱللَّهَبِ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "providing neither coolness nor shelter from the flames",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "那荫影不是阴凉的，不能遮挡火焰的热浪。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "जिसमें न छाँव है और न वह अग्नि-ज्वाला से बचा सकती है",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "que no protege ni salva de las llamas",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "qui n'est ni ombreuse ni capable de protéger contre la flamme",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "যে ছায়া সুনিবিড় নয় এবং অগ্নির উত্তাপ থেকে রক্ষা করে না।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Não é umbrátil nem vale contra a Labareda",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Не прохладна она и от пламени не избавляет",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "نہ ٹھنڈی چھاؤں اور نہ لپٹ سے بچاؤ",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_077_032",
+      "reference": {
+        "surah_number": 77,
+        "surah_name": "Al-Mursalaat",
+        "surah_name_ar": "سُوْرَةُ الْمُرْسَلَاتِ",
+        "surah_name_translation": "The Emissaries",
+        "ayah_number": 32,
+        "juz": 29,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 4,
+      "translations": {
+        "ar": {
+          "text": "إِنَّهَا تَرۡمِي بِشَرَرࣲ كَٱلۡقَصۡرِ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Indeed, it hurls sparks ˹as big˺ as huge castles",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "那火焰喷射出宫殿般的火星，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "निस्संदेह वे (ज्वालाएँ) महल जैसी (ऊँची) चिंगारियाँ फेंकती है",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "pues arroja chispas grandes como palacios",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "car [le feu] jette des étincelles volumineuses comme des châteaux",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "এটা অট্টালিকা সদৃশ বৃহৎ স্ফুলিংগ নিক্ষেপ করবে।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Por certo, ela atira faíscas enormes como toros",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "а он бросает искры, подобные замку",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اس سے (آگ کی اتنی اتنی بڑی) چنگاریاں اُڑتی ہیں جیسے محل",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_077_033",
+      "reference": {
+        "surah_number": 77,
+        "surah_name": "Al-Mursalaat",
+        "surah_name_ar": "سُوْرَةُ الْمُرْسَلَاتِ",
+        "surah_name_translation": "The Emissaries",
+        "ayah_number": 33,
+        "juz": 29,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 3,
+      "translations": {
+        "ar": {
+          "text": "كَأَنَّهُۥ جِمَٰلَتࣱ صُفۡرࣱ‏",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "and ˹as dark˺ as black camels.”",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "好像黧黑的骆驼一样。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "मानो वे पीले ऊँट हैं",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Chispas que semejan camellos pardos",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "et qu'on prendrait pour des chameaux jaunes",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "যেন সে পীতবর্ণ উষ্ট্রশ্রেণী।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Como se fossem camelos amarelos",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "который выглядит словно желтые верблюды",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "گویا زرد رنگ کے اونٹ ہیں",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_077_034",
+      "reference": {
+        "surah_number": 77,
+        "surah_name": "Al-Mursalaat",
+        "surah_name_ar": "سُوْرَةُ الْمُرْسَلَاتِ",
+        "surah_name_translation": "The Emissaries",
+        "ayah_number": 34,
+        "juz": 29,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 3,
+      "translations": {
+        "ar": {
+          "text": "وَيۡلࣱ يَوۡمَئِذࣲ لِّلۡمُكَذِّبِينَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Woe on that Day to the deniers",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "在那日，伤哉否认真理的人们！",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "तबाही है उस झुठलानेवालों की",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "¡Cuán desdichados serán ese día los que negaron la verdad",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Malheur, ce jour-là, à ceux qui criaient au mensonge",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "সেদিন মিথ্যারোপকারীদের দুর্ভোগ হবে।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Nesse dia, ai dos desmentidores",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Горе в тот день тем, кто считает истину ложью",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اس دن جھٹلانے والوں کی خرابی ہے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_077_035",
+      "reference": {
+        "surah_number": 77,
+        "surah_name": "Al-Mursalaat",
+        "surah_name_ar": "سُوْرَةُ الْمُرْسَلَاتِ",
+        "surah_name_translation": "The Emissaries",
+        "ayah_number": 35,
+        "juz": 29,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 4,
+      "translations": {
+        "ar": {
+          "text": "هَٰذَا يَوۡمُ لَا يَنطِقُونَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "On that Day they will not ˹be in a position to˺ speak",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "这是他们不得发言之日。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "यह वह दिन है कि वे कुछ बोल नहीं रहे है",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Ese día no hablarán",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Ce sera le jour où ils ne [peuvent] pas parler",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "এটা এমন দিন, যেদিন কেউ কথা বলবে না।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Esse será um dia em que eles não falarão",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "В тот день они будут безмолвствовать",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "یہ وہ دن ہے کہ (لوگ) لب تک نہ ہلا سکیں گے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_077_036",
+      "reference": {
+        "surah_number": 77,
+        "surah_name": "Al-Mursalaat",
+        "surah_name_ar": "سُوْرَةُ الْمُرْسَلَاتِ",
+        "surah_name_translation": "The Emissaries",
+        "ayah_number": 36,
+        "juz": 29,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 4,
+      "translations": {
+        "ar": {
+          "text": "وَلَا يُؤۡذَنُ لَهُمۡ فَيَعۡتَذِرُونَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "nor will they be permitted to offer excuses",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "他们不蒙许可，故不能道歉。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "तो कोई उज़ पेश करें, (बात यह है कि) उन्हें बोलने की अनुमति नहीं दी जा रही है",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "ni se les permitirá excusarse",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "et point ne leur sera donné permission de s'excuser",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "এবং কাউকে তওবা করার অনুমতি দেয়া হবে না।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Nem se lhes dará permissão para isso: então, não se escusarão",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "и не будет им дозволено оправдываться",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور نہ ان کو اجازت دی جائے گی کہ عذر کرسکیں",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_077_037",
+      "reference": {
+        "surah_number": 77,
+        "surah_name": "Al-Mursalaat",
+        "surah_name_ar": "سُوْرَةُ الْمُرْسَلَاتِ",
+        "surah_name_translation": "The Emissaries",
+        "ayah_number": 37,
+        "juz": 29,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 3,
+      "translations": {
+        "ar": {
+          "text": "وَيۡلࣱ يَوۡمَئِذࣲ لِّلۡمُكَذِّبِينَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Woe on that Day to the deniers",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "在那日，伤哉否认真理的人们！",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "तबाही है उस दिन झुठलानेवालों की",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "¡Cuán desdichados serán ese día los que negaron la verdad",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Malheur, ce jour-là, à ceux qui criaient au mensonge",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "সেদিন মিথ্যারোপকারীদের দুর্ভোগ হবে।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Nesse dia, ai dos desmentidores",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Горе в тот день тем, кто считает истину ложью",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اس دن جھٹلانے والوں کی خرابی ہے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_077_038",
+      "reference": {
+        "surah_number": 77,
+        "surah_name": "Al-Mursalaat",
+        "surah_name_ar": "سُوْرَةُ الْمُرْسَلَاتِ",
+        "surah_name_translation": "The Emissaries",
+        "ayah_number": 38,
+        "juz": 29,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 5,
+      "translations": {
+        "ar": {
+          "text": "هَٰذَا يَوۡمُ ٱلۡفَصۡلِۖ جَمَعۡنَٰكُمۡ وَٱلۡأَوَّلِينَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "˹They will be told by Allah,˺ “This is the Day of ˹Final˺ Decision: We have gathered you along with earlier disbelievers ˹for punishment˺",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "这是判决之日，我把你们和先民集合在一处。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "यह फ़ैसले का दिन है, हमने तुम्हें भी और पहलों को भी इकट्ठा कर दिया",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Este es el día de la sentencia. Los he reunido a los primeros y a los últimos",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "C'est le Jour de la Décision [Jugement], où nous vous réunirons ainsi que les anciens",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "এটা বিচার দিবস, আমি তোমাদেরকে এবং তোমাদের পূর্ববর্তীদেরকে একত্রিত করেছি।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Dir-se-lhes-á: \"Este é o Dia da Decisão. Juntamo-vos, e aos antepassados",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Вот День различения! Мы собрали вас и тех, кто был прежде",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "یہی فیصلے کا دن ہے (جس میں) ہم نے تم کو اور پہلے لوگوں کو جمع کیا ہے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_077_039",
+      "reference": {
+        "surah_number": 77,
+        "surah_name": "Al-Mursalaat",
+        "surah_name_ar": "سُوْرَةُ الْمُرْسَلَاتِ",
+        "surah_name_translation": "The Emissaries",
+        "ayah_number": 39,
+        "juz": 29,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 5,
+      "translations": {
+        "ar": {
+          "text": "فَإِن كَانَ لَكُمۡ كَيۡدࣱ فَكِيدُونِ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "So if you have a scheme ˹to save yourselves˺, then use it against Me.”",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "如果你们有什么计谋，你们可对我用计。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "अब यदि तुम्हारे पास कोई चाल है तो मेरे विरुद्ध चलो।",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Si creen tener alguna treta [para huir], úsenla ahora",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Si vous disposez d'une ruse, rusez donc contre Moi",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "অতএব, তোমাদের কোন অপকৌশল থাকলে তা প্রয়োগ কর আমার কাছে।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Então, se tendes insídia, insidiai-Me",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Если у вас есть какая-нибудь хитрость, то ухитритесь против Меня",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اگر تم کو کوئی داؤں آتا ہو تو مجھ سے کر لو",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_077_040",
+      "reference": {
+        "surah_number": 77,
+        "surah_name": "Al-Mursalaat",
+        "surah_name_ar": "سُوْرَةُ الْمُرْسَلَاتِ",
+        "surah_name_translation": "The Emissaries",
+        "ayah_number": 40,
+        "juz": 29,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 3,
+      "translations": {
+        "ar": {
+          "text": "وَيۡلࣱ يَوۡمَئِذࣲ لِّلۡمُكَذِّبِينَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Woe on that Day to the deniers",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "在那日，伤哉否认真理的人们！",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "तबाही है उस दिन झुठलानेवालो की",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "¡Cuán desdichados serán ese día los que negaron la verdad",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Malheur, ce jour-là, à ceux qui criaient au mensonge",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "সেদিন মিথ্যারোপকারীদের দুর্ভোগ হবে।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Nesse dia, ai dos desmentidores",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Горе в тот день тем, кто считает истину ложью",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اس دن جھٹلانے والوں کی خرابی ہے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_077_041",
+      "reference": {
+        "surah_number": 77,
+        "surah_name": "Al-Mursalaat",
+        "surah_name_ar": "سُوْرَةُ الْمُرْسَلَاتِ",
+        "surah_name_translation": "The Emissaries",
+        "ayah_number": 41,
+        "juz": 29,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 5,
+      "translations": {
+        "ar": {
+          "text": "إِنَّ ٱلۡمُتَّقِينَ فِي ظِلَٰلࣲ وَعُيُونࣲ‏",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Indeed, the righteous will be amid ˹cool˺ shade and springs",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "敬畏的人们，必定在树荫之下，清泉之滨，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "निस्संदेह डर रखनेवाले छाँवों और स्रोतों में है",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Pero los que hayan tenido temor de Dios, estarán bajo sombras frescas entre manantiales",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Les pieux seront parmi des ombrages et des sources",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "নিশ্চয় খোদাভীরুরা থাকবে ছায়ায় এবং প্রস্রবণসমূহে-",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Por certo, os piedosos estarão entre sombras e fontes",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "А богобоязненные, воистину, пребудут среди сеней и источников",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "بےشک پرہیزگار سایوں اور چشموں میں ہوں گے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_077_042",
+      "reference": {
+        "surah_number": 77,
+        "surah_name": "Al-Mursalaat",
+        "surah_name_ar": "سُوْرَةُ الْمُرْسَلَاتِ",
+        "surah_name_translation": "The Emissaries",
+        "ayah_number": 42,
+        "juz": 29,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 3,
+      "translations": {
+        "ar": {
+          "text": "وَفَوَٰكِهَ مِمَّا يَشۡتَهُونَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "and any fruit they desire",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "享受他们爱吃的水果，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "और उन फलों के बीच जो वे चाहे",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Tendrán las frutas que deseen",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "De même que des fruits selon leurs désirs",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "এবং তাদের বাঞ্ছিত ফল-মূলের মধ্যে।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E frutas de quanto apetecerem",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "и плодов, каких только пожелают",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور میؤوں میں جو ان کو مرغوب ہوں",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_077_043",
+      "reference": {
+        "surah_number": 77,
+        "surah_name": "Al-Mursalaat",
+        "surah_name_ar": "سُوْرَةُ الْمُرْسَلَاتِ",
+        "surah_name_translation": "The Emissaries",
+        "ayah_number": 43,
+        "juz": 29,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 6,
+      "translations": {
+        "ar": {
+          "text": "كُلُواْ وَٱشۡرَبُواْ هَنِيٓـَٔۢا بِمَا كُنتُمۡ تَعۡمَلُونَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "˹They will be told,˺ “Eat and drink happily for what you used to do.”",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "将对他们说：你们曾经行善，故你们痛快地饮食吧！",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "खाओ-पियो मज़े से, उस कर्मों के बदले में जो तुम करते रहे हो।",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "[Se les dirá:] \"Coman y beban cuanto quieran como recompensa por lo que obraron",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "«Mangez et buvez agréablement, pour ce que vous faisiez»",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "বলা হবেঃ তোমরা যা করতে তার বিনিময়ে তৃপ্তির সাথে পানাহার কর।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Dir-se-lhes-á: \"Comei e bebei com deleite, pelo que fazíeis",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Ешьте и пейте во здравие за то, что вы совершали",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور جو عمل تم کرتے رہے تھے ان کے بدلے میں مزے سے کھاؤ اور پیو",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_077_044",
+      "reference": {
+        "surah_number": 77,
+        "surah_name": "Al-Mursalaat",
+        "surah_name_ar": "سُوْرَةُ الْمُرْسَلَاتِ",
+        "surah_name_translation": "The Emissaries",
+        "ayah_number": 44,
+        "juz": 29,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 4,
+      "translations": {
+        "ar": {
+          "text": "إِنَّا كَذَٰلِكَ نَجۡزِي ٱلۡمُحۡسِنِينَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Surely this is how We reward the good-doers",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "我必定这样报酬行善的人们。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "निश्चय ही उत्तमकारों को हम ऐसा ही बदला देते है",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Así recompensaré a los que hagan el bien",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "C'est ainsi que Nous récompensons les bienfaisants",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "এভাবেই আমি সৎকর্মশীলদেরকে পুরস্কৃত করে থাকি।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Por certo, assim recompensamos os benfeitores",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Так Мы вознаграждаем творящих добро",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "ہم نیکو کاروں کو ایسا ہی بدلہ دیا کرتے ہیں",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_077_045",
+      "reference": {
+        "surah_number": 77,
+        "surah_name": "Al-Mursalaat",
+        "surah_name_ar": "سُوْرَةُ الْمُرْسَلَاتِ",
+        "surah_name_translation": "The Emissaries",
+        "ayah_number": 45,
+        "juz": 29,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 3,
+      "translations": {
+        "ar": {
+          "text": "وَيۡلࣱ يَوۡمَئِذࣲ لِّلۡمُكَذِّبِينَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "˹But˺ woe on that Day to the deniers",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "在那日，伤哉否认真理的人们。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "तबाही है उस दिन झुठलानेवालों की",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "¡Cuán desdichados serán ese día los que negaron la verdad",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Malheur, ce jour-là, à ceux qui criaient au mensonge",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "সেদিন মিথ্যারোপকারীদের দুর্ভোগ হবে।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Nesse dia, ai dos desmentidores",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Горе в тот день тем, кто считает истину ложью",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اس دن جھٹلانے والوں کی خرابی ہوگی",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_077_046",
+      "reference": {
+        "surah_number": 77,
+        "surah_name": "Al-Mursalaat",
+        "surah_name_ar": "سُوْرَةُ الْمُرْسَلَاتِ",
+        "surah_name_translation": "The Emissaries",
+        "ayah_number": 46,
+        "juz": 29,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 5,
+      "translations": {
+        "ar": {
+          "text": "كُلُواْ وَتَمَتَّعُواْ قَلِيلًا إِنَّكُم مُّجۡرِمُونَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "“Eat and enjoy yourselves for a little while, ˹for˺ you are truly wicked.”",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "你们暂时吃喝享受吧！你们确是犯罪的人。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "खा लो और मज़े कर लो थोड़ा-सा, वास्तव में तुम अपराधी हो",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "[¡Aquellos que niegan el Mensaje!] Coman y disfruten temporalmente, porque están hundidos en el pecado",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "«Mangez et jouissez un peu (ici-bas); vous êtes certes des criminels»",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "কাফেরগণ, তোমরা কিছুদিন খেয়ে নাও এবং ভোগ করে নাও। তোমরা তো অপরাধী।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Ó íncréus, comei e gozai um pouco, por certo, sois criminosos",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Вкушайте и наслаждайтесь недолго, ведь вы являетесь грешниками",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "(اے جھٹلانے والو!) تم کسی قدر کھا لو اور فائدے اُٹھا لو تم بےشک گنہگار ہو",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_077_047",
+      "reference": {
+        "surah_number": 77,
+        "surah_name": "Al-Mursalaat",
+        "surah_name_ar": "سُوْرَةُ الْمُرْسَلَاتِ",
+        "surah_name_translation": "The Emissaries",
+        "ayah_number": 47,
+        "juz": 29,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 3,
+      "translations": {
+        "ar": {
+          "text": "وَيۡلࣱ يَوۡمَئِذࣲ لِّلۡمُكَذِّبِينَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Woe on that Day to the deniers",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "在那日，伤哉否认真理的人们！",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "तबाही है उस दिन झुठलानेवालों की",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "¡Cuán desdichados serán ese día los que negaron la verdad",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Malheur, ce jour-là, à ceux qui criaient au mensonge",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "সেদিন মিথ্যারোপকারীদের দুর্ভোগ হবে।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Nesse dia, ai dos desmentidores",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Горе в тот день тем, кто считает истину ложью",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اس دن جھٹلانے والوں کی خرابی ہے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_077_048",
+      "reference": {
+        "surah_number": 77,
+        "surah_name": "Al-Mursalaat",
+        "surah_name_ar": "سُوْرَةُ الْمُرْسَلَاتِ",
+        "surah_name_translation": "The Emissaries",
+        "ayah_number": 48,
+        "juz": 29,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 6,
+      "translations": {
+        "ar": {
+          "text": "وَإِذَا قِيلَ لَهُمُ ٱرۡكَعُواْ لَا يَرۡكَعُونَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "When it is said to them, “Bow down ˹before Allah,” they do not bow",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "有人对他们说：你们当鞠躬。他们不肯鞠躬。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "जब उनसे कहा जाता है कि \"झुको! तो नहीं झुकते।",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Cuando se les dice: \"Hagan la oración\", no la hacen",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Et quand on leur dit: «Inclinez-vous, ils ne s'inclinent pas",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "যখন তাদেরকে বলা হয়, নত হও, তখন তারা নত হয় না।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E, quando se lhes diz: \"Curvai-vos\", não se curvam",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Когда им говорят: «Поклонитесь!». - они не кланяются",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور جب ان سے کہا جاتا ہے کہ (خدا کے آگے) جھکو تو جھکتے نہیں",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_077_049",
+      "reference": {
+        "surah_number": 77,
+        "surah_name": "Al-Mursalaat",
+        "surah_name_ar": "سُوْرَةُ الْمُرْسَلَاتِ",
+        "surah_name_translation": "The Emissaries",
+        "ayah_number": 49,
+        "juz": 29,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 3,
+      "translations": {
+        "ar": {
+          "text": "وَيۡلࣱ يَوۡمَئِذࣲ لِّلۡمُكَذِّبِينَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Woe on that Day to the deniers",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "伤哉否认真理的人们！",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "तबाही है उस दिन झुठलानेवालों की",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "¡Cuán desdichados serán ese día los que negaron la verdad",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Malheur, ce jour-là, à ceux qui criaient au mensonge",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "সেদিন মিথ্যারোপকারীদের দুর্ভোগ হবে।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Nesse dia, ai dos desmentidores",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Горе в тот день тем, кто считает истину ложью",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اس دن جھٹلانے والوں کی خرابی ہے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_077_050",
+      "reference": {
+        "surah_number": 77,
+        "surah_name": "Al-Mursalaat",
+        "surah_name_ar": "سُوْرَةُ الْمُرْسَلَاتِ",
+        "surah_name_translation": "The Emissaries",
+        "ayah_number": 50,
+        "juz": 29,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 4,
+      "translations": {
+        "ar": {
+          "text": "فَبِأَيِّ حَدِيثِۭ بَعۡدَهُۥ يُؤۡمِنُونَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "So what message after this ˹Quran˺ would they believe in",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "除《古兰经》外，他们要信仰什么文辞呢？",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "अब आख़िर इसके पश्चात किस वाणी पर वे ईमान लाएँगे",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "¿En qué otro Mensaje fuera de este han de creer",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Après cela, en quelle parole croiront-ils donc",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "এখন কোন কথায় তারা এরপর বিশ্বাস স্থাপন করবে?",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Então, em que Mensagem, depois dele crerão",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "В какой же рассказ после этого вы уверуете",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اب اس کے بعد یہ کون سی بات پر ایمان لائیں گے؟",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    }
+  ]
+}

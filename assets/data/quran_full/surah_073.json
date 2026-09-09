@@ -1,0 +1,1125 @@
+{
+  "surah": 73,
+  "verses": [
+    {
+      "content_id": "quran_073_001",
+      "reference": {
+        "surah_number": 73,
+        "surah_name": "Al-Muzzammil",
+        "surah_name_ar": "سُوْرَةُ الْمُزَّمِّلِ",
+        "surah_name_translation": "The Enshrouded One",
+        "ayah_number": 1,
+        "juz": 29,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 2,
+      "translations": {
+        "ar": {
+          "text": "يَٰٓأَيُّهَا ٱلۡمُزَّمِّلُ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "O you wrapped ˹in your clothes˺",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "披衣的人啊！",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "ऐ कपड़े में लिपटनेवाले",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "¡Oh, tú [Mujámmad] que estás arropado",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "O toi, l'enveloppé [dans tes vêtements]",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "হে বস্ত্রাবৃত!",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Ó envolto nas vestes",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "О закутавшийся",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اے (محمدﷺ) جو کپڑے میں لپٹ رہے ہو",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_073_002",
+      "reference": {
+        "surah_number": 73,
+        "surah_name": "Al-Muzzammil",
+        "surah_name_ar": "سُوْرَةُ الْمُزَّمِّلِ",
+        "surah_name_translation": "The Enshrouded One",
+        "ayah_number": 2,
+        "juz": 29,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 5,
+      "translations": {
+        "ar": {
+          "text": "قُمِ ٱلَّيۡلَ إِلَّا قَلِيلࣰ ا",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Stand all night ˹in prayer˺ except a little—",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "你应当在夜间礼拜，除开不多的时间，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "रात को उठकर (नमाज़ में) खड़े रहा करो - सिवाय थोड़ा हिस्सा",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Levántate a orar en la noche, salvo una pequeña parte de ella",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Lève-toi [pour prier], toute la nuit, excepté une petite partie",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "রাত্রিতে দন্ডায়মান হোন কিছু অংশ বাদ দিয়ে;",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Levanta-te e ora durante a noite, exceto durante um pouco",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Простаивай ночь без малого",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "رات کو قیام کیا کرو مگر تھوڑی سی رات",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_073_003",
+      "reference": {
+        "surah_number": 73,
+        "surah_name": "Al-Muzzammil",
+        "surah_name_ar": "سُوْرَةُ الْمُزَّمِّلِ",
+        "surah_name_translation": "The Enshrouded One",
+        "ayah_number": 3,
+        "juz": 29,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 5,
+      "translations": {
+        "ar": {
+          "text": "نِّصۡفَهُۥٓ أَوِ ٱنقُصۡ مِنۡهُ قَلِيلًا",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "˹pray˺ half the night, or a little less",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "半夜或少一点，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "आधी रात",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "la mitad, o un poco menos",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Sa moitié, ou un peu moins",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "অর্ধরাত্রি অথবা তদপেক্ষা কিছু কম",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Sua metade, ou diminui dela um pouco",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "половину ночи или чуть меньше того",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "(قیام) آدھی رات (کیا کرو)",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_073_004",
+      "reference": {
+        "surah_number": 73,
+        "surah_name": "Al-Muzzammil",
+        "surah_name_ar": "سُوْرَةُ الْمُزَّمِّلِ",
+        "surah_name_translation": "The Enshrouded One",
+        "ayah_number": 4,
+        "juz": 29,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 6,
+      "translations": {
+        "ar": {
+          "text": "أَوۡ زِدۡ عَلَيۡهِ وَرَتِّلِ ٱلۡقُرۡءَانَ تَرۡتِيلًا",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "or a little more—and recite the Quran ˹properly˺ in a measured way",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "或多一点。你应当讽诵《古兰经》，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "या उससे कुछ थोड़ा कम कर लो या उससे कुछ अधिक बढ़ा लो और क़ुरआन को भली-भाँति ठहर-ठहरकर पढ़ो।",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "o un poco más, y recita el Corán claramente y meditando en su significado",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "ou un peu plus. Et récite le Coran, lentement et clairement",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "অথবা তদপেক্ষা বেশী এবং কোরআন আবৃত্তি করুন সুবিন্যস্ত ভাবে ও স্পষ্টভাবে।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Ou acrescenta-lho. E recita o Alcorão, lenta e claramente",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "или чуть больше того, и читай Коран размеренным чтением",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "یا اس سے کچھ کم یا کچھ زیادہ اور قرآن کو ٹھہر ٹھہر کر پڑھا کرو",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_073_005",
+      "reference": {
+        "surah_number": 73,
+        "surah_name": "Al-Muzzammil",
+        "surah_name_ar": "سُوْرَةُ الْمُزَّمِّلِ",
+        "surah_name_translation": "The Enshrouded One",
+        "ayah_number": 5,
+        "juz": 29,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 6,
+      "translations": {
+        "ar": {
+          "text": "إِنَّا سَنُلۡقِي عَلَيۡكَ قَوۡلࣰ ا ثَقِيلًا",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "˹For˺ We will soon send upon you a weighty revelation",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "我必定以庄严的言辞授予你，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "निश्चय ही हम तुमपर एक भारी बात डालनेवाले है",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Porque he de transmitirte una revelación de gran peso",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Nous allons te révéler des paroles lourdes (très importantes)",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "আমি আপনার প্রতি অবতীর্ণ করেছি গুরুত্বপূর্ণ বাণী।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Por certo, lançaremos, sobre ti, um dito ponderoso",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Мы непременно ниспошлем тебе весомые слова",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "ہم عنقریب تم پر ایک بھاری فرمان نازل کریں گے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_073_006",
+      "reference": {
+        "surah_number": 73,
+        "surah_name": "Al-Muzzammil",
+        "surah_name_ar": "سُوْرَةُ الْمُزَّمِّلِ",
+        "surah_name_translation": "The Enshrouded One",
+        "ayah_number": 6,
+        "juz": 29,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 9,
+      "translations": {
+        "ar": {
+          "text": "إِنَّ نَاشِئَةَ ٱلَّيۡلِ هِيَ أَشَدُّ وَطۡـࣰٔ ا وَأَقۡوَمُ قِيلًا",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Indeed, worship in the night is more impactful and suitable for recitation",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "夜间的觉醒确是更适当的；夜间的讽诵确是更正确的。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "निस्संदेह रात का उठना अत्यन्त अनुकूलता रखता है और बात भी उसमें अत्यन्त सधी हुई होती है",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Si te levantas a orar en el seno de la noche encontrarás mayor quietud y podrás concentrarte mejor",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "La prière pendant la nuit est plus efficace et plus propice pour la récitation",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "নিশ্চয় এবাদতের জন্যে রাত্রিতে উঠা প্রবৃত্তি দলনে সহায়ক এবং স্পষ্ট উচ্চারণের অনুকূল।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Por certo, a oração no início da noite é mais eficiente, e mais escorreita, em recitação",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Воистину, молитвы после пробуждения среди ночи тяжелее и яснее по изложению",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "کچھ شک نہیں کہ رات کا اٹھنا (نفس بہیمی) کو سخت پامال کرتا ہے اور اس وقت ذکر بھی خوب درست ہوتا ہے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_073_007",
+      "reference": {
+        "surah_number": 73,
+        "surah_name": "Al-Muzzammil",
+        "surah_name_ar": "سُوْرَةُ الْمُزَّمِّلِ",
+        "surah_name_translation": "The Enshrouded One",
+        "ayah_number": 7,
+        "juz": 29,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 8,
+      "translations": {
+        "ar": {
+          "text": "إِنَّ لَكَ فِي ٱلنَّهَارِ سَبۡحࣰ ا طَوِيلࣰ ا",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "For during the day you are over-occupied ˹with worldly duties˺",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "你在白天忙於事务，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "निश्चय ही तुम्हार लिए दिन में भी (तसबीह की) बड़ी गुंजाइश है।",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "pues durante el día tienes muchas ocupaciones",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Tu as, dans la journée, à vaquer à de longues occupations",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "নিশ্চয় দিবাভাগে রয়েছে আপনার দীর্ঘ কর্মব্যস্ততা।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Por certo, há para ti, durante o dia, longo percurso",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Воистину, днем ты бываешь подолгу занят",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "دن کے وقت تو تمہیں اور بہت سے شغل ہوتے ہیں",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_073_008",
+      "reference": {
+        "surah_number": 73,
+        "surah_name": "Al-Muzzammil",
+        "surah_name_ar": "سُوْرَةُ الْمُزَّمِّلِ",
+        "surah_name_translation": "The Enshrouded One",
+        "ayah_number": 8,
+        "juz": 29,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 7,
+      "translations": {
+        "ar": {
+          "text": "وَٱذۡكُرِ ٱسۡمَ رَبِّكَ وَتَبَتَّلۡ إِلَيۡهِ تَبۡتِيلࣰ ا",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "˹Always˺ remember the Name of your Lord, and devote yourself to Him wholeheartedly",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "故你应当纪念你的主的尊名，你应当专心致志地敬事他。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "और अपने रब के नाम का ज़िक्र किया करो और सबसे कटकर उसी के हो रहो।",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Celebra el nombre de tu Señor y conságrate a Él con total devoción",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Et rappelle-toi le nom de ton Seigneur et consacre-toi totalement à Lui",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "আপনি আপনার পালনকর্তার নাম স্মরণ করুন এবং একাগ্রচিত্তে তাতে মগ্ন হোন।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E lembra-te do nome de teu Senhor, e consagra-te a Ele inteiramente",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Поминай же имя Господа твоего и посвяти себя Ему полностью",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "تو اپنے پروردگار کے نام کا ذکر کرو اور ہر طرف سے بےتعلق ہو کر اسی کی طرف متوجہ ہوجاؤ",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_073_009",
+      "reference": {
+        "surah_number": 73,
+        "surah_name": "Al-Muzzammil",
+        "surah_name_ar": "سُوْرَةُ الْمُزَّمِّلِ",
+        "surah_name_translation": "The Enshrouded One",
+        "ayah_number": 9,
+        "juz": 29,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 10,
+      "translations": {
+        "ar": {
+          "text": "رَّبُّ ٱلۡمَشۡرِقِ وَٱلۡمَغۡرِبِ لَآ إِلَٰهَ إِلَّا هُوَ فَٱتَّخِذۡهُ وَكِيلࣰ ا",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "˹He is the˺ Lord of the east and the west. There is no god ˹worthy of worship˺ except Him, so take Him ˹alone˺ as a Trustee of Affairs",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "他是东方和西方的主，除他之外，绝无应受崇拜的，故你应当以他为监护者。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "वह पूर्व और पश्चिम का रब है, उसके सिवा कोई इष्ट-पूज्य नहीं, अतः तुम उसी को अपना कार्यसाधक बना लो",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Él es el Señor del oriente y del occidente. No hay nada ni nadie con derecho a ser adorado salvo Él. Tómalo como tu protector",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "le Seigneur du Levant et du Couchant. Il n'y a point de divinité à part Lui. Prends-Le donc comme Protecteur",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "তিনি পূর্ব ও পশ্চিমের অধিকর্তা। তিনি ব্যতীত কোন উপাস্য নেই। অতএব, তাঁকেই গ্রহণ করুন কর্মবিধায়করূপে।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Ele é O Senhor do Levante e do Poente: não existe deus senão Ele. Então, toma-O por Patrono",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Господь востока и запада - нет божества, кроме Него. Сделай же Его своим Попечителем и Хранителем",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "مشرق اور مغرب کا مالک (ہے اور) اس کے سوا کوئی معبود نہیں تو اسی کو اپنا کارساز بناؤ",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_073_010",
+      "reference": {
+        "surah_number": 73,
+        "surah_name": "Al-Muzzammil",
+        "surah_name_ar": "سُوْرَةُ الْمُزَّمِّلِ",
+        "surah_name_translation": "The Enshrouded One",
+        "ayah_number": 10,
+        "juz": 29,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 9,
+      "translations": {
+        "ar": {
+          "text": "وَٱصۡبِرۡ عَلَىٰ مَا يَقُولُونَ وَٱهۡجُرۡهُمۡ هَجۡرࣰ ا جَمِيلࣰ ا",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Be patient ˹O Prophet˺ with what they say, and depart from them courteously",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "你应当忍受他们所说的谰言，而温和地退避他们。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "और जो कुछ वे कहते है उसपर धैर्य से काम लो और भली रीति से उनसे अलग हो जाओ",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Ten paciencia con lo que dicen [insultándote], pero apártate de ellos discretamente",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Et endure ce qu'ils disent; et écarte-toi d'eux d'une façon convenable",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "কাফেররা যা বলে, তজ্জন্যে আপনি সবর করুন এবং সুন্দরভাবে তাদেরকে পরিহার করে চলুন।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E pacienta quanto ao que dizem e abandona-os, com belo abandono",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Терпимо относись к их словам и сторонись их красиво",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور جو جو (دل آزار) باتیں یہ لوگ کہتے ہیں ان کو سہتے رہو اور اچھے طریق سے ان سے کنارہ کش رہو",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_073_011",
+      "reference": {
+        "surah_number": 73,
+        "surah_name": "Al-Muzzammil",
+        "surah_name_ar": "سُوْرَةُ الْمُزَّمِّلِ",
+        "surah_name_translation": "The Enshrouded One",
+        "ayah_number": 11,
+        "juz": 29,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 6,
+      "translations": {
+        "ar": {
+          "text": "وَذَرۡنِي وَٱلۡمُكَذِّبِينَ أُوْلِي ٱلنَّعۡمَةِ وَمَهِّلۡهُمۡ قَلِيلًا",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "And leave to Me the deniers—the people of luxury—and bear with them for a little while",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "你让我处治享受安乐而否认真理的人们吧！你稍稍地宽待他们吧！",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "और तुम मुझे और झूठलानेवाले सुख-सम्पन्न लोगों को छोड़ दो और उन्हें थोड़ी मुहलत दो",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Deja que Yo me ocupe de los que niegan la verdad, los que ahora tienen opulencia. Tenles paciencia brevemente",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Et laisse-moi avec ceux qui crient au mensonge et qui vivent dans l'aisance; et accorde-leur un court répit",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "বিত্ত-বৈভবের অধিকারী মিথ্যারোপকারীদেরকে আমার হাতে ছেড়ে দিন এবং তাদেরকে কিছু অবকাশ দিন।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E deixa-Me com os desmentidores, dotados de bens terreais; e dá-lhes um pouco de prazo",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Оставь Меня с теми, кто считает истину ложью, но пользуется мирскими благами, и предоставь им небольшую отсрочку",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور مجھے ان جھٹلانے والوں سے جو دولتمند ہیں سمجھ لینے دو اور ان کو تھوڑی سی مہلت دے دو",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_073_012",
+      "reference": {
+        "surah_number": 73,
+        "surah_name": "Al-Muzzammil",
+        "surah_name_ar": "سُوْرَةُ الْمُزَّمِّلِ",
+        "surah_name_translation": "The Enshrouded One",
+        "ayah_number": 12,
+        "juz": 29,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 6,
+      "translations": {
+        "ar": {
+          "text": "إِنَّ لَدَيۡنَآ أَنكَالࣰ ا وَجَحِيمࣰ ا",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "˹For˺ We certainly have shackles, a ˹raging˺ Fire",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "我那里确有沉重的镣和强烈的火，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "निश्चय ही हमारे पास बेड़ियाँ है और भड़कती हुई आग",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "[Porque] dispongo de cadenas y del fuego del Infierno [para castigarlos]",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Nous avons [pour eux] lourdes chaînes et Enfer",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "নিশ্চয় আমার কাছে আছে শিকল ও অগ্নিকুন্ড।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Por certo, há, junto de Nós, pesadas correntes e Inferno",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Воистину, есть у Нас оковы и Ад",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "کچھ شک نہیں کہ ہمارے پاس بیڑیاں ہیں اور بھڑکتی ہوئی آگ ہے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_073_013",
+      "reference": {
+        "surah_number": 73,
+        "surah_name": "Al-Muzzammil",
+        "surah_name_ar": "سُوْرَةُ الْمُزَّمِّلِ",
+        "surah_name_translation": "The Enshrouded One",
+        "ayah_number": 13,
+        "juz": 29,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 7,
+      "translations": {
+        "ar": {
+          "text": "وَطَعَامࣰ ا ذَا غُصَّةࣲ وَعَذَابًا أَلِيمࣰ ا",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "choking food, and a painful punishment ˹in store for them˺",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "有噎人的食物，和痛苦的刑罚。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "और गले में अटकनेवाला भोजन है और दुखद यातना",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "de una comida que [por su repugnancia] se atraganta, un castigo doloroso",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "et nourriture à faire suffoquer, et châtiment douloureux",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "গলগ্রহ হয়ে যায় এমন খাদ্য এবং যন্ত্রণাদায়ক শাস্তি।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E alimento, que provoca engasgo, e doloroso castigo",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "еда, которой давятся, и мучительные страдания",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور گلوگیر کھانا ہے اور درد دینے والا عذاب (بھی) ہے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_073_014",
+      "reference": {
+        "surah_number": 73,
+        "surah_name": "Al-Muzzammil",
+        "surah_name_ar": "سُوْرَةُ الْمُزَّمِّلِ",
+        "surah_name_translation": "The Enshrouded One",
+        "ayah_number": 14,
+        "juz": 29,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 9,
+      "translations": {
+        "ar": {
+          "text": "يَوۡمَ تَرۡجُفُ ٱلۡأَرۡضُ وَٱلۡجِبَالُ وَكَانَتِ ٱلۡجِبَالُ كَثِيبࣰ ا مَّهِيلًا",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "on the Day the earth and mountains will shake ˹violently˺, and mountains will be ˹reduced to˺ dunes of shifting sand",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "在那日，天地和山峦都要震动，而山峦将要变成一堆散沙。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "जिस दिन धरती और पहाड़ काँप उठेंगे, और पहाड़ रेत के ऐसे ढेर होकर रह जाएगे जो बिखरे जा रहे होंगे",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "El día que la tierra y las montañas convulsionen, y las montañas se conviertan en arena dispersa",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Le jour où la terre et les montagnes trembleront, tandis que les montagnes deviendront comme une dune de sable dispersée",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "যেদিন পৃথিবী পর্বতমালা প্রকম্পিত হবে এবং পর্বতসমূহ হয়ে যাবে বহমান বালুকাস্তুপ।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Um dia, quando a terra e as montanhas estremecerão, e as montanhas forem como colunas de areia, desfeitas",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "В тот день земля и горы сотрясутся, и горы превратятся в холмы сыпучего песка",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "جس دن زمین اور پہاڑ کانپنے لگیں اور پہاڑ ایسے بھر بھرے (گویا) ریت کے ٹیلے ہوجائیں",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_073_015",
+      "reference": {
+        "surah_number": 73,
+        "surah_name": "Al-Muzzammil",
+        "surah_name_ar": "سُوْرَةُ الْمُزَّمِّلِ",
+        "surah_name_translation": "The Enshrouded One",
+        "ayah_number": 15,
+        "juz": 29,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 13,
+      "translations": {
+        "ar": {
+          "text": "إِنَّآ أَرۡسَلۡنَآ إِلَيۡكُمۡ رَسُولࣰ ا شَٰهِدًا عَلَيۡكُمۡ كَمَآ أَرۡسَلۡنَآ إِلَىٰ فِرۡعَوۡنَ رَسُولࣰ ا",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Indeed, We have sent to you a messenger as a witness over you, just as We sent a messenger to Pharaoh",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "我确已派遣一个使者来教化你们，而且对你们作证，犹如我曾派遣一个使者去教化法老一样。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "निश्चय ही हुमने तुम्हारी ओर एक रसूल तुमपर गवाह बनाकर भेजा है, जिस प्रकार हमने फ़़िरऔन की ओर एक रसूल भेजा था",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "[¡Oh, gente!] Les he enviado un Mensajero para que dé testimonio de la verdad ante ustedes, tal como antes había enviado un Mensajero al Faraón",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Nous vous avons envoyé un Messager pour être témoin contre vous, de même que Nous avions envoyé un Messager à Pharaon",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "আমি তোমাদের কাছে একজন রসূলকে তোমাদের জন্যে সাক্ষী করে প্রেরণ করেছি, যেমন প্রেরণ করেছিলাম ফেরাউনের কাছে একজন রসূল।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Por certo, enviamo-vos um Mensageiro, por testemunha de vós, como enviáramos um Mensageiro a Faraó",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Мы отправили к вам Посланника свидетелем против вас, подобно тому, как отправили посланника к Фараону",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "(اے اہل مکہ) جس طرح ہم نے فرعون کے پاس (موسیٰ کو) پیغمبر (بنا کر) بھیجا تھا (اسی طرح) تمہارے پاس بھی (محمدﷺ) رسول بھیجے ہیں جو تمہارے مقابلے میں گواہ ہوں گے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_073_016",
+      "reference": {
+        "surah_number": 73,
+        "surah_name": "Al-Muzzammil",
+        "surah_name_ar": "سُوْرَةُ الْمُزَّمِّلِ",
+        "surah_name_translation": "The Enshrouded One",
+        "ayah_number": 16,
+        "juz": 29,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 8,
+      "translations": {
+        "ar": {
+          "text": "فَعَصَىٰ فِرۡعَوۡنُ ٱلرَّسُولَ فَأَخَذۡنَٰهُ أَخۡذࣰ ا وَبِيلࣰ ا",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "But Pharaoh disobeyed the messenger, so We seized him with a stern grip",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "但法老违抗了那个使者，故我严厉地惩治了他。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "किन्तु फ़िरऔन ने रसूल की अवज्ञा कि, तो हमने उसे पकड़ लिया और यह पकड़ सख़्त वबाल थी",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "[Pero] el Faraón desmintió al Mensajero y por eso lo castigué duramente",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Pharaon désobéit alors au Messager. Nous le saisîmes donc rudement",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "অতঃপর ফেরাউন সেই রসূলকে অমান্য করল, ফলে আমি তাকে কঠিন শাস্তি দিয়েছি।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E Faraó desobedeceu ao Mensageiro; então, apanhamo-lo com trágica maneira",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Фараон ослушался посланника, и Мы схватили его Хваткой суровой",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "سو فرعون نے (ہمارے) پیغمبر کا کہا نہ مانا تو ہم نے اس کو بڑے وبال میں پکڑ لیا",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_073_017",
+      "reference": {
+        "surah_number": 73,
+        "surah_name": "Al-Muzzammil",
+        "surah_name_ar": "سُوْرَةُ الْمُزَّمِّلِ",
+        "surah_name_translation": "The Enshrouded One",
+        "ayah_number": 17,
+        "juz": 29,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 9,
+      "translations": {
+        "ar": {
+          "text": "فَكَيۡفَ تَتَّقُونَ إِن كَفَرۡتُمۡ يَوۡمࣰ ا يَجۡعَلُ ٱلۡوِلۡدَٰنَ شِيبًا",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "If you ˹pagans˺ persist in disbelief, then how will you guard yourselves against ˹the horrors of˺ a Day which will turn children’s hair grey",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "如果你们不信道，那末，你们怎么防备那将使儿童白发苍苍的日子呢？",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "यदि तुमने इनकार किया तो उस दिन से कैसे बचोगे जो बच्चों को बूढा कर देगा",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Si no creen, no podrán librarse del castigo del día terrible [del Juicio], que hará encanecer hasta a los niños",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Comment vous préserverez-vous, si vous mécroyez, d'un jour qui rendra les enfants comme des vieillards aux cheveux blancs",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "অতএব, তোমরা কিরূপে আত্নরক্ষা করবে যদি তোমরা সেদিনকে অস্বীকার কর, যেদিন বালককে করে দিব বৃদ্ধ?",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Então, se renegais a Fé, como vos guardareis do castigo de um dia, que fará das crianças anciãs encanecidas",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Как же вы спасетесь, если не уверуете, в тот день, который заставит поседеть младенцев",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اگر تم بھی (ان پیغمبروں کو) نہ مانو گے تو اس دن سے کیونکر بچو گے جو بچّوں کو بوڑھا کر دے گا",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_073_018",
+      "reference": {
+        "surah_number": 73,
+        "surah_name": "Al-Muzzammil",
+        "surah_name_ar": "سُوْرَةُ الْمُزَّمِّلِ",
+        "surah_name_translation": "The Enshrouded One",
+        "ayah_number": 18,
+        "juz": 29,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 6,
+      "translations": {
+        "ar": {
+          "text": "ٱلسَّمَآءُ مُنفَطِرُۢ بِهِۦۚ كَانَ وَعۡدُهُۥ مَفۡعُولًا",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "It will ˹even˺ cause the sky to split apart. His promise ˹of judgment˺ must be fulfilled",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "天将为那日而破裂，真主的应许要实现的。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "आकाश उसके कारण फटा पड़ रहा है, उसका वादा तो पूरा ही होना है",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "El cosmos se romperá y Su promesa se cumplirá",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "[et] durant lequel le ciel se fendra. Sa promesse s'accomplira sans doute",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "সেদিন আকাশ বিদীর্ণ হবে। তার প্রতিশ্রুতি অবশ্যই বাস্তবায়িত হবে।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Nele, o céu espedaçar-se-á. Sua promessa será cumprida",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Небо тогда будет расколото, и обещание Его непременно исполнится",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "(اور) جس سے آسمان پھٹ جائے گا۔ یہ اس کا وعدہ (پورا) ہو کر رہے گا",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_073_019",
+      "reference": {
+        "surah_number": 73,
+        "surah_name": "Al-Muzzammil",
+        "surah_name_ar": "سُوْرَةُ الْمُزَّمِّلِ",
+        "surah_name_translation": "The Enshrouded One",
+        "ayah_number": 19,
+        "juz": 29,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 9,
+      "translations": {
+        "ar": {
+          "text": "إِنَّ هَٰذِهِۦ تَذۡكِرَةࣱۖ فَمَن شَآءَ ٱتَّخَذَ إِلَىٰ رَبِّهِۦ سَبِيلًا",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Surely this is a reminder. So let whoever wills take the ˹Right˺ Way to their Lord",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "这确是一种教训。谁愿意觉悟，谁可以选择一条通达主的道路。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "निश्चय ही यह एक अनुस्मृति है। अब जो चाहे अपने रब की ओर मार्ग ग्रहण कर ले",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Esto es una advertencia real; en consecuencia, quien quiera que emprenda un camino hacia su Señor",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Ceci est un rappel. Que celui qui veut prenne une voie [menant] à son Seigneur",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "এটা উপদেশ। অতএব, যার ইচ্ছা, সে তার পালনকর্তার দিকে পথ অবলম্বন করুক।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Por certo, estes são uma lembrança. Então, quem quiser, tomará um caminho para seu Senhor",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Воистину, это - Назидание, и всякий, кто пожелает, встанет на путь к своему Господу",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "یہ (قرآن) تو نصیحت ہے۔ سو جو چاہے اپنے پروردگار تک (پہنچنے کا) رستہ اختیار کرلے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_073_020",
+      "reference": {
+        "surah_number": 73,
+        "surah_name": "Al-Muzzammil",
+        "surah_name_ar": "سُوْرَةُ الْمُزَّمِّلِ",
+        "surah_name_translation": "The Enshrouded One",
+        "ayah_number": 20,
+        "juz": 29,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 81,
+      "translations": {
+        "ar": {
+          "text": "۞إِنَّ رَبَّكَ يَعۡلَمُ أَنَّكَ تَقُومُ أَدۡنَىٰ مِن ثُلُثَيِ ٱلَّيۡلِ وَنِصۡفَهُۥ وَثُلُثَهُۥ وَطَآئِفَةࣱ مِّنَ ٱلَّذِينَ مَعَكَۚ وَٱللَّهُ يُقَدِّرُ ٱلَّيۡلَ وَٱلنَّهَارَۚ عَلِمَ أَن لَّن تُحۡصُوهُ فَتَابَ عَلَيۡكُمۡۖ فَٱقۡرَءُواْ مَا تَيَسَّرَ مِنَ ٱلۡقُرۡءَانِۚ عَلِمَ أَن سَيَكُونُ مِنكُم مَّرۡضَىٰ وَءَاخَرُونَ يَضۡرِبُونَ فِي ٱلۡأَرۡضِ يَبۡتَغُونَ مِن فَضۡلِ ٱللَّهِ وَءَاخَرُونَ يُقَٰتِلُونَ فِي سَبِيلِ ٱللَّهِۖ فَٱقۡرَءُواْ مَا تَيَسَّرَ مِنۡهُۚ وَأَقِيمُواْ ٱلصَّلَوٰةَ وَءَاتُواْ ٱلزَّكَوٰةَ وَأَقۡرِضُواْ ٱللَّهَ قَرۡضًا حَسَنࣰ اۚ وَمَا تُقَدِّمُواْ لِأَنفُسِكُم مِّنۡ خَيۡرࣲ تَجِدُوهُ عِندَ ٱللَّهِ هُوَ خَيۡرࣰ ا وَأَعۡظَمَ أَجۡرࣰ اۚ وَٱسۡتَغۡفِرُواْ ٱللَّهَۖ إِنَّ ٱللَّهَ غَفُورࣱ رَّحِيمُۢ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Surely your Lord knows that you ˹O Prophet˺ stand ˹in prayer˺ for nearly two-thirds of the night, or ˹sometimes˺ half of it, or a third, as do some of those with you. Allah ˹alone˺ keeps a ˹precise˺ measure of the day and night. He knows that you ˹believers˺ are unable to endure this, and has turned to you in mercy. So recite ˹in prayer˺ whatever you can from the Quran. He knows that some of you will be sick, some will be travelling throughout the land seeking Allah’s bounty, and some fighting in the cause of Allah. So recite whatever you can from it. And ˹continue to˺ perform ˹regular˺ prayers, pay alms-tax, and lend to Allah a good loan. Whatever good you send forth for yourselves, you will find it with Allah far better and more rewarding. And seek Allah’s forgiveness. Surely Allah is All-Forgiving, Most Merciful",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "你的主的确知道你礼拜的时间，不到全夜的三分之二，或二分之一，或三分之一。你的同道中，有一群人也是那样做的。真主预定黑夜和白昼的长度，他知道你们不能计算它，故赦宥你们。你们应当诵《古兰经》中简易的（文辞）。他知道你们中将有一些病人，和别的许多人，或旅行四方，寻求真主的恩惠；或为真主而作战，故你们应当讽诵其中简易的（文辞）。你们应当谨守拜功，完纳天课，并以善债借给真主。你们为自己做什么善事，都将在真主那里得到更好更大的报酬。你们应当向真主求饶，真主是至赦的，是至慈的。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "निस्संदेह तुम्हारा रब जानता है कि तुम लगभग दो तिहाई रात, आधी रात और एक तिहाई रात तक (नमाज़ में) खड़े रहते हो, और एक गिरोंह उन लोगों में से भी जो तुम्हारे साथ है, खड़ा होता है। और अल्लाह रात और दिन की घट-बढ़ नियत करता है। उसे मालूम है कि तुम सब उसका निर्वाह न कर सकोगे, अतः उसने तुमपर दया-दृष्टि की। अब जितना क़ुरआन आसानी से हो सके पढ़ लिया करो। उसे मालूम है कि तुममे से कुछ बीमार भी होंगे, और कुछ दूसरे लोग अल्लाह के उदार अनुग्रह (रोज़ी) को ढूँढ़ते हुए धरती में यात्रा करेंगे, कुछ दूसरे लोग अल्लाह के मार्ग में युद्ध करेंगे। अतः उसमें से जितना आसानी से हो सके पढ़ लिया करो, और नमाज़ क़ायम करो और ज़कात देते रहो, और अल्लाह को ऋण दो, अच्छा ऋण। तुम जो भलाई भी अपने लिए (आगे) भेजोगे उसे अल्लाह के यहाँ अत्युत्तम और प्रतिदान की दृष्टि से बहुत बढ़कर पाओगे। और अल्लाह से माफ़ी माँगते रहो। बेशक अल्लाह अत्यन्त क्षमाशील, दयावान है",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Tu Señor bien sabe que te levantas a orar casi dos tercios de la noche, otras la mitad o un tercio de ella, así como lo hacen algunos de los creyentes que te siguen. Dios es Quien determina cuánto dura la noche y el día, sabe que no pueden hacerlo siempre, por lo que los perdona aligerando su obligación. Así que reciten durante la oración lo que sepan del Corán. Dios sabe que habrá entre ustedes alguien enfermo [al que se le dificulte la oración], otros que estén de viaje recorriendo la tierra en busca del sustento de Dios, y otros combatiendo por Su causa. Así que reciten durante la oración de lo que sepan del Corán. Cumplan con la oración obligatoria y paguen el zakat. Presten a la causa de Dios generosamente, porque toda obra de bien que hagan será en favor de ustedes, y Dios los recompensará grandemente. Pidan a Dios el perdón [de sus faltas y omisiones] porque Él es Absolvedor, Misericordioso",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Ton Seigneur sait, certes, que tu (Muhammad) te tiens debout moins de deux tiers de la nuit, ou sa moitié, ou son tiers. De même qu'une partie de ceux qui sont avec toi. Allah détermine la nuit et le jour. Il sait que vous ne saurez jamais passer toute la nuit en prière. Il a usé envers vous avec indulgence. Récitez donc ce qui [vous] est possible du Coran. Il sait qu'il y aura parmi vous des malades, et d'autres qui voyageront sur la terre, en quête de la grâce d'Allah, et d'autres encore qui combattront dans le chemin d'Allah. Récite-en donc ce qui [vous] sera possible. Accomplissez la Salât, acquittez la Zakât, et faites à Allah un prêt sincère. Tout bien que vous vous préparez, vous le retrouverez auprès d'Allah, meilleur et plus grand en fait de récompense. Et implorez le pardon d'Allah. Car Allah est Pardonneur et Très Miséricordieux",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "আপনার পালনকর্তা জানেন, আপনি এবাদতের জন্যে দন্ডায়মান হন রাত্রির প্রায় দু’তৃতীয়াংশ, অর্ধাংশ ও তৃতীয়াংশ এবং আপনার সঙ্গীদের একটি দলও দন্ডায়মান হয়। আল্লাহ দিবা ও রাত্রি পরিমাপ করেন। তিনি জানেন, তোমরা এর পূর্ণ হিসাব রাখতে পার না। অতএব তিনি তোমাদের প্রতি ক্ষমা পরায়ন হয়েছেন। কাজেই কোরআনের যতটুকু তোমাদের জন্যে সহজ, ততটুকু আবৃত্তি কর। তিনি জানেন তোমাদের মধ্যে কেউ কেউ অসুস্থ হবে, কেউ কেউ আল্লাহর অনুগ্রহ সন্ধানে দেশে-বিদেশে যাবে এবং কেউ কেউ আল্লাহর পথে জেহাদে লিপ্ত হবে। কাজেই কোরআনের যতটুকু তোমাদের জন্যে সহজ ততটুকু আবৃত্তি কর। তোমরা নামায কায়েম কর, যাকাত দাও এবং আল্লাহকে উত্তম ঋণ দাও। তোমরা নিজেদের জন্যে যা কিছু অগ্রে পাঠাবে, তা আল্লাহর কাছে উত্তম আকারে এবং পুরস্কার হিসেবে বর্ধিতরূপে পাবে। তোমরা আল্লাহর কাছে ক্ষমাপ্রার্থনা কর। নিশ্চয় আল্লাহ ক্ষমাশীল, দয়ালু।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Por certo, teu Senhor sabe que te levantas para orar, durante menos de dois terços da noite,ou durante sua metade, ou seu terço, e também, uma facção dos que estão contigo. E Allah determina a noite e o dia. Ele sabe que não podereis enumerá-la então, voltou-Se para vós. Lede, pois, o que vos for possível do Alcorão. Ele sabe que existirão, entre vós, enfermos e outros que percorrerão a terra, buscando algo do favor de Allah, e outros que combaterão no caminho de Allah. Então, lede o que for possível dele. E cumpri a oração e concedei as esmolas e emprestai a Allah um bom empréstimo. E tudo de bom, que antecipardes a vós mesmos, o encontrareis junto de Allah, melhor e mais grandioso em prêmio. E implorai perdão a Allah. Por certo, Allah é Perdoador, Misericordiador",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Воистину, твой Господь знает, что ты и часть тех, кто с тобой, простаиваете менее двух третей ночи, или половину ее, или треть ее. Аллах определяет меру дня и ночи. Он знает, что вам не сосчитать этого, и принимает ваши покаяния. Читайте же из Корана то, что необременительно для вас. Он знает, что среди вас будут больные, что одни странствуют по земле в поисках милости Аллаха, а другие сражаются на пути Аллаха. Читайте же из него то, что необременительно для вас, совершайте намаз, раздавайте закят и одолжите Аллаху прекрасный заем. Какое бы добро вы ни приготовили для себя заранее, вы найдете его у Аллаха в виде лучшего и большего вознаграждения. Просите же у Аллаха прощения, ведь Аллах - Прощающий, Милосердный",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "تمہارا پروردگار خوب جانتا ہے کہ تم اور تمہارے ساتھ کے لوگ (کبھی) دو تہائی رات کے قریب اور (کبھی) آدھی رات اور (کبھی) تہائی رات قیام کیا کرتے ہو۔ اور خدا تو رات اور دن کا اندازہ رکھتا ہے۔ اس نے معلوم کیا کہ تم اس کو نباہ نہ سکو گے تو اس نے تم پر مہربانی کی۔ پس جتنا آسانی سے ہوسکے (اتنا) قرآن پڑھ لیا کرو۔ اس نے جانا کہ تم میں بعض بیمار بھی ہوتے ہیں اور بعض خدا کے فضل (یعنی معاش) کی تلاش میں ملک میں سفر کرتے ہیں اور بعض خدا کی راہ میں لڑتے ہیں۔ تو جتنا آسانی سے ہوسکے اتنا پڑھ لیا کرو۔ اور نماز پڑھتے رہو اور زکوٰة ادا کرتے رہو اور خدا کو نیک (اور خلوص نیت سے) قرض دیتے رہو۔ اور جو عمل نیک تم اپنے لئے آگے بھیجو گے اس کو خدا کے ہاں بہتر اور صلے میں بزرگ تر پاؤ گے۔ اور خدا سے بخشش مانگتے رہو۔ بےشک خدا بخشنے والا مہربان ہے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    }
+  ]
+}

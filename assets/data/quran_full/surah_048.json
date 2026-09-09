@@ -1,0 +1,1629 @@
+{
+  "surah": 48,
+  "verses": [
+    {
+      "content_id": "quran_048_001",
+      "reference": {
+        "surah_number": 48,
+        "surah_name": "Al-Fath",
+        "surah_name_ar": "سُوْرَةُ الْفَتْحِ",
+        "surah_name_translation": "The Victory",
+        "ayah_number": 1,
+        "juz": 26,
+        "revelation_type": "Madina"
+      },
+      "arabic_word_count": 7,
+      "translations": {
+        "ar": {
+          "text": "إِنَّا فَتَحۡنَا لَكَ فَتۡحࣰ ا مُّبِينࣰ ا",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Indeed, We have granted you a clear triumph ˹O Prophet˺",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "我确已赏赐你一种明显的胜利，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "निश्चय ही हमने तुम्हारे लिए एक खुली विजय प्रकट की",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Te he concedido [¡oh, Mujámmad!] una victoria evidente",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "En vérité Nous t'avons accordé une victoire éclatante",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "নিশ্চয় আমি আপনার জন্যে এমন একটা ফয়সালা করে দিয়েছি, যা সুস্পষ্ট।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Por certo, Nós te asseguramos evidente vitória",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Воистину, Мы даровали тебе явную победу",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "(اے محمدﷺ) ہم نے تم کو فتح دی۔ فتح بھی صریح وصاف",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_048_002",
+      "reference": {
+        "surah_number": 48,
+        "surah_name": "Al-Fath",
+        "surah_name_ar": "سُوْرَةُ الْفَتْحِ",
+        "surah_name_translation": "The Victory",
+        "ayah_number": 2,
+        "juz": 26,
+        "revelation_type": "Madina"
+      },
+      "arabic_word_count": 17,
+      "translations": {
+        "ar": {
+          "text": "لِّيَغۡفِرَ لَكَ ٱللَّهُ مَا تَقَدَّمَ مِن ذَنۢبِكَ وَمَا تَأَخَّرَ وَيُتِمَّ نِعۡمَتَهُۥ عَلَيۡكَ وَيَهۡدِيَكَ صِرَٰطࣰ ا مُّسۡتَقِيمࣰ ا",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "so that Allah may forgive you for your past and future shortcomings, perfect His favour upon you, guide you along the Straight Path",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "以便真主赦宥你已往的和将来的过失，并完成他对你的恩典，且昭示你一条正路。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "ताकि अल्लाह तुम्हारे अगले और पिछले गुनाहों को क्षमा कर दे और तुमपर अपनी अनुकम्पा पूर्ण कर दे और तुम्हें सीधे मार्ग पर चलाए",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Dios te perdonará [¡oh, Mujámmad!] las faltas que cometiste y las que pudieses cometer, completará Su gracia sobre ti, te afianzará en el sendero recto",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "afin qu'Allah te pardonne tes péchés, passés et futurs, qu'Il parachève sur toi Son bienfait et te guide sur une voie droite",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "যাতে আল্লাহ আপনার অতীত ও ভবিষ্যত ত্রুটিসমূহ মার্জনা করে দেন এবং আপনার প্রতি তাঁর নেয়ামত পূর্ণ করেন ও আপনাকে সরল পথে পরিচালিত করেন।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Para que Allah te perdoasse o que se antecipou de teu delito e o que se atrasou e que completasse Sua graça para contigo, e te guiasse a uma senda reta",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "чтобы Аллах простил тебе грехи, которые были прежде и которые будут впоследствии, чтобы Он довел до конца Свою милость к тебе и провел тебя прямым путем",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "تاکہ خدا تمہارے اگلے اور پچھلے گناہ بخش دے اور تم پر اپنی نعمت پوری کردے اور تمہیں سیدھے رستے چلائے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_048_003",
+      "reference": {
+        "surah_number": 48,
+        "surah_name": "Al-Fath",
+        "surah_name_ar": "سُوْرَةُ الْفَتْحِ",
+        "surah_name_translation": "The Victory",
+        "ayah_number": 3,
+        "juz": 26,
+        "revelation_type": "Madina"
+      },
+      "arabic_word_count": 4,
+      "translations": {
+        "ar": {
+          "text": "وَيَنصُرَكَ ٱللَّهُ نَصۡرًا عَزِيزًا",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "and so that Allah will help you tremendously",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "真主将给你一种有力的援助。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "और अल्लाह तुम्हें प्रभावकारी सहायता प्रदान करे",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "y te dará un auxilio grandioso",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "et qu'Allah te donne un puissant secours",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "এবং আপনাকে দান করেন বলিষ্ঠ সাহায্য।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E que Allah te socorresse com poderoso socorro",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "и чтобы Аллах оказал тебе великую помощь",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور خدا تمہاری زبردست مدد کرے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_048_004",
+      "reference": {
+        "surah_number": 48,
+        "surah_name": "Al-Fath",
+        "surah_name_ar": "سُوْرَةُ الْفَتْحِ",
+        "surah_name_translation": "The Victory",
+        "ayah_number": 4,
+        "juz": 26,
+        "revelation_type": "Madina"
+      },
+      "arabic_word_count": 21,
+      "translations": {
+        "ar": {
+          "text": "هُوَ ٱلَّذِيٓ أَنزَلَ ٱلسَّكِينَةَ فِي قُلُوبِ ٱلۡمُؤۡمِنِينَ لِيَزۡدَادُوٓاْ إِيمَٰنࣰ ا مَّعَ إِيمَٰنِهِمۡۗ وَلِلَّهِ جُنُودُ ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضِۚ وَكَانَ ٱللَّهُ عَلِيمًا حَكِيمࣰ ا",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "He is the One Who sent down serenity upon the hearts of the believers so that they may increase even more in their faith. To Allah ˹alone˺ belong the forces of the heavens and the earth. And Allah is All-Knowing, All-Wise",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "他曾将镇静降在信士们的心中，以便他们信念上加信念--天地的军队，只是真主的，真主是全知的，是至睿的",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "वहीं है जिसने ईमानवालों के दिलों में सकीना (प्रशान्ति) उतारी, ताकि अपने ईमान के साथ वे और ईमान की अभिवृद्धि करें - आकाशों और धरती की सभी सेनाएँ अल्लाह ही की है, और अल्लाह सर्वज्ञ, तत्वदर्शी है।",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Él es Quien hizo descender el sosiego en los corazones de los creyentes para aumentarles fe a la fe que ya tenían. A Dios pertenecen los ejércitos de los cielos y de la Tierra; y Dios lo sabe todo, es Sabio",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "C'est Lui qui a fait descendre la quiétude dans les cœurs des croyants afin qu'ils ajoutent une foi à leur foi. A Allah appartiennent les armées des cieux et de la terre; et Allah est Omniscient et Sage",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "তিনি মুমিনদের অন্তরে প্রশান্তি নাযিল করেন, যাতে তাদের ঈমানের সাথে আরও ঈমান বেড়ে যায়। নভোমন্ডল ও ভূমন্ডলের বাহিনীসমূহ আল্লাহরই এবং আল্লাহ সর্বজ্ঞ, প্রজ্ঞাময়।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Ele é Quem fez descer a serenidade, nos corações dos crentes, para que acrescentassem fé a sua fé; e de Allah são os exércitos dos céus e da terra. E Allah é Onisciente, Sábio",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Он - Тот, Кто ниспослал покой в сердца верующих, чтобы их вера увеличилась. Аллаху принадлежит воинство небес и земли. Аллах - Знающий, Мудрый",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "وہی تو ہے جس نے مومنوں کے دلوں پر تسلی نازل فرمائی تاکہ ان کے ایمان کے ساتھ اور ایمان بڑھے۔ اور آسمانوں اور زمین کے لشکر (سب) خدا ہی کے ہیں۔ اور خدا جاننے والا (اور) حکمت والا ہے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_048_005",
+      "reference": {
+        "surah_number": 48,
+        "surah_name": "Al-Fath",
+        "surah_name_ar": "سُوْرَةُ الْفَتْحِ",
+        "surah_name_translation": "The Victory",
+        "ayah_number": 5,
+        "juz": 26,
+        "revelation_type": "Madina"
+      },
+      "arabic_word_count": 20,
+      "translations": {
+        "ar": {
+          "text": "لِّيُدۡخِلَ ٱلۡمُؤۡمِنِينَ وَٱلۡمُؤۡمِنَٰتِ جَنَّٰتࣲ تَجۡرِي مِن تَحۡتِهَا ٱلۡأَنۡهَٰرُ خَٰلِدِينَ فِيهَا وَيُكَفِّرَ عَنۡهُمۡ سَيِّـَٔاتِهِمۡۚ وَكَانَ ذَٰلِكَ عِندَ ٱللَّهِ فَوۡزًا عَظِيمࣰ ا",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "So He may admit believing men and women into Gardens under which rivers flow—to stay there forever—and absolve them of their sins. And that is a supreme achievement in the sight of Allah",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "以便他使信士和信女们入下临诸河的乐园，而永居其中，并赦宥他们的罪恶。据真主看来，这是伟大的成功。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "ताकि वह मोमिन पुरुषों औप मोमिन स्त्रियों को ऐसे बाग़ों में दाख़िल करे जिनके नीचे नहरें बहती होंगी कि वे उनमें सदैव रहें और उनसे उनकी बुराईयाँ दूर कर दे - यह अल्लाह के यहाँ बड़ी सफलता है।",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "[Dios] introducirá por toda la eternidad a los creyentes y a las creyentes en jardines por donde corren ríos, y les perdonará sus pecados. Este es un éxito grandioso ante Dios",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "afin qu'Il fasse entrer les croyants et les croyantes dans des Jardins sous lesquels coulent les ruisseaux où ils demeureront éternellement et afin de leur effacer leurs méfaits. Cela est auprès d'Allah un énorme succès",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "ঈমান এজন্যে বেড়ে যায়, যাতে তিনি ঈমানদার পুরুষ ও ঈমানদার নারীদেরকে জান্নাতে প্রবেশ করান, যার তলদেশে নদী প্রবাহিত। সেথায় তারা চিরকাল বসবাস করবে এবং যাতে তিনি তাদের পাপ মোচন করেন। এটাই আল্লাহর কাছে মহাসাফল্য।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Para que Ele fizesse os crentes e as crentes entrar em Jardins, abaixo dos quais correm os rios, sendo nesses eternos, e lhes remisse as más obras; - e isso é, perante Allah, magnífico triunfo",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "И чтобы ввести верующих мужчин и верующих женщин в Райские сады, в которых текут реки, где они пребудут вечно, и чтобы простить им их злодеяния. Это перед Аллахом является великим преуспеянием",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "(یہ) اس لئے کہ وہ مومن مردوں اور مومن عورتوں کو بہشتوں میں جن کے نیچے نہریں بہہ رہی ہیں داخل کرے وہ اس میں ہمیشہ رہیں گے اور ان سے ان کے گناہوں کو دور کردے۔ اور یہ خدا کے نزدیک بڑی کامیابی ہے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_048_006",
+      "reference": {
+        "surah_number": 48,
+        "surah_name": "Al-Fath",
+        "surah_name_ar": "سُوْرَةُ الْفَتْحِ",
+        "surah_name_translation": "The Victory",
+        "ayah_number": 6,
+        "juz": 26,
+        "revelation_type": "Madina"
+      },
+      "arabic_word_count": 22,
+      "translations": {
+        "ar": {
+          "text": "وَيُعَذِّبَ ٱلۡمُنَٰفِقِينَ وَٱلۡمُنَٰفِقَٰتِ وَٱلۡمُشۡرِكِينَ وَٱلۡمُشۡرِكَٰتِ ٱلظَّآنِّينَ بِٱللَّهِ ظَنَّ ٱلسَّوۡءِۚ عَلَيۡهِمۡ دَآئِرَةُ ٱلسَّوۡءِۖ وَغَضِبَ ٱللَّهُ عَلَيۡهِمۡ وَلَعَنَهُمۡ وَأَعَدَّ لَهُمۡ جَهَنَّمَۖ وَسَآءَتۡ مَصِيرࣰ ا",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Also ˹so that˺ He may punish hypocrite men and women and polytheistic men and women, who harbour evil thoughts of Allah. May ill-fate befall them! Allah is displeased with them. He has condemned them and prepared for them Hell. What an evil destination",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "以便他惩罚伪信的男人和女人，和以物配主的男人和女人，就是对真主作恶意猜想的人，恶运只降临他们，真主谴怒他们，弃绝他们，并为他们预备了火狱。那归宿真恶劣！",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "और कपटाचारी पुरुषों और कपटाचारी स्त्रियों और बहुदेववादी पुरुषों और बहुदेववादी स्त्रियों को, जो अल्लाह के बारे में बुरा गुमान रखते है, यातना दे। उन्हीं पर बुराई की गर्दिश है। उनपर अल्लाह का क्रोध हुआ और उसने उनपर लानत की, और उसने उनके लिए जहन्नम तैयार कर रखा है, और वह अत्यन्त बुरा ठिकाना है",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "En cambio, a los hipócritas y las hipócritas, y a los idólatras y las idólatras que pensaban mal de Dios, los castigará; la ira de Dios recaerá sobre ellos y los maldecirá, y les tiene reservado el castigo del Infierno. ¡Qué horrible destino",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Et afin qu'Il châtie les hypocrites, hommes et femmes, et les associateurs et les associatrices, qui pensent du mal d'Allah. Qu'un mauvais sort tombe sur eux. Allah est courroucé contre eux, les a maudits, et leur a préparé l'Enfer. Quelle mauvaise destination",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "এবং যাতে তিনি কপট বিশ্বাসী পুরুষ ও কপট বিশ্বাসিনী নারী এবং অংশীবাদী পুরুষ ও অংশীবাদিনী নারীদেরকে শাস্তি দেন, যারা আল্লাহ সম্পর্কে মন্দ ধারণা পোষন করে। তাদের জন্য মন্দ পরিনাম। আল্লাহ তাদের প্রতি ক্রুদ্ধ হয়েছেন, তাদেরকে অভিশপ্ত করেছেন। এবং তাহাদের জন্যে জাহান্নাম প্রস্তুত রেখেছেন। তাদের প্রত্যাবর্তন স্থল অত্যন্ত মন্দ।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E para que Ele castigasse os hipócritas e as hipócritas e os idólatras e as idólatras pensantes de maus pensamentos, acerca de Allah. - Que sobre eles recaia o revés do mal. - E Allah Se irou contra eles, e os amaldiçoou, e lhes preparou a Geena. E que vil destino",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "И чтобы подвергнуть мучениям лицемеров и лицемерок, многобожников и многобожниц, думающих об Аллахе дурное. Их постигнут превратности судьбы. Аллах разгневался на них, проклял их и приготовил для них Геенну. Как же скверно это место прибытия",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور (اس لئے کہ) منافق مردوں اور منافق عورتوں اور مشرک مردوں اور مشرک عورتوں کو جو خدا کے حق میں برے برے خیال رکھتے ہیں عذاب دے۔ ان ہی پر برے حادثے واقع ہوں۔ اور خدا ان پر غصے ہوا اور ان پر لعنت کی اور ان کے لئے دوزخ تیار کی۔ اور وہ بری جگہ ہے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_048_007",
+      "reference": {
+        "surah_number": 48,
+        "surah_name": "Al-Fath",
+        "surah_name_ar": "سُوْرَةُ الْفَتْحِ",
+        "surah_name_translation": "The Victory",
+        "ayah_number": 7,
+        "juz": 26,
+        "revelation_type": "Madina"
+      },
+      "arabic_word_count": 8,
+      "translations": {
+        "ar": {
+          "text": "وَلِلَّهِ جُنُودُ ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضِۚ وَكَانَ ٱللَّهُ عَزِيزًا حَكِيمًا",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "To Allah ˹alone˺ belong the forces of the heavens and the earth. And Allah is Almighty, All-Wise",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "天地的军队，只是真主的。真主是万能的，是至睿的。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "आकाशों और धरती की सब सेनाएँ अल्लाह ही की है। अल्लाह प्रभुत्वशाली, अत्यन्त तत्वदर्शी है",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "A Dios pertenecen los ejércitos de los cielos y de la Tierra. Dios es Poderoso, Sabio",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "A Allah appartiennent les armées des cieux et de la terre; et Allah est Puissant et Sage",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "নভোমন্ডল ও ভূমন্ডলের বাহিনীসমূহ আল্লাহরই। আল্লাহ পরাক্রমশালী, প্রজ্ঞাময়।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E de Allah são os exércitos dos céus e da terra, e Allah é Todo-Poderoso, Sábio",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Аллаху принадлежит воинство небес и земли, и Аллах - Могущественный, Мудрый",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور آسمانوں اور زمین کے لشکر خدا ہی کے ہیں۔ اور خدا غالب (اور) حکمت والا ہے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_048_008",
+      "reference": {
+        "surah_number": 48,
+        "surah_name": "Al-Fath",
+        "surah_name_ar": "سُوْرَةُ الْفَتْحِ",
+        "surah_name_translation": "The Victory",
+        "ayah_number": 8,
+        "juz": 26,
+        "revelation_type": "Madina"
+      },
+      "arabic_word_count": 8,
+      "translations": {
+        "ar": {
+          "text": "إِنَّآ أَرۡسَلۡنَٰكَ شَٰهِدࣰ ا وَمُبَشِّرࣰ ا وَنَذِيرࣰ ا",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Indeed, ˹O Prophet,˺ We have sent you as a witness, a deliverer of good news, and a warner",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "我确已派遣你作见证，作报喜者，作警告者，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "निश्चय ही हमने तुम्हें गवाही देनेवाला और शुभ सूचना देनेवाला और सचेतकर्त्ता बनाकर भेजा",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Te he enviado [¡oh, Mujámmad!] como testigo [de la unicidad divina], albriciador y amonestador",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Nous t'avons envoyé en tant que témoin, annonciateur de la bonne nouvelle et avertisseur",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "আমি আপনাকে প্রেরণ করেছি অবস্থা ব্যক্তকারীরূপে, সুসংবাদদাতা ও ভয় প্রদর্শনকারীরূপে।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Por certo, Nós te enviamos por testemunha e alvissareiro e admoestador",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Воистину, Мы отправили тебя свидетелем, добрым вестником и предостерегающим увещевателем",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور ہم نے (اے محمدﷺ) تم کو حق ظاہر کرنے والا اور خوشخبری سنانے والا اور خوف دلانے والا (بنا کر) بھیجا ہے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_048_009",
+      "reference": {
+        "surah_number": 48,
+        "surah_name": "Al-Fath",
+        "surah_name_ar": "سُوْرَةُ الْفَتْحِ",
+        "surah_name_translation": "The Victory",
+        "ayah_number": 9,
+        "juz": 26,
+        "revelation_type": "Madina"
+      },
+      "arabic_word_count": 8,
+      "translations": {
+        "ar": {
+          "text": "لِّتُؤۡمِنُواْ بِٱللَّهِ وَرَسُولِهِۦ وَتُعَزِّرُوهُ وَتُوَقِّرُوهُۚ وَتُسَبِّحُوهُ بُكۡرَةࣰ وَأَصِيلًا",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "so that you ˹believers˺ may have faith in Allah and His Messenger, support and honour him, and glorify Allah morning and evening",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "以便你们归信真主和使者，并协助他尊敬他，朝夕赞颂他。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "ताकि तुम अल्लाह और उसके रसूल पर ईमान लाओ, उसे सहायता पहुँचाओ और उसका आदर करो, और प्रातःकाल और संध्या समय उसकी तसबीह करते रहो",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Crean en Dios y en Su Mensajero, asistan y honren [al Profeta], y glorifiquen [a Dios] por la mañana y por la tarde",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "pour que vous croyiez en Allah et en Son messager, que vous l'honoriez, reconnaissiez Sa dignité, et Le glorifiez matin et soir",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "যাতে তোমরা আল্লাহ ও রসূলের প্রতি বিশ্বাস স্থাপন কর এবং তাঁকে সাহায্য ও সম্মান কর এবং সকাল-সন্ধ্যায় আল্লাহর পবিত্রতা ঘোষণা কর।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Para que vós creiais em Allah e em Seu Mensageiro, e o ampareis e o honreis. E para que O glorifiqueis, ao alvorecer e ao entardecer",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "чтобы вы уверовали в Аллаха, Его Посланника, почитали и уважали его, прославляли Его утром и перед закатом",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "تاکہ (مسلمانو) تم لوگ خدا پر اور اس کے پیغمبر پر ایمان لاؤ اور اس کی مدد کرو اور اس کو بزرگ سمجھو۔ اور صبح وشام اس کی تسبیح کرتے رہو",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_048_010",
+      "reference": {
+        "surah_number": 48,
+        "surah_name": "Al-Fath",
+        "surah_name_ar": "سُوْرَةُ الْفَتْحِ",
+        "surah_name_translation": "The Victory",
+        "ayah_number": 10,
+        "juz": 26,
+        "revelation_type": "Madina"
+      },
+      "arabic_word_count": 26,
+      "translations": {
+        "ar": {
+          "text": "إِنَّ ٱلَّذِينَ يُبَايِعُونَكَ إِنَّمَا يُبَايِعُونَ ٱللَّهَ يَدُ ٱللَّهِ فَوۡقَ أَيۡدِيهِمۡۚ فَمَن نَّكَثَ فَإِنَّمَا يَنكُثُ عَلَىٰ نَفۡسِهِۦۖ وَمَنۡ أَوۡفَىٰ بِمَا عَٰهَدَ عَلَيۡهُ ٱللَّهَ فَسَيُؤۡتِيهِ أَجۡرًا عَظِيمࣰ ا",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Surely those who pledge allegiance to you ˹O Prophet˺ are actually pledging allegiance to Allah. Allah’s Hand is over theirs. Whoever breaks their pledge, it will only be to their own loss. And whoever fulfils their pledge to Allah, He will grant them a great reward",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "与你订约的人们，其实是与真主订约；真主的手是在他们的手之上的。背约者，自受背约之害；实践与真主所订约者，真主将赏赐他重大的报酬。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "(ऐ नबी) वे लोग जो तुमसे बैअत करते है वे तो वास्तव में अल्लाह ही से बैअत करते है। उनके हाथों के ऊपर अल्लाह का हाथ होता है। फिर जिस किसी ने वचन भंग किया तो वह वचन भंग करके उसका बवाल अपने ही सिर लेता है, किन्तु जिसने उस प्रतिज्ञा को पूरा किया जो उसने अल्लाह से की है तो उसे वह बड़ा बदला प्रदान करेगा",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Quienes te juran fidelidad en realidad están jurando fidelidad a Dios, pues la mano de Dios está sobre sus manos. Quien no cumpla con el juramento solo se perjudicará a sí mismo; en cambio, quien respete lo pactado con Dios recibirá una recompensa grandiosa",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Ceux qui te prêtent serment d'allégeance ne font que prêter serment à Allah: la main d'Allah est au-dessus de leurs mains. Quiconque viole le serment ne le viole qu'à son propre détriment; et quiconque remplit son engagement envers Allah, Il lui apportera bientôt une énorme récompense",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "যারা আপনার কাছে আনুগত্যের শপথ করে, তারা তো আল্লাহর কাছে আনুগত্যের শপথ করে। আল্লাহর হাত তাদের হাতের উপর রয়েছে। অতএব, যে শপথ ভঙ্গ করে; অতি অবশ্যই সে তা নিজের ক্ষতির জন্যেই করে এবং যে আল্লাহর সাথে কৃত অঙ্গীকার পূর্ণ করে; আল্লাহ সত্ত্বরই তাকে মহাপুরস্কার দান করবেন।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Por certo, os que com aperto de mão, se comprometem a segundar-te, apenas, comprometem-se a segundar a Allah. A mão de Allah está sobre suas mãos. Então, quem viola sua promessa a violará, apenas, em prejuízo de si mesmo. E a quem é fiel ao pacto que fez com Allah, Ele lhe concederá magnífico prêmio",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Воистину, те, которые присягают тебе, присягают Аллаху. Рука Аллаха - над их руками. Кто нарушил присягу, тот поступил во вред себе. А кто был верен тому, о чем он заключил завет с Аллахом, тому Он дарует великую награду",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "جو لوگ تم سے بیعت کرتے ہیں وہ خدا سے بیعت کرتے ہیں۔ خدا کا ہاتھ ان کے ہاتھوں پر ہے۔ پھر جو عہد کو توڑے تو عہد توڑنے کا نقصان اسی کو ہے۔ اور جو اس بات کو جس کا اس نے خدا سے عہد کیا ہے پورا کرے تو وہ اسے عنقریب اجر عظیم دے گا",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_048_011",
+      "reference": {
+        "surah_number": 48,
+        "surah_name": "Al-Fath",
+        "surah_name_ar": "سُوْرَةُ الْفَتْحِ",
+        "surah_name_translation": "The Victory",
+        "ayah_number": 11,
+        "juz": 26,
+        "revelation_type": "Madina"
+      },
+      "arabic_word_count": 37,
+      "translations": {
+        "ar": {
+          "text": "سَيَقُولُ لَكَ ٱلۡمُخَلَّفُونَ مِنَ ٱلۡأَعۡرَابِ شَغَلَتۡنَآ أَمۡوَٰلُنَا وَأَهۡلُونَا فَٱسۡتَغۡفِرۡ لَنَاۚ يَقُولُونَ بِأَلۡسِنَتِهِم مَّا لَيۡسَ فِي قُلُوبِهِمۡۚ قُلۡ فَمَن يَمۡلِكُ لَكُم مِّنَ ٱللَّهِ شَيۡـًٔا إِنۡ أَرَادَ بِكُمۡ ضَرًّا أَوۡ أَرَادَ بِكُمۡ نَفۡعَۢاۚ بَلۡ كَانَ ٱللَّهُ بِمَا تَعۡمَلُونَ خَبِيرَۢا",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "The nomadic Arabs, who stayed behind, will say to you ˹O Prophet˺, “We were preoccupied with our wealth and families, so ask for forgiveness for us.” They say with their tongues what is not in their hearts. Say, “Who then can stand between you and Allah in any way, if He intends harm or benefit for you? In fact, Allah is All-Aware of what you do",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "留在后方的游牧人们将说：我们要照料我们的家产和家属，所以请你为我们求饶。他们用他们的舌头说的不是他们的心里话。你说：谁能为你们干涉真主一丝毫？如果他要降祸于你们，或降福于你们。真主是彻知你们的行为的。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "जो बद्‌दू पीछे रह गए थे, वे अब तुमसे कहेगे, \"हमारे माल और हमारे घरवालों ने हमें व्यस्त कर रखा था; तो आप हमारे लिए क्षमा की प्रार्थना कीजिए।\" वे अपनी ज़बानों से वे बातें कहते है जो उनके दिलों में नहीं। कहना कि, \"कौन है जो अल्लाह के मुक़ाबले में तुम्हारे किए किसी चीज़ का अधिकार रखता है, यदि वह तुम्हें कोई हानि पहुँचानी चाहे या वह तुम्हें कोई लाभ पहुँचाने का इरादा करे? बल्कि जो कुछ तुम करते हो अल्लाह उसकी ख़बर रखता है।",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "[¡Oh, Mujámmad!] Los beduinos que no participaron [del viaje a La Meca y del pacto de Hudaibiiah] dirán: \"Nos mantuvieron ocupados nuestros bienes materiales y nuestras familias, pídele a Dios que nos perdone\". Pero solo dicen con sus lenguas lo que no sienten sus corazones. Diles: \"Si Dios quisiera perjudicarlos o beneficiarlos, nadie podría impedirlo. Dios sabe lo que hacen",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Ceux des Bédouins qui ont été laissés en arrière te diront: «Nos biens et nos familles nous ont retenus: implore donc pour nous le pardon». Ils disent avec leurs langues ce qui n'est pas dans leurs cœurs. Dis: «Qui donc peut quelque chose pour vous auprès d'Allah s'Il veut vous faire du mal ou s'Il veut vous faire du bien? Mais Allah est Parfaitement Connaisseur de ce que vous œuvrez",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "মরুবাসীদের মধ্যে যারা গৃহে বসে রয়েছে, তারা আপনাকে বলবেঃ আমরা আমাদের ধন-সম্পদ ও পরিবার-পরিজনের কাজে ব্যস্ত ছিলাম। অতএব, আমাদের পাপ মার্জনা করান। তারা মুখে এমন কথা বলবে, যা তাদের অন্তরে নেই। বলুনঃ আল্লাহ তোমাদের ক্ষতি অথবা উপকার সাধনের ইচ্ছা করলে কে তাকে বিরত রাখতে পারে? বরং তোমরা যা কর, আল্লাহ সে বিষয় পরিপূর্ণ জ্ঞাত।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Dir-te-ão os que, dentre os beduínos, ficaram para trás: \"Nossas riquezas e nossas famílias ocuparam-nos; então, implora perdão para nós.\" Eles dizem, com suas línguas, o que não há em seus corações. Dize: \"Então, quem vos poderia fazer algo diante de Allah, se Ele vos desejasse um infortúnio, ou vos desejasse um benefício?\" Mas Allah, do que fazeis, é Conhecedor",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Бедуины, оставшиеся позади, скажут тебе: «Наше имущество и наши семьи отвлекли нас (или помешали нам). Попроси же для нас прощения». Они произносят своими языками то, чего нет в их сердцах. Скажи: «Кто властен помочь вам чем-нибудь перед Аллахом, если Он захочет навредить вам или захочет принести вам пользу?». О нет! Аллах ведает о том, что вы совершаете",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "جو گنوار پیچھے رہ گئے وہ تم سے کہیں گے کہ ہم کو ہمارے مال اور اہل وعیال نے روک رکھا آپ ہمارے لئے (خدا سے) بخشش مانگیں۔ یہ لوگ اپنی زبان سے وہ بات کہتے ہیں جو ان کے دل میں نہیں ہے۔ کہہ دو کہ اگر خدا تم (لوگوں) کو نقصان پہنچانا چاہے یا تمہیں فائدہ پہنچانے کا ارادہ فرمائے تو کون ہے جو اس کے سامنے تمہارے لئے کسی بات کا کچھ اختیار رکھے (کوئی نہیں) بلکہ جو کچھ تم کرتے ہو خدا اس سے واقف ہے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_048_012",
+      "reference": {
+        "surah_number": 48,
+        "surah_name": "Al-Fath",
+        "surah_name_ar": "سُوْرَةُ الْفَتْحِ",
+        "surah_name_translation": "The Victory",
+        "ayah_number": 12,
+        "juz": 26,
+        "revelation_type": "Madina"
+      },
+      "arabic_word_count": 22,
+      "translations": {
+        "ar": {
+          "text": "بَلۡ ظَنَنتُمۡ أَن لَّن يَنقَلِبَ ٱلرَّسُولُ وَٱلۡمُؤۡمِنُونَ إِلَىٰٓ أَهۡلِيهِمۡ أَبَدࣰ ا وَزُيِّنَ ذَٰلِكَ فِي قُلُوبِكُمۡ وَظَنَنتُمۡ ظَنَّ ٱلسَّوۡءِ وَكُنتُمۡ قَوۡمَۢا بُورࣰ ا",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "The truth is: you thought that the Messenger and the believers would never return to their families again. And that was made appealing in your hearts. You harboured evil thoughts ˹about Allah˺, and ˹so˺ became a doomed people.”",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "你们猜想使者和信士们永不回家了，你们的心为这猜想所迷惑，你们作不善的猜想，你们是将灭亡的民众。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "नहीं, बल्कि तुमने यह समझा कि रसूल और ईमानवाले अपने घरवालों की ओर लौटकर कभी न आएँगे और यह तुम्हारे दिलों को अच्छा लगा। तुमने तो बहुत बुरे गुमान किए और तुम्हीं लोग हुए तबाही में पड़नेवाले।",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Creyeron que el Mensajero y los creyentes jamás regresarían a sus familias. Eso es lo que el demonio infundió en sus corazones, y por eso pensaron mal. Son gente que se ha arruinado a sí misma",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Vous pensiez plutôt que le Messager et les croyants ne retourneraient jamais plus à leur famille. Et cela vous a été embelli dans vos cœurs; et vous avez eu de mauvaises pensées. Et vous fûtes des gens perdus»",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "বরং তোমরা ধারণ করেছিলে যে, রসূল ও মুমিনগণ তাদের বাড়ী-ঘরে কিছুতেই ফিরে আসতে পারবে না এবং এই ধারণা তোমাদের জন্যে খুবই সুখকর ছিল। তোমরা মন্দ ধারণার বশবর্তী হয়েছিলে। তোমরা ছিলে ধ্বংসমুখী এক সম্প্রদায়।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Aliás, vós pensastes que o Mensageiro e os crentes jamais tornariam a suas famílias, e isso foi ornamentado, em vossos corações, e pensastes maus pensamentos: e, assim, sois um povo perdido",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Но вы предположили, что Посланник и верующие никогда не вернутся к своим семьям. Это было разукрашено в ваших сердцах, и вы сделали дурные предположения. Вы были пропащими людьми",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "بات یہ ہے کہ تم لوگ یہ سمجھ بیٹھے تھے کہ پیغمبر اور مومن اپنے اہل وعیال میں کبھی لوٹ کر آنے ہی کے نہیں۔ اور یہی بات تمہارے دلوں کو اچھی معلوم ہوئی۔ اور (اسی وجہ سے) تم نے برے برے خیال کئے اور (آخرکار) تم ہلاکت میں پڑ گئے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_048_013",
+      "reference": {
+        "surah_number": 48,
+        "surah_name": "Al-Fath",
+        "surah_name_ar": "سُوْرَةُ الْفَتْحِ",
+        "surah_name_translation": "The Victory",
+        "ayah_number": 13,
+        "juz": 26,
+        "revelation_type": "Madina"
+      },
+      "arabic_word_count": 10,
+      "translations": {
+        "ar": {
+          "text": "وَمَن لَّمۡ يُؤۡمِنۢ بِٱللَّهِ وَرَسُولِهِۦ فَإِنَّآ أَعۡتَدۡنَا لِلۡكَٰفِرِينَ سَعِيرࣰ ا",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "And whoever does not believe in Allah and His Messenger, then We surely have prepared for the disbelievers a blazing Fire",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "不信真主和使者的人，我确已为他们这等不信者预设火狱了。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "और अल्लाह और उसके रसूल पर ईमान न लाया, तो हमने भी इनकार करनेवालों के लिए भड़कती आग तैयार कर रखी है",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Quien no crea en Dios y en Su Mensajero sepa que el castigo del Infierno está reservado para los incrédulos",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Et quiconque ne croit pas en Allah et en Son messager... alors, pour les mécréants, Nous avons préparé une fournaise ardente",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "যারা আল্লাহ ও তাঁর রসূলে বিশ্বাস করে না, আমি সেসব কাফেরের জন্যে জ্বলন্ত অগ্নি প্রস্তুত রেখেছি।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E quem não crê em Allah e em Seu Mensageiro, por certo, para os renegadores da Fé, Nós preparamos Um Fogo ardente",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Если кто не уверует в Аллаха и Его Посланника, то ведь Мы приготовили неверующим Пламя",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور جو شخص خدا پر اور اس کے پیغمبر پر ایمان نہ لائے تو ہم نے (ایسے) کافروں کے لئے آگ تیار کر رکھی ہے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_048_014",
+      "reference": {
+        "surah_number": 48,
+        "surah_name": "Al-Fath",
+        "surah_name_ar": "سُوْرَةُ الْفَتْحِ",
+        "surah_name_translation": "The Victory",
+        "ayah_number": 14,
+        "juz": 26,
+        "revelation_type": "Madina"
+      },
+      "arabic_word_count": 16,
+      "translations": {
+        "ar": {
+          "text": "وَلِلَّهِ مُلۡكُ ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضِۚ يَغۡفِرُ لِمَن يَشَآءُ وَيُعَذِّبُ مَن يَشَآءُۚ وَكَانَ ٱللَّهُ غَفُورࣰ ا رَّحِيمࣰ ا",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "To Allah ˹alone˺ belongs the kingdom of the heavens and the earth. He forgives whoever He wills, and punishes whoever He wills. And Allah is All-Forgiving, Most Merciful",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "天地的国权，归真主所有，他要赦宥谁，就赦宥谁；要惩罚谁，就惩罚谁。真主是至赦的，是至慈的。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "अल्लाह ही की है आकाशों और धरती की बादशाही। वह जिसे चाहे क्षमा करे और जिसे चाहे यातना दे। और अल्लाह बड़ा क्षमाशील, अत्यन्त दयावान है",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "A Dios pertenece el reino de los cielos y de la Tierra, perdona a quien Él quiere y castiga a quien Él quiere. Dios es Absolvedor, Misericordioso",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "A Allah appartient la souveraineté des cieux et de la terre. Il pardonne à qui Il veut et châtie qui Il veut. Allah demeure cependant, Pardonneur et Miséricordieux",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "নভোমন্ডল ও ভূমন্ডলের রাজত্ব আল্লাহরই। তিনি যাকে ইচ্ছা ক্ষমা করেন এবং যাকে ইচ্ছা শাস্তি দেন। তিনি ক্ষমাশীল, পরম মেহেরবান।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E de Allah é a soberania dos céus e da terra. Ele perdoa a quem quer e castiga a quem quer. E Allah é Perdoador, Misericordiador",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Аллаху принадлежит власть над небесами и землей. Он прощает, кого пожелает, и причиняет мучения, кому пожелает. Аллах - Прощающий, Милосердный",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور آسمانوں اور زمین کی بادشاہی خدا ہی کی ہے۔ وہ جسے چاہے بخشے اور جسے چاہے سزا دے۔ اور خدا بخشنے والا مہربان ہے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_048_015",
+      "reference": {
+        "surah_number": 48,
+        "surah_name": "Al-Fath",
+        "surah_name_ar": "سُوْرَةُ الْفَتْحِ",
+        "surah_name_translation": "The Victory",
+        "ayah_number": 15,
+        "juz": 26,
+        "revelation_type": "Madina"
+      },
+      "arabic_word_count": 32,
+      "translations": {
+        "ar": {
+          "text": "سَيَقُولُ ٱلۡمُخَلَّفُونَ إِذَا ٱنطَلَقۡتُمۡ إِلَىٰ مَغَانِمَ لِتَأۡخُذُوهَا ذَرُونَا نَتَّبِعۡكُمۡۖ يُرِيدُونَ أَن يُبَدِّلُواْ كَلَٰمَ ٱللَّهِۚ قُل لَّن تَتَّبِعُونَا كَذَٰلِكُمۡ قَالَ ٱللَّهُ مِن قَبۡلُۖ فَسَيَقُولُونَ بَلۡ تَحۡسُدُونَنَاۚ بَلۡ كَانُواْ لَا يَفۡقَهُونَ إِلَّا قَلِيلࣰ ا",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Those who stayed behind will say, when you ˹believers˺ set out to take the spoils of war, “Let us accompany you.” They wish to change Allah’s promise. Say, ˹O Prophet,˺ “You will not accompany us. This is what Allah has said before.” They will then say, “In fact, you are driven by jealousy against us!” The truth is: they can hardly comprehend",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "留在后方的人们，当你们为获取战利品而出发的时候，他们将说：让我们跟你们去吧！他们欲变更真主的判辞。你说：你们绝对不得跟我们去，以前，真主已这样说过了。他们将说：不然，你们嫉妒我们。不然，他们不甚了解。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "जब तुम ग़नीमतों को प्राप्त करने के लिए उनकी ओर चलोगे तो पीछे रहनेवाले कहेंगे, \"हमें भी अनुमति दी जाए कि हम तुम्हारे साथ चले।\" वे चाहते है कि अल्लाह का कथन को बदल दे। कह देना, \"तुम हमारे साथ कदापि नहीं चल सकते। अल्लाह ने पहले ही ऐसा कह दिया है।\" इसपर वे कहेंगे, \"नहीं, बल्कि तुम हमसे ईर्ष्या कर रहे हो।\" नहीं, बल्कि वे लोग समझते थोड़े ही है",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Cuando salgan en busca del botín, quienes no participaron [de la expedición a La Meca] dirán: \"Déjennos participar de la expedición\". Pretenden cambiar el designio de Dios. Diles [¡oh, Mujámmad!]: \"No participarán de ella, pues así lo decretó Dios\". Entonces responderán: \"En realidad nos tienen envidia\", pero es poco lo que comprenden",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Ceux qui restèrent en arrière diront, quand vous vous dirigez vers le butin pour vous en emparer; «Laissez-nous vous suivre». Ils voudraient changer la parole d'Allah. Dis: «Jamais vous ne nous suivrez: ainsi Allah a déjà annoncé». Mais ils diront: «Vous êtes plutôt envieux à notre égard». Mais ils ne comprenaient en réalité que peu",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "তোমরা যখন যুদ্ধলব্ধ ধন-সম্পদ সংগ্রহের জন্য যাবে, তখন যারা পশ্চাতে থেকে গিয়েছিল, তারা বলবেঃ আমাদেরকেও তোমাদের সঙ্গে যেতে দাও। তারা আল্লাহর কালাম পরিবর্তন করতে চায়। বলুনঃ তোমরা কখনও আমাদের সঙ্গে যেতে পারবে না। আল্লাহ পূর্ব থেকেই এরূপ বলে দিয়েছেন। তারা বলবেঃ বরং তোমরা আমাদের প্রতি বিদ্বেষ পোষণ করছ। পরন্তু তারা সামান্যই বোঝে।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Os que ficaram para trás dirão, quando caminhardes para os restos de guerra, a fim de tomá-los: \"Deixai-nos seguir-vos.\" Eles desejam alterar a fala de Allah. Dize: \"Não nos seguireis. Assim, Allah disse, antes.\" Então, dirão: \"Mas vós nos invejais.\" Aliás, eles nada entendem, exceto poucos",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Когда вы отправитесь за трофеями, чтобы взять их, оставшиеся позади скажут: «Дайте нам последовать за вами». Они хотят изменить Слово Аллаха. Скажи: «Вы не последуете за нами. Так сказал Аллах прежде». Тогда они скажут: «Нет, вы завидуете нам». Но они мало что смыслят",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "جب تم لوگ غنیمتیں لینے چلو گے تو جو لوگ پیچھے رہ گئے تھے وہ کہیں گے ہمیں بھی اجازت دیجیئے کہ آپ کے ساتھ چلیں۔ یہ چاہتے ہیں کہ خدا کے قول کو بدل دیں۔ کہہ دو کہ تم ہرگز ہمارے ساتھ نہیں چل سکتے۔ اسی طرح خدا نے پہلے سے فرما دیا ہے۔ پھر کہیں گے (نہیں) تم تو ہم سے حسد کرتے ہو۔ بات یہ ہے کہ یہ لوگ سمجھتے ہی نہیں مگر بہت کم",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_048_016",
+      "reference": {
+        "surah_number": 48,
+        "surah_name": "Al-Fath",
+        "surah_name_ar": "سُوْرَةُ الْفَتْحِ",
+        "surah_name_translation": "The Victory",
+        "ayah_number": 16,
+        "juz": 26,
+        "revelation_type": "Madina"
+      },
+      "arabic_word_count": 30,
+      "translations": {
+        "ar": {
+          "text": "قُل لِّلۡمُخَلَّفِينَ مِنَ ٱلۡأَعۡرَابِ سَتُدۡعَوۡنَ إِلَىٰ قَوۡمٍ أُوْلِي بَأۡسࣲ شَدِيدࣲ تُقَٰتِلُونَهُمۡ أَوۡ يُسۡلِمُونَۖ فَإِن تُطِيعُواْ يُؤۡتِكُمُ ٱللَّهُ أَجۡرًا حَسَنࣰ اۖ وَإِن تَتَوَلَّوۡاْ كَمَا تَوَلَّيۡتُم مِّن قَبۡلُ يُعَذِّبۡكُمۡ عَذَابًا أَلِيمࣰ ا",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Say to nomadic Arabs, who stayed behind, “You will be called ˹to fight˺ against a people of great might, who you will fight unless they submit. If you then obey, Allah will grant you a fine reward. But if you turn away as you did before, He will inflict upon you a painful punishment.”",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "你对逗留在后方的游牧人说：你们将被召去讨伐一群剽悍的民众，或他们归顺。如果你们服从（命令），真主就以优美的报酬赏赐你们；如果你们还象以前那样规避，他就使你们受痛苦的刑罚。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "पीछे रह जानेवाले बद्‌दूओं से कहना, \"शीघ्र ही तुम्हें ऐसे लोगों की ओर बुलाया जाएगा जो बड़े युद्धवीर है कि तुम उनसे लड़ो या वे आज्ञाकारी हो जाएँ। तो यदि तुम आज्ञाकारी हो जाएँ। तो यदि तुम आज्ञापालन करोगे तो अल्लाह तुम्हें अच्छा बदला प्रदान करेगा। किन्तु यदि तुम फिर गए, जैसे पहले फिर गए थे, तो वह तुम्हें दुखद यातना देगा।",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Diles a los beduinos que no participaron [en la expedición a La Meca]: \"Se los convocará para luchar contra un pueblo militarmente poderoso, puede que combatan o que ellos se rindan. Si obedecen, Dios les concederá una bella recompensa. Pero si desertan, como lo hicieron anteriormente, les dará un castigo doloroso [en el Más Allá]",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Dis à ceux des Bédouins qui restèrent en arrière: «vous serez bientôt appelés contre des gens d'une force redoutable. Vous les combattrez à moins qu'ils n'embrassent l'Islam, si vous obéissez, Allah vous donnera une belle récompense, et si vous vous détournez comme vous vous êtes détournés auparavant, Il vous châtiera d'un châtiment douloureux»",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "গৃহে অবস্থানকারী মরুবাসীদেরকে বলে দিনঃ আগামীতে তোমরা এক প্রবল পরাক্রান্ত জাতির সাথে যুদ্ধ করতে আহুত হবে। তোমরা তাদের সাথে যুদ্ধ করবে, যতক্ষণ না তারা মুসলমান হয়ে যায়। তখন যদি তোমরা নির্দেশ পালন কর, তবে আল্লাহ তোমাদেরকে উত্তম পুরস্কার দিবেন। আর যদি পৃষ্ঠপ্রদর্শন কর যেমন ইতিপূর্বে পৃষ্ঠপ্রদর্শন করেছ, তবে তিনি তোমাদেরকে যন্ত্রনাদায়ক শাস্তি দিবেন।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Dize aos que, dentre os beduínos, ficaram para trás: \"Sereis convocados a combater contra um povo dotado de veemente fúria; combatê-los-eis, ou se islamizarão. Então, se obedeceis, Allah conceder-vos-á belo prêmio. E, se voltais as costas como voltastes as costas, antes, Ele castigar-vos-á com doloroso castigo",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Скажи бедуинам, оставшимся позади: «Вас еще призовут воевать против людей, обладающих суровой мощью. Вы сразитесь с ними, или же они обратятся в ислам. Если вы подчинитесь, то Аллах дарует вам прекрасную награду. Если же вы отвернетесь, как отвернулись прежде, то Аллах причинит вам мучительные страдания»",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "جو گنوار پیچھے رہ گئے تھے ان سے کہہ دو کہ تم ایک سخت جنگجو قوم کے (ساتھ لڑائی کے) لئے بلائے جاؤ گے ان سے تم (یا تو) جنگ کرتے رہو گے یا وہ اسلام لے آئیں گے۔ اگر تم حکم مانو گے تو خدا تم کو اچھا بدلہ دے گا۔ اور اگر منہ پھیر لو گے جیسے پہلی دفعہ پھیرا تھا تو وہ تم کو بری تکلیف کی سزا دے گا",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_048_017",
+      "reference": {
+        "surah_number": 48,
+        "surah_name": "Al-Fath",
+        "surah_name_ar": "سُوْرَةُ الْفَتْحِ",
+        "surah_name_translation": "The Victory",
+        "ayah_number": 17,
+        "juz": 26,
+        "revelation_type": "Madina"
+      },
+      "arabic_word_count": 28,
+      "translations": {
+        "ar": {
+          "text": "لَّيۡسَ عَلَى ٱلۡأَعۡمَىٰ حَرَجࣱ وَلَا عَلَى ٱلۡأَعۡرَجِ حَرَجࣱ وَلَا عَلَى ٱلۡمَرِيضِ حَرَجࣱۗ وَمَن يُطِعِ ٱللَّهَ وَرَسُولَهُۥ يُدۡخِلۡهُ جَنَّٰتࣲ تَجۡرِي مِن تَحۡتِهَا ٱلۡأَنۡهَٰرُۖ وَمَن يَتَوَلَّ يُعَذِّبۡهُ عَذَابًا أَلِيمࣰ ا",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "There is no blame on the blind, or the disabled, or the sick ˹for staying behind˺. And whoever obeys Allah and His Messenger will be admitted by Him into Gardens under which rivers flow. But whoever turns away will be subjected by Him to a painful punishment",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "瞎子无罪，跛子无罪，病人无罪。谁服从真主和使者，真主要使谁入那下临诸河的乐园；谁规避他，他将使谁受痛苦的刑罚。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "न अन्धे के लिए कोई हरज है, न लँगडे के लिए कोई हरज है और न बीमार के लिए कोई हरज है। जो भी अल्लाह और उसके रसूल की आज्ञा का पालन करेगा, उसे वह ऐसे बाग़ों में दाख़िल करके, जिनके नीचे नहरे बह रही होगी, किन्तु जो मुँह फेरेगा उसे वह दुखद यातना देगा",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "No hay nada que reprochar al ciego, al lisiado y al enfermo [que no participan en las expediciones militares]. Quien obedezca a Dios y a Su Mensajero, Él lo introducirá en jardines por donde corren ríos. Pero a quien deserte, Dios le dará un castigo doloroso",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Nul grief n'est à faire à l'aveugle, ni au boiteux ni au malade. Et quiconque obéit à Allah et à Son messager, Il le fera entrer dans des Jardins sous lesquels coulent les ruisseaux. Quiconque cependant se détourne, Il le châtiera d'un douloureux châtiment",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "অন্ধের জন্যে, খঞ্জের জন্যে ও রুগ্নের জন্যে কোন অপরাধ নাই এবং যে কেউ আল্লাহ ও তাঁর রসূলের অনুগত্য করবে তাকে তিনি জান্নাতে দাখিল করবেন, যার তলদেশে নদী প্রবাহিত হয়। পক্ষান্তরে যে, ব্যক্তি পৃষ্ঠপ্রদর্শন করবে, তাকে যন্ত্রণাদায়ক শাস্তি দিবেন।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Não há falta no cego e não há falta no coxo e não há falta no enfermo, por não combaterem. E a quem obedece a Allah e a Seu Mensageiro, Ele o fará entrar em Jardins, abaixo dos quais correm os rios. E a quem Lhe volta as costas, Ele o castigará com doloroso castigo",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Нет греха на слепом, и нет греха на хромом, и нет греха на больном. Кто подчинится Аллаху и Его Посланнику, того Он введет в Райские сады, в которых текут реки. А кто отвернется, того Он подвергнет мучительным страданиям",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "نہ تو اندھے پر گناہ ہے (کہ سفر جنگ سے پیچھے رہ جائے) اور نہ لنگڑے پر گناہ ہے اور نہ بیمار پر گناہ ہے۔ اور جو شخص خدا اور اس کے پیغمبر کے فرمان پر چلے گا خدا اس کو بہشتوں میں داخل کرے گا جن کے تلے نہریں بہہ رہی ہیں۔ اور جو روگردانی کرے گا اسے برے دکھ کی سزا دے گا",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_048_018",
+      "reference": {
+        "surah_number": 48,
+        "surah_name": "Al-Fath",
+        "surah_name_ar": "سُوْرَةُ الْفَتْحِ",
+        "surah_name_translation": "The Victory",
+        "ayah_number": 18,
+        "juz": 26,
+        "revelation_type": "Madina"
+      },
+      "arabic_word_count": 21,
+      "translations": {
+        "ar": {
+          "text": "۞لَّقَدۡ رَضِيَ ٱللَّهُ عَنِ ٱلۡمُؤۡمِنِينَ إِذۡ يُبَايِعُونَكَ تَحۡتَ ٱلشَّجَرَةِ فَعَلِمَ مَا فِي قُلُوبِهِمۡ فَأَنزَلَ ٱلسَّكِينَةَ عَلَيۡهِمۡ وَأَثَٰبَهُمۡ فَتۡحࣰ ا قَرِيبࣰ ا",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Indeed, Allah was pleased with the believers when they pledged allegiance to you ˹O Prophet˺ under the tree. He knew what was in their hearts, so He sent down serenity upon them and rewarded them with a victory at hand",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "真主确已喜悦信士们。当时，他们在那棵树下与你订约，他已知道他们的心事，故降镇静于他们，并报酬他们临近的胜利，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "निश्चय ही अल्लाह मोमिनों से प्रसन्न हुआ, जब वे वृक्ष के नीचे तुमसे बैअत कर रहे थे। उसने जान लिया जो कुछ उनके दिलों में था। अतः उनपर उसने सकीना (प्रशान्ति) उतारी और बदले में उन्हें मिलनेवाली विजय निश्चित कर दी",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Dios quedó complacido con los creyentes cuando te juraron fidelidad bajo el árbol. [Él] sabía [la fe] que había en sus corazones e hizo descender el sosiego sobre ellos y los recompensó con una victoria cercana",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Allah a très certainement agréé les croyants quand ils t'ont prêté le serment d'allégeance sous l'arbre. Il a su ce qu'il y avait dans leurs cœurs, et a fait descendre sur eux la quiétude, et Il les a récompensés par une victoire proche",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "আল্লাহ মুমিনদের প্রতি সন্তুষ্ট হলেন, যখন তারা বৃক্ষের নীচে আপনার কাছে শপথ করল। আল্লাহ অবগত ছিলেন যা তাদের অন্তরে ছিল। অতঃপর তিনি তাদের প্রতি প্রশান্তি নাযিল করলেন এবং তাদেরকে আসন্ন বিজয় পুরস্কার দিলেন।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Com efeito, Allah agradou-Se dos crentes, quando, debaixo da árvore, com aperto de mão, comprometeram-se a segundar-te; então, Ele soube o que havia em seus corações e fez descer a serenidade sobre eles; e retribuiu-lhes uma vitória próxima",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Аллах остался доволен верующими, когда они присягали тебе под деревом в Худейбии. Он знал, что у них в сердцах, и ниспослал им покой и вознаградил их близкой победой",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "(اے پیغمبر) جب مومن تم سے درخت کے نیچے بیعت کر رہے تھے تو خدا ان سے خوش ہوا۔ اور جو (صدق وخلوص) ان کے دلوں میں تھا وہ اس نے معلوم کرلیا۔ تو ان پر تسلی نازل فرمائی اور انہیں جلد فتح عنایت کی",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_048_019",
+      "reference": {
+        "surah_number": 48,
+        "surah_name": "Al-Fath",
+        "surah_name_ar": "سُوْرَةُ الْفَتْحِ",
+        "surah_name_translation": "The Victory",
+        "ayah_number": 19,
+        "juz": 26,
+        "revelation_type": "Madina"
+      },
+      "arabic_word_count": 8,
+      "translations": {
+        "ar": {
+          "text": "وَمَغَانِمَ كَثِيرَةࣰ يَأۡخُذُونَهَاۗ وَكَانَ ٱللَّهُ عَزِيزًا حَكِيمࣰ ا",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "and many spoils of war they will gain. For Allah is Almighty, All-Wise",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "和他们所取得的许多战利品。真主是万能的，是至睿的。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "और बहुत-सी ग़नीमतें भी, जिन्हें वे प्राप्त करेंगे। अल्लाह प्रभुत्वशाली, तत्वदर्शी है",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "donde obtuvieron un botín cuantioso. Dios es Poderoso, Sabio",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "ainsi qu'un abondant butin qu'ils ramasseront. Allah est Puissant et Sage",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "এবং বিপুল পরিমাণে যুদ্ধলব্ধ সম্পদ, যা তারা লাভ করবে। আল্লাহ পরাক্রমশালী, প্রজ্ঞাময়।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E muitos restos de guerra, para os tomarem. E Allah é Todo-Poderoso, Sábio",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "и многочисленными трофеями, которые они возьмут. Аллах - Могущественный, Мудрый",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور بہت سی غنیمتیں جو انہوں نے حاصل کیں۔ اور خدا غالب حکمت والا ہے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_048_020",
+      "reference": {
+        "surah_number": 48,
+        "surah_name": "Al-Fath",
+        "surah_name_ar": "سُوْرَةُ الْفَتْحِ",
+        "surah_name_translation": "The Victory",
+        "ayah_number": 20,
+        "juz": 26,
+        "revelation_type": "Madina"
+      },
+      "arabic_word_count": 20,
+      "translations": {
+        "ar": {
+          "text": "وَعَدَكُمُ ٱللَّهُ مَغَانِمَ كَثِيرَةࣰ تَأۡخُذُونَهَا فَعَجَّلَ لَكُمۡ هَٰذِهِۦ وَكَفَّ أَيۡدِيَ ٱلنَّاسِ عَنكُمۡ وَلِتَكُونَ ءَايَةࣰ لِّلۡمُؤۡمِنِينَ وَيَهۡدِيَكُمۡ صِرَٰطࣰ ا مُّسۡتَقِيمࣰ ا",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Allah has promised you ˹believers˺ abundant spoils, which you will gain, so He hastened this ˹truce˺ for you. And He has held people’s hands back from ˹harming˺ you, so it may be a sign for the believers, and so He may guide you along the Straight Path",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "真主以你们所取得的许多战利品应许你们，而将这战利品迅速的赏赐你们，并制止敌人对你们下手，以便这战利品作为信士们的一种迹象，以便真主昭示你们一条正路。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "अल्लाह ने तुमसे बहुत-सी गंनीमतों का वादा किया हैं, जिन्हें तुम प्राप्त करोगे। यह विजय तो उसने तुम्हें तात्कालिक रूप से निश्चित कर दी। और लोगों के हाथ तुमसे रोक दिए (कि वे तुमपर आक्रमण करने का साहस न कर सकें) और ताकि ईमानवालों के लिए एक निशानी हो। और वह सीधे मार्ग की ओर तुम्हारा मार्गदर्शन करे",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Dios les ha prometido que obtendrán muchos botines, y por eso les adelantó este [en Jaibar]. [Él] los ha protegido de las manos [opresoras] de alguna gente para que sean ustedes un signo para los creyentes, y los guiará por el sendero recto",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Allah vous a promis un abondant butin que vous prendrez et Il a hâté pour vous Celle-ci et repoussé de vous les mains des gens, afin que tout cela soit un signe pour les croyants et qu'Il vous guide dans un droit chemin",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "আল্লাহ তোমাদেরকে বিপুল পরিমাণ যুদ্ধলব্ধ সম্পদের ওয়াদা দিয়েছেন, যা তোমরা লাভ করবে। তিনি তা তোমাদের জন্যে ত্বরান্বিত করবেন। তিনি তোমাদের থেকে শত্রুদের স্তব্দ করে দিয়েছেন-যাতে এটা মুমিনদের জন্যে এক নিদর্শন হয় এবং তোমাদেরকে সরল পথে পরিচালিত করেন।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Allah prometeu-vos muitos restos de guerra, para tomardes, e apressou, para vós, esta e deteve as mãos dos homens, afastando-as de vós; e fê-lo, para que isso fosse um sinal para os crentes, e para que Ele vos guiasse a uma senda reta",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Аллах обещал вам многочисленные трофеи, которые вы возьмете. Он ускорил для вас это и убрал от вас руки людей, чтобы это стало знамением для верующих и чтобы наставить вас на прямой путь",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "خدا نے تم سے بہت سی غنیمتوں کا وعدہ فرمایا کہ تم ان کو حاصل کرو گے سو اس نے غنیمت کی تمہارے لئے جلدی فرمائی اور لوگوں کے ہاتھ تم سے روک دیئے۔ غرض یہ تھی کہ یہ مومنوں کے لئے (خدا کی) قدرت کا نمونہ ہو اور وہ تم کو سیدھے رستے پر چلائے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_048_021",
+      "reference": {
+        "surah_number": 48,
+        "surah_name": "Al-Fath",
+        "surah_name_ar": "سُوْرَةُ الْفَتْحِ",
+        "surah_name_translation": "The Victory",
+        "ayah_number": 21,
+        "juz": 26,
+        "revelation_type": "Madina"
+      },
+      "arabic_word_count": 15,
+      "translations": {
+        "ar": {
+          "text": "وَأُخۡرَىٰ لَمۡ تَقۡدِرُواْ عَلَيۡهَا قَدۡ أَحَاطَ ٱللَّهُ بِهَاۚ وَكَانَ ٱللَّهُ عَلَىٰ كُلِّ شَيۡءࣲ قَدِيرࣰ ا",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "And ˹there are˺ other gains which are beyond your reach that Allah is keeping in store ˹for you˺. For Allah is Most Capable of everything",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "别的战利品，你们尚未能获得的，真主确已周知它。真主对于万事是全能的。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "इसके अतिरिक्त दूसरी और विजय का भी वादा है, जिसकी सामर्थ्य अभी तुम्हे प्राप्त नहीं, उन्हें अल्लाह ने घेर रखा है। अल्लाह को हर चीज़ की सामर्थ्य प्राप्त है",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Y [también les ha prometido] otras victorias que no tienen capacidad de conseguir, pero que Dios les tiene reservadas. Dios tiene poder sobre todas las cosas",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Il vous promet un autre butin que vous ne seriez jamais capables de remporter et qu'Allah a embrassé en Sa puissance, car Allah est Omnipotent",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "আর ও একটি বিজয় রয়েছে যা এখনও তোমাদের অধিকারে আসেনি, আল্লাহ তা বেষ্টন করে আছেন। আল্লাহ সর্ববিষয়ে ক্ষমতাবান।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E outros, ainda, de que não vos apossastes, os quais Allah, com efeito, abarca. E Allah, sobre todas as cousas, é Onipotente",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Будут и другие трофеи и города, которыми вы еще не овладели. Аллах уже окружил их, ведь Аллах способен на всякую вещь",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور اَور (غنیمتیں دیں) جن پر تم قدرت نہیں رکھتے تھے (اور) وہ خدا ہی کی قدرت میں تھیں۔ اور خدا ہر چیز پر قادر ہے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_048_022",
+      "reference": {
+        "surah_number": 48,
+        "surah_name": "Al-Fath",
+        "surah_name_ar": "سُوْرَةُ الْفَتْحِ",
+        "surah_name_translation": "The Victory",
+        "ayah_number": 22,
+        "juz": 26,
+        "revelation_type": "Madina"
+      },
+      "arabic_word_count": 14,
+      "translations": {
+        "ar": {
+          "text": "وَلَوۡ قَٰتَلَكُمُ ٱلَّذِينَ كَفَرُواْ لَوَلَّوُاْ ٱلۡأَدۡبَٰرَ ثُمَّ لَا يَجِدُونَ وَلِيࣰّ ا وَلَا نَصِيرࣰ ا",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "If the disbelievers were to fight you, they would certainly flee. Then they would never find any protector or helper",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "假若不信道的人们与你们交战，他们必定失败，而且不能发现一个保护者，也不能发现一个援助者。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "यदि (मक्का के) इनकार करनेवाले तुमसे लड़ते तो अवश्य ही पीठ फेर जाते। फिर यह भी कि वे न तो कोई संरक्षक पाएँगे और न कोई सहायक",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Sepan que aun cuando los que se negaron a creer los hubieran combatido [en Hudaibiiah], habrían huido vencidos, pues no hubieran encontrado quién los protegiera ni los defendiera",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Et si ceux qui ont mécru vous combattent, ils se détourneront, certes; puis ils ne trouveront ni allié ni secoureur",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "যদি কাফেররা তোমাদের মোকাবেলা করত, তবে অবশ্যই তারা পৃষ্ঠপ্রদর্শন করত। তখন তারা কোন অভিভাবক ও সাহায্যকারী পেত না।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E, se os que renegam a Fé vos combatessem, voltar-vos-iam as costas; em seguida, não encontrariam nem protetor nem socorredor",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Если неверующие сразятся с вами, то они непременно обратятся вспять и затем не найдут ни покровителя, ни помощника",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور اگر تم سے کافر لڑتے تو پیٹھ پھیر کر بھاگ جاتے پھر کسی کو دوست نہ پاتے اور نہ مددگار",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_048_023",
+      "reference": {
+        "surah_number": 48,
+        "surah_name": "Al-Fath",
+        "surah_name_ar": "سُوْرَةُ الْفَتْحِ",
+        "surah_name_translation": "The Victory",
+        "ayah_number": 23,
+        "juz": 26,
+        "revelation_type": "Madina"
+      },
+      "arabic_word_count": 13,
+      "translations": {
+        "ar": {
+          "text": "سُنَّةَ ٱللَّهِ ٱلَّتِي قَدۡ خَلَتۡ مِن قَبۡلُۖ وَلَن تَجِدَ لِسُنَّةِ ٱللَّهِ تَبۡدِيلࣰ ا",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "˹This is˺ Allah’s way, already long established ˹in the past˺. And you will find no change in Allah’s way",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "这是真主以前的常道，对于真主的常道，你绝不能发现有任何变更。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "यह अल्लाह की उस रीति के अनुकूल है जो पहले से चली आई है, और तुम अल्लाह की रीति में कदापि कोई परिवर्तन न पाओगे",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Ese es el proceder de Dios que ha regido siempre en el pasado [de socorrer a los creyentes]. No encontrarás que el proceder de Dios cambie",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Telle est la règle d'Allah appliquée aux générations passées. Et tu ne trouveras jamais de changement à la règle d'Allah",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "এটাই আল্লাহর রীতি, যা পূর্ব থেকে চালু আছে। তুমি আল্লাহর রীতিতে কোন পরিবর্তন পাবে না।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Assim, foi o procedimento de Allah, o que passou, antes. E não encontrarás, no procedimento de Allah, mudança alguma",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Таково установление Аллаха, которое уже свершалось ранее, и ты не найдешь замены установлению Аллаха",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "(یہی) خدا کی عادت ہے جو پہلے سے چلی آتی ہے۔ اور تم خدا کی عادت کبھی بدلتی نہ دیکھو گے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_048_024",
+      "reference": {
+        "surah_number": 48,
+        "surah_name": "Al-Fath",
+        "surah_name_ar": "سُوْرَةُ الْفَتْحِ",
+        "surah_name_translation": "The Victory",
+        "ayah_number": 24,
+        "juz": 26,
+        "revelation_type": "Madina"
+      },
+      "arabic_word_count": 19,
+      "translations": {
+        "ar": {
+          "text": "وَهُوَ ٱلَّذِي كَفَّ أَيۡدِيَهُمۡ عَنكُمۡ وَأَيۡدِيَكُمۡ عَنۡهُم بِبَطۡنِ مَكَّةَ مِنۢ بَعۡدِ أَنۡ أَظۡفَرَكُمۡ عَلَيۡهِمۡۚ وَكَانَ ٱللَّهُ بِمَا تَعۡمَلُونَ بَصِيرًا",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "He is the One Who held back their hands from you and your hands from them in the valley of ˹Ḥudaibiyah, near˺ Mecca, after giving you the upper hand over ˹a group of˺ them. And Allah is All-Seeing of what you do",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "他曾制止他们对你们下手，也制止你们在战胜他们之后在麦加山谷中对他们下手，真主是明察你们的行为的。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "वही है जिसने उसके हाथ तुमसे और तुम्हारे हाथ उनसे मक्के की घाटी में रोक दिए इसके पश्चात कि वह तुम्हें उनपर प्रभावी कर चुका था। अल्लाह उसे देख रहा था जो कुछ तुम कर रहे थे",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Él es Quien los protegió de las manos de sus enemigos y los protegió a ellos de las manos de ustedes en el valle de La Meca, después de haberles dado la victoria sobre ellos. Dios vio lo que hicieron",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "C'est Lui qui, dans la vallée de la Mecque, a écarté leurs mains de vous, de même qu'Il a écarté vos mains d'eux, après vous avoir fait triompher sur eux. Et Allah voit parfaitement ce que vous œuvrez",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "তিনি মক্কা শহরে তাদের হাত তোমাদের থেকে এবং তোমাদের হাত তাদের থেকে নিবারিত করেছেন তাদের উপর তোমাদেরকে বিজয়ী করার পর। তোমরা যা কিছু কর, আল্লাহ তা দেখেন।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E Ele é Quem, no vale de Makkah, deteve suas mãos, afastando-as de vós, e vossas mãos, afastando-as deles, após haver-vos dado o triunfo sobre eles. E Allah, do que fazeis, é Onividente",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Он - Тот, Кто убрал их руки от вас и ваши руки от них в долине Мекки после того, как Он позволил вам одержать над ними верх. Аллах видит то, что вы совершаете",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور وہی تو ہے جس نے تم کو ان (کافروں) پر فتحیاب کرنے کے بعد سرحد مکہ میں ان کے ہاتھ تم سے اور تمہارے ہاتھ ان سے روک دیئے۔ اور جو کچھ تم کرتے ہو خدا اس کو دیکھ رہا ہے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_048_025",
+      "reference": {
+        "surah_number": 48,
+        "surah_name": "Al-Fath",
+        "surah_name_ar": "سُوْرَةُ الْفَتْحِ",
+        "surah_name_translation": "The Victory",
+        "ayah_number": 25,
+        "juz": 26,
+        "revelation_type": "Madina"
+      },
+      "arabic_word_count": 40,
+      "translations": {
+        "ar": {
+          "text": "هُمُ ٱلَّذِينَ كَفَرُواْ وَصَدُّوكُمۡ عَنِ ٱلۡمَسۡجِدِ ٱلۡحَرَامِ وَٱلۡهَدۡيَ مَعۡكُوفًا أَن يَبۡلُغَ مَحِلَّهُۥۚ وَلَوۡلَا رِجَالࣱ مُّؤۡمِنُونَ وَنِسَآءࣱ مُّؤۡمِنَٰتࣱ لَّمۡ تَعۡلَمُوهُمۡ أَن تَطَـُٔوهُمۡ فَتُصِيبَكُم مِّنۡهُم مَّعَرَّةُۢ بِغَيۡرِ عِلۡمࣲۖ لِّيُدۡخِلَ ٱللَّهُ فِي رَحۡمَتِهِۦ مَن يَشَآءُۚ لَوۡ تَزَيَّلُواْ لَعَذَّبۡنَا ٱلَّذِينَ كَفَرُواْ مِنۡهُمۡ عَذَابًا أَلِيمًا",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "They are the ones who persisted in disbelief and hindered you from the Sacred Mosque, preventing the sacrificial animals from reaching their destination. ˹We would have let you march through Mecca,˺ had there not been believing men and women, unknown to you. You might have trampled them underfoot, incurring guilt for ˹what you did to˺ them unknowingly. That was so Allah may admit into His mercy whoever He wills. Had those ˹unknown˺ believers stood apart, We would have certainly inflicted a painful punishment on the disbelievers",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "他们不信道，并阻碍你们入禁寺，且阻止被扣留的牺牲达到它的已定的位置。若不为厌恶你们蹂躏你们所未认识的许多信道的男子和女子，而你们因此无知地犯罪，那末，他不制止你们。真主制止你们，以便他使他所意欲者入于他的恩惠之中。假若他们是散居的，我必使他们中不信道的人们受痛苦的刑罚。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "ये वही लोग तो है जिन्होंने इनकार किया और तुम्हें मस्जिदे हराम (काबा) से रोक दिया और क़ुरबानी के बँधे हुए जानवरों को भी इससे रोके रखा कि वे अपने ठिकाने पर पहुँचे। यदि यह ख़याल न होता कि बहुत-से मोमिन पुरुष और मोमिन स्त्रियाँ (मक्का में) मौजूद है, जिन्हें तुम नहीं जानते, उन्हें कुचल दोगे, फिर उनके सिलसिले में अनजाने तुमपर इल्ज़ाम आएगा (तो युद्ध की अनुमति दे दी जाती, अनुमति इसलिए नहीं दी गई) ताकि अल्लाह जिसे चाहे अपनी दयालुता में दाख़िल कर ले। यदि वे ईमानवाले अलग हो गए होते तो उनमें से जिन लोगों ने इनकार किया उनको हम अवश्य दुखद यातना देते",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Ellos son los que se negaron a creer y no los dejaron llegar a la Mezquita Sagrada, impidiendo que los animales [que llevaban para sacrificarlos como ofrenda en La Meca] llegaran a su destino. De no haber sido porque podrían haber cometido un grave pecado si atacaban La Meca, matando o hiriendo sin darse cuenta a algunos hombres y mujeres creyentes que no conocían y que habitaban en ella, Dios se los habría permitido. Dios alcanza con Su misericordia a quien Él quiere. Si les hubiera sido posible diferenciarlos unos de otros, les habríamos hecho infligir un castigo doloroso a los que se negaron a creer",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Ce sont eux qui ont mécru et qui vous ont obstrué le chemin de la Mosquée Sacrée [et ont empêché] que les offrandes entravées parvinssent à leur lieu d'immolation. S'il n'y avait pas eu des hommes croyants et des femmes croyantes (parmi les Mecquois) que vous ne connaissiez pas et que vous auriez pu piétiner sans le savoir, vous rendant ainsi coupables d'une action répréhensible... [Tout cela s'est fait] pour qu'Allah fasse entrer qui Il veut dans Sa miséricorde. Et s'ils [les croyants] s'étaient signalés, Nous aurions certes châtié d'un châtiment douloureux ceux qui avaient mécru parmi [les Mecquois]",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "তারাই তো কুফরী করেছে এবং বাধা দিয়েছে তোমাদেরকে মসজিদে হারাম থেকে এবং অবস্থানরত কোরবানীর জন্তুদেরকে যথাস্থানে পৌছতে। যদি মক্কায় কিছুসংখ্যক ঈমানদার পুরুষ ও ঈমানদার নারী না থাকত, যাদেরকে তোমরা জানতে না। অর্থাৎ তাদের পিষ্ট হয়ে যাওয়ার আশংকা না থাকত, অতঃপর তাদের কারণে তোমরা অজ্ঞাতসারে ক্ষতিগ্রস্ত হতে, তবে সব কিছু চুকিয়ে দেয়া হত; কিন্তু এ কারণে চুকানো হয়নি, যাতে আল্লাহ তা’আলা যাকে ইচ্ছা স্বীয় রহমতে দাখিল করে নেন। যদি তারা সরে যেত, তবে আমি অবশ্যই তাদের মধ্যে যারা কাফের তাদেরকে যন্ত্রনাদায়ক শস্তি দিতাম।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Eles são os que renegam a Fé, e que vos afastaram da Mesquita Sagrada, e afastaram as oferendas, entravadas, impedindo-as de atingirem seu local de imolação. E, não estivessem, entre eles, homens crentes e mulheres crentes - que, não os conhecendo, poderíeis pisá-los e, por causa disso, alcançar-vos-ia escândalo, sem que o soubésseis - Ele vos permitia combatê-los; mas não o permitiu, para que Allah fizesse entrar em Sua Misericórdia a quem quisesse. Se eles estivessem separados, haveríamos castigado, com doloroso castigo, os que dentre eles, renegaram a Fé",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Они - те, которые не уверовали, не впустили вас в Заповедную мечеть и задержали жертвенных животных, не позволив им достичь места заклания. И если бы в Мекке не было верующих мужчин и верующих женщин, которых вы не знали и могли затоптать по незнанию так, что они поставили бы вас в затруднительное положение (или вы бы оказались опозорены перед ними; или вы совершили бы грех перед ними), то Аллах позволил бы вам вторгнуться в Мекку, но Он не сделал этого, чтобы ввести в Свою милость тех, кого пожелает. Но если бы они отделились друг от друга, то Мы подвергли бы неверующих из них мучительным страданиям",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "یہ وہی لوگ ہیں جنہوں نے کفر کیا اور تم کو مسجد حرام سے روک دیا اور قربانیوں کو بھی کہ اپنی جگہ پہنچنے سے رکی رہیں۔ اور اگر ایسے مسلمان مرد اور مسلمان عورتیں نہ ہوتیں جن کو تم جانتے نہ تھے کہ اگر تم ان کو پامال کر دیتے تو تم کو ان کی طرف سے بےخبری میں نقصان پہنچ جاتا۔ (تو بھی تمہارے ہاتھ سے فتح ہوجاتی مگر تاخیر) اس لئے (ہوئی) کہ خدا اپنی رحمت میں جس کو چاہے داخل کرلے۔ اور اگر دونوں فریق الگ الگ ہوجاتے تو جو ان میں کافر تھے ان ہم دکھ دینے والا عذاب دیتے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_048_026",
+      "reference": {
+        "surah_number": 48,
+        "surah_name": "Al-Fath",
+        "surah_name_ar": "سُوْرَةُ الْفَتْحِ",
+        "surah_name_translation": "The Victory",
+        "ayah_number": 26,
+        "juz": 26,
+        "revelation_type": "Madina"
+      },
+      "arabic_word_count": 29,
+      "translations": {
+        "ar": {
+          "text": "إِذۡ جَعَلَ ٱلَّذِينَ كَفَرُواْ فِي قُلُوبِهِمُ ٱلۡحَمِيَّةَ حَمِيَّةَ ٱلۡجَٰهِلِيَّةِ فَأَنزَلَ ٱللَّهُ سَكِينَتَهُۥ عَلَىٰ رَسُولِهِۦ وَعَلَى ٱلۡمُؤۡمِنِينَ وَأَلۡزَمَهُمۡ كَلِمَةَ ٱلتَّقۡوَىٰ وَكَانُوٓاْ أَحَقَّ بِهَا وَأَهۡلَهَاۚ وَكَانَ ٱللَّهُ بِكُلِّ شَيۡءٍ عَلِيمࣰ ا",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "˹Remember˺ when the disbelievers had filled their hearts with pride—the pride of ˹pre-Islamic˺ ignorance—then Allah sent down His serenity upon His Messenger and the believers, inspiring them to uphold the declaration of faith, for they were better entitled and more worthy of it. And Allah has ˹perfect˺ knowledge of all things",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "当不信道者心怀忿怒--蒙昧时代的忿怒--的时候，真主曾降镇静给使者和信士们，使他们坚持敬畏辞。他们是更宜于敬畏辞的，是应受敬辞的。真主对于万事是全知的。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "याद करो जब इनकार करनेवाले लोगों ने अपने दिलों में हठ को जगह दी, अज्ञानपूर्ण हठ को; तो अल्लाह ने अपने रसूल पर और ईमानवालो पर सकीना (प्रशान्ति) उतारी और उन्हें परहेज़गारी (धर्मपरायणता) की बात का पाबन्द रखा। वे इसके ज़्यादा हक़दार और इसके योग्य भी थे। अल्लाह तो हर चीज़ जानता है",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Cuando los que se negaron a creer cerraron sus corazones con una arrogancia similar a la de la época de la ignorancia [previa al Islam], Dios hizo descender el sosiego sobre Su Mensajero y sobre los creyentes, y los hizo mantenerse leales al compromiso, pues eran los más merecedores y los más dignos de él. Dios lo sabe todo",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Quand ceux qui ont mécru eurent mis dans leurs cœurs la fureur, [la] fureur de l'ignorance... Puis Allah fit descendre Sa quiétude sur Son Messager ainsi que sur les croyants, et les obligea à une parole de piété, dont ils étaient les plus dignes et les plus proches. Allah est Omniscient",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "কেননা, কাফেররা তাদের অন্তরে মূর্খতাযুগের জেদ পোষণ করত। অতঃপর আল্লাহ তাঁর রসূল ও মুমিনদের উপর স্বীয় প্রশান্তি নাযিল করলেন এবং তাদের জন্যে সংযমের দায়িত্ব অপরিহার্য করে দিলেন। বস্তুতঃ তারাই ছিল এর অধিকতর যোগ্য ও উপযুক্ত। আল্লাহ সর্ববিষয়ে সম্যক জ্ঞাত।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Quando os que renegaram a Fé fizeram existir,em seus corações, o ardor, o ardor da ignorância, então, Allah fez descer Sua serenidade sobre Seu Mensageiro e sobre os crentes,e impôs-lhes a Palavra da piedade; e dela eram mais merecedores e a ela mais achegados. E Allah, de todas as cousas, é Onisciente",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Вот неверующие поместили в своих сердцах заносчивость - заносчивость времен невежества, а Аллах ниспослал Своему Посланнику и верующим покой и возложил на них (или сделал неразлучным с ними) слово богобоязненности (свидетельство о том, что нет божества, кроме Аллаха). Они заслуживали его более других и были достойны его. Аллах же знает о всякой вещи",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "جب کافروں نے اپنے دلوں میں ضد کی اور ضد بھی جاہلیت کی۔ تو خدا نے اپنے پیغمبر اور مومنوں پر اپنی طرف سے تسکین نازل فرمائی اور ان کو پرہیزگاری کی بات پر قائم رکھا اور وہ اسی کے مستحق اور اہل تھے۔ اور خدا ہر چیز سے خبردار ہے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_048_027",
+      "reference": {
+        "surah_number": 48,
+        "surah_name": "Al-Fath",
+        "surah_name_ar": "سُوْرَةُ الْفَتْحِ",
+        "surah_name_translation": "The Victory",
+        "ayah_number": 27,
+        "juz": 26,
+        "revelation_type": "Madina"
+      },
+      "arabic_word_count": 29,
+      "translations": {
+        "ar": {
+          "text": "لَّقَدۡ صَدَقَ ٱللَّهُ رَسُولَهُ ٱلرُّءۡيَا بِٱلۡحَقِّۖ لَتَدۡخُلُنَّ ٱلۡمَسۡجِدَ ٱلۡحَرَامَ إِن شَآءَ ٱللَّهُ ءَامِنِينَ مُحَلِّقِينَ رُءُوسَكُمۡ وَمُقَصِّرِينَ لَا تَخَافُونَۖ فَعَلِمَ مَا لَمۡ تَعۡلَمُواْ فَجَعَلَ مِن دُونِ ذَٰلِكَ فَتۡحࣰ ا قَرِيبًا",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Indeed, Allah will fulfil His Messenger’s vision in all truth: Allah willing, you will surely enter the Sacred Mosque, in security—˹some with˺ heads shaved and ˹others with˺ hair shortened—without fear. He knew what you did not know, so He first granted you the triumph at hand",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "真主确已昭示他的使者包含真理的梦兆，如果真主意欲，你们必定平安地进入禁寺，有的人剃头，有的人剪短发，你们将永不恐惧。真主知道你们所未知道的，故在那件事之前，先有一次临近的胜利。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "निश्चय ही अल्लाह ने अपने रसूल को हक़ के साथ सच्चा स्वप्न दिखाया, \"यदि अल्लाह ने चाहा तो तुम अवश्य मस्जिदे हराम (काबा) में प्रवेश करोगे बेखटके, अपने सिर के बाल मुड़ाते और कतरवाते हुए, तुम्हें कोई भय न होगा।\" हुआ यह कि उसने वह बात जान ली जो तुमने नहीं जानी। अतः इससे पहले उसने शीघ्र प्राप्त होनेवाली विजय तुम्हारे लिए निश्चिंत कर दी",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Dios hará realidad la visión que tuvo Su Mensajero [en sueños] y ustedes entrarán en la Mezquita Sagrada, si Dios quiere, algunos con las cabezas rasuradas y otros con el cabello recortado, sin temer absolutamente nada. Dios sabe lo que ustedes ignoran. Él les concederá, además, una victoria cercana",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Allah a été véridique en la vision par laquelle Il annonça à Son messager en toute vérité: vous entrerez dans la Mosquée Sacrée si Allah veut, en toute sécurité, ayant rasé vos têtes ou coupé vos cheveux, sans aucune crainte. Il savait donc ce que vous ne saviez pas. Il a placé en deçà de cela (la trêve de Houdaybiya) une victoire proche",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "আল্লাহ তাঁর রসূলকে সত্য স্বপ্ন দেখিয়েছেন। আল্লাহ চাহেন তো তোমরা অবশ্যই মসজিদে হারামে প্রবেশ করবে নিরাপদে মস্তকমুন্ডিত অবস্থায় এবং কেশ কর্তিত অবস্থায়। তোমরা কাউকে ভয় করবে না। অতঃপর তিনি জানেন যা তোমরা জান না। এছাড়াও তিনি দিয়েছেন তোমাদেরকে একটি আসন্ন বিজয়।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Com efeito, Allah confirmou com a verdade, o sonho de Seu Mensageiro: \"Certamente, entrareis, em segurança, na Mesquita Sagrada, se Allah quiser, estando com vossas cabeças rapadas ou curtos vossos cabelos, nada temendo.\" Então, Ele sabia o que não sabíeis, e fez, para vós, além disso, uma vitória próxima",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Воистину, Аллах показал Своему Посланнику правдивый сон (или Аллах доподлинно исполнит сон, который увидел Его Посланник). Вы непременно войдете в Заповедную мечеть, если пожелает Аллах, будучи в безопасности. Вы побреете головы и подстрижетесь, не испытывая страха. Он знал то, чего вы не знали, и предопределил перед этим близкую победу",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "بےشک خدا نے اپنے پیغمبر کو سچا (اور) صحیح خواب دکھایا۔ کہ تم خدا نے چاہا تو مسجد حرام میں اپنے سر منڈوا کر اور اپنے بال کتروا کر امن وامان سے داخل ہوگے۔ اور کسی طرح کا خوف نہ کرو گے۔ جو بات تم نہیں جانتے تھے اس کو معلوم تھی سو اس نے اس سے پہلے ہی جلد فتح کرادی",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_048_028",
+      "reference": {
+        "surah_number": 48,
+        "surah_name": "Al-Fath",
+        "surah_name_ar": "سُوْرَةُ الْفَتْحِ",
+        "surah_name_translation": "The Victory",
+        "ayah_number": 28,
+        "juz": 26,
+        "revelation_type": "Madina"
+      },
+      "arabic_word_count": 15,
+      "translations": {
+        "ar": {
+          "text": "هُوَ ٱلَّذِيٓ أَرۡسَلَ رَسُولَهُۥ بِٱلۡهُدَىٰ وَدِينِ ٱلۡحَقِّ لِيُظۡهِرَهُۥ عَلَى ٱلدِّينِ كُلِّهِۦۚ وَكَفَىٰ بِٱللَّهِ شَهِيدࣰ ا",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "He is the One Who has sent His Messenger with ˹right˺ guidance and the religion of truth, making it prevail over all others. And sufficient is Allah as a Witness",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "他因正道和真教而派遣他的使者，以便他使真教胜过一切宗教。真主足为见证，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "वही है जिसने अपने रसूल को मार्गदर्शन और सत्यधर्म के साथ भेजा, ताकि उसे पूरे के पूरे धर्म पर प्रभुत्व प्रदान करे और गवाह की हैसियत से अल्लाह काफ़ी है",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Él es Quien les envió a Su Mensajero con la guía y la práctica de adoración verdadera, para que prevalezca sobre todas las demás. Dios es suficiente como testigo",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "C'est Lui qui a envoyé Son messager avec la guidée et la religion de vérité [l'Islam] pour la faire triompher sur toute autre religion. Allah suffit comme témoin",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "তিনিই তাঁর রসূলকে হেদায়েত ও সত্য ধর্মসহ প্রেরণ করেছেন, যাতে একে অন্য সমস্ত ধর্মের উপর জয়যুক্ত করেন। সত্য প্রতিষ্ঠাতারূপে আল্লাহ যথেষ্ট।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Ele é Quem enviou Seu Mensageiro com a Orientação e a religião da verdade, para fazê-la prevalecer sobre todas as religiões. E basta Allah por Testemunha",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Он - Тот, Кто отправил Своего Посланника с верным руководством и религией истины, чтобы превознести ее над всеми остальными религиями. Довольно того, что Аллах является Свидетелем",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "وہی تو ہے جس نے اپنے پیغمبر کو ہدایت (کی کتاب) اور دین حق دے کر بھیجا تاکہ اس کو تمام دینوں پر غالب کرے۔ اور حق ظاہر کرنے کے لئے خدا ہی کافی ہے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_048_029",
+      "reference": {
+        "surah_number": 48,
+        "surah_name": "Al-Fath",
+        "surah_name_ar": "سُوْرَةُ الْفَتْحِ",
+        "surah_name_translation": "The Victory",
+        "ayah_number": 29,
+        "juz": 26,
+        "revelation_type": "Madina"
+      },
+      "arabic_word_count": 58,
+      "translations": {
+        "ar": {
+          "text": "مُّحَمَّدࣱ رَّسُولُ ٱللَّهِۚ وَٱلَّذِينَ مَعَهُۥٓ أَشِدَّآءُ عَلَى ٱلۡكُفَّارِ رُحَمَآءُ بَيۡنَهُمۡۖ تَرَىٰهُمۡ رُكَّعࣰ ا سُجَّدࣰ ا يَبۡتَغُونَ فَضۡلࣰ ا مِّنَ ٱللَّهِ وَرِضۡوَٰنࣰ اۖ سِيمَاهُمۡ فِي وُجُوهِهِم مِّنۡ أَثَرِ ٱلسُّجُودِۚ ذَٰلِكَ مَثَلُهُمۡ فِي ٱلتَّوۡرَىٰةِۚ وَمَثَلُهُمۡ فِي ٱلۡإِنجِيلِ كَزَرۡعٍ أَخۡرَجَ شَطۡـَٔهُۥ فَـَٔازَرَهُۥ فَٱسۡتَغۡلَظَ فَٱسۡتَوَىٰ عَلَىٰ سُوقِهِۦ يُعۡجِبُ ٱلزُّرَّاعَ لِيَغِيظَ بِهِمُ ٱلۡكُفَّارَۗ وَعَدَ ٱللَّهُ ٱلَّذِينَ ءَامَنُواْ وَعَمِلُواْ ٱلصَّٰلِحَٰتِ مِنۡهُم مَّغۡفِرَةࣰ وَأَجۡرًا عَظِيمَۢا",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Muḥammad is the Messenger of Allah. And those with him are firm with the disbelievers and compassionate with one another. You see them bowing and prostrating ˹in prayer˺, seeking Allah’s bounty and pleasure. The sign ˹of brightness can be seen˺ on their faces from the trace of prostrating ˹in prayer˺. This is their description in the Torah. And their parable in the Gospel is that of a seed that sprouts its ˹tiny˺ branches, making it strong. Then it becomes thick, standing firmly on its stem, to the delight of the planters—in this way Allah makes the believers a source of dismay for the disbelievers. To those of them who believe and do good, Allah has promised forgiveness and a great reward",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "穆罕默德是真主的使者，在他左右的人，对外道是庄严的，对教胞是慈祥的。你看他们鞠躬叩头，要求真主的恩惠和喜悦，他们的标记就在他们的脸上，那是叩头的效果。那是他们在《讨拉特》中的譬喻。他们在《引支勒》中的譬喻，是他们象一棵庄稼，发出支条，而他助它长大，而那支条渐渐茁壮，终于固定在苗本上，使农夫欣赏。他将他们造成那样，以便他借他们激怒外道。真主应许他们这等信道而且行善者，将蒙赦宥和重大的报酬。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "अल्लाह के रसूल मुहम्मद और जो लोग उनके साथ हैं, वे इनकार करनेवालों पर भारी हैं, आपस में दयालु है। तुम उन्हें रुकू में, सजदे में, अल्लाह का उदार अनुग्रह और उसकी प्रसन्नता चाहते हुए देखोगे। वे अपने चहरों से पहचाने जाते हैं जिनपर सजदों का प्रभाव है। यही उनकी विशेषता तौरात में और उनकी विशेषता इंजील में उस खेती की तरह उल्लिखित है जिसने अपना अंकुर निकाला; फिर उसे शक्ति पहुँचाई तो वह मोटा हुआ और वह अपने तने पर सीधा खड़ा हो गया। खेती करनेवालों को भा रहा है, ताकि उनसे इनकार करनेवालों का भी जी जलाए। उनमें से जो लोग ईमान लाए और उन्होंने अच्छे कर्म किए उनसे अल्लाह ने क्षमा और बदले का वादा किया है",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Mujámmad es el Mensajero de Dios. [Los creyentes] que están con él son severos con los que se niegan a creer, pero misericordiosos entre ellos. Los verás [rezando] inclinados y prosternados, anhelando alcanzar la misericordia de Dios y Su complacencia. En sus rostros se encuentran las huellas de la prosternación. Así fueron descritos en la Tora; mientras que en el Evangelio se los compara con una semilla que germina, brota, se fortalece, cobra grosor y se afirma en su tallo, causando alegría a los sembradores. Para que se indignen los que se niegan a creer. A los que crean y obren rectamente, Dios les ha prometido el perdón y una recompensa grandiosa",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Muhammad est le Messager d'Allah. Et ceux qui sont avec lui sont durs envers les mécréants, miséricordieux entre eux. Tu les vois inclinés, prosternés, recherchant d'Allah grâce et agrément. Leurs visages sont marqués par la trace laissée par la prosternation. Telle est leur image dans la Thora. Et l'image que l'on donne d'eux dans l'Evangile est celle d'une semence qui sort sa pousse, puis se raffermit, s'épaissit, et ensuite se dresse sur sa tige, à l'émerveillement des semeurs. [Allah] par eux [les croyants] remplit de dépit les mécréants. Allah promet à ceux d'entre eux qui croient et font de bonnes œuvres, un pardon et une énorme récompense",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "মুহাম্মদ আল্লাহর রসূল এবং তাঁর সহচরগণ কাফেরদের প্রতি কঠোর, নিজেদের মধ্যে পরস্পর সহানুভূতিশীল। আল্লাহর অনুগ্রহ ও সন্তুষ্টি কামনায় আপনি তাদেরকে রুকু ও সেজদারত দেখবেন। তাদের মুখমন্ডলে রয়েছে সেজদার চিহ্ন । তওরাতে তাদের অবস্থা এরূপ এবং ইঞ্জিলে তাদের অবস্থা যেমন একটি চারা গাছ যা থেকে নির্গত হয় কিশলয়, অতঃপর তা শক্ত ও মজবুত হয় এবং কান্ডের উপর দাঁড়ায় দৃঢ়ভাবে-চাষীকে আনন্দে অভিভুত করে-যাতে আল্লাহ তাদের দ্বারা কাফেরদের অন্তর্জালা সৃষ্টি করেন। তাদের মধ্যে যারা বিশ্বাস স্থাপন করে এবং সৎকর্ম করে, আল্লাহ তাদেরকে ক্ষমা ও মহাপুরস্কারের ওয়াদা দিয়েছেন।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Muhammad é o Mensageiro de Allah. E os que estão com ele são severos para com os renegadores da Fé, misericordiadores, entre eles. Tu os vês curvados, prosternados, buscando um favor de Allah e agrado. Suas faces são marcadas pelo vestígio deixado pela prosternação. Esse é seu exemplo, na Torá. E seu exemplo, no Evangelho, é como planta, que faz sair seus ramos, e esses a fortificam, e ela se robustece e se levanta sobre seu caule. Ela faz se admirarem dela os semeadores. Assim, Allah fez, para suscitar, por causa deles, o rancor dos renegadores da Fé. Allah promete aos que crêem e fazem as boas obras, dentre eles, perdão e magnífico prêmio",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Мухаммад - Посланник Аллаха. Те, которые вместе с ним, суровы к неверующим и милостивы между собой. Ты видишь, как они кланяются и падают ниц, стремясь к милости от Аллаха и довольству. Их признаком являются следы от земных поклонов на их лицах. Так они представлены в Таурате (Торе). В Инджиле (Евангелии) же они представлены посевом, на котором вырос росток. Он укрепил его, и тот стал толстым и выпрямился на своем стебле, восхищая сеятелей. Аллах привел эту притчу для того, чтобы привести ими в ярость неверующих. Аллах обещал тем из них, которые уверовали и совершали праведные деяния, прощение и великую награду",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "محمدﷺ خدا کے پیغمبر ہیں اور جو لوگ ان کے ساتھ ہیں وہ کافروں کے حق میں سخت ہیں اور آپس میں رحم دل، (اے دیکھنے والے) تو ان کو دیکھتا ہے کہ (خدا کے آگے) جھکے ہوئے سر بسجود ہیں اور خدا کا فضل اور اس کی خوشنودی طلب کر رہے ہیں۔ (کثرت) سجود کے اثر سے ان کی پیشانیوں پر نشان پڑے ہوئے ہیں۔ ان کے یہی اوصاف تورات میں (مرقوم) ہیں۔ اور یہی اوصاف انجیل میں ہیں۔ (وہ) گویا ایک کھیتی ہیں جس نے (پہلے زمین سے) اپنی سوئی نکالی پھر اس کو مضبوط کیا پھر موٹی ہوئی اور پھر اپنی نال پر سیدھی کھڑی ہوگئی اور لگی کھیتی والوں کو خوش کرنے تاکہ کافروں کا جی جلائے۔ جو لوگ ان میں سے ایمان لائے اور نیک عمل کرتے رہے ان سے خدا نے گناہوں کی بخشش اور اجر عظیم کا وعدہ کیا ہے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    }
+  ]
+}

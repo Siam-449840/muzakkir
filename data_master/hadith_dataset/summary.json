@@ -1,0 +1,386 @@
+{
+  "per_book_counts": [
+    [
+      "100-hadith_bn",
+      {
+        "chapters": 7,
+        "sections": 100,
+        "hadiths": 101
+      }
+    ],
+    [
+      "40-hadith_bn",
+      {
+        "chapters": 1,
+        "sections": 1,
+        "hadiths": 42
+      }
+    ],
+    [
+      "abu-dawud_bn",
+      {
+        "chapters": 43,
+        "sections": 1884,
+        "hadiths": 5274
+      }
+    ],
+    [
+      "adabul-mufrad_bn",
+      {
+        "chapters": 22,
+        "sections": 644,
+        "hadiths": 1336
+      }
+    ],
+    [
+      "bukhari_bn",
+      {
+        "chapters": 97,
+        "sections": 3982,
+        "hadiths": 7563
+      }
+    ],
+    [
+      "bulugul-maram_bn",
+      {
+        "chapters": 16,
+        "sections": 1108,
+        "hadiths": 1568
+      }
+    ],
+    [
+      "dhaif-hadis-sirij_bn",
+      {
+        "chapters": 1,
+        "sections": 1,
+        "hadiths": 102
+      }
+    ],
+    [
+      "fazayele-amal_bn",
+      {
+        "chapters": 3,
+        "sections": 32,
+        "hadiths": 151
+      }
+    ],
+    [
+      "hadis-somvar_bn",
+      {
+        "chapters": 20,
+        "sections": 258,
+        "hadiths": 2013
+      }
+    ],
+    [
+      "ibn-majah_bn",
+      {
+        "chapters": 38,
+        "sections": 1536,
+        "hadiths": 4341
+      }
+    ],
+    [
+      "jujul-rafayel-yadain_bn",
+      {
+        "chapters": 1,
+        "sections": 1,
+        "hadiths": 48
+      }
+    ],
+    [
+      "luluwal-marjan_bn",
+      {
+        "chapters": 55,
+        "sections": 982,
+        "hadiths": 1906
+      }
+    ],
+    [
+      "mishkatul-masabih_bn",
+      {
+        "chapters": 31,
+        "sections": 850,
+        "hadiths": 6294
+      }
+    ],
+    [
+      "miskate-dhaif-hadis_bn",
+      {
+        "chapters": 4,
+        "sections": 12,
+        "hadiths": 106
+      }
+    ],
+    [
+      "muslim_bn",
+      {
+        "chapters": 57,
+        "sections": 1340,
+        "hadiths": 7547
+      }
+    ],
+    [
+      "muwatta-malik_bn",
+      {
+        "chapters": 61,
+        "sections": 701,
+        "hadiths": 1830
+      }
+    ],
+    [
+      "nasai_bn",
+      {
+        "chapters": 52,
+        "sections": 2528,
+        "hadiths": 5758
+      }
+    ],
+    [
+      "ramadaner-durbol-hadis_bn",
+      {
+        "chapters": 1,
+        "sections": 1,
+        "hadiths": 36
+      }
+    ],
+    [
+      "riyadus-salihin_bn",
+      {
+        "chapters": 20,
+        "sections": 372,
+        "hadiths": 1905
+      }
+    ],
+    [
+      "sahih-hadise-qudsi_bn",
+      {
+        "chapters": 1,
+        "sections": 99,
+        "hadiths": 163
+      }
+    ],
+    [
+      "shamayele-tirmidhi_bn",
+      {
+        "chapters": 56,
+        "sections": 228,
+        "hadiths": 322
+      }
+    ],
+    [
+      "silsila-sahiha_bn",
+      {
+        "chapters": 1,
+        "sections": 1,
+        "hadiths": 60
+      }
+    ],
+    [
+      "targib-wattahrib_bn",
+      {
+        "chapters": 4,
+        "sections": 23,
+        "hadiths": 200
+      }
+    ],
+    [
+      "tirmidhi_bn",
+      {
+        "chapters": 46,
+        "sections": 2220,
+        "hadiths": 3956
+      }
+    ],
+    [
+      "upodesh_bn",
+      {
+        "chapters": 16,
+        "sections": 17,
+        "hadiths": 234
+      }
+    ]
+  ],
+  "totals": {
+    "hadiths": 52856,
+    "chapters": 654,
+    "sections": 18921
+  },
+  "books_info": [
+    [
+      "1",
+      "bukhari",
+      "B",
+      "সহিহ বুখারী",
+      "Sahih Bukhari"
+    ],
+    [
+      "2",
+      "muslim",
+      "M",
+      "সহিহ মুসলিম",
+      "Sahih Muslim"
+    ],
+    [
+      "3",
+      "nasai",
+      "N",
+      "সুনানে আন-নাসায়ী",
+      "Sunan an-Nasa'i"
+    ],
+    [
+      "4",
+      "abu-dawud",
+      "AD",
+      "সুনানে আবু দাউদ",
+      "Sunan Abu Dawud"
+    ],
+    [
+      "5",
+      "tirmidhi",
+      "T",
+      "জামে' আত-তিরমিজি",
+      "Jami` at-Tirmidhi"
+    ],
+    [
+      "6",
+      "ibn-majah",
+      "IM",
+      "সুনানে ইবনে মাজাহ",
+      "Sunan Ibn Majah"
+    ],
+    [
+      "7",
+      "muwatta-malik",
+      "MI",
+      "মুয়াত্তা ইমাম মালিক",
+      ""
+    ],
+    [
+      "8",
+      "riyadus-salihin",
+      "RS",
+      "রিয়াদুস সলেহিন",
+      ""
+    ],
+    [
+      "9",
+      "bulugul-maram",
+      "BM",
+      "বুলুগুল মারাম",
+      ""
+    ],
+    [
+      "10",
+      "luluwal-marjan",
+      "LM",
+      "আল লু'লু ওয়াল মারজান",
+      ""
+    ],
+    [
+      "11",
+      "hadis-somvar",
+      "HS",
+      "হাদিস সম্ভার",
+      ""
+    ],
+    [
+      "12",
+      "silsila-sahiha",
+      "SS",
+      "সিলসিলা সহিহা",
+      ""
+    ],
+    [
+      "13",
+      "dhaif-hadis-sirij",
+      "JH",
+      "জাল জয়িফ হাদিস সিরিজ",
+      ""
+    ],
+    [
+      "14",
+      "mishkatul-masabih",
+      "MM",
+      "মিশকাতুল মাসাবিহ",
+      ""
+    ],
+    [
+      "15",
+      "40-hadith",
+      "40",
+      "৪০ হাদিস",
+      ""
+    ],
+    [
+      "16",
+      "adabul-mufrad",
+      "AM",
+      "আদাবুল মুফরাদ",
+      ""
+    ],
+    [
+      "17",
+      "jujul-rafayel-yadain",
+      "JR",
+      "জুজ'উল রাফায়েল ইয়াদাইন",
+      ""
+    ],
+    [
+      "18",
+      "sahih-hadise-qudsi",
+      "HK",
+      "সহিহ হাদিসে কুদসি",
+      ""
+    ],
+    [
+      "19",
+      "100-hadith",
+      "100",
+      "১০০ সুসাব্যস্ত হাদিস",
+      ""
+    ],
+    [
+      "20",
+      "miskate-dhaif-hadis",
+      "MJ",
+      "মিশকাতে জয়িফ হাদিস",
+      ""
+    ],
+    [
+      "21",
+      "shamayele-tirmidhi",
+      "ST",
+      "শামায়েলে তিরমিযি",
+      ""
+    ],
+    [
+      "22",
+      "targib-wattahrib",
+      "TW",
+      "সহিহ তারগিব ওয়াত তাহরিব",
+      ""
+    ],
+    [
+      "23",
+      "fazayele-amal",
+      "FA",
+      "সহিহ ফাযায়েলে আমল",
+      ""
+    ],
+    [
+      "24",
+      "upodesh",
+      "UP",
+      "ঊপদেশ",
+      ""
+    ],
+    [
+      "25",
+      "ramadaner-durbol-hadis",
+      "RH",
+      "রমজানের দুর্বল হাদিস",
+      ""
+    ]
+  ]
+}

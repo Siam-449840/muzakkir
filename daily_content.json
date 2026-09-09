@@ -1,0 +1,59 @@
+{
+  "schema_version": "1.0",
+  "file_purpose": "Scheduling/composition layer. References content_id from curated_quran_daily.json / curated_hadith_daily.json only — never duplicates canonical text.",
+  "frequency_options": {
+    "description": "User selects exactly one of these 5 predefined daily frequencies in-app. No arbitrary values exposed to the user.",
+    "max_per_day": 5,
+    "options": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ]
+  },
+  "composition_strategy": {
+    "description": "Configurable ratio of Quran vs Hadith items per frequency tier. Not hard-coded as a single fixed rule — the app can override this table.",
+    "default_ratios": {
+      "1": {
+        "quran": 1,
+        "hadith": 0,
+        "note": "single item alternates day-to-day between Quran and Hadith at the delivery layer, not fixed here"
+      },
+      "2": {
+        "quran": 1,
+        "hadith": 1
+      },
+      "3": {
+        "quran": 2,
+        "hadith": 1
+      },
+      "4": {
+        "quran": 2,
+        "hadith": 2
+      },
+      "5": {
+        "quran": 3,
+        "hadith": 2
+      }
+    },
+    "configurable": true,
+    "override_note": "App-side config can replace default_ratios without touching canonical or curated data."
+  },
+  "scheduling_metadata_fields": {
+    "description": "Per-content editorial/product metadata for future scheduling logic. Populated with defaults here; app-side scheduler can refine.",
+    "fields": [
+      "topic_cluster",
+      "cooldown_days",
+      "priority",
+      "emotional_tone",
+      "difficulty"
+    ],
+    "note": "These are editorial/product metadata only, never religious-authority claims."
+  },
+  "content_pool": {
+    "quran": "See curated_quran_daily.json for the full pool of content_ids eligible for daily delivery.",
+    "hadith": "See curated_hadith_daily.json for the full pool of content_ids eligible for daily delivery."
+  },
+  "generated_on": "2026-08-28"
+}

@@ -1,0 +1,36 @@
+{
+  "book_key": "dhaif-hadis-sirij",
+  "raw_key": "dhaif-hadis-sirij",
+  "id": 13,
+  "title_bn": "জাল জয়িফ হাদিস সিরিজ",
+  "title_en": "Dhaif Hadith Series",
+  "title_ar": "سلسلة الحديث الشريف المزيف",
+  "total_hadiths": 102,
+  "total_chapters": 1,
+  "total_sections": 1,
+  "chapters": [
+    {
+      "id": 1,
+      "display_label": "১",
+      "title": "জাল জয়ীফ হাদিস সিরিজ (১-১০০) নং হাদিস",
+      "arabic_title": "",
+      "preface": "",
+      "range": "১ - ১০২",
+      "order": 1,
+      "hadith_count": 102,
+      "sections_count": 1,
+      "sections": [
+        {
+          "id": 1,
+          "chapter_id": 1,
+          "display_label": "১/১. অধ্যায়ঃ",
+          "title": "১ থেকে ১০০ নং হাদিস",
+          "arabic_title": "",
+          "preface": "",
+          "order": 1,
+          "hadith_count": 102
+        }
+      ]
+    }
+  ]
+}

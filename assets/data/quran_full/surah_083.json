@@ -1,0 +1,2021 @@
+{
+  "surah": 83,
+  "verses": [
+    {
+      "content_id": "quran_083_001",
+      "reference": {
+        "surah_number": 83,
+        "surah_name": "Al-Mutaffifin",
+        "surah_name_ar": "سُوْرَةُ المُطَفِّفِيْنَ",
+        "surah_name_translation": "Defrauding",
+        "ayah_number": 1,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 2,
+      "translations": {
+        "ar": {
+          "text": "وَيۡلࣱ لِّلۡمُطَفِّفِينَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Woe to the defrauders",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "伤哉！称量不公的人们。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "तबाही है घटानेवालों के लिए",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "¡Ay de los tramposos",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Malheur aux fraudeurs",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "যারা মাপে কম করে, তাদের জন্যে দুর্ভোগ,",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Ai dos fraudadores",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Горе обвешивающим",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "ناپ اور تول میں کمی کرنے والوں کے لیے خرابی ہے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_083_002",
+      "reference": {
+        "surah_number": 83,
+        "surah_name": "Al-Mutaffifin",
+        "surah_name_ar": "سُوْرَةُ المُطَفِّفِيْنَ",
+        "surah_name_translation": "Defrauding",
+        "ayah_number": 2,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 6,
+      "translations": {
+        "ar": {
+          "text": "ٱلَّذِينَ إِذَا ٱكۡتَالُواْ عَلَى ٱلنَّاسِ يَسۡتَوۡفُونَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Those who take full measure ˹when they buy˺ from people",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "当他们从别人称量进来的时候，他们称量得很充足；",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "जो नापकर लोगों पर नज़र जमाए हुए लेते हैं तो पूरा-पूरा लेते हैं",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Que cuando compran exigen el peso exacto",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "qui, lorsqu'ils font mesurer pour eux-mêmes exigent la pleine mesure",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "যারা লোকের কাছ থেকে যখন মেপে নেয়, তখন পূর্ণ মাত্রায় নেয়",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Que, quando compram algo, por medida, aos homens, a exigem exata",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "которые требуют дать им сполна, когда люди отмеривают им",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "جو لوگوں سے ناپ کر لیں تو پورا لیں",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_083_003",
+      "reference": {
+        "surah_number": 83,
+        "surah_name": "Al-Mutaffifin",
+        "surah_name_ar": "سُوْرَةُ المُطَفِّفِيْنَ",
+        "surah_name_translation": "Defrauding",
+        "ayah_number": 3,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 5,
+      "translations": {
+        "ar": {
+          "text": "وَإِذَا كَالُوهُمۡ أَو وَّزَنُوهُمۡ يُخۡسِرُونَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "but give less when they measure or weigh for buyers",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "当他们量给别人或称给别人的时候，他们不称足不量足。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "किन्तु जब उन्हें नापकर या तौलकर देते हैं तो घटाकर देते हैं",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "pero cuando venden hacen trampa [dando menos] en el peso y la medida",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "et qui lorsqu'eux-mêmes mesurent ou pèsent pour les autres, [leur] causent perte",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "এবং যখন লোকদেরকে মেপে দেয় কিংবা ওজন করে দেয়, তখন কম করে দেয়।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E, quando lhes vendem algo, por medida ou peso, fraudam-nos",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "а когда сами мерят или взвешивают для других, то наносят им урон",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور جب ان کو ناپ کر یا تول کر دیں تو کم کر دیں",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_083_004",
+      "reference": {
+        "surah_number": 83,
+        "surah_name": "Al-Mutaffifin",
+        "surah_name_ar": "سُوْرَةُ المُطَفِّفِيْنَ",
+        "surah_name_translation": "Defrauding",
+        "ayah_number": 4,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 5,
+      "translations": {
+        "ar": {
+          "text": "أَلَا يَظُنُّ أُوْلَٰٓئِكَ أَنَّهُم مَّبۡعُوثُونَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Do such people not think that they will be resurrected",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "难道他们不信自己将复活，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "क्या वे समझते नहीं कि उन्हें (जीवित होकर) उठना है",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "¿Acaso no saben que serán resucitados",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Ceux-là ne pensent-ils pas qu'ils seront ressuscités",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "তারা কি চিন্তা করে না যে, তারা পুনরুত্থিত হবে।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Esses não pensam que serão ressuscitados",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Разве не думают они, что будут воскрешены",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "کیا یہ لوگ نہیں جانتے کہ اٹھائے بھی جائیں گے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_083_005",
+      "reference": {
+        "surah_number": 83,
+        "surah_name": "Al-Mutaffifin",
+        "surah_name_ar": "سُوْرَةُ المُطَفِّفِيْنَ",
+        "surah_name_translation": "Defrauding",
+        "ayah_number": 5,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 2,
+      "translations": {
+        "ar": {
+          "text": "لِيَوۡمٍ عَظِيمࣲ‏",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "for a tremendous Day—",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "在一个重大的日子吗？",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "एक भारी दिन के लिए",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "En un día terrible",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "en un jour terrible",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "সেই মহাদিবসে,",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Em um formidável dia",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "в Великий день",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "(یعنی) ایک بڑے (سخت) دن میں",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_083_006",
+      "reference": {
+        "surah_number": 83,
+        "surah_name": "Al-Mutaffifin",
+        "surah_name_ar": "سُوْرَةُ المُطَفِّفِيْنَ",
+        "surah_name_translation": "Defrauding",
+        "ayah_number": 6,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 5,
+      "translations": {
+        "ar": {
+          "text": "يَوۡمَ يَقُومُ ٱلنَّاسُ لِرَبِّ ٱلۡعَٰلَمِينَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "the Day ˹all˺ people will stand before the Lord of all worlds",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "在那日，人们将为全世界的主而起立。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "जिस दिन लोग सारे संसार के रब के सामने खड़े होंगे",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "un día en el que comparecerán los seres humanos ante el Señor del universo",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "le jour où les gens se tiendront debout devant le Seigneur de l'Univers",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "যেদিন মানুষ দাঁড়াবে বিশ্ব পালনকর্তার সামনে।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Um dia, em que os humanos se levantarão, para estar diante do Senhor dos mundos",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "в тот день, когда люди предстанут перед Господом миров",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "جس دن (تمام) لوگ رب العالمین کے سامنے کھڑے ہوں گے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_083_007",
+      "reference": {
+        "surah_number": 83,
+        "surah_name": "Al-Mutaffifin",
+        "surah_name_ar": "سُوْرَةُ المُطَفِّفِيْنَ",
+        "surah_name_translation": "Defrauding",
+        "ayah_number": 7,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 6,
+      "translations": {
+        "ar": {
+          "text": "كَلَّآ إِنَّ كِتَٰبَ ٱلۡفُجَّارِ لَفِي سِجِّينࣲ‏",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "But no! The wicked are certainly bound for Sijjîn ˹in the depths of Hell˺—",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "绝不然，恶人们的纪录，将在一本恶行簿中。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "कुछ नहीं, निश्चय ही दुराचारियों का काग़ज 'सिज्जीन' में है",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "No quedarán impunes como piensan, porque el registro de los pecadores está en un libro ineludible",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Non...! Mais en vérité le livre des libertins sera dans le Sijjîn",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "এটা কিছুতেই উচিত নয়, নিশ্চয় পাপাচারীদের আমলনামা সিজ্জীনে আছে।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Em absoluto, não pensam! Por certo, o livro dos ímpios está no Sijjin",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Но нет! Книга грешников находится в Сиджжине",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "سن رکھو کہ بدکارروں کے اعمال سجّین میں ہیں",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_083_008",
+      "reference": {
+        "surah_number": 83,
+        "surah_name": "Al-Mutaffifin",
+        "surah_name_ar": "سُوْرَةُ المُطَفِّفِيْنَ",
+        "surah_name_translation": "Defrauding",
+        "ayah_number": 8,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 4,
+      "translations": {
+        "ar": {
+          "text": "وَمَآ أَدۡرَىٰكَ مَا سِجِّينࣱ‏",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "and what will make you realize what Sijjîn is?—",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "你怎能知道恶行簿是什麽？",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "तुम्हें क्या मालूम कि 'सिज्जीन' क्या हैं",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "¿Y qué te hará saber lo que es un libro ineludible",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "et qui te dira ce qu'est le Sijjîn",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "আপনি জানেন, সিজ্জীন কি?",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E o que te faz inteirar-te do que é o Sijjin",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Откуда ты мог знать, что такое Сиджжин",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور تم کیا جانتے ہوں کہ سجّین کیا چیز ہے؟",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_083_009",
+      "reference": {
+        "surah_number": 83,
+        "surah_name": "Al-Mutaffifin",
+        "surah_name_ar": "سُوْرَةُ المُطَفِّفِيْنَ",
+        "surah_name_translation": "Defrauding",
+        "ayah_number": 9,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 2,
+      "translations": {
+        "ar": {
+          "text": "كِتَٰبࣱ مَّرۡقُومࣱ‏",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "a fate ˹already˺ sealed",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "是一本封存的簿子。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "मुहर लगा हुआ काग़ज",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Es un libro donde se registran las obras de los pecadores",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Un livre déjà cacheté (achevé)",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "এটা লিপিবদ্ধ খাতা।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "É um livro gravado",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Это - книга начертанная, в которой записаны все злодеяния дьяволов, неверующих и грешников (или скала под седьмой землей, под которой находится начертанная книга с деяниями грешников)",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "ایک دفتر ہے لکھا ہوا",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_083_010",
+      "reference": {
+        "surah_number": 83,
+        "surah_name": "Al-Mutaffifin",
+        "surah_name_ar": "سُوْرَةُ المُطَفِّفِيْنَ",
+        "surah_name_translation": "Defrauding",
+        "ayah_number": 10,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 3,
+      "translations": {
+        "ar": {
+          "text": "وَيۡلࣱ يَوۡمَئِذࣲ لِّلۡمُكَذِّبِينَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Woe on that Day to the deniers—",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "在那日，伤哉否认的人们",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "तबाही है उस दिन झुठलाने-वालों की",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "¡Cuán desdichados serán ese día los que negaron la verdad",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Malheur, ce jour-là, aux négateurs",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "সেদিন দুর্ভোগ মিথ্যারোপকারীদের,",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Nesse dia, ai dos desmentidores",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Горе в тот день тем, кто считает истину ложью",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اس دن جھٹلانے والوں کی خرابی ہے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_083_011",
+      "reference": {
+        "surah_number": 83,
+        "surah_name": "Al-Mutaffifin",
+        "surah_name_ar": "سُوْرَةُ المُطَفِّفِيْنَ",
+        "surah_name_translation": "Defrauding",
+        "ayah_number": 11,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 4,
+      "translations": {
+        "ar": {
+          "text": "ٱلَّذِينَ يُكَذِّبُونَ بِيَوۡمِ ٱلدِّينِ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "those who deny Judgment Day",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "否认报应日的人们！",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "जो बदले के दिन को झुठलाते है",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Los que desmintieron el Día del Juicio",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "qui démentent le jour de la Rétribution",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "যারা প্রতিফল দিবসকে মিথ্যারোপ করে।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Que desmentem o Dia do Juízo",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "кто считает ложью День воздаяния",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "(یعنی) جو انصاف کے دن کو جھٹلاتے ہیں",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_083_012",
+      "reference": {
+        "surah_number": 83,
+        "surah_name": "Al-Mutaffifin",
+        "surah_name_ar": "سُوْرَةُ المُطَفِّفِيْنَ",
+        "surah_name_translation": "Defrauding",
+        "ayah_number": 12,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 7,
+      "translations": {
+        "ar": {
+          "text": "وَمَا يُكَذِّبُ بِهِۦٓ إِلَّا كُلُّ مُعۡتَدٍ أَثِيمٍ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "None would deny it except every evildoing transgressor",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "只有每个过分的犯罪的人，否认它。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "और उसे तो बस प्रत्येक वह क्यक्ति ही झूठलाता है जो सीमा का उल्लंघन करनेवाला, पापी है",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "pues solo lo desmienten los transgresores y los pecadores",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Or, ne le dément que tout transgresseur, pécheur",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "প্রত্যেক সীমালংঘনকারী পাপিষ্ঠই কেবল একে মিথ্যারোপ করে।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E não o desmente senão todo agressor, pecador",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Его считает ложью только преступник и грешник",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور اس کو جھٹلاتا وہی ہے جو حد سے نکل جانے والا گنہگار ہے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_083_013",
+      "reference": {
+        "surah_number": 83,
+        "surah_name": "Al-Mutaffifin",
+        "surah_name_ar": "سُوْرَةُ المُطَفِّفِيْنَ",
+        "surah_name_translation": "Defrauding",
+        "ayah_number": 13,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 7,
+      "translations": {
+        "ar": {
+          "text": "إِذَا تُتۡلَىٰ عَلَيۡهِ ءَايَٰتُنَا قَالَ أَسَٰطِيرُ ٱلۡأَوَّلِينَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Whenever Our revelations are recited to them, they say, “Ancient fables!”",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "当别人对他宣读我的迹象的时候，他说：这是古人的故事。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "जब हमारी आयतें उसे सुनाई जाती है तो कहता है, \"ये तो पहले की कहानियाँ है।",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Quienes, cuando les es recitada Mi palabra, dicen: \"Son fábulas de los pueblos antiguos",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "qui, lorsque Nos versets lui sont récités, dit: «[Ce sont] des contes d'anciens!»",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "তার কাছে আমার আয়াতসমূহ পাঠ করা হলে সে বলে, পুরাকালের উপকথা।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Quando se recitam, para ele, Nossos versículos, diz: \"São fábulas dos antepassados",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Когда ему читают Наши аяты, он говорит: «Это - легенды древних народов!»",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "جب اس کو ہماری آیتیں سنائی جاتی ہیں تو کہتا ہے کہ یہ تو اگلے لوگوں کے افسانے ہیں",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_083_014",
+      "reference": {
+        "surah_number": 83,
+        "surah_name": "Al-Mutaffifin",
+        "surah_name_ar": "سُوْرَةُ المُطَفِّفِيْنَ",
+        "surah_name_translation": "Defrauding",
+        "ayah_number": 14,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 8,
+      "translations": {
+        "ar": {
+          "text": "كَلَّاۖ بَلۡۜ رَانَ عَلَىٰ قُلُوبِهِم مَّا كَانُواْ يَكۡسِبُونَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "But no! In fact, their hearts have been stained by all ˹the evil˺ they used to commit",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "绝不然，但他们所犯的罪恶，已像锈样蒙敝他们的心。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "कुछ नहीं, बल्कि जो कुछ वे कमाते रहे है वह उनके दिलों पर चढ़ गया है",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Pero no es así, sino que sus corazones están duros, llenos de herrumbre, debido a los pecados que cometieron",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Pas du tout, mais ce qu'ils ont accompli couvre leurs cœurs",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "কখনও না, বরং তারা যা করে, তাই তাদের হৃদয় মরিচা ধরিয়ে দিয়েছে।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Em absoluto, não o são! Mas, o que eles cometiam lhes enferrujou os corações",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Но нет! Напротив, их сердца окутаны тем, что они приобрели",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "دیکھو یہ جو (اعمال بد) کرتے ہیں ان کا ان کے دلوں پر زنگ بیٹھ گیا ہے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_083_015",
+      "reference": {
+        "surah_number": 83,
+        "surah_name": "Al-Mutaffifin",
+        "surah_name_ar": "سُوْرَةُ المُطَفِّفِيْنَ",
+        "surah_name_translation": "Defrauding",
+        "ayah_number": 15,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 6,
+      "translations": {
+        "ar": {
+          "text": "كَلَّآ إِنَّهُمۡ عَن رَّبِّهِمۡ يَوۡمَئِذࣲ لَّمَحۡجُوبُونَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Undoubtedly, they will be sealed off from their Lord on that Day",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "真的，在那日，他们必受阻拦，不得觐见他们的主。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "कुछ नहीं, अवश्य ही वे उस दिन अपने रब से ओट में होंगे",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "No es así, sino que ese día no podrán ver a su Señor",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Qu'ils prennent garde! En vérité ce jour-là un voile les empêchera de voir leur Seigneur",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "কখনও না, তারা সেদিন তাদের পালনকর্তার থেকে পর্দার অন্তরালে থাকবে।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Ora, por certo, nesse dia, serão vedados da misericórdia de seu Senhor",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Но нет! В тот день они будут отделены от своего Господа завесой (не увидят Аллаха)",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "بےشک یہ لوگ اس روز اپنے پروردگار (کے دیدار) سے اوٹ میں ہوں گے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_083_016",
+      "reference": {
+        "surah_number": 83,
+        "surah_name": "Al-Mutaffifin",
+        "surah_name_ar": "سُوْرَةُ المُطَفِّفِيْنَ",
+        "surah_name_translation": "Defrauding",
+        "ayah_number": 16,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 4,
+      "translations": {
+        "ar": {
+          "text": "ثُمَّ إِنَّهُمۡ لَصَالُواْ ٱلۡجَحِيمِ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Moreover, they will surely burn in Hell",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "然後，他们必堕入烈火之中。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "फिर वे भड़कती आग में जा पड़ेगे",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Luego serán llevados al Infierno",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "ensuite, ils brûleront certes, dans la Fournaise",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "অতঃপর তারা জাহান্নামে প্রবেশ করবে।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Em seguida, por certo, sofrerão a queima do Inferno",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "а потом они попадут в Ад",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "پھر دوزخ میں جا داخل ہوں گے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_083_017",
+      "reference": {
+        "surah_number": 83,
+        "surah_name": "Al-Mutaffifin",
+        "surah_name_ar": "سُوْرَةُ المُطَفِّفِيْنَ",
+        "surah_name_translation": "Defrauding",
+        "ayah_number": 17,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 7,
+      "translations": {
+        "ar": {
+          "text": "ثُمَّ يُقَالُ هَٰذَا ٱلَّذِي كُنتُم بِهِۦ تُكَذِّبُونَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "and then be told, “This is what you used to deny.”",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "然後，或者将对他们说：这就是你们所否认的。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "फिर कहा जाएगा, \"यह वही है जिस तुम झुठलाते थे",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "donde se les dirá: \"Esto es lo que desmentían y rechazaban",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "on [leur] dira alors: «Voilà ce que vous traitiez de mensonge!»",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "এরপর বলা হবে, একেই তো তোমরা মিথ্যারোপ করতে।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Depois, dir-se-Ihes-á: Eis o que desmentíeis",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "после чего им скажут: «Вот то, что вы считали ложью»",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "پھر ان سے کہا جائے گا کہ یہ وہی چیز ہے جس کو تم جھٹلاتے تھے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_083_018",
+      "reference": {
+        "surah_number": 83,
+        "surah_name": "Al-Mutaffifin",
+        "surah_name_ar": "سُوْرَةُ المُطَفِّفِيْنَ",
+        "surah_name_translation": "Defrauding",
+        "ayah_number": 18,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 6,
+      "translations": {
+        "ar": {
+          "text": "كَلَّآ إِنَّ كِتَٰبَ ٱلۡأَبۡرَارِ لَفِي عِلِّيِّينَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "But no! The virtuous are certainly bound for ’Illiyûn ˹in elevated Gardens˺—",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "真的，善人们的记录，确在善行簿中。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "कुछ नही, निस्संदेह वफ़ादार लोगों का काग़ज़ 'इल्लीयीन' (उच्च श्रेणी के लोगों) में है।",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "En cambio, el registro de los bienaventurados será un libro noble",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Qu'ils prennent garde! Le livre des bons sera dans l'Illiyûn",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "কখনও না, নিশ্চয় সৎলোকদের আমলনামা আছে ইল্লিয়্যীনে।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Ora, por certo, o livro dos virtuosos está no Illiyin",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Но нет! Книга благочестивых окажется в Иллийюне",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "(یہ بھی) سن رکھو کہ نیکوکاروں کے اعمال علیین میں ہیں",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_083_019",
+      "reference": {
+        "surah_number": 83,
+        "surah_name": "Al-Mutaffifin",
+        "surah_name_ar": "سُوْرَةُ المُطَفِّفِيْنَ",
+        "surah_name_translation": "Defrauding",
+        "ayah_number": 19,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 4,
+      "translations": {
+        "ar": {
+          "text": "وَمَآ أَدۡرَىٰكَ مَا عِلِّيُّونَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "and what will make you realize what ’Illiyûn is?—",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "你怎能知道善行簿是什麽？",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "और तुम क्या जानो कि 'इल्लीयीन' क्या है",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "¿Y qué te hará saber lo que es un libro noble",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "et qui te dira ce qu'est l'Illiyûn",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "আপনি জানেন ইল্লিয়্যীন কি?",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E o que te faz inteirar-te do que é o Illiyun",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Откуда ты мог знать, что такое Иллийюн",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور تم کو کیا معلوم کہ علیین کیا چیز ہے؟",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_083_020",
+      "reference": {
+        "surah_number": 83,
+        "surah_name": "Al-Mutaffifin",
+        "surah_name_ar": "سُوْرَةُ المُطَفِّفِيْنَ",
+        "surah_name_translation": "Defrauding",
+        "ayah_number": 20,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 2,
+      "translations": {
+        "ar": {
+          "text": "كِتَٰبࣱ مَّرۡقُومࣱ‏",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "a fate ˹already˺ sealed",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "是一本封存的簿子，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "लिखा हुआ रजिस्टर",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Es el libro donde se registran las obras de los que hacen el bien",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "un livre cacheté",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "এটা লিপিবদ্ধ খাতা।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "É um livro gravado",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Это - книга начертанная, в которой записаны все добрые деяния праведников (или верховья Рая, где находится начертанная книга с деяниями праведников)",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "ایک دفتر ہے لکھا ہوا",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_083_021",
+      "reference": {
+        "surah_number": 83,
+        "surah_name": "Al-Mutaffifin",
+        "surah_name_ar": "سُوْرَةُ المُطَفِّفِيْنَ",
+        "surah_name_translation": "Defrauding",
+        "ayah_number": 21,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 2,
+      "translations": {
+        "ar": {
+          "text": "يَشۡهَدُهُ ٱلۡمُقَرَّبُونَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "witnessed by those nearest ˹to Allah˺",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "真主所亲近的天神们将作证它。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "जिसे देखने के लिए सामीप्य प्राप्त लोग उपस्थित होंगे",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "que puede ser visto por los [ángeles] cercanos [a Dios]",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Les rapprochés [d'Allah: les Anges] en témoignent",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "আল্লাহর নৈকট্যপ্রাপ্ত ফেরেশতাগণ একে প্রত্যক্ষ করে।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Testemunham-no os achegados a Allah",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Ее видят (или о ней будут свидетельствовать) приближенные",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "جس کے پاس مقرب (فرشتے) حاضر رہتے ہیں",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_083_022",
+      "reference": {
+        "surah_number": 83,
+        "surah_name": "Al-Mutaffifin",
+        "surah_name_ar": "سُوْرَةُ المُطَفِّفِيْنَ",
+        "surah_name_translation": "Defrauding",
+        "ayah_number": 22,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 4,
+      "translations": {
+        "ar": {
+          "text": "إِنَّ ٱلۡأَبۡرَارَ لَفِي نَعِيمٍ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Surely the virtuous will be in bliss",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "善人们必在恩泽中，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "निस्संदेह अच्छे लोग नेमतों में होंगे",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Los bienaventurados gozarán las delicias del Paraíso",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Les bons seront dans [un Jardin] de délice",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "নিশ্চয় সৎলোকগণ থাকবে পরম আরামে,",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Por certo, os virtuosos estarão na delícia",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Воистину, благочестивые окажутся в блаженстве",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "بےشک نیک لوگ چین میں ہوں گے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_083_023",
+      "reference": {
+        "surah_number": 83,
+        "surah_name": "Al-Mutaffifin",
+        "surah_name_ar": "سُوْرَةُ المُطَفِّفِيْنَ",
+        "surah_name_translation": "Defrauding",
+        "ayah_number": 23,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 3,
+      "translations": {
+        "ar": {
+          "text": "عَلَى ٱلۡأَرَآئِكِ يَنظُرُونَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "˹seated˺ on ˹canopied˺ couches, gazing around",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "靠在床上注视著，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "ऊँची मसनदों पर से देख रहे होंगे",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "recostados en sofás, contemplando",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "sur les divans, ils regardent",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "সিংহাসনে বসে অবলোকন করবে।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Sobre coxins, olhando as maravilhas do Paraíso",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "и будут на ложах созерцать райские блага",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "تختوں پر بیٹھے ہوئے نظارے کریں گے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_083_024",
+      "reference": {
+        "surah_number": 83,
+        "surah_name": "Al-Mutaffifin",
+        "surah_name_ar": "سُوْرَةُ المُطَفِّفِيْنَ",
+        "surah_name_translation": "Defrauding",
+        "ayah_number": 24,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 5,
+      "translations": {
+        "ar": {
+          "text": "تَعۡرِفُ فِي وُجُوهِهِمۡ نَضۡرَةَ ٱلنَّعِيمِ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "You will recognize on their faces the glow of delight",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "你能在他们的面目上认识恩泽的光华。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "उनके चहरों से तुम्हें नेमतों की ताज़गी और आभा को बोध हो रहा होगा",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Reconocerás en sus rostros el resplandor de la dicha",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Tu reconnaîtras sur leurs visages, l'éclat de la félicité",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "আপনি তাদের মুখমন্ডলে স্বাচ্ছন্দ্যের সজীবতা দেখতে পাবেন।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Reconhecerás em suas faces a rutilância da delícia",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "На их лицах ты увидишь блеск благоденствия",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "تم ان کے چہروں ہی سے راحت کی تازگی معلوم کر لو گے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_083_025",
+      "reference": {
+        "surah_number": 83,
+        "surah_name": "Al-Mutaffifin",
+        "surah_name_ar": "سُوْرَةُ المُطَفِّفِيْنَ",
+        "surah_name_translation": "Defrauding",
+        "ayah_number": 25,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 4,
+      "translations": {
+        "ar": {
+          "text": "يُسۡقَوۡنَ مِن رَّحِيقࣲ مَّخۡتُومٍ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "They will be given a drink of sealed, pure wine",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "他们将饮封存的天醇，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "उन्हें मुहरबंद विशुद्ध पेय पिलाया जाएगा",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Se les dará de beber un néctar sellado",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "On leur sert à boire un nectar pur, cacheté",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "তাদেরকে মোহর করা বিশুদ্ধ পানীয় পান করানো হবে।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Dar-se-lhes-á de beber licor puro, selado",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Их будут поить выдержанным запечатанным вином",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "ان کو خالص شراب سربمہر پلائی جائے گی",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_083_026",
+      "reference": {
+        "surah_number": 83,
+        "surah_name": "Al-Mutaffifin",
+        "surah_name_ar": "سُوْرَةُ المُطَفِّفِيْنَ",
+        "surah_name_translation": "Defrauding",
+        "ayah_number": 26,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 6,
+      "translations": {
+        "ar": {
+          "text": "خِتَٰمُهُۥ مِسۡكࣱۚ وَفِي ذَٰلِكَ فَلۡيَتَنَافَسِ ٱلۡمُتَنَٰفِسُونَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "whose last sip will smell like musk. So let whoever aspires to this strive ˹diligently˺",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "封瓶口的，是麝香。教贪爱这种幸福的人们，争先为善吧！",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "मुहर उसकी मुश्क ही होगी - जो लोग दूसरी पर बाज़ी ले जाना चाहते हो वे इस चीज़ को प्राप्त करने में बाज़ी ले जाने का प्रयास करे",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "cuyo último sorbo deja un sabor a almizcle. ¡Que se esfuercen por alcanzarla los aspirantes",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "laissant un arrière-goût de musc. Que ceux qui la convoitent entrent en compétition [pour l'acquérir]",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "তার মোহর হবে কস্তুরী। এ বিষয়ে প্রতিযোগীদের প্রতিযোগিতা করা উচিত।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Seu selo é de almíscar - e que os competidores se compitam, então, para isso",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "а печатью его будет мускус (оно запечатано мускусом или же последний глоток его будет иметь привкус мускуса). Пусть же ради этого состязаются состязающиеся",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "جس کی مہر مشک کی ہو گی تو (نعمتوں کے) شائقین کو چاہیے کہ اسی سے رغبت کریں",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_083_027",
+      "reference": {
+        "surah_number": 83,
+        "surah_name": "Al-Mutaffifin",
+        "surah_name_ar": "سُوْرَةُ المُطَفِّفِيْنَ",
+        "surah_name_translation": "Defrauding",
+        "ayah_number": 27,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 3,
+      "translations": {
+        "ar": {
+          "text": "وَمِزَاجُهُۥ مِن تَسۡنِيمٍ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "And this drink’s flavour will come from Tasnîm—",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "天醇的混合物，是由太斯尼姆来的，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "और उसमें 'तसनीम' का मिश्रण होगा",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "[El néctar] estará mezclado con agua de Tasnim",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Il est mélangé à la boisson de Tasnîm",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "তার মিশ্রণ হবে তসনীমের পানি।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E sua mistura é de Tasnim",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Оно смешано с напитком из Таснима",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور اس میں تسنیم (کے پانی) کی آمیزش ہو گی",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_083_028",
+      "reference": {
+        "surah_number": 83,
+        "surah_name": "Al-Mutaffifin",
+        "surah_name_ar": "سُوْرَةُ المُطَفِّفِيْنَ",
+        "surah_name_translation": "Defrauding",
+        "ayah_number": 28,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 5,
+      "translations": {
+        "ar": {
+          "text": "عَيۡنࣰ ا يَشۡرَبُ بِهَا ٱلۡمُقَرَّبُونَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "a spring from which those nearest ˹to Allah˺ will drink",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "那是一洞泉水，真主所亲近的人将饮它。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "हाल यह है कि वह एक स्रोत है, जिसपर बैठकर सामीप्य प्राप्त लोग पिएँगे",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "un manantial del que solo beberán los más cercanos a Dios",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "source dont les rapprochés boivent",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "এটা একটা ঝরণা, যার পানি পান করবে নৈকট্যশীলগণ।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Uma fonte de que os achegados a Allah beberão",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "источника, из которого пьют приближенные",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "وہ ایک چشمہ ہے جس میں سے (خدا کے) مقرب پیئیں گے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_083_029",
+      "reference": {
+        "surah_number": 83,
+        "surah_name": "Al-Mutaffifin",
+        "surah_name_ar": "سُوْرَةُ المُطَفِّفِيْنَ",
+        "surah_name_translation": "Defrauding",
+        "ayah_number": 29,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 8,
+      "translations": {
+        "ar": {
+          "text": "إِنَّ ٱلَّذِينَ أَجۡرَمُواْ كَانُواْ مِنَ ٱلَّذِينَ ءَامَنُواْ يَضۡحَكُونَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Indeed, the wicked used to laugh at the believers",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "犯罪的人们常常嘲笑信士们，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "जो अपराधी है वे ईमान लानेवालों पर हँसते थे",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Los que se abandonan al pecado se ríen [en esta vida] de los creyentes",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Les criminels riaient de ceux qui croyaient",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "যারা অপরাধী, তারা বিশ্বাসীদেরকে উপহাস করত।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Por certo, os que cometeram crimes riam dos que criam",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Грешники смеялись над теми, которые уверовали",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "جو گنہگار (یعنی کفار) ہیں وہ (دنیا میں) مومنوں سے ہنسی کیا کرتے تھے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_083_030",
+      "reference": {
+        "surah_number": 83,
+        "surah_name": "Al-Mutaffifin",
+        "surah_name_ar": "سُوْرَةُ المُطَفِّفِيْنَ",
+        "surah_name_translation": "Defrauding",
+        "ayah_number": 30,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 4,
+      "translations": {
+        "ar": {
+          "text": "وَإِذَا مَرُّواْ بِهِمۡ يَتَغَامَزُونَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "wink to one another whenever they passed by",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "当信士们从他们的面前走过的时候，他们以目互相示意；",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "और जब उनके पास से गुज़रते तो आपस में आँखों और भौंहों से इशारे करते थे",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Cuando pasan junto a ellos se hacen gestos [despectivos]",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "et, passant près d'eux, ils se faisaient des œillades",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "এবং তারা যখন তাদের কাছ দিয়ে গমন করত তখন পরস্পরে চোখ টিপে ইশারা করত।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E, quando por eles passavam, piscavam os olhos, uns aos outros",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Проходя мимо них, они подмигивали друг другу",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور جب ان کے پاس سے گزرتے تو حقارت سے اشارے کرتے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_083_031",
+      "reference": {
+        "surah_number": 83,
+        "surah_name": "Al-Mutaffifin",
+        "surah_name_ar": "سُوْرَةُ المُطَفِّفِيْنَ",
+        "surah_name_translation": "Defrauding",
+        "ayah_number": 31,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 6,
+      "translations": {
+        "ar": {
+          "text": "وَإِذَا ٱنقَلَبُوٓاْ إِلَىٰٓ أَهۡلِهِمُ ٱنقَلَبُواْ فَكِهِينَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "and muse ˹over these exploits˺ upon returning to their own people",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "当他们回家的时候，洋洋得意地回去；",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "और जब अपने लोगों की ओर पलटते है तो चहकते, इतराते हुए पलटते थे",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "y cuando regresan a sus hogares se jactan [de ello]",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "et, retournant dans leurs familles, ils retournaient en plaisantant",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "তারা যখন তাদের পরিবার-পরিজনের কাছে ফিরত, তখনও হাসাহাসি করে ফিরত।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E, quando tornavam a suas famílias, tornavam hílares",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "возвращаясь к своим семьям, они возвращались радостными (или)",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور جب اپنے گھر کو لوٹتے تو اتراتے ہوئے لوٹتے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_083_032",
+      "reference": {
+        "surah_number": 83,
+        "surah_name": "Al-Mutaffifin",
+        "surah_name_ar": "سُوْرَةُ المُطَفِّفِيْنَ",
+        "surah_name_translation": "Defrauding",
+        "ayah_number": 32,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 6,
+      "translations": {
+        "ar": {
+          "text": "وَإِذَا رَأَوۡهُمۡ قَالُوٓاْ إِنَّ هَٰٓؤُلَآءِ لَضَآلُّونَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "And when they saw the faithful, they would say, “These ˹people˺ are truly astray,”",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "当他们遇见信士们的时候，他们说：这等人确是迷误的。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "और जब उन्हें देखते तो कहते, \"ये तो भटके हुए है।",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Cuando ven a los suyos dicen: \"Ellos son unos desviados",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "et les voyant, ils disaient: «Ce sont vraiment ceux-là les égarés»",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "আর যখন তারা বিশ্বাসীদেরকে দেখত, তখন বলত, নিশ্চয় এরা বিভ্রান্ত।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E, quando os viam, diziam: \"Por certo, estes estão descaminhados",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "а при виде их они говорили: «Воистину, эти впали в заблуждение»",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور جب ان (مومنوں) کو دیکھتے تو کہتے کہ یہ تو گمراہ ہیں",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_083_033",
+      "reference": {
+        "surah_number": 83,
+        "surah_name": "Al-Mutaffifin",
+        "surah_name_ar": "سُوْرَةُ المُطَفِّفِيْنَ",
+        "surah_name_translation": "Defrauding",
+        "ayah_number": 33,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 4,
+      "translations": {
+        "ar": {
+          "text": "وَمَآ أُرۡسِلُواْ عَلَيۡهِمۡ حَٰفِظِينَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "even though they were not sent as keepers over the believers",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "他们没有被派去监视信士们。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "हालाँकि वे उनपर कोई निगरानी करनेवाले बनाकर नहीं भेजे गए थे",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "aunque no les fue encargado velar por ellos",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Or, ils n'ont pas été envoyés pour être leurs gardiens",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "অথচ তারা বিশ্বাসীদের তত্ত্বাবধায়করূপে প্রেরিত হয়নি।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E não foram enviados, sobre eles, por custódios",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "А ведь они не были посланы к ним хранителями",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "حالانکہ وہ ان پر نگراں بنا کر نہیں بھیجے گئے تھے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_083_034",
+      "reference": {
+        "surah_number": 83,
+        "surah_name": "Al-Mutaffifin",
+        "surah_name_ar": "سُوْرَةُ المُطَفِّفِيْنَ",
+        "surah_name_translation": "Defrauding",
+        "ayah_number": 34,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 6,
+      "translations": {
+        "ar": {
+          "text": "فَٱلۡيَوۡمَ ٱلَّذِينَ ءَامَنُواْ مِنَ ٱلۡكُفَّارِ يَضۡحَكُونَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "But on that Day the believers will be laughing at the disbelievers",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "故今日信士们，嘲笑不信道的人们，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "तो आज ईमान लानेवाले, इनकार करनेवालों पर हँस रहे हैं",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Pero este día los creyentes serán quienes se rían de los que rechazaron la verdad",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Aujourd'hui, donc, ce sont ceux qui ont cru qui rient des infidèles",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "আজ যারা বিশ্বাসী, তারা কাফেরদেরকে উপহাস করছে।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Então, hoje, os que crêem se riem dos renegadores da Fé",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "В тот день верующие будут смеяться над неверующими",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "تو آج مومن کافروں سے ہنسی کریں گے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_083_035",
+      "reference": {
+        "surah_number": 83,
+        "surah_name": "Al-Mutaffifin",
+        "surah_name_ar": "سُوْرَةُ المُطَفِّفِيْنَ",
+        "surah_name_translation": "Defrauding",
+        "ayah_number": 35,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 3,
+      "translations": {
+        "ar": {
+          "text": "عَلَى ٱلۡأَرَآئِكِ يَنظُرُونَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "as they sit on ˹canopied˺ couches, looking on",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "他们靠在床上注视著，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "ऊँची मसनदों पर से देख रहे है",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "[Los creyentes] estarán reclinados sobre sofás, contemplando [el Rostro de Dios]",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "sur les divans, ils regardent",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "সিংহাসনে বসে, তাদেরকে অবলোকন করছে,",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Sobre coxins, olhando as maravilhas do Paraíso",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "и на ложах созерцать райские блага и то ужасное положение, в котором окажутся грешники",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "(اور) تختوں پر (بیٹھے ہوئے ان کا حال) دیکھ رہے ہوں گے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_083_036",
+      "reference": {
+        "surah_number": 83,
+        "surah_name": "Al-Mutaffifin",
+        "surah_name_ar": "سُوْرَةُ المُطَفِّفِيْنَ",
+        "surah_name_translation": "Defrauding",
+        "ayah_number": 36,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 6,
+      "translations": {
+        "ar": {
+          "text": "هَلۡ ثُوِّبَ ٱلۡكُفَّارُ مَا كَانُواْ يَفۡعَلُونَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "˹The believers will be asked,˺ “Have the disbelievers ˹not˺ been paid back for what they used to do?”",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "不信道的人们已获得他们的行为的报酬了吗？",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "क्या मिल गया बदला इनकार करनेवालों को उसका जो कुछ वे करते रहे है",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "¿Acaso los que rechazaron la verdad no han recibido una retribución justa por sus propias obras",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Est-ce que les infidèles ont eu la récompense de ce qu'ils faisaient",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "কাফেররা যা করত, তার প্রতিফল পেয়েছে তো?",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Os renegadores da Fé não serão retribuídos pelo que faziam",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Разве неверующие не получат воздаяние за то, что они совершали",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "تو کافروں کو ان کے عملوں کا (پورا پورا) بدلہ مل گیا",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    }
+  ]
+}

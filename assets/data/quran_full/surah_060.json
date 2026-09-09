@@ -1,0 +1,733 @@
+{
+  "surah": 60,
+  "verses": [
+    {
+      "content_id": "quran_060_001",
+      "reference": {
+        "surah_number": 60,
+        "surah_name": "Al-Mumtahana",
+        "surah_name_ar": "سُوْرَةُ الْمُمْتَحِنَةِ",
+        "surah_name_translation": "She that is to be examined",
+        "ayah_number": 1,
+        "juz": 28,
+        "revelation_type": "Madina"
+      },
+      "arabic_word_count": 49,
+      "translations": {
+        "ar": {
+          "text": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُواْ لَا تَتَّخِذُواْ عَدُوِّي وَعَدُوَّكُمۡ أَوۡلِيَآءَ تُلۡقُونَ إِلَيۡهِم بِٱلۡمَوَدَّةِ وَقَدۡ كَفَرُواْ بِمَا جَآءَكُم مِّنَ ٱلۡحَقِّ يُخۡرِجُونَ ٱلرَّسُولَ وَإِيَّاكُمۡ أَن تُؤۡمِنُواْ بِٱللَّهِ رَبِّكُمۡ إِن كُنتُمۡ خَرَجۡتُمۡ جِهَٰدࣰ ا فِي سَبِيلِي وَٱبۡتِغَآءَ مَرۡضَاتِيۚ تُسِرُّونَ إِلَيۡهِم بِٱلۡمَوَدَّةِ وَأَنَا۠ أَعۡلَمُ بِمَآ أَخۡفَيۡتُمۡ وَمَآ أَعۡلَنتُمۡۚ وَمَن يَفۡعَلۡهُ مِنكُمۡ فَقَدۡ ضَلَّ سَوَآءَ ٱلسَّبِيلِ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "O believers! Do not take My enemies and yours as trusted allies, showing them affection even though they deny what has come to you of the truth. They drove the Messenger and yourselves out ˹of Mecca˺, simply for your belief in Allah, your Lord. If you ˹truly˺ emigrated to struggle in My cause and seek My pleasure, ˹then do not take them as allies,˺ disclosing secrets ˹of the believers˺ to the pagans out of affection for them, when I know best whatever you conceal and whatever you reveal. And whoever of you does this has truly strayed from the Right Way",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "信道的人们啊！你们不要以我的敌人和你们的敌人为朋友，而传送消息给他们，以示亲爱。他们不信降临你们的真理，他们为你们信仰真主--你们的主--而将使者和你们驱逐出境。如果你们从故乡迁出，是由於为我而奋斗，是由於寻求我的喜悦，（那么，你们不要以他们为朋友）。你们秘密地传送消息给他们，以示亲爱，其实，我知道你们所隐匿的和你们所显示的。你们中谁做这件事，谁已背离正道。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "ऐ ईमान लानेवालो! यदि तुम मेरे मार्ग में जिहाद के लिए और मेरी प्रसन्नता की तलाश में निकले हो तो मेरे शत्रुओं और अपने शत्रुओं को मित्र न बनाओ कि उनके प्रति प्रेम दिखाओं, जबकि तुम्हारे पास जो सत्य आया है उसका वे इनकार कर चुके है। वे रसूल को और तुम्हें इसलिए निर्वासित करते है कि तुम अपने रब - अल्लाह पर ईमान लाए हो। तुम गुप्त रूप से उनसे मित्रता की बातें करते हो। हालाँकि मैं भली-भाँति जानता हूँ जो कुछ तुम छिपाते हो और व्यक्त करते हो। और जो कोई भी तुममें से भटक गया",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "¡Creyentes! Si el abandono de sus hogares [en La Meca] fue sincero por Mi causa y para obtener Mi complacencia, no tomen por confidentes a quienes demuestran ser Mis enemigos, y enemigos suyos, revelándoles secretos [de Estado] como muestra de afecto hacia ellos; porque ellos han negado abiertamente la verdad revelada, han expulsado al Mensajero y los han expulsado a ustedes [de La Meca y de sus hogares], simplemente por haber creído en Dios, su Señor. ¿Cómo pueden confiarles secretos por afecto? Yo bien sé lo que ocultan y lo que manifiestan. Quien obre así se habrá extraviado del camino correcto",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "O vous qui avez cru! Ne prenez pas pour alliés Mon ennemi et le vôtre, leur offrant l'amitié, alors qu'ils ont nié ce qui vous est parvenu de la vérité. Ils expulsent le Messager et vous-mêmes parce que vous croyez en Allah, votre Seigneur. Si vous êtes sortis pour lutter dans Mon chemin et pour rechercher Mon agrément, leur témoignerez-vous secrètement de l'amitié, alors que Je connais parfaitement ce que vous cachez et ce que vous divulguez? Et quiconque d'entre vous le fait s'égare de la droiture du sentier",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "মুমিনগণ, তোমরা আমার ও তোমাদের শত্রুদেরকে বন্ধরূপে গ্রহণ করো না। তোমরা তো তাদের প্রতি বন্ধুত্বের বার্তা পাঠাও, অথচ তারা যে সত্য তোমাদের কাছে আগমন করেছে, তা অস্বীকার করছে। তারা রসূলকে ও তোমাদেরকে বহিস্কার করে এই অপরাধে যে, তোমরা তোমাদের পালনকর্তার প্রতি বিশ্বাস রাখ। যদি তোমরা আমার সন্তুষ্টিলাভের জন্যে এবং আমার পথে জেহাদ করার জন্যে বের হয়ে থাক, তবে কেন তাদের প্রতি গোপনে বন্ধুত্বের পয়গাম প্রেরণ করছ? তোমরা যা গোপন কর এবং যা প্রকাশ কর, ত আমি খুব জানি। তোমাদের মধ্যে যে এটা করে, সে সরলপথ থেকে বিচ্যুত হয়ে যায়।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Ó vós que credes! Não tomeis Meus inimigos e vossos inimigos por aliados - lançando-lhes afeição, enquanto eles renegam o que vos chegou da Verdade, fazendo sair o Mensageiro e a vós, porque credes em Allah, vosso Senhor - se saístes de vosso lar para lutar em Meu caminho e para buscar Meu agrado. Vós lhes transmitis, secretamente, afeição, enquanto sou bem Sabedor do que escondeis e do que manifestais. E quem de vós o faz, com efeito, descaminha-se do caminho certo",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "О те, которые уверовали! Не берите врага Моего и врага вашего своим покровителем и помощником. Вы открываетесь им с любовью, хотя они не веруют в истину, которая явилась вам. Они изгоняют Посланника и вас за то, что вы веруете в Аллаха, вашего Господа. Если вы выступили, чтобы сражаться на Моем пути и снискать Мое довольство, то не питайте к ним любви в тайне. Я знаю то, что вы скрываете, и то, что вы обнародуете. А кто из вас поступает таким образом, тот сбился с прямого пути",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "مومنو! اگر تم میری راہ میں لڑنے اور میری خوشنودی طلب کرنے کے لئے (مکے سے) نکلے ہو تو میرے اور اپنے دشمنوں کو دوست نہ بناؤ۔ تم تو ان کو دوستی کے پیغام بھیجتے ہو اور وہ (دین) حق سے جو تمہارے پاس آیا ہے منکر ہیں۔ اور اس باعث سے کہ تم اپنے پروردگار خدا تعالیٰ پر ایمان لائے ہو پیغمبر کو اور تم کو جلاوطن کرتے ہیں۔ تم ان کی طرف پوشیدہ پوشیدہ دوستی کے پیغام بھیجتے ہو۔ اور جو کچھ تم مخفی طور پر اور جو علیٰ الاعلان کرتے ہو وہ مجھے معلوم ہے۔ اور جو کوئی تم میں سے ایسا کرے گا وہ سیدھے راستے سے بھٹک گیا",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_060_002",
+      "reference": {
+        "surah_number": 60,
+        "surah_name": "Al-Mumtahana",
+        "surah_name_ar": "سُوْرَةُ الْمُمْتَحِنَةِ",
+        "surah_name_translation": "She that is to be examined",
+        "ayah_number": 2,
+        "juz": 28,
+        "revelation_type": "Madina"
+      },
+      "arabic_word_count": 13,
+      "translations": {
+        "ar": {
+          "text": "إِن يَثۡقَفُوكُمۡ يَكُونُواْ لَكُمۡ أَعۡدَآءࣰ وَيَبۡسُطُوٓاْ إِلَيۡكُمۡ أَيۡدِيَهُمۡ وَأَلۡسِنَتَهُم بِٱلسُّوٓءِ وَوَدُّواْ لَوۡ تَكۡفُرُونَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "If they gain the upper hand over you, they would be your ˹open˺ enemies, unleashing their hands and tongues to harm you, and wishing that you would abandon faith",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "如果他们发现你们，他们就变成你们的敌人，他们杀害你们，辱骂你们，希望你们叛道。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "यदि वे तुम्हें पा जाएँ तो तुम्हारे शत्रु हो जाएँ और कष्ट पहुँचाने के लिए तुमपर हाथ और ज़बान चलाएँ। वे तो चाहते है कि काश! तुम भी इनकार करनेवाले हो जाओ",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Si ellos tuvieran dominio sobre ustedes, les mostrarían su verdadera enemistad maltratándolos física y verbalmente. Ellos querrían que ustedes dejaran de creer [en el Islam]",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "S'ils vous dominent, ils seront des ennemis pour vous et étendront en mal leurs mains et leurs langues vers vous; et ils aimeraient que vous deveniez mécréants",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "তোমাদেরকে করতলগত করতে পারলে তারা তোমাদের শত্রু হয়ে যাবে এবং মন্দ উদ্দেশ্যে তোমাদের প্রতি বাহু ও রসনা প্রসারিত করবে এবং চাইবে যে, কোনরূপে তোমরা ও কাফের হয়ে যাও।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Se eles vos dominarem, serão inimigos de vós e contra vós estenderão as mãos e a língua, com o mal. E almejarão que renegueis a Fé",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Если они случайно встретятся с вами, то они окажутся вашими врагами, будут вредить вам своими руками и языками и захотят, чтобы вы стали неверующими",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اگر یہ کافر تم پر قدرت پالیں تو تمہارے دشمن ہوجائیں اور ایذا کے لئے تم پر ہاتھ (بھی) چلائیں اور زبانیں (بھی) اور چاہتے ہیں کہ تم کسی طرح کافر ہوجاؤ",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_060_003",
+      "reference": {
+        "surah_number": 60,
+        "surah_name": "Al-Mumtahana",
+        "surah_name_ar": "سُوْرَةُ الْمُمْتَحِنَةِ",
+        "surah_name_translation": "She that is to be examined",
+        "ayah_number": 3,
+        "juz": 28,
+        "revelation_type": "Madina"
+      },
+      "arabic_word_count": 13,
+      "translations": {
+        "ar": {
+          "text": "لَن تَنفَعَكُمۡ أَرۡحَامُكُمۡ وَلَآ أَوۡلَٰدُكُمۡۚ يَوۡمَ ٱلۡقِيَٰمَةِ يَفۡصِلُ بَيۡنَكُمۡۚ وَٱللَّهُ بِمَا تَعۡمَلُونَ بَصِيرࣱ‏",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Neither your relatives nor children will benefit you on Judgment Day—He will decide between you ˹all˺. For Allah is All-Seeing of what you do",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "你们的亲戚和子孙，对於你们绝无裨益，在复活日，你们将被隔绝。真主是鉴察你们的行为的。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "क़ियामत के दिन तुम्हारी नातेदारियाँ कदापि तुम्हें लाभ न पहुँचाएँगी और न तुम्हारी सन्तान ही। उस दिन वह (अल्लाह) तुम्हारे बीच जुदाई डाल देगा। जो कुछ भी तुम करते हो अल्लाह उसे देख रहा होता है",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "En nada los beneficiarán sus lazos familiares ni sus hijos, el Día de la Resurrección Dios juzgará entre ustedes. Dios sabe cuanto hacen",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Ni vos proches parents ni vos enfants ne vous seront d'aucune utilité le Jour de la Résurrection, Il [Allah] décidera entre vous, et Allah est Clairvoyant sur ce que vous faites",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "তোমাদের স্বজন-পরিজন ও সন্তান-সন্ততি কিয়ামতের দিন কোন উপকারে আসবে না। তিনি তোমাদের মধ্যে ফয়সালা করবেন। তোমরা যা কর, আল্লাহ তা দেখেন।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Nem vossos laços de parentesco nem vossos filhos vos beneficiarão. No Dia da Ressurreição, Ele decidirá, entre vós. E Allah, do que fazeis é Onividente",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Ни ваши родственники, ни ваши дети не помогут вам. В День воскресения Он рассудит между вами. Аллах видит то, что вы совершаете",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "قیامت کے دن نہ تمہارے رشتے ناتے کام آئیں گے اور نہ اولاد۔ اس روز وہی تم میں فیصلہ کرے گا۔ اور جو کچھ تم کرتے ہو خدا اس کو دیکھتا ہے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_060_004",
+      "reference": {
+        "surah_number": 60,
+        "surah_name": "Al-Mumtahana",
+        "surah_name_ar": "سُوْرَةُ الْمُمْتَحِنَةِ",
+        "surah_name_translation": "She that is to be examined",
+        "ayah_number": 4,
+        "juz": 28,
+        "revelation_type": "Madina"
+      },
+      "arabic_word_count": 52,
+      "translations": {
+        "ar": {
+          "text": "قَدۡ كَانَتۡ لَكُمۡ أُسۡوَةٌ حَسَنَةࣱ فِيٓ إِبۡرَٰهِيمَ وَٱلَّذِينَ مَعَهُۥٓ إِذۡ قَالُواْ لِقَوۡمِهِمۡ إِنَّا بُرَءَٰٓؤُاْ مِنكُمۡ وَمِمَّا تَعۡبُدُونَ مِن دُونِ ٱللَّهِ كَفَرۡنَا بِكُمۡ وَبَدَا بَيۡنَنَا وَبَيۡنَكُمُ ٱلۡعَدَٰوَةُ وَٱلۡبَغۡضَآءُ أَبَدًا حَتَّىٰ تُؤۡمِنُواْ بِٱللَّهِ وَحۡدَهُۥٓ إِلَّا قَوۡلَ إِبۡرَٰهِيمَ لِأَبِيهِ لَأَسۡتَغۡفِرَنَّ لَكَ وَمَآ أَمۡلِكُ لَكَ مِنَ ٱللَّهِ مِن شَيۡءࣲۖ رَّبَّنَا عَلَيۡكَ تَوَكَّلۡنَا وَإِلَيۡكَ أَنَبۡنَا وَإِلَيۡكَ ٱلۡمَصِيرُ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "You already have an excellent example in Abraham and those with him, when they said to their people, “We totally dissociate ourselves from you and ˹shun˺ whatever ˹idols˺ you worship besides Allah. We reject you. The enmity and hatred that has arisen between us and you will last until you believe in Allah alone.” The only exception is when Abraham said to his father, “I will seek forgiveness for you,˹” adding, “but˺ I cannot protect you from Allah at all.” ˹The believers prayed,˺ “Our Lord! In You we trust. And to You we ˹always˺ turn. And to You is the final return",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "易卜拉欣和他的教徒，是你们的好模范。当时，他们曾对自己的宗族说：我们对於你们，和你们舍真主而崇拜的，确是无干的，我们不承认你们。我们彼此间的仇恨，永远存在。直到你们只信仰真主。但易卜拉欣对他父亲所说的话，不可做你们的模范。他曾说：我必定为你求饶，我不能为你抵御真主的一些刑罚。他们曾说：我们的主啊！我们只信托你，我们只依归你，只有你是最後的归宿。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "तुम लोगों के लिए इबराहीम में और उन लोगों में जो उसके साथ थे अच्छा आदर्श है, जबकि उन्होंने अपनी क़ौम के लोगों से कह दिया कि \"हम तुमसे और अल्लाह से हटकर जिन्हें तुम पूजते हो उनसे विरक्त है। हमने तुम्हारा इनकार किया और हमारे और तुम्हारे बीच सदैव के लिए वैर और विद्वेष प्रकट हो चुका जब तक अकेले अल्लाह पर तुम ईमान न लाओ।\" इूबराहीम का अपने बाप से यह कहना अपवाद है कि \"मैं आपके लिए क्षमा की प्रार्थना अवश्य करूँगा, यद्यपि अल्लाह के मुक़ाबले में आपके लिए मैं किसी चीज़ पर अधिकार नहीं रखता।\" \"ऐ हमारे रब! हमने तुझी पर भरोसा किया और तेरी ही ओर रुजू हुए और तेरी ही ओर अन्त में लौटना हैं।",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Tienen un buen ejemplo en Abraham y sus seguidores, cuando dijeron a su pueblo: \"Nosotros somos inocentes de ustedes y de cuanto adoran en lugar de Dios. Negamos que haya verdad en lo que ustedes creen, y comenzará la animadversión y el desacuerdo [en temas de creencia] hasta que no acepten que solamente Dios merece ser adorado\". Pero no hagan como Abraham, cuando le dijo a su padre: \"Pediré perdón por ti, pero no puedo hacer nada por ti ante Dios\". [Abraham oraba diciendo:] \"¡Oh, Señor nuestro! A Ti nos encomendamos, a Ti pedimos perdón y a Ti volveremos",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Certes, vous avez eu un bel exemple [à suivre] en Abraham et en ceux qui étaient avec lui, quand ils dirent à leur peuple: «Nous vous désavouons, vous et ce que vous adorez en dehors d'Allah. Nous vous renions. Entre vous et nous, l'inimitié et la haine sont à jamais déclarées jusqu'à ce que vous croyiez en Allah, seul». Exception faite de la parole d'Abraham [adressée] à son père: «J'implorerai certes, le pardon [d'Allah] en ta faveur bien que je ne puisse rien pour toi auprès d'Allah». «Seigneur, c'est en Toi que nous mettons notre confiance et à Toi nous revenons [repentants]. Et vers Toi est le Devenir",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "তোমাদের জন্যে ইব্রাহীম ও তাঁর সঙ্গীগণের মধ্যে চমৎকার আদর্শ রয়েছে। তারা তাদের সম্প্রদায়কে বলেছিলঃ তোমাদের সাথে এবং তোমরা আল্লাহর পরিবর্তে যার এবাদত কর, তার সাথে আমাদের কোন সম্পর্ক নেই। আমরা তোমাদের মানি না। তোমরা এক আল্লাহর প্রতি বিশ্বাস স্থাপন না করলে তোমাদের মধ্যে ও আমাদের মধ্যে চিরশত্রুতা থাকবে। কিন্তু ইব্রাহীমের উক্তি তাঁর পিতার উদ্দেশে এই আদর্শের ব্যতিক্রম। তিনি বলেছিলেনঃ আমি অবশ্যই তোমার জন্য ক্ষমাপ্রার্থনা করব। তোমার উপকারের জন্যে আল্লাহর কাছে আমার আর কিছু করার নেই। হে আমাদের পালনকর্তা! আমরা তোমারই উপর ভরসা করেছি, তোমারই দিকে মুখ করেছি এবং তোমারই নিকট আমাদের প্রত্যাবর্তন।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Com efeito, há para vós belo paradigma em Abraão, e nos que estavam com ele, quando disseram a seu povo: \"Por certo, estamos em rompimento convosco e com o que adorais, em vez de Allah; renegamo-vos, e a inimizade e a aversão mostrar-se-ão, para sempre, entre nós e vós, até que creiais em Allah, só nEle\", exceto no dito de Abraão a seu pai: \"Em verdade, implorarei perdão para ti, e nada te poderei fazer, junto de Allah\". \"Senhor nosso! Confiamos em Ti, e para Ti nos voltamos contritos. E a Ti será o destino",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Прекрасным примером для вас были Ибрахим (Авраам) и те, кто был с ним. Они сказали своему народу: «Мы отрекаемся от вас и тех, кому вы поклоняетесь вместо Аллаха. Мы отвергаем вас, и между нами и вами установились вражда и ненависть навеки, пока вы не уверуете в одного Аллаха». Лишь только Ибрахим (Авраам) сказал своему отцу: «Я обязательно буду просить для тебя прощения, но я не властен помочь тебе перед Аллахом. Господь наш! На Тебя одного мы уповаем, к Тебе одному мы обращаемся, и к Тебе предстоит прибытие",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "تمہیں ابراہیم اور ان کے رفقاء کی نیک چال چلنی (ضرور) ہے۔ جب انہوں نے اپنی قوم کے لوگوں سے کہا کہ ہم تم سے اور ان (بتوں) سے جن کو تم خدا کے سوا پوجتے ہو بےتعلق ہیں (اور) تمہارے (معبودوں کے کبھی) قائل نہیں (ہوسکتے) اور جب تک تم خدائے واحد اور ایمان نہ لاؤ ہم میں تم میں ہمیشہ کھلم کھلا عداوت اور دشمنی رہے گی۔ ہاں ابراہیمؑ نے اپنے باپ سے یہ (ضرور) کہا کہ میں آپ کے لئے مغفرت مانگوں گا اور خدا کے سامنے آپ کے بارے میں کسی چیز کا کچھ اختیار نہیں رکھتا۔ اے ہمارے پروردگار تجھ ہی پر ہمارا بھروسہ ہے اور تیری ہی طرف ہم رجوع کرتے ہیں اور تیرے ہی حضور میں (ہمیں) لوٹ کر آنا ہے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_060_005",
+      "reference": {
+        "surah_number": 60,
+        "surah_name": "Al-Mumtahana",
+        "surah_name_ar": "سُوْرَةُ الْمُمْتَحِنَةِ",
+        "surah_name_translation": "She that is to be examined",
+        "ayah_number": 5,
+        "juz": 28,
+        "revelation_type": "Madina"
+      },
+      "arabic_word_count": 13,
+      "translations": {
+        "ar": {
+          "text": "رَبَّنَا لَا تَجۡعَلۡنَا فِتۡنَةࣰ لِّلَّذِينَ كَفَرُواْ وَٱغۡفِرۡ لَنَا رَبَّنَآۖ إِنَّكَ أَنتَ ٱلۡعَزِيزُ ٱلۡحَكِيمُ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Our Lord! Do not subject us to the persecution of the disbelievers. Forgive us, our Lord! You ˹alone˺ are truly the Almighty, All-Wise.”",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "我们的主啊！求你不要让不信道的人迫害我们。我们的主啊！求你赦宥我们，你确是万能的，确是至睿的。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "ऐ हमारे रब! हमें इनकार करनेवालों के लिए फ़ितना न बना और ऐ हमारे रब! हमें क्षमा कर दे। निश्चय ही तू प्रभुत्वशाली, तत्वदर्शी है।",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "¡Señor nuestro! No permitas que los que se han negado a creer nos persigan, ni hagas de nosotros una causa por la cual se alejen [del Islam]. Perdónanos, ¡oh, Señor nuestro! Tú eres el Poderoso, el Sabio",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Seigneur, ne fais pas de nous [un sujet] de tentation pour ceux qui ont mécru; et pardonne-nous, Seigneur, car c'est Toi le Puissant, le Sage»",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "হে আমাদের পালনকর্তা! তুমি আমাদেরকে কাফেরদের জন্য পরীক্ষার পাত্র করো না। হে আমাদের পালনকর্তা! আমাদের ক্ষমা কর। নিশ্চয় তুমি পরাক্রমশালী, প্রজ্ঞাময়।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Senhor nosso! Não faças de nós vítimas da provação dos que renegam a Fé, e perdoa-nos. Senhor nosso! Por certo, Tu, Tu és O Todo-Poderoso, O Sábio",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Господь наш! Не делай нас искушением для тех, которые не веруют. Господь наш, прости нас, ведь Ты - Могущественный, Мудрый»",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اے ہمارے پروردگار ہم کو کافروں کے ہاتھ سے عذاب نہ دلانا اور اے پروردگار ہمارے ہمیں معاف فرما۔ بےشک تو غالب حکمت والا ہے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_060_006",
+      "reference": {
+        "surah_number": 60,
+        "surah_name": "Al-Mumtahana",
+        "surah_name_ar": "سُوْرَةُ الْمُمْتَحِنَةِ",
+        "surah_name_translation": "She that is to be examined",
+        "ayah_number": 6,
+        "juz": 28,
+        "revelation_type": "Madina"
+      },
+      "arabic_word_count": 19,
+      "translations": {
+        "ar": {
+          "text": "لَقَدۡ كَانَ لَكُمۡ فِيهِمۡ أُسۡوَةٌ حَسَنَةࣱ لِّمَن كَانَ يَرۡجُواْ ٱللَّهَ وَٱلۡيَوۡمَ ٱلۡأٓخِرَۚ وَمَن يَتَوَلَّ فَإِنَّ ٱللَّهَ هُوَ ٱلۡغَنِيُّ ٱلۡحَمِيدُ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "You certainly have an excellent example in them for whoever has hope in Allah and the Last Day. But whoever turns away, then surely Allah ˹alone˺ is the Self-Sufficient, Praiseworthy",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "易卜拉欣和他的教徒，对於你们希望会见真主和末日者，确是好模范。背叛者，无损於真主，因为真主确是无求的，确是可颂的。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "निश्चय ही तुम्हारे लिए उनमें अच्छा आदर्श है और हर उस व्यक्ति के लिए जो अल्लाह और अंतिम दिन की आशा रखता हो। और जो कोई मुँह फेरे तो अल्लाह तो निस्पृह, अपने आप में स्वयं प्रशंसित है",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "En ellos tienen un bello ejemplo quienes anhelan el encuentro con Dios y la recompensa el Día del Juicio. Pero quien se aparte, sepa que Él es el Opulento, el Loable",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Vous avez certes eu en eux un bel exemple [à suivre], pour celui qui espère en Allah et en le Jour dernier; mais quiconque se détourne... alors Allah Se suffit à Lui-même et est Digne de louange",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "তোমরা যারা আল্লাহ ও পরকাল প্রত্যাশা কর, তোমাদের জন্য তাদের মধ্যে উত্তম আদর্শ রয়েছে। আর যে মুখ ফিরিয়ে নেয়, তার জানা উচিত যে, আল্লাহ বেপরওয়া, প্রশংসার মালিক।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Com efeito, há neles, belo paradigma para vós, para quem espera em Allah e no Derradeiro Dia. E quem volta as costas, por certo, Allah é O Bastante a Si Mesmo, O Louvável",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Они были прекрасным примером для вас - для тех, кто надеется на Аллаха и на Последний день. А если кто-либо отвернется, то ведь Аллах - Богатый, Достохвальный",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "تم (مسلمانوں) کو یعنی جو کوئی خدا (کے سامنے جانے) اور روز آخرت (کے آنے) کی امید رکھتا ہو اسے ان لوگوں کی نیک چال چلنی (ضرور) ہے۔ اور روگردانی کرے تو خدا بھی بےپرواہ اور سزاوار حمد (وثنا) ہے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_060_007",
+      "reference": {
+        "surah_number": 60,
+        "surah_name": "Al-Mumtahana",
+        "surah_name_ar": "سُوْرَةُ الْمُمْتَحِنَةِ",
+        "surah_name_translation": "She that is to be examined",
+        "ayah_number": 7,
+        "juz": 28,
+        "revelation_type": "Madina"
+      },
+      "arabic_word_count": 15,
+      "translations": {
+        "ar": {
+          "text": "۞عَسَى ٱللَّهُ أَن يَجۡعَلَ بَيۡنَكُمۡ وَبَيۡنَ ٱلَّذِينَ عَادَيۡتُم مِّنۡهُم مَّوَدَّةࣰۚ وَٱللَّهُ قَدِيرࣱۚ وَٱللَّهُ غَفُورࣱ رَّحِيمࣱ‏",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "˹In time,˺ Allah may bring about goodwill between you and those of them you ˹now˺ hold as enemies. For Allah is Most Capable. And Allah is All-Forgiving, Most Merciful",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "真主或许在你们和你们所仇视的人之间造化友谊，真主是全能的；真主是至赦的，是至慈的。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "आशा है कि अल्लाह तुम्हारे और उनके बीच, जिनके बीच, जिनसे तुमने शत्रुता मोल ली है, प्रेम-भाव उत्पन्न कर दे। अल्लाह बड़ी सामर्थ्य रखता है और अल्लाह बहुत क्षमाशील, अत्यन्त दयावान है",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Es posible que Dios haga surgir afecto mutuo entre ustedes y los que ahora son sus enemigos. Dios tiene poder para hacerlo, porque es Perdonador, Misericordioso",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Il se peut qu'Allah établisse de l'amitié entre vous et ceux d'entre eux dont vous avez été les ennemis. Et Allah est Omnipotent et Allah est Pardonneur et Très Miséricordieux",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "যারা তোমাদের শত্রু আল্লাহ তাদের মধ্যে ও তোমাদের মধ্যে সম্ভবতঃ বন্ধুত্ব সৃষ্টি করে দেবেন। আল্লাহ সবই করতে পারেন এবং আল্লাহ ক্ষমাশীল, করুণাময়।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Quiçá, Allah faça existir afeto entre vós e aqueles com quem vos inimizastes, dentre eles. E Allah é Onipotente. E Allah é Perdoador, Misericordiador",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Может быть, Аллах установит дружбу между вами и теми, с кем вы враждуете. Аллах - Всемогущий. Аллах - Прощающий, Милосердный",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "عجب نہیں کہ خدا تم میں اور ان لوگوں میں جن سے تم دشمنی رکھتے ہو دوستی پیدا کردے۔ اور خدا قادر ہے اور خدا بخشنے والا مہربان ہے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_060_008",
+      "reference": {
+        "surah_number": 60,
+        "surah_name": "Al-Mumtahana",
+        "surah_name_ar": "سُوْرَةُ الْمُمْتَحِنَةِ",
+        "surah_name_translation": "She that is to be examined",
+        "ayah_number": 8,
+        "juz": 28,
+        "revelation_type": "Madina"
+      },
+      "arabic_word_count": 21,
+      "translations": {
+        "ar": {
+          "text": "لَّا يَنۡهَىٰكُمُ ٱللَّهُ عَنِ ٱلَّذِينَ لَمۡ يُقَٰتِلُوكُمۡ فِي ٱلدِّينِ وَلَمۡ يُخۡرِجُوكُم مِّن دِيَٰرِكُمۡ أَن تَبَرُّوهُمۡ وَتُقۡسِطُوٓاْ إِلَيۡهِمۡۚ إِنَّ ٱللَّهَ يُحِبُّ ٱلۡمُقۡسِطِينَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Allah does not forbid you from dealing kindly and fairly with those who have neither fought nor driven you out of your homes. Surely Allah loves those who are fair",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "未曾为你们的宗教而对你们作战，也未曾把你们从故乡驱逐出境者，真主并不禁止你们怜悯他们，公平待遇他们。真主确是喜爱公平者的。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "अल्लाह तुम्हें इससे नहीं रोकता कि तुम उन लोगों के साथ अच्छा व्यवहार करो और उनके साथ न्याय करो, जिन्होंने तुमसे धर्म के मामले में युद्ध नहीं किया और न तुम्हें तुम्हारे अपने घरों से निकाला। निस्संदेह अल्लाह न्याय करनेवालों को पसन्द करता है",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Dios no les prohíbe hacer el bien y tratar con justicia a quienes no los han combatido por causa de la religión ni los han expulsado de sus hogares, porque Dios ama a los que actúan con justicia",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Allah ne vous défend pas d'être bienfaisants et équitables envers ceux qui ne vous ont pas combattus pour la religion et ne vous ont pas chassés de vos demeures. Car Allah aime les équitables",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "ধর্মের ব্যাপারে যারা তোমাদের বিরুদ্ধে লড়াই করেনি এবং তোমাদেরকে দেশ থেকে বহিস্কৃত করেনি, তাদের প্রতি সদাচরণ ও ইনসাফ করতে আল্লাহ তোমাদেরকে নিষেধ করেন না। নিশ্চয় আল্লাহ ইনসাফকারীদেরকে ভালবাসেন।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Allah não vos coíbe de serdes blandiciosos e equânimes para com os que não vos combateram, na religião, e não vos fizeram sair de vossos lares. Por certo, Allah ama os equânimes",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Аллах не запрещает вам быть добрыми и справедливыми с теми, которые не сражались с вами из-за религии и не изгоняли вас из ваших жилищ. Воистину, Аллах любит беспристрастных",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "جن لوگوں نے تم سے دین کے بارے میں جنگ نہیں کی اور نہ تم کو تمہارے گھروں سے نکالا ان کے ساتھ بھلائی اور انصاف کا سلوک کرنے سے خدا تم کو منع نہیں کرتا۔ خدا تو انصاف کرنے والوں کو دوست رکھتا ہے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_060_009",
+      "reference": {
+        "surah_number": 60,
+        "surah_name": "Al-Mumtahana",
+        "surah_name_ar": "سُوْرَةُ الْمُمْتَحِنَةِ",
+        "surah_name_translation": "She that is to be examined",
+        "ayah_number": 9,
+        "juz": 28,
+        "revelation_type": "Madina"
+      },
+      "arabic_word_count": 21,
+      "translations": {
+        "ar": {
+          "text": "إِنَّمَا يَنۡهَىٰكُمُ ٱللَّهُ عَنِ ٱلَّذِينَ قَٰتَلُوكُمۡ فِي ٱلدِّينِ وَأَخۡرَجُوكُم مِّن دِيَٰرِكُمۡ وَظَٰهَرُواْ عَلَىٰٓ إِخۡرَاجِكُمۡ أَن تَوَلَّوۡهُمۡۚ وَمَن يَتَوَلَّهُمۡ فَأُوْلَٰٓئِكَ هُمُ ٱلظَّٰلِمُونَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Allah only forbids you from befriending those who have fought you for ˹your˺ faith, driven you out of your homes, or supported ˹others˺ in doing so. And whoever takes them as friends, then it is they who are the ˹true˺ wrongdoers",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "他只禁止你们结交曾为你们的宗教而对你们作战，曾把你们从故乡驱逐出境，曾协助别人驱逐你们的人。谁与他们结交，谁是不义者。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "अल्लाह तो तुम्हें केवल उन लोगों से मित्रता करने से रोकता है जिन्होंने धर्म के मामले में तुमसे युद्ध किया और तुम्हें तुम्हारे अपने घरों से निकाला और तुम्हारे निकाले जाने के सम्बन्ध में सहायता की। जो लोग उनसे मित्रता करें वही ज़ालिम है",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Dios solo les prohíbe que tomen por aliados a quienes los combaten a causa de la religión y los han expulsado de sus hogares o han contribuido a su expulsión. Sepan que quienes los tomen como aliados estarán cometiendo una injusticia",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Allah vous défend seulement de prendre pour alliés ceux qui vous ont combattus pour la religion, chassés de vos demeures et ont aidé à votre expulsion. Et ceux qui les prennent pour alliés sont les injustes",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "আল্লাহ কেবল তাদের সাথে বন্ধুত্ব করতে নিষেধ করেন, যারা ধর্মের ব্যাপারে তোমাদের বিরুদ্ধে যুদ্ধ করেছে, তোমাদেরকে দেশ থেকে বহিস্কৃত করেছে এবং বহিস্কারকার্যে সহায়তা করেছে। যারা তাদের সাথে বন্ধুত্ব করে তারাই জালেম।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Apenas, Allah coíbe-vos de serdes aliados aos que vos combateram, na religião e vos fizeram sair de vossos lares, e auxiliaram expulsar-vos. E quem se alia a eles, esses são os injustos",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Аллах запрещает вам дружить только с теми, которые сражались с вами из-за религии, выгоняли вас из ваших жилищ и способствовали вашему изгнанию. А те, которые берут их себе в помощники и друзья, являются беззаконниками",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "خدا ان ہی لوگوں کے ساتھ تم کو دوستی کرنے سے منع کرتا ہے جنہوں نے تم سے دین کے بارے میں لڑائی کی اور تم کو تمہارے گھروں سے نکالا اور تمہارے نکالنے میں اوروں کی مدد کی۔ تو جو لوگ ایسوں سے دوستی کریں گے وہی ظالم ہیں",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_060_010",
+      "reference": {
+        "surah_number": 60,
+        "surah_name": "Al-Mumtahana",
+        "surah_name_ar": "سُوْرَةُ الْمُمْتَحِنَةِ",
+        "surah_name_translation": "She that is to be examined",
+        "ayah_number": 10,
+        "juz": 28,
+        "revelation_type": "Madina"
+      },
+      "arabic_word_count": 55,
+      "translations": {
+        "ar": {
+          "text": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓاْ إِذَا جَآءَكُمُ ٱلۡمُؤۡمِنَٰتُ مُهَٰجِرَٰتࣲ فَٱمۡتَحِنُوهُنَّۖ ٱللَّهُ أَعۡلَمُ بِإِيمَٰنِهِنَّۖ فَإِنۡ عَلِمۡتُمُوهُنَّ مُؤۡمِنَٰتࣲ فَلَا تَرۡجِعُوهُنَّ إِلَى ٱلۡكُفَّارِۖ لَا هُنَّ حِلࣱّ لَّهُمۡ وَلَا هُمۡ يَحِلُّونَ لَهُنَّۖ وَءَاتُوهُم مَّآ أَنفَقُواْۚ وَلَا جُنَاحَ عَلَيۡكُمۡ أَن تَنكِحُوهُنَّ إِذَآ ءَاتَيۡتُمُوهُنَّ أُجُورَهُنَّۚ وَلَا تُمۡسِكُواْ بِعِصَمِ ٱلۡكَوَافِرِ وَسۡـَٔلُواْ مَآ أَنفَقۡتُمۡ وَلۡيَسۡـَٔلُواْ مَآ أَنفَقُواْۚ ذَٰلِكُمۡ حُكۡمُ ٱللَّهِ يَحۡكُمُ بَيۡنَكُمۡۖ وَٱللَّهُ عَلِيمٌ حَكِيمࣱ‏",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "O believers! When the believing women come to you as emigrants, test their intentions—their faith is best known to Allah—and if you find them to be believers, then do not send them back to the disbelievers. These ˹women˺ are not lawful ˹wives˺ for the disbelievers, nor are the disbelievers lawful ˹husbands˺ for them. ˹But˺ repay the disbelievers whatever ˹dowries˺ they had paid. And there is no blame on you if you marry these ˹women˺ as long as you pay them their dowries. And do not hold on to marriage with polytheistic women. ˹But˺ demand ˹repayment of˺ whatever ˹dowries˺ you had paid, and let the disbelievers do the same. That is the judgment of Allah—He judges between you. And Allah is All-Knowing, All-Wise",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "信道的人们啊！当信女们迁移而来的时候，你们当试验她们。真主是至知她们的信德的--如果你们认为她们确是信女，那末，就不要使她们再归不信道的丈夫。她们对於他们是不合法的，他们对於她们也是不合法的。你们应当把他们所纳的聘礼偿还他们。当你们把她们的聘礼交付给她们的时候，你们娶她们为妻，对於你们是毫无罪过的。你们不要坚持不信道的妻子的婚约，你们当索回你们所纳的聘礼，叫他们也索回他们所纳的聘礼。这是真主的律例，他依此而替你们判决。真主是全知的，是至睿的。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "ऐ ईमान लानेवालो! जब तुम्हारे पास ईमान की दावेदार स्त्रियाँ हिजरत करके आएँ तो तुम उन्हें जाँच लिया करो। यूँ तो अल्लाह उनके ईमान से भली-भाँति परिचित है। फिर यदि वे तुम्हें ईमानवाली मालूम हो, तो उन्हें इनकार करनेवालों (अधर्मियों) की ओर न लौटाओ। न तो वे स्त्रियाँ उनके लिए वैद्य है और न वे उन स्त्रियों के लिए वैद्य है। और जो कुछ उन्होंने ख़र्च किया हो तुम उन्हें दे दो और इसमें तुम्हारे लिए कोई गुनाह नहीं कि तुम उनसे विवाह कर लो, जबकि तुम उन्हें महर अदा कर दो। और तुम स्वयं भी इनकार करनेवाली स्त्रियों के सतीत्व को अपने अधिकार में न रखो। और जो कुछ तुमने ख़र्च किया हो माँग लो। और उन्हें भी चाहिए कि जो कुछ उन्होंने ख़र्च किया हो माँग ले। यह अल्लाह का आदेश है। वह तुम्हारे बीच फ़ैसला करता है। अल्लाह सर्वज्ञ, तत्वदर्शी है",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "¡Oh, creyentes! Cuando mujeres creyentes lleguen como emigrantes, comprueben su fe. Dios conoce su fe. Si corroboran que son creyentes, entonces no las devuelvan a los que se negaron a creer. Ellas no son lícitas para ellos ni ellos lo son para ellas. Devuelvan a sus exmaridos la dote que ellos les hayan dado, y sepan que no hay nada reprochable en que los creyentes se casen con ellas, siempre que les concedan la dote correspondiente. No deben ustedes, por su parte, retener a las mujeres que se niegan a creer, pero pueden exigir que se les devuelva lo que hayan dado como dote, como ellos también tienen derecho a exigirla. Esa es la ley de Dios que prescribió para ustedes. Dios es Sapiente, Sabio",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "O vous qui avez cru! Quand les croyantes viennent à vous en émigrées, éprouvez-les; Allah connaît mieux leur foi; si vous constatez qu'elles sont croyantes, ne les renvoyez pas aux mécréants. Elles ne sont pas licites [en tant qu'épouses] pour eux, et eux non plus ne sont pas licites [en tant qu'époux] pour elles. Et rendez-leur ce qu'ils ont dépensé (comme mahr). Il ne vous sera fait aucun grief en vous mariant avec elles quand vous leur aurez donné leur mahr. Et ne gardez pas de liens conjugaux avec les mécréantes. Réclamez ce que vous avez dépensé et que (les mécréants) aussi réclament ce qu'ils ont dépensé. Tel est le jugement d'Allah par lequel Il juge entre vous, et Allah est Omniscient et Sage",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "মুমিনগণ, যখন তোমাদের কাছে ঈমানদার নারীরা হিজরত করে আগমন করে, তখন তাদেরকে পরীক্ষা কর। আল্লাহ তাদের ঈমান সম্পর্কে সম্যক অবগত আছেন। যদি তোমরা জান যে, তারা ঈমানদার, তবে আর তাদেরকে কাফেরদের কাছে ফেরত পাঠিও না। এরা কাফেরদের জন্যে হালাল নয় এবং কাফেররা এদের জন্যে হালাল নয়। কাফেররা যা ব্যয় করেছে, তা তাদের দিয়ে দাও। তোমরা, এই নারীদেরকে প্রাপ্য মোহরানা দিয়ে বিবাহ করলে তোমাদের অপরাধ হবে না। তোমরা কাফের নারীদের সাথে দাম্পত্য সম্পর্ক বজায় রেখো না। তোমরা যা ব্যয় করেছ, তা চেয়ে নাও এবং তারাও চেয়ে নিবে যা তারা ব্যয় করেছে। এটা আল্লাহর বিধান; তিনি তোমাদের মধ্যে ফয়সালা করেন। আল্লাহ সর্বজ্ঞ প্রজ্ঞাময়।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Ó vós que credes! Quando as crentes vos chegarem, como emigrantes, examinai-as. Allah é bem Sabedor de sua Fé! Então, se as considerais crentes, não as façais retornar aos renegadores da Fé. Elas não lhes são lícitas nem eles lhes são lícitos. E concedei-lhes o que despenderam. E não há culpa, sobre vós, em as esposardes, quando lhes concedeis seu prêmio. E não retenhais os laços matrimoniais das renegadoras da Fé; e pedi o que despendestes, e que eles peçam o que despenderam. Esse é o julgamento de Allah. Ele julga entre vós. E Allah é Onisciente, Sábio",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "О те, которые уверовали! Когда к вам прибывают переселившиеся верующие женщины, то подвергайте их испытанию. Аллаху лучше знать об их вере. Если вы узнаете, что они являются верующими, то не возвращайте их неверующим, ибо им не дозволено жениться на них, а им не дозволено выходить замуж за них. Возвращайте им (неверующим) то, что они потратили на брачный дар. На вас не будет греха, если вы женитесь на них после уплаты их вознаграждения (брачного дара). Не держитесь за узы с неверующими женами и требуйте назад то, что вы потратили на брачный дар. И пусть они (неверующие) требуют то, что они потратили на брачный дар. Таково решение Аллаха. Он решает между вами. Аллах - Знающий, Мудрый",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "مومنو! جب تمہارے پاس مومن عورتیں وطن چھوڑ کر آئیں تو ان کی آزمائش کرلو۔ (اور) خدا تو ان کے ایمان کو خوب جانتا ہے۔ سو اگر تم کو معلوم ہو کہ مومن ہیں تو ان کو کفار کے پاس واپس نہ بھیجو۔ کہ نہ یہ ان کو حلال ہیں اور نہ وہ ان کو جائز۔ اور جو کچھ انہوں نے (ان پر) خرچ کیا ہو وہ ان کو دے دو۔ اور تم پر کچھ گناہ نہیں کہ ان عورتوں کو مہر دے کر ان سے نکاح کرلو اور کافر عورتوں کی ناموس کو قبضے میں نہ رکھو (یعنی کفار کو واپس دے دو) اور جو کچھ تم نے ان پر خرچ کیا ہو تم ان سے طلب کرلو اور جو کچھ انہوں نے (اپنی عورتوں پر) خرچ کیا ہو وہ تم سے طلب کرلیں۔ یہ خدا کا حکم ہے جو تم میں فیصلہ کئے دیتا ہے اور خدا جاننے والا حکمت والا ہے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_060_011",
+      "reference": {
+        "surah_number": 60,
+        "surah_name": "Al-Mumtahana",
+        "surah_name_ar": "سُوْرَةُ الْمُمْتَحِنَةِ",
+        "surah_name_translation": "She that is to be examined",
+        "ayah_number": 11,
+        "juz": 28,
+        "revelation_type": "Madina"
+      },
+      "arabic_word_count": 21,
+      "translations": {
+        "ar": {
+          "text": "وَإِن فَاتَكُمۡ شَيۡءࣱ مِّنۡ أَزۡوَٰجِكُمۡ إِلَى ٱلۡكُفَّارِ فَعَاقَبۡتُمۡ فَـَٔاتُواْ ٱلَّذِينَ ذَهَبَتۡ أَزۡوَٰجُهُم مِّثۡلَ مَآ أَنفَقُواْۚ وَٱتَّقُواْ ٱللَّهَ ٱلَّذِيٓ أَنتُم بِهِۦ مُؤۡمِنُونَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "And if any of your wives desert you to the disbelievers, and later you take spoils from them, then pay those whose wives have gone, the equivalent of whatever ˹dowry˺ they had paid. And be mindful of Allah, in Whom you believe",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "如果你们的妻子，有脱离你们而归不信道者的，那末，当你们轮到交聘的时候，你们应当把妻子脱离者所纳的聘礼交付他们。你们当敬畏你们所信仰的真主。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "और यदि तुम्हारी पत्नि यो (के मह्रों) में से कुछ तुम्हारे हाथ से निकल जाए और इनकार करनेवालों (अधर्मियों) की ओर रह जाए, फिर तुम्हारी नौबत आए, जो जिन लोगों की पत्नियों चली गई है, उन्हें जितना उन्होंने ख़र्च किया हो दे दो। और अल्लाह का डर रखो, जिसपर तुम ईमान रखते हो",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "A aquellos cuyas esposas se hayan ido con los que se negaron a creer y los perjudiquen, denles una compensación acorde a lo que gastaron. Tengan temor de Dios, en Quien ustedes creen",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Et si quelqu'une de vos épouses s'échappe vers les mécréants, et que vous fassiez des représailles, restituez à ceux dont les épouses sont parties autant que ce qu'ils avaient dépensé. Craignez Allah en qui vous croyez",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "তোমাদের স্ত্রীদের মধ্যে যদি কেউ হাতছাড়া হয়ে কাফেরদের কাছে থেকে যায়, অতঃপর তোমরা সুযোগ পাও, তখন যাদের স্ত্রী হাতছাড়া হয়ে গেছে, তাদেরকে তাদের ব্যয়কৃত অর্থের সমপরিমাণ অর্থ প্রদান কর এবং আল্লাহকে ভয় কর, যার প্রতি তোমরা বিশ্বাস রাখ।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E, se uma de vossas mulheres vos abandona, indo para os renegadores da Fé e, após um combate, obtendes espólios, concedei àqueles, cujas mulheres se foram, o equivalente ao que despenderam. E temei a Allah, de Quem sois crentes",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Если какая-либо из ваших жен ушла от вас к неверующим, после чего вы получили военную добычу, то отдайте тем, жены которых ушли, потраченное ими на брачный дар. Бойтесь Аллаха, в Которого вы веруете",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور اگر تمہاری عورتوں میں سے کوئی عورت تمہارے ہاتھ سے نکل کر کافروں کے پاس چلی جائے (اور اس کا مہر وصول نہ ہوا ہو) پھر تم ان سے جنگ کرو (اور ان سے تم کو غنیمت ہاتھ لگے) تو جن کی عورتیں چلی گئی ہیں ان کو (اس مال میں سے) اتنا دے دو جتنا انہوں نے خرچ کیا تھا اور خدا سے جس پر تم ایمان لائے ہو ڈرو",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_060_012",
+      "reference": {
+        "surah_number": 60,
+        "surah_name": "Al-Mumtahana",
+        "surah_name_ar": "سُوْرَةُ الْمُمْتَحِنَةِ",
+        "surah_name_translation": "She that is to be examined",
+        "ayah_number": 12,
+        "juz": 28,
+        "revelation_type": "Madina"
+      },
+      "arabic_word_count": 39,
+      "translations": {
+        "ar": {
+          "text": "يَٰٓأَيُّهَا ٱلنَّبِيُّ إِذَا جَآءَكَ ٱلۡمُؤۡمِنَٰتُ يُبَايِعۡنَكَ عَلَىٰٓ أَن لَّا يُشۡرِكۡنَ بِٱللَّهِ شَيۡـࣰٔ ا وَلَا يَسۡرِقۡنَ وَلَا يَزۡنِينَ وَلَا يَقۡتُلۡنَ أَوۡلَٰدَهُنَّ وَلَا يَأۡتِينَ بِبُهۡتَٰنࣲ يَفۡتَرِينَهُۥ بَيۡنَ أَيۡدِيهِنَّ وَأَرۡجُلِهِنَّ وَلَا يَعۡصِينَكَ فِي مَعۡرُوفࣲ فَبَايِعۡهُنَّ وَٱسۡتَغۡفِرۡ لَهُنَّ ٱللَّهَۚ إِنَّ ٱللَّهَ غَفُورࣱ رَّحِيمࣱ‏",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "O Prophet! When the believing women come to you, pledging to you that they will neither associate anything with Allah ˹in worship˺, nor steal, nor fornicate, nor kill their children, nor falsely attribute ˹illegitimate˺ children to their husbands, nor disobey you in what is right, then accept their pledge, and ask Allah to forgive them. Surely Allah is All-Forgiving, Most Merciful",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "先知啊！如果信女们到你面前来与你誓约：她们不以任何物配真主，不偷盗，不通奸，不杀自己的儿女，不以别人的儿子冒充丈夫的儿子，不违背你的合理的命令，那末，你当与她们誓约，你当为她们向真主告饶。真主确是至赦的，确是至慈的。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "ऐ नबी! जब तुम्हारे पास ईमानवाली स्त्रियाँ आकर तुमसे इसपर 'बैअत' करे कि वे अल्लाह के साथ किसी चीज़ को साझी नहीं ठहराएँगी और न चोरी करेंगी और न व्यभिचार करेंगी, और न अपनी औलाद की हत्या करेंगी और न अपने हाथों और पैरों को बीच कोई आरोप घड़कर लाएँगी. और न किसी भले काम में तुम्हारी अवज्ञा करेंगी, तो उनसे 'बैअत' ले लो और उनके लिए अल्लाह से क्षमा की प्रार्थना करो। निश्चय ही अत्यन्त बहुत क्षमाशील, अत्यन्त दयावान है",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "¡Oh, Profeta! Cuando las mujeres creyentes se presenten ante ti para prestarte juramento de fidelidad, comprometiéndose a no cometer idolatría, no robar, no cometer fornicación ni adulterio, no matar a sus hijos, no decir ninguna calumnia y a no desobedecerte, tómales el juramento de fidelidad y pide perdón a Dios por ellas. Dios es Absolvedor, Misericordioso",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "O Prophète! Quand les croyantes viennent te prêter serment d'allégeance, [et en jurent] qu'elles n'associeront rien à Allah, qu'elles ne voleront pas, qu'elles ne se livreront pas à l'adultère, qu'elles ne tueront pas leurs propres enfants, qu'elles ne commettront aucune infamie ni avec leurs mains ni avec leurs pieds et qu'elles ne désobéiront pas en ce qui est convenable, alors reçois leur serment d'allégeance, et implore d'Allah le pardon pour elles. Allah est certes, Pardonneur et Très Miséricordieux",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "হে নবী, ঈমানদার নারীরা যখন আপনার কাছে এসে আনুগত্যের শপথ করে যে, তারা আল্লাহর সাথে কাউকে শরীক করবে না, চুরি করবে না, ব্যভিচার করবে না, তাদের সন্তানদেরকে হত্যা করবে না, জারজ সন্তানকে স্বামীর ঔরস থেকে আপন গর্ভজাত সন্তান বলে মিথ্যা দাবী করবে না এবং ভাল কাজে আপনার অবাধ্যতা করবে না, তখন তাদের আনুগত্য গ্রহণ করুন এবং তাদের জন্যে আল্লাহর কাছে ক্ষমা প্রার্থনা করুন। নিশ্চয় আল্লাহ ক্ষমাশীল অত্যন্ত দয়ালু।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Ó Profeta! Quando as crentes te chegarem, para se comprometerem a nada associar a Allah e a não roubar e a não adulterar e a não matar a seus filhos e a não cometer infâmia, que forjam entre as próprias mãos e os pés e a não te desobedecer no que for conveniente, aceita seu compromisso e implora a Allah perdão para elas. Por certo, Allah é Perdoador, Misericordiador",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "О Пророк! Если к тебе придут верующие женщины, чтобы присягнуть в том, что они не будут приобщать сотоварищей к Аллаху, красть, прелюбодействовать, убивать своих детей, покрывать клеветой то, что между их руками и ногами, и ослушаться тебя в благих делах, то прими у них присягу и попроси у Аллаха прощения для них. Воистину, Аллах - Прощающий, Милосердный",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اے پیغمبر! جب تمہارے پاس مومن عورتیں اس بات پر بیعت کرنے کو آئیں کہ خدا کے ساتھ نہ شرک کریں گی نہ چوری کریں گی نہ بدکاری کریں گی نہ اپنی اولاد کو قتل کریں گی نہ اپنے ہاتھ پاؤں میں کوئی بہتان باندھ لائیں گی اور نہ نیک کاموں میں تمہاری نافرمانی کریں گی تو ان سے بیعت لے لو اور ان کے لئے خدا سے بخشش مانگو۔ بےشک خدا بخشنے والا مہربان ہے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_060_013",
+      "reference": {
+        "surah_number": 60,
+        "surah_name": "Al-Mumtahana",
+        "surah_name_ar": "سُوْرَةُ الْمُمْتَحِنَةِ",
+        "surah_name_translation": "She that is to be examined",
+        "ayah_number": 13,
+        "juz": 28,
+        "revelation_type": "Madina"
+      },
+      "arabic_word_count": 19,
+      "translations": {
+        "ar": {
+          "text": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُواْ لَا تَتَوَلَّوۡاْ قَوۡمًا غَضِبَ ٱللَّهُ عَلَيۡهِمۡ قَدۡ يَئِسُواْ مِنَ ٱلۡأٓخِرَةِ كَمَا يَئِسَ ٱلۡكُفَّارُ مِنۡ أَصۡحَٰبِ ٱلۡقُبُورِ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "O believers! Do not ally yourselves with a people Allah is displeased with. They already have no hope for the Hereafter, just like the disbelievers lying in ˹their˺ graves",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "信道的人们啊！你们不要结交真主所谴怒的民众，他们对後世确已绝望，犹如不信道的人对坟里的人绝望一样。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "ऐ ईमान लानेवालो! ऐसे लोगों से मित्रता न करो जिनपर अल्लाह का प्रकोप हुआ, वे आख़िरत से निराश हो चुके है, जिस प्रकार इनकार करनेवाले क़ब्रवालों से निराश हो चुके है",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "¡Creyentes! No tomen por aliados a quienes han caído en la ira de Dios, pues habrán perdido toda esperanza en la recompensa de la otra vida, como ocurre también con los que niegan la resurrección de los muertos",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "O vous qui avez cru! Ne prenez pas pour alliés des gens contre lesquels Allah est courroucé et qui désespèrent de l'au-delà, tout comme les mécréants désespèrent des gens des tombeaux",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "মুমিনগণ, আল্লাহ যে জাতির প্রতি রুষ্ট, তোমরা তাদের সাথে বন্ধুত্ব করো না। তারা পরকাল সম্পর্কে নিরাশ হয়ে গেছে যেমন কবরস্থ কাফেররা নিরাশ হয়ে গেছে।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Ó vós que credes! Não vos alieis a um povo contra quem Allah Se irou; com efeito, eles se desesperaram da Derradeira Vida, como os renegadores da Fé se desesperaram dos companheiros dos sepulcros",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "О те, которые уверовали! Не дружите с теми, на кого разгневался Аллах. Они потеряли надежду на Последнюю жизнь, как потеряли ее неверующие обитатели могил (или как неверующие потеряли надежду на воскрешение обитателей могил)",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "مومنو! ان لوگوں سے جن پر خدا غصے ہوا ہے دوستی نہ کرو (کیونکہ) جس طرح کافروں کو مردوں (کے جی اُٹھنے) کی امید نہیں اسی طرح ان لوگوں کو بھی آخرت (کے آنے) کی امید نہیں",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    }
+  ]
+}

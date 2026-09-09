@@ -1,0 +1,621 @@
+{
+  "surah": 63,
+  "verses": [
+    {
+      "content_id": "quran_063_001",
+      "reference": {
+        "surah_number": 63,
+        "surah_name": "Al-Munaafiqoon",
+        "surah_name_ar": "سُوْرَةُ الْمُنَافِقُوْنَ",
+        "surah_name_translation": "The Hypocrites",
+        "ayah_number": 1,
+        "juz": 28,
+        "revelation_type": "Madina"
+      },
+      "arabic_word_count": 17,
+      "translations": {
+        "ar": {
+          "text": "إِذَا جَآءَكَ ٱلۡمُنَٰفِقُونَ قَالُواْ نَشۡهَدُ إِنَّكَ لَرَسُولُ ٱللَّهِۗ وَٱللَّهُ يَعۡلَمُ إِنَّكَ لَرَسُولُهُۥ وَٱللَّهُ يَشۡهَدُ إِنَّ ٱلۡمُنَٰفِقِينَ لَكَٰذِبُونَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "When the hypocrites come to you ˹O Prophet˺, they say, “We bear witness that you are certainly the Messenger of Allah”—and surely Allah knows that you are His Messenger—but Allah bears witness that the hypocrites are truly liars",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "当伪信者来见你的时候，他们说：我们作证，你确是真主的使者。真主知道你确是他的使者，真主作证，伪信的人们确是说谎的。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "जब मुनाफ़िक (कपटाचारी) तुम्हारे पास आते है तो कहते है, \"हम गवाही देते है कि निश्चय ही आप अल्लाह के रसूल है।\" अल्लाह जानता है कि निस्संदेह तुम उसके रसूल हो, किेन्तु अल्लाह गवाही देता है कि ये मुनाफ़िक बिलकुल झूठे है",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Cuando los hipócritas se presentan ante ti [oh, Mujámmad], dicen: \"Atestiguamos que eres el Mensajero de Dios\". Dios bien sabe que eres el Mensajero, pero Él mismo atestigua que los hipócritas son mentirosos",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Quand les hypocrites viennent à toi, ils disent: «Nous attestons que tu es certes le Messager d'Allah» Allah sait que tu es vraiment Son messager; et Allah atteste que les hypocrites sont assurément des menteurs",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "মুনাফিকরা আপনার কাছে এসে বলেঃ আমরা সাক্ষ্য দিচ্ছি যে আপনি নিশ্চয়ই আল্লাহর রসূল। আল্লাহ জানেন যে, আপনি অবশ্যই আল্লাহর রসূল এবং আল্লাহ সাক্ষ্য দিচ্ছেন যে, মুনাফিকরা অবশ্যই মিথ্যাবাদী।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Quando os hipócritas te chegam, dizem: \"Testemunhamos que, por certo, tu és O Mensageiro de Allah.\" E Allah sabe que, por certo, tu és Seu Mensageiro, e Allah testemunha que, por certo, os hipócritas são mentirosos",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Когда лицемеры приходят к тебе, они говорят: «Свидетельствуем, что ты - Посланник Аллаха». Аллах знает, что ты - Его Посланник, и Аллах свидетельствует, что лицемеры являются лжецами",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "(اے محمدﷺ) جب منافق لوگ تمہارے پاس آتے ہیں تو (از راہ نفاق) کہتے ہیں کہ ہم اقرار کرتے ہیں کہ آپ بےشک خدا کے پیغمبر ہیں اور خدا جانتا ہے کہ درحقیقت تم اس کے پیغمبر ہو لیکن خدا ظاہر کئے دیتا ہے کہ منافق (دل سے اعتقاد نہ رکھنے کے لحاظ سے) جھوٹے ہیں",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_063_002",
+      "reference": {
+        "surah_number": 63,
+        "surah_name": "Al-Munaafiqoon",
+        "surah_name_ar": "سُوْرَةُ الْمُنَافِقُوْنَ",
+        "surah_name_translation": "The Hypocrites",
+        "ayah_number": 2,
+        "juz": 28,
+        "revelation_type": "Madina"
+      },
+      "arabic_word_count": 12,
+      "translations": {
+        "ar": {
+          "text": "ٱتَّخَذُوٓاْ أَيۡمَٰنَهُمۡ جُنَّةࣰ فَصَدُّواْ عَن سَبِيلِ ٱللَّهِۚ إِنَّهُمۡ سَآءَ مَا كَانُواْ يَعۡمَلُونَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "They have made their ˹false˺ oaths as a shield, hindering ˹others˺ from the Way of Allah. Evil indeed is what they do",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "他们以自己的盟誓为护符，妨碍主道。他们的行为真恶劣！",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "उन्होंने अपनी क़समों को ढाल बना रखा है, इस प्रकार वे अल्लाह के मार्ग से रोकते है। निश्चय ही बुरा है जो वे कर रहे है",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "[Los hipócritas] se escudan en sus juramentos para apartar [a algunas personas] del sendero de Dios. ¡Qué pésimo es lo que hacen",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Ils prennent leurs serments pour bouclier et obstruent le chemin d'Allah. Quelles mauvaises choses que ce qu'ils faisaient",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "তারা তাদের শপথসমূহকে ঢালরূপে ব্যবহার করে। অতঃপর তারা আল্লাহর পথে বাধা সৃষ্টি করে। তারা যা করছে, তা খুবই মন্দ।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Tomaram seus juramentos por escudo e afastaram-se do caminho de Allah. Por certo, que vil o que faziam",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Они сделали свои клятвы щитом и сбили других с пути Аллаха. Воистину, скверно то, что они совершают",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "انہوں نے اپنی قسموں کو ڈھال بنا رکھا ہے اور ان کے ذریعے سے (لوگوں کو) راہ خدا سے روک رہے ہیں۔ کچھ شک نہیں کہ جو کام یہ کرتے ہیں برے ہیں",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_063_003",
+      "reference": {
+        "surah_number": 63,
+        "surah_name": "Al-Munaafiqoon",
+        "surah_name_ar": "سُوْرَةُ الْمُنَافِقُوْنَ",
+        "surah_name_translation": "The Hypocrites",
+        "ayah_number": 3,
+        "juz": 28,
+        "revelation_type": "Madina"
+      },
+      "arabic_word_count": 11,
+      "translations": {
+        "ar": {
+          "text": "ذَٰلِكَ بِأَنَّهُمۡ ءَامَنُواْ ثُمَّ كَفَرُواْ فَطُبِعَ عَلَىٰ قُلُوبِهِمۡ فَهُمۡ لَا يَفۡقَهُونَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "This is because they believed and then abandoned faith. Therefore, their hearts have been sealed, so they do not comprehend",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "这是因为他们口称信道，心实不信，他们的心就封闭了，故他们不是明理的。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "यह इस कारण कि वे ईमान लाए, फिर इनकार किया, अतः उनके दिलों पर मुहर लगा दी गई, अब वे कुछ नहीं समझते",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Ello es porque creyeron y luego renegaron, entonces sus corazones fueron sellados y ya no pueden discernir",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "C'est parce qu'en vérité ils ont cru, puis rejeté la foi. Leurs cœurs donc, ont été scellés, de sorte qu'ils ne comprennent rien",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "এটা এজন্য যে, তারা বিশ্বাস করার পর পুনরায় কাফের হয়েছে। ফলে তাদের অন্তরে মোহর মেরে দেয়া হয়েছে। অতএব তারা বুঝে না।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Isso, porque creram; em seguida, renegaram a Fé; então, selaram-se-lhes os corações: e eles nada entendem",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Это потому, что они уверовали, а затем стали неверующими. Затем их сердца были запечатаны, и теперь они не разумеют",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "یہ اس لئے کہ یہ (پہلے تو) ایمان لائے پھر کافر ہوگئے تو ان کے دلوں پر مہر لگادی گئی۔ سو اب یہ سمجھتے ہی نہیں",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_063_004",
+      "reference": {
+        "surah_number": 63,
+        "surah_name": "Al-Munaafiqoon",
+        "surah_name_ar": "سُوْرَةُ الْمُنَافِقُوْنَ",
+        "surah_name_translation": "The Hypocrites",
+        "ayah_number": 4,
+        "juz": 28,
+        "revelation_type": "Madina"
+      },
+      "arabic_word_count": 22,
+      "translations": {
+        "ar": {
+          "text": "۞وَإِذَا رَأَيۡتَهُمۡ تُعۡجِبُكَ أَجۡسَامُهُمۡۖ وَإِن يَقُولُواْ تَسۡمَعۡ لِقَوۡلِهِمۡۖ كَأَنَّهُمۡ خُشُبࣱ مُّسَنَّدَةࣱۖ يَحۡسَبُونَ كُلَّ صَيۡحَةٍ عَلَيۡهِمۡۚ هُمُ ٱلۡعَدُوُّ فَٱحۡذَرۡهُمۡۚ قَٰتَلَهُمُ ٱللَّهُۖ أَنَّىٰ يُؤۡفَكُونَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "When you see them, their appearance impresses you. And when they speak, you listen to their ˹impressive˺ speech. But they are ˹just˺ like ˹worthless˺ planks of wood leaned ˹against a wall˺. They think every cry is against them. They are the enemy, so beware of them. May Allah condemn them! How can they be deluded ˹from the truth˺",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "当你看见他们的时候，他们的体格，将使你赞叹。如果他们说话，你就静听他们的言辞，他们好像木偶样，他们以为一切呐喊，都是对他们而发的。他们确是敌人，故你当谨防他们。愿真主诛灭他们！他们是如何悖谬的呢！",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "तुम उन्हें देखते हो तो उनके शरीर (बाह्य रूप) तुम्हें अच्छे लगते है, औरयदि वे बात करें तो उनकी बात तुम सुनते रह जाओ। किन्तु यह ऐसा ही है मानो वे लकड़ी के कुंदे है, जिन्हें (दीवार के सहारे) खड़ा कर दिया गया हो। हर ज़ोर की आवाज़ को वे अपने ही विरुद्ध समझते है। वही वास्तविक शत्रु हैं, अतः उनसे बचकर रहो। अल्लाह की मार उनपर। वे कहाँ उल्टे फिरे जा रहे है",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Cuando los observas te agrada su aspecto, y cuando hablan prestas atención a sus palabras, pues parecen maderos bien afirmados; pero cada vez que se alza la voz se sobresaltan, porque creen que es contra ellos. Ellos son el enemigo, sé precavido con ellos. Dios los destruirá por haberse desviado tanto",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Et quand tu les vois, leurs corps t'émerveillent; et s'ils parlent tu écoutes leur parole. Ils sont comme des bûches appuyées (contre des murs) et ils pensent que chaque cri est dirigé contre eux. L'ennemi c'est eux. Prends y garde. Qu'Allah les extermine! Comme les voilà détournés (du droit chemin)",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "আপনি যখন তাদেরকে দেখেন, তখন তাদের দেহাবয়ব আপনার কাছে প্রীতিকর মনে হয়। আর যদি তারা কথা বলে, তবে আপনি তাদের কথা শুনেন। তারা প্রাচীরে ঠেকানো কাঠসদৃশ্য। প্রত্যেক শোরগোলকে তারা নিজেদের বিরুদ্ধে মনে করে। তারাই শত্রু, অতএব তাদের সম্পর্কে সতর্ক হোন। ধ্বংস করুন আল্লাহ তাদেরকে। তারা কোথায় বিভ্রান্ত হচ্ছে ?",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E, quando os vês, tu te admiras de seus corpos. E, se falam, ouves seu dito. São como madeiras encostadas. Supõem ser contra eles todo grito. Eles são os inimigos: então, precata-te deles. Que Allah os aniquile! Como se distanciam da Verdade",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Когда ты смотришь на них, их тела восхищают тебя. Когда они говорят, ты слушаешь их слова. Они подобны прислоненным бревнам. Всякий крик они считают обращенным против них. Они являются врагами - остерегайся же их. Да погубит их Аллах! До чего же они отвращены от истины",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور جب تم ان (کے تناسب اعضا) کو دیکھتے ہو تو ان کے جسم تمہیں (کیا ہی) اچھے معلوم ہوتے ہیں۔ اور جب وہ گفتگو کرتے ہیں تو تم ان کی تقریر کو توجہ سے سنتے ہو (مگر فہم وادراک سے خالی) گویا لکڑیاں ہیں جو دیواروں سے لگائی گئی ہیں۔ (بزدل ایسے کہ) ہر زور کی آواز کو سمجھیں (کہ) ان پر بلا آئی۔ یہ (تمہارے) دشمن ہیں ان سے بےخوف نہ رہنا۔ خدا ان کو ہلاک کرے۔ یہ کہاں بہکے پھرتے ہیں",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_063_005",
+      "reference": {
+        "surah_number": 63,
+        "surah_name": "Al-Munaafiqoon",
+        "surah_name_ar": "سُوْرَةُ الْمُنَافِقُوْنَ",
+        "surah_name_translation": "The Hypocrites",
+        "ayah_number": 5,
+        "juz": 28,
+        "revelation_type": "Madina"
+      },
+      "arabic_word_count": 14,
+      "translations": {
+        "ar": {
+          "text": "وَإِذَا قِيلَ لَهُمۡ تَعَالَوۡاْ يَسۡتَغۡفِرۡ لَكُمۡ رَسُولُ ٱللَّهِ لَوَّوۡاْ رُءُوسَهُمۡ وَرَأَيۡتَهُمۡ يَصُدُّونَ وَهُم مُّسۡتَكۡبِرُونَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "When it is said to them, “Come! The Messenger of Allah will pray for you to be forgiven,” they turn their heads ˹in disgust˺, and you see them ˹O Prophet˺ turn away in arrogance",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "有人对他们说：你们来道歉吧，使者将为你们求饯。他们却掉头不顾，你看他们妄自尊大，不肯道歉。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "और जब उनसे कहा जाता है, \"आओ, अल्लाह का रसूल तुम्हारे लिए क्षमा की प्रार्थना करे।\" तो वे अपने सिर मटकाते है और तुम देखते हो कि घमंड के साथ खिंचे रहते है",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Cuando se les dice: \"Vengan, que el Mensajero de Dios pedirá perdón por ustedes\", mueven su cabeza [en señal de burla] y los ves evadirte con soberbia",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Et quand on leur dit: «Venez que le Messager d'Allah implore le pardon pour vous», ils détournent leurs têtes, et tu les vois se détourner tandis qu'ils s'enflent d'orgueil",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "যখন তাদেরকে বলা হয়ঃ তোমরা এস, আল্লাহর রসূল তোমাদের জন্য ক্ষমাপ্রার্থনা করবেন, তখন তারা মাথা ঘুরিয়ে নেয় এবং আপনি তাদেরকে দেখেন যে, তারা অহংকার করে মুখ ফিরিয়ে নেয়।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E, quando se lhes diz: \"Vinde, que o Mensageiro de Allah implorará perdão para vós\", meneiam as cabeças, e tu os vês se afastarem, enquanto soberbos",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Когда им говорят: «Придите, чтобы Посланник Аллаха попросил для вас прощения», - они качают головой, и ты видишь, как они надменно отворачиваются",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور جب ان سے کہا جائے کہ آؤ رسول خدا تمہارے لئے مغفرت مانگیں تو سر ہلا دیتے ہیں اور تم ان کو دیکھو کہ تکبر کرتے ہوئے منہ پھیر لیتے ہیں",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_063_006",
+      "reference": {
+        "surah_number": 63,
+        "surah_name": "Al-Munaafiqoon",
+        "surah_name_ar": "سُوْرَةُ الْمُنَافِقُوْنَ",
+        "surah_name_translation": "The Hypocrites",
+        "ayah_number": 6,
+        "juz": 28,
+        "revelation_type": "Madina"
+      },
+      "arabic_word_count": 18,
+      "translations": {
+        "ar": {
+          "text": "سَوَآءٌ عَلَيۡهِمۡ أَسۡتَغۡفَرۡتَ لَهُمۡ أَمۡ لَمۡ تَسۡتَغۡفِرۡ لَهُمۡ لَن يَغۡفِرَ ٱللَّهُ لَهُمۡۚ إِنَّ ٱللَّهَ لَا يَهۡدِي ٱلۡقَوۡمَ ٱلۡفَٰسِقِينَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "It is the same whether you pray for their forgiveness or not, Allah will not forgive them. Surely Allah does not guide the rebellious people",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "你为他们求饯与否，这在他们，是一样的。真主绝不赦宥他们，真主必定不引导悖逆的民众。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "उनके लिए बराबर है चाहे तुम उनके किए क्षमा की प्रार्थना करो या उनके लिए क्षमा की प्रार्थना न करो। अल्लाह उन्हें कदापि क्षमा न करेगा। निश्चय ही अल्लाह अवज्ञाकारियों को सीधा मार्ग नहीं दिखाया करता",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "[Oh, Mujámmad!] Lo mismo da que pidas perdón por ellos o que no lo hagas, Dios no los perdonará. Dios no guía a la gente corrupta",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "C'est égal, pour eux, que tu implores le pardon pour eux ou que tu ne le fasses pas: Allah ne leur pardonnera jamais, car Allah ne guide pas les gens pervers",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "আপনি তাদের জন্যে ক্ষমাপ্রার্থনা করুন অথবা না করুন, উভয়ই সমান। আল্লাহ কখনও তাদেরকে ক্ষমা করবেন না। আল্লাহ পাপাচারী সম্প্রদায়কে পথপ্রদর্শন করেন না।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "É-lhes igual que implores perdão para eles ou não implores perdão para eles: Allah não os perdoará. Por certo, Allah não guia o povo perverso",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Попросишь ты для них прощения или не станешь просить для них прощения - им все равно. Аллах не простит их. Воистину, Аллах не ведет прямым путем нечестивых людей",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "تم ان کے لئے مغفرت مانگو یا نہ مانگو ان کے حق میں برابر ہے۔ خدا ان کو ہرگز نہ بخشے گا۔ بےشک خدا نافرمانوں کو ہدایت نہیں دیا کرتا",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_063_007",
+      "reference": {
+        "surah_number": 63,
+        "surah_name": "Al-Munaafiqoon",
+        "surah_name_ar": "سُوْرَةُ الْمُنَافِقُوْنَ",
+        "surah_name_translation": "The Hypocrites",
+        "ayah_number": 7,
+        "juz": 28,
+        "revelation_type": "Madina"
+      },
+      "arabic_word_count": 20,
+      "translations": {
+        "ar": {
+          "text": "هُمُ ٱلَّذِينَ يَقُولُونَ لَا تُنفِقُواْ عَلَىٰ مَنۡ عِندَ رَسُولِ ٱللَّهِ حَتَّىٰ يَنفَضُّواْۗ وَلِلَّهِ خَزَآئِنُ ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضِ وَلَٰكِنَّ ٱلۡمُنَٰفِقِينَ لَا يَفۡقَهُونَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "They are the ones who say ˹to one another˺, “Do not spend ˹anything˺ on those ˹emigrants˺ with the Messenger of Allah so that they will break away ˹from him˺.” But to Allah ˹alone˺ belong the treasuries of the heavens and the earth, yet the hypocrites do not comprehend",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "他们说：你们不要供给使者左右的人，以便他们离散。天地的库藏，只是真主，伪信的人们却不明理。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "वे वहीं लोग है जो कहते है, \"उन लोगों पर ख़र्च न करो जो अल्लाह के रसूल के पास रहनेवाले है, ताकि वे तितर-बितर हो जाएँ।\" हालाँकि आकाशों और धरती के ख़जाने अल्लाह ही के है, किन्तु वे मुनाफ़िक़ समझते नहीं",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Ellos dicen: \"No ayuden a los que están con el Mensajero de Dios hasta que lo abandonen\". Es a Dios a quien pertenecen los tesoros de los cielos y de la Tierra, pero los hipócritas no lo comprenden",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Ce sont eux qui disent: «Ne dépensez point pour ceux qui sont auprès du Messager d'Allah, afin qu'ils se dispersent». Et c'est à Allah qu'appartiennent les trésors des cieux et de la terre, mais les hypocrites ne comprennent pas",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "তারাই বলেঃ আল্লাহর রাসূলের সাহচর্যে যারা আছে তাদের জন্যে ব্যয় করো না। পরিণামে তারা আপনা-আপনি সরে যাবে। ভূ ও নভোমন্ডলের ধন-ভান্ডার আল্লাহরই কিন্তু মুনাফিকরা তা বোঝে না।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Eles são os que dizem: \"Não despendais com os que estão junto do Mensageiro de Allah, até que debandem.\" E de Allah são os cofres dos céus e da terra, mas os hipócritas não entendem",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Именно они говорят: «Ничего не тратьте на тех, кто возле Посланника Аллаха, пока они не покинут его». Аллаху принадлежат сокровищницы небес и земли, но лицемеры не понимают этого",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "یہی ہیں جو کہتے ہیں کہ جو لوگ رسول خدا کے پاس (رہتے) ہیں ان پر (کچھ) خرچ نہ کرو۔ یہاں تک کہ یہ (خود بخود) بھاگ جائیں۔ حالانکہ آسمانوں اور زمین کے خزانے خدا ہی کہ ہیں لیکن منافق نہیں سمجھتے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_063_008",
+      "reference": {
+        "surah_number": 63,
+        "surah_name": "Al-Munaafiqoon",
+        "surah_name_ar": "سُوْرَةُ الْمُنَافِقُوْنَ",
+        "surah_name_translation": "The Hypocrites",
+        "ayah_number": 8,
+        "juz": 28,
+        "revelation_type": "Madina"
+      },
+      "arabic_word_count": 17,
+      "translations": {
+        "ar": {
+          "text": "يَقُولُونَ لَئِن رَّجَعۡنَآ إِلَى ٱلۡمَدِينَةِ لَيُخۡرِجَنَّ ٱلۡأَعَزُّ مِنۡهَا ٱلۡأَذَلَّۚ وَلِلَّهِ ٱلۡعِزَّةُ وَلِرَسُولِهِۦ وَلِلۡمُؤۡمِنِينَ وَلَٰكِنَّ ٱلۡمُنَٰفِقِينَ لَا يَعۡلَمُونَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "They say, “If we return to Medina, the honourable will definitely expel the inferior.” But all honour and power belongs to Allah, His Messenger, and the believers, yet the hypocrites do not know",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "他们说：如果我们返回麦地那，尊荣者必将卑贱者驱逐出城。尊荣只是真主和使者以及信士们的，而伪信的人们却不知道！",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "वे कहते है, \"यदि हम मदीना लौटकर गए तो जो अधिक शक्तिवाला है, वह हीनतर (व्यक्तियों) को वहाँ से निकाल बाहर करेगा।\" हालाँकि शक्ति अल्लाह और उसके रसूल और मोमिनों के लिए है, किन्तु वे मुनाफ़िक़ जानते नहीं",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Dicen: \"Si regresamos a la ciudad [de Medina], los más poderosos expulsaremos de ella a los más débiles\". Pero el verdadero poder pertenece a Dios, a Su Mensajero y a los creyentes, aunque los hipócritas no lo saben",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Ils disent: «Si nous retournons à Médine, le plus puissant en fera assurément sortir le plus humble». Or c'est à Allah qu'est la puissance ainsi qu'à Son messager et aux croyants. Mais les hypocrites ne le savent pas",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "তারাই বলেঃ আমরা যদি মদীনায় প্রত্যাবর্তন করি তবে সেখান থেকে সবল অবশ্যই দুর্বলকে বহিস্কৃত করবে। শক্তি তো আল্লাহ তাঁর রসূল ও মুমিনদেরই কিন্তু মুনাফিকরা তা জানে না।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Dizem: \"Se retornarmos a Al-Madinah, em verdade, o mais poderoso de nós fará sair o mais desprezado.\" E de Allah é o poder, e de Seu Mensageiros, e dos crentes, mas os hipócritas não sabem",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Они говорят: «Когда мы вернемся в Медину, то могущественные среди нас непременно изгонят оттуда презренных». Могущество присуще Аллаху, Его Посланнику и верующим, но лицемеры не знают этого",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "کہتے ہیں کہ اگر ہم لوٹ کر مدینے پہنچے تو عزت والے ذلیل لوگوں کو وہاں سے نکال باہر کریں گے۔ حالانکہ عزت خدا کی ہے اور اس کے رسول کی اور مومنوں کی لیکن منافق نہیں جانتے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_063_009",
+      "reference": {
+        "surah_number": 63,
+        "surah_name": "Al-Munaafiqoon",
+        "surah_name_ar": "سُوْرَةُ الْمُنَافِقُوْنَ",
+        "surah_name_translation": "The Hypocrites",
+        "ayah_number": 9,
+        "juz": 28,
+        "revelation_type": "Madina"
+      },
+      "arabic_word_count": 17,
+      "translations": {
+        "ar": {
+          "text": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُواْ لَا تُلۡهِكُمۡ أَمۡوَٰلُكُمۡ وَلَآ أَوۡلَٰدُكُمۡ عَن ذِكۡرِ ٱللَّهِۚ وَمَن يَفۡعَلۡ ذَٰلِكَ فَأُوْلَٰٓئِكَ هُمُ ٱلۡخَٰسِرُونَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "O believers! Do not let your wealth or your children divert you from the remembrance of Allah. For whoever does so, it is they who are the ˹true˺ losers",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "信道的人们啊！你们的财产和子女，不要使你们忽略了记念真主。谁那样做，谁是亏折的。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "ऐ ईमान लानेवालो! तुम्हारे माल तुम्हें अल्लाह की याद से ग़ाफ़िल न कर दें और न तुम्हारी सन्तान ही। जो कोई ऐसा करे तो ऐसे ही लोग घाटे में रहनेवाले है",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "¡Creyentes! Que las posesiones materiales y los hijos no los distraigan del recuerdo de Dios. Pues quienes se alejen del recuerdo de Dios serán los perdedores",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "O vous qui avez cru! Que ni vos biens ni vos enfants ne vous distraient du rappel d'Allah. Et quiconque fait cela... alors ceux-là seront les perdants",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "মুমিনগণ! তোমাদের ধন-সম্পদ ও সন্তান-সন্ততি যেন তোমাদেরকে আল্লাহর স্মরণ থেকে গাফেল না করে। যারা এ কারণে গাফেল হয়, তারাই তো ক্ষতিগ্রস্ত।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Ó vós que credes! Que vossas riquezas e vossos filhos não vos entretenham, da lembrança de Allah. E quem o faz, esses são os perdedores",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "О те, которые уверовали! Пусть ваше имущество и ваши дети не отвлекают вас от поминания Аллаха. А те, которые поступают таким образом, окажутся потерпевшими убыток",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "مومنو! تمہارا مال اور اولاد تم کو خدا کی یاد سے غافل نہ کردے۔ اور جو ایسا کرے گا تو وہ لوگ خسارہ اٹھانے والے ہیں",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_063_010",
+      "reference": {
+        "surah_number": 63,
+        "surah_name": "Al-Munaafiqoon",
+        "surah_name_ar": "سُوْرَةُ الْمُنَافِقُوْنَ",
+        "surah_name_translation": "The Hypocrites",
+        "ayah_number": 10,
+        "juz": 28,
+        "revelation_type": "Madina"
+      },
+      "arabic_word_count": 21,
+      "translations": {
+        "ar": {
+          "text": "وَأَنفِقُواْ مِن مَّا رَزَقۡنَٰكُم مِّن قَبۡلِ أَن يَأۡتِيَ أَحَدَكُمُ ٱلۡمَوۡتُ فَيَقُولَ رَبِّ لَوۡلَآ أَخَّرۡتَنِيٓ إِلَىٰٓ أَجَلࣲ قَرِيبࣲ فَأَصَّدَّقَ وَأَكُن مِّنَ ٱلصَّٰلِحِينَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "And donate from what We have provided for you before death comes to one of you, and you cry, “My Lord! If only You delayed me for a short while, I would give in charity and be one of the righteous.”",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "在死亡降临之前，你们当分舍我赐予你们的，否则，将来人人说：我的主啊！你为何不让我延迟到一个临近的定期，以便我有所施舍，而成为善人呢？",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "हमने तुम्हें जो कुछ दिया है उसमें से ख़र्च करो इससे पहले कि तुममें से किसी की मृत्यु आ जाए और उस समय वह करने लगे, \"ऐ मेरे रब! तूने मुझे कुछ थोड़े समय तक और मुहलत क्यों न दी कि मैं सदक़ा (दान) करता (मुझे मुहलत दे कि मैं सदक़ा करूँ) और अच्छे लोगों में सम्मिलित हो जाऊँ।",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Den en caridad parte de lo que les he provisto, antes de que la muerte les sobrevenga y [recién] entonces digan: \"¡Señor mío! Concédeme un poco más de tiempo para poder hacer caridades y ser de los piadosos",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Et dépensez de ce que Nous vous avons octroyé avant que la mort ne vienne à l'un de vous et qu'il dise alors: «Seigneur! si seulement Tu m'accordais un court délai: je ferais l'aumône et serais parmi les gens de bien»",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "আমি তোমাদেরকে যা দিয়েছি, তা থেকে মৃত্যু আসার আগেই ব্যয় কর। অন্যথায় সে বলবেঃ হে আমার পালনকর্তা, আমাকে আরও কিছুকাল অবকাশ দিলে না কেন? তাহলে আমি সদকা করতাম এবং সৎকর্মীদের অন্তর্ভুক্ত হতাম।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E despendei do que vos damos por sustento, antes que a morte chegue a um de vós e que ele diga: \"Senhor meu! Que me concedas prazo até um termo próximo; então, darei esmola e serei dos íntegros",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Расходуйте из того, чем Мы вас наделили, до того, как вас постигнет смерть и вы скажете: «Господи! Предоставь мне недолгую отсрочку, и я буду раздавать милостыню и стану одним из праведников»",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور جو (مال) ہم نے تم کو دیا ہے اس میں سے اس (وقت) سے پیشتر خرچ کرلو کہ تم میں سے کسی کی موت آجائے تو (اس وقت) کہنے لگے کہ اے میرے پروردگار تو نے مجھے تھوڑی سی اور مہلت کیوں نہ دی تاکہ میں خیرات کرلیتا اور نیک لوگوں میں داخل ہوجاتا",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_063_011",
+      "reference": {
+        "surah_number": 63,
+        "surah_name": "Al-Munaafiqoon",
+        "surah_name_ar": "سُوْرَةُ الْمُنَافِقُوْنَ",
+        "surah_name_translation": "The Hypocrites",
+        "ayah_number": 11,
+        "juz": 28,
+        "revelation_type": "Madina"
+      },
+      "arabic_word_count": 11,
+      "translations": {
+        "ar": {
+          "text": "وَلَن يُؤَخِّرَ ٱللَّهُ نَفۡسًا إِذَا جَآءَ أَجَلُهَاۚ وَٱللَّهُ خَبِيرُۢ بِمَا تَعۡمَلُونَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "But Allah never delays a soul when its appointed time comes. And Allah is All-Aware of what you do",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "但寿限一到，真主绝不让任何人延迟，真主是彻知你们的行为的。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "किन्तु अल्लाह, किसी व्यक्ति को जब तक उसका नियत समय आ जाता है, कदापि मुहलत नहीं देता। और जो कुछ तुम करते हो अल्लाह उसकी पूरी ख़बर रखता है",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Pues Dios no retrasará el momento fijado para cada alma cuando este llegue, y [sepan que] Dios está bien informado de cuanto hacen",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Allah cependant n'accorde jamais de délai à une âme dont le terme est arrivé. Et Allah est Parfaitement Connaisseur de ce que vous faites",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "প্রত্যেক ব্যক্তির নির্ধারিত সময় যখন উপস্থিত হবে, তখন আল্লাহ কাউকে অবকাশ দেবেন না। তোমরা যা কর, আল্লাহ সে বিষয়ে খবর রাখেন।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E Allah não concederá prazo a uma alma, quando seu termo chegar. E Allah, do que fazeis, é Conhecedor",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Аллах не предоставит отсрочки душе, если наступил ее срок. Аллах ведает о том, что вы совершаете",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور جب کسی کی موت آجاتی ہے تو خدا اس کو ہرگز مہلت نہیں دیتا اور جو کچھ تم کرتے ہو خدا اس سے خبردار ہے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    }
+  ]
+}

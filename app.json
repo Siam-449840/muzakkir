@@ -1,0 +1,64 @@
+{
+  "expo": {
+    "name": "Muzakkir – Islamic Reminder",
+    "slug": "muzakkir",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#001A0B"
+    },
+    "assetBundlePatterns": [
+      "assets/images/*",
+      "assets/sounds/*",
+      "assets/icon.png",
+      "assets/splash.png",
+      "assets/adaptive-icon.png",
+      "assets/notification-icon.png",
+      "assets/data/quran_daily_pool.json",
+      "assets/data/hadith_daily_pool.json"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.remindme.islamicdailyreminder",
+      "infoPlist": {
+        "UIBackgroundModes": [
+          "audio",
+          "remote-notification"
+        ]
+      },
+      "icon": "./assets/icon.png"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#001A0B"
+      },
+      "package": "com.remindme.islamicdailyreminder",
+      "permissions": [
+        "RECEIVE_BOOT_COMPLETED",
+        "VIBRATE",
+        "SCHEDULE_EXACT_ALARM",
+        "POST_NOTIFICATIONS"
+      ]
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "plugins": [
+      [
+        "expo-notifications",
+        {
+          "icon": "./assets/notification-icon.png",
+          "color": "#0A4D3C",
+          "sounds": [
+            "./assets/sounds/chime.wav"
+          ]
+        }
+      ]
+    ]
+  }
+}

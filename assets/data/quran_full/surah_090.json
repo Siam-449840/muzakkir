@@ -1,0 +1,1125 @@
+{
+  "surah": 90,
+  "verses": [
+    {
+      "content_id": "quran_090_001",
+      "reference": {
+        "surah_number": 90,
+        "surah_name": "Al-Balad",
+        "surah_name_ar": "سُوْرَةُ الْبَلَدِ",
+        "surah_name_translation": "The City",
+        "ayah_number": 1,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 4,
+      "translations": {
+        "ar": {
+          "text": "لَآ أُقۡسِمُ بِهَٰذَا ٱلۡبَلَدِ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "I do swear by this city ˹of Mecca˺—",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "我以这个地方盟誓",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "सुनो! मैं क़सम खाता हूँ इस नगर (मक्का) की",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Juro por esta ciudad [La Meca]",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Non!... Je jure par cette Cité",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "আমি এই নগরীর শপথ করি",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Juro por esta Cidade",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Нет, клянусь этим городом (Меккой)",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "ہمیں اس شہر (مکہ) کی قسم",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_090_002",
+      "reference": {
+        "surah_number": 90,
+        "surah_name": "Al-Balad",
+        "surah_name_ar": "سُوْرَةُ الْبَلَدِ",
+        "surah_name_translation": "The City",
+        "ayah_number": 2,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 4,
+      "translations": {
+        "ar": {
+          "text": "وَأَنتَ حِلُّۢ بِهَٰذَا ٱلۡبَلَدِ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "even though you ˹O Prophet˺ are subject to abuse in this city—",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "你将在那里，不受羁束",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "हाल यह है कि तुम इसी नगर में रह रहे हो",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "en la que tú resides [¡oh, Mujámmad]",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "et toi, tu es un résident dans cette cité",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "এবং এই নগরীতে আপনার উপর কোন প্রতিবন্ধকতা নেই।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E tu estás residente nesta Cidade",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Ты обитаешь в этом городе (или Тебе будет дозволено сражаться в этом городе)",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور تم اسی شہر میں تو رہتے ہو",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_090_003",
+      "reference": {
+        "surah_number": 90,
+        "surah_name": "Al-Balad",
+        "surah_name_ar": "سُوْرَةُ الْبَلَدِ",
+        "surah_name_translation": "The City",
+        "ayah_number": 3,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 3,
+      "translations": {
+        "ar": {
+          "text": "وَوَالِدࣲ وَمَا وَلَدَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "and by every parent and ˹their˺ child",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "我以一个父亲和他所生的子孙盟誓，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "और बाप और उसकी सन्तान की",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "y juro por el progenitor y su descendencia",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Et par le père et ce qu'il engendre",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "শপথ জনকের ও যা জন্ম দেয়।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E por um genitor e por um gênito",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Клянусь родителем и тем, кого он породил (Адамом и его потомством, или Ибрахимом и его потомками, в том числе Исмаилом и Мухаммадом)",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور باپ (یعنی آدم) اور اس کی اولاد کی قسم",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_090_004",
+      "reference": {
+        "surah_number": 90,
+        "surah_name": "Al-Balad",
+        "surah_name_ar": "سُوْرَةُ الْبَلَدِ",
+        "surah_name_translation": "The City",
+        "ayah_number": 4,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 5,
+      "translations": {
+        "ar": {
+          "text": "لَقَدۡ خَلَقۡنَا ٱلۡإِنسَٰنَ فِي كَبَدٍ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Indeed, We have created humankind in ˹constant˺ struggle",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "我确已把人创造在苦难里。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "निस्संदेह हमने मनुष्य को पूर्ण मशक़्क़त (अनुकूलता और सन्तुलन) के साथ पैदा किया",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "que creé al ser humano para una vida de continuas dificultades",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Nous avons, certes, créé l'homme pour une vie de lutte",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "নিশ্চয় আমি মানুষকে শ্রমনির্ভররূপে সৃষ্টি করেছি।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Com efeito, criamos o ser humano em tribulações",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Мы создали человека в тяготах",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "کہ ہم نے انسان کو تکلیف (کی حالت) میں (رہنے والا) بنایا ہے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_090_005",
+      "reference": {
+        "surah_number": 90,
+        "surah_name": "Al-Balad",
+        "surah_name_ar": "سُوْرَةُ الْبَلَدِ",
+        "surah_name_translation": "The City",
+        "ayah_number": 5,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 6,
+      "translations": {
+        "ar": {
+          "text": "أَيَحۡسَبُ أَن لَّن يَقۡدِرَ عَلَيۡهِ أَحَدࣱ‏",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Do they think that no one has power over them",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "他以为任何人都不能制裁他吗？",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "क्या वह समझता है कि उसपर किसी का बस न चलेगा",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "¿Acaso piensa que nadie tiene poder sobre él",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Pense-t-il que personne ne pourra rien contre lui",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "সে কি মনে করে যে, তার উপর কেউ ক্ষমতাবান হবে না ?",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Supõe ele que ninguém tem poder sobre ele",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Неужели он полагает, что никто не справится с ним",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "کیا وہ خیال رکھتا ہے کہ اس پر کوئی قابو نہ پائے گا",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_090_006",
+      "reference": {
+        "surah_number": 90,
+        "surah_name": "Al-Balad",
+        "surah_name_ar": "سُوْرَةُ الْبَلَدِ",
+        "surah_name_translation": "The City",
+        "ayah_number": 6,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 5,
+      "translations": {
+        "ar": {
+          "text": "يَقُولُ أَهۡلَكۡتُ مَالࣰ ا لُّبَدًا",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "boasting, “I have wasted enormous wealth!”",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "他说：我花费了许多财产！",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "कहता है कि \"मैंने ढेरो माल उड़ा दिया।",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Presume diciendo: \"He derrochado una gran fortuna",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Il dit: «J'ai gaspillé beaucoup de biens»",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "সে বলেঃ আমি প্রচুর ধন-সম্পদ ব্যয় করেছি।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Diz: \"Aniquilei riquezas acumuladas",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Он говорит: «Я погубил богатство несметное!»",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "کہتا ہے کہ میں نے بہت سا مال برباد کیا",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_090_007",
+      "reference": {
+        "surah_number": 90,
+        "surah_name": "Al-Balad",
+        "surah_name_ar": "سُوْرَةُ الْبَلَدِ",
+        "surah_name_translation": "The City",
+        "ayah_number": 7,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 5,
+      "translations": {
+        "ar": {
+          "text": "أَيَحۡسَبُ أَن لَّمۡ يَرَهُۥٓ أَحَدٌ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Do they think that no one sees them",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "他以为任何人都没有看见他吗？",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "क्या वह समझता है कि किसी ने उसे देखा नहीं",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "¿Acaso cree que nadie lo ve",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Pense-t-il que nul ne l'a vu",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "সে কি মনে করে যে, তাকে কেউ দেখেনি?",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Supõe ele que ninguém o viu",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Неужели он полагает, что никто не видел его",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "کیا اسے یہ گمان ہے کہ اس کو کسی نے دیکھا نہیں",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_090_008",
+      "reference": {
+        "surah_number": 90,
+        "surah_name": "Al-Balad",
+        "surah_name_ar": "سُوْرَةُ الْبَلَدِ",
+        "surah_name_translation": "The City",
+        "ayah_number": 8,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 4,
+      "translations": {
+        "ar": {
+          "text": "أَلَمۡ نَجۡعَل لَّهُۥ عَيۡنَيۡنِ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Have We not given them two eyes",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "难道我没有为他创造两只眼睛、",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "क्या हमने उसे नहीं दी दो आँखें",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "¿Acaso no le he dado dos ojos",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Ne lui avons Nous pas assigné deux yeux",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "আমি কি তাকে দেইনি চক্ষুদ্বয়,",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Não Ihe fizemos dois olhos",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Разве Мы не наделили его двумя глазами",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "بھلا ہم نےاس کو دو آنکھیں نہیں دیں؟",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_090_009",
+      "reference": {
+        "surah_number": 90,
+        "surah_name": "Al-Balad",
+        "surah_name_ar": "سُوْرَةُ الْبَلَدِ",
+        "surah_name_translation": "The City",
+        "ayah_number": 9,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 3,
+      "translations": {
+        "ar": {
+          "text": "وَلِسَانࣰ ا وَشَفَتَيۡنِ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "a tongue, and two lips",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "一条舌头、两片嘴唇，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "और एक ज़बान और दो होंठ",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "una lengua y dos labios",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "et une langue et deux lèvres",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "জিহবা ও ওষ্ঠদ্বয় ?",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E uma língua e dois lábios",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "языком и двумя устами",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور زبان اور دو ہونٹ (نہیں دیئے)",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_090_010",
+      "reference": {
+        "surah_number": 90,
+        "surah_name": "Al-Balad",
+        "surah_name_ar": "سُوْرَةُ الْبَلَدِ",
+        "surah_name_translation": "The City",
+        "ayah_number": 10,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 2,
+      "translations": {
+        "ar": {
+          "text": "وَهَدَيۡنَٰهُ ٱلنَّجۡدَيۡنِ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "and shown them the two ways ˹of right and wrong˺",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "并指示他两条明显的道路吗？",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "और क्या ऐसा नहीं है कि हमने दिखाई उसे दो ऊँचाइयाँ",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "y le he mostrado los dos senderos [el del bien y el del mal]",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Ne l'avons-Nous pas guidé aux deux voies",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "বস্তুতঃ আমি তাকে দু’টি পথ প্রদর্শন করেছি।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E indicamo-lhe os dois rumos",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Разве Мы не указали ему на две восходящие тропы",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "(یہ چیزیں بھی دیں) اور اس کو (خیر و شر کے) دونوں رستے بھی دکھا دیئے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_090_011",
+      "reference": {
+        "surah_number": 90,
+        "surah_name": "Al-Balad",
+        "surah_name_ar": "سُوْرَةُ الْبَلَدِ",
+        "surah_name_translation": "The City",
+        "ayah_number": 11,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 3,
+      "translations": {
+        "ar": {
+          "text": "فَلَا ٱقۡتَحَمَ ٱلۡعَقَبَةَ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "If only they had attempted the challenging path ˹of goodness instead˺",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "他怎麽不超越山径呢？",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "किन्तु वह तो हुमककर घाटी में से गुजंरा ही नहीं और (न उसने मुक्ति का मार्ग पाया)",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Pero no está dispuesto a tomar el camino del esfuerzo",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Or, il ne s'engage pas dans la voie difficile",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "অতঃপর সে ধর্মের ঘাঁটিতে প্রবেশ করেনি।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Então, ele não enfrenta o obstáculo",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Но он не стал преодолевать крутую тропу",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "مگر وہ گھاٹی پر سے ہو کر نہ گزرا",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_090_012",
+      "reference": {
+        "surah_number": 90,
+        "surah_name": "Al-Balad",
+        "surah_name_ar": "سُوْرَةُ الْبَلَدِ",
+        "surah_name_translation": "The City",
+        "ayah_number": 12,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 4,
+      "translations": {
+        "ar": {
+          "text": "وَمَآ أَدۡرَىٰكَ مَا ٱلۡعَقَبَةُ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "And what will make you realize what ˹attempting˺ the challenging path is",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "你怎能知道超越山径是什麽事？",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "और तुम्हें क्या मालूम कि वह घाटी क्या है",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "¿Y qué te hará comprender lo que es el camino del esfuerzo",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Et qui te dira ce qu'est la voie difficile",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "আপনি জানেন, সে ঘাঁটি কি?",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E o que te faz inteirar-te do que é o obstáculo",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Откуда ты мог знать, что такое крутая тропа",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور تم کیا سمجھے کہ گھاٹی کیا ہے؟",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_090_013",
+      "reference": {
+        "surah_number": 90,
+        "surah_name": "Al-Balad",
+        "surah_name_ar": "سُوْرَةُ الْبَلَدِ",
+        "surah_name_translation": "The City",
+        "ayah_number": 13,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 2,
+      "translations": {
+        "ar": {
+          "text": "فَكُّ رَقَبَةٍ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "It is to free a slave",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "是释放奴隶，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "किसी गरदन का छुड़ाना",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Es liberar [al esclavo] de la esclavitud",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "C'est délier un joug [affranchir un esclave]",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "তা হচ্ছে দাসমুক্তি",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E libertar um escravo",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Это - освобождение раба",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "کسی (کی) گردن کا چھڑانا",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_090_014",
+      "reference": {
+        "surah_number": 90,
+        "surah_name": "Al-Balad",
+        "surah_name_ar": "سُوْرَةُ الْبَلَدِ",
+        "surah_name_translation": "The City",
+        "ayah_number": 14,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 6,
+      "translations": {
+        "ar": {
+          "text": "أَوۡ إِطۡعَٰمࣱ فِي يَوۡمࣲ ذِي مَسۡغَبَةࣲ‏",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "or to give food in times of famine",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "或在饥荒日赈济",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "या भूख के दिन खाना खिलाना",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "y dar alimentos en días de hambre",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "ou nourrir, en un jour de famine",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "অথবা দুর্ভিক্ষের দিনে অন্নদান।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Ou alimentar, em dia de penúria",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "или кормление в голодный день",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "یا بھوک کے دن کھانا کھلانا",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_090_015",
+      "reference": {
+        "surah_number": 90,
+        "surah_name": "Al-Balad",
+        "surah_name_ar": "سُوْرَةُ الْبَلَدِ",
+        "surah_name_translation": "The City",
+        "ayah_number": 15,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 4,
+      "translations": {
+        "ar": {
+          "text": "يَتِيمࣰ ا ذَا مَقۡرَبَةٍ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "to an orphaned relative",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "亲戚的孤儿，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "किसी निकटवर्ती अनाथ को",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "al pariente huérfano",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "un orphelin proche parent",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "এতীম আত্বীয়কে",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Um órfão aparentado",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "сироту из числа родственников",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "یتیم رشتہ دار کو",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_090_016",
+      "reference": {
+        "surah_number": 90,
+        "surah_name": "Al-Balad",
+        "surah_name_ar": "سُوْرَةُ الْبَلَدِ",
+        "surah_name_translation": "The City",
+        "ayah_number": 16,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 5,
+      "translations": {
+        "ar": {
+          "text": "أَوۡ مِسۡكِينࣰ ا ذَا مَتۡرَبَةࣲ‏",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "or to a poor person in distress",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "或困穷的贫民；",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "या धूल-धूसरित मुहताज को",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "o al pobre hundido en la miseria",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "ou un pauvre dans le dénuement",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "অথবা ধুলি-ধুসরিত মিসকীনকে",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Ou um necessitado empoeirado pela miséria",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "или приникшего к земле бедняка",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "یا فقیر خاکسار کو",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_090_017",
+      "reference": {
+        "surah_number": 90,
+        "surah_name": "Al-Balad",
+        "surah_name_ar": "سُوْرَةُ الْبَلَدِ",
+        "surah_name_translation": "The City",
+        "ayah_number": 17,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 9,
+      "translations": {
+        "ar": {
+          "text": "ثُمَّ كَانَ مِنَ ٱلَّذِينَ ءَامَنُواْ وَتَوَاصَوۡاْ بِٱلصَّبۡرِ وَتَوَاصَوۡاْ بِٱلۡمَرۡحَمَةِ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "and—above all—to be one of those who have faith and urge each other to perseverance and urge each other to compassion",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "同时，他是一个信道而且行善，并以坚忍相勉，以慈悯相助者。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "फिर यह कि वह उन लोगों में से हो जो ईमान लाए और जिन्होंने एक-दूसरे को धैर्य की ताकीद की , और एक-दूसरे को दया की ताकीद की",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Y ser, además, de los creyentes que se aconsejan mutuamente ser perseverantes [en el camino del esfuerzo y de la fe] y ser misericordiosos [con el prójimo]",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Et c'est être, en outre, de ceux qui croient et s'enjoignent mutuellement l'endurance, et s'enjoignent mutuellement la miséricorde",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "অতঃপর তাদের অন্তর্ভুক্ত হওয়া, যারা ঈমান আনে এবং পরস্পরকে উপদেশ দেয় সবরের ও উপদেশ দেয় দয়ার।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Em seguida, é ser dos que crêem e se recomendam, mutuamente, a paciência, e se recomendam, mutuamente, a misericórdia",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "А после этого надо быть одним из тех, которые уверовали и заповедали друг другу терпение и заповедали друг другу милосердие",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "پھر ان لوگوں میں بھی (داخل) ہو جو ایمان لائے اور صبر کی نصیحت اور (لوگوں پر) شفقت کرنے کی وصیت کرتے رہے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_090_018",
+      "reference": {
+        "surah_number": 90,
+        "surah_name": "Al-Balad",
+        "surah_name_ar": "سُوْرَةُ الْبَلَدِ",
+        "surah_name_translation": "The City",
+        "ayah_number": 18,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 3,
+      "translations": {
+        "ar": {
+          "text": "أُوْلَٰٓئِكَ أَصۡحَٰبُ ٱلۡمَيۡمَنَةِ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "These are the people of the right",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "这等人是幸福的。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "वही लोग है सौभाग्यशाली",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Estos son los bienaventurados de la derecha",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Ceux-là sont les gens de la droite",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "তারাই সৌভাগ্যশালী।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Esses são os companheiros da direita",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Таковы люди правой стороны",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "یہی لوگ صاحب سعادت ہیں",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_090_019",
+      "reference": {
+        "surah_number": 90,
+        "surah_name": "Al-Balad",
+        "surah_name_ar": "سُوْرَةُ الْبَلَدِ",
+        "surah_name_translation": "The City",
+        "ayah_number": 19,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 6,
+      "translations": {
+        "ar": {
+          "text": "وَٱلَّذِينَ كَفَرُواْ بِـَٔايَٰتِنَا هُمۡ أَصۡحَٰبُ ٱلۡمَشۡـَٔمَةِ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "As for those who deny Our signs, they are the people of the left",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "不信我的迹象者，是薄命的，",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "रहे वे लोग जिन्होंने हमारी आयातों का इनकार किया, वे दुर्भाग्यशाली लोग है",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Mientras que quienes rechacen Mi revelación serán los desventurados de la izquierda",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "alors que ceux qui ne croient pas en Nos versets sont les gens de la gauche",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "আর যারা আমার আয়াতসমূহ অস্বীকার করে তারাই হতভাগা।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E os que renegam a Fé e desmentem Nossos sinais, esses são os companheiros da esquerda",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Те же, которые не уверовали в Наши знамения, являются людьми левой стороны",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور جنہوں نے ہماری آیتوں کو نہ مانا وہ بدبخت ہیں",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_090_020",
+      "reference": {
+        "surah_number": 90,
+        "surah_name": "Al-Balad",
+        "surah_name_ar": "سُوْرَةُ الْبَلَدِ",
+        "surah_name_translation": "The City",
+        "ayah_number": 20,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 3,
+      "translations": {
+        "ar": {
+          "text": "عَلَيۡهِمۡ نَارࣱ مُّؤۡصَدَةُۢ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "The Fire will be sealed over them",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "他们将被关在火狱里。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "उनपर आग होगी, जिसे बन्द कर दिया गया होगा",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "y el fuego se cercará sobre ellos",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Le Feu se refermera sur eux",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "তারা অগ্নিপরিবেষ্টিত অবস্থায় বন্দী থাকবে।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Haverá, sobre eles, um Fogo cerrado",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "над которыми сомкнется Огонь",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "یہ لوگ آگ میں بند کر دیئے جائیں گے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    }
+  ]
+}

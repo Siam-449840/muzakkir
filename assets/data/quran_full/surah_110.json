@@ -1,0 +1,173 @@
+{
+  "surah": 110,
+  "verses": [
+    {
+      "content_id": "quran_110_001",
+      "reference": {
+        "surah_number": 110,
+        "surah_name": "An-Nasr",
+        "surah_name_ar": "سُوْرَةُ النَّصْرِ",
+        "surah_name_translation": "Divine Support",
+        "ayah_number": 1,
+        "juz": 30,
+        "revelation_type": "Madina"
+      },
+      "arabic_word_count": 5,
+      "translations": {
+        "ar": {
+          "text": "إِذَا جَآءَ نَصۡرُ ٱللَّهِ وَٱلۡفَتۡحُ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "When Allah’s ˹ultimate˺ help comes and the victory ˹over Mecca is achieved˺",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "当真主的援助和胜利降临",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "जब अल्लाह की सहायता आ जाए और विजय प्राप्त हो",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "[¡Oh, Mujámmad!] Cuando llegue el socorro de Dios y la victoria",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Lorsque vient le secours d'Allah ainsi que la victoire",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "যখন আসবে আল্লাহর সাহায্য ও বিজয়",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Quando chegar o socorro de Allah e também a vitória",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Когда придет помощь Аллаха и настанет победа",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "جب خدا کی مدد آ پہنچی اور فتح (حاصل ہو گئی)",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_110_002",
+      "reference": {
+        "surah_number": 110,
+        "surah_name": "An-Nasr",
+        "surah_name_ar": "سُوْرَةُ النَّصْرِ",
+        "surah_name_translation": "Divine Support",
+        "ayah_number": 2,
+        "juz": 30,
+        "revelation_type": "Madina"
+      },
+      "arabic_word_count": 8,
+      "translations": {
+        "ar": {
+          "text": "وَرَأَيۡتَ ٱلنَّاسَ يَدۡخُلُونَ فِي دِينِ ٱللَّهِ أَفۡوَاجࣰ ا",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "and you ˹O Prophet˺ see the people embracing Allah’s Way in crowds",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "而你看见众人成群结队地崇奉真主的宗教时",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "और तुम लोगों को देखो कि वे अल्लाह के दीन (धर्म) में गिरोह के गिरोह प्रवेश कर रहे है",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "y veas a la gente ingresar en masa a la religión de Dios",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "et que tu vois les gens entrer en foule dans la religion d'Allah",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "এবং আপনি মানুষকে দলে দলে আল্লাহর দ্বীনে প্রবেশ করতে দেখবেন,",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "E vires os homens entrarem na religião de Allah, em turbas",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "когда ты увидишь, как люди толпами обращаются в религию Аллаха",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "اور تم نے دیکھ لیا کہ لوگ غول کے غول خدا کے دین میں داخل ہو رہے ہیں",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_110_003",
+      "reference": {
+        "surah_number": 110,
+        "surah_name": "An-Nasr",
+        "surah_name_ar": "سُوْرَةُ النَّصْرِ",
+        "surah_name_translation": "Divine Support",
+        "ayah_number": 3,
+        "juz": 30,
+        "revelation_type": "Madina"
+      },
+      "arabic_word_count": 7,
+      "translations": {
+        "ar": {
+          "text": "فَسَبِّحۡ بِحَمۡدِ رَبِّكَ وَٱسۡتَغۡفِرۡهُۚ إِنَّهُۥ كَانَ تَوَّابَۢا",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "then glorify the praises of your Lord and seek His forgiveness, for certainly He is ever Accepting of Repentance",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "你应当赞颂你的主超绝万物, 并且向他求饶, 他确是至宥的。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "तो अपने रब की प्रशंसा करो और उससे क्षमा चाहो। निस्संदेह वह बड़ा तौबा क़बूल करनेवाला है",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "glorifica alabando a tu Señor y pide Su perdón; Él es Indulgente",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "alors, par la louange, célèbre la gloire de ton Seigneur et implore Son pardon. Car c'est Lui le grand Accueillant au repentir",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "তখন আপনি আপনার পালনকর্তার পবিত্রতা বর্ণনা করুন এবং তাঁর কাছে ক্ষমা প্রার্থনা করুন। নিশ্চয় তিনি ক্ষমাকারী।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Então glorifica, com louvor, a teu Senhor e implora-Lhe perdão. Por certo, Ele é O remissório",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "восславь же хвалой Господа своего и попроси у Него прощения. Воистину, Он - Принимающий покаяния",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "تو اپنے پروردگار کی تعریف کے ساتھ تسبیح کرو اور اس سے مغفرت مانگو، بے شک وہ معاف کرنے والا ہے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    }
+  ]
+}

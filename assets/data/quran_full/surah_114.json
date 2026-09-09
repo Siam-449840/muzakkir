@@ -1,0 +1,341 @@
+{
+  "surah": 114,
+  "verses": [
+    {
+      "content_id": "quran_114_001",
+      "reference": {
+        "surah_number": 114,
+        "surah_name": "An-Naas",
+        "surah_name_ar": "سُوْرَةُ النَّاسِ",
+        "surah_name_translation": "Mankind",
+        "ayah_number": 1,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 4,
+      "translations": {
+        "ar": {
+          "text": "قُلۡ أَعُوذُ بِرَبِّ ٱلنَّاسِ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "Say, ˹O Prophet,˺ “I seek refuge in the Lord of humankind",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "你说: 我求庇于世人的主宰",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "कहो, \"मैं शरण लेता हूँ मनुष्यों के रब की",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "Di: \"Me refugio en el Señor de los seres humanos",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Dis: «Je cherche protection auprès du Seigneur des hommes",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "বলুন, আমি আশ্রয় গ্রহণ করিতেছি মানুষের পালনকর্তার,",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Dize: \"Refugio-me nO Senhor dos homens",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Скажи: «Прибегаю к защите Господа людей",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "کہو کہ میں لوگوں کے پروردگار کی پناہ مانگتا ہوں",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_114_002",
+      "reference": {
+        "surah_number": 114,
+        "surah_name": "An-Naas",
+        "surah_name_ar": "سُوْرَةُ النَّاسِ",
+        "surah_name_translation": "Mankind",
+        "ayah_number": 2,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 2,
+      "translations": {
+        "ar": {
+          "text": "مَلِكِ ٱلنَّاسِ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "the Master of humankind",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "世人的君王",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "मनुष्यों के सम्राट की",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "en el Rey Soberano de los seres humanos",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Le Souverain des hommes",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "মানুষের অধিপতির,",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "O Rei dos homens",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Царя людей",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "(یعنی) لوگوں کے حقیقی بادشاہ کی",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_114_003",
+      "reference": {
+        "surah_number": 114,
+        "surah_name": "An-Naas",
+        "surah_name_ar": "سُوْرَةُ النَّاسِ",
+        "surah_name_translation": "Mankind",
+        "ayah_number": 3,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 2,
+      "translations": {
+        "ar": {
+          "text": "إِلَٰهِ ٱلنَّاسِ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "the God of humankind",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "世人的神明",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "मनुष्यों के उपास्य की",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "en el [único] Dios de los seres humanos",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "Dieu des hommes",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "মানুষের মা’বুদের",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "O Deus dos homens",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "Бога людей",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "لوگوں کے معبود برحق کی",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_114_004",
+      "reference": {
+        "surah_number": 114,
+        "surah_name": "An-Naas",
+        "surah_name_ar": "سُوْرَةُ النَّاسِ",
+        "surah_name_translation": "Mankind",
+        "ayah_number": 4,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 4,
+      "translations": {
+        "ar": {
+          "text": "مِن شَرِّ ٱلۡوَسۡوَاسِ ٱلۡخَنَّاسِ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "from the evil of the lurking whisperer—",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "免遭潜伏的教唆者的毒害",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "वसवसा डालनेवाले, खिसक जानेवाले की बुराई से",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "de la maldad del [demonio] susurrador que huye [cuando el nombre de Dios es mencionado]",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "contre le mal du mauvais conseiller, furtif",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "তার অনিষ্ট থেকে, যে কুমন্ত্রণা দেয় ও আত্নগোপন করে,",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Contra o mal do sussurrador, o absconso",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "от зла искусителя отступающего (или сжимающегося) при поминании Аллаха",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "(شیطان) وسوسہ انداز کی برائی سے جو (خدا کا نام سن کر) پیچھے ہٹ جاتا ہے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_114_005",
+      "reference": {
+        "surah_number": 114,
+        "surah_name": "An-Naas",
+        "surah_name_ar": "سُوْرَةُ النَّاسِ",
+        "surah_name_translation": "Mankind",
+        "ayah_number": 5,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 5,
+      "translations": {
+        "ar": {
+          "text": "ٱلَّذِي يُوَسۡوِسُ فِي صُدُورِ ٱلنَّاسِ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "who whispers into the hearts of humankind—",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "他在世人的胸中教唆",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "जो मनुष्यों के सीनों में वसवसा डालता हैं",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "que susurra en los corazones de los seres humanos",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "qui souffle le mal dans les poitrines des hommes",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "যে কুমন্ত্রণা দেয় মানুষের অন্তরে",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Que sussurra perfídias nos peitos dos homens",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "который наущает в груди людей",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "جو لوگوں کے دلوں میں وسوسے ڈالتا ہے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    },
+    {
+      "content_id": "quran_114_006",
+      "reference": {
+        "surah_number": 114,
+        "surah_name": "An-Naas",
+        "surah_name_ar": "سُوْرَةُ النَّاسِ",
+        "surah_name_translation": "Mankind",
+        "ayah_number": 6,
+        "juz": 30,
+        "revelation_type": "Mecca"
+      },
+      "arabic_word_count": 3,
+      "translations": {
+        "ar": {
+          "text": "مِنَ ٱلۡجِنَّةِ وَٱلنَّاسِ",
+          "translator": "Original Arabic revelation"
+        },
+        "en": {
+          "text": "from among jinn and humankind.”",
+          "translator": "Dr. Mustafa Khattab"
+        },
+        "zh": {
+          "text": "他是属于精灵和人类的。",
+          "translator": "Ma Jian (马坚)"
+        },
+        "hi": {
+          "text": "जो जिन्नों में से भी होता हैं और मनुष्यों में से भी",
+          "translator": "Muhammad Farooq Khan & Muhammad Ahmed"
+        },
+        "es": {
+          "text": "y existe entre los yinnes y entre los seres humanos",
+          "translator": "Muhammad Isa Garcia"
+        },
+        "fr": {
+          "text": "qu'il (le conseiller) soit un djinn, ou un être humain»",
+          "translator": "Muhammad Hamidullah"
+        },
+        "bn": {
+          "text": "জ্বিনের মধ্য থেকে অথবা মানুষের মধ্য থেকে।",
+          "translator": "Maulana Muhiuddin Khan",
+          "source": "Tanzil (tanzil.net/trans/bn.bengali)"
+        },
+        "pt": {
+          "text": "Seja ele dos jinns, seja ele dos homens",
+          "translator": "Helmi Nasr"
+        },
+        "ru": {
+          "text": "и бывает из джиннов и людей»",
+          "translator": "Elmir Kuliev"
+        },
+        "ur": {
+          "text": "وہ جنّات میں سے (ہو) یا انسانوں میں سے",
+          "translator": "Fateh Muhammad Jalandhry"
+        }
+      }
+    }
+  ]
+}
