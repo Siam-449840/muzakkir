@@ -5,12 +5,13 @@ import {
   StyleSheet,
   Pressable,
   ScrollView,
-  SafeAreaView,
   Platform,
   AppState,
   AppStateStatus,
   Alert,
+  StatusBar,
 } from 'react-native';
+import { useSafeAreaInsets } from 'react-native-safe-area-context';
 import AsyncStorage from '@react-native-async-storage/async-storage';
 import { colors } from '../theme/colors';
 import { saveUserSettings, defaultSettings } from '../database/db';
@@ -58,6 +59,9 @@ interface OnboardingScreenProps {
 }
 
 export const OnboardingScreen: React.FC<OnboardingScreenProps> = ({ onComplete }) => {
+  const insets = useSafeAreaInsets();
+  const topInset = Math.max(insets.top, Platform.OS === 'android' ? (StatusBar.currentHeight ?? 0) : 0);
+
   const [step, setStep] = useState<number>(0); // 0=lang, 1=frequency, 2=times, 3=permissions
   const [language, setLanguage] = useState<SupportedQuranLanguage>('en');
   const [frequency, setFrequency] = useState<DailyFrequency>(3);
@@ -585,9 +589,9 @@ export const OnboardingScreen: React.FC<OnboardingScreenProps> = ({ onComplete }
   );
 
   return (
-    <SafeAreaView style={styles.safeArea}>
+    <View style={styles.safeArea}>
       {/* Top Progress Dots */}
-      <View style={styles.progressRow}>
+      <View style={[styles.progressRow, { paddingTop: topInset + 14 }]}>
         {[0, 1, 2, 3].map(i => (
           <View
             key={i}
@@ -611,7 +615,7 @@ export const OnboardingScreen: React.FC<OnboardingScreenProps> = ({ onComplete }
         onConfirm={handleConfirmPickerTime}
         onCancel={() => setPickerVisible(false)}
       />
-    </SafeAreaView>
+    </View>
   );
 };
 
@@ -624,7 +628,6 @@ const styles = StyleSheet.create({
     flexDirection: 'row',
     justifyContent: 'center',
     gap: 8,
-    paddingTop: 16,
     paddingBottom: 8,
   },
   progressDot: {

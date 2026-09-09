@@ -32,10 +32,74 @@ class ReminderAlarmReceiver : BroadcastReceiver() {
             ACTION_REMINDER_ALARM -> {
                 handleReminderAlarm(context, intent)
             }
+            ACTION_SCHEDULE_TEST_ALARM -> {
+                handleScheduleTestAlarm(context, intent)
+            }
             else -> {
                 android.util.Log.w("ReminderAlarmReceiver", "Ignoring unknown action: $action")
             }
         }
+    }
+
+    private fun handleScheduleTestAlarm(context: Context, intent: Intent) {
+        val callingUid = android.os.Binder.getCallingUid()
+        val appUid = context.applicationInfo.uid
+        val isPrivileged = callingUid == android.os.Process.SHELL_UID ||
+                           callingUid == android.os.Process.ROOT_UID ||
+                           callingUid == appUid ||
+                           BuildConfig.DEBUG
+        if (!isPrivileged) {
+            android.util.Log.w("ReminderSecurity", "REJECTED_UNAUTHORIZED_TEST_ALARM: callingUid=$callingUid")
+            return
+        }
+        val delaySeconds = intent.getIntExtra("delay_seconds", 10)
+        val now = System.currentTimeMillis()
+        val triggerTime = now + (delaySeconds * 1000L)
+        val testContentId = intent.getStringExtra("content_id") ?: "quran_test_alarm_${System.currentTimeMillis()}"
+        val testReference = intent.getStringExtra("reference") ?: "Surah Al-Baqarah 2:255"
+        val testArabic = intent.getStringExtra("arabic") ?: "اللَّهُ لَا إِلَٰهَ إِلَّا هُوَ الْحَيُّ الْقَيُّومُ"
+        val testTranslation = intent.getStringExtra("translation")
+            ?: "Allah - there is no deity except Him, the Ever-Living, the Sustainer of [all] existence."
+        val testLanguage = intent.getStringExtra("language") ?: "en"
+
+        val record = AlarmRecord(
+            contentId = testContentId,
+            contentType = "quran",
+            reference = testReference,
+            arabic = testArabic,
+            translation = testTranslation,
+            badge = "কুরআনুল কারীম · স্মরণ",
+            category = "Daily Reminder",
+            reflection = "Test reflection to verify exact alarm and overlay pipeline under battery saving.",
+            narrator = null,
+            grade = null,
+            chapterTitle = "Al-Baqarah",
+            sectionTitle = "Ayat al-Kursi",
+            note = null,
+            collectionKey = null,
+            hadithNumber = null,
+            surahNumber = "2",
+            ayahStart = "255",
+            ayahEnd = "255",
+            language = testLanguage,
+            triggerAtMillis = triggerTime,
+            dateStr = "",
+            timeStr = ""
+        )
+
+        AlarmStorage.saveAlarm(context, record)
+        val alarmManager = context.getSystemService(Context.ALARM_SERVICE) as AlarmManager
+        scheduleNativeAlarm(context, alarmManager, record)
+
+        val pm = context.getSystemService(Context.POWER_SERVICE) as? android.os.PowerManager
+        val powerSave = pm?.isPowerSaveMode ?: false
+        val idleMode = if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.M) pm?.isDeviceIdleMode ?: false else false
+        val interactive = if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.KITKAT_WATCH) pm?.isInteractive ?: true else true
+
+        android.util.Log.i(
+            "ReminderDiagnostics",
+            "TEST_ALARM_SCHEDULED: id=$testContentId, delay=${delaySeconds}s, triggerAt=$triggerTime, powerSave=$powerSave, idleMode=$idleMode, interactive=$interactive"
+        )
     }
 
     private fun handleBootOrPackageReplaced(context: Context) {
@@ -219,10 +283,10 @@ class ReminderAlarmReceiver : BroadcastReceiver() {
             return
         }
 
-        android.util.Log.i(
-            "ReminderTelemetry",
-            "ALARM_RECEIVED: id=$contentId, lang=$language, scheduled=$scheduledTime, received=$receiveTime, deviation=${alarmDeviationMs}ms"
-        )
+        val pm = context.getSystemService(Context.POWER_SERVICE) as? android.os.PowerManager
+        val powerSave = pm?.isPowerSaveMode ?: false
+        val idleMode = if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.M) pm?.isDeviceIdleMode ?: false else false
+        val interactive = if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.KITKAT_WATCH) pm?.isInteractive ?: true else true
 
         // Check if user has granted "Display over other apps" (SYSTEM_ALERT_WINDOW)
         val canDrawOverlay = if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.M) {
@@ -230,6 +294,15 @@ class ReminderAlarmReceiver : BroadcastReceiver() {
         } else {
             true
         }
+
+        android.util.Log.i(
+            "ReminderTelemetry",
+            "ALARM_RECEIVED: id=$contentId, lang=$language, scheduled=$scheduledTime, received=$receiveTime, deviation=${alarmDeviationMs}ms"
+        )
+        android.util.Log.i(
+            "ReminderDiagnostics",
+            "ALARM_RECEIVED: id=$contentId, scheduled=$scheduledTime, received=$receiveTime, deviation=${alarmDeviationMs}ms, powerSave=$powerSave, idleMode=$idleMode, interactive=$interactive, canDrawOverlay=$canDrawOverlay"
+        )
 
         val forceFallback = intent.getBooleanExtra("extra_force_fallback", false)
         if (canDrawOverlay && !forceFallback) {
@@ -257,12 +330,15 @@ class ReminderAlarmReceiver : BroadcastReceiver() {
                 putExtra("extra_receive_time", receiveTime)
             }
             try {
+                android.util.Log.i("ReminderDiagnostics", "FGS_START_DISPATCH: id=$contentId, target=OverlayReminderService")
                 if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.O) {
                     context.startForegroundService(overlayIntent)
                 } else {
                     context.startService(overlayIntent)
                 }
+                android.util.Log.i("ReminderDiagnostics", "FGS_START_DISPATCH_SUCCESS: id=$contentId")
             } catch (e: Exception) {
+                android.util.Log.e("ReminderDiagnostics", "FGS_START_DISPATCH_FAILED: id=$contentId, exception=${e.javaClass.simpleName}, message=${e.message}", e)
                 android.util.Log.e("ReminderAlarmReceiver", "Failed to start overlay service, falling back to notification", e)
                 showFallbackNotification(
                     context = context,
@@ -282,6 +358,7 @@ class ReminderAlarmReceiver : BroadcastReceiver() {
                 )
             }
         } else {
+            android.util.Log.i("ReminderDiagnostics", "FALLBACK_NOTIFICATION_DIRECT: id=$contentId, canDrawOverlay=$canDrawOverlay, forceFallback=$forceFallback")
             showFallbackNotification(
                 context = context,
                 contentId = contentId,
@@ -309,6 +386,7 @@ class ReminderAlarmReceiver : BroadcastReceiver() {
 
     companion object {
         const val ACTION_REMINDER_ALARM = "com.remindme.islamicdailyreminder.ACTION_REMINDER_ALARM"
+        const val ACTION_SCHEDULE_TEST_ALARM = "com.remindme.islamicdailyreminder.ACTION_SCHEDULE_TEST_ALARM"
         const val EXTRA_CONTENT_ID = "extra_content_id"
         const val EXTRA_CONTENT_TYPE = "extra_content_type"
         const val EXTRA_REFERENCE = "extra_reference"

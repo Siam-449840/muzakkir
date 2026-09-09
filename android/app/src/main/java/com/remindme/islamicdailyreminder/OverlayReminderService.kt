@@ -44,6 +44,16 @@ class OverlayReminderService : Service() {
         val contentId = intent.getStringExtra(EXTRA_CONTENT_ID) ?: ""
         val translation = intent.getStringExtra(EXTRA_TRANSLATION) ?: ""
 
+        val pm = getSystemService(Context.POWER_SERVICE) as? android.os.PowerManager
+        val powerSave = pm?.isPowerSaveMode ?: false
+        val idleMode = if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.M) pm?.isDeviceIdleMode ?: false else false
+        val interactive = if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.KITKAT_WATCH) pm?.isInteractive ?: true else true
+
+        android.util.Log.i(
+            "ReminderDiagnostics",
+            "SERVICE_ON_START_COMMAND: id=$contentId, powerSave=$powerSave, idleMode=$idleMode, interactive=$interactive"
+        )
+
         // Validate payload: abort cleanly if content is blank
         if (contentId.isBlank() || translation.isBlank()) {
             android.util.Log.w("OverlayReminderService", "Aborting overlay with blank contentId or translation")
@@ -451,7 +461,12 @@ class OverlayReminderService : Service() {
                 "ReminderTelemetry",
                 "OVERLAY_ATTACHED: renderTime=$renderTime, renderLatencyMs=${renderLatencyMs}ms, totalDeviationFromScheduled=${totalDeviationMs}ms"
             )
+            android.util.Log.i(
+                "ReminderDiagnostics",
+                "OVERLAY_ATTACH_SUCCESS: id=$contentId, renderLatencyMs=${renderLatencyMs}ms, totalDeviationMs=${totalDeviationMs}ms"
+            )
         } catch (e: Exception) {
+            android.util.Log.e("ReminderDiagnostics", "OVERLAY_ATTACH_FAILED: id=$contentId, exception=${e.javaClass.simpleName}, message=${e.message}", e)
             android.util.Log.e("OverlayReminderService", "Failed to add overlay view, falling back to notification", e)
             ReminderAlarmReceiver.showFallbackNotification(
                 context = this,
